@@ -1,15 +1,22 @@
 {
   "name": "fastify-vercel",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Fastify vercel serverless starter template",
+  "author": "Ashish Kumar",
+  "main": "api/server.js",
   "scripts": {
+    "dev": "tsx -r dotenv/config api/dev-server.ts dotenv_config_path=.env.development dotenv_config_debug=true",
     "start": "vercel dev",
-    "dev": "tsx -r dotenv/config api/dev-server.ts dotenv_config_path=.env.development dotenv_config_debug=true"
+    "deploy:dev": "vercel deploy",
+    "deploy:prod": "vercel deploy --prod"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": [
+    "fastify",
+    "vercel",
+    "node",
+    "serverless"
+  ],
+  "license": "MIT",
   "dependencies": {
     "dotenv": "^16.3.1",
     "fastify": "^4.25.2",
