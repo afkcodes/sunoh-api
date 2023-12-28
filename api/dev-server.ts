@@ -1,8 +1,9 @@
 import * as dotenv from "dotenv";
-dotenv.config();
 
 // Require the framework
 import Fastify from "fastify";
+
+dotenv.config();
 
 // Instantiate Fastify with some config
 const app = Fastify({

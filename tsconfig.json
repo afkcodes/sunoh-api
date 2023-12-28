@@ -1,28 +1,26 @@
 {
   "compileOnSave": false,
   "compilerOptions": {
-    "target": "ESNext",
-    "lib": ["ESNext", "esnext.asynciterable"],
+    "target": "ES2015",
+    "lib": ["ES2022", "esnext.asynciterable", "DOM"],
     "typeRoots": ["node_modules/@types"],
     "allowSyntheticDefaultImports": true,
     "experimentalDecorators": true,
     "emitDecoratorMetadata": true,
     "forceConsistentCasingInFileNames": true,
-    "moduleResolution": "node",
-    "module": "commonjs",
-    "strict": true,
-    "strictPropertyInitialization": false,
+    "module": "CommonJS",
+    "moduleResolution": "Node",
+    "esModuleInterop": true, // Eases ESM support
     "pretty": true,
     "sourceMap": false,
     "declaration": true,
-    "outDir": "./public",
+    "outDir": "dist",
     "allowJs": true,
     "noEmit": false,
-    "esModuleInterop": true,
     "resolveJsonModule": true,
     "importHelpers": true,
-    "baseUrl": "src"
+    "removeComments": true
   },
-  "include": ["src/**/*.ts", "src/**/*.json", ".env"],
-  "exclude": ["node_modules"]
+  "include": ["api/**/*.js", "api/**/*.ts", "src/**/*.ts", "src/**/*.json", ".env", "src/app.ts", "app.ts"],
+  "exclude": ["node_modules", "src/http", "src/logs", "src/tests"]
 }
