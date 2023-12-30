@@ -1,26 +1,25 @@
 {
   "compileOnSave": false,
   "compilerOptions": {
-    "target": "ES2015",
-    "lib": ["ES2022", "esnext.asynciterable", "DOM"],
+    "target": "ES6",
+    "lib": ["es2021", "esnext.asynciterable", "DOM"],
     "typeRoots": ["node_modules/@types"],
     "allowSyntheticDefaultImports": true,
     "experimentalDecorators": true,
     "emitDecoratorMetadata": true,
     "forceConsistentCasingInFileNames": true,
-    "module": "CommonJS",
-    "moduleResolution": "Node",
+    "module": "NodeNext",
+    "moduleResolution": "NodeNext",
     "esModuleInterop": true, // Eases ESM support
     "pretty": true,
-    "sourceMap": false,
+    "sourceMap": true,
     "declaration": true,
     "outDir": "dist",
     "allowJs": true,
     "noEmit": false,
     "resolveJsonModule": true,
-    "importHelpers": true,
-    "removeComments": true
+    "importHelpers": true
   },
-  "include": ["api/**/*.js", "api/**/*.ts", "src/**/*.ts", "src/**/*.json", ".env", "src/app.ts", "app.ts"],
+  "include": ["src/**/*.ts", "src/**/*.json", ".env", "api/**/*.ts"],
   "exclude": ["node_modules", "src/http", "src/logs", "src/tests"]
 }
