@@ -1,7 +1,7 @@
 import * as dotenv from 'dotenv';
 
 import Fastify from 'fastify';
-import entry from '../dist/src/app';
+import entry from '../src/app';
 
 // Require the framework
 dotenv.config();

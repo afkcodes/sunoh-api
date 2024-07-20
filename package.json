@@ -17,7 +17,7 @@
     "build:release": "npm run clean && tsc -p tsconfig.json",
     "lint": "biome lint --write --unsafe src/",
     "format": "biome format --write .",
-    "prepare": "husky install",
+    "prepare": "husky",
     "start:vercel": "vercel dev",
     "deploy:dev": "vercel deploy",
     "deploy:prod": "vercel deploy --prod"
