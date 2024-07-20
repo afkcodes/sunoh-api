@@ -1,11 +1,8 @@
-import { FastifyInstance, FastifyReply, FastifyRequest, FastifyServerOptions } from 'fastify';
+import { FastifyInstance, FastifyServerOptions } from 'fastify';
 
-const index = (fastify: FastifyInstance, _opts: FastifyServerOptions, done: any) => {
-  fastify.get('/', (request: FastifyRequest, reply: FastifyReply) => {
-    reply.status(200).send({ hello: 'world' });
-  });
-
+const entry = (fastify: FastifyInstance, _opts: FastifyServerOptions, done: any) => {
+  fastify.get('/', async () => ({ status: 'OK' }));
   done();
 };
 
-export default index;
+export default entry;

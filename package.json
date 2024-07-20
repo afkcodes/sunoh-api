@@ -1,9 +1,9 @@
 {
-  "name": "fastify-vercel",
+  "name": "sunoh_api",
   "version": "1.0.0",
   "description": "Fastify vercel serverless starter template",
   "author": "Ashish Kumar",
-  "main": "api/server.ts",
+  "main": "api/dev-server.ts",
   "license": "MIT",
   "engines": {
     "node": ">= 18.12"
@@ -15,10 +15,8 @@
     "prebuild": "npm run lint",
     "build:watch": "tsc -w -p tsconfig.json",
     "build:release": "npm run clean && tsc -p tsconfig.json",
-    "lint": "eslint --ignore-path .gitignore --ext .ts src/",
-    "test": "jest --coverage",
-    "prettier": "prettier --config .prettierrc --write .",
-    "test:watch": "jest --watch",
+    "lint": "biome lint --write --unsafe src/",
+    "format": "biome format --write .",
     "prepare": "husky install",
     "start:vercel": "vercel dev",
     "deploy:dev": "vercel deploy",
@@ -26,32 +24,23 @@
   },
   "dependencies": {
     "chalk": "^5.3.0",
-    "dotenv": "^16.3.1",
-    "fastify": "^4.25.2",
-    "nanoid": "^5.0.4",
-    "tslib": "~2.6.2"
+    "dotenv": "^16.4.5",
+    "fastify": "^4.28.1",
+    "nanoid": "^5.0.7",
+    "tslib": "~2.6.3"
   },
   "devDependencies": {
+    "@biomejs/biome": "1.8.3",
     "@types/jest": "~29.5",
     "@types/node": "~20",
-    "@typescript-eslint/eslint-plugin": "^6.16.0",
-    "@typescript-eslint/parser": "^6.16.0",
     "cross-env": "^7.0.3",
-    "eslint": "^8.56.0",
-    "eslint-config-airbnb-base": "15.0.0",
-    "eslint-config-airbnb-typescript": "^17.1.0",
-    "eslint-config-prettier": "~9.1",
-    "eslint-plugin-import": "^2.29.1",
-    "eslint-plugin-jest": "~27.6",
-    "husky": "^8.0.3",
-    "jest": "~29.7",
-    "lint-staged": "^15.2.0",
-    "nodemon": "^3.0.2",
-    "prettier": "~3.1",
-    "rimraf": "~5.0",
-    "ts-jest": "~29.1",
-    "tsx": "^4.7.0",
-    "typescript": "~5.3",
-    "vercel": "^33.0.1"
+    "husky": "^9.1.1",
+    "lint-staged": "^15.2.7",
+    "nodemon": "^3.1.4",
+    "rimraf": "~6.0",
+    "ts-jest": "~29.2",
+    "tsx": "^4.16.2",
+    "typescript": "~5.5",
+    "vercel": "^35.1.0"
   }
 }
