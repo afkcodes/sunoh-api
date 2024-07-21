@@ -17,7 +17,7 @@
       "complexity": { "noBannedTypes": "off" },
       "correctness": { "noInvalidUseBeforeDeclaration": "error" },
       "style": { "noDefaultExport": "off" },
-      "suspicious": { "noExplicitAny": "warn", "noPrototypeBuiltins": "off" }
+      "suspicious": { "noExplicitAny": "info", "noPrototypeBuiltins": "off" }
     }
   },
   "javascript": {
