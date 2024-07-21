@@ -13,20 +13,20 @@ export const config = {
       song: {
         id: 'song.getDetails',
         link: 'webapi.get',
-        recommend: 'reco.getreco',
+        recommended: 'reco.getreco',
       },
 
       album: {
         id: 'content.getAlbumDetails',
         link: 'webapi.get',
-        recommend: 'reco.getAlbumReco',
+        recommended: 'reco.getAlbumReco',
         same_year: 'search.topAlbumsoftheYear',
       },
 
       playlist: {
         id: 'playlist.getDetails',
         link: 'webapi.get',
-        recommend: 'reco.getPlaylistReco',
+        recommended: 'reco.getPlaylistReco',
       },
 
       artist: {

@@ -10,13 +10,23 @@ type SaavnRequest = FastifyRequest<{
   Params: { titleid: string };
 }>;
 
+const params = {
+  api_version: config.saavn.api_version,
+  _format: config.saavn._format,
+  _marker: config.saavn._marker,
+  ctx: config.saavn.ctx,
+};
+
 const homeController = async (req: SaavnRequest, res: FastifyReply) => {
   const languages = req.query.languages;
-  const url = `${config.saavn.baseUrl}?__call=${config.saavn.endpoint.modules.home}&api_version=${config.saavn.api_version}&_format=${config.saavn._format}&_marker=${config.saavn._marker}&ctx=${config.saavn.ctx}`;
+  const url = `${config.saavn.baseUrl}?__call=${config.saavn.endpoint.modules.home}`;
 
   const { data, code, error, message } = await fetchGet(url, {
+    params: {
+      ...params,
+    },
     headers: {
-      cookie: `L=${languages ? languages : 'hindi'}; gdpr_acceptance=true; DL=english`,
+      cookie: `L=${languages || 'hindi'}; gdpr_acceptance=true; DL=english`,
     },
   });
   const sanitizedData = homeDataMapper(data);
@@ -25,10 +35,13 @@ const homeController = async (req: SaavnRequest, res: FastifyReply) => {
 
 const modulesController = async (req: SaavnRequest, res: FastifyReply) => {
   const languages = req.query.languages;
-  const url = `${config.saavn.baseUrl}?__call=${config.saavn.endpoint.modules.browse_modules}&api_version=${config.saavn.api_version}&_format=${config.saavn._format}&_marker=${config.saavn._marker}&ctx=${config.saavn.ctx}`;
+  const url = `${config.saavn.baseUrl}?__call=${config.saavn.endpoint.modules.browse_modules}`;
   const { data, code, error, message } = await fetchGet(url, {
+    params: {
+      ...params,
+    },
     headers: {
-      cookie: `L=${languages ? languages : 'hindi'}; gdpr_acceptance=true; DL=english`,
+      cookie: `L=${languages || 'hindi'}; gdpr_acceptance=true; DL=english`,
     },
   });
   const sanitizedData = modulesDataMapper(data);
