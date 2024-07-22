@@ -1,3 +1,6 @@
+import Crypto from 'crypto-js';
+import { Quality } from './type';
+
 /**
  * Transforms any string case (e.g., snake_case, kebab-case, PascalCase) to camelCase.
  * @param str - The input string to be transformed.
@@ -43,4 +46,37 @@ export function extractToken(url: string): string | null {
 
   // If there's a match, return the captured group, otherwise return null
   return match ? match[1] : null;
+}
+
+export function createDownloadLinks(encryptedMediaUrl: string): Quality {
+  const qualities = [
+    { id: '_12', bitrate: '12kbps' },
+    { id: '_48', bitrate: '48kbps' },
+    { id: '_96', bitrate: '96kbps' },
+    { id: '_160', bitrate: '160kbps' },
+    { id: '_320', bitrate: '320kbps' },
+  ];
+
+  const key = '38346591';
+
+  const decrypted = Crypto.DES.decrypt(
+    // eslint-disable-next-line @typescript-eslint/ban-ts-comment
+    // @ts-ignore
+    { ciphertext: Crypto.enc.Base64.parse(encryptedMediaUrl) },
+    Crypto.enc.Utf8.parse(key),
+    { mode: Crypto.mode.ECB },
+  );
+
+  const decryptedLink = decrypted.toString(Crypto.enc.Utf8);
+
+  for (const q of qualities) {
+    if (decryptedLink.includes(q.id)) {
+      return qualities.map(({ id, bitrate }) => ({
+        quality: bitrate,
+        link: decryptedLink.replace(q.id, id),
+      }));
+    }
+  }
+
+  return decryptedLink;
 }

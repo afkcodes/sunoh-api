@@ -1,4 +1,4 @@
-import { toCamelCase, toSentenceCase } from '../helpers/common';
+import { createDownloadLinks, toCamelCase, toSentenceCase } from '../helpers/common';
 import { saavnDataConfigs } from '../helpers/dataConfig';
 import { dataExtractor } from '../helpers/dataExtractor';
 import { Quality } from '../helpers/type';
@@ -94,6 +94,8 @@ const songDataSanitizer = (data) => {
         image: createImageLinks(artist.image),
         type: artist.type,
       })) || [];
+
+    songData.mediaUrls = createDownloadLinks(songData?.mediaUrls);
     return songData;
   });
   return extractedData;
