@@ -77,6 +77,45 @@ const dataSanitizer = (data) => {
   };
 };
 
+const songDataSanitizer = (data) => {
+  const extractedData = data.map((item) => {
+    const songData: any = {};
+    for (let key in saavnDataConfigs.list) {
+      const val =
+        key === 'images'
+          ? createImageLinks(dataExtractor(item, saavnDataConfigs.list[key]))
+          : dataExtractor(item, saavnDataConfigs.list[key]);
+      songData[key] = val;
+    }
+    songData.artists =
+      songData?.artists?.map((artist) => ({
+        name: artist.name,
+        id: artist.id,
+        image: createImageLinks(artist.image),
+        type: artist.type,
+      })) || [];
+    return songData;
+  });
+  return extractedData;
+};
+
+const albumDataSanitizer = (data) => {
+  const extractedData = {};
+  for (let key in saavnDataConfigs.albumConfig) {
+    const val =
+      key === 'images'
+        ? createImageLinks(dataExtractor(data, saavnDataConfigs.albumConfig[key]))
+        : dataExtractor(data, saavnDataConfigs.albumConfig[key]);
+
+    if (isArray(val) && key === 'list') {
+      extractedData[key] = songDataSanitizer(val);
+    } else {
+      extractedData[key] = val;
+    }
+  }
+  return extractedData;
+};
+
 const homeDataMapper = (data: any) => {
   const modulesArr = Object.keys(data?.modules);
   const mappedData = [];
@@ -94,7 +133,6 @@ const homeDataMapper = (data: any) => {
 
 const modulesDataMapper = (data: any) => {
   const modulesArr = Object.keys(data).filter((key) => !excludedKeys?.includes(key));
-  console.log(modulesArr);
   const mappedData = [];
   modulesArr.forEach((module) => {
     const extractedData = dataExtractor<any>(
@@ -109,4 +147,9 @@ const modulesDataMapper = (data: any) => {
   return mappedData;
 };
 
-export { homeDataMapper, modulesDataMapper };
+const albumDataMapper = (data: any) => {
+  const extractedData = albumDataSanitizer(data);
+  return extractedData;
+};
+
+export { albumDataMapper, homeDataMapper, modulesDataMapper };

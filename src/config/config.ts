@@ -10,17 +10,16 @@ export const config = {
         home: 'webapi.getLaunchData',
         browse_modules: 'content.getBrowseModules',
       },
-      song: {
-        id: 'song.getDetails',
-        link: 'webapi.get',
-        recommended: 'reco.getreco',
-      },
-
       album: {
         id: 'content.getAlbumDetails',
         link: 'webapi.get',
         recommended: 'reco.getAlbumReco',
         same_year: 'search.topAlbumsoftheYear',
+      },
+      song: {
+        id: 'song.getDetails',
+        link: 'webapi.get',
+        recommended: 'reco.getreco',
       },
 
       playlist: {
