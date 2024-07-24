@@ -80,3 +80,9 @@ export function createDownloadLinks(encryptedMediaUrl: string): Quality {
 
   return decryptedLink;
 }
+
+export function getToken(url: string) {
+  const regex = /\/([^\/]+)\/?$/;
+  const match = url.match(regex);
+  return match ? match[1] : '';
+}

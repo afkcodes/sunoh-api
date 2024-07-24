@@ -1,4 +1,4 @@
-import { createDownloadLinks, toCamelCase, toSentenceCase } from '../helpers/common';
+import { createDownloadLinks, getToken, toCamelCase, toSentenceCase } from '../helpers/common';
 import { saavnDataConfigs } from '../helpers/dataConfig';
 import { dataExtractor } from '../helpers/dataExtractor';
 import { Quality } from '../helpers/type';
@@ -40,6 +40,7 @@ const dataSanitizer = (data) => {
   const releaseYear = dataExtractor(data, saavnDataConfigs.home.moreInfo.releaseYear);
   const songCount = dataExtractor(data, saavnDataConfigs.home.moreInfo.songCount);
   const description = dataExtractor(data, saavnDataConfigs.home.moreInfo.description);
+  const token = getToken(dataExtractor(data, saavnDataConfigs.home.token));
   const artists = dataExtractor<any[]>(data, saavnDataConfigs.home.moreInfo.artists)?.map(
     (artist) => ({
       name: artist.name,
@@ -73,6 +74,7 @@ const dataSanitizer = (data) => {
     stationType,
     stationDisplayText,
     color,
+    token,
     source: 'saavn',
   };
 };

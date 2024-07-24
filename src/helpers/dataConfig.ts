@@ -8,6 +8,7 @@ const saavnDataConfigs = {
     isExplicit: 'explicit_content',
     type: 'type',
     playCount: 'play_count',
+    token: 'perma_url',
     moreInfo: {
       firstName: 'more_info.firstname',
       lastName: 'more_info.lastname',
@@ -48,6 +49,7 @@ const saavnDataConfigs = {
     listCount: 'list_count',
     listType: 'list_type',
     list: 'list',
+    token: 'perma_url',
   },
   list: {
     id: 'id',
