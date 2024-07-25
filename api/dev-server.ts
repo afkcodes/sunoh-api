@@ -1,5 +1,6 @@
 import * as dotenv from 'dotenv';
 
+import cors from '@fastify/cors';
 // Require the framework
 import Fastify from 'fastify';
 import entry from '../src/app';
@@ -9,6 +10,11 @@ dotenv.config();
 // Instantiate Fastify with some config
 const app = Fastify({
   logger: false,
+});
+
+app.register(cors, {
+  origin: '*',
+  methods: ['GET', 'PUT', 'POST', 'DELETE', 'OPTIONS'],
 });
 
 // Register your application as a normal plugin.
@@ -22,7 +28,7 @@ app.register(entry, {
 // };
 
 // Run the server!
-const port = 3000;
+const port = 3600;
 app.listen({ port }).then(() => {
   console.log(`Server Started at http://localhost:${port}`);
 });

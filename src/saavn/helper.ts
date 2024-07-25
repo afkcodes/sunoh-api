@@ -116,12 +116,16 @@ const albumDataSanitizer = (data) => {
     } else {
       extractedData[key] = val;
     }
+    if (key === 'token') {
+      extractedData[key] = getToken(val as string);
+    }
   }
   return extractedData;
 };
 
 const homeDataMapper = (data: any) => {
   const modulesArr = Object.keys(data?.modules);
+  console.log(modulesArr);
   const mappedData = [];
   if (isArray(modulesArr) && !isEmptyArray(modulesArr)) {
     modulesArr.forEach((module) => {
@@ -156,4 +160,9 @@ const albumDataMapper = (data: any) => {
   return extractedData;
 };
 
-export { albumDataMapper, homeDataMapper, modulesDataMapper };
+const recommendedAlbumDataMapper = (data: any) => {
+  const mappedData = data.map((item) => albumDataMapper(item));
+  return mappedData;
+};
+
+export { albumDataMapper, homeDataMapper, modulesDataMapper, recommendedAlbumDataMapper };

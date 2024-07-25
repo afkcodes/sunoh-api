@@ -4,7 +4,7 @@ export const config = {
     _format: 'json',
     _marker: 0,
     api_version: '4',
-    ctx: 'wap6dot0',
+    ctx: 'web6dot0',
     endpoint: {
       modules: {
         home: 'webapi.getLaunchData',
@@ -12,9 +12,9 @@ export const config = {
       },
       album: {
         id: 'content.getAlbumDetails',
-        link: 'webapi.get',
+        token: 'webapi.get',
         recommended: 'reco.getAlbumReco',
-        same_year: 'search.topAlbumsoftheYear',
+        top_albums_by_year: 'search.topAlbumsoftheYear',
       },
       song: {
         id: 'song.getDetails',

@@ -1,13 +1,18 @@
 import { FastifyReply, FastifyRequest } from 'fastify';
 import { config } from '../config/config';
 import { fetchGet } from '../helpers/http';
-import { albumDataMapper, homeDataMapper, modulesDataMapper } from './helper';
+import {
+  albumDataMapper,
+  homeDataMapper,
+  modulesDataMapper,
+  recommendedAlbumDataMapper,
+} from './helper';
 
 type SaavnRequest = FastifyRequest<{
   Querystring: {
     languages: string;
   };
-  Params: { albumId: string };
+  Params: { albumId: string; year: string };
 }>;
 
 const params = {
@@ -54,7 +59,7 @@ const albumController = async (req: SaavnRequest, res: FastifyReply) => {
   const url = `${config.saavn.baseUrl}`;
   const { data, code, error, message } = await fetchGet(url, {
     params: {
-      __call: 'webapi.get',
+      __call: config.saavn.endpoint.album.token,
       token: albumId,
       type: 'album',
       includeMetaTags: 0,
@@ -65,4 +70,42 @@ const albumController = async (req: SaavnRequest, res: FastifyReply) => {
   res.code(code).send({ code, message, data: sanitizedData, error });
 };
 
-export { albumController, homeController, modulesController };
+const albumRecommendationController = async (req: SaavnRequest, res: FastifyReply) => {
+  console.log(req.params);
+  const { albumId } = req.params;
+  const url = `${config.saavn.baseUrl}`;
+  const { data, code, error, message } = await fetchGet(url, {
+    params: {
+      __call: config.saavn.endpoint.album.recommended,
+      albumid: albumId,
+      type: 'album',
+      includeMetaTags: 0,
+      ...params,
+    },
+  });
+  const sanitizedData = recommendedAlbumDataMapper(data);
+  res.code(code).send({ code, message, data: sanitizedData, error });
+};
+
+const topAlbumsOfYearController = async (req: SaavnRequest, res: FastifyReply) => {
+  const { year } = req.params;
+  const url = `${config.saavn.baseUrl}`;
+  const { data, code, error, message } = await fetchGet(url, {
+    params: {
+      __call: config.saavn.endpoint.album.top_albums_by_year,
+      album_year: year,
+      ...params,
+    },
+  });
+
+  const sanitizedData = recommendedAlbumDataMapper(data);
+  res.code(code).send({ code, message, data: sanitizedData, error });
+};
+
+export {
+  albumController,
+  albumRecommendationController,
+  homeController,
+  modulesController,
+  topAlbumsOfYearController,
+};
