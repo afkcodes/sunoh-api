@@ -24,7 +24,7 @@ export const config = {
 
       playlist: {
         id: 'playlist.getDetails',
-        link: 'webapi.get',
+        token: 'webapi.get',
         recommended: 'reco.getPlaylistReco',
       },
 

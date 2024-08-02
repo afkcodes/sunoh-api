@@ -3,6 +3,7 @@ import { saavnDataConfigs } from '../helpers/dataConfig';
 import { dataExtractor } from '../helpers/dataExtractor';
 import { Quality } from '../helpers/type';
 import { isArray, isEmptyArray } from '../helpers/validators';
+const ColorThief = require('colorthief');
 
 const excludedKeys = ['browse_discover'];
 
@@ -21,6 +22,20 @@ const createImageLinks = (link: string): Quality => {
   return link;
 };
 
+async function getPalettes(data) {
+  const dataWithPalette = [];
+
+  for (const item of data) {
+    try {
+      const palette = await ColorThief.getPalette(item.images[0].link, 5);
+      dataWithPalette.push({ ...item, palette });
+    } catch (error) {
+      console.error(`Error processing ${item}:`, error);
+    }
+  }
+  return dataWithPalette;
+}
+
 const dataSanitizer = (data) => {
   const title = dataExtractor(data, saavnDataConfigs.home.title);
   const id = dataExtractor(data, saavnDataConfigs.home.id);
@@ -31,7 +46,9 @@ const dataSanitizer = (data) => {
     dataExtractor(data, saavnDataConfigs.home.moreInfo.isExplicit);
   const playCount = dataExtractor(data, saavnDataConfigs.home.playCount);
   const type = dataExtractor(data, saavnDataConfigs.home.type);
-  const language = dataExtractor(data, saavnDataConfigs.home.language);
+  const language =
+    dataExtractor(data, saavnDataConfigs.home.language) ||
+    dataExtractor(data, saavnDataConfigs.home.moreInfo.language);
   const editorFirstName = dataExtractor(data, saavnDataConfigs.home.moreInfo.firstName);
   const editorLastName = dataExtractor(data, saavnDataConfigs.home.moreInfo.lastName);
   const editorialLanguage = dataExtractor(data, saavnDataConfigs.home.moreInfo.editorialLanguage);
@@ -97,6 +114,9 @@ const songDataSanitizer = (data) => {
         type: artist.type,
       })) || [];
 
+    songData.token = getToken(songData.token);
+    songData.source = 'saavn';
+
     songData.mediaUrls = createDownloadLinks(songData?.mediaUrls);
     return songData;
   });
@@ -161,8 +181,38 @@ const albumDataMapper = (data: any) => {
 };
 
 const recommendedAlbumDataMapper = (data: any) => {
-  const mappedData = data.map((item) => albumDataMapper(item));
+  const mappedData = data.map((item) => albumDataWithPalette(item));
   return mappedData;
 };
 
-export { albumDataMapper, homeDataMapper, modulesDataMapper, recommendedAlbumDataMapper };
+const albumDataWithPalette = async (data) => {
+  const extractedData: any = albumDataMapper(data);
+  const dataWithPalette = await getPalettes(extractedData.list);
+  extractedData['list'] = dataWithPalette;
+  return extractedData;
+};
+
+const stationSongsMapper = async (data: any) => {
+  let songsArr = [];
+  for (let item in data) {
+    if (data?.[item]?.['song']) {
+      songsArr.push(data?.[item]?.['song']);
+    }
+  }
+
+  const sanitizedData = songDataSanitizer(songsArr);
+  const dataWithPalette = await getPalettes(sanitizedData);
+  return {
+    list: dataWithPalette,
+    id: data.stationid,
+  };
+};
+
+export {
+  albumDataMapper,
+  albumDataWithPalette,
+  homeDataMapper,
+  modulesDataMapper,
+  recommendedAlbumDataMapper,
+  stationSongsMapper,
+};

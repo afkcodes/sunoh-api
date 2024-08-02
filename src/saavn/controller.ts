@@ -2,17 +2,28 @@ import { FastifyReply, FastifyRequest } from 'fastify';
 import { config } from '../config/config';
 import { fetchGet } from '../helpers/http';
 import {
-  albumDataMapper,
+  albumDataWithPalette,
   homeDataMapper,
   modulesDataMapper,
   recommendedAlbumDataMapper,
+  stationSongsMapper,
 } from './helper';
 
 type SaavnRequest = FastifyRequest<{
   Querystring: {
     languages: string;
+    language: string;
+    page: number;
+    count: number;
+    name: string;
+    stationId: string;
   };
-  Params: { albumId: string; year: string };
+  Params: {
+    albumId: string;
+    year: string;
+    playlistId: string;
+    mixId: string;
+  };
 }>;
 
 const params = {
@@ -66,7 +77,7 @@ const albumController = async (req: SaavnRequest, res: FastifyReply) => {
       ...params,
     },
   });
-  const sanitizedData = albumDataMapper(data);
+  const sanitizedData = await albumDataWithPalette(data);
   res.code(code).send({ code, message, data: sanitizedData, error });
 };
 
@@ -102,10 +113,83 @@ const topAlbumsOfYearController = async (req: SaavnRequest, res: FastifyReply) =
   res.code(code).send({ code, message, data: sanitizedData, error });
 };
 
+const playlistController = async (req: SaavnRequest, res: FastifyReply) => {
+  const { playlistId } = req.params;
+  const { page = 1, count = 50 } = req.query;
+  const url = `${config.saavn.baseUrl}`;
+  const { data, code, error, message } = await fetchGet(url, {
+    params: {
+      __call: config.saavn.endpoint.playlist.token,
+      token: playlistId,
+      type: 'playlist',
+      includeMetaTags: 0,
+      n: count,
+      p: page,
+      ...params,
+    },
+  });
+  const sanitizedData = await albumDataWithPalette(data);
+  res.code(code).send({ code, message, data: sanitizedData, error });
+};
+
+const mixController = async (req: SaavnRequest, res: FastifyReply) => {
+  const { mixId } = req.params;
+  const url = `${config.saavn.baseUrl}`;
+  const { data, code, error, message } = await fetchGet(url, {
+    params: {
+      __call: config.saavn.endpoint.playlist.token,
+      token: mixId,
+      type: 'mix',
+      p: 1, // TODO: Fix this Page
+      n: 100, // TODO: Fix this count
+      includeMetaTags: 0,
+      ...params,
+    },
+  });
+  const sanitizedData = await albumDataWithPalette(data);
+  res.code(code).send({ code, message, data: sanitizedData, error });
+};
+
+const stationController = async (req: SaavnRequest, res: FastifyReply) => {
+  const { language, name } = req.query;
+  const url = `${config.saavn.baseUrl}`;
+  const { data, code, error, message } = await fetchGet(url, {
+    params: {
+      __call: config.saavn.endpoint.radio.featured,
+      language: language,
+      name: name,
+      includeMetaTags: 0,
+      ...params,
+    },
+  });
+  res.code(code).send({ code, message, data: data, error });
+};
+
+const stationSongsController = async (req: SaavnRequest, res: FastifyReply) => {
+  const { stationId, count } = req.query;
+  console.log(stationId, count);
+  const url = `${config.saavn.baseUrl}`;
+  const { data, code, error, message } = await fetchGet(url, {
+    params: {
+      __call: config.saavn.endpoint.radio.songs,
+      stationid: stationId,
+      next: 1,
+      k: count,
+      ...params,
+    },
+  });
+  const sanitizedData = await stationSongsMapper(data);
+  res.code(code).send({ code, message, data: sanitizedData, error });
+};
+
 export {
   albumController,
   albumRecommendationController,
   homeController,
+  mixController,
   modulesController,
+  playlistController,
+  stationController,
+  stationSongsController,
   topAlbumsOfYearController,
 };
