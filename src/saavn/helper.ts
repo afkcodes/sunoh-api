@@ -27,7 +27,7 @@ async function getPalettes(data) {
 
   for (const item of data) {
     try {
-      const palette = await ColorThief.getPalette(item.images[0].link, 5);
+      const palette = await ColorThief.getPalette(item.images[0].link, 1);
       dataWithPalette.push({ ...item, palette });
     } catch (error) {
       console.error(`Error processing ${item}:`, error);
