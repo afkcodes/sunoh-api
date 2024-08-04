@@ -27,7 +27,7 @@ async function getPalettes(data) {
 
   for (const item of data) {
     try {
-      const palette = await ColorThief.getPalette(item.images[0].link, 1);
+      const palette = await ColorThief.getColor(item.images[0].link);
       dataWithPalette.push({ ...item, palette });
     } catch (error) {
       console.error(`Error processing ${item}:`, error);
@@ -187,8 +187,8 @@ const recommendedAlbumDataMapper = (data: any) => {
 
 const albumDataWithPalette = async (data) => {
   const extractedData: any = albumDataMapper(data);
-  const dataWithPalette = await getPalettes(extractedData.list);
-  extractedData['list'] = dataWithPalette;
+  // const dataWithPalette = await getPalettes(extractedData.list);
+  // extractedData['list'] = dataWithPalette;
   return extractedData;
 };
 
@@ -201,9 +201,9 @@ const stationSongsMapper = async (data: any) => {
   }
 
   const sanitizedData = songDataSanitizer(songsArr);
-  const dataWithPalette = await getPalettes(sanitizedData);
+  // const dataWithPalette = await getPalettes(sanitizedData);
   return {
-    list: dataWithPalette,
+    list: sanitizedData,
     id: data.stationid,
   };
 };
