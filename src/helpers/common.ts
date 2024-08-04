@@ -86,3 +86,8 @@ export function getToken(url: string) {
   const match = url.match(regex);
   return match ? match[1] : '';
 }
+
+export const isValidFunction = (fun: any) => typeof fun === 'function';
+export const isValidArray = (arr: any[]) => arr && Array.isArray(arr) && arr.length > 0;
+export const isValidObject = (obj: any): boolean =>
+  obj !== null && typeof obj === 'object' && !Array.isArray(obj);

@@ -24,4 +24,3 @@ const saavnRoutes = async (fastify: FastifyInstance) => {
 };
 
 export { saavnRoutes };
-mixController;

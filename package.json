@@ -29,7 +29,10 @@
     "crypto-js": "^4.2.0",
     "dotenv": "^16.4.5",
     "fastify": "^4.28.1",
+    "form-data": "^4.0.0",
+    "install": "^0.13.0",
     "nanoid": "^5.0.7",
+    "npm": "^10.8.2",
     "tslib": "~2.6.3"
   },
   "devDependencies": {

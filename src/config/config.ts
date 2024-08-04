@@ -76,4 +76,16 @@ export const config = {
       },
     },
   },
+
+  gaana: {
+    baseUrl: 'https://gaana.com/apiv2',
+    streamTrack: 'https://apiv2.gaana.com/track/stream',
+    radio: {
+      popular: 'radioPopular',
+      mood: 'radioMood',
+      artist: 'radioArtist',
+      latest: 'radioLatest',
+      detail: 'gaanaradiodetail',
+    },
+  },
 };

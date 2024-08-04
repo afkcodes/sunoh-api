@@ -84,4 +84,33 @@ const saavnDataConfigs = {
   },
 };
 
-export { saavnDataConfigs };
+const gaanaDataConfigs = {
+  radio: {
+    language: 'language',
+    key: 'seokey',
+    name: 'name',
+    image: 'artwork',
+    id: 'entity_id',
+    type: 'entity_type',
+    favorites: 'favorite_count',
+    count: '',
+  },
+  song: {
+    id: 'track_id',
+    title: 'track_title',
+    subtitle: 'album_title',
+    images: 'artwork_large',
+    image: 'artwork',
+    language: 'language',
+    album: 'album_title',
+    albumId: 'album_id',
+    duration: 'duration',
+    releaseDate: 'release_date',
+    artists: 'artist',
+    key: 'seokey',
+    albumKey: 'albumseokey',
+    genres: 'gener',
+  },
+};
+
+export { gaanaDataConfigs, saavnDataConfigs };
