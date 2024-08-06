@@ -3,6 +3,7 @@ import { config } from '../config/config';
 import { fetchGet } from '../helpers/http';
 import {
   albumDataMapper,
+  autoCompleteDataMapper,
   homeDataMapper,
   modulesDataMapper,
   recommendedAlbumDataMapper,
@@ -198,6 +199,22 @@ const topSearchController = async (req: SaavnRequest, res: FastifyReply) => {
   res.code(code).send({ code, message, data: sortedData, error });
 };
 
+const autoCompleteController = async (req: SaavnRequest, res: FastifyReply) => {
+  const { q } = req.query;
+
+  const url = `${config.saavn.baseUrl}`;
+  const { data, code, error, message } = await fetchGet(url, {
+    params: {
+      __call: config.saavn.endpoint.search.autocomplete,
+      query: q,
+      ...params,
+    },
+  });
+
+  const sortedData = autoCompleteDataMapper(data);
+  res.code(code).send({ code, message, data: sortedData, error });
+};
+
 const searchController = async (req: SaavnRequest, res: FastifyReply) => {
   const { q } = req.query;
 };
@@ -205,6 +222,7 @@ const searchController = async (req: SaavnRequest, res: FastifyReply) => {
 export {
   albumController,
   albumRecommendationController,
+  autoCompleteController,
   homeController,
   mixController,
   modulesController,

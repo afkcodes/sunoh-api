@@ -42,6 +42,7 @@ const saavnDataConfigs = {
     description: 'header_desc',
     type: 'type',
     token: 'perma_url',
+    desc: 'description',
     images: 'image',
     language: 'language',
     year: 'year',

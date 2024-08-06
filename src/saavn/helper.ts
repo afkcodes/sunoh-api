@@ -116,13 +116,12 @@ const albumDataSanitizer = (data) => {
         ? createImageLinks(dataExtractor(data, saavnDataConfigs.albumConfig[key]))
         : dataExtractor(data, saavnDataConfigs.albumConfig[key]);
 
+    extractedData[key] = val;
     if (isArray(val) && key === 'list') {
       extractedData[key] = songDataSanitizer(val);
-    } else {
-      extractedData[key] = val;
     }
     if (key === 'token') {
-      extractedData[key] = getToken(val as string);
+      extractedData[key] = extractedData[key] ? getToken(val as string) : '';
     }
   }
   return extractedData;
@@ -234,8 +233,25 @@ const topSearchMapper = (data: any) => {
   return [mappedData.albums, mappedData.playlists, mappedData.artists, mappedData.songs];
 };
 
+const contentKeys = ['albums', 'playlists', 'artists'];
+
+const autoCompleteDataMapper = (data) => {
+  const excludedKeys = Object.keys(data).filter((key) => !['episodes', 'shows'].includes(key));
+  const filteredData = {};
+  for (let key of excludedKeys) {
+    filteredData[key] = contentKeys.includes(key)
+      ? data[key].data.map((d) => albumDataMapper(d))
+      : key === 'songs'
+        ? songDataSanitizer(data[key].data)
+        : data[key];
+  }
+
+  return filteredData;
+};
+
 export {
   albumDataMapper,
+  autoCompleteDataMapper,
   homeDataMapper,
   modulesDataMapper,
   recommendedAlbumDataMapper,

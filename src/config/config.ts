@@ -38,7 +38,7 @@ export const config = {
 
       search: {
         top_search: 'content.getTopSearches',
-        all: 'autocomplete.get',
+        autocomplete: 'autocomplete.get',
         songs: 'search.getResults',
         albums: 'search.getAlbumResults',
         artists: 'search.getArtistResults',
