@@ -2,11 +2,12 @@ import { FastifyReply, FastifyRequest } from 'fastify';
 import { config } from '../config/config';
 import { fetchGet } from '../helpers/http';
 import {
-  albumDataWithPalette,
+  albumDataMapper,
   homeDataMapper,
   modulesDataMapper,
   recommendedAlbumDataMapper,
   stationSongsMapper,
+  topSearchMapper,
 } from './helper';
 
 type SaavnRequest = FastifyRequest<{
@@ -17,6 +18,7 @@ type SaavnRequest = FastifyRequest<{
     count: number;
     name: string;
     stationId: string;
+    q: string;
   };
   Params: {
     albumId: string;
@@ -77,7 +79,7 @@ const albumController = async (req: SaavnRequest, res: FastifyReply) => {
       ...params,
     },
   });
-  const sanitizedData = await albumDataWithPalette(data);
+  const sanitizedData = albumDataMapper(data);
   res.code(code).send({ code, message, data: sanitizedData, error });
 };
 
@@ -128,7 +130,7 @@ const playlistController = async (req: SaavnRequest, res: FastifyReply) => {
       ...params,
     },
   });
-  const sanitizedData = await albumDataWithPalette(data);
+  const sanitizedData = await albumDataMapper(data);
   res.code(code).send({ code, message, data: sanitizedData, error });
 };
 
@@ -146,7 +148,7 @@ const mixController = async (req: SaavnRequest, res: FastifyReply) => {
       ...params,
     },
   });
-  const sanitizedData = await albumDataWithPalette(data);
+  const sanitizedData = await albumDataMapper(data);
   res.code(code).send({ code, message, data: sanitizedData, error });
 };
 
@@ -182,6 +184,24 @@ const stationSongsController = async (req: SaavnRequest, res: FastifyReply) => {
   res.code(code).send({ code, message, data: sanitizedData, error });
 };
 
+const topSearchController = async (req: SaavnRequest, res: FastifyReply) => {
+  const url = `${config.saavn.baseUrl}`;
+  const { data, code, error, message } = await fetchGet(url, {
+    params: {
+      __call: config.saavn.endpoint.search.top_search,
+      ...params,
+    },
+  });
+
+  const sortedData = topSearchMapper(data);
+
+  res.code(code).send({ code, message, data: sortedData, error });
+};
+
+const searchController = async (req: SaavnRequest, res: FastifyReply) => {
+  const { q } = req.query;
+};
+
 export {
   albumController,
   albumRecommendationController,
@@ -189,7 +209,9 @@ export {
   mixController,
   modulesController,
   playlistController,
+  searchController,
   stationController,
   stationSongsController,
   topAlbumsOfYearController,
+  topSearchController,
 };

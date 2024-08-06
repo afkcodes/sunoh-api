@@ -6,9 +6,11 @@ import {
   mixController,
   modulesController,
   playlistController,
+  searchController,
   stationController,
   stationSongsController,
   topAlbumsOfYearController,
+  topSearchController,
 } from './controller';
 
 const saavnRoutes = async (fastify: FastifyInstance) => {
@@ -21,6 +23,8 @@ const saavnRoutes = async (fastify: FastifyInstance) => {
   fastify.get('/mix/:mixId', mixController);
   fastify.get('/create_station', stationController);
   fastify.get('/get_station_songs', stationSongsController);
+  fastify.get('/top_search', topSearchController);
+  fastify.post('/search', searchController);
 };
 
 export { saavnRoutes };
