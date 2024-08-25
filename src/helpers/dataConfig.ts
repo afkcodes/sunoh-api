@@ -37,11 +37,11 @@ const saavnDataConfigs = {
   },
   albumConfig: {
     id: 'id',
-    title: 'title',
+    title: ['title', 'name'],
     subtitle: 'subtitle',
     description: 'header_desc',
     type: 'type',
-    token: 'perma_url',
+    token: ['perma_url', 'url'],
     desc: 'description',
     images: 'image',
     language: 'language',
@@ -83,6 +83,27 @@ const saavnDataConfigs = {
     origin: 'more_info.origin',
     token: 'more_info.album_url',
   },
+  artistMeta: {
+    title: 'name',
+    id: ['artistId', 'id'],
+    subtitle: 'subtitle',
+    images: ['image', 'image_url'],
+    followers: 'follower_count',
+    type: 'type',
+    subtype: 'dominantType',
+    bio: 'bio',
+    token: ['perma_url', 'url'],
+  },
+  songDetails: {
+    endpoint: 'source',
+    heading: 'title',
+    artistIds: 'source_params.artist_ids',
+    actorIds: 'source_params.actor_ids',
+    songId: 'source_params.song_id',
+    language: 'source_params.language',
+    type: 'source_params.entity_type',
+    pid: 'source_params.pid',
+  },
 };
 
 const gaanaDataConfigs = {
@@ -114,4 +135,39 @@ const gaanaDataConfigs = {
   },
 };
 
-export { gaanaDataConfigs, saavnDataConfigs };
+const ytmDataConfigs = {
+  songConfig: {
+    id: 'videoId',
+    title: 'title',
+    subtitle: 'subtitle',
+    images: 'thumbnails.1.url',
+    image: 'thumbnails.1.url',
+    album: 'album.name',
+    albumId: 'album.id',
+    artists: 'artists',
+    isExplicit: 'isExplicit',
+    duration: 'duration',
+  },
+  albumOrPlaylistConfig: {
+    id: 'browseId',
+    radioId: 'radioId',
+    playlistId: ['audioPlaylistId', 'playlistId'],
+    description: 'description',
+    title: ['title', 'name'],
+    subtitle: 'subtitle',
+    type: 'type',
+    token: 'perma_url',
+    desc: 'description',
+    images: 'thumbnails.1.url',
+    year: 'year',
+    isExplicit: 'isExplicit',
+    artist: 'artists',
+  },
+  contentConfig: {
+    id: 'id',
+    title: 'title',
+    contents: 'contents',
+  },
+};
+
+export { gaanaDataConfigs, saavnDataConfigs, ytmDataConfigs };

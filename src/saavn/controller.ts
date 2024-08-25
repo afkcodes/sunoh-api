@@ -1,12 +1,16 @@
 import { FastifyReply, FastifyRequest } from 'fastify';
 import { config } from '../config/config';
+import { isValidArray } from '../helpers/common';
 import { fetchGet } from '../helpers/http';
 import {
   albumDataMapper,
+  artistDataMapper,
   autoCompleteDataMapper,
   homeDataMapper,
   modulesDataMapper,
   recommendedAlbumDataMapper,
+  songDataSanitizer,
+  songsDetailsMapper,
   stationSongsMapper,
   topSearchMapper,
 } from './helper';
@@ -20,12 +24,15 @@ type SaavnRequest = FastifyRequest<{
     name: string;
     stationId: string;
     q: string;
+    type: string;
   };
   Params: {
     albumId: string;
     year: string;
     playlistId: string;
     mixId: string;
+    artistId: string;
+    songId: string;
   };
 }>;
 
@@ -45,9 +52,10 @@ const homeController = async (req: SaavnRequest, res: FastifyReply) => {
       ...params,
     },
     headers: {
-      cookie: `L=${languages || 'hindi'}; gdpr_acceptance=true; DL=english`,
+      cookie: `L=${languages || 'hindi,punjabi'}; gdpr_acceptance=true; DL=english`,
     },
   });
+
   const sanitizedData = homeDataMapper(data);
   res.code(code).send({ code, message, data: sanitizedData, error });
 };
@@ -118,7 +126,7 @@ const topAlbumsOfYearController = async (req: SaavnRequest, res: FastifyReply) =
 
 const playlistController = async (req: SaavnRequest, res: FastifyReply) => {
   const { playlistId } = req.params;
-  const { page = 1, count = 50 } = req.query;
+  const { page = 0, count = 50 } = req.query;
   const url = `${config.saavn.baseUrl}`;
   const { data, code, error, message } = await fetchGet(url, {
     params: {
@@ -199,35 +207,166 @@ const topSearchController = async (req: SaavnRequest, res: FastifyReply) => {
   res.code(code).send({ code, message, data: sortedData, error });
 };
 
-const autoCompleteController = async (req: SaavnRequest, res: FastifyReply) => {
-  const { q } = req.query;
+const searchController = async (req: SaavnRequest, res: FastifyReply) => {
+  // Explicitly type and normalize the query parameters
+  const q = req.query.q as string;
+  const type = ((req.query.type as string) || 'all').toLowerCase();
+  const page = Number(req.query.page) || 1;
+  const count = Number(req.query.count) || 30;
 
-  const url = `${config.saavn.baseUrl}`;
+  console.log('Query parameters:', { q, type, page, count });
+
+  let url = `${config.saavn.baseUrl}`;
+
   const { data, code, error, message } = await fetchGet(url, {
     params: {
-      __call: config.saavn.endpoint.search.autocomplete,
+      __call: config.saavn.endpoint.search[type],
+      q,
       query: q,
+      p: page,
+      n: count,
       ...params,
+      api_version: 3,
     },
   });
 
-  const sortedData = autoCompleteDataMapper(data);
-  res.code(code).send({ code, message, data: sortedData, error });
+  let sanitizedData;
+  try {
+    switch (type) {
+      case 'albums':
+        sanitizedData = {
+          heading: 'Albums',
+          list: (data as any).results.map((d) => albumDataMapper(d)),
+          source: 'saavn',
+          count: (data as any).total,
+        };
+        break;
+      case 'songs':
+        sanitizedData = {
+          heading: 'Songs',
+          list: songDataSanitizer((data as any).results),
+          source: 'saavn',
+          count: (data as any).total,
+        };
+
+        break;
+      case 'artists':
+        sanitizedData = {
+          heading: 'Artists',
+          list: (data as any).results.map((d) => albumDataMapper(d)),
+          source: 'saavn',
+          count: (data as any).total,
+        };
+        break;
+      case 'playlists':
+        sanitizedData = {
+          heading: 'Playlists',
+          list: (data as any).results.map((d) => albumDataMapper(d)),
+          source: 'saavn',
+          count: (data as any).total,
+        };
+        break;
+      default:
+        sanitizedData = autoCompleteDataMapper(data);
+        break;
+    }
+  } catch (err) {
+    console.error('Error in data mapping:', err);
+  }
+
+  res.code(code).send({ code, message, data: sanitizedData, error });
 };
 
-const searchController = async (req: SaavnRequest, res: FastifyReply) => {
-  const { q } = req.query;
+const artistController = async (req: SaavnRequest, res: FastifyReply) => {
+  const { artistId } = req.params;
+  const { page = 0, count = 50 } = req.query;
+  const url = `${config.saavn.baseUrl}`;
+
+  const { data, code, message, error } = await fetchGet(url, {
+    params: {
+      __call: config.saavn.endpoint.artist.link,
+      token: artistId,
+      type: 'artist',
+      p: page,
+      n_song: count,
+      n_album: count,
+      ...params,
+    },
+  });
+  const extractedData = artistDataMapper(data);
+  res.code(200).send({ data: extractedData, code, message, error });
+};
+
+const songController = async (req: SaavnRequest, res: FastifyReply) => {
+  try {
+    const { songId } = req.params;
+    const url = `${config.saavn.baseUrl}`;
+
+    const { data, code, message, error } = await fetchGet(url, {
+      params: {
+        __call: config.saavn.endpoint.song.link,
+        token: songId,
+        type: 'song',
+        ...params,
+      },
+    });
+    const songData = songsDetailsMapper(data);
+    const promiseArr = songData.modules.map((d) => {
+      return {
+        title: d.heading,
+        promise: fetchGet(url, {
+          params: {
+            __call: d.endpoint,
+            song_id: d.songIds,
+            artist_ids: d.artistIds,
+            type: d.type,
+            language: d.language,
+            actor_ids: d.actorIds,
+            pid: d.pid,
+            ...params,
+          },
+        }),
+      };
+    });
+    const results = await Promise.allSettled(promiseArr.map((item) => item.promise));
+
+    const sections = results
+      .map((result: any, index) =>
+        isValidArray(result.value.data)
+          ? {
+              heading: promiseArr[index].title,
+              data: isValidArray(result.value.data) ? result.value.data : undefined,
+            }
+          : null,
+      )
+      .filter((d: any) => d != null);
+
+    res.code(200).send({
+      data: { song: songData.song, sections: sections },
+      code,
+      message,
+      error,
+    });
+  } catch (error) {
+    res.code(400).send({
+      data: null,
+      code: 400,
+      message: 'failed to fetch',
+      error,
+    });
+  }
 };
 
 export {
   albumController,
   albumRecommendationController,
-  autoCompleteController,
+  artistController,
   homeController,
   mixController,
   modulesController,
   playlistController,
   searchController,
+  songController,
   stationController,
   stationSongsController,
   topAlbumsOfYearController,

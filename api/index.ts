@@ -4,6 +4,8 @@ import cors from '@fastify/cors';
 import Fastify from 'fastify';
 import entry from '../src/app';
 
+export const runtime = 'nodejs';
+
 // Require the framework
 dotenv.config();
 

@@ -1,16 +1,13 @@
-/**
- * Represents a nested object structure where values can be of any type.
- */
 type NestedObject = Record<string, unknown>;
 
 /**
- * Safely extracts a value from a nested object structure using a key path.
+ * Safely extracts a value from a nested object structure using a key path or multiple key paths.
  *
  * @template T The expected type of the extracted value.
  * @param {NestedObject} obj - The object to extract the value from.
- * @param {string} key - The key path to the desired value, using dot notation or a custom delimiter.
+ * @param {string | string[]} keys - The key path(s) to the desired value, using dot notation or a custom delimiter.
  * @param {string} [delimiter='.'] - The delimiter used in the key path. Defaults to '.'.
- * @returns {T | null} The extracted value of type T, or null if the path is invalid or the value doesn't exist.
+ * @returns {T | undefined} The extracted value of type T, or undefined if no valid path is found.
  *
  * @example
  * const user = { name: 'John', address: { city: 'New York' } };
@@ -19,50 +16,60 @@ type NestedObject = Record<string, unknown>;
  * @example
  * const data = { 'level1/level2': { 'level3/level4': 42 } };
  * const value = dataExtractor<number>(data, 'level1/level2/level3/level4', '/'); // Returns 42
+ *
+ * @example
+ * const user = { info: { firstName: 'John' }, data: { name: 'John Doe' }, isActive: false };
+ * const name = dataExtractor<string>(user, ['info.firstName', 'data.name']); // Returns 'John'
+ * const active = dataExtractor<boolean>(user, 'isActive'); // Returns false
  */
 export function dataExtractor<T>(
   obj: NestedObject,
-  key: string,
+  keys: string | string[],
   delimiter: string = '.',
-): T | null {
-  // Check if the input object is null, undefined, or not an object
-  if (obj == null || typeof obj !== 'object') {
-    return null;
-  }
+): T | undefined {
+  // If keys is a string, convert it to an array
+  const keyPaths = Array.isArray(keys) ? keys : [keys];
 
-  // Split the key into an array of nested keys
-  const keys = key.split(delimiter);
-  let currentValue: unknown = obj;
-
-  // Traverse the object using the keys
-  for (const k of keys) {
-    // If we've reached a null or undefined value, we can't go further
-    if (currentValue == null) {
-      return null;
+  // Function to extract data for a single key path
+  const extractSingle = (keyPath: string): T | undefined => {
+    if (obj == null || typeof obj !== 'object') {
+      return undefined;
     }
 
-    if (Array.isArray(currentValue)) {
-      // If the current value is an array, try to access it by index
-      const index = parseInt(k, 10);
-      if (Number.isInteger(index) && index >= 0 && index < currentValue.length) {
-        currentValue = currentValue[index];
-      } else {
-        // Invalid array index
-        return null;
+    const keyParts = keyPath.split(delimiter);
+    let currentValue: unknown = obj;
+
+    for (const k of keyParts) {
+      if (currentValue == null || typeof currentValue !== 'object') {
+        return undefined;
       }
-    } else if (typeof currentValue === 'object') {
-      // If it's an object, access the property
-      currentValue = (currentValue as NestedObject)[k];
-    } else {
-      // If it's neither an array nor an object, we can't continue
-      return null;
+
+      if (Array.isArray(currentValue)) {
+        const index = parseInt(k, 10);
+        if (Number.isInteger(index) && index >= 0 && index < currentValue.length) {
+          currentValue = currentValue[index];
+        } else {
+          return undefined;
+        }
+      } else {
+        currentValue = (currentValue as NestedObject)[k];
+      }
+    }
+
+    return currentValue as T | undefined;
+  };
+
+  // Try each key path in order
+  for (const keyPath of keyPaths) {
+    const result = extractSingle(keyPath);
+    if (result !== undefined) {
+      return result;
     }
   }
 
-  // Cast the final value to the expected type T or null
-  return currentValue as T | null;
+  // If no valid result is found, return undefined
+  return undefined;
 }
-
 // Usage examples
 
 // Example 1: Basic object with type safety

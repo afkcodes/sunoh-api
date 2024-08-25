@@ -1,10 +1,16 @@
-import { createDownloadLinks, getToken, toCamelCase, toSentenceCase } from '../helpers/common';
+import {
+  capitalizeFirstLetter,
+  createDownloadLinks,
+  getToken,
+  toCamelCase,
+  toSentenceCase,
+} from '../helpers/common';
 import { saavnDataConfigs } from '../helpers/dataConfig';
 import { dataExtractor } from '../helpers/dataExtractor';
 import { Quality } from '../helpers/type';
 import { isArray, isEmptyArray } from '../helpers/validators';
 
-const excludedKeys = ['browse_discover', 'city_mod'];
+const excludedKeys = ['city_mod', 'history'];
 
 const createImageLinks = (link: string): Quality => {
   const qualities = ['50x50', '150x150', '500x500'];
@@ -81,7 +87,7 @@ const dataSanitizer = (data) => {
   };
 };
 
-const songDataSanitizer = (data) => {
+export const songDataSanitizer = (data) => {
   const extractedData = data.map((item) => {
     const songData: any = {};
     for (let key in saavnDataConfigs.list) {
@@ -128,8 +134,7 @@ const albumDataSanitizer = (data) => {
 };
 
 const homeDataMapper = (data: any) => {
-  const modulesArr = Object.keys(data?.modules);
-  console.log(modulesArr);
+  const modulesArr = [...Object.keys(data?.modules), 'browse_discover'];
   const mappedData = [];
   if (isArray(modulesArr) && !isEmptyArray(modulesArr)) {
     modulesArr.forEach((module) => {
@@ -233,10 +238,11 @@ const topSearchMapper = (data: any) => {
   return [mappedData.albums, mappedData.playlists, mappedData.artists, mappedData.songs];
 };
 
-const contentKeys = ['albums', 'playlists', 'artists'];
+const contentKeys = ['topquery', 'albums', 'playlists', 'artists'];
 
 const autoCompleteDataMapper = (data) => {
   const excludedKeys = Object.keys(data).filter((key) => !['episodes', 'shows'].includes(key));
+
   const filteredData = {};
   for (let key of excludedKeys) {
     filteredData[key] = contentKeys.includes(key)
@@ -246,15 +252,79 @@ const autoCompleteDataMapper = (data) => {
         : data[key];
   }
 
-  return filteredData;
+  const sanitizedData = [];
+  for (let key in filteredData) {
+    sanitizedData.push({
+      heading: capitalizeFirstLetter(key),
+      data: filteredData[key],
+      source: 'saavn',
+    });
+  }
+  return sanitizedData;
+};
+
+const similarArtistsDataMapper = (data) => {
+  const mappedData = data.map((d) => {
+    const similarArtistsData: any = {};
+    for (let key in saavnDataConfigs.artistMeta) {
+      similarArtistsData[key] = dataExtractor(d, saavnDataConfigs.artistMeta[key]);
+    }
+    similarArtistsData['images'] = createImageLinks(similarArtistsData['images']);
+    similarArtistsData['token'] = similarArtistsData['token']
+      ? getToken(similarArtistsData['token'])
+      : '';
+    return similarArtistsData;
+  });
+  return mappedData;
+};
+
+const artistDataMapper = (data: any) => {
+  const baseData: any = {};
+  for (let key in saavnDataConfigs.artistMeta) {
+    baseData[key] = dataExtractor(data, saavnDataConfigs.artistMeta[key]);
+  }
+  baseData['images'] = createImageLinks(baseData['images']);
+  const sections = [];
+
+  for (let key in data.modules as any) {
+    const title = data.modules[key].title;
+    if (['topSongs', 'singles'].includes(key)) {
+      sections.push({ heading: title, data: songDataSanitizer(data[key]) });
+    } else if (['similarArtists'].includes(key)) {
+      const extractedData = similarArtistsDataMapper(data[key]);
+      sections.push({ heading: title, data: extractedData });
+    } else {
+      const extractedData = data[key].map((d) => albumDataMapper(d));
+      sections.push({ heading: title, data: extractedData });
+    }
+  }
+  baseData['sections'] = sections;
+
+  return baseData;
+};
+
+const songsDetailsMapper = (data: any) => {
+  const extractedData = songDataSanitizer(data.songs);
+  let modulesData = [];
+  for (let key in data.modules) {
+    let temp = {};
+    for (let k in saavnDataConfigs.songDetails) {
+      temp[k] = dataExtractor(data.modules[key], saavnDataConfigs.songDetails[k]);
+    }
+    modulesData.push(temp);
+  }
+
+  return { song: extractedData, modules: modulesData };
 };
 
 export {
   albumDataMapper,
+  artistDataMapper,
   autoCompleteDataMapper,
   homeDataMapper,
   modulesDataMapper,
   recommendedAlbumDataMapper,
+  songsDetailsMapper,
   stationSongsMapper,
   topSearchMapper,
 };
