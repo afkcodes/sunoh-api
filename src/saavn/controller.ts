@@ -226,7 +226,7 @@ const searchController = async (req: SaavnRequest, res: FastifyReply) => {
       p: page,
       n: count,
       ...params,
-      api_version: 3,
+      api_version: type === 'artist' ? 3 : 4,
     },
   });
 
