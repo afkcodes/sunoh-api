@@ -81,7 +81,7 @@ const saavnDataConfigs = {
     hasLyrics: 'more_info.has_lyrics',
     artists: 'more_info.artistMap.artists',
     origin: 'more_info.origin',
-    token: 'more_info.album_url',
+    token: ['more_info.url', 'perma_url'],
   },
   artistMeta: {
     title: 'name',
