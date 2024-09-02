@@ -100,9 +100,18 @@ const saavnDataConfigs = {
     artistIds: 'source_params.artist_ids',
     actorIds: 'source_params.actor_ids',
     songId: 'source_params.song_id',
-    language: 'source_params.language',
+    language: ['source_params.language', 'source_params.entity_language'],
     type: 'source_params.entity_type',
     pid: 'source_params.pid',
+  },
+  albumReco: {
+    endpoint: 'source',
+    heading: 'title',
+    albumId: 'source_params.albumid',
+    language: ['source_params.language', 'source_params.entity_language'],
+    type: 'source_params.entity_type',
+    year: 'source_params.album_year',
+    listId: 'source_params.listid',
   },
 };
 

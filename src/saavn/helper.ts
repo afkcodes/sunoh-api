@@ -2,6 +2,7 @@ import {
   capitalizeFirstLetter,
   createDownloadLinks,
   getToken,
+  isValidArray,
   toCamelCase,
   toSentenceCase,
 } from '../helpers/common';
@@ -166,7 +167,18 @@ const modulesDataMapper = (data: any) => {
 
 const albumDataMapper = (data: any) => {
   const extractedData = albumDataSanitizer(data);
-  return extractedData;
+  let modulesData = [];
+  if (data.modules) {
+    const modules = Object.keys(data.modules).filter((d) => !['artists', 'list'].includes(d));
+    for (let key of modules) {
+      let temp = {};
+      for (let k in saavnDataConfigs.albumReco) {
+        temp[k] = dataExtractor(data.modules[key], saavnDataConfigs.albumReco[k]);
+      }
+      modulesData.push(temp);
+    }
+  }
+  return isValidArray(modulesData) ? { album: extractedData, modules: modulesData } : extractedData;
 };
 
 const recommendedAlbumDataMapper = (data: any) => {

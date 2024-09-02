@@ -76,22 +76,6 @@ const modulesController = async (req: SaavnRequest, res: FastifyReply) => {
   res.code(code).send({ code, message, data: sanitizedData, error });
 };
 
-const albumController = async (req: SaavnRequest, res: FastifyReply) => {
-  const { albumId } = req.params;
-  const url = `${config.saavn.baseUrl}`;
-  const { data, code, error, message } = await fetchGet(url, {
-    params: {
-      __call: config.saavn.endpoint.album.token,
-      token: albumId,
-      type: 'album',
-      includeMetaTags: 0,
-      ...params,
-    },
-  });
-  const sanitizedData = albumDataMapper(data);
-  res.code(code).send({ code, message, data: sanitizedData, error });
-};
-
 const albumRecommendationController = async (req: SaavnRequest, res: FastifyReply) => {
   console.log(req.params);
   const { albumId } = req.params;
@@ -124,23 +108,114 @@ const topAlbumsOfYearController = async (req: SaavnRequest, res: FastifyReply) =
   res.code(code).send({ code, message, data: sanitizedData, error });
 };
 
+const albumController = async (req: SaavnRequest, res: FastifyReply) => {
+  try {
+    const { albumId } = req.params;
+    const url = `${config.saavn.baseUrl}`;
+    const { data, code, error, message } = await fetchGet(url, {
+      params: {
+        __call: config.saavn.endpoint.album.token,
+        token: albumId,
+        type: 'album',
+        includeMetaTags: 0,
+        ...params,
+      },
+    });
+    const sanitizedData: any = albumDataMapper(data);
+    const promiseArr = sanitizedData.modules.map((d) => {
+      return {
+        title: d.heading,
+        promise: fetchGet(url, {
+          params: {
+            __call: d.endpoint,
+            albumid: d.albumId,
+            album_year: d.year,
+            type: d.type,
+            language: d.language,
+            ...params,
+          },
+        }),
+      };
+    });
+    const results = await Promise.allSettled(promiseArr.map((item) => item.promise));
+
+    const sections = results
+      .map((result: any, index) =>
+        isValidArray(result.value.data)
+          ? {
+              heading: promiseArr[index].title,
+              data: isValidArray(result.value.data)
+                ? recommendedAlbumDataMapper(result.value.data)
+                : undefined,
+            }
+          : null,
+      )
+      .filter((d: any) => d != null);
+    res.code(code).send({ code, message, data: { album: sanitizedData.album, sections }, error });
+  } catch (error) {
+    res.code(400).send({
+      data: null,
+      code: 400,
+      message: 'failed to fetch',
+      error,
+    });
+  }
+};
+
 const playlistController = async (req: SaavnRequest, res: FastifyReply) => {
-  const { playlistId } = req.params;
-  const { page = 0, count = 50 } = req.query;
-  const url = `${config.saavn.baseUrl}`;
-  const { data, code, error, message } = await fetchGet(url, {
-    params: {
-      __call: config.saavn.endpoint.playlist.token,
-      token: playlistId,
-      type: 'playlist',
-      includeMetaTags: 0,
-      n: count,
-      p: page,
-      ...params,
-    },
-  });
-  const sanitizedData = await albumDataMapper(data);
-  res.code(code).send({ code, message, data: sanitizedData, error });
+  try {
+    const { playlistId } = req.params;
+    const { page = 0, count = 50 } = req.query;
+    const url = `${config.saavn.baseUrl}`;
+    const { data, code, error, message } = await fetchGet(url, {
+      params: {
+        __call: config.saavn.endpoint.playlist.token,
+        token: playlistId,
+        type: 'playlist',
+        includeMetaTags: 0,
+        n: count,
+        p: page,
+        ...params,
+      },
+    });
+    const sanitizedData: any = albumDataMapper(data);
+    const promiseArr = sanitizedData.modules.map((d) => {
+      return {
+        title: d.heading,
+        promise: fetchGet(url, {
+          params: {
+            __call: d.endpoint,
+            listid: d.listId,
+            entity_type: d.type,
+            entity_language: d.language,
+            ...params,
+          },
+        }),
+      };
+    });
+    const results = await Promise.allSettled(promiseArr.map((item) => item.promise));
+
+    const sections = results
+      .map((result: any, index) =>
+        isValidArray(result.value.data)
+          ? {
+              heading: promiseArr[index].title,
+              data: isValidArray(result.value.data)
+                ? recommendedAlbumDataMapper(result.value.data)
+                : undefined,
+            }
+          : null,
+      )
+      .filter((d: any) => d != null);
+    res.code(code).send({ code, message, data: { album: sanitizedData.album, sections }, error });
+  } catch (error) {
+    res.code(400).send({
+      data: null,
+      code: 400,
+      message: 'failed to fetch',
+      error,
+    });
+  }
 };
 
 const mixController = async (req: SaavnRequest, res: FastifyReply) => {
