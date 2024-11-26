@@ -56,7 +56,7 @@ const saavnDataConfigs = {
     followerCount: 'more_info.follower_count',
     fanCount: 'more_info.fan_count',
     editor: 'more_info.firstName',
-    artist: 'more_info.artists',
+    artists: 'more_info.artistMap.artists',
     playlistDuration: 'more_info.subtitle_desc.0',
     playlistSongCount: 'more_info.subtitle_desc.1',
   },
@@ -81,7 +81,7 @@ const saavnDataConfigs = {
     hasLyrics: 'more_info.has_lyrics',
     artists: 'more_info.artistMap.artists',
     origin: 'more_info.origin',
-    token: ['more_info.url', 'perma_url'],
+    token: ['more_info.url', 'perma_url', 'url'],
   },
   artistMeta: {
     title: 'name',

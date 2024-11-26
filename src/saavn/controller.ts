@@ -47,6 +47,8 @@ const homeController = async (req: SaavnRequest, res: FastifyReply) => {
   const languages = req.query.languages;
   const url = `${config.saavn.baseUrl}?__call=${config.saavn.endpoint.modules.home}`;
 
+  console.log('called here');
+
   const { data, code, error, message } = await fetchGet(url, {
     params: {
       ...params,
@@ -57,7 +59,7 @@ const homeController = async (req: SaavnRequest, res: FastifyReply) => {
   });
 
   const sanitizedData = homeDataMapper(data);
-  res.code(code).send({ code, message, data: sanitizedData, error });
+  res.code(code).send({ code, message, data: sanitizedData, error, rawData: data });
 };
 
 const modulesController = async (req: SaavnRequest, res: FastifyReply) => {
@@ -151,7 +153,12 @@ const albumController = async (req: SaavnRequest, res: FastifyReply) => {
           : null,
       )
       .filter((d: any) => d != null);
-    res.code(code).send({ code, message, data: { album: sanitizedData.album, sections }, error });
+    res.code(code).send({
+      code,
+      message,
+      data: { album: sanitizedData.album, sections, data },
+      error,
+    });
   } catch (error) {
     res.code(400).send({
       data: null,
@@ -207,7 +214,12 @@ const playlistController = async (req: SaavnRequest, res: FastifyReply) => {
           : null,
       )
       .filter((d: any) => d != null);
-    res.code(code).send({ code, message, data: { album: sanitizedData.album, sections }, error });
+    res.code(code).send({
+      code,
+      message,
+      data: { album: sanitizedData.album, sections },
+      error,
+    });
   } catch (error) {
     res.code(400).send({
       data: null,
@@ -432,6 +444,33 @@ const songController = async (req: SaavnRequest, res: FastifyReply) => {
   }
 };
 
+const recommendedSongsController = async (req: SaavnRequest, res: FastifyReply) => {
+  try {
+    const { songId } = req.params;
+    const languages = req.query.languages;
+    const url = `${config.saavn.baseUrl}`;
+
+    const { data, code, message, error } = await fetchGet(url, {
+      params: {
+        __call: config.saavn.endpoint.song.recommended,
+        pid: songId,
+        language: languages,
+        ...params,
+        ctx: 'wap6dot0',
+      },
+    });
+    const sanitizedData = songDataSanitizer(data);
+    res.code(code).send({ code, message, data: sanitizedData, error });
+  } catch (error) {
+    res.code(400).send({
+      data: null,
+      code: 400,
+      message: 'failed to fetch',
+      error,
+    });
+  }
+};
+
 export {
   albumController,
   albumRecommendationController,
@@ -440,6 +479,7 @@ export {
   mixController,
   modulesController,
   playlistController,
+  recommendedSongsController,
   searchController,
   songController,
   stationController,

@@ -56,6 +56,7 @@ const dataSanitizer = (data) => {
       id: artist.id,
       image: createImageLinks(artist.image),
       type: artist.type,
+      token: getToken(artist.perma_url),
     }),
   );
   const stationType = dataExtractor(data, saavnDataConfigs.home.moreInfo.stationType);
@@ -106,7 +107,12 @@ export const songDataSanitizer = (data) => {
         type: artist.type,
       })) || [];
 
-    songData.token = songData.token ? getToken(songData.token) : '';
+    console.log(songData);
+
+    songData.token = songData.token
+      ? getToken(songData.token)
+      : getToken(dataExtractor(item, saavnDataConfigs.list.token));
+
     songData.mediaUrls = songData.mediaUrls ? createDownloadLinks(songData?.mediaUrls) : [];
     songData.source = 'saavn';
 
@@ -115,7 +121,7 @@ export const songDataSanitizer = (data) => {
   return extractedData;
 };
 
-const albumDataSanitizer = (data) => {
+export const albumDataSanitizer = (data) => {
   const extractedData = {};
   for (let key in saavnDataConfigs.albumConfig) {
     const val =
@@ -146,7 +152,11 @@ const homeDataMapper = (data: any) => {
       }
     });
   }
-  return mappedData;
+  const filteredData = mappedData.filter((d) => {
+    return !d?.heading?.toLowerCase()?.includes('podcasts');
+  });
+
+  return filteredData;
 };
 
 const modulesDataMapper = (data: any) => {
@@ -167,6 +177,21 @@ const modulesDataMapper = (data: any) => {
 
 const albumDataMapper = (data: any) => {
   const extractedData = albumDataSanitizer(data);
+  try {
+    const artistData = extractedData['artists']?.map((artist) => {
+      return {
+        name: artist.name,
+        id: artist.id,
+        image: createImageLinks(artist.image),
+        type: artist.type,
+        token: getToken(artist.perma_url),
+      };
+    });
+    console.log(artistData);
+    extractedData['artists'] = artistData;
+  } catch (error) {
+    console.log(error);
+  }
   let modulesData = [];
   if (data.modules) {
     const modules = Object.keys(data.modules).filter((d) => !['artists', 'list'].includes(d));
