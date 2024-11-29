@@ -105,9 +105,8 @@ export const songDataSanitizer = (data) => {
         id: artist.id,
         image: createImageLinks(artist.image),
         type: artist.type,
+        token: getToken(artist.perma_url),
       })) || [];
-
-    console.log(songData);
 
     songData.token = songData.token
       ? getToken(songData.token)
@@ -187,7 +186,6 @@ const albumDataMapper = (data: any) => {
         token: getToken(artist.perma_url),
       };
     });
-    console.log(artistData);
     extractedData['artists'] = artistData;
   } catch (error) {
     console.log(error);

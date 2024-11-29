@@ -47,8 +47,6 @@ const homeController = async (req: SaavnRequest, res: FastifyReply) => {
   const languages = req.query.languages;
   const url = `${config.saavn.baseUrl}?__call=${config.saavn.endpoint.modules.home}`;
 
-  console.log('called here');
-
   const { data, code, error, message } = await fetchGet(url, {
     params: {
       ...params,
@@ -79,7 +77,6 @@ const modulesController = async (req: SaavnRequest, res: FastifyReply) => {
 };
 
 const albumRecommendationController = async (req: SaavnRequest, res: FastifyReply) => {
-  console.log(req.params);
   const { albumId } = req.params;
   const url = `${config.saavn.baseUrl}`;
   const { data, code, error, message } = await fetchGet(url, {
@@ -265,7 +262,6 @@ const stationController = async (req: SaavnRequest, res: FastifyReply) => {
 
 const stationSongsController = async (req: SaavnRequest, res: FastifyReply) => {
   const { stationId, count } = req.query;
-  console.log(stationId, count);
   const url = `${config.saavn.baseUrl}`;
   const { data, code, error, message } = await fetchGet(url, {
     params: {
@@ -300,8 +296,6 @@ const searchController = async (req: SaavnRequest, res: FastifyReply) => {
   const type = ((req.query.type as string) || 'all').toLowerCase();
   const page = Number(req.query.page) || 1;
   const count = Number(req.query.count) || 30;
-
-  console.log('Query parameters:', { q, type, page, count });
 
   let url = `${config.saavn.baseUrl}`;
 
@@ -397,6 +391,16 @@ const songController = async (req: SaavnRequest, res: FastifyReply) => {
         ...params,
       },
     });
+
+    console.log((data as any).songs[0].id);
+
+    const { data: lyricsData } = await fetchGet(url, {
+      params: {
+        __call: config.saavn.endpoint.get.lyrics,
+        lyrics_id: (data as any)?.songs[0]?.id,
+        ...params,
+      },
+    });
     const songData = songsDetailsMapper(data);
     const promiseArr = songData.modules.map((d) => {
       return {
@@ -422,14 +426,20 @@ const songController = async (req: SaavnRequest, res: FastifyReply) => {
         isValidArray(result.value.data)
           ? {
               heading: promiseArr[index].title,
-              data: isValidArray(result.value.data) ? result.value.data : undefined,
+              data: isValidArray(result.value.data)
+                ? result.value.data.map((d) => albumDataMapper(d))
+                : undefined,
             }
           : null,
       )
       .filter((d: any) => d != null);
 
     res.code(200).send({
-      data: { song: songData.song, sections: sections },
+      data: {
+        song: songData.song,
+        sections: sections,
+        lyrics: (lyricsData as any)?.lyrics || '',
+      },
       code,
       message,
       error,
