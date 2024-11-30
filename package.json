@@ -9,7 +9,7 @@
     "node": ">= 18.12"
   },
   "scripts": {
-    "start": "node -r dotenv/config dist/app.js dotenv_config_path=.env.production dotenv_config_debug=true",
+    "start": "node -r dotenv/config dist/api/dev-server.js",
     "dev": "cross-env NODE_ENV=development nodemon",
     "clean": "rimraf coverage build tmp dist",
     "prebuild": "npm run lint",
