@@ -57,7 +57,7 @@ const homeController = async (req: SaavnRequest, res: FastifyReply) => {
   });
 
   const sanitizedData = homeDataMapper(data);
-  res.code(code).send({ code, message, data: sanitizedData, error, rawData: data });
+  res.code(code).send({ code, message, data: sanitizedData, error });
 };
 
 const modulesController = async (req: SaavnRequest, res: FastifyReply) => {

@@ -23,16 +23,15 @@
     "deploy:prod": "vercel deploy --prod"
   },
   "dependencies": {
-    "@fastify/cors": "^10.0.1",
-    "chalk": "^5.3.0",
+    "@fastify/cors": "^10.0.2",
+    "chalk": "^5.4.1",
     "colorthief": "^2.6.0",
     "crypto-js": "^4.2.0",
-    "dotenv": "^16.4.5",
-    "fastify": "^5.1.0",
-    "form-data": "^4.0.1",
+    "dotenv": "^16.4.7",
+    "fastify": "^5.2.1",
+    "form-data": "^4.0.2",
     "install": "^0.13.0",
-    "nanoid": "^5.0.8",
-    "npm": "^10.9.1",
+    "nanoid": "^5.1.0",
     "tslib": "~2.8.1"
   },
   "devDependencies": {
@@ -41,12 +40,11 @@
     "@types/node": "~22",
     "cross-env": "^7.0.3",
     "husky": "^9.1.7",
-    "lint-staged": "^15.2.10",
-    "nodemon": "^3.1.7",
+    "lint-staged": "^15.4.3",
+    "nodemon": "^3.1.9",
     "rimraf": "~6.0",
     "ts-jest": "~29.2",
-    "tsx": "^4.19.2",
-    "typescript": "~5.7",
-    "vercel": "^39.1.1"
+    "tsx": "^4.19.3",
+    "typescript": "~5.7"
   }
 }
