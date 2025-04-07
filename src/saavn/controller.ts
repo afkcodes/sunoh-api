@@ -1,4 +1,5 @@
 import { FastifyReply, FastifyRequest } from 'fastify';
+import { cache } from '../app';
 import { config } from '../config/config';
 import { isValidArray } from '../helpers/common';
 import { fetchGet } from '../helpers/http';
@@ -46,18 +47,28 @@ const params = {
 const homeController = async (req: SaavnRequest, res: FastifyReply) => {
   const languages = req.query.languages;
   const url = `${config.saavn.baseUrl}?__call=${config.saavn.endpoint.modules.home}`;
+  const key = `home_${languages}`;
 
-  const { data, code, error, message } = await fetchGet(url, {
-    params: {
-      ...params,
-    },
-    headers: {
-      cookie: `L=${languages || 'hindi,punjabi'}; gdpr_acceptance=true; DL=english`,
-    },
-  });
+  const cacheData = await cache.get(key);
+  if (cacheData) {
+    res.code(cacheData.code).send({
+      ...cacheData,
+    });
+  } else {
+    const { data, code, error, message } = await fetchGet(url, {
+      params: {
+        ...params,
+      },
+      headers: {
+        cookie: `L=${languages || 'hindi,punjabi'}; gdpr_acceptance=true; DL=english`,
+      },
+    });
 
-  const sanitizedData = homeDataMapper(data);
-  res.code(code).send({ code, message, data: sanitizedData, error });
+    const sanitizedData = homeDataMapper(data);
+    cache.set(key, { code, message, data: sanitizedData, error });
+
+    res.code(code).send({ code, message, data: sanitizedData, error });
+  }
 };
 
 const modulesController = async (req: SaavnRequest, res: FastifyReply) => {
@@ -110,52 +121,67 @@ const topAlbumsOfYearController = async (req: SaavnRequest, res: FastifyReply) =
 const albumController = async (req: SaavnRequest, res: FastifyReply) => {
   try {
     const { albumId } = req.params;
-    const url = `${config.saavn.baseUrl}`;
-    const { data, code, error, message } = await fetchGet(url, {
-      params: {
-        __call: config.saavn.endpoint.album.token,
-        token: albumId,
-        type: 'album',
-        includeMetaTags: 0,
-        ...params,
-      },
-    });
-    const sanitizedData: any = albumDataMapper(data);
-    const promiseArr = sanitizedData.modules.map((d) => {
-      return {
-        title: d.heading,
-        promise: fetchGet(url, {
-          params: {
-            __call: d.endpoint,
-            albumid: d.albumId,
-            album_year: d.year,
-            type: d.type,
-            language: d.language,
-            ...params,
-          },
-        }),
-      };
-    });
-    const results = await Promise.allSettled(promiseArr.map((item) => item.promise));
+    const cacheData = await cache.get(albumId);
+    if (cacheData) {
+      res.code(cacheData.code).send({
+        ...cacheData,
+      });
+    } else {
+      const url = `${config.saavn.baseUrl}`;
+      const { data, code, error, message } = await fetchGet(url, {
+        params: {
+          __call: config.saavn.endpoint.album.token,
+          token: albumId,
+          type: 'album',
+          includeMetaTags: 0,
+          ...params,
+        },
+      });
+      const sanitizedData: any = albumDataMapper(data);
+      const promiseArr = sanitizedData.modules.map((d) => {
+        return {
+          title: d.heading,
+          promise: fetchGet(url, {
+            params: {
+              __call: d.endpoint,
+              albumid: d.albumId,
+              album_year: d.year,
+              type: d.type,
+              language: d.language,
+              ...params,
+            },
+          }),
+        };
+      });
+      const results = await Promise.allSettled(promiseArr.map((item) => item.promise));
 
-    const sections = results
-      .map((result: any, index) =>
-        isValidArray(result.value.data)
-          ? {
-              heading: promiseArr[index].title,
-              data: isValidArray(result.value.data)
-                ? recommendedAlbumDataMapper(result.value.data)
-                : undefined,
-            }
-          : null,
-      )
-      .filter((d: any) => d != null);
-    res.code(code).send({
-      code,
-      message,
-      data: { album: sanitizedData.album, sections, data },
-      error,
-    });
+      const sections = results
+        .map((result: any, index) =>
+          isValidArray(result.value.data)
+            ? {
+                heading: promiseArr[index].title,
+                data: isValidArray(result.value.data)
+                  ? recommendedAlbumDataMapper(result.value.data)
+                  : undefined,
+              }
+            : null,
+        )
+        .filter((d: any) => d != null);
+      res.code(code).send({
+        code,
+        message,
+        data: { album: sanitizedData.album, sections, data },
+        error,
+      });
+
+      //setting up valkey cache data
+      cache.set(albumId, {
+        code,
+        message,
+        data: { album: sanitizedData.album, sections, data },
+        error,
+      });
+    }
   } catch (error) {
     res.code(400).send({
       data: null,
