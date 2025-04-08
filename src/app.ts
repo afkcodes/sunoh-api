@@ -7,6 +7,8 @@ import { saavnRoutes } from './saavn/route';
 
 export const cache = new IOValKeyCache(process.env.VALKEY_URL || 'redis://localhost:6379');
 
+cache.deleteAll();
+
 const entry = (fastify: FastifyInstance, _opts: FastifyServerOptions, done) => {
   fastify.get('/', async () => ({ status: 'OK' }));
   fastify.get('/proxy', proxyImage);
