@@ -9,7 +9,7 @@ class IOValKeyCache {
    * @param url Redis/Valkey connection URL (default: redis://localhost:6379)
    * @param ttl Default TTL in seconds (default: 5 hours)
    */
-  constructor(url: string = 'redis://localhost:6379', ttl: number = 18000) {
+  constructor(url: string = 'redis://localhost:6379', ttl: number = 3600) {
     this.defaultTTL = ttl;
 
     // Create the ioredis client (works with Valkey)
@@ -77,11 +77,49 @@ class IOValKeyCache {
   /**
    * Delete a value from the cache
    *
-   * @param key Cache key or array of keys
-   * @returns Number of keys deleted
+   * @param key Cache key
+   * @returns Number of keys deleted (1 if successful, 0 if key didn't exist)
    */
   async delete(key: string): Promise<number> {
-    return await this.client.del(key as string);
+    return await this.client.del(key);
+  }
+
+  /**
+   * Delete multiple values from the cache
+   *
+   * @param keys Array of cache keys to delete
+   * @returns Number of keys deleted
+   */
+  async deleteMany(keys: string[]): Promise<number> {
+    if (keys.length === 0) return 0;
+    return await this.client.del(...keys);
+  }
+
+  /**
+   * Delete all keys in the cache with a specific pattern
+   * WARNING: This can be resource-intensive on large datasets
+   *
+   * @param pattern Pattern to match keys (e.g., "prefix:*")
+   * @returns Number of keys deleted
+   */
+  async deleteByPattern(pattern: string): Promise<number> {
+    // Get all keys matching the pattern
+    const keys = await this.client.keys(pattern);
+
+    if (keys.length === 0) return 0;
+
+    // Delete all matching keys
+    return await this.client.del(...keys);
+  }
+
+  /**
+   * Delete all keys in the current database
+   * WARNING: Use with caution as this will remove ALL keys
+   *
+   * @returns 'OK' if successful
+   */
+  async deleteAll(): Promise<string> {
+    return await this.client.flushdb();
   }
 
   /**
