@@ -4,6 +4,7 @@ import cors from '@fastify/cors';
 // Require the framework
 import Fastify from 'fastify';
 import entry from '../src/app';
+import { initializeLiveMusicWebSocket } from '../src/websocket/routes';
 
 dotenv.config();
 
@@ -31,4 +32,8 @@ app.register(entry, {
 const port = 3600;
 app.listen({ port }).then(() => {
   console.log(`Server Started at http://localhost:${port}`);
+  
+  // Initialize WebSocket server after HTTP server is running
+  initializeLiveMusicWebSocket(app.server);
+  console.log(`🎵 WebSocket server ready at ws://localhost:${port}/ws/live-music`);
 });
