@@ -78,4 +78,46 @@ export async function liveMusicRoutes(fastify: FastifyInstance) {
       timestamp: Date.now()
     });
   });
+
+  // Get active jam sessions
+  fastify.get('/jam-sessions', async (request: FastifyRequest, reply: FastifyReply) => {
+    if (!liveMusicManager) {
+      return reply.code(503).send({
+        error: 'WebSocket server not initialized',
+        jamSessions: []
+      });
+    }
+
+    const jamSessions = liveMusicManager.getJamSessionsForAPI();
+    return {
+      success: true,
+      jamSessions,
+      count: jamSessions.length,
+      timestamp: Date.now()
+    };
+  });
+
+  // Get specific jam session
+  fastify.get('/jam-sessions/:id', async (request: FastifyRequest<{Params: {id: string}}>, reply: FastifyReply) => {
+    if (!liveMusicManager) {
+      return reply.code(503).send({
+        error: 'WebSocket server not initialized',
+        jamSession: null
+      });
+    }
+
+    const jamSession = liveMusicManager.getJamSessionByIdForAPI(request.params.id);
+    if (!jamSession) {
+      return reply.code(404).send({
+        error: 'Jam session not found',
+        jamSession: null
+      });
+    }
+
+    return {
+      success: true,
+      jamSession,
+      timestamp: Date.now()
+    };
+  });
 }
