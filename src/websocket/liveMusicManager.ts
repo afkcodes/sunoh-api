@@ -702,6 +702,21 @@ export class LiveMusicWebSocketManager {
       return;
     }
 
+    // Check for duplicates before adding
+    const songId = message.song.id;
+    const songToken = message.song.token;
+    const isDuplicate = jamSession.queue.some(
+      (queueSong) => 
+        queueSong.id === songId || 
+        queueSong.token === songToken ||
+        (queueSong.id === songToken && queueSong.token === songId)
+    );
+
+    if (isDuplicate) {
+      this.sendError(ws, `"${message.song.title}" is already in the queue`);
+      return;
+    }
+
     // Add song to queue
     jamSession.queue.push(message.song);
 
@@ -1109,8 +1124,18 @@ export class LiveMusicWebSocketManager {
       return;
     }
 
-    // Update the jam session queue with the local queue
-    jamSession.queue = message.queue;
+    // Remove duplicates from the incoming queue
+    const uniqueQueue = message.queue.filter((song: any, index: number, arr: any[]) => {
+      return !arr.slice(0, index).some(
+        (prevSong: any) => 
+          prevSong.id === song.id || 
+          prevSong.token === song.token ||
+          (prevSong.id === song.token && prevSong.token === song.id)
+      );
+    });
+
+    // Update the jam session queue with the deduplicated local queue
+    jamSession.queue = uniqueQueue;
     this.jamSessions.set(sessionId, jamSession);
 
     console.log(
