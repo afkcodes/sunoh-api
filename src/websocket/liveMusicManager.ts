@@ -15,6 +15,16 @@ function generateId(): string {
   return randomBytes(16).toString('hex');
 }
 
+// Helper function to generate invite codes
+function generateInviteCode(): string {
+  const chars = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789';
+  let result = '';
+  for (let i = 0; i < 6; i++) {
+    result += chars.charAt(Math.floor(Math.random() * chars.length));
+  }
+  return result;
+}
+
 interface ClientConnection {
   ws: WebSocket;
   user: ConnectedUser;
@@ -123,6 +133,10 @@ export class LiveMusicWebSocketManager {
 
       case 'jam_join':
         this.handleJamSessionJoin(clientId, ws, message);
+        break;
+
+      case 'jam_join_with_code':
+        this.handleJamSessionJoinWithCode(clientId, ws, message);
         break;
 
       case 'jam_leave':
@@ -401,6 +415,31 @@ export class LiveMusicWebSocketManager {
     }
 
     const sessionId = generateId();
+    const inviteCode = message.isPrivate ? generateInviteCode() : undefined;
+
+    // Initialize queue with initial track if provided
+    const initialQueue: LiveMusicActivity['song'][] = [];
+    let currentSong: LiveMusicActivity['song'] | undefined;
+
+    if (message.initialTrack) {
+      // Convert MediaTrack to jam session song format
+      const trackSong = {
+        id: message.initialTrack.id,
+        title: message.initialTrack.title,
+        artist: message.initialTrack.artist || 'Unknown Artist',
+        artwork: message.initialTrack.artwork || [],
+        duration: message.initialTrack.duration || 0,
+        token: message.initialTrack.source || message.initialTrack.id,
+        rawData: message.initialTrack, // Store the complete MediaTrack for playback
+      };
+      initialQueue.push(trackSong);
+      currentSong = trackSong;
+    } else if (message.initialSong) {
+      // Fallback for legacy initialSong format
+      initialQueue.push(message.initialSong);
+      currentSong = message.initialSong;
+    }
+
     const jamSession: JamSession = {
       id: sessionId,
       name: message.jamSessionName,
@@ -408,9 +447,12 @@ export class LiveMusicWebSocketManager {
       hostUsername: connection.user.username,
       createdAt: Date.now(),
       participants: [clientId],
-      queue: [],
-      playbackState: 'paused',
+      queue: initialQueue,
+      currentSong,
+      playbackState: message.initialSong ? 'playing' : 'paused',
       progress: 0,
+      isPrivate: message.isPrivate || false,
+      inviteCode,
     };
 
     // Update user as host
@@ -421,7 +463,13 @@ export class LiveMusicWebSocketManager {
     this.jamSessions.set(sessionId, jamSession);
 
     console.log(
-      `🎵 Jam session created: ${message.jamSessionName} by ${connection.user.username}`
+      `🎵 Jam session created: ${message.jamSessionName} by ${connection.user.username}${
+        message.initialTrack
+          ? ' with initial track: ' + message.initialTrack.title
+          : message.initialSong
+          ? ' with initial song: ' + message.initialSong.title
+          : ''
+      }`
     );
 
     // Notify the creator
@@ -458,6 +506,12 @@ export class LiveMusicWebSocketManager {
       return;
     }
 
+    // Check if session is private and requires invite code
+    if (jamSession.isPrivate) {
+      this.sendError(ws, 'This is a private session. Use invite code to join.');
+      return;
+    }
+
     // Add user to participants
     jamSession.participants.push(clientId);
     this.jamSessions.set(jamSession.id, jamSession);
@@ -480,6 +534,68 @@ export class LiveMusicWebSocketManager {
       {
         type: 'jam_updated',
         jamSession,
+        username: connection.user.username,
+        timestamp: Date.now(),
+      },
+      clientId
+    );
+  }
+
+  private handleJamSessionJoinWithCode(
+    clientId: string,
+    ws: WebSocket,
+    message: WebSocketMessage
+  ) {
+    const connection = this.clients.get(clientId);
+    if (!connection || !message.inviteCode) {
+      this.sendError(ws, 'Invalid invite code join request');
+      return;
+    }
+
+    // Check if user is already in a jam session
+    if (connection.user.isJamSessionHost || connection.user.joinedJamSessionId) {
+      this.sendError(ws, 'You are already part of a jam session');
+      return;
+    }
+
+    // Find session by invite code
+    let targetSession: JamSession | null = null;
+    for (const [sessionId, jamSession] of this.jamSessions.entries()) {
+      if (jamSession.inviteCode === message.inviteCode.toUpperCase()) {
+        targetSession = jamSession;
+        break;
+      }
+    }
+
+    if (!targetSession) {
+      this.sendError(ws, 'Invalid invite code');
+      return;
+    }
+
+    // Add user to participants
+    targetSession.participants.push(clientId);
+    this.jamSessions.set(targetSession.id, targetSession);
+
+    // Update user
+    connection.user.joinedJamSessionId = targetSession.id;
+
+    console.log(
+      `👤 ${connection.user.username} joined private jam session: ${targetSession.name} using invite code`
+    );
+
+    // Notify the user
+    this.sendMessage(ws, {
+      type: 'jam_joined',
+      jamSession: targetSession,
+      timestamp: Date.now(),
+    });
+
+    // Notify host and other participants
+    this.broadcastToJamSessionParticipants(
+      targetSession.id,
+      {
+        type: 'jam_updated',
+        jamSession: targetSession,
         username: connection.user.username,
         timestamp: Date.now(),
       },
@@ -1016,11 +1132,24 @@ export class LiveMusicWebSocketManager {
   }
 
   private broadcastJamSessions() {
-    const jamSessionsArray = Array.from(this.jamSessions.values());
-    this.broadcastToAll({
-      type: 'jam_updated',
-      jamSessions: jamSessionsArray,
-      timestamp: Date.now(),
+    // Get all sessions and filter based on privacy for each client
+    this.clients.forEach((connection, clientId) => {
+      if (connection.ws.readyState === WebSocket.OPEN) {
+        const jamSessionsArray = Array.from(this.jamSessions.values()).filter(
+          (session) => {
+            // Show public sessions to everyone
+            if (!session.isPrivate) return true;
+            // Show private sessions only to participants
+            return session.participants.includes(clientId);
+          }
+        );
+
+        this.sendMessage(connection.ws, {
+          type: 'jam_updated',
+          jamSessions: jamSessionsArray,
+          timestamp: Date.now(),
+        });
+      }
     });
   }
 

@@ -36,6 +36,8 @@ export interface JamSession {
   currentSong?: LiveMusicActivity['song']; // Currently playing song
   playbackState?: 'playing' | 'paused'; // Current playback state
   progress?: number; // Current playback progress in seconds
+  isPrivate?: boolean; // Whether the session is private
+  inviteCode?: string; // Invite code for private sessions
 }
 
 export interface WebSocketMessage {
@@ -47,6 +49,7 @@ export interface WebSocketMessage {
     | 'heartbeat'
     | 'jam_create'
     | 'jam_join'
+    | 'jam_join_with_code'
     | 'jam_leave'
     | 'jam_add_to_queue'
     | 'jam_update_state'
@@ -69,6 +72,10 @@ export interface WebSocketMessage {
   fromIndex?: number;
   toIndex?: number;
   participantId?: string;
+  initialSong?: LiveMusicActivity['song'];
+  initialTrack?: any; // MediaTrack object from frontend
+  isPrivate?: boolean;
+  inviteCode?: string;
 }
 
 export interface WebSocketResponse {
