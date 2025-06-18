@@ -60,12 +60,14 @@ export class LiveMusicWebSocketManager {
   }
 
   private startIntervals() {
-    // Cleanup inactive clients every 30 seconds
+    // Cleanup only truly empty sessions every 60 seconds (less frequent)
     this.cleanupInterval = setInterval(() => {
-      this.cleanupInactiveClients();
-      // Also clean up empty jam sessions periodically
+      console.log(`🔍 Running cleanup check... (${this.clients.size} clients, ${this.jamSessions.size} sessions)`);
+      // Only clean up sessions that have no active participants
       this.cleanupEmptyJamSessions();
-    }, 30000);
+      // Only clean up clients that are truly disconnected (not based on inactivity)
+      this.cleanupDisconnectedClients();
+    }, 60000); // Reduced frequency to every minute
 
     // Send heartbeat every 25 seconds
     this.heartbeatInterval = setInterval(() => {
@@ -109,6 +111,12 @@ export class LiveMusicWebSocketManager {
   }
 
   private handleMessage(clientId: string, ws: WebSocket, message: WebSocketMessage) {
+    // Update last activity for any message
+    const connection = this.clients.get(clientId);
+    if (connection) {
+      connection.user.lastActivity = Date.now();
+    }
+
     switch (message.type) {
       case 'connect':
         this.handleUserConnect(clientId, ws, message.username!);
@@ -176,7 +184,7 @@ export class LiveMusicWebSocketManager {
         break;
 
       default:
-        this.sendError(ws, 'Unknown message type');
+        console.warn(`Unknown message type: ${message.type}`);
     }
   }
 
@@ -279,6 +287,7 @@ export class LiveMusicWebSocketManager {
     const connection = this.clients.get(clientId);
     if (connection) {
       connection.user.lastActivity = Date.now();
+      // Optional: Send pong response
       this.sendMessage(connection.ws, {
         type: 'pong',
         timestamp: Date.now(),
@@ -289,7 +298,8 @@ export class LiveMusicWebSocketManager {
   private handleDisconnection(clientId: string) {
     const connection = this.clients.get(clientId);
     if (connection) {
-      console.log(`👋 User disconnected: ${connection.user.username} (${clientId})`);
+      const inactiveTime = Date.now() - connection.user.lastActivity;
+      console.log(`👋 User disconnected: ${connection.user.username} (${clientId}) - was inactive for ${Math.round(inactiveTime / 1000)}s`);
 
       const username = connection.user.username;
 
@@ -373,14 +383,43 @@ export class LiveMusicWebSocketManager {
     });
   }
 
+  private cleanupDisconnectedClients() {
+    // Only clean up clients whose WebSocket connections are actually closed
+    // Do not use inactivity timeouts - only clean truly disconnected clients
+    const clientsToRemove: string[] = [];
+    
+    this.clients.forEach((connection, clientId) => {
+      if (connection.ws.readyState === WebSocket.CLOSED || connection.ws.readyState === WebSocket.CLOSING) {
+        console.log(
+          `🧹 Cleaning up disconnected client: ${connection.user.username} (${clientId}) - WebSocket state: ${connection.ws.readyState}`
+        );
+        clientsToRemove.push(clientId);
+      }
+    });
+
+    // Remove disconnected clients
+    clientsToRemove.forEach(clientId => {
+      const connection = this.clients.get(clientId);
+      if (connection) {
+        // Handle jam session cleanup before removing client
+        this.handleJamSessionCleanupForClient(clientId);
+        this.clients.delete(clientId);
+      }
+    });
+
+    if (clientsToRemove.length > 0) {
+      console.log(`🧹 Cleaned up ${clientsToRemove.length} disconnected clients`);
+    }
+  }
+
   private cleanupInactiveClients() {
     const now = Date.now();
-    const timeout = 5 * 60 * 1000; // 5 minutes
+    const timeout = 10 * 60 * 1000; // 10 minutes (increased from 5 minutes)
 
     this.clients.forEach((connection, clientId) => {
       if (now - connection.user.lastActivity > timeout) {
         console.log(
-          `🧹 Cleaning up inactive client: ${connection.user.username} (${clientId})`
+          `🧹 Cleaning up inactive client: ${connection.user.username} (${clientId}) - inactive for ${Math.round((now - connection.user.lastActivity) / 1000)}s`
         );
 
         // Handle jam session cleanup before removing client
@@ -458,6 +497,7 @@ export class LiveMusicWebSocketManager {
     // Update user as host
     connection.user.isJamSessionHost = true;
     connection.user.joinedJamSessionId = sessionId;
+    connection.user.lastActivity = Date.now(); // Update activity when joining session
 
     // Store jam session
     this.jamSessions.set(sessionId, jamSession);
@@ -518,6 +558,7 @@ export class LiveMusicWebSocketManager {
 
     // Update user
     connection.user.joinedJamSessionId = jamSession.id;
+    connection.user.lastActivity = Date.now(); // Update activity when joining session
 
     console.log(`👤 ${connection.user.username} joined jam session: ${jamSession.name}`);
 
@@ -578,6 +619,7 @@ export class LiveMusicWebSocketManager {
 
     // Update user
     connection.user.joinedJamSessionId = targetSession.id;
+    connection.user.lastActivity = Date.now(); // Update activity when joining session
 
     console.log(
       `👤 ${connection.user.username} joined private jam session: ${targetSession.name} using invite code`
@@ -1265,25 +1307,29 @@ export class LiveMusicWebSocketManager {
     const initialSessionCount = this.jamSessions.size;
 
     this.jamSessions.forEach((jamSession, sessionId) => {
-      // Check if all participants are still connected
-      const activeParticipants = jamSession.participants.filter((participantId) =>
-        this.clients.has(participantId)
-      );
+      // Check if all participants are still connected (based on actual connection state, not activity)
+      const activeParticipants = jamSession.participants.filter((participantId) => {
+        const participant = this.clients.get(participantId);
+        return participant && (
+          participant.ws.readyState === WebSocket.OPEN || 
+          participant.ws.readyState === WebSocket.CONNECTING
+        );
+      });
 
       if (activeParticipants.length === 0) {
-        // No active participants left
-        console.log(`🧹 Cleaning up empty jam session: ${jamSession.name}`);
+        // No active participants left - safe to clean up
+        console.log(`🧹 Cleaning up empty jam session: ${jamSession.name} (no connected participants)`);
         sessionsToDelete.push(sessionId);
       } else if (activeParticipants.length !== jamSession.participants.length) {
-        // Some participants are no longer connected, update the list
+        // Some participants have disconnected, update the list but keep the session
         console.log(
-          `🧹 Updating participants for jam session: ${jamSession.name} (${activeParticipants.length}/${jamSession.participants.length} active)`
+          `🔄 Updating participants for jam session: ${jamSession.name} (${activeParticipants.length}/${jamSession.participants.length} active)`
         );
         jamSession.participants = activeParticipants;
         this.jamSessions.set(sessionId, jamSession);
 
         // Check if host is still connected
-        const hostStillConnected = this.clients.has(jamSession.hostId);
+        const hostStillConnected = activeParticipants.includes(jamSession.hostId);
         if (!hostStillConnected) {
           // Host is gone, end the session
           console.log(
@@ -1310,6 +1356,7 @@ export class LiveMusicWebSocketManager {
           }
         }
       }
+      // If activeParticipants.length === jamSession.participants.length, everyone is still connected - do nothing
     });
 
     // Delete empty sessions
@@ -1352,6 +1399,16 @@ export class LiveMusicWebSocketManager {
 
   getJamSessionByIdForAPI(sessionId: string): JamSession | undefined {
     return this.jamSessions.get(sessionId);
+  }
+
+  // Manual cleanup method for administrative use
+  forceCleanupInactiveClients(): number {
+    console.log('🔧 Manual cleanup: Forcing cleanup of inactive clients...');
+    const beforeCount = this.clients.size;
+    this.cleanupInactiveClients();
+    const cleanedCount = beforeCount - this.clients.size;
+    console.log(`🔧 Manual cleanup completed: ${cleanedCount} clients removed`);
+    return cleanedCount;
   }
 
   // Cleanup method
