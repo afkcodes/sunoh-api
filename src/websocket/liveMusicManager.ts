@@ -53,6 +53,8 @@ export class LiveMusicWebSocketManager {
     // Cleanup inactive clients every 30 seconds
     this.cleanupInterval = setInterval(() => {
       this.cleanupInactiveClients();
+      // Also clean up empty jam sessions periodically
+      this.cleanupEmptyJamSessions();
     }, 30000);
 
     // Send heartbeat every 25 seconds
@@ -276,6 +278,10 @@ export class LiveMusicWebSocketManager {
       console.log(`👋 User disconnected: ${connection.user.username} (${clientId})`);
 
       const username = connection.user.username;
+
+      // Handle jam session cleanup before removing client
+      this.handleJamSessionCleanupForClient(clientId);
+
       this.clients.delete(clientId);
 
       // Notify other clients about user leaving
@@ -362,12 +368,19 @@ export class LiveMusicWebSocketManager {
         console.log(
           `🧹 Cleaning up inactive client: ${connection.user.username} (${clientId})`
         );
+
+        // Handle jam session cleanup before removing client
+        this.handleJamSessionCleanupForClient(clientId);
+
         if (connection.ws.readyState === WebSocket.OPEN) {
           connection.ws.close();
         }
         this.clients.delete(clientId);
       }
     });
+
+    // Clean up empty jam sessions
+    this.cleanupEmptyJamSessions();
   }
 
   private handleJamSessionCreate(
@@ -1026,6 +1039,136 @@ export class LiveMusicWebSocketManager {
       if (participant && participant.ws.readyState === WebSocket.OPEN) {
         this.sendMessage(participant.ws, message);
       }
+    }
+  }
+
+  // Helper methods for jam session cleanup
+  private handleJamSessionCleanupForClient(clientId: string) {
+    const connection = this.clients.get(clientId);
+    if (!connection) return;
+
+    const sessionId = connection.user.joinedJamSessionId;
+    if (!sessionId) return;
+
+    const jamSession = this.jamSessions.get(sessionId);
+    if (!jamSession) return;
+
+    if (connection.user.isJamSessionHost) {
+      // Host is disconnecting - end the session
+      console.log(`🎵 Host disconnected, ending jam session: ${jamSession.name}`);
+
+      // Notify all participants that the session has ended
+      for (const participantId of jamSession.participants) {
+        if (participantId === clientId) continue; // Skip the disconnecting host
+
+        const participant = this.clients.get(participantId);
+        if (participant && participant.ws.readyState === WebSocket.OPEN) {
+          // Reset participant's jam session data
+          participant.user.joinedJamSessionId = undefined;
+          participant.user.isJamSessionHost = false;
+
+          // Notify participant
+          this.sendMessage(participant.ws, {
+            type: 'jam_left',
+            username: connection.user.username,
+            error: 'Host has disconnected from the session',
+            timestamp: Date.now(),
+          });
+        }
+      }
+
+      // Remove the session
+      this.jamSessions.delete(sessionId);
+    } else {
+      // Participant is disconnecting
+      console.log(
+        `🎵 Participant disconnected from jam session: ${connection.user.username}`
+      );
+
+      // Remove participant from session
+      jamSession.participants = jamSession.participants.filter((id) => id !== clientId);
+      this.jamSessions.set(sessionId, jamSession);
+
+      // Notify remaining participants about the updated session
+      this.broadcastToJamSessionParticipants(sessionId, {
+        type: 'jam_updated',
+        jamSession,
+        username: connection.user.username,
+        timestamp: Date.now(),
+      });
+    }
+
+    // Reset user's jam session data
+    connection.user.joinedJamSessionId = undefined;
+    connection.user.isJamSessionHost = false;
+
+    // Broadcast updated jam sessions to all users
+    this.broadcastJamSessions();
+  }
+
+  private cleanupEmptyJamSessions() {
+    const sessionsToDelete: string[] = [];
+    const initialSessionCount = this.jamSessions.size;
+
+    this.jamSessions.forEach((jamSession, sessionId) => {
+      // Check if all participants are still connected
+      const activeParticipants = jamSession.participants.filter((participantId) =>
+        this.clients.has(participantId)
+      );
+
+      if (activeParticipants.length === 0) {
+        // No active participants left
+        console.log(`🧹 Cleaning up empty jam session: ${jamSession.name}`);
+        sessionsToDelete.push(sessionId);
+      } else if (activeParticipants.length !== jamSession.participants.length) {
+        // Some participants are no longer connected, update the list
+        console.log(
+          `🧹 Updating participants for jam session: ${jamSession.name} (${activeParticipants.length}/${jamSession.participants.length} active)`
+        );
+        jamSession.participants = activeParticipants;
+        this.jamSessions.set(sessionId, jamSession);
+
+        // Check if host is still connected
+        const hostStillConnected = this.clients.has(jamSession.hostId);
+        if (!hostStillConnected) {
+          // Host is gone, end the session
+          console.log(
+            `🎵 Host no longer connected, ending jam session: ${jamSession.name}`
+          );
+          sessionsToDelete.push(sessionId);
+
+          // Notify remaining participants
+          for (const participantId of activeParticipants) {
+            const participant = this.clients.get(participantId);
+            if (participant && participant.ws.readyState === WebSocket.OPEN) {
+              // Reset participant's jam session data
+              participant.user.joinedJamSessionId = undefined;
+              participant.user.isJamSessionHost = false;
+
+              // Notify participant
+              this.sendMessage(participant.ws, {
+                type: 'jam_left',
+                username: jamSession.hostUsername,
+                error: 'Host has disconnected from the session',
+                timestamp: Date.now(),
+              });
+            }
+          }
+        }
+      }
+    });
+
+    // Delete empty sessions
+    sessionsToDelete.forEach((sessionId) => {
+      this.jamSessions.delete(sessionId);
+    });
+
+    // If any sessions were deleted, broadcast updated sessions
+    if (sessionsToDelete.length > 0) {
+      console.log(
+        `🧹 Cleaned up ${sessionsToDelete.length} empty jam sessions (${initialSessionCount} -> ${this.jamSessions.size})`
+      );
+      this.broadcastJamSessions();
     }
   }
 
