@@ -449,7 +449,7 @@ export class LiveMusicWebSocketManager {
       participants: [clientId],
       queue: initialQueue,
       currentSong,
-      playbackState: message.initialSong ? 'playing' : 'paused',
+      playbackState: (message.initialTrack || message.initialSong) ? 'playing' : 'paused',
       progress: 0,
       isPrivate: message.isPrivate || false,
       inviteCode,
