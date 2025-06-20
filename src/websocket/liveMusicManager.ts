@@ -987,6 +987,7 @@ export class LiveMusicWebSocketManager {
       jamSession,
       queue: jamSession.queue,
       username: connection.user.username,
+      action: 'add', // Add action type to distinguish from reordering
       timestamp: Date.now(),
     });
   }
@@ -1196,6 +1197,7 @@ export class LiveMusicWebSocketManager {
       jamSession,
       queue: jamSession.queue,
       username: connection.user.username,
+      action: 'remove', // Add action type to distinguish from other operations
       timestamp: Date.now(),
     });
   }
@@ -1269,6 +1271,7 @@ export class LiveMusicWebSocketManager {
       jamSession,
       queue: jamSession.queue,
       username: connection.user.username,
+      action: 'reorder', // Add action type to distinguish from song addition
       timestamp: Date.now(),
     });
   }
@@ -1400,6 +1403,7 @@ export class LiveMusicWebSocketManager {
         jamSession,
         queue: jamSession.queue,
         username: connection.user.username,
+        action: 'sync', // Add action type for sync operations
         timestamp: Date.now(),
       },
       clientId

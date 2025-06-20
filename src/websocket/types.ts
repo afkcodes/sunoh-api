@@ -113,6 +113,7 @@ export interface WebSocketResponse {
   recentActivities?: LiveMusicActivity[];
   error?: string;
   message?: string;
+  action?: string; // For distinguishing queue update types (add, reorder, remove)
   timestamp?: number;
   connectedUsers?: ConnectedUser[];
   jamSession?: JamSession;
