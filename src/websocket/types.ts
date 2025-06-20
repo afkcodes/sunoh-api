@@ -38,6 +38,14 @@ export interface JamSession {
   progress?: number; // Current playback progress in seconds
   isPrivate?: boolean; // Whether the session is private
   inviteCode?: string; // Invite code for private sessions
+  lastEmptyTime?: number; // Timestamp when session became empty (no connected participants)
+  disconnectedParticipants?: { // Track disconnected participants for reconnection
+    [userId: string]: {
+      username: string;
+      disconnectedAt: number;
+      wasHost: boolean;
+    };
+  };
 }
 
 export interface WebSocketMessage {
@@ -95,12 +103,16 @@ export interface WebSocketResponse {
     | 'jam_state_updated'
     | 'jam_sync_response'
     | 'jam_track_ended'
-    | 'jam_participant_kicked';
+    | 'jam_participant_kicked'
+    | 'jam_host_transferred'
+    | 'jam_user_disconnected'
+    | 'jam_reconnection_available';
   clientId?: string;
   username?: string;
   activity?: LiveMusicActivity;
   recentActivities?: LiveMusicActivity[];
   error?: string;
+  message?: string;
   timestamp?: number;
   connectedUsers?: ConnectedUser[];
   jamSession?: JamSession;

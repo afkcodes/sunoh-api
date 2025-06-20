@@ -60,19 +60,19 @@ export class LiveMusicWebSocketManager {
   }
 
   private startIntervals() {
-    // Cleanup only truly empty sessions every 60 seconds (less frequent)
+    // Enhanced cleanup every 30 seconds for better responsiveness
     this.cleanupInterval = setInterval(() => {
       console.log(`🔍 Running cleanup check... (${this.clients.size} clients, ${this.jamSessions.size} sessions)`);
-      // Only clean up sessions that have no active participants
-      this.cleanupEmptyJamSessions();
-      // Only clean up clients that are truly disconnected (not based on inactivity)
+      // Clean up clients that are truly disconnected
       this.cleanupDisconnectedClients();
-    }, 60000); // Reduced frequency to every minute
+      // Only clean up sessions that have been empty for 1 hour
+      this.cleanupIdleSessions();
+    }, 30000); // More frequent cleanup for better responsiveness
 
-    // Send heartbeat every 25 seconds
+    // Send heartbeat every 20 seconds for better connection monitoring
     this.heartbeatInterval = setInterval(() => {
       this.sendHeartbeat();
-    }, 25000);
+    }, 20000);
   }
 
   private handleConnection(ws: WebSocket, request: IncomingMessage) {
@@ -194,13 +194,45 @@ export class LiveMusicWebSocketManager {
       return;
     }
 
-    // Check if username is already taken
+    // Check for reconnection opportunities first
+    let reconnectionSession: JamSession | null = null;
+    let wasHost = false;
+
+    // Look for sessions where this username was a disconnected participant
+    for (const [sessionId, jamSession] of this.jamSessions.entries()) {
+      if (jamSession.disconnectedParticipants) {
+        for (const [oldClientId, disconnectedUser] of Object.entries(jamSession.disconnectedParticipants)) {
+          if (disconnectedUser.username.toLowerCase() === username.toLowerCase()) {
+            // Check if disconnection was recent (within 24 hours)
+            const disconnectTime = disconnectedUser.disconnectedAt;
+            const reconnectWindow = 24 * 60 * 60 * 1000; // 24 hours
+            
+            if (Date.now() - disconnectTime < reconnectWindow) {
+              reconnectionSession = jamSession;
+              wasHost = disconnectedUser.wasHost;
+              
+              // Remove from disconnected participants
+              delete jamSession.disconnectedParticipants[oldClientId];
+              
+              console.log(`🔄 User ${username} can reconnect to session: ${jamSession.name} (was ${wasHost ? 'host' : 'participant'})`);
+              break;
+            }
+          }
+        }
+      }
+      if (reconnectionSession) break;
+    }
+
+    // Check if username is already taken by a currently connected user
     const existingUser = Array.from(this.clients.values()).find(
       (client) => client.user.username.toLowerCase() === username.toLowerCase()
     );
 
     if (existingUser) {
       console.log(`👤 Disconnecting existing user ${username} for new connection`);
+
+      // Handle jam session cleanup for the existing connection
+      this.handleJamSessionCleanupForClient(existingUser.user.id);
 
       // Send disconnect message to existing client
       if (existingUser.ws.readyState === WebSocket.OPEN) {
@@ -232,14 +264,60 @@ export class LiveMusicWebSocketManager {
 
     console.log(`👤 User connected: ${username} (${clientId})`);
 
+    // Handle reconnection to jam session if available
+    if (reconnectionSession) {
+      // Add user back to the session
+      reconnectionSession.participants.push(clientId);
+      
+      // Restore host status if they were the host
+      if (wasHost) {
+        // Check if there's currently no active host or if current host was temporary
+        const currentHost = this.clients.get(reconnectionSession.hostId);
+        const shouldRestoreHost = !currentHost || 
+          (reconnectionSession.disconnectedParticipants && 
+           Object.values(reconnectionSession.disconnectedParticipants).some(d => d.wasHost));
+        
+        if (shouldRestoreHost) {
+          // Remove host status from current temporary host if any
+          if (currentHost) {
+            currentHost.user.isJamSessionHost = false;
+          }
+          
+          // Restore original host
+          reconnectionSession.hostId = clientId;
+          reconnectionSession.hostUsername = username;
+          user.isJamSessionHost = true;
+          
+          console.log(`👑 Restored host status to: ${username}`);
+        }
+      }
+      
+      // Update user's jam session data
+      user.joinedJamSessionId = reconnectionSession.id;
+      
+      // Update the session
+      this.jamSessions.set(reconnectionSession.id, reconnectionSession);
+
+      console.log(`🔄 Successfully reconnected ${username} to session: ${reconnectionSession.name}`);
+    }
+
     // Send success response with recent activities and connected users
-    this.sendMessage(ws, {
+    const response: any = {
       type: 'connected',
       username,
       recentActivities: this.getRecentActivities(),
       connectedUsers: this.getConnectedUsers(),
       timestamp: Date.now(),
-    });
+    };
+
+    // If user was reconnected to a session, include that information
+    if (reconnectionSession) {
+      response.jamSession = reconnectionSession;
+      response.type = 'jam_reconnection_available';
+      response.message = `Reconnected to session: ${reconnectionSession.name}`;
+    }
+
+    this.sendMessage(ws, response);
 
     // Notify other clients about new user
     this.broadcastToOthers(clientId, {
@@ -248,6 +326,20 @@ export class LiveMusicWebSocketManager {
       connectedUsers: this.getConnectedUsers(),
       timestamp: Date.now(),
     });
+
+    // If user reconnected to a session, notify other session participants
+    if (reconnectionSession) {
+      this.broadcastToJamSessionParticipants(reconnectionSession.id, {
+        type: 'jam_updated',
+        jamSession: reconnectionSession,
+        username,
+        message: `${username} reconnected to the session`,
+        timestamp: Date.now(),
+      }, clientId);
+    }
+
+    // Broadcast updated jam sessions to all users
+    this.broadcastJamSessions();
   }
 
   private handleActivityMessage(clientId: string, message: WebSocketMessage) {
@@ -384,31 +476,147 @@ export class LiveMusicWebSocketManager {
   }
 
   private cleanupDisconnectedClients() {
-    // Only clean up clients whose WebSocket connections are actually closed
-    // Do not use inactivity timeouts - only clean truly disconnected clients
+    // Clean up clients whose WebSocket connections are closed or in error state
     const clientsToRemove: string[] = [];
     
     this.clients.forEach((connection, clientId) => {
-      if (connection.ws.readyState === WebSocket.CLOSED || connection.ws.readyState === WebSocket.CLOSING) {
+      const ws = connection.ws;
+      const isDisconnected = ws.readyState === WebSocket.CLOSED || 
+                           ws.readyState === WebSocket.CLOSING;
+      
+      // Also check for clients that haven't sent heartbeat in a while (network issues)
+      const timeSinceLastActivity = Date.now() - connection.user.lastActivity;
+      const isStale = timeSinceLastActivity > 120000; // 2 minutes without activity
+      
+      if (isDisconnected || isStale) {
         console.log(
-          `🧹 Cleaning up disconnected client: ${connection.user.username} (${clientId}) - WebSocket state: ${connection.ws.readyState}`
+          `🧹 Cleaning up ${isDisconnected ? 'disconnected' : 'stale'} client: ${connection.user.username} (${clientId}) - WebSocket state: ${ws.readyState}, last activity: ${Math.round(timeSinceLastActivity / 1000)}s ago`
         );
         clientsToRemove.push(clientId);
       }
     });
 
-    // Remove disconnected clients
+    // Remove disconnected/stale clients
     clientsToRemove.forEach(clientId => {
       const connection = this.clients.get(clientId);
       if (connection) {
         // Handle jam session cleanup before removing client
         this.handleJamSessionCleanupForClient(clientId);
+        
+        // Close WebSocket if still open
+        if (connection.ws.readyState === WebSocket.OPEN) {
+          connection.ws.close(1001, 'Client cleanup');
+        }
+        
         this.clients.delete(clientId);
       }
     });
 
     if (clientsToRemove.length > 0) {
-      console.log(`🧹 Cleaned up ${clientsToRemove.length} disconnected clients`);
+      console.log(`🧹 Cleaned up ${clientsToRemove.length} disconnected/stale clients`);
+    }
+  }
+
+  private cleanupStaleSessions() {
+    // Additional check for sessions that appear active but have no truly connected participants
+    const staleSessions: string[] = [];
+    
+    this.jamSessions.forEach((jamSession, sessionId) => {
+      // Count truly active participants
+      const activeParticipants = jamSession.participants.filter((participantId) => {
+        const participant = this.clients.get(participantId);
+        if (!participant) return false;
+        
+        const ws = participant.ws;
+        const timeSinceLastActivity = Date.now() - participant.user.lastActivity;
+        
+        // Consider participant active if WebSocket is open and recent activity
+        return ws.readyState === WebSocket.OPEN && timeSinceLastActivity < 120000; // 2 minutes
+      });
+
+      if (activeParticipants.length === 0) {
+        console.log(`🧹 Found stale session with no active participants: ${jamSession.name}`);
+        staleSessions.push(sessionId);
+      }
+    });
+
+    // Clean up stale sessions
+    staleSessions.forEach((sessionId) => {
+      const session = this.jamSessions.get(sessionId);
+      if (session) {
+        console.log(`🧹 Cleaning up stale session: ${session.name}`);
+        
+        // Notify any remaining clients (if any) that session is ending
+        session.participants.forEach((participantId) => {
+          const participant = this.clients.get(participantId);
+          if (participant && participant.ws.readyState === WebSocket.OPEN) {
+            participant.user.joinedJamSessionId = undefined;
+            participant.user.isJamSessionHost = false;
+            
+            this.sendMessage(participant.ws, {
+              type: 'jam_left',
+              error: 'Session was cleaned up due to inactivity',
+              timestamp: Date.now(),
+            });
+          }
+        });
+        
+        this.jamSessions.delete(sessionId);
+      }
+    });
+
+    if (staleSessions.length > 0) {
+      console.log(`🧹 Cleaned up ${staleSessions.length} stale sessions`);
+      this.broadcastJamSessions();
+    }
+  }
+
+  private cleanupIdleSessions() {
+    // Only clean up sessions that have been empty (no connected participants) for 1 hour
+    const oneHour = 60 * 60 * 1000; // 1 hour in milliseconds
+    const sessionsToDelete: string[] = [];
+    const now = Date.now();
+    
+    this.jamSessions.forEach((jamSession, sessionId) => {
+      // Count currently connected participants
+      const connectedParticipants = jamSession.participants.filter((participantId) => {
+        const participant = this.clients.get(participantId);
+        return participant && participant.ws.readyState === WebSocket.OPEN;
+      });
+
+      if (connectedParticipants.length === 0) {
+        // Session is empty - check if it should be marked as empty or cleaned up
+        if (!jamSession.lastEmptyTime) {
+          // First time we detect this session is empty - mark it
+          jamSession.lastEmptyTime = now;
+          console.log(`⏰ Session "${jamSession.name}" is now empty, will be cleaned up in 1 hour if no one reconnects`);
+          this.jamSessions.set(sessionId, jamSession);
+        } else {
+          // Check if it's been empty for more than 1 hour
+          const emptyDuration = now - jamSession.lastEmptyTime;
+          if (emptyDuration > oneHour) {
+            console.log(`🧹 Session "${jamSession.name}" has been empty for ${Math.round(emptyDuration / 60000)} minutes, cleaning up`);
+            sessionsToDelete.push(sessionId);
+          }
+        }
+      } else {
+        // Session has connected participants - clear the empty time
+        if (jamSession.lastEmptyTime) {
+          jamSession.lastEmptyTime = undefined;
+          console.log(`✅ Session "${jamSession.name}" is no longer empty`);
+          this.jamSessions.set(sessionId, jamSession);
+        }
+      }
+    });
+
+    // Delete idle sessions
+    sessionsToDelete.forEach((sessionId) => {
+      this.jamSessions.delete(sessionId);
+    });
+
+    if (sessionsToDelete.length > 0) {
+      console.log(`🧹 Cleaned up ${sessionsToDelete.length} idle sessions`);
+      this.broadcastJamSessions();
     }
   }
 
@@ -1249,54 +1457,72 @@ export class LiveMusicWebSocketManager {
     const jamSession = this.jamSessions.get(sessionId);
     if (!jamSession) return;
 
+    console.log(`🔌 User disconnected from jam session: ${connection.user.username} (${connection.user.isJamSessionHost ? 'Host' : 'Participant'})`);
+
+    // Initialize disconnected participants tracking if not exists
+    if (!jamSession.disconnectedParticipants) {
+      jamSession.disconnectedParticipants = {};
+    }
+
+    // Track this disconnected user for potential reconnection
+    jamSession.disconnectedParticipants[clientId] = {
+      username: connection.user.username,
+      disconnectedAt: Date.now(),
+      wasHost: connection.user.isJamSessionHost || false,
+    };
+
+    // Remove from active participants but keep the session alive
+    jamSession.participants = jamSession.participants.filter((id) => id !== clientId);
+    
+    // If this was the host, we need to either transfer host or keep session without active host
     if (connection.user.isJamSessionHost) {
-      // Host is disconnecting - end the session
-      console.log(`🎵 Host disconnected, ending jam session: ${jamSession.name}`);
+      console.log(`🎵 Host disconnected from session: ${jamSession.name}, session will wait for reconnection`);
+      
+      // Find another participant to temporarily make host, or keep session hostless
+      const remainingParticipants = jamSession.participants.filter(id => {
+        const participant = this.clients.get(id);
+        return participant && participant.ws.readyState === WebSocket.OPEN;
+      });
 
-      // Notify all participants that the session has ended
-      for (const participantId of jamSession.participants) {
-        if (participantId === clientId) continue; // Skip the disconnecting host
-
-        const participant = this.clients.get(participantId);
-        if (participant && participant.ws.readyState === WebSocket.OPEN) {
-          // Reset participant's jam session data
-          participant.user.joinedJamSessionId = undefined;
-          participant.user.isJamSessionHost = false;
-
-          // Notify participant
-          this.sendMessage(participant.ws, {
-            type: 'jam_left',
-            username: connection.user.username,
-            error: 'Host has disconnected from the session',
+      if (remainingParticipants.length > 0) {
+        // Transfer host to first remaining participant
+        const newHostId = remainingParticipants[0];
+        const newHostConnection = this.clients.get(newHostId);
+        if (newHostConnection) {
+          jamSession.hostId = newHostId;
+          jamSession.hostUsername = newHostConnection.user.username;
+          newHostConnection.user.isJamSessionHost = true;
+          
+          console.log(`👑 Transferred host to: ${newHostConnection.user.username}`);
+          
+          // Notify the new host
+          this.sendMessage(newHostConnection.ws, {
+            type: 'jam_host_transferred',
+            jamSession,
+            message: 'You are now the host of this session',
             timestamp: Date.now(),
           });
         }
+      } else {
+        console.log(`⏸️ Session "${jamSession.name}" has no active participants, waiting for reconnection...`);
       }
-
-      // Remove the session
-      this.jamSessions.delete(sessionId);
-    } else {
-      // Participant is disconnecting
-      console.log(
-        `🎵 Participant disconnected from jam session: ${connection.user.username}`
-      );
-
-      // Remove participant from session
-      jamSession.participants = jamSession.participants.filter((id) => id !== clientId);
-      this.jamSessions.set(sessionId, jamSession);
-
-      // Notify remaining participants about the updated session
-      this.broadcastToJamSessionParticipants(sessionId, {
-        type: 'jam_updated',
-        jamSession,
-        username: connection.user.username,
-        timestamp: Date.now(),
-      });
     }
+
+    // Update the session
+    this.jamSessions.set(sessionId, jamSession);
 
     // Reset user's jam session data
     connection.user.joinedJamSessionId = undefined;
     connection.user.isJamSessionHost = false;
+
+    // Notify remaining participants about the disconnection (but don't end session)
+    this.broadcastToJamSessionParticipants(sessionId, {
+      type: 'jam_user_disconnected',
+      jamSession,
+      username: connection.user.username,
+      message: `${connection.user.username} disconnected but can reconnect`,
+      timestamp: Date.now(),
+    });
 
     // Broadcast updated jam sessions to all users
     this.broadcastJamSessions();
