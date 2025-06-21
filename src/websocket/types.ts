@@ -38,6 +38,8 @@ export interface JamSession {
   progress?: number; // Current playback progress in seconds
   isPrivate?: boolean; // Whether the session is private
   inviteCode?: string; // Invite code for private sessions
+  syncPlayMode?: boolean; // Whether synchronized playback is enabled
+  lastProgressUpdate?: number; // Timestamp of last progress update for sync
   lastEmptyTime?: number; // Timestamp when session became empty (no connected participants)
   disconnectedParticipants?: { // Track disconnected participants for reconnection
     [userId: string]: {
@@ -66,7 +68,9 @@ export interface WebSocketMessage {
     | 'jam_remove_from_queue'
     | 'jam_reorder_queue'
     | 'jam_kick_participant'
-    | 'jam_update_queue_from_local';
+    | 'jam_update_queue_from_local'
+    | 'jam_toggle_sync_play'
+    | 'jam_sync_play_progress';
   username?: string;
   activity?: Omit<LiveMusicActivity, 'id' | 'username' | 'timestamp'>;
   timestamp?: number;
@@ -84,6 +88,8 @@ export interface WebSocketMessage {
   initialTrack?: any; // MediaTrack object from frontend
   isPrivate?: boolean;
   inviteCode?: string;
+  syncPlayEnabled?: boolean; // For sync play toggle
+  isPlaying?: boolean; // For sync play progress
 }
 
 export interface WebSocketResponse {
@@ -106,7 +112,9 @@ export interface WebSocketResponse {
     | 'jam_participant_kicked'
     | 'jam_host_transferred'
     | 'jam_user_disconnected'
-    | 'jam_reconnection_available';
+    | 'jam_reconnection_available'
+    | 'jam_sync_play_toggled'
+    | 'jam_sync_play_progress';
   clientId?: string;
   username?: string;
   activity?: LiveMusicActivity;
@@ -122,6 +130,8 @@ export interface WebSocketResponse {
   playbackState?: 'playing' | 'paused';
   progress?: number;
   queue?: LiveMusicActivity['song'][];
+  enabled?: boolean; // For sync play toggle response
+  isPlaying?: boolean; // For sync play progress response
 }
 
 export interface LiveMusicStats {

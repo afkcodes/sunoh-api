@@ -183,6 +183,14 @@ export class LiveMusicWebSocketManager {
         this.handleJamUpdateQueueFromLocal(clientId, ws, message);
         break;
 
+      case 'jam_toggle_sync_play':
+        this.handleJamToggleSyncPlay(clientId, ws, message);
+        break;
+
+      case 'jam_sync_play_progress':
+        this.handleJamSyncPlayProgress(clientId, ws, message);
+        break;
+
       default:
         console.warn(`Unknown message type: ${message.type}`);
     }
@@ -1639,6 +1647,108 @@ export class LiveMusicWebSocketManager {
     const cleanedCount = beforeCount - this.clients.size;
     console.log(`🔧 Manual cleanup completed: ${cleanedCount} clients removed`);
     return cleanedCount;
+  }
+
+  private handleJamToggleSyncPlay(
+    clientId: string,
+    ws: WebSocket,
+    message: WebSocketMessage
+  ) {
+    const connection = this.clients.get(clientId);
+    if (!connection) {
+      return;
+    }
+
+    const sessionId = connection.user.joinedJamSessionId;
+    if (!sessionId) {
+      this.sendError(ws, 'You are not in a jam session');
+      return;
+    }
+
+    const jamSession = this.jamSessions.get(sessionId);
+    if (!jamSession) {
+      this.sendError(ws, 'Jam session not found');
+      return;
+    }
+
+    // Only host can toggle sync play
+    if (jamSession.hostId !== connection.user.id) {
+      this.sendError(ws, 'Only the host can toggle sync play');
+      return;
+    }
+
+    // Toggle sync play mode
+    jamSession.syncPlayMode = message.syncPlayEnabled || false;
+    jamSession.lastProgressUpdate = Date.now();
+    this.jamSessions.set(sessionId, jamSession);
+
+    console.log(
+      `🎵 ${connection.user.username} ${jamSession.syncPlayMode ? 'enabled' : 'disabled'} sync play for session "${jamSession.name}"`
+    );
+
+    // Notify all participants about sync play toggle
+    this.broadcastToJamSessionParticipants(sessionId, {
+      type: 'jam_sync_play_toggled',
+      jamSession,
+      enabled: jamSession.syncPlayMode,
+      username: connection.user.username,
+      timestamp: Date.now(),
+    });
+  }
+
+  private handleJamSyncPlayProgress(
+    clientId: string,
+    ws: WebSocket,
+    message: WebSocketMessage
+  ) {
+    const connection = this.clients.get(clientId);
+    if (!connection) {
+      return;
+    }
+
+    const sessionId = connection.user.joinedJamSessionId;
+    if (!sessionId) {
+      this.sendError(ws, 'You are not in a jam session');
+      return;
+    }
+
+    const jamSession = this.jamSessions.get(sessionId);
+    if (!jamSession) {
+      this.sendError(ws, 'Jam session not found');
+      return;
+    }
+
+    // Only host can broadcast sync play progress
+    if (jamSession.hostId !== connection.user.id) {
+      return;
+    }
+
+    // Only sync if sync play mode is enabled
+    if (!jamSession.syncPlayMode) {
+      return;
+    }
+
+    // Update session progress
+    if (message.progress !== undefined) {
+      jamSession.progress = message.progress;
+    }
+    if (message.playbackState) {
+      jamSession.playbackState = message.playbackState;
+    }
+    jamSession.lastProgressUpdate = Date.now();
+    this.jamSessions.set(sessionId, jamSession);
+
+    // Broadcast progress to all participants (excluding host)
+    this.broadcastToJamSessionParticipants(
+      sessionId,
+      {
+        type: 'jam_sync_play_progress',
+        progress: jamSession.progress,
+        isPlaying: message.isPlaying || jamSession.playbackState === 'playing',
+        timestamp: Date.now(),
+      },
+      clientId // Exclude host from receiving the update
+    );
   }
 
   // Cleanup method
