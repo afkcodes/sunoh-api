@@ -11,7 +11,7 @@ import { dataExtractor } from '../helpers/dataExtractor';
 import { Quality } from '../helpers/type';
 import { isArray, isEmptyArray } from '../helpers/validators';
 
-const excludedKeys = ['city_mod', 'history'];
+const excludedKeys = ['history', 'city_mod'];
 
 const createImageLinks = (link: string): Quality => {
   const qualities = ['50x50', '150x150', '500x500'];
@@ -140,7 +140,9 @@ export const albumDataSanitizer = (data) => {
 };
 
 const homeDataMapper = (data: any) => {
-  const modulesArr = [...Object.keys(data?.modules), 'browse_discover'];
+  const modulesArr = [...Object.keys(data?.modules), 'browse_discover'].filter(
+    (key) => !excludedKeys?.includes(key),
+  );
   const mappedData = [];
   if (isArray(modulesArr) && !isEmptyArray(modulesArr)) {
     modulesArr.forEach((module) => {

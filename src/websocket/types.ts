@@ -41,7 +41,8 @@ export interface JamSession {
   syncPlayMode?: boolean; // Whether synchronized playback is enabled
   lastProgressUpdate?: number; // Timestamp of last progress update for sync
   lastEmptyTime?: number; // Timestamp when session became empty (no connected participants)
-  disconnectedParticipants?: { // Track disconnected participants for reconnection
+  disconnectedParticipants?: {
+    // Track disconnected participants for reconnection
     [userId: string]: {
       username: string;
       disconnectedAt: number;
