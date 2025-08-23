@@ -33,5 +33,12 @@
       "attributePosition": "auto"
     }
   },
-  "overrides": [{ "include": ["*.ts", "*.mts"] }]
+  "overrides": [
+    {
+      "include": ["*.ts", "*.mts"],
+      "linter": {
+        "enabled": true
+      }
+    }
+  ]
 }
