@@ -1,5 +1,6 @@
 import { FastifyInstance, FastifyServerOptions } from 'fastify';
 import { gaanaRoutes } from './gaana/route';
+import { lyricsRoutes } from './lyrics/route';
 import { play } from './play';
 import { proxyImage } from './proxyImage';
 import { saavnRoutes } from './saavn/route';
@@ -32,6 +33,7 @@ const entry = (fastify: FastifyInstance, _opts: FastifyServerOptions, done) => {
   fastify.get('/play', play);
   fastify.register(saavnRoutes, { prefix: '/saavn' });
   fastify.register(gaanaRoutes, { prefix: '/gaana' });
+  fastify.register(lyricsRoutes, { prefix: '/lyrics' });
   fastify.register(liveMusicRoutes, { prefix: '/live' });
   // fastify.register(youtubeRoutes, { prefix: '/ytm' });
 
