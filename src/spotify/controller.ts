@@ -1,5 +1,5 @@
 import { FastifyReply, FastifyRequest } from 'fastify';
-import { mapTracks } from '../spotify_import/maptoSaavn';
+import { addPlaylistMappingJob, getJobStatus, getQueueStats } from '../queue/playlistQueue';
 import { extractPlaylistId, scrapePlaylist } from '../spotify_import/spotify_playlist';
 
 interface PlaylistQuery {
@@ -120,97 +120,100 @@ const playlistMapController = async (
       });
     }
 
-    // Parse options
-    const options = {
-      headless: true, // Always headless for API
-      debug: debug === 'true',
-      timeout: 30000,
+    // Prepare job options
+    const jobOptions = {
       fast: fast === 'true',
-    };
-
-    const mappingOptions = {
       debug: debug === 'true',
       limit: limit ? parseInt(limit, 10) : undefined,
     };
 
-    // Log the request for debugging
-    if (options.debug) {
-      console.log(`[Spotify API] Scraping and mapping playlist: ${url}`);
-      console.log(`[Spotify API] Options:`, { ...options, ...mappingOptions });
+    if (jobOptions.debug) {
+      console.log(`[Spotify API] Queueing playlist mapping job: ${url}`);
     }
 
-    // First scrape the playlist
-    const playlistData = await scrapePlaylist(url, options);
+    // Add job to queue
+    const jobId = await addPlaylistMappingJob(url, jobOptions);
 
-    if (options.debug) {
-      console.log(
-        `[Spotify API] Scraped ${playlistData.tracks.length} tracks, starting mapping...`,
-      );
-    }
-
-    // Then map the tracks to Saavn
-    const mappedTracks = await mapTracks(playlistData.tracks, mappingOptions);
-
-    // Calculate statistics
-    const matched = mappedTracks.filter((m) => m.saavnBest !== null).length;
-    const processed = mappedTracks.length;
-    const noMatch = processed - matched;
-
-    // Transform to the required format
-    const transformedItems = mappedTracks.map((item, index) => {
-      const hasMatch = item.saavnBest !== null;
-
-      return {
-        spotify: {
-          name: item.spotify.name,
-          artists: item.spotify.artists,
-          album: item.spotify.album,
-          durationMs: item.spotify.durationMs,
-          duration: item.spotify.duration,
-          id: item.spotify.id,
-          url: item.spotify.url,
-          scrollPosition: index,
-        },
-        query: item.query,
-        attempts: 1, // You may want to track this in mapTracks function
-        candidatesConsidered: item.candidatesConsidered,
-        match: hasMatch
-          ? item.saavnBest // Raw, unmodified Saavn API response
-          : null,
-        score: item.score,
-        status: hasMatch ? 'matched' : 'noMatch',
-      };
-    });
-
-    // Return data in the required format
+    // Return job information immediately (non-blocking)
     return reply.send({
-      source: {
-        playlistId: playlistData.playlistId,
-        name: playlistData.playlistName || 'Unknown Playlist',
-        trackCount: playlistData.trackCount,
-      },
-      generatedAt: new Date().toISOString(),
-      params: {
-        limit: mappingOptions.limit || processed,
-        minScore: 0.55, // You may want to make this configurable
-      },
-      summary: {
-        processed,
-        matched,
-        lowConfidence: 0, // You may want to implement this based on score threshold
-        noMatch,
-      },
-      items: transformedItems,
+      success: true,
+      jobId,
+      status: 'queued',
+      message: 'Playlist mapping job has been queued for processing',
+      checkStatusUrl: `/spotify/playlist/map/status/${jobId}`,
+      estimatedTime: '2-5 minutes depending on playlist size',
+      queuedAt: new Date().toISOString(),
     });
   } catch (error) {
-    console.error('[Spotify API] Error scraping/mapping playlist:', error);
+    console.error('[Spotify API] Error queueing playlist mapping job:', error);
 
     return reply.status(500).send({
-      error: 'Failed to scrape and map playlist',
+      error: 'Failed to queue playlist mapping job',
       message: error.message,
       timestamp: new Date().toISOString(),
     });
   }
 };
 
-export { playlistController, playlistMapController };
+// New controller to check job status
+const playlistMapStatusController = async (
+  req: FastifyRequest<{ Params: { jobId: string } }>,
+  reply: FastifyReply,
+) => {
+  try {
+    const { jobId } = req.params;
+
+    if (!jobId) {
+      return reply.status(400).send({
+        error: 'Missing job ID',
+        message: 'Please provide a valid job ID',
+      });
+    }
+
+    const jobStatus = await getJobStatus(jobId);
+
+    return reply.send({
+      jobId,
+      ...jobStatus,
+    });
+  } catch (error) {
+    console.error('[Spotify API] Error checking job status:', error);
+
+    return reply.status(500).send({
+      error: 'Failed to check job status',
+      message: error.message,
+      timestamp: new Date().toISOString(),
+    });
+  }
+};
+
+// New controller to get queue statistics
+const queueStatsController = async (req: FastifyRequest, reply: FastifyReply) => {
+  try {
+    const stats = await getQueueStats();
+
+    return reply.send({
+      success: true,
+      queue: {
+        name: 'playlist-mapping',
+        ...stats,
+      },
+      timestamp: new Date().toISOString(),
+    });
+  } catch (error) {
+    console.error('[Spotify API] Error getting queue stats:', error);
+
+    return reply.status(500).send({
+      error: 'Failed to get queue statistics',
+      message: error.message,
+      timestamp: new Date().toISOString(),
+    });
+  }
+};
+
+export {
+  playlistController,
+  playlistMapController,
+  playlistMapStatusController,
+  queueStatsController,
+};
