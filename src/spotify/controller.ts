@@ -132,17 +132,22 @@ const playlistMapController = async (
     }
 
     // Add job to queue
-    const jobId = await addPlaylistMappingJob(url, jobOptions);
+    const { jobId, isExisting } = await addPlaylistMappingJob(url, jobOptions);
 
     // Return job information immediately (non-blocking)
     return reply.send({
       success: true,
       jobId,
-      status: 'queued',
-      message: 'Playlist mapping job has been queued for processing',
+      status: isExisting ? 'existing' : 'queued',
+      message: isExisting
+        ? 'This playlist is already being processed or has been processed recently'
+        : 'Playlist mapping job has been queued for processing',
       checkStatusUrl: `/spotify/playlist/map/status/${jobId}`,
-      estimatedTime: '2-5 minutes depending on playlist size',
+      estimatedTime: isExisting
+        ? 'Available now or processing'
+        : '2-5 minutes depending on playlist size',
       queuedAt: new Date().toISOString(),
+      isExistingJob: isExisting,
     });
   } catch (error) {
     console.error('[Spotify API] Error queueing playlist mapping job:', error);

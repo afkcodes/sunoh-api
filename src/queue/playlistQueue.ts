@@ -61,7 +61,42 @@ class InMemoryQueue extends EventEmitter {
   private activeJobs: Set<string> = new Set();
   private isProcessing = false;
 
-  async addJob(data: PlaylistMappingJobData): Promise<string> {
+  async addJob(data: PlaylistMappingJobData): Promise<{ jobId: string; isExisting: boolean }> {
+    // Check if this job already exists
+    const existingJob = this.jobs.get(data.jobId);
+
+    if (existingJob) {
+      // If job is still active/waiting, return the existing job
+      if (existingJob.status === 'waiting' || existingJob.status === 'active') {
+        console.log(
+          `[Queue] Job ${data.jobId} already in queue with status: ${existingJob.status}`,
+        );
+        return { jobId: data.jobId, isExisting: true };
+      }
+
+      // If job completed recently (within 10 minutes) and has same options, return existing
+      if (existingJob.status === 'completed' && existingJob.completedAt) {
+        const tenMinutesAgo = new Date(Date.now() - 10 * 60 * 1000);
+        const hasSimilarOptions = this.optionsMatch(existingJob.data.options, data.options);
+
+        if (existingJob.completedAt > tenMinutesAgo && hasSimilarOptions) {
+          console.log(
+            `[Queue] Job ${data.jobId} recently completed with similar options, returning existing result`,
+          );
+          return { jobId: data.jobId, isExisting: true };
+        }
+      }
+
+      // Remove old job and create new one
+      console.log(`[Queue] Replacing old job ${data.jobId} (status: ${existingJob.status})`);
+      this.jobs.delete(data.jobId);
+      // Remove from waiting queue if it's there
+      const waitingIndex = this.waitingJobs.indexOf(data.jobId);
+      if (waitingIndex > -1) {
+        this.waitingJobs.splice(waitingIndex, 1);
+      }
+    }
+
     const job: Job = {
       id: data.jobId,
       data,
@@ -73,16 +108,23 @@ class InMemoryQueue extends EventEmitter {
     this.jobs.set(job.id, job);
     this.waitingJobs.push(job.id);
 
-    console.log(`[Queue] Added job ${job.id} to queue`);
+    console.log(`[Queue] Added new job ${job.id} to queue`);
 
     // Start processing if not already processing
     if (!this.isProcessing) {
       this.processJobs();
     }
 
-    return job.id;
+    return { jobId: job.id, isExisting: false };
   }
 
+  private optionsMatch(existingOptions: any, newOptions: any): boolean {
+    // Compare key options that affect the result
+    return (
+      existingOptions.limit === newOptions.limit && existingOptions.fast === newOptions.fast
+      // Note: debug option doesn't affect results, so we ignore it
+    );
+  }
   private async processJobs() {
     if (this.isProcessing) return;
     this.isProcessing = true;
@@ -287,17 +329,23 @@ export const addPlaylistMappingJob = async (
   url: string,
   options: { fast?: boolean; debug?: boolean; limit?: number } = {},
   userId?: string,
-): Promise<string> => {
-  const jobId = `playlist_${Date.now()}_${Math.random().toString(36).substr(2, 9)}`;
+): Promise<{ jobId: string; isExisting: boolean }> => {
+  // Extract playlist ID from URL to use as job ID
+  const playlistId = extractPlaylistId(url);
+  if (!playlistId) {
+    throw new Error('Invalid Spotify playlist URL');
+  }
 
-  await playlistMappingQueue.addJob({
+  const jobId = `playlist_${playlistId}`;
+
+  const result = await playlistMappingQueue.addJob({
     jobId,
     url,
     options,
     userId,
   });
 
-  return jobId;
+  return result;
 };
 
 // Function to get job status and result
