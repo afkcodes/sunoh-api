@@ -4,6 +4,7 @@ import { lyricsRoutes } from './lyrics/route';
 import { play } from './play';
 import { proxyImage } from './proxyImage';
 import { saavnRoutes } from './saavn/route';
+import { spotifyRoutes } from './spotify/route';
 import { liveMusicRoutes } from './websocket/routes';
 
 // Temporarily disable Redis/Valkey cache for development
@@ -34,6 +35,7 @@ const entry = (fastify: FastifyInstance, _opts: FastifyServerOptions, done) => {
   fastify.register(saavnRoutes, { prefix: '/saavn' });
   fastify.register(gaanaRoutes, { prefix: '/gaana' });
   fastify.register(lyricsRoutes, { prefix: '/lyrics' });
+  fastify.register(spotifyRoutes, { prefix: '/spotify' });
   fastify.register(liveMusicRoutes, { prefix: '/live' });
   // fastify.register(youtubeRoutes, { prefix: '/ytm' });
 
