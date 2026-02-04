@@ -38,7 +38,7 @@ const saavnDataConfigs = {
   albumConfig: {
     id: 'id',
     title: ['title', 'name'],
-    subtitle: 'subtitle',
+    subtitle: ['subtitle_desc', 'subtitle'],
     description: 'header_desc',
     type: 'type',
     token: ['perma_url', 'url'],

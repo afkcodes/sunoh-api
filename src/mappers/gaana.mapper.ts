@@ -22,14 +22,13 @@ export const createGaanaImageLinks = (link: string): Images => {
 
   // Try to determine the pattern
   let pattern: 'suffix' | 'crop' | 'none' = 'none';
-  if (link.includes('size_m') || link.includes('size_s') || link.includes('size_l'))
-    pattern = 'suffix';
+  if (link.includes('size_')) pattern = 'suffix';
   else if (link.includes('crop_')) pattern = 'crop';
 
   return qualities.map((q) => {
     let newLink = link;
     if (pattern === 'suffix') {
-      newLink = link.replace(/size_[msl]/, q.gaSuffix);
+      newLink = link.replace(/size_[a-z]+/, q.gaSuffix);
     } else if (pattern === 'crop') {
       // Find the crop pattern like crop_175x175
       const cropRegex = /crop_\d+x\d+/;
@@ -70,7 +69,7 @@ export const mapGaanaSong = (data: any): Song => {
       id: artist.seokey || artist.artist_id,
       name: artist.name,
       role: artist.role,
-      image: createGaanaImageLinks(artist.atw || artist.artwork),
+      image: createGaanaImageLinks(artist.atwj || artist.atw || artist.artwork),
       type: 'artist',
     }),
   );
@@ -81,7 +80,7 @@ export const mapGaanaSong = (data: any): Song => {
     subtitle: mappedArtists.map((a: any) => a.name).join(', '),
     type: 'song',
     image: createGaanaImageLinks(
-      data.artwork_large || data.artwork_web || data.artwork || data.atw,
+      data.atwj || data.artwork_large || data.artwork_web || data.artwork || data.atw,
     ),
     language: data.language,
     year: year?.toString()?.split('-')?.[0],
@@ -114,7 +113,7 @@ export const mapGaanaAlbum = (data: any): Album => {
     (artist: any) => ({
       id: artist.seokey || artist.artist_id,
       name: artist.name,
-      image: createGaanaImageLinks(artist.atw || artist.artwork),
+      image: createGaanaImageLinks(artist.atwj || artist.atw || artist.artwork),
       type: 'artist',
     }),
   );
@@ -126,7 +125,7 @@ export const mapGaanaAlbum = (data: any): Album => {
     headerDesc: `Album • ${language} • ${year}`,
     description: data.detailed_description,
     type: 'album',
-    image: createGaanaImageLinks(data.artwork || data.atw),
+    image: createGaanaImageLinks(data.atwj || data.artwork || data.atw),
     language: language,
     year: year?.toString(),
     songCount:
@@ -148,7 +147,7 @@ export const mapGaanaPlaylist = (data: any): Playlist => {
     title: data.name || data.title,
     subtitle: data.language,
     type: 'playlist',
-    image: createGaanaImageLinks(data.artwork || data.atw),
+    image: createGaanaImageLinks(data.atwj || data.artwork || data.atw),
     songCount:
       extractGaanaEntityInfo(data.entity_info, 'track_ids')?.length?.toString() ||
       data.trackcount?.toString() ||
@@ -167,7 +166,7 @@ export const mapGaanaArtist = (data: any): Artist => {
     name: data.name,
     type: 'artist',
     image: createGaanaImageLinks(
-      data.artwork_bio || data.atw || data.artwork_175x175 || data.artwork,
+      data.atwj || data.artwork_bio || data.atw || data.artwork_175x175 || data.artwork,
     ),
     followers: data.favorite_count?.toString(),
     bio: data.desc || data.detailed_description,
@@ -183,7 +182,7 @@ export const mapGaanaRadio = (data: any): Channel => {
     title: data.name,
     subtitle: data.language,
     type: 'channel',
-    image: createGaanaImageLinks(data.artwork || data.atw),
+    image: createGaanaImageLinks(data.atwj || data.artwork || data.atw),
     source: 'gaana',
     url: data.seokey,
   };
@@ -205,13 +204,13 @@ export const mapGaanaSearchAlbum = (data: any): Album => {
     headerDesc: `Album • ${language} • ${year}`,
     description: data.detailed_description,
     type: 'album',
-    image: createGaanaImageLinks(data.artwork || data.atw),
+    image: createGaanaImageLinks(data.atwj || data.artwork || data.atw),
     language: language,
     year: year?.toString(),
     songCount: data.trackcount?.toString(),
     artists: artists.map((artist: any) => ({
       ...artist,
-      image: createGaanaImageLinks(artist.atw || artist.artwork),
+      image: createGaanaImageLinks(artist.atwj || artist.atw || artist.artwork),
     })),
     songs: [],
     copyright: data.recordlevel || data.vendor_name,
