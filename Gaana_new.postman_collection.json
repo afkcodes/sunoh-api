@@ -1,0 +1,878 @@
+{
+  "info": {
+    "_postman_id": "c820583e-d6e6-4da0-87d0-46452c9ff10c",
+    "name": "Gaana_new",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+    "_exporter_id": "18942971"
+  },
+  "item": [
+    {
+      "name": "Trending Songs",
+      "request": {
+        "method": "POST",
+        "header": [],
+        "url": {
+          "raw": "https://gaana.com/apiv2?apiPath=http%3A%2F%2Fapiv2-internal.gaana.com%2Fhome%2Ftrending%2Fsongs%2Fv1%3Ftrending_section%3D1%26pkc%3Dtrue&index=5&type=homeSec",
+          "protocol": "https",
+          "host": ["gaana", "com"],
+          "path": ["apiv2"],
+          "query": [
+            {
+              "key": "apiPath",
+              "value": "http%3A%2F%2Fapiv2-internal.gaana.com%2Fhome%2Ftrending%2Fsongs%2Fv1%3Ftrending_section%3D1%26pkc%3Dtrue"
+            },
+            {
+              "key": "index",
+              "value": "5"
+            },
+            {
+              "key": "type",
+              "value": "homeSec"
+            }
+          ]
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "Trending Playlists",
+      "request": {
+        "method": "POST",
+        "header": [],
+        "url": {
+          "raw": "https://gaana.com/apiv2?apiPath=http%3A%2F%2Fapiv2-internal.gaana.com%2Fhome%2Fsmartfeed%2F596&index=6&type=homeSec",
+          "protocol": "https",
+          "host": ["gaana", "com"],
+          "path": ["apiv2"],
+          "query": [
+            {
+              "key": "apiPath",
+              "value": "http%3A%2F%2Fapiv2-internal.gaana.com%2Fhome%2Fsmartfeed%2F596"
+            },
+            {
+              "key": "index",
+              "value": "6"
+            },
+            {
+              "key": "type",
+              "value": "homeSec"
+            }
+          ]
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "New Releases",
+      "request": {
+        "method": "POST",
+        "header": [],
+        "url": {
+          "raw": "https://gaana.com/apiv2?apiPath=http%3A%2F%2Fapiv2-internal.gaana.com%2Fhome%2Falbum%2Ffeatured&index=7&type=homeSec",
+          "protocol": "https",
+          "host": ["gaana", "com"],
+          "path": ["apiv2"],
+          "query": [
+            {
+              "key": "apiPath",
+              "value": "http%3A%2F%2Fapiv2-internal.gaana.com%2Fhome%2Falbum%2Ffeatured"
+            },
+            {
+              "key": "index",
+              "value": "7"
+            },
+            {
+              "key": "type",
+              "value": "homeSec"
+            }
+          ]
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "Back to 90s",
+      "request": {
+        "method": "POST",
+        "header": [],
+        "url": {
+          "raw": "https://gaana.com/apiv2?page=0&seokey=90s-2000s&type=collectionsDetail",
+          "protocol": "https",
+          "host": ["gaana", "com"],
+          "path": ["apiv2"],
+          "query": [
+            {
+              "key": "page",
+              "value": "0"
+            },
+            {
+              "key": "seokey",
+              "value": "90s-2000s"
+            },
+            {
+              "key": "type",
+              "value": "collectionsDetail"
+            }
+          ]
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "Timeless Gaana",
+      "request": {
+        "method": "POST",
+        "header": [],
+        "url": {
+          "raw": "https://gaana.com/apiv2?apiPath=http%3A%2F%2Fapiv2-internal.gaana.com%2Fhome%2Fsmartfeed%2F274&index=9&type=homeSec",
+          "protocol": "https",
+          "host": ["gaana", "com"],
+          "path": ["apiv2"],
+          "query": [
+            {
+              "key": "apiPath",
+              "value": "http%3A%2F%2Fapiv2-internal.gaana.com%2Fhome%2Fsmartfeed%2F274"
+            },
+            {
+              "key": "index",
+              "value": "9"
+            },
+            {
+              "key": "type",
+              "value": "homeSec"
+            }
+          ]
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "Recap 2025",
+      "request": {
+        "method": "POST",
+        "header": [],
+        "url": {
+          "raw": "https://gaana.com/apiv2?page=0&seokey=recap-2025&type=collectionsDetail",
+          "protocol": "https",
+          "host": ["gaana", "com"],
+          "path": ["apiv2"],
+          "query": [
+            {
+              "key": "page",
+              "value": "0"
+            },
+            {
+              "key": "seokey",
+              "value": "recap-2025"
+            },
+            {
+              "key": "type",
+              "value": "collectionsDetail"
+            }
+          ]
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "Top Charts",
+      "request": {
+        "method": "POST",
+        "header": [],
+        "url": {
+          "raw": "https://gaana.com/apiv2?page=0&type=miscTopCharts",
+          "protocol": "https",
+          "host": ["gaana", "com"],
+          "path": ["apiv2"],
+          "query": [
+            {
+              "key": "page",
+              "value": "0"
+            },
+            {
+              "key": "type",
+              "value": "miscTopCharts"
+            }
+          ]
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "Top Playlists",
+      "request": {
+        "method": "POST",
+        "header": [],
+        "url": {
+          "raw": "https://gaana.com/apiv2?page=0&seokey=top-playlists-1&type=collectionsDetail",
+          "protocol": "https",
+          "host": ["gaana", "com"],
+          "path": ["apiv2"],
+          "query": [
+            {
+              "key": "page",
+              "value": "0"
+            },
+            {
+              "key": "seokey",
+              "value": "top-playlists-1"
+            },
+            {
+              "key": "type",
+              "value": "collectionsDetail"
+            }
+          ]
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "Retro",
+      "request": {
+        "method": "POST",
+        "header": [],
+        "url": {
+          "raw": "https://gaana.com/apiv2?page=0&seokey=retro-playlists&type=collectionsDetail",
+          "protocol": "https",
+          "host": ["gaana", "com"],
+          "path": ["apiv2"],
+          "query": [
+            {
+              "key": "page",
+              "value": "0"
+            },
+            {
+              "key": "seokey",
+              "value": "retro-playlists"
+            },
+            {
+              "key": "type",
+              "value": "collectionsDetail"
+            }
+          ]
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "Bhakti",
+      "request": {
+        "method": "POST",
+        "header": [],
+        "url": {
+          "raw": "https://gaana.com/apiv2?page=0&seokey=bhakti&type=collectionsDetail",
+          "protocol": "https",
+          "host": ["gaana", "com"],
+          "path": ["apiv2"],
+          "query": [
+            {
+              "key": "page",
+              "value": "0"
+            },
+            {
+              "key": "seokey",
+              "value": "bhakti"
+            },
+            {
+              "key": "type",
+              "value": "collectionsDetail"
+            }
+          ]
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "Shades of love",
+      "request": {
+        "method": "POST",
+        "header": [],
+        "url": {
+          "raw": "https://gaana.com/apiv2?page=0&seokey=lohri&type=collectionsDetail",
+          "protocol": "https",
+          "host": ["gaana", "com"],
+          "path": ["apiv2"],
+          "query": [
+            {
+              "key": "page",
+              "value": "0"
+            },
+            {
+              "key": "seokey",
+              "value": "lohri"
+            },
+            {
+              "key": "type",
+              "value": "collectionsDetail"
+            }
+          ]
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "Top Streamed Artists",
+      "request": {
+        "method": "POST",
+        "header": [],
+        "url": {
+          "raw": "https://gaana.com/apiv2?page=0&seokey=mid-year-recap-2024&type=collectionsDetail",
+          "protocol": "https",
+          "host": ["gaana", "com"],
+          "path": ["apiv2"],
+          "query": [
+            {
+              "key": "page",
+              "value": "0"
+            },
+            {
+              "key": "seokey",
+              "value": "mid-year-recap-2024"
+            },
+            {
+              "key": "type",
+              "value": "collectionsDetail"
+            }
+          ]
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "Romance",
+      "request": {
+        "method": "POST",
+        "header": [],
+        "url": {
+          "raw": "https://gaana.com/apiv2?page=0&seokey=romance&type=collectionsDetail",
+          "protocol": "https",
+          "host": ["gaana", "com"],
+          "path": ["apiv2"],
+          "query": [
+            {
+              "key": "page",
+              "value": "0"
+            },
+            {
+              "key": "seokey",
+              "value": "romance"
+            },
+            {
+              "key": "type",
+              "value": "collectionsDetail"
+            }
+          ]
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "Gaana Party",
+      "request": {
+        "method": "POST",
+        "header": [],
+        "url": {
+          "raw": "https://gaana.com/apiv2?page=0&seokey=gaana-party-zone&type=collectionsDetail",
+          "protocol": "https",
+          "host": ["gaana", "com"],
+          "path": ["apiv2"],
+          "query": [
+            {
+              "key": "page",
+              "value": "0"
+            },
+            {
+              "key": "seokey",
+              "value": "gaana-party-zone"
+            },
+            {
+              "key": "type",
+              "value": "collectionsDetail"
+            }
+          ]
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "Star Gallery",
+      "request": {
+        "method": "POST",
+        "header": [],
+        "url": {
+          "raw": "https://gaana.com/apiv2?page=0&seokey=star-gallery&type=collectionsDetail",
+          "protocol": "https",
+          "host": ["gaana", "com"],
+          "path": ["apiv2"],
+          "query": [
+            {
+              "key": "page",
+              "value": "0"
+            },
+            {
+              "key": "seokey",
+              "value": "star-gallery"
+            },
+            {
+              "key": "type",
+              "value": "collectionsDetail"
+            }
+          ]
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "City Top Charts",
+      "request": {
+        "method": "POST",
+        "header": [],
+        "url": {
+          "raw": "https://gaana.com/apiv2?page=0&seokey=city-top-charts&type=collectionsDetail",
+          "protocol": "https",
+          "host": ["gaana", "com"],
+          "path": ["apiv2"],
+          "query": [
+            {
+              "key": "page",
+              "value": "0"
+            },
+            {
+              "key": "seokey",
+              "value": "city-top-charts"
+            },
+            {
+              "key": "type",
+              "value": "collectionsDetail"
+            }
+          ]
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "Top Searched Artists",
+      "request": {
+        "method": "POST",
+        "header": [],
+        "url": {
+          "raw": "https://gaana.com/apiv2?page=0&seokey=top-searched-artists&type=collectionsDetail",
+          "protocol": "https",
+          "host": ["gaana", "com"],
+          "path": ["apiv2"],
+          "query": [
+            {
+              "key": "page",
+              "value": "0"
+            },
+            {
+              "key": "seokey",
+              "value": "top-searched-artists"
+            },
+            {
+              "key": "type",
+              "value": "collectionsDetail"
+            }
+          ]
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "Popular Songs",
+      "request": {
+        "method": "POST",
+        "header": [],
+        "url": {
+          "raw": "https://gaana.com/apiv2?seokey=lang1&type=popularSongs",
+          "protocol": "https",
+          "host": ["gaana", "com"],
+          "path": ["apiv2"],
+          "query": [
+            {
+              "key": "seokey",
+              "value": "lang1"
+            },
+            {
+              "key": "type",
+              "value": "popularSongs"
+            }
+          ]
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "Just Arrived",
+      "request": {
+        "method": "POST",
+        "header": [],
+        "url": {
+          "raw": "https://gaana.com/apiv2?page=0&seokey=just-arrived&type=collectionsDetail",
+          "protocol": "https",
+          "host": ["gaana", "com"],
+          "path": ["apiv2"],
+          "query": [
+            {
+              "key": "page",
+              "value": "0"
+            },
+            {
+              "key": "seokey",
+              "value": "just-arrived"
+            },
+            {
+              "key": "type",
+              "value": "collectionsDetail"
+            }
+          ]
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "Popular Songs Punjabi",
+      "request": {
+        "method": "POST",
+        "header": [],
+        "url": {
+          "raw": "https://gaana.com/apiv2?seokey=lang2&type=popularSongs",
+          "protocol": "https",
+          "host": ["gaana", "com"],
+          "path": ["apiv2"],
+          "query": [
+            {
+              "key": "seokey",
+              "value": "lang2"
+            },
+            {
+              "key": "type",
+              "value": "popularSongs"
+            }
+          ]
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "Ghazal",
+      "request": {
+        "method": "POST",
+        "header": [],
+        "url": {
+          "raw": "https://gaana.com/apiv2?page=0&seokey=mehfil-e-ghazal&type=collectionsDetail",
+          "protocol": "https",
+          "host": ["gaana", "com"],
+          "path": ["apiv2"],
+          "query": [
+            {
+              "key": "page",
+              "value": "0"
+            },
+            {
+              "key": "seokey",
+              "value": "mehfil-e-ghazal"
+            },
+            {
+              "key": "type",
+              "value": "collectionsDetail"
+            }
+          ]
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "Indie",
+      "request": {
+        "method": "POST",
+        "header": [],
+        "url": {
+          "raw": "https://gaana.com/apiv2?page=0&seokey=indie-playlists&type=collectionsDetail",
+          "protocol": "https",
+          "host": ["gaana", "com"],
+          "path": ["apiv2"],
+          "query": [
+            {
+              "key": "page",
+              "value": "0"
+            },
+            {
+              "key": "seokey",
+              "value": "indie-playlists"
+            },
+            {
+              "key": "type",
+              "value": "collectionsDetail"
+            }
+          ]
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "home urls",
+      "request": {
+        "method": "POST",
+        "header": [],
+        "url": {
+          "raw": "https://gaana.com/apiv2?type=home",
+          "protocol": "https",
+          "host": ["gaana", "com"],
+          "path": ["apiv2"],
+          "query": [
+            {
+              "key": "type",
+              "value": "home"
+            }
+          ]
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "Playlist Detail",
+      "request": {
+        "method": "POST",
+        "header": [],
+        "url": {
+          "raw": "https://gaana.com/apiv2?seokey=gaana-dj-2010s-love-hits&type=playlistDetail",
+          "protocol": "https",
+          "host": ["gaana", "com"],
+          "path": ["apiv2"],
+          "query": [
+            {
+              "key": "seokey",
+              "value": "gaana-dj-2010s-love-hits"
+            },
+            {
+              "key": "type",
+              "value": "playlistDetail"
+            }
+          ]
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "Album Detail",
+      "request": {
+        "method": "POST",
+        "header": [],
+        "url": {
+          "raw": "https://gaana.com/apiv2?seokey=e-sasur-ke-buchi&type=albumDetail",
+          "protocol": "https",
+          "host": ["gaana", "com"],
+          "path": ["apiv2"],
+          "query": [
+            {
+              "key": "seokey",
+              "value": "e-sasur-ke-buchi"
+            },
+            {
+              "key": "type",
+              "value": "albumDetail"
+            }
+          ]
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "Song Detail",
+      "request": {
+        "method": "POST",
+        "header": [],
+        "url": {
+          "raw": "https://gaana.com/apiv2?seokey=raavana-mavandaa-from-jana-nayagan&type=songDetail",
+          "protocol": "https",
+          "host": ["gaana", "com"],
+          "path": ["apiv2"],
+          "query": [
+            {
+              "key": "seokey",
+              "value": "raavana-mavandaa-from-jana-nayagan"
+            },
+            {
+              "key": "type",
+              "value": "songDetail"
+            }
+          ]
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "Artist Details",
+      "request": {
+        "method": "POST",
+        "header": [],
+        "url": {
+          "raw": "https://gaana.com/apiv2?language=&order=0&seokey=anirudh-ravichander&sortBy=popularity&type=artistDetailNew",
+          "protocol": "https",
+          "host": ["gaana", "com"],
+          "path": ["apiv2"],
+          "query": [
+            {
+              "key": "language",
+              "value": ""
+            },
+            {
+              "key": "order",
+              "value": "0"
+            },
+            {
+              "key": "seokey",
+              "value": "anirudh-ravichander"
+            },
+            {
+              "key": "sortBy",
+              "value": "popularity"
+            },
+            {
+              "key": "type",
+              "value": "artistDetailNew"
+            }
+          ]
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "Artist Detail Section Songs",
+      "request": {
+        "method": "POST",
+        "header": [],
+        "url": {
+          "raw": "https://gaana.com/apiv2?apiPath=https%3A%2F%2Fapiv2.gaana.com%2Fhome%2Fartist%2Ftracks%2F54397%3FsortBy%3Dpopularity%26sortOrder%3D0%26request_type%3Dweb%26pkc%3Dtrue%26st%3Dhls%26song_type%3Dnew%26limit%3D0%2C20&index=0&type=artistDetailSection",
+          "protocol": "https",
+          "host": ["gaana", "com"],
+          "path": ["apiv2"],
+          "query": [
+            {
+              "key": "apiPath",
+              "value": "https%3A%2F%2Fapiv2.gaana.com%2Fhome%2Fartist%2Ftracks%2F54397%3FsortBy%3Dpopularity%26sortOrder%3D0%26request_type%3Dweb%26pkc%3Dtrue%26st%3Dhls%26song_type%3Dnew%26limit%3D0%2C20"
+            },
+            {
+              "key": "index",
+              "value": "0"
+            },
+            {
+              "key": "type",
+              "value": "artistDetailSection"
+            }
+          ]
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "Artist Top Playlist",
+      "request": {
+        "method": "POST",
+        "header": [],
+        "url": {
+          "raw": "https://gaana.com/apiv2?apiPath=https%3A%2F%2Fapiv2.gaana.com%2Fhome%2Fartist%2Fepisodes%2F54397%3FsortBy%3Dpopularity%26sortOrder%3D0%26request_type%3Dweb%26pkc%3Dtrue%26st%3Dhls%26song_type%3Dnew%26limit%3D0%2C20&index=1&type=artistDetailSection",
+          "protocol": "https",
+          "host": ["gaana", "com"],
+          "path": ["apiv2"],
+          "query": [
+            {
+              "key": "apiPath",
+              "value": "https%3A%2F%2Fapiv2.gaana.com%2Fhome%2Fartist%2Fepisodes%2F54397%3FsortBy%3Dpopularity%26sortOrder%3D0%26request_type%3Dweb%26pkc%3Dtrue%26st%3Dhls%26song_type%3Dnew%26limit%3D0%2C20"
+            },
+            {
+              "key": "index",
+              "value": "1"
+            },
+            {
+              "key": "type",
+              "value": "artistDetailSection"
+            }
+          ]
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "Artist Top Albums",
+      "request": {
+        "method": "POST",
+        "header": [],
+        "url": {
+          "raw": "https://gaana.com/apiv2?apiPath=https%3A%2F%2Fapiv2.gaana.com%2Fhome%2Fartist%2Falbum%2F54397&index=3&type=artistDetailSection",
+          "protocol": "https",
+          "host": ["gaana", "com"],
+          "path": ["apiv2"],
+          "query": [
+            {
+              "key": "apiPath",
+              "value": "https%3A%2F%2Fapiv2.gaana.com%2Fhome%2Fartist%2Falbum%2F54397"
+            },
+            {
+              "key": "index",
+              "value": "3"
+            },
+            {
+              "key": "type",
+              "value": "artistDetailSection"
+            }
+          ]
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "Similar Artists",
+      "request": {
+        "method": "POST",
+        "header": [],
+        "url": {
+          "raw": "https://gaana.com/apiv2?apiPath=https%3A%2F%2Fapiv2.gaana.com%2Fplayer%2Fsimilar-artists%2F54397&index=5&type=artistDetailSection",
+          "protocol": "https",
+          "host": ["gaana", "com"],
+          "path": ["apiv2"],
+          "query": [
+            {
+              "key": "apiPath",
+              "value": "https%3A%2F%2Fapiv2.gaana.com%2Fplayer%2Fsimilar-artists%2F54397"
+            },
+            {
+              "key": "index",
+              "value": "5"
+            },
+            {
+              "key": "type",
+              "value": "artistDetailSection"
+            }
+          ]
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "Similar Albums",
+      "request": {
+        "method": "POST",
+        "header": [],
+        "url": {
+          "raw": "https://gaana.com/apiv2?id=14070787&type=albumSimilar",
+          "protocol": "https",
+          "host": ["gaana", "com"],
+          "path": ["apiv2"],
+          "query": [
+            {
+              "key": "id",
+              "value": "14070787"
+            },
+            {
+              "key": "type",
+              "value": "albumSimilar"
+            }
+          ]
+        }
+      },
+      "response": []
+    }
+  ]
+}

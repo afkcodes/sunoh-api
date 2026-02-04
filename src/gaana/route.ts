@@ -1,10 +1,16 @@
 import { FastifyInstance } from 'fastify';
-import { radioController, radioDetailController, trackController } from './controller';
+import {
+  albumController,
+  homeController,
+  playlistController,
+  searchController,
+  songController,
+} from './controller';
 
-const gaanaRoutes = async (fastify: FastifyInstance) => {
-  fastify.get('/radio/:radioId', radioDetailController);
-  fastify.get('/radios/popular', radioController);
-  fastify.get('/track/:trackId', trackController);
+export const gaanaRoutes = async (fastify: FastifyInstance) => {
+  fastify.get('/home', homeController);
+  fastify.get('/search', searchController);
+  fastify.get('/album/:albumId', albumController);
+  fastify.get('/playlist/:playlistId', playlistController);
+  fastify.get('/song/:songId', songController);
 };
-
-export { gaanaRoutes };

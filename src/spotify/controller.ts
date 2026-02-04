@@ -1,6 +1,8 @@
 import { FastifyReply, FastifyRequest } from 'fastify';
+import { mapSpotifyPlaylist } from '../mappers/spotify.mapper';
 import { addPlaylistMappingJob, getJobStatus, getQueueStats } from '../queue/playlistQueue';
 import { extractPlaylistId, scrapePlaylist } from '../spotify_import/spotify_playlist';
+import { sendError, sendSuccess } from '../utils/response';
 
 interface PlaylistQuery {
   url?: string;
@@ -16,71 +18,38 @@ const playlistController = async (
   try {
     const { url, fast, debug } = req.query;
 
-    // Validate URL parameter
     if (!url) {
-      return reply.status(400).send({
-        error: 'Missing required parameter: url',
-        message: 'Please provide a Spotify playlist URL in the query parameter',
-        example: '/spotify/playlist?url=https://open.spotify.com/playlist/37i9dQZF1DXcBWIGoYBM5M',
-      });
+      return sendError(reply, 'Missing required parameter: url', null, 400);
     }
 
-    // Validate that it's a Spotify playlist URL
     if (!url.includes('spotify.com/playlist/')) {
-      return reply.status(400).send({
-        error: 'Invalid URL',
-        message: 'Please provide a valid Spotify playlist URL',
-        provided: url,
-      });
+      return sendError(
+        reply,
+        'Invalid URL: Please provide a valid Spotify playlist URL',
+        null,
+        400,
+      );
     }
 
-    // Extract playlist ID to validate URL format
     const playlistId = extractPlaylistId(url);
     if (!playlistId) {
-      return reply.status(400).send({
-        error: 'Invalid playlist URL',
-        message: 'Could not extract playlist ID from the provided URL',
-        provided: url,
-      });
+      return sendError(reply, 'Invalid playlist URL: Could not extract playlist ID', null, 400);
     }
 
-    // Parse options
     const options = {
-      headless: true, // Always headless for API
+      headless: true,
       debug: debug === 'true',
       timeout: 30000,
       fast: fast === 'true',
     };
 
-    // Log the request for debugging
-    if (options.debug) {
-      console.log(`[Spotify API] Scraping playlist: ${url}`);
-      console.log(`[Spotify API] Options:`, options);
-    }
-
-    // Scrape the playlist
     const playlistData = await scrapePlaylist(url, options);
+    const mappedData = mapSpotifyPlaylist(playlistData);
 
-    // Return the scraped data
-    return reply.send({
-      success: true,
-      data: playlistData,
-      metadata: {
-        scrapedAt: new Date().toISOString(),
-        options: {
-          fast: options.fast,
-          debug: options.debug,
-        },
-      },
-    });
+    return sendSuccess(reply, mappedData, 'Playlist scraped successfully', 'spotify');
   } catch (error) {
     console.error('[Spotify API] Error scraping playlist:', error);
-
-    return reply.status(500).send({
-      error: 'Failed to scrape playlist',
-      message: error.message,
-      timestamp: new Date().toISOString(),
-    });
+    return sendError(reply, 'Failed to scrape playlist', error.message, 500);
   }
 };
 
@@ -91,76 +60,54 @@ const playlistMapController = async (
   try {
     const { url, fast, debug, limit } = req.query;
 
-    // Validate URL parameter
     if (!url) {
-      return reply.status(400).send({
-        error: 'Missing required parameter: url',
-        message: 'Please provide a Spotify playlist URL in the query parameter',
-        example:
-          '/spotify/playlist/map?url=https://open.spotify.com/playlist/37i9dQZF1DXcBWIGoYBM5M',
-      });
+      return sendError(reply, 'Missing required parameter: url', null, 400);
     }
 
-    // Validate that it's a Spotify playlist URL
     if (!url.includes('spotify.com/playlist/')) {
-      return reply.status(400).send({
-        error: 'Invalid URL',
-        message: 'Please provide a valid Spotify playlist URL',
-        provided: url,
-      });
+      return sendError(
+        reply,
+        'Invalid URL: Please provide a valid Spotify playlist URL',
+        null,
+        400,
+      );
     }
 
-    // Extract playlist ID to validate URL format
     const playlistId = extractPlaylistId(url);
     if (!playlistId) {
-      return reply.status(400).send({
-        error: 'Invalid playlist URL',
-        message: 'Could not extract playlist ID from the provided URL',
-        provided: url,
-      });
+      return sendError(reply, 'Invalid playlist URL: Could not extract playlist ID', null, 400);
     }
 
-    // Prepare job options
     const jobOptions = {
       fast: fast === 'true',
       debug: debug === 'true',
       limit: limit ? parseInt(limit, 10) : undefined,
     };
 
-    if (jobOptions.debug) {
-      console.log(`[Spotify API] Queueing playlist mapping job: ${url}`);
-    }
-
-    // Add job to queue
     const { jobId, isExisting } = await addPlaylistMappingJob(url, jobOptions);
 
-    // Return job information immediately (non-blocking)
-    return reply.send({
-      success: true,
+    const data = {
       jobId,
       status: isExisting ? 'existing' : 'queued',
-      message: isExisting
-        ? 'This playlist is already being processed or has been processed recently'
-        : 'Playlist mapping job has been queued for processing',
       checkStatusUrl: `/spotify/playlist/map/status/${jobId}`,
-      estimatedTime: isExisting
-        ? 'Available now or processing'
-        : '2-5 minutes depending on playlist size',
-      queuedAt: new Date().toISOString(),
+      estimatedTime: isExisting ? 'Available now or processing' : '2-5 minutes',
       isExistingJob: isExisting,
-    });
+    };
+
+    return sendSuccess(
+      reply,
+      data,
+      isExisting
+        ? 'This playlist is already being processed'
+        : 'Playlist mapping job has been queued',
+      'spotify',
+    );
   } catch (error) {
     console.error('[Spotify API] Error queueing playlist mapping job:', error);
-
-    return reply.status(500).send({
-      error: 'Failed to queue playlist mapping job',
-      message: error.message,
-      timestamp: new Date().toISOString(),
-    });
+    return sendError(reply, 'Failed to queue playlist mapping job', error.message, 500);
   }
 };
 
-// New controller to check job status
 const playlistMapStatusController = async (
   req: FastifyRequest<{ Params: { jobId: string } }>,
   reply: FastifyReply,
@@ -169,50 +116,36 @@ const playlistMapStatusController = async (
     const { jobId } = req.params;
 
     if (!jobId) {
-      return reply.status(400).send({
-        error: 'Missing job ID',
-        message: 'Please provide a valid job ID',
-      });
+      return sendError(reply, 'Missing job ID', null, 400);
     }
 
     const jobStatus = await getJobStatus(jobId);
 
-    return reply.send({
-      jobId,
-      ...jobStatus,
-    });
+    return sendSuccess(reply, { jobId, ...jobStatus }, 'Job status fetched', 'spotify');
   } catch (error) {
     console.error('[Spotify API] Error checking job status:', error);
-
-    return reply.status(500).send({
-      error: 'Failed to check job status',
-      message: error.message,
-      timestamp: new Date().toISOString(),
-    });
+    return sendError(reply, 'Failed to check job status', error.message, 500);
   }
 };
 
-// New controller to get queue statistics
 const queueStatsController = async (req: FastifyRequest, reply: FastifyReply) => {
   try {
     const stats = await getQueueStats();
 
-    return reply.send({
-      success: true,
-      queue: {
-        name: 'playlist-mapping',
-        ...stats,
+    return sendSuccess(
+      reply,
+      {
+        queue: {
+          name: 'playlist-mapping',
+          ...stats,
+        },
       },
-      timestamp: new Date().toISOString(),
-    });
+      'Queue statistics fetched',
+      'spotify',
+    );
   } catch (error) {
     console.error('[Spotify API] Error getting queue stats:', error);
-
-    return reply.status(500).send({
-      error: 'Failed to get queue statistics',
-      message: error.message,
-      timestamp: new Date().toISOString(),
-    });
+    return sendError(reply, 'Failed to get queue statistics', error.message, 500);
   }
 };
 

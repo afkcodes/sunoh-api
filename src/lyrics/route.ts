@@ -1,5 +1,6 @@
 import { FastifyInstance, FastifyReply, FastifyRequest } from 'fastify';
 import { parseLyrics } from '../helpers/lyricsParser';
+import { sendError, sendSuccess } from '../utils/response';
 import AppleMusicLyricsLRC from './lyrics';
 
 interface LyricsParams {
@@ -33,7 +34,6 @@ export const lyricsRoutes = async (fastify: FastifyInstance) => {
       }>,
       reply: FastifyReply,
     ) => {
-      console.log('CALLED', request.params);
       try {
         const { songName } = request.params;
         const {
@@ -47,45 +47,27 @@ export const lyricsRoutes = async (fastify: FastifyInstance) => {
         const token = process.env.LYRICS_TOKEN;
         const mediaUserToken = process.env.MEDIA_USER_TOKEN;
 
-        console.log(token, mediaUserToken);
-
         if (!songName) {
-          return reply.status(400).send({
-            success: false,
-            message: 'Song name is required',
-          });
+          return sendError(reply, 'Song name is required', null, 400);
         }
 
-        if (!token) {
-          return reply.status(500).send({
-            success: false,
-            message: 'Apple Music token not configured',
-          });
-        }
-
-        if (!mediaUserToken) {
-          return reply.status(500).send({
-            success: false,
-            message: 'Media user token not configured',
-          });
+        if (!token || !mediaUserToken) {
+          return sendError(reply, 'Apple Music lyrics service is not configured', null, 500);
         }
 
         // Step 1: Search for the song
         const searchResults = await appleLyrics.searchAppleMusic(songName, { limit: 1 });
 
         if (!searchResults || searchResults.length === 0) {
-          return reply.status(404).send({
-            success: false,
-            message: `No songs found for: ${songName}`,
-          });
+          return sendError(reply, `No songs found for: ${songName}`, null, 404);
         }
 
         const song = searchResults[0];
 
         // Step 2: Fetch lyrics using the track ID
         const options = {
-          language: 'En-IN',
-          format,
+          language: 'En-IN' as string,
+          format: format as 'lrc' | 'ttml',
         };
 
         const lyrics = await appleLyrics.fetchLyricsWithAuth(
@@ -97,39 +79,38 @@ export const lyricsRoutes = async (fastify: FastifyInstance) => {
           options,
         );
 
-        return reply.send({
-          success: true,
-          data: {
-            songInfo: {
-              trackId: song.trackId,
-              trackName: song.trackName,
-              artistName: song.artistName,
-              albumName: song.albumName,
-              artworkUrl: song.artworkUrl,
-              isLyricsAvailable: song.isLyricsAvailable,
-            },
-            lyrics,
-            parsed: parseLyrics(lyrics),
-            format,
+        const responseData = {
+          songInfo: {
+            trackId: song.trackId,
+            trackName: song.trackName,
+            artistName: song.artistName,
+            albumName: song.albumName,
+            artworkUrl: song.artworkUrl,
+            isLyricsAvailable: song.isLyricsAvailable,
           },
-        });
+          lyrics,
+          parsed: format === 'lrc' ? parseLyrics(lyrics) : null,
+          format,
+        };
+
+        return sendSuccess(reply, responseData, 'Lyrics fetched successfully', 'apple-music');
       } catch (error: any) {
-        return reply.status(500).send({
-          success: false,
-          message: error.message || 'Failed to fetch lyrics',
-        });
+        return sendError(reply, error.message || 'Failed to fetch lyrics', error);
       }
     },
   );
 
   // Health check for lyrics service
   fastify.get('/', async (request: FastifyRequest, reply: FastifyReply) => {
-    return reply.send({
-      success: true,
-      message: 'Apple Music Lyrics API is running',
-      usage: 'GET /lyrics/:songName?storefront=us&format=lrc',
-      example: '/lyrics/Shape%20of%20You',
-      note: 'Apple Music tokens are configured via environment variables',
-    });
+    return sendSuccess(
+      reply,
+      {
+        usage: 'GET /lyrics/:songName?storefront=us&format=lrc',
+        example: '/lyrics/Shape%20of%20You',
+        note: 'Apple Music tokens are configured via environment variables',
+      },
+      'Lyrics service is running',
+      'apple-music',
+    );
   });
 };

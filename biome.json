@@ -1,5 +1,5 @@
 {
-  "$schema": "https://biomejs.dev/schemas/1.8.3/schema.json",
+  "$schema": "https://biomejs.dev/schemas/2.3.10/schema.json",
   "formatter": {
     "enabled": true,
     "formatWithErrors": false,
@@ -9,15 +9,23 @@
     "lineWidth": 100,
     "attributePosition": "auto"
   },
-  "organizeImports": { "enabled": true },
   "linter": {
     "enabled": true,
     "rules": {
       "recommended": false,
-      "complexity": { "noBannedTypes": "off" },
-      "correctness": { "noInvalidUseBeforeDeclaration": "error" },
-      "style": { "noDefaultExport": "off" },
-      "suspicious": { "noExplicitAny": "info", "noPrototypeBuiltins": "off" }
+      "complexity": {
+        "noBannedTypes": "off"
+      },
+      "correctness": {
+        "noInvalidUseBeforeDeclaration": "error"
+      },
+      "style": {
+        "noDefaultExport": "off"
+      },
+      "suspicious": {
+        "noExplicitAny": "info",
+        "noPrototypeBuiltins": "off"
+      }
     }
   },
   "javascript": {
@@ -33,9 +41,15 @@
       "attributePosition": "auto"
     }
   },
+  "assist": {
+    "actions": {
+      "source": {
+        "organizeImports": "on"
+      }
+    }
+  },
   "overrides": [
     {
-      "include": ["*.ts", "*.mts"],
       "linter": {
         "enabled": true
       }

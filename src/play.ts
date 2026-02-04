@@ -2,11 +2,11 @@ import { FastifyReply, FastifyRequest } from 'fastify';
 import { config } from './config/config';
 import { fetchGet } from './helpers/http';
 import { songDataSanitizer } from './saavn/helper';
+import { sendError, sendSuccess } from './utils/response';
 
 type PlayRequest = FastifyRequest<{
   Querystring: {
     id: string;
-    source: 'saavn' | 'gaana' | 'ytm';
     q: 'low' | 'medium' | 'high';
   };
 }>;
@@ -19,25 +19,32 @@ const params = {
 };
 
 const play = async (req: PlayRequest, res: FastifyReply) => {
-  const qmap = {
-    high: '320kbps',
-    low: '96kbps',
-    medium: '160kbps',
-  };
-  const { id, source, q } = req.query;
-  const url = `${config.saavn.baseUrl}`;
-  const { data } = await fetchGet(url, {
-    params: {
-      __call: config.saavn.endpoint.song.link,
-      token: id,
-      type: 'song',
-      ...params,
-    },
-  });
+  try {
+    const { id } = req.query;
+    if (!id) {
+      return sendError(res, 'Missing song ID', null, 400);
+    }
 
-  const media = songDataSanitizer((data as any).songs) as any;
+    const url = `${config.saavn.baseUrl}`;
+    const { data, error, message } = await fetchGet(url, {
+      params: {
+        __call: config.saavn.endpoint.song.link,
+        token: id,
+        type: 'song',
+        ...params,
+      },
+    });
 
-  res.code(200).send({ data: media, source, code: 200, message: 'fetched media successfully' });
+    if (error || !data) {
+      return sendError(res, message || 'Failed to fetch song for playback', error);
+    }
+
+    const media = songDataSanitizer((data as any).songs);
+
+    return sendSuccess(res, media, 'Fetched media successfully', 'saavn');
+  } catch (error) {
+    return sendError(res, 'Playback error', error);
+  }
 };
 
 export { play };
