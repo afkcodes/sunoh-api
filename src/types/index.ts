@@ -8,10 +8,15 @@ export type Images = Image[];
 export interface Artist {
   id: string;
   name: string;
+  subtitle?: string;
   role?: string;
   image?: Images;
+  followers?: string;
   type?: string;
   url?: string;
+  bio?: string;
+  songCount?: string;
+  albumCount?: string;
 }
 
 export interface Song {
@@ -43,6 +48,7 @@ export interface Album {
   title: string;
   subtitle?: string;
   headerDesc?: string;
+  description?: string;
   type: 'album';
   image: Images;
   language?: string;
@@ -50,6 +56,9 @@ export interface Album {
   songCount?: string;
   artists: Artist[];
   songs?: Song[];
+  copyright?: string;
+  releaseDate?: string;
+  playCount?: string;
   source: string;
   url?: string;
 }

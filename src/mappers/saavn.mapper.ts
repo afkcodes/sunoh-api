@@ -101,9 +101,12 @@ export const mapSaavnArtist = (data: any): Artist => {
   return {
     id: getToken(url || '') || id,
     name: dataExtractor(data, saavnDataConfigs.artistMeta.title),
+    subtitle: dataExtractor(data, saavnDataConfigs.artistMeta.subtitle),
     image: createImageLinks(dataExtractor(data, saavnDataConfigs.artistMeta.images)),
+    followers: dataExtractor(data, saavnDataConfigs.artistMeta.followers),
     type: 'artist',
     url: url,
+    bio: dataExtractor(data, saavnDataConfigs.artistMeta.bio),
   };
 };
 
