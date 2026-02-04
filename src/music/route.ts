@@ -6,6 +6,7 @@ import {
   collectionController as gaanaCollectionController,
   homeController as gaanaHomeController,
   playlistController as gaanaPlaylistController,
+  radioDetailController as gaanaRadioDetailController,
   searchController as gaanaSearchController,
   songController as gaanaSongController,
   songStreamController as gaanaSongStreamController,
@@ -82,6 +83,15 @@ export const musicRoutes = async (fastify: FastifyInstance) => {
     reply
       .status(400)
       .send({ error: 'Collections are only supported for Gaana provider currently' });
+  });
+
+  // Radio (Gaana specific for now)
+  fastify.get('/radio/:radioId', (req, reply) => {
+    const { provider } = req.query as any;
+    if (provider === 'gaana') return gaanaRadioDetailController(req as any, reply);
+    reply
+      .status(400)
+      .send({ error: 'Radio details are only supported for Gaana provider currently' });
   });
 
   // Album List

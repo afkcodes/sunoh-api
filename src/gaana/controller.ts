@@ -434,3 +434,23 @@ export const songStreamController = async (req: FastifyRequest, res: FastifyRepl
     return sendError(res, 'Internal server error', error);
   }
 };
+
+export const radioDetailController = async (req: FastifyRequest, res: FastifyReply) => {
+  const { radioId } = req.params as any;
+  const { lang } = req.query as any;
+  try {
+    const { data, error, message } = await gaanaFetch<any>(
+      {
+        id: radioId,
+        type: 'gaanaradiodetail',
+      },
+      lang,
+    );
+    if (error) return sendError(res, message || 'Failed to fetch radio detail', error);
+
+    const songs = (data.tracks || []).map((t: any) => mapGaanaTrack(t));
+    return sendSuccess(res, songs, 'OK', 'gaana');
+  } catch (error) {
+    return sendError(res, 'Internal server error', error);
+  }
+};
