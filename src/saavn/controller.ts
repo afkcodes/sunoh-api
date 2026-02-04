@@ -3,7 +3,7 @@ import { cache } from '../app';
 import { config } from '../config/config';
 import { isValidArray } from '../helpers/common';
 import { fetchGet } from '../helpers/http';
-import { sendError, sendSuccess } from '../utils/response';
+import { ApiResponse, sendError, sendSuccess } from '../utils/response';
 import {
   albumDataMapper,
   artistDataMapper,
@@ -63,14 +63,13 @@ const saavnFetch = async <T>(url: string, options: any = {}) => {
   return fetchGet<T>(url, { ...options, headers });
 };
 
-const homeController = async (req: SaavnRequest, res: FastifyReply) => {
-  const languages = req.query.lang || req.query.languages;
+export const getSaavnHomeData = async (languages?: string) => {
   const url = `${config.saavn.baseUrl}?__call=${config.saavn.endpoint.modules.home}`;
   const key = `home_${languages}`;
 
-  const cacheData = await cache.get(key);
+  const cacheData = await cache.get<ApiResponse<any>>(key);
   if (cacheData) {
-    return res.code(cacheData.code || 200).send(cacheData);
+    return cacheData.data;
   }
 
   const { data, code, error, message } = await saavnFetch<any>(url, {
@@ -81,12 +80,12 @@ const homeController = async (req: SaavnRequest, res: FastifyReply) => {
   });
 
   if (error) {
-    return sendError(res, message || 'Failed to fetch home data', error, code);
+    throw new Error(message || 'Failed to fetch Saavn home data');
   }
 
   const sanitizedData = homeDataMapper(data);
   const response = {
-    status: 'success',
+    status: 'success' as const,
     message: message || 'Home data fetched successfully',
     data: sanitizedData,
     error: null,
@@ -94,7 +93,17 @@ const homeController = async (req: SaavnRequest, res: FastifyReply) => {
   };
 
   cache.set(key, { ...response, code });
-  return res.code(code).send(response);
+  return sanitizedData;
+};
+
+const homeController = async (req: SaavnRequest, res: FastifyReply) => {
+  try {
+    const languages = req.query.lang || req.query.languages;
+    const data = await getSaavnHomeData(languages);
+    return sendSuccess(res, data, 'Home data fetched successfully', 'saavn');
+  } catch (error: any) {
+    return sendError(res, error.message || 'Failed to fetch home data', error);
+  }
 };
 
 const modulesController = async (req: SaavnRequest, res: FastifyReply) => {

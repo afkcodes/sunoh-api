@@ -45,68 +45,43 @@ const gaanaFetch = async <T>(params: Record<string, any>, languages?: string) =>
   return fetchPost<T>(GAANA_BASE_URL, fetchOptions);
 };
 
-export const homeController = async (req: FastifyRequest, res: FastifyReply) => {
-  const { lang } = req.query as any;
-  try {
-    const key = `gaana_home_${lang || 'default'}`;
-    const cached = await cache.get(key);
-    if (cached) return sendSuccess(res, cached, 'OK', 'gaana');
+export const getGaanaHomeData = async (lang?: string) => {
+  const key = `gaana_home_${lang || 'default'}`;
+  const cached = await cache.get(key);
+  if (cached) return cached;
 
-    const { data, error, message } = await gaanaFetch<any>({ type: 'home' }, lang);
-    if (error) return sendError(res, message || 'Failed to fetch Gaana home', error);
+  const { data, error, message } = await gaanaFetch<any>({ type: 'home' }, lang);
+  if (error) throw new Error(message || 'Failed to fetch Gaana home');
 
-    const sectionMetadata = gaanaHomeMapper(data);
+  const sectionMetadata = gaanaHomeMapper(data);
 
-    // Fetch all relevant sections in parallel
-    const relevantSections = sectionMetadata.filter((section: any) => {
-      if (!section.heading) return false;
-      const excludedHeadings = ['Plan Upgrade', 'One Month Trial'];
-      if (excludedHeadings.includes(section.heading)) return false;
-      if (section.url && section.url.includes('gaanaplusservice')) return false;
-      return section.url || section.seokey || (section.entities && section.entities.length > 0);
-    });
+  // Fetch all relevant sections in parallel
+  const relevantSections = sectionMetadata.filter((section: any) => {
+    if (!section.heading) return false;
+    const excludedHeadings = ['Plan Upgrade', 'One Month Trial'];
+    if (excludedHeadings.includes(section.heading)) return false;
+    if (section.url && section.url.includes('gaanaplusservice')) return false;
+    return section.url || section.seokey || (section.entities && section.entities.length > 0);
+  });
 
-    const sectionPromises = relevantSections.map(async (section: any) => {
-      // If entities are already present, use them
-      if (section.entities && section.entities.length > 0) {
-        return {
-          heading: section.heading,
-          data: section.entities.map(mapGaanaEntity),
-          source: 'gaana',
-        };
-      }
+  const sectionPromises = relevantSections.map(async (section: any) => {
+    // If entities are already present, use them
+    if (section.entities && section.entities.length > 0) {
+      return {
+        heading: section.heading,
+        data: section.entities.map(mapGaanaEntity),
+        source: 'gaana',
+      };
+    }
 
-      // Prioritize collectionsDetail if seokey is present
-      if (section.seokey) {
-        try {
-          const { data: sectionData } = await gaanaFetch<any>(
-            {
-              type: 'collectionsDetail',
-              seokey: section.seokey,
-              page: 0,
-            },
-            lang,
-          );
-
-          if (sectionData && sectionData.entities) {
-            return {
-              heading: section.heading,
-              data: sectionData.entities.map(mapGaanaEntity),
-              source: 'gaana',
-            };
-          }
-        } catch (e) {
-          console.error(`Failed to fetch collection detail for ${section.heading}:`, e);
-        }
-      }
-
-      if (!section.url) return null;
-
+    // Prioritize collectionsDetail if seokey is present
+    if (section.seokey) {
       try {
         const { data: sectionData } = await gaanaFetch<any>(
           {
-            apiPath: section.url,
-            type: 'homeSec',
+            type: 'collectionsDetail',
+            seokey: section.seokey,
+            page: 0,
           },
           lang,
         );
@@ -119,19 +94,49 @@ export const homeController = async (req: FastifyRequest, res: FastifyReply) => 
           };
         }
       } catch (e) {
-        console.error(`Failed to fetch section ${section.heading}:`, e);
+        console.error(`Failed to fetch collection detail for ${section.heading}:`, e);
       }
-      return null;
-    });
+    }
 
-    const populatedSections = (await Promise.all(sectionPromises)).filter(
-      (s) => s !== null && s.data.length > 0,
-    );
+    if (!section.url) return null;
 
-    await cache.set(key, populatedSections, 3600);
-    return sendSuccess(res, populatedSections, 'OK', 'gaana');
-  } catch (error) {
-    return sendError(res, 'Internal server error', error);
+    try {
+      const { data: sectionData } = await gaanaFetch<any>(
+        {
+          apiPath: section.url,
+          type: 'homeSec',
+        },
+        lang,
+      );
+
+      if (sectionData && sectionData.entities) {
+        return {
+          heading: section.heading,
+          data: sectionData.entities.map(mapGaanaEntity),
+          source: 'gaana',
+        };
+      }
+    } catch (e) {
+      console.error(`Failed to fetch section ${section.heading}:`, e);
+    }
+    return null;
+  });
+
+  const populatedSections = (await Promise.all(sectionPromises)).filter(
+    (s) => s !== null && s.data.length > 0,
+  );
+
+  await cache.set(key, populatedSections, 3600);
+  return populatedSections;
+};
+
+export const homeController = async (req: FastifyRequest, res: FastifyReply) => {
+  const { lang } = req.query as any;
+  try {
+    const data = await getGaanaHomeData(lang);
+    return sendSuccess(res, data, 'OK', 'gaana');
+  } catch (error: any) {
+    return sendError(res, error.message || 'Internal server error', error);
   }
 };
 
