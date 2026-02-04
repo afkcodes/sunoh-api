@@ -1,9 +1,4 @@
-import {
-  capitalizeFirstLetter,
-  isValidArray,
-  toCamelCase,
-  toSentenceCase,
-} from '../helpers/common';
+import { capitalizeFirstLetter, toCamelCase, toSentenceCase } from '../helpers/common';
 import { saavnDataConfigs } from '../helpers/dataConfig';
 import { dataExtractor } from '../helpers/dataExtractor';
 import { isArray, isEmptyArray } from '../helpers/validators';
@@ -103,7 +98,7 @@ export const modulesDataMapper = (data: any) => {
 export const albumDataMapper = (data: any) => {
   const album = mapSaavnAlbum(data);
 
-  const modulesData = [];
+  const sections = [];
   if (data.modules) {
     const modules = Object.keys(data.modules).filter((d) => !['artists', 'list'].includes(d));
     for (const key of modules) {
@@ -111,17 +106,17 @@ export const albumDataMapper = (data: any) => {
       for (const k in saavnDataConfigs.albumReco) {
         temp[k] = dataExtractor(data.modules[key], saavnDataConfigs.albumReco[k]);
       }
-      modulesData.push(temp);
+      sections.push(temp);
     }
   }
 
-  return isValidArray(modulesData) ? { album, modules: modulesData } : { album };
+  return { ...album, sections };
 };
 
 export const playlistDataMapper = (data: any) => {
   const playlist = mapSaavnPlaylist(data);
 
-  const modulesData = [];
+  const sections = [];
   if (data.modules) {
     const modules = Object.keys(data.modules).filter((d) => !['artists', 'list'].includes(d));
     for (const key of modules) {
@@ -129,15 +124,15 @@ export const playlistDataMapper = (data: any) => {
       for (const k in saavnDataConfigs.albumReco) {
         temp[k] = dataExtractor(data.modules[key], saavnDataConfigs.albumReco[k]);
       }
-      modulesData.push(temp);
+      sections.push(temp);
     }
   }
 
-  return isValidArray(modulesData) ? { playlist, modules: modulesData } : { playlist };
+  return { ...playlist, sections };
 };
 
 export const recommendedAlbumDataMapper = (data: any[]) => {
-  return (data || []).map((item) => albumDataMapper(item));
+  return (data || []).map((item) => mapSaavnAlbum(item));
 };
 
 export const stationSongsMapper = async (data: any) => {
@@ -253,17 +248,17 @@ export const artistDataMapper = (data: any) => {
 };
 
 export const songsDetailsMapper = (data: any) => {
-  const song = songDataSanitizer(data.songs || []);
-  const modulesData = [];
+  const songs = songDataSanitizer(data.songs || []);
+  const sections = [];
   if (data.modules) {
     for (const key in data.modules) {
       const temp: any = {};
       for (const k in saavnDataConfigs.songDetails) {
         temp[k] = dataExtractor(data.modules[key], saavnDataConfigs.songDetails[k]);
       }
-      modulesData.push(temp);
+      sections.push(temp);
     }
   }
 
-  return { song, modules: modulesData };
+  return { songs, sections };
 };
