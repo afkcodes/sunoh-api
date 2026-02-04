@@ -1,16 +1,12 @@
 import { FastifyInstance, FastifyServerOptions } from 'fastify';
-import { gaanaRoutes } from './gaana/route';
 import { lyricsRoutes } from './lyrics/route';
+import { musicRoutes } from './music/route';
 import { play } from './play';
 import { proxyImage } from './proxyImage';
 import { saavnRoutes } from './saavn/route';
 import { spotifyRoutes } from './spotify/route';
 import { liveMusicRoutes } from './websocket/routes';
 
-// Temporarily disable Redis/Valkey cache for development
-// export const cache = new IOValKeyCache(process.env.VALKEY_URL || 'redis://localhost:6379');
-
-// Create a no-op cache for development without Redis
 export const cache = {
   set: async (key: string, value: any, ttl?: number) => {},
   get: async <T = any>(key: string): Promise<T | null> => null,
@@ -25,19 +21,26 @@ export const cache = {
   getClient: () => null,
 };
 
-// Temporarily disable cache operations for WebSocket testing
-// cache.deleteAll();
+const entry = (fastify: FastifyInstance, _opts: FastifyServerOptions, done: () => void) => {
+  fastify.get('/', async () => ({
+    status: 'success',
+    message: 'Sunoh API is running',
+    version: '1.0.0',
+  }));
 
-const entry = (fastify: FastifyInstance, _opts: FastifyServerOptions, done) => {
-  fastify.get('/', async () => ({ status: 'OK' }));
   fastify.get('/proxy', proxyImage);
   fastify.get('/play', play);
+
+  // Unified Music Route
+  fastify.register(musicRoutes, { prefix: '/music' });
+
+  // Legacy/Specific Provider Routes (optional to keep, but keeping for now)
   fastify.register(saavnRoutes, { prefix: '/saavn' });
-  fastify.register(gaanaRoutes, { prefix: '/gaana' });
-  fastify.register(lyricsRoutes, { prefix: '/lyrics' });
   fastify.register(spotifyRoutes, { prefix: '/spotify' });
+
+  // Other Services
+  fastify.register(lyricsRoutes, { prefix: '/lyrics' });
   fastify.register(liveMusicRoutes, { prefix: '/live' });
-  // fastify.register(youtubeRoutes, { prefix: '/ytm' });
 
   done();
 };

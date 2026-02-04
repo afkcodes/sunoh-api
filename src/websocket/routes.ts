@@ -1,4 +1,5 @@
-import { FastifyInstance, FastifyRequest, FastifyReply } from 'fastify';
+import { FastifyInstance, FastifyReply, FastifyRequest } from 'fastify';
+import { sendError, sendSuccess } from '../utils/response';
 import { LiveMusicWebSocketManager } from './liveMusicManager';
 
 let liveMusicManager: LiveMusicWebSocketManager | null = null;
@@ -17,84 +18,79 @@ export async function liveMusicRoutes(fastify: FastifyInstance) {
   // Get live music stats
   fastify.get('/stats', async (request: FastifyRequest, reply: FastifyReply) => {
     if (!liveMusicManager) {
-      return reply.code(503).send({
-        error: 'WebSocket server not initialized',
-        stats: null,
-      });
+      return sendError(reply, 'WebSocket server not initialized', null, 503);
     }
 
     const stats = liveMusicManager.getStats();
-    return {
-      success: true,
-      stats,
-      timestamp: Date.now(),
-    };
+    return sendSuccess(reply, stats, 'Live music stats fetched', 'websocket');
   });
 
   // Get recent activities
   fastify.get('/activities', async (request: FastifyRequest, reply: FastifyReply) => {
     if (!liveMusicManager) {
-      return reply.code(503).send({
-        error: 'WebSocket server not initialized',
-        activities: [],
-      });
+      return sendError(reply, 'WebSocket server not initialized', null, 503);
     }
 
     const activities = liveMusicManager.getRecentActivitiesForAPI();
-    return {
-      success: true,
-      activities,
-      count: activities.length,
-      timestamp: Date.now(),
-    };
+    return sendSuccess(
+      reply,
+      {
+        activities,
+        count: activities.length,
+      },
+      'Recent activities fetched',
+      'websocket',
+    );
   });
 
   // Get connected users
   fastify.get('/users', async (request: FastifyRequest, reply: FastifyReply) => {
     if (!liveMusicManager) {
-      return reply.code(503).send({
-        error: 'WebSocket server not initialized',
-        users: [],
-      });
+      return sendError(reply, 'WebSocket server not initialized', null, 503);
     }
 
     const users = liveMusicManager.getConnectedUsersForAPI();
-    return {
-      success: true,
-      users,
-      count: users.length,
-      timestamp: Date.now(),
-    };
+    return sendSuccess(
+      reply,
+      {
+        users,
+        count: users.length,
+      },
+      'Connected users fetched',
+      'websocket',
+    );
   });
 
   // Health check for live music service
   fastify.get('/health', async (request: FastifyRequest, reply: FastifyReply) => {
     const isHealthy = liveMusicManager !== null;
-
-    return reply.code(isHealthy ? 200 : 503).send({
-      success: isHealthy,
+    const data = {
       service: 'live-music-websocket',
       status: isHealthy ? 'healthy' : 'unavailable',
-      timestamp: Date.now(),
-    });
+    };
+
+    if (isHealthy) {
+      return sendSuccess(reply, data, 'Service is healthy', 'websocket');
+    }
+    return sendError(reply, 'Service is unavailable', data, 503);
   });
 
   // Get active jam sessions
   fastify.get('/jam-sessions', async (request: FastifyRequest, reply: FastifyReply) => {
     if (!liveMusicManager) {
-      return reply.code(503).send({
-        error: 'WebSocket server not initialized',
-        jamSessions: [],
-      });
+      return sendError(reply, 'WebSocket server not initialized', null, 503);
     }
 
     const jamSessions = liveMusicManager.getJamSessionsForAPI();
-    return {
-      success: true,
-      jamSessions,
-      count: jamSessions.length,
-      timestamp: Date.now(),
-    };
+    return sendSuccess(
+      reply,
+      {
+        jamSessions,
+        count: jamSessions.length,
+      },
+      'Active jam sessions fetched',
+      'websocket',
+    );
   });
 
   // Get specific jam session
@@ -102,25 +98,15 @@ export async function liveMusicRoutes(fastify: FastifyInstance) {
     '/jam-sessions/:id',
     async (request: FastifyRequest<{ Params: { id: string } }>, reply: FastifyReply) => {
       if (!liveMusicManager) {
-        return reply.code(503).send({
-          error: 'WebSocket server not initialized',
-          jamSession: null,
-        });
+        return sendError(reply, 'WebSocket server not initialized', null, 503);
       }
 
       const jamSession = liveMusicManager.getJamSessionByIdForAPI(request.params.id);
       if (!jamSession) {
-        return reply.code(404).send({
-          error: 'Jam session not found',
-          jamSession: null,
-        });
+        return sendError(reply, 'Jam session not found', null, 404);
       }
 
-      return {
-        success: true,
-        jamSession,
-        timestamp: Date.now(),
-      };
+      return sendSuccess(reply, jamSession, 'Jam session details fetched', 'websocket');
     },
   );
 }
