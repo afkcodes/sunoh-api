@@ -195,7 +195,7 @@ const albumController = async (req: SaavnRequest, res: FastifyReply) => {
     }
 
     const sanitizedData: any = albumDataMapper(data);
-    const promiseArr = (sanitizedData.modules || []).map((d: any) => {
+    const promiseArr = (sanitizedData.sections || []).map((d: any) => {
       return {
         title: d.heading,
         promise: saavnFetch<any>(url, {
@@ -225,7 +225,8 @@ const albumController = async (req: SaavnRequest, res: FastifyReply) => {
       )
       .filter((d: any) => d != null);
 
-    const finalData = { album: sanitizedData.album || sanitizedData, sections };
+    const { sections: _, ...albumData } = sanitizedData;
+    const finalData = { ...albumData, sections };
     const response = {
       status: 'success',
       message: message || 'Album details fetched successfully',
@@ -265,7 +266,7 @@ const playlistController = async (req: SaavnRequest, res: FastifyReply) => {
     }
 
     const sanitizedData: any = playlistDataMapper(data);
-    const promiseArr = (sanitizedData.modules || []).map((d: any) => {
+    const promiseArr = (sanitizedData.sections || []).map((d: any) => {
       return {
         title: d.heading,
         promise: saavnFetch<any>(url, {
@@ -294,7 +295,8 @@ const playlistController = async (req: SaavnRequest, res: FastifyReply) => {
       )
       .filter((d: any) => d != null);
 
-    const finalData = { playlist: sanitizedData.playlist, sections };
+    const { sections: _, ...playlistData } = sanitizedData;
+    const finalData = { ...playlistData, sections };
     return sendSuccess(res, finalData, message, 'saavn', code);
   } catch (error) {
     return sendError(res, 'Failed to fetch playlist', error);
@@ -520,7 +522,7 @@ const songController = async (req: SaavnRequest, res: FastifyReply) => {
     });
 
     const songData = songsDetailsMapper(data);
-    const promiseArr = (songData.modules || []).map((d: any) => {
+    const promiseArr = (songData.sections || []).map((d: any) => {
       return {
         title: d.heading,
         promise: saavnFetch<any>(url, {
@@ -558,7 +560,7 @@ const songController = async (req: SaavnRequest, res: FastifyReply) => {
       .filter((d: any) => d != null);
 
     const finalData = {
-      song: songData.song,
+      ...(songData.songs?.length === 1 ? songData.songs[0] : { songs: songData.songs }),
       sections: sections,
       lyrics: (lyricsData as any)?.lyrics || '',
     };
