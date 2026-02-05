@@ -147,7 +147,7 @@ export const mapGaanaPlaylist = (data: any): Playlist => {
     title: data.name || data.title,
     subtitle: data.language,
     type: 'playlist',
-    image: createGaanaImageLinks(data.atwj || data.artwork || data.atw),
+    image: createGaanaImageLinks(data.atw || data.atwj || data.artwork),
     songCount:
       extractGaanaEntityInfo(data.entity_info, 'track_ids')?.length?.toString() ||
       data.trackcount?.toString() ||
