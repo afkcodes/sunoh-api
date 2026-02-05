@@ -1,6 +1,6 @@
 import { FastifyReply, FastifyRequest } from 'fastify';
 import { cache } from '../app';
-import { capitalizeFirstLetter } from '../helpers/common';
+import { capitalizeFirstLetter, promiseAllLimit } from '../helpers/common';
 import { fetchGet, fetchPost } from '../helpers/http';
 import {
   mapGaanaAlbum,
@@ -32,7 +32,11 @@ const getGaanaHeaders = (languages?: string) => {
   return headers;
 };
 
-const gaanaFetch = async <T>(params: Record<string, any>, languages?: string) => {
+const gaanaFetch = async <T>(
+  params: Record<string, any>,
+  languages?: string,
+  options: any = {},
+) => {
   const headers = getGaanaHeaders(languages);
 
   const fetchOptions: any = {
@@ -41,6 +45,7 @@ const gaanaFetch = async <T>(params: Record<string, any>, languages?: string) =>
       ...headers,
       'Content-Length': '0',
     },
+    ...options,
   };
 
   return fetchPost<T>(GAANA_BASE_URL, fetchOptions);
@@ -56,27 +61,71 @@ const hydrateGaanaSections = async (sectionMetadata: any[], lang?: string) => {
     return section.url || section.seokey || (section.entities && section.entities.length > 0);
   });
 
-  const sectionPromises = relevantSections.map(async (section: any) => {
-    // If entities are already present, use them
-    if (section.entities && section.entities.length > 0) {
-      return {
-        heading: section.heading,
-        data: section.entities.map(mapGaanaEntity),
-        source: 'gaana',
-      };
-    }
+  const fetchOptions = { timeout: 5000, retries: 1 };
 
-    // Prioritize collectionsDetail if seokey is present
-    if (section.seokey) {
+  const populatedSections = (
+    await promiseAllLimit(relevantSections, 5, async (section: any) => {
+      // If entities are already present, use them
+      if (section.entities && section.entities.length > 0) {
+        return {
+          heading: section.heading,
+          data: section.entities.map(mapGaanaEntity),
+          source: 'gaana',
+        };
+      }
+
+      // Prioritize collectionsDetail if seokey is present
+      if (section.seokey) {
+        try {
+          const { data: sectionData } = await gaanaFetch<any>(
+            {
+              type: 'collectionsDetail',
+              seokey: section.seokey,
+              page: 0,
+            },
+            lang,
+            fetchOptions,
+          );
+
+          if (sectionData && sectionData.entities) {
+            return {
+              heading: section.heading,
+              data: sectionData.entities.map(mapGaanaEntity),
+              source: 'gaana',
+            };
+          }
+        } catch (e) {
+          console.error(`Failed to fetch collection detail for ${section.heading}:`, e);
+        }
+      }
+
+      if (!section.url) return null;
+
       try {
-        const { data: sectionData } = await gaanaFetch<any>(
-          {
-            type: 'collectionsDetail',
-            seokey: section.seokey,
-            page: 0,
-          },
-          lang,
-        );
+        let sectionData: any;
+
+        const isPublicGaanaUrl =
+          section.url.startsWith('https://apiv2.gaana.com') ||
+          section.url.startsWith('https://api.gaana.com');
+
+        if (section.url.startsWith('http') && isPublicGaanaUrl) {
+          // Direct fetch for discovery/occasion URLs to avoid proxy JSON errors
+          const { data } = await fetchGet<any>(section.url, {
+            headers: getGaanaHeaders(lang),
+            ...fetchOptions,
+          });
+          sectionData = data;
+        } else {
+          const { data } = await gaanaFetch<any>(
+            {
+              apiPath: section.url,
+              type: 'homeSec',
+            },
+            lang,
+            fetchOptions,
+          );
+          sectionData = data;
+        }
 
         if (sectionData && sectionData.entities) {
           return {
@@ -86,52 +135,11 @@ const hydrateGaanaSections = async (sectionMetadata: any[], lang?: string) => {
           };
         }
       } catch (e) {
-        console.error(`Failed to fetch collection detail for ${section.heading}:`, e);
+        console.error(`Failed to fetch section ${section.heading}:`, e);
       }
-    }
-
-    if (!section.url) return null;
-
-    try {
-      let sectionData: any;
-
-      const isPublicGaanaUrl =
-        section.url.startsWith('https://apiv2.gaana.com') ||
-        section.url.startsWith('https://api.gaana.com');
-
-      if (section.url.startsWith('http') && isPublicGaanaUrl) {
-        // Direct fetch for discovery/occasion URLs to avoid proxy JSON errors
-        const { data } = await fetchGet<any>(section.url, {
-          headers: getGaanaHeaders(lang),
-        });
-        sectionData = data;
-      } else {
-        const { data } = await gaanaFetch<any>(
-          {
-            apiPath: section.url,
-            type: 'homeSec',
-          },
-          lang,
-        );
-        sectionData = data;
-      }
-
-      if (sectionData && sectionData.entities) {
-        return {
-          heading: section.heading,
-          data: sectionData.entities.map(mapGaanaEntity),
-          source: 'gaana',
-        };
-      }
-    } catch (e) {
-      console.error(`Failed to fetch section ${section.heading}:`, e);
-    }
-    return null;
-  });
-
-  const populatedSections = (await Promise.all(sectionPromises)).filter(
-    (s) => s !== null && s.data.length > 0,
-  );
+      return null;
+    })
+  ).filter((s) => s !== null && s.data.length > 0);
 
   return populatedSections;
 };
