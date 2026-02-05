@@ -93,6 +93,30 @@ export const isValidObject = (obj: any): boolean =>
   obj !== null && typeof obj === 'object' && !Array.isArray(obj);
 
 export function capitalizeFirstLetter(str: string): string {
-  if (str.length === 0) return str;
   return str.charAt(0).toUpperCase() + str.slice(1);
 }
+
+export const promiseAllLimit = async <T, R>(
+  items: T[],
+  limit: number,
+  fn: (item: T) => Promise<R>,
+): Promise<R[]> => {
+  const results: Promise<R>[] = [];
+  const executing: Promise<void>[] = [];
+
+  for (const item of items) {
+    const p = fn(item);
+    results.push(p);
+
+    if (limit <= items.length) {
+      const e = p.then(() => {
+        executing.splice(executing.indexOf(e), 1);
+      });
+      executing.push(e);
+      if (executing.length >= limit) {
+        await Promise.race(executing);
+      }
+    }
+  }
+  return Promise.all(results);
+};
