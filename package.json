@@ -20,7 +20,11 @@
     "prepare": "husky",
     "start:vercel": "vercel dev",
     "deploy:dev": "vercel deploy",
-    "deploy:prod": "vercel deploy --prod"
+    "deploy:prod": "vercel deploy --prod",
+    "docker:up": "docker-compose up -d",
+    "docker:down": "docker-compose down",
+    "docker:build": "docker-compose build",
+    "docker:logs": "docker-compose logs -f"
   },
   "dependencies": {
     "@fastify/cors": "^11.2.0",
