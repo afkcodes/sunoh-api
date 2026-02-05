@@ -70,7 +70,7 @@ export const gaanaSectionMapper = (sections: any[]): any[] => {
     source: 'gaana',
     url: section.url,
     seokey: section.seokey_url,
-    entities: section.entities,
+    entities: section.entities || section.content?.entities,
   }));
 };
 
