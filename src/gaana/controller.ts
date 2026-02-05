@@ -95,7 +95,11 @@ const hydrateGaanaSections = async (sectionMetadata: any[], lang?: string) => {
     try {
       let sectionData: any;
 
-      if (section.url.startsWith('http')) {
+      const isPublicGaanaUrl =
+        section.url.startsWith('https://apiv2.gaana.com') ||
+        section.url.startsWith('https://api.gaana.com');
+
+      if (section.url.startsWith('http') && isPublicGaanaUrl) {
         // Direct fetch for discovery/occasion URLs to avoid proxy JSON errors
         const { data } = await fetchGet<any>(section.url, {
           headers: getGaanaHeaders(lang),
