@@ -5,6 +5,9 @@ import {
   artistController as gaanaArtistController,
   collectionController as gaanaCollectionController,
   homeController as gaanaHomeController,
+  occasionController as gaanaOccasionController,
+  occasionDetailController as gaanaOccasionDetailController,
+  occasionItemsController as gaanaOccasionItemsController,
   playlistController as gaanaPlaylistController,
   radioDetailController as gaanaRadioDetailController,
   searchController as gaanaSearchController,
@@ -101,6 +104,29 @@ export const musicRoutes = async (fastify: FastifyInstance) => {
     reply
       .status(400)
       .send({ error: 'Album lists are only supported for Gaana provider currently' });
+  });
+
+  // Occasions (Gaana specific)
+  fastify.get('/occasions', (req, reply) => {
+    const { provider } = req.query as any;
+    if (provider === 'gaana') return gaanaOccasionController(req as any, reply);
+    reply.status(400).send({ error: 'Occasions are only supported for Gaana provider currently' });
+  });
+
+  fastify.get('/occasions/:slug', (req, reply) => {
+    const { provider } = req.query as any;
+    if (provider === 'gaana') return gaanaOccasionDetailController(req as any, reply);
+    reply
+      .status(400)
+      .send({ error: 'Occasion details are only supported for Gaana provider currently' });
+  });
+
+  fastify.get('/occasions/:id/items', (req, reply) => {
+    const { provider } = req.query as any;
+    if (provider === 'gaana') return gaanaOccasionItemsController(req as any, reply);
+    reply
+      .status(400)
+      .send({ error: 'Occasion items are only supported for Gaana provider currently' });
   });
 
   // Artist

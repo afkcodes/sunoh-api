@@ -1,5 +1,5 @@
-import { decryptGaanaUrl } from '../gaana/helper';
-import { Album, Artist, Channel, Images, Playlist, Song } from '../types';
+import { decryptGaanaUrl } from '../gaana/crypto';
+import { Album, Artist, Channel, Images, Occasion, Playlist, Song } from '../types';
 
 /**
  * Extracts a value from Gaana's entity_info array.
@@ -188,6 +188,17 @@ export const mapGaanaRadio = (data: any): Channel => {
   };
 };
 
+export const mapGaanaOccasion = (data: any): Occasion => {
+  return {
+    id: data.seokey || data.entity_id,
+    title: data.name,
+    type: 'occasion',
+    image: createGaanaImageLinks(data.atw || data.atwj || data.artwork),
+    source: 'gaana',
+    url: data.seokey,
+  };
+};
+
 export const mapGaanaSearchAlbum = (data: any): Album => {
   const artists = (data.artist || data.primaryartist || []).map((artist: any) => ({
     id: artist.seokey || artist.artist_id,
@@ -239,6 +250,9 @@ export const mapGaanaEntity = (data: any): any => {
     case 'RL':
     case 'RADIO':
       return mapGaanaRadio(data);
+    case 'OC':
+    case 'OCCASION':
+      return mapGaanaOccasion(data);
     default:
       return data;
   }

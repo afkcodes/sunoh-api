@@ -1,7 +1,7 @@
 import { FastifyReply, FastifyRequest } from 'fastify';
 import { cache } from '../app';
 import { capitalizeFirstLetter } from '../helpers/common';
-import { fetchPost } from '../helpers/http';
+import { fetchGet, fetchPost } from '../helpers/http';
 import {
   mapGaanaAlbum,
   mapGaanaArtist,
@@ -10,29 +10,30 @@ import {
   mapGaanaTrack,
 } from '../mappers/gaana.mapper';
 import { sendError, sendSuccess } from '../utils/response';
-import { gaanaHomeMapper, gaanaSearchMapper } from './helper';
+import { gaanaHomeMapper, gaanaSearchMapper, gaanaSectionMapper } from './helper';
 
 const GAANA_BASE_URL = 'https://gaana.com/apiv2';
 const USER_AGENT =
   'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36';
 
-const gaanaFetch = async <T>(params: Record<string, any>, languages?: string) => {
+const getGaanaHeaders = (languages?: string) => {
   const headers: Record<string, string> = {
     'User-Agent': USER_AGENT,
     Accept: 'application/json',
   };
 
   if (languages) {
-    // Languages come as comma separated values like "hindi,english"
-    // We need to capitalize them for Gaana's __ul cookie: "Hindi%2CEnglish"
     const formattedLangs = languages
       .split(',')
       .map((l) => capitalizeFirstLetter(l.trim()))
       .join(',');
-
-    // Using encodeURIComponent to handle %2C for commas
     headers['Cookie'] = `__ul=${encodeURIComponent(formattedLangs)}`;
   }
+  return headers;
+};
+
+const gaanaFetch = async <T>(params: Record<string, any>, languages?: string) => {
+  const headers = getGaanaHeaders(languages);
 
   const fetchOptions: any = {
     params,
@@ -45,16 +46,7 @@ const gaanaFetch = async <T>(params: Record<string, any>, languages?: string) =>
   return fetchPost<T>(GAANA_BASE_URL, fetchOptions);
 };
 
-export const getGaanaHomeData = async (lang?: string) => {
-  const key = `gaana_home_${lang || 'default'}`;
-  const cached = await cache.get(key);
-  if (cached) return cached;
-
-  const { data, error, message } = await gaanaFetch<any>({ type: 'home' }, lang);
-  if (error) throw new Error(message || 'Failed to fetch Gaana home');
-
-  const sectionMetadata = gaanaHomeMapper(data);
-
+const hydrateGaanaSections = async (sectionMetadata: any[], lang?: string) => {
   // Fetch all relevant sections in parallel
   const relevantSections = sectionMetadata.filter((section: any) => {
     if (!section.heading) return false;
@@ -101,13 +93,24 @@ export const getGaanaHomeData = async (lang?: string) => {
     if (!section.url) return null;
 
     try {
-      const { data: sectionData } = await gaanaFetch<any>(
-        {
-          apiPath: section.url,
-          type: 'homeSec',
-        },
-        lang,
-      );
+      let sectionData: any;
+
+      if (section.url.startsWith('http')) {
+        // Direct fetch for discovery/occasion URLs to avoid proxy JSON errors
+        const { data } = await fetchGet<any>(section.url, {
+          headers: getGaanaHeaders(lang),
+        });
+        sectionData = data;
+      } else {
+        const { data } = await gaanaFetch<any>(
+          {
+            apiPath: section.url,
+            type: 'homeSec',
+          },
+          lang,
+        );
+        sectionData = data;
+      }
 
       if (sectionData && sectionData.entities) {
         return {
@@ -125,6 +128,20 @@ export const getGaanaHomeData = async (lang?: string) => {
   const populatedSections = (await Promise.all(sectionPromises)).filter(
     (s) => s !== null && s.data.length > 0,
   );
+
+  return populatedSections;
+};
+
+export const getGaanaHomeData = async (lang?: string) => {
+  const key = `gaana_home_${lang || 'default'}`;
+  const cached = await cache.get(key);
+  if (cached) return cached;
+
+  const { data, error, message } = await gaanaFetch<any>({ type: 'home' }, lang);
+  if (error) throw new Error(message || 'Failed to fetch Gaana home');
+
+  const sectionMetadata = gaanaHomeMapper(data);
+  const populatedSections = await hydrateGaanaSections(sectionMetadata, lang);
 
   await cache.set(key, populatedSections, 3600);
   return populatedSections;
@@ -450,6 +467,61 @@ export const radioDetailController = async (req: FastifyRequest, res: FastifyRep
 
     const songs = (data.tracks || []).map((t: any) => mapGaanaTrack(t));
     return sendSuccess(res, songs, 'OK', 'gaana');
+  } catch (error) {
+    return sendError(res, 'Internal server error', error);
+  }
+};
+export const occasionController = async (req: FastifyRequest, res: FastifyReply) => {
+  const { lang } = req.query as any;
+  try {
+    const url = 'https://apiv2.gaana.com/home/discover/category-listing/178?new_artwork=1&v=1';
+    const { data, error, message } = await fetchGet<any>(url, {
+      headers: getGaanaHeaders(lang),
+    });
+
+    if (error) return sendError(res, message || 'Failed to fetch occasions', error);
+
+    const occasions = (data.entities || []).map(mapGaanaEntity);
+    return sendSuccess(res, occasions, 'OK', 'gaana');
+  } catch (error) {
+    return sendError(res, 'Internal server error', error);
+  }
+};
+
+export const occasionDetailController = async (req: FastifyRequest, res: FastifyReply) => {
+  const { slug } = req.params as any;
+  const { lang } = req.query as any;
+
+  try {
+    const url = `https://apiv2.gaana.com/home/occasion/metadata/${slug}`;
+    const { data, error, message } = await fetchGet<any>(url, {
+      headers: getGaanaHeaders(lang),
+    });
+
+    if (error) return sendError(res, message || 'Failed to fetch occasion detail', error);
+
+    const sectionMetadata = gaanaSectionMapper(data.occasion);
+    const sections = await hydrateGaanaSections(sectionMetadata, lang);
+    return sendSuccess(res, sections, 'OK', 'gaana');
+  } catch (error) {
+    return sendError(res, 'Internal server error', error);
+  }
+};
+
+export const occasionItemsController = async (req: FastifyRequest, res: FastifyReply) => {
+  const { id } = req.params as any;
+  const { lang, limit = '0,20' } = req.query as any;
+
+  try {
+    const url = `https://apiv2.gaana.com/home/discover/category/${id}?limit=${limit}`;
+    const { data, error, message } = await fetchGet<any>(url, {
+      headers: getGaanaHeaders(lang),
+    });
+
+    if (error) return sendError(res, message || 'Failed to fetch occasion items', error);
+
+    const mappedData = (data.entities || []).map(mapGaanaEntity);
+    return sendSuccess(res, mappedData, 'OK', 'gaana');
   } catch (error) {
     return sendError(res, 'Internal server error', error);
   }

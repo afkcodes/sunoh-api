@@ -87,9 +87,19 @@ export interface Channel {
   url?: string;
 }
 
+export interface Occasion {
+  id: string;
+  title: string;
+  subtitle?: string;
+  type: 'occasion';
+  image: Images;
+  source: string;
+  url?: string;
+}
+
 export interface HomeSection {
   heading: string;
-  data: (Song | Album | Playlist | Artist | Channel)[];
+  data: (Song | Album | Playlist | Artist | Channel | Occasion)[];
   source: string;
 }
 
