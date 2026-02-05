@@ -7,19 +7,7 @@ import { saavnRoutes } from './saavn/route';
 import { spotifyRoutes } from './spotify/route';
 import { liveMusicRoutes } from './websocket/routes';
 
-export const cache = {
-  set: async (key: string, value: any, ttl?: number) => {},
-  get: async <T = any>(key: string): Promise<T | null> => null,
-  delete: async (key: string) => 0,
-  deleteMany: async (keys: string[]) => 0,
-  deleteAll: async () => 0,
-  exists: async (key: string) => false,
-  ttl: async (key: string) => -1,
-  setMany: async (entries: Record<string, any>, ttl?: number) => {},
-  getMany: async <T = any>(keys: string[]): Promise<(T | null)[]> => keys.map(() => null),
-  increment: async (key: string, increment: number = 1) => 0,
-  getClient: () => null,
-};
+export { cache } from './redis';
 
 const entry = (fastify: FastifyInstance, _opts: FastifyServerOptions, done: () => void) => {
   fastify.get('/', async () => ({

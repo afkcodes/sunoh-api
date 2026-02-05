@@ -29,8 +29,8 @@ app.register(entry, {
 // };
 
 // Run the server!
-const port = 3600;
-app.listen({ port }).then(() => {
+const port = Number(process.env.PORT) || 3600;
+app.listen({ port, host: '0.0.0.0' }).then(() => {
   console.log(`Server Started at http://localhost:${port}`);
 
   // Initialize WebSocket server after HTTP server is running
