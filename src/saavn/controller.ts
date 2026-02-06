@@ -65,7 +65,7 @@ const saavnFetch = async <T>(url: string, options: any = {}) => {
 
 export const getSaavnHomeData = async (languages?: string) => {
   const url = `${config.saavn.baseUrl}?__call=${config.saavn.endpoint.modules.home}`;
-  const key = `home_${languages}`;
+  const key = `saavn_home_v2_${languages || 'default'}`;
 
   const cacheData = await cache.get<ApiResponse<any>>(key);
   if (cacheData) {

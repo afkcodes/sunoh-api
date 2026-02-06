@@ -48,19 +48,21 @@ export const unifiedHomeController = async (req: FastifyRequest, res: FastifyRep
 
     // Process Saavn
     saavnData.forEach((section) => {
+      if (!section || !Array.isArray(section.data)) return;
+
       const cat = getCategory(section.heading);
       if (cat) {
         if (!mergedCategories.has(cat)) {
           mergedCategories.set(cat, { heading: cat, data: [], source: 'unified' });
         }
-        const filteredData = section.data.filter((item: any) =>
-          isValidTitle(item.title || item.name),
+        const filteredData = section.data.filter(
+          (item: any) => item && isValidTitle(item.title || item.name),
         );
         mergedCategories.get(cat).data.push(...filteredData);
       } else {
         const filteredSection = {
           ...section,
-          data: section.data.filter((item: any) => isValidTitle(item.title || item.name)),
+          data: section.data.filter((item: any) => item && isValidTitle(item.title || item.name)),
         };
         if (filteredSection.data.length > 0) {
           otherSections.push(filteredSection);
@@ -70,12 +72,17 @@ export const unifiedHomeController = async (req: FastifyRequest, res: FastifyRep
 
     // Process Gaana
     gaanaData.forEach((section) => {
+      if (!section || !Array.isArray(section.data)) return;
+
       const cat = getCategory(section.heading);
       if (cat) {
+        if (!mergedCategories.has(cat)) {
+          mergedCategories.set(cat, { heading: cat, data: [], source: 'unified' });
+        }
         const existingData = mergedCategories.get(cat).data;
         const newData = [];
-        const filteredGaana = section.data.filter((item: any) =>
-          isValidTitle(item.title || item.name),
+        const filteredGaana = section.data.filter(
+          (item: any) => item && isValidTitle(item.title || item.name),
         );
         const maxLen = Math.max(existingData.length, filteredGaana.length);
         for (let i = 0; i < maxLen; i++) {
@@ -86,7 +93,7 @@ export const unifiedHomeController = async (req: FastifyRequest, res: FastifyRep
       } else {
         const filteredSection = {
           ...section,
-          data: section.data.filter((item: any) => isValidTitle(item.title || item.name)),
+          data: section.data.filter((item: any) => item && isValidTitle(item.title || item.name)),
         };
         if (filteredSection.data.length > 0) {
           otherSections.push(filteredSection);
@@ -173,8 +180,10 @@ export const unifiedSearchController = async (req: FastifyRequest, res: FastifyR
 
     // Helper to deduplicate by id and normalized title
     const dedupe = (items: any[]) => {
+      if (!Array.isArray(items)) return [];
       const seen = new Set();
       return items.filter((item) => {
+        if (!item) return false;
         const title = (item.title || item.name || '').toLowerCase().trim();
         const id = item.id;
         const key = `${id}_${title}`;
@@ -191,15 +200,15 @@ export const unifiedSearchController = async (req: FastifyRequest, res: FastifyR
 
       if (playlistSection) {
         gaanaResults.forEach((gSec: any) => {
-          if (['Playlists', 'Mix'].includes(gSec.heading)) {
+          if (gSec && ['Playlists', 'Mix'].includes(gSec.heading)) {
             playlistSection.data.push(...dedupe(gSec.data));
           }
         });
         playlistSection.data = dedupe(playlistSection.data);
         playlistSection.source = 'unified';
       } else {
-        const gaanaPlaylists = gaanaResults.find((gSec: any) =>
-          ['Playlists', 'Mix'].includes(gSec.heading),
+        const gaanaPlaylists = gaanaResults.find(
+          (gSec: any) => gSec && ['Playlists', 'Mix'].includes(gSec.heading),
         );
         if (gaanaPlaylists) {
           saavnResults.push({ ...gaanaPlaylists, data: dedupe(gaanaPlaylists.data) });
@@ -208,12 +217,28 @@ export const unifiedSearchController = async (req: FastifyRequest, res: FastifyR
     } else if (type === 'playlists' && (saavnResults as any).list) {
       const playlistList = dedupe((saavnResults as any).list);
       gaanaResults.forEach((gSec: any) => {
-        if (['Playlists', 'Mix'].includes(gSec.heading)) {
+        if (gSec && ['Playlists', 'Mix'].includes(gSec.heading)) {
           playlistList.push(...dedupe(gSec.data));
         }
       });
       (saavnResults as any).list = dedupe(playlistList);
       (saavnResults as any).source = 'unified';
+    } else if ((saavnResults as any).list) {
+      // Dedupe and filter for object-style results (songs, albums, etc.)
+      (saavnResults as any).list = dedupe((saavnResults as any).list);
+
+      // Try to merge matching Gaana categories if they exist
+      const matchingGaana = gaanaResults.find(
+        (gSec: any) =>
+          gSec &&
+          gSec.heading &&
+          gSec.heading.toLowerCase().includes(type.toString().toLowerCase()),
+      );
+      if (matchingGaana) {
+        const combined = [...(saavnResults as any).list, ...dedupe(matchingGaana.data)];
+        (saavnResults as any).list = dedupe(combined);
+        (saavnResults as any).source = 'unified';
+      }
     } else if (Array.isArray(saavnResults)) {
       saavnResults = saavnResults.map((s: any) => ({ ...s, data: dedupe(s.data) }));
     }
