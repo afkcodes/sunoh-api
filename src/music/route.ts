@@ -24,7 +24,7 @@ import {
   songController as saavnSongController,
 } from '../saavn/controller';
 import { playlistController as spotifyPlaylistController } from '../spotify/controller';
-import { unifiedHomeController } from './controller';
+import { unifiedHomeController, unifiedSearchController } from './controller';
 import { getLanguages } from './languages';
 
 export const musicRoutes = async (fastify: FastifyInstance) => {
@@ -40,7 +40,8 @@ export const musicRoutes = async (fastify: FastifyInstance) => {
   fastify.get('/search', (req, reply) => {
     const { provider } = req.query as any;
     if (provider === 'gaana') return gaanaSearchController(req as any, reply);
-    return saavnSearchController(req as any, reply);
+    if (provider === 'saavn') return saavnSearchController(req as any, reply);
+    return unifiedSearchController(req as any, reply);
   });
 
   // Album

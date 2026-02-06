@@ -16,7 +16,7 @@ const GAANA_BASE_URL = 'https://gaana.com/apiv2';
 const USER_AGENT =
   'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36';
 
-const getGaanaHeaders = (languages?: string) => {
+export const getGaanaHeaders = (languages?: string) => {
   const headers: Record<string, string> = {
     'User-Agent': USER_AGENT,
     Accept: 'application/json',
@@ -601,4 +601,49 @@ export const occasionItemsController = async (req: FastifyRequest, res: FastifyR
   } catch (error) {
     return sendError(res, 'Internal server error', error);
   }
+};
+export const getGaanaSearchData = async (q: string, lang?: string) => {
+  const url = `https://gsearch.gaana.com/vichitih/go/v2`;
+  const formattedLangs = lang
+    ? lang
+        .split(',')
+        .map((l) => capitalizeFirstLetter(l.trim()))
+        .join(',')
+    : 'Hindi,English';
+
+  const params = {
+    geoLocation: 'IN',
+    query: q,
+    content_filter: '2',
+    include: 'allItems',
+    isRegSrch: '0',
+    webVersion: 'mix',
+    rType: 'web',
+    usrLang: formattedLangs,
+    isChrome: '1',
+  };
+
+  // User says POST, browser subagent says GET. I'll use GET as it worked for the browser.
+  const { data, error, message } = await fetchGet<any>(url, {
+    params,
+    headers: {
+      ...getGaanaHeaders(lang),
+      deviceId: 'website',
+      deviceType: 'GaanaWapApp',
+      gaanaAppVersion: 'gaanaAndroid-8.48.2',
+    },
+  });
+
+  if (error) throw new Error(message || 'Gaana search failed');
+
+  return gaanaSearchMapper(data);
+};
+
+export const getGaanaTrendingSearchData = async (lang?: string) => {
+  const { data, error, message } = await gaanaFetch<any>({ type: 'searchTrending' }, lang);
+
+  if (error) throw new Error(message || 'Gaana trending search failed');
+
+  // Trending returns { entities: [...] }
+  return (data.entities || []).map(mapGaanaEntity);
 };

@@ -656,3 +656,74 @@ export {
   topAlbumsOfYearController,
   topSearchController,
 };
+export const getSaavnSearchData = async (
+  q: string,
+  type: string = 'all',
+  page: number = 1,
+  count: number = 20,
+  languages?: string,
+) => {
+  const url = `${config.saavn.baseUrl}`;
+  const { data, error, message } = await saavnFetch<any>(url, {
+    params: {
+      __call: config.saavn.endpoint.search[type] || config.saavn.endpoint.search.all,
+      q,
+      query: q,
+      p: page,
+      n: count,
+      ...params,
+      api_version: ['artist', 'all'].includes(type) ? 3 : 4,
+    },
+    lang: languages,
+  });
+
+  if (error) throw new Error(message || 'Saavn search failed');
+
+  switch (type) {
+    case 'albums':
+      return {
+        heading: 'Albums',
+        list: (data as any).results.map((d: any) => albumDataMapper(d)),
+        source: 'saavn',
+        count: (data as any).total,
+      };
+    case 'songs':
+      return {
+        heading: 'Songs',
+        list: songDataSanitizer((data as any).results),
+        source: 'saavn',
+        count: (data as any).total,
+      };
+    case 'artists':
+      return {
+        heading: 'Artists',
+        list: (data as any).results.map((d: any) => artistDataMapper(d)),
+        source: 'saavn',
+        count: (data as any).total,
+      };
+    case 'playlists':
+      return {
+        heading: 'Playlists',
+        list: (data as any).results.map((d: any) => playlistDataMapper(d)),
+        source: 'saavn',
+        count: (data as any).total,
+      };
+    default:
+      return autoCompleteDataMapper(data);
+  }
+};
+
+export const getSaavnTopSearchData = async (languages?: string) => {
+  const url = `${config.saavn.baseUrl}`;
+  const { data, error, message } = await saavnFetch<any>(url, {
+    params: {
+      __call: config.saavn.endpoint.search.top_search,
+      ...params,
+    },
+    lang: languages,
+  });
+
+  if (error) throw new Error(message || 'Saavn top search failed');
+
+  return topSearchMapper(data);
+};

@@ -22,7 +22,7 @@ export const gaanaSearchMapper = (data: any) => {
   const sanitizedData = [];
 
   gr.forEach((group: any) => {
-    const heading = group.stxt;
+    const heading = group.stxt || group.ty;
     const items = (group.gd || []).map((item: any) => {
       // Normalizing search item to match our internal structure
       const normalizedItem = {
