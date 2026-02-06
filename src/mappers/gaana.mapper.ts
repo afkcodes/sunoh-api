@@ -61,7 +61,10 @@ export const createGaanaImageLinks = (link: string): Images => {
       newLink = link.replace(/crop_\d+x\d+/, t.crop);
     }
 
-    if (newLink.includes('size_xl')) newLink = newLink.replace('size_xl', 'size_l');
+    // Force size_l if size_xl is detected to avoid redirect loops
+    if (newLink.includes('size_xl')) {
+      newLink = newLink.replace('size_xl', 'size_l');
+    }
 
     return {
       quality: t.name,
@@ -72,74 +75,31 @@ export const createGaanaImageLinks = (link: string): Images => {
 
 /**
  * Modern imagery harvester for Gaana.
- * Respects the API's specialized fields (artwork_medium, artwork_large) to pick the best
- * native asset for each quality bucket, preventing broken transformations.
+ * Picks the best available field (prioritizing stable legacy fields) and generates
+ * a consistent set of links. This prevents family-mixing which can break some images.
  */
 export const getGaanaImagery = (data: any): Images => {
   if (!data) return [];
   if (typeof data === 'string') return createGaanaImageLinks(data);
 
-  // Field priority map for each bucket to "Respect the API"
-  const buckets = [
-    {
-      name: '50x50',
-      fields: ['artwork_small', 'atwj', 'atw', 'artwork'],
-      matches: ['size_s', 'crop_80x80'],
-      suffix: 'size_s',
-      crop: 'crop_80x80',
-    },
-    {
-      name: '150x150',
-      fields: ['artwork', 'atwj', 'atw'],
-      matches: ['size_m', 'crop_175x175'],
-      suffix: 'size_m',
-      crop: 'crop_175x175',
-    },
-    {
-      name: '500x500',
-      fields: ['artwork_large', 'artwork_medium', 'artwork_web', 'atwj', 'atw'],
-      matches: ['size_l', 'size_xl', 'crop_480x480'],
-      suffix: 'size_l',
-      crop: 'crop_480x480',
-    },
+  // Preference: Legcay Size-based fields (atwj, atw) are more stable.
+  // Modern Crop-based fields are used only if the legacy ones are missing.
+  const fields = [
+    'atwj',
+    'atw',
+    'artwork_large',
+    'artwork_medium',
+    'artwork_web',
+    'artwork_bio',
+    'artwork',
   ];
 
-  return buckets.map((b) => {
-    let final = '';
+  for (const f of fields) {
+    const url = getGaanaImageUrl(data[f]);
+    if (url) return createGaanaImageLinks(url);
+  }
 
-    // 1. Try designated fields first (Detect Native Match)
-    for (const f of b.fields) {
-      const url = getGaanaImageUrl(data[f]);
-      if (url && b.matches.some((m) => url.includes(m))) {
-        final = url;
-        break;
-      }
-    }
-
-    // 2. Fallback: Transform the most reliable available key, STAYING in family
-    if (!final) {
-      const fallbacks = ['atwj', 'atw', 'artwork_medium', 'artwork', 'artwork_large'];
-      for (const f of fallbacks) {
-        const url = getGaanaImageUrl(data[f]);
-        if (url) {
-          if (url.includes('size_')) {
-            final = url.replace(/size_[a-z]+/, b.suffix);
-            break;
-          } else if (url.includes('crop_')) {
-            final = url.replace(/crop_\d+x\d+/, b.crop);
-            break;
-          }
-        }
-      }
-    }
-
-    // Safeguard: Force size_l if size_xl is detected to avoid redirect loops
-    if (final && final.includes('size_xl')) {
-      final = final.replace('size_xl', 'size_l');
-    }
-
-    return { quality: b.name, link: final || '' };
-  });
+  return [];
 };
 
 const extractMediaUrls = (data: any) => {
