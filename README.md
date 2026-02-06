@@ -1,177 +1,132 @@
 # Sunoh API 🎵
 
-## About
+[![Version](https://img.shields.io/badge/version-1.0.3-blue.svg)](api-endpoints.json)
+[![Tech Stack](https://img.shields.io/badge/tech-Fastify%20%7C%20TypeScript%20%7C%20Redis-007acc.svg)](package.json)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-This backend API is specifically built for **Sunoh Music App**, available at [www.sunoh.online](https://www.sunoh.online).
-
-Sunoh is a music streaming platform that provides access to songs from multiple music sources with comprehensive search and streaming capabilities.
-
-> **Note**: This repository is tailored for Sunoh's specific requirements. While the code is open source, major modifications or feature requests will only be considered if they align with Sunoh Music's roadmap and needs.
-
-## Features
-
-- 🎼 **Multi-source Music API**: Integration with various music streaming services
-- 🎤 **Lyrics Support**: Comprehensive lyrics search and fetch capabilities
-- 🔴 **Live Music**: WebSocket support for real-time music streaming
-- 🖼️ **Image Proxy**: Optimized image serving
-- ⚡ **Fast Performance**: Built with Fastify for high performance
-- 🚀 **Serverless Ready**: Optimized for Vercel deployment
-
-## API Endpoints
-
-### Music Services
-
-- `/music/*` - Music streaming API endpoints
-- `/lyrics/*` - Lyrics search and retrieval
-
-### Core Features
-
-- `/play` - Music playback endpoints
-- `/proxy` - Image proxy service
-- `/live/*` - WebSocket live music features
-
-## Installation & Setup
-
-### Prerequisites
-
-- Node.js >= 18.12
-- npm or yarn package manager
-
-### Environment Setup
-
-1. **Clone the repository**
-
-   ```bash
-   git clone https://github.com/afkcodes/sunoh-api.git
-   cd sunoh-api
-   ```
-
-2. **Install dependencies**
-
-   ```bash
-   npm install
-   ```
-
-3. **Environment Configuration**
-
-   Create environment files for different stages:
-
-   ```bash
-   # Development environment
-   cp .env.development.example .env.development
-
-   # Production environment
-   cp .env.production.example .env.production
-   ```
-
-   Configure the following environment variables:
-
-   ```env
-   # Music Service Integration
-   LYRICS_TOKEN=your_music_service_bearer_token
-   MEDIA_USER_TOKEN=your_music_service_media_user_token
-
-   # Optional: Redis/Valkey for caching
-   VALKEY_URL=redis://localhost:6379
-   ```
-
-### Development
-
-```bash
-# Run development server with auto-reload
-npm run dev
-
-# Run with Vercel CLI for serverless testing
-npm run start:vercel
-```
-
-The API will be available at `http://localhost:3000`
-
-### Production Build
-
-```bash
-# Build for production
-npm run build:release
-
-# Start production server
-npm start
-```
-
-### Deployment
-
-#### Vercel (Recommended)
-
-```bash
-# Deploy to development/staging
-npm run deploy:dev
-
-# Deploy to production
-npm run deploy:prod
-```
-
-## Code Quality
-
-```bash
-# Lint code
-npm run lint
-
-# Format code
-npm run format
-
-# Clean build artifacts
-npm run clean
-```
-
-## API Usage Examples
-
-### Search and Get Lyrics
-
-```bash
-# Search for a song and get lyrics
-GET /lyrics/Shape%20of%20You
-
-# With optional parameters
-GET /lyrics/Despacito?storefront=us&format=lrc&language=en-IN
-```
-
-### Music Search
-
-```bash
-GET /music/search?query=Popular%20hits
-```
-
-### Get Song Details
-
-```bash
-GET /music/song/songId
-```
-
-## Tech Stack
-
-- **Framework**: Fastify
-- **Language**: TypeScript
-- **Deployment**: Vercel Serverless
-- **Code Quality**: Biome (linting & formatting)
-- **Process Management**: Nodemon (development)
-
-## Contributing
-
-This project is primarily maintained for Sunoh Music App. If you have suggestions or improvements that would benefit Sunoh Music specifically, please:
-
-1. Open an issue describing the enhancement
-2. Ensure it aligns with Sunoh's music goals
-3. Submit a pull request with clear documentation
-
-## License
-
-MIT License - See [LICENSE](LICENSE) file for details.
-
-## Support
-
-For Sunoh Music App related queries, visit [www.sunoh.online](https://www.sunoh.online)
-
-For technical issues with this API, please open a GitHub issue.
+The high-performance core for the [Sunoh Music App](https://www.sunoh.online), delivering a unified music discovery experience by orchestrating data from multiple industry-leading providers.
 
 ---
 
-**Built with ❤️ for Sunoh Music** 🎵
+## 🚀 Overview
+
+Sunoh API is a modern, TypeScript-based middleware designed to bridge the gap between various music sources. It provides a homogeneous data structure, allowing client applications to interact with many providers through a single, consistent interface.
+
+### **Key Features**
+- 🌪️ **Unified Search & Home**: Intelligent result merging and interleaving from Saavn and Gaana.
+- ⚡ **Multi-Tier Caching**: Robust Redis-backed caching system with granular TTL policies.
+- 🎼 **Provider-Agnostic Interface**: One API for Songs, Albums, Playlists, and Artists regardless of the source.
+- 🎤 **LRC/Synced Lyrics**: High-quality sync lyrics integration via specialized providers.
+- 🟢 **Gaana Integration Plus**: Native support for stream decryption, curated occasions, and radio stations.
+- 🐋 **Docker Ready**: Fully containerized environment for seamless deployment and development.
+
+---
+
+## 🛠️ Technology Stack
+
+- **Runtime**: Node.js (v20+)
+- **Framework**: [Fastify](https://www.fastify.io/) (High performance, low overhead)
+- **Language**: TypeScript (Type-safe codebase)
+- **Database/Cache**: Redis (High-speed data persistence)
+- **Containerization**: Docker & Docker Compose
+- **Deployment**: Optimized for Vercel Serverless and Standalone Docker.
+
+---
+
+## 🏛️ Architecture
+
+### **Unified Search Engine**
+The API implements a sophisticated merging algorithm that prioritizes data quality and relevancy. When a search is performed:
+1. It queries multiple providers (Saavn, Gaana) in parallel using `Promise.allSettled`.
+2. It deduplicates results based on internal IDs and normalized titles.
+3. It cleans "dirty" metadata (e.g., placeholder titles like "Untitled" or "None").
+4. It prioritizes the highest resolution imagery available (`atw` format).
+
+### **Data Homogenization**
+All source data is mapped to a strictly typed internal schema before returning. This means your frontend doesn't need to know if a song came from Saavn or Gaana; it always receives the exact same JSON structure.
+
+---
+
+## 🚦 Getting Started
+
+### **Environment Setup**
+Create a `.env` file in the root directory:
+```env
+PORT=3600
+REDIS_HOST=redis
+REDIS_PORT=6379
+# PROVIDER TOKENS
+LYRICS_TOKEN=your_token
+MEDIA_USER_TOKEN=your_token
+```
+
+### **1. Using Docker (Recommended)**
+The fastest way to get up and running:
+```bash
+# Start API and Redis containers
+npm run docker:up -- --build
+```
+The API will be available at `http://localhost:3600`.
+
+### **2. Local Development**
+```bash
+# Install dependencies
+npm install
+
+# Start development server with auto-reload
+npm run dev
+```
+
+---
+
+## 📖 API Documentation
+
+Detailed endpoint specifications can be found in [api-endpoints.json](api-endpoints.json).
+
+### **Core Endpoints**
+| Path | Method | Description |
+| :--- | :--- | :--- |
+| `/music/home` | `GET` | Unified home screen with interleaved charts and releases. |
+| `/music/search` | `GET` | Merged search results for songs, albums, and playlists. |
+| `/music/song/:id` | `GET` | Full song metadata and streaming URLs. |
+| `/music/occasions`| `GET` | Browse curated moods and genres (Gaana focused). |
+| `/lyrics/:name` | `GET` | Get LRC/Synced lyrics for a specific track. |
+
+---
+
+## 💾 Caching Policy
+
+We employ a tiered caching strategy to ensure minimal latency:
+- **Playlists & Albums**: 2 Hours (Tailored for discoverability).
+- **Home & Occasions**: 3 Hours (Optimized for performance).
+- **Fast-Changing Data**: No cache (e.g., real-time streams).
+
+---
+
+## 🚢 Deployment
+
+### **Docker Deployment**
+```bash
+# Production build and run
+docker compose up -d --build
+```
+
+### **Vercel Serverless**
+The API is pre-configured for Vercel. 
+```bash
+npm run deploy:prod
+```
+
+---
+
+## 🤝 Contributing & Support
+
+This project is the backbone of the Sunoh ecosystem. While we welcome community contributions, our priority is maintaining stability for the Sunoh Music App.
+
+- **Found a bug?** Open a GitHub issue.
+- **Want to add a provider?** Please open a discussion first to align on data mapping.
+- **Support Sunoh**: Visit [www.sunoh.online](https://www.sunoh.online).
+
+---
+
+**Built with ❤️ by the Sunoh Team** 🎵
