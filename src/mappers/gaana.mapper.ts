@@ -11,34 +11,117 @@ export const extractGaanaEntityInfo = (entityInfo: any[], key: string): any => {
   return item ? item.value : null;
 };
 
-export const createGaanaImageLinks = (link: string): Images => {
-  if (!link || typeof link !== 'string') return [];
+/**
+ * Extracts a reliable image URL from Gaana's various image fields.
+ * Handles atwj JSON strings and prioritizes size_m or size_l if available.
+ */
+export const getGaanaImageUrl = (imageSource: any): string => {
+  if (!imageSource) return '';
+  if (typeof imageSource === 'string') {
+    // If it's a JSON string (common for atwj)
+    if (imageSource.startsWith('{')) {
+      try {
+        const parsed = JSON.parse(imageSource);
+        return parsed.size_l || parsed.size_m || parsed.size_s || Object.values(parsed)[0];
+      } catch (e) {
+        return imageSource;
+      }
+    }
+    return imageSource;
+  }
+  if (typeof imageSource === 'object') {
+    return (
+      imageSource.size_l ||
+      imageSource.size_m ||
+      imageSource.size_s ||
+      Object.values(imageSource)[0]
+    );
+  }
+  return '';
+};
 
-  const qualities = [
-    { name: '50x50', gaSuffix: 'size_s', gaCrop: 'crop_80x80' },
-    { name: '150x150', gaSuffix: 'size_m', gaCrop: 'crop_175x175' },
-    { name: '500x500', gaSuffix: 'size_xl', gaCrop: 'crop_480x480' },
+/**
+ * Modern imagery harvester for Gaana.
+ * Instead of picking one field, it looks at all available fields (atw, artwork, artwork_medium, etc.)
+ * to find the best native match for each quality bucket.
+ */
+export const getGaanaImagery = (data: any): Images => {
+  if (!data) return [];
+  if (typeof data === 'string') {
+    // Basic fallback if only a URL string is provided
+    return [
+      { quality: '50x50', link: data.replace(/size_[a-z]+|crop_\d+x\d+/, 'size_s') },
+      { quality: '150x150', link: data.replace(/size_[a-z]+|crop_\d+x\d+/, 'size_m') },
+      { quality: '500x500', link: data.replace(/size_[a-z]+|crop_\d+x\d+/, 'size_l') },
+    ];
+  }
+
+  const fields = [
+    'atw',
+    'atwj',
+    'artwork_large',
+    'artwork_medium',
+    'artwork_web',
+    'artwork_bio',
+    'artwork_175x175',
+    'artwork',
   ];
 
-  // Try to determine the pattern
-  let pattern: 'suffix' | 'crop' | 'none' = 'none';
-  if (link.includes('size_')) pattern = 'suffix';
-  else if (link.includes('crop_')) pattern = 'crop';
+  const urls = fields
+    .map((f) => getGaanaImageUrl(data[f]))
+    .filter((u) => u && typeof u === 'string' && u.length > 0);
 
-  return qualities.map((q) => {
-    let newLink = link;
-    if (pattern === 'suffix') {
-      newLink = link.replace(/size_[a-z]+/, q.gaSuffix);
-    } else if (pattern === 'crop') {
-      // Find the crop pattern like crop_175x175
+  if (urls.length === 0) return [];
+
+  const targets = [
+    {
+      name: '50x50',
+      matches: ['size_s', 'crop_80x80'],
+      suffix: 'size_s',
+      crop: 'crop_80x80',
+    },
+    {
+      name: '150x150',
+      matches: ['size_m', 'crop_175x175'],
+      suffix: 'size_m',
+      crop: 'crop_175x175',
+    },
+    {
+      name: '500x500',
+      matches: ['size_l', 'size_xl', 'crop_480x480'],
+      suffix: 'size_l',
+      crop: 'crop_480x480',
+    },
+  ];
+
+  const finalImages: { quality: string; link: string }[] = [];
+  const suffixUrls = urls.filter((u) => u.includes('size_'));
+  const cropUrls = urls.filter((u) => u.includes('crop_'));
+
+  targets.forEach((t) => {
+    // 1. Native Match First (look for a link that already satisfies the quality)
+    let base = urls.find((u) => t.matches.some((m) => u.includes(m)));
+
+    // 2. Transformed Second (take the best available link and transform it)
+    if (!base) base = suffixUrls[0] || cropUrls[0] || urls[0];
+
+    let finalLink = base;
+    if (base && base.includes('size_')) {
+      finalLink = base.replace(/size_[a-z]+/, t.suffix);
+    } else if (base && base.includes('crop_')) {
       const cropRegex = /crop_\d+x\d+/;
-      newLink = link.replace(cropRegex, q.gaCrop);
+      finalLink = base.replace(cropRegex, t.crop);
     }
-    return {
-      quality: q.name,
-      link: newLink,
-    };
+
+    let finalStr = finalLink || '';
+    // FINAL SAFEGUARD: Force size_l if size_xl is detected to avoid redirect loops
+    if (finalStr.includes('size_xl')) {
+      finalStr = finalStr.replace('size_xl', 'size_l');
+    }
+    finalImages.push({ quality: t.name, link: finalStr });
   });
+
+  return finalImages;
 };
 
 const extractMediaUrls = (data: any) => {
@@ -69,7 +152,7 @@ export const mapGaanaSong = (data: any): Song => {
       id: artist.seokey || artist.artist_id,
       name: artist.name,
       role: artist.role,
-      image: createGaanaImageLinks(artist.atw || artist.atwj || artist.artwork),
+      image: getGaanaImagery(artist),
       type: 'artist',
     }),
   );
@@ -79,9 +162,7 @@ export const mapGaanaSong = (data: any): Song => {
     title: data.name || data.track_title,
     subtitle: mappedArtists.map((a: any) => a.name).join(', '),
     type: 'song',
-    image: createGaanaImageLinks(
-      data.atw || data.atwj || data.artwork_large || data.artwork_web || data.artwork,
-    ),
+    image: getGaanaImagery(data),
     language: data.language,
     year: year?.toString()?.split('-')?.[0],
     duration: extractGaanaEntityInfo(data.entity_info, 'duration') || data.duration,
@@ -113,7 +194,7 @@ export const mapGaanaAlbum = (data: any): Album => {
     (artist: any) => ({
       id: artist.seokey || artist.artist_id,
       name: artist.name,
-      image: createGaanaImageLinks(artist.atw || artist.atwj || artist.artwork),
+      image: getGaanaImagery(artist),
       type: 'artist',
     }),
   );
@@ -125,7 +206,7 @@ export const mapGaanaAlbum = (data: any): Album => {
     headerDesc: `Album • ${language} • ${year}`,
     description: data.detailed_description,
     type: 'album',
-    image: createGaanaImageLinks(data.atw || data.atwj || data.artwork),
+    image: getGaanaImagery(data),
     language: language,
     year: year?.toString(),
     songCount:
@@ -147,7 +228,7 @@ export const mapGaanaPlaylist = (data: any): Playlist => {
     title: data.name || data.title,
     subtitle: data.language,
     type: 'playlist',
-    image: createGaanaImageLinks(data.atw || data.atwj || data.artwork),
+    image: getGaanaImagery(data),
     songCount:
       extractGaanaEntityInfo(data.entity_info, 'track_ids')?.length?.toString() ||
       data.trackcount?.toString() ||
@@ -165,9 +246,7 @@ export const mapGaanaArtist = (data: any): Artist => {
     id: data.seokey || data.entity_id || data.artist_id,
     name: data.name,
     type: 'artist',
-    image: createGaanaImageLinks(
-      data.atw || data.atwj || data.artwork_bio || data.artwork_175x175 || data.artwork,
-    ),
+    image: getGaanaImagery(data),
     followers: data.favorite_count?.toString(),
     bio: data.desc || data.detailed_description,
     songCount: data.songs?.toString(),
@@ -182,7 +261,7 @@ export const mapGaanaRadio = (data: any): Channel => {
     title: data.name,
     subtitle: data.language,
     type: 'channel',
-    image: createGaanaImageLinks(data.atw || data.atwj || data.artwork),
+    image: getGaanaImagery(data),
     source: 'gaana',
     url: data.seokey,
   };
@@ -193,7 +272,7 @@ export const mapGaanaOccasion = (data: any): Occasion => {
     id: data.seokey || data.entity_id,
     title: data.name,
     type: 'occasion',
-    image: createGaanaImageLinks(data.atw || data.atwj || data.artwork),
+    image: getGaanaImagery(data),
     source: 'gaana',
     url: data.seokey,
   };
@@ -215,13 +294,13 @@ export const mapGaanaSearchAlbum = (data: any): Album => {
     headerDesc: `Album • ${language} • ${year}`,
     description: data.detailed_description,
     type: 'album',
-    image: createGaanaImageLinks(data.atw || data.atwj || data.artwork),
+    image: getGaanaImagery(data),
     language: language,
     year: year?.toString(),
     songCount: data.trackcount?.toString(),
     artists: artists.map((artist: any) => ({
       ...artist,
-      image: createGaanaImageLinks(artist.atw || artist.atwj || artist.artwork),
+      image: getGaanaImagery(artist),
     })),
     songs: [],
     copyright: data.recordlevel || data.vendor_name,

@@ -12,7 +12,7 @@ import { sendError, sendSuccess } from '../utils/response';
 export const unifiedHomeController = async (req: FastifyRequest, res: FastifyReply) => {
   const { lang } = req.query as any;
   const languages = lang || (req.query as any).languages;
-  const cacheKey = `unified_home_v2_${languages || 'default'}`;
+  const cacheKey = `unified_home_v3_${languages || 'default'}`;
 
   try {
     const cached = await cache.get(cacheKey);
@@ -136,8 +136,7 @@ export const unifiedSearchController = async (req: FastifyRequest, res: FastifyR
   const q = query.q || query.query || '';
   const { lang, type = 'all', page = 1, count = 20 } = query;
   const languages = lang || query.languages;
-
-  const cacheKey = `unified_search_v2_${q}_${type}_${page}_${count}_${languages || 'default'}`;
+  const cacheKey = `unified_search_v3_${q}_${type}_${page}_${count}_${languages || 'default'}`;
 
   try {
     const cached = await cache.get(cacheKey);
