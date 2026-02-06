@@ -47,7 +47,14 @@ export const getGaanaImageUrl = (imageSource: any): string => {
  */
 export const getGaanaImagery = (data: any): Images => {
   if (!data) return [];
-  if (typeof data === 'string') return createGaanaImageLinks(data);
+  if (typeof data === 'string') {
+    // Basic fallback if only a URL string is provided
+    return [
+      { quality: '50x50', link: data.replace(/size_[a-z]+|crop_\d+x\d+/, 'size_s') },
+      { quality: '150x150', link: data.replace(/size_[a-z]+|crop_\d+x\d+/, 'size_m') },
+      { quality: '500x500', link: data.replace(/size_[a-z]+|crop_\d+x\d+/, 'size_l') },
+    ];
+  }
 
   const fields = [
     'atw',
@@ -106,44 +113,17 @@ export const getGaanaImagery = (data: any): Images => {
       finalLink = base.replace(cropRegex, t.crop);
     }
 
-    t.names.forEach((name) => finalImages.push({ quality: name, link: finalLink || '' }));
+    t.names.forEach((name) => {
+      let finalStr = finalLink || '';
+      // FINAL SAFEGUARD: Force size_l if size_xl is detected to avoid redirect loops
+      if (finalStr.includes('size_xl')) {
+        finalStr = finalStr.replace('size_xl', 'size_l');
+      }
+      finalImages.push({ quality: name, link: finalStr });
+    });
   });
 
   return finalImages;
-};
-
-export const createGaanaImageLinks = (link: string): Images => {
-  if (!link || typeof link !== 'string') return [];
-
-  const qualities = [
-    { name: '50x50', gaSuffix: 'size_s', gaCrop: 'crop_80x80' },
-    { name: 'small', gaSuffix: 'size_s', gaCrop: 'crop_80x80' },
-    { name: '150x150', gaSuffix: 'size_m', gaCrop: 'crop_175x175' },
-    { name: 'medium', gaSuffix: 'size_m', gaCrop: 'crop_175x175' },
-    { name: '500x500', gaSuffix: 'size_l', gaCrop: 'crop_480x480' },
-    { name: 'xl', gaSuffix: 'size_l', gaCrop: 'crop_480x480' },
-    { name: 'large', gaSuffix: 'size_l', gaCrop: 'crop_480x480' },
-  ];
-
-  // Try to determine the pattern
-  let pattern: 'suffix' | 'crop' | 'none' = 'none';
-  if (link.includes('size_')) pattern = 'suffix';
-  else if (link.includes('crop_')) pattern = 'crop';
-
-  return qualities.map((q) => {
-    let newLink = link;
-    if (pattern === 'suffix') {
-      newLink = link.replace(/size_[a-z]+/, q.gaSuffix);
-    } else if (pattern === 'crop') {
-      // Find the crop pattern like crop_175x175
-      const cropRegex = /crop_\d+x\d+/;
-      newLink = link.replace(cropRegex, q.gaCrop);
-    }
-    return {
-      quality: q.name,
-      link: newLink,
-    };
-  });
 };
 
 const extractMediaUrls = (data: any) => {

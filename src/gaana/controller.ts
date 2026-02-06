@@ -154,7 +154,7 @@ const hydrateGaanaSections = async (sectionMetadata: any[], lang?: string) => {
 };
 
 export const getGaanaHomeData = async (lang?: string) => {
-  const key = `gaana_home_v2_${lang || 'default'}`;
+  const key = `gaana_home_v3_${lang || 'default'}`;
   const cached = await cache.get(key);
   if (cached) return cached;
 
@@ -209,7 +209,7 @@ export const collectionController = async (req: FastifyRequest, res: FastifyRepl
 export const albumListController = async (req: FastifyRequest, res: FastifyReply) => {
   const { lang, page = 0, language } = req.query as any;
   const targetLanguage = language || lang || 'hindi';
-  const key = `gaana_album_list_${targetLanguage}_${page}_${lang || 'default'}`;
+  const key = `gaana_album_list_v3_${targetLanguage}_${page}_${lang || 'default'}`;
 
   try {
     const cached = await cache.get(key);
@@ -242,7 +242,7 @@ export const searchController = async (req: FastifyRequest, res: FastifyReply) =
   const { lang } = req.query as any;
   if (!q) return sendError(res, 'Query parameter q is required', null, 400);
 
-  const key = `gaana_search_${q}_${lang || 'default'}`;
+  const key = `gaana_search_v3_${q}_${lang || 'default'}`;
   try {
     const cached = await cache.get(key);
     if (cached) return sendSuccess(res, cached, 'OK (Cached)', 'gaana');
@@ -261,7 +261,7 @@ export const searchController = async (req: FastifyRequest, res: FastifyReply) =
 export const playlistController = async (req: FastifyRequest, res: FastifyReply) => {
   const { playlistId } = req.params as any;
   const { lang } = req.query as any;
-  const key = `gaana_playlist_${playlistId}_${lang || 'default'}`;
+  const key = `gaana_playlist_v3_${playlistId}_${lang || 'default'}`;
 
   try {
     const cached = await cache.get(key);
@@ -292,7 +292,7 @@ export const playlistController = async (req: FastifyRequest, res: FastifyReply)
 export const albumController = async (req: FastifyRequest, res: FastifyReply) => {
   const { albumId } = req.params as any;
   const { lang } = req.query as any;
-  const key = `gaana_album_${albumId}_${lang || 'default'}`;
+  const key = `gaana_album_v3_${albumId}_${lang || 'default'}`;
 
   try {
     const cached = await cache.get(key);
@@ -362,7 +362,7 @@ export const albumController = async (req: FastifyRequest, res: FastifyReply) =>
 export const artistController = async (req: FastifyRequest, res: FastifyReply) => {
   const { artistId } = req.params as any;
   const { lang } = req.query as any;
-  const key = `gaana_artist_${artistId}_${lang || 'default'}`;
+  const key = `gaana_artist_v3_${artistId}_${lang || 'default'}`;
 
   try {
     const cached = await cache.get(key);
@@ -565,7 +565,7 @@ export const occasionController = async (req: FastifyRequest, res: FastifyReply)
 export const occasionDetailController = async (req: FastifyRequest, res: FastifyReply) => {
   const { slug } = req.params as any;
   const { lang } = req.query as any;
-  const key = `gaana_occasion_detail_v2_${slug}_${lang || 'default'}`;
+  const key = `gaana_occasion_v3_${slug}_${lang || 'default'}`;
 
   try {
     const cached = await cache.get(key);
@@ -590,8 +590,8 @@ export const occasionDetailController = async (req: FastifyRequest, res: Fastify
 
 export const occasionItemsController = async (req: FastifyRequest, res: FastifyReply) => {
   const { id } = req.params as any;
-  const { lang, limit = '0,20' } = req.query as any;
-  const key = `gaana_occasion_items_${id}_${limit}_${lang || 'default'}`;
+  const { lang, limit = '0,40' } = req.query as any;
+  const key = `gaana_occasion_items_v3_${id}_${limit}_${lang || 'default'}`;
 
   try {
     const cached = await cache.get(key);
