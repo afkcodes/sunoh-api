@@ -1,6 +1,11 @@
 import { FastifyReply, FastifyRequest } from 'fastify';
-import { getGaanaHomeData } from '../gaana/controller';
-import { getSaavnHomeData } from '../saavn/controller';
+import {
+  getGaanaHomeData,
+  getGaanaSearchData,
+  getGaanaTrendingSearchData,
+} from '../gaana/controller';
+import { cache } from '../redis';
+import { getSaavnHomeData, getSaavnSearchData, getSaavnTopSearchData } from '../saavn/controller';
 import { sendError, sendSuccess } from '../utils/response';
 
 export const unifiedHomeController = async (req: FastifyRequest, res: FastifyReply) => {
@@ -98,5 +103,86 @@ export const unifiedHomeController = async (req: FastifyRequest, res: FastifyRep
     return sendSuccess(res, finalData, 'Unified home data fetched successfully', 'unified');
   } catch (error: any) {
     return sendError(res, error.message || 'Failed to fetch unified home data', error);
+  }
+};
+export const unifiedSearchController = async (req: FastifyRequest, res: FastifyReply) => {
+  const query = req.query as any;
+  const q = query.q || query.query || '';
+  const { lang, type = 'all', page = 1, count = 20 } = query;
+  const languages = lang || query.languages;
+
+  const cacheKey = `unified_search_${q}_${type}_${page}_${count}_${languages || 'default'}`;
+
+  try {
+    const cached = await cache.get(cacheKey);
+    if (cached) return sendSuccess(res, cached, 'OK (Cached)', 'unified');
+
+    if (!q) {
+      // Trending/Top Search when no query is provided
+      const [saavnTop, gaanaTrending] = await Promise.allSettled([
+        getSaavnTopSearchData(languages),
+        getGaanaTrendingSearchData(lang),
+      ]);
+
+      const saavnData = saavnTop.status === 'fulfilled' ? saavnTop.value : [];
+      const gaanaData = gaanaTrending.status === 'fulfilled' ? gaanaTrending.value : [];
+
+      if (gaanaData.length > 0) {
+        // Add Gaana trending as a new section or merge into Saavn categories
+        // For now, let's add it as a "Trending on Gaana" section
+        saavnData.unshift({
+          heading: 'Trending on Gaana',
+          data: gaanaData,
+          source: 'gaana',
+        });
+      }
+
+      await cache.set(cacheKey, saavnData, 7200);
+      return sendSuccess(res, saavnData, 'Top search results fetched successfully', 'unified');
+    }
+
+    const [saavnSearch, gaanaSearch] = await Promise.allSettled([
+      getSaavnSearchData(q, type, Number(page), Number(count), languages),
+      getGaanaSearchData(q, lang),
+    ]);
+
+    let saavnResults = saavnSearch.status === 'fulfilled' ? saavnSearch.value : [];
+    const gaanaResults = gaanaSearch.status === 'fulfilled' ? gaanaSearch.value : [];
+
+    if (type === 'all' && Array.isArray(saavnResults)) {
+      // saavnResults is an array of sections: [{ heading: 'Songs', ... }, { heading: 'Playlists', ... }]
+      const playlistSection = saavnResults.find((s: any) => s.heading === 'Playlists');
+
+      if (playlistSection) {
+        // Find Playlists or Mix in Gaana groups
+        gaanaResults.forEach((gSec: any) => {
+          if (['Playlists', 'Mix'].includes(gSec.heading)) {
+            playlistSection.data.push(...gSec.data);
+          }
+        });
+        playlistSection.source = 'unified';
+      } else {
+        // If Saavn has no Playlists section, check if Gaana has one and add it
+        const gaanaPlaylists = gaanaResults.find((gSec: any) =>
+          ['Playlists', 'Mix'].includes(gSec.heading),
+        );
+        if (gaanaPlaylists) {
+          saavnResults.push(gaanaPlaylists);
+        }
+      }
+    } else if (type === 'playlists' && (saavnResults as any).list) {
+      // saavnResults is { heading: 'Playlists', list: [...], source: 'saavn', count: ... }
+      gaanaResults.forEach((gSec: any) => {
+        if (['Playlists', 'Mix'].includes(gSec.heading)) {
+          (saavnResults as any).list.push(...gSec.data);
+        }
+      });
+      (saavnResults as any).source = 'unified';
+    }
+
+    await cache.set(cacheKey, saavnResults, 7200);
+    return sendSuccess(res, saavnResults, 'Search results fetched successfully', 'unified');
+  } catch (error: any) {
+    return sendError(res, error.message || 'Unified search failed', error);
   }
 };
