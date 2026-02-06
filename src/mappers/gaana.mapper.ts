@@ -45,8 +45,12 @@ export const createGaanaImageLinks = (link: string): Images => {
 
   const qualities = [
     { name: '50x50', gaSuffix: 'size_s', gaCrop: 'crop_80x80' },
+    { name: 'small', gaSuffix: 'size_s', gaCrop: 'crop_80x80' },
     { name: '150x150', gaSuffix: 'size_m', gaCrop: 'crop_175x175' },
+    { name: 'medium', gaSuffix: 'size_m', gaCrop: 'crop_175x175' },
     { name: '500x500', gaSuffix: 'size_l', gaCrop: 'crop_480x480' },
+    { name: 'xl', gaSuffix: 'size_l', gaCrop: 'crop_480x480' },
+    { name: 'large', gaSuffix: 'size_l', gaCrop: 'crop_480x480' },
   ];
 
   // Try to determine the pattern
