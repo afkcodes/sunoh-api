@@ -11,13 +11,42 @@ export const extractGaanaEntityInfo = (entityInfo: any[], key: string): any => {
   return item ? item.value : null;
 };
 
+/**
+ * Extracts a reliable image URL from Gaana's various image fields.
+ * Handles atwj JSON strings and prioritizes size_m or size_l if available.
+ */
+export const getGaanaImageUrl = (imageSource: any): string => {
+  if (!imageSource) return '';
+  if (typeof imageSource === 'string') {
+    // If it's a JSON string (common for atwj)
+    if (imageSource.startsWith('{')) {
+      try {
+        const parsed = JSON.parse(imageSource);
+        return parsed.size_l || parsed.size_m || parsed.size_s || Object.values(parsed)[0];
+      } catch (e) {
+        return imageSource;
+      }
+    }
+    return imageSource;
+  }
+  if (typeof imageSource === 'object') {
+    return (
+      imageSource.size_l ||
+      imageSource.size_m ||
+      imageSource.size_s ||
+      Object.values(imageSource)[0]
+    );
+  }
+  return '';
+};
+
 export const createGaanaImageLinks = (link: string): Images => {
   if (!link || typeof link !== 'string') return [];
 
   const qualities = [
     { name: '50x50', gaSuffix: 'size_s', gaCrop: 'crop_80x80' },
     { name: '150x150', gaSuffix: 'size_m', gaCrop: 'crop_175x175' },
-    { name: '500x500', gaSuffix: 'size_xl', gaCrop: 'crop_480x480' },
+    { name: '500x500', gaSuffix: 'size_l', gaCrop: 'crop_480x480' },
   ];
 
   // Try to determine the pattern
@@ -69,7 +98,15 @@ export const mapGaanaSong = (data: any): Song => {
       id: artist.seokey || artist.artist_id,
       name: artist.name,
       role: artist.role,
-      image: createGaanaImageLinks(artist.atw || artist.atwj || artist.artwork),
+      image: createGaanaImageLinks(
+        getGaanaImageUrl(
+          artist.atw ||
+            artist.atwj ||
+            artist.artwork_large ||
+            artist.artwork_medium ||
+            artist.artwork,
+        ),
+      ),
       type: 'artist',
     }),
   );
@@ -80,7 +117,14 @@ export const mapGaanaSong = (data: any): Song => {
     subtitle: mappedArtists.map((a: any) => a.name).join(', '),
     type: 'song',
     image: createGaanaImageLinks(
-      data.atw || data.atwj || data.artwork_large || data.artwork_web || data.artwork,
+      getGaanaImageUrl(
+        data.atw ||
+          data.atwj ||
+          data.artwork_large ||
+          data.artwork_medium ||
+          data.artwork_web ||
+          data.artwork,
+      ),
     ),
     language: data.language,
     year: year?.toString()?.split('-')?.[0],
@@ -113,7 +157,15 @@ export const mapGaanaAlbum = (data: any): Album => {
     (artist: any) => ({
       id: artist.seokey || artist.artist_id,
       name: artist.name,
-      image: createGaanaImageLinks(artist.atw || artist.atwj || artist.artwork),
+      image: createGaanaImageLinks(
+        getGaanaImageUrl(
+          artist.atw ||
+            artist.atwj ||
+            artist.artwork_large ||
+            artist.artwork_medium ||
+            artist.artwork,
+        ),
+      ),
       type: 'artist',
     }),
   );
@@ -125,7 +177,11 @@ export const mapGaanaAlbum = (data: any): Album => {
     headerDesc: `Album • ${language} • ${year}`,
     description: data.detailed_description,
     type: 'album',
-    image: createGaanaImageLinks(data.atw || data.atwj || data.artwork),
+    image: createGaanaImageLinks(
+      getGaanaImageUrl(
+        data.atw || data.atwj || data.artwork_large || data.artwork_medium || data.artwork,
+      ),
+    ),
     language: language,
     year: year?.toString(),
     songCount:
@@ -147,7 +203,11 @@ export const mapGaanaPlaylist = (data: any): Playlist => {
     title: data.name || data.title,
     subtitle: data.language,
     type: 'playlist',
-    image: createGaanaImageLinks(data.atw || data.atwj || data.artwork),
+    image: createGaanaImageLinks(
+      getGaanaImageUrl(
+        data.atw || data.atwj || data.artwork_large || data.artwork_medium || data.artwork,
+      ),
+    ),
     songCount:
       extractGaanaEntityInfo(data.entity_info, 'track_ids')?.length?.toString() ||
       data.trackcount?.toString() ||
@@ -166,7 +226,15 @@ export const mapGaanaArtist = (data: any): Artist => {
     name: data.name,
     type: 'artist',
     image: createGaanaImageLinks(
-      data.atw || data.atwj || data.artwork_bio || data.artwork_175x175 || data.artwork,
+      getGaanaImageUrl(
+        data.atw ||
+          data.atwj ||
+          data.artwork_large ||
+          data.artwork_medium ||
+          data.artwork_bio ||
+          data.artwork_175x175 ||
+          data.artwork,
+      ),
     ),
     followers: data.favorite_count?.toString(),
     bio: data.desc || data.detailed_description,
@@ -182,7 +250,11 @@ export const mapGaanaRadio = (data: any): Channel => {
     title: data.name,
     subtitle: data.language,
     type: 'channel',
-    image: createGaanaImageLinks(data.atw || data.atwj || data.artwork),
+    image: createGaanaImageLinks(
+      getGaanaImageUrl(
+        data.atw || data.atwj || data.artwork_large || data.artwork_medium || data.artwork,
+      ),
+    ),
     source: 'gaana',
     url: data.seokey,
   };
@@ -193,7 +265,11 @@ export const mapGaanaOccasion = (data: any): Occasion => {
     id: data.seokey || data.entity_id,
     title: data.name,
     type: 'occasion',
-    image: createGaanaImageLinks(data.atw || data.atwj || data.artwork),
+    image: createGaanaImageLinks(
+      getGaanaImageUrl(
+        data.atw || data.atwj || data.artwork_large || data.artwork_medium || data.artwork,
+      ),
+    ),
     source: 'gaana',
     url: data.seokey,
   };
@@ -215,13 +291,25 @@ export const mapGaanaSearchAlbum = (data: any): Album => {
     headerDesc: `Album • ${language} • ${year}`,
     description: data.detailed_description,
     type: 'album',
-    image: createGaanaImageLinks(data.atw || data.atwj || data.artwork),
+    image: createGaanaImageLinks(
+      getGaanaImageUrl(
+        data.atw || data.atwj || data.artwork_large || data.artwork_medium || data.artwork,
+      ),
+    ),
     language: language,
     year: year?.toString(),
     songCount: data.trackcount?.toString(),
     artists: artists.map((artist: any) => ({
       ...artist,
-      image: createGaanaImageLinks(artist.atw || artist.atwj || artist.artwork),
+      image: createGaanaImageLinks(
+        getGaanaImageUrl(
+          artist.atw ||
+            artist.atwj ||
+            artist.artwork_large ||
+            artist.artwork_medium ||
+            artist.artwork,
+        ),
+      ),
     })),
     songs: [],
     copyright: data.recordlevel || data.vendor_name,
