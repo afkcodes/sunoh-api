@@ -136,7 +136,7 @@ export const unifiedSearchController = async (req: FastifyRequest, res: FastifyR
   const q = query.q || query.query || '';
   const { lang, type = 'all', page = 1, count = 20 } = query;
   const languages = lang || query.languages;
-  const cacheKey = `unified_search_v3_${q}_${type}_${page}_${count}_${languages || 'default'}`;
+  const cacheKey = `unified_search_v4_${q}_${type}_${page}_${count}_${languages || 'default'}`;
 
   try {
     const cached = await cache.get(cacheKey);
@@ -193,7 +193,28 @@ export const unifiedSearchController = async (req: FastifyRequest, res: FastifyR
     };
 
     if (type === 'all' && Array.isArray(saavnResults)) {
+      // Find Gaana's "All" or "Top Results" section to serve as the new Hero
+      const gaanaAll = gaanaResults.find(
+        (g: any) => g && (g.heading === 'All' || g.heading === 'Top Results'),
+      );
+
       saavnResults = saavnResults.map((s: any) => ({ ...s, data: dedupe(s.data) }));
+
+      // Replace or Unshift Saavn's Top Query with Gaana's All section
+      if (gaanaAll) {
+        const topIdx = saavnResults.findIndex((s: any) => s.heading === 'Top Query');
+        const heroSection = {
+          heading: 'Top Results',
+          data: dedupe(gaanaAll.data),
+          source: 'gaana',
+        };
+
+        if (topIdx !== -1) {
+          saavnResults[topIdx] = heroSection;
+        } else {
+          saavnResults.unshift(heroSection);
+        }
+      }
 
       const playlistSection = saavnResults.find((s: any) => s.heading === 'Playlists');
 

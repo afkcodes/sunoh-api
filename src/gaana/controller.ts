@@ -242,7 +242,7 @@ export const searchController = async (req: FastifyRequest, res: FastifyReply) =
   const { lang } = req.query as any;
   if (!q) return sendError(res, 'Query parameter q is required', null, 400);
 
-  const key = `gaana_search_v3_${q}_${lang || 'default'}`;
+  const key = `gaana_search_v4_${q}_${lang || 'default'}`;
   try {
     const cached = await cache.get(key);
     if (cached) return sendSuccess(res, cached, 'OK (Cached)', 'gaana');
