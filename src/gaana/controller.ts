@@ -145,7 +145,7 @@ const hydrateGaanaSections = async (sectionMetadata: any[], lang?: string) => {
 };
 
 export const getGaanaHomeData = async (lang?: string) => {
-  const key = `gaana_home_${lang || 'default'}`;
+  const key = `gaana_home_v2_${lang || 'default'}`;
   const cached = await cache.get(key);
   if (cached) return cached;
 
@@ -556,7 +556,7 @@ export const occasionController = async (req: FastifyRequest, res: FastifyReply)
 export const occasionDetailController = async (req: FastifyRequest, res: FastifyReply) => {
   const { slug } = req.params as any;
   const { lang } = req.query as any;
-  const key = `gaana_occasion_detail_${slug}_${lang || 'default'}`;
+  const key = `gaana_occasion_detail_v2_${slug}_${lang || 'default'}`;
 
   try {
     const cached = await cache.get(key);

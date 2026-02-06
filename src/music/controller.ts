@@ -4,6 +4,7 @@ import {
   getGaanaSearchData,
   getGaanaTrendingSearchData,
 } from '../gaana/controller';
+import { isValidTitle } from '../helpers/common';
 import { cache } from '../redis';
 import { getSaavnHomeData, getSaavnSearchData, getSaavnTopSearchData } from '../saavn/controller';
 import { sendError, sendSuccess } from '../utils/response';
@@ -11,8 +12,12 @@ import { sendError, sendSuccess } from '../utils/response';
 export const unifiedHomeController = async (req: FastifyRequest, res: FastifyReply) => {
   const { lang } = req.query as any;
   const languages = lang || (req.query as any).languages;
+  const cacheKey = `unified_home_v2_${languages || 'default'}`;
 
   try {
+    const cached = await cache.get(cacheKey);
+    if (cached) return sendSuccess(res, cached, 'OK (Cached)', 'unified');
+
     const [saavnHome, gaanaHome] = await Promise.allSettled([
       getSaavnHomeData(languages),
       getGaanaHomeData(lang),
@@ -48,9 +53,18 @@ export const unifiedHomeController = async (req: FastifyRequest, res: FastifyRep
         if (!mergedCategories.has(cat)) {
           mergedCategories.set(cat, { heading: cat, data: [], source: 'unified' });
         }
-        mergedCategories.get(cat).data.push(...section.data);
+        const filteredData = section.data.filter((item: any) =>
+          isValidTitle(item.title || item.name),
+        );
+        mergedCategories.get(cat).data.push(...filteredData);
       } else {
-        otherSections.push(section);
+        const filteredSection = {
+          ...section,
+          data: section.data.filter((item: any) => isValidTitle(item.title || item.name)),
+        };
+        if (filteredSection.data.length > 0) {
+          otherSections.push(filteredSection);
+        }
       }
     });
 
@@ -58,20 +72,25 @@ export const unifiedHomeController = async (req: FastifyRequest, res: FastifyRep
     gaanaData.forEach((section) => {
       const cat = getCategory(section.heading);
       if (cat) {
-        if (!mergedCategories.has(cat)) {
-          mergedCategories.set(cat, { heading: cat, data: [], source: 'unified' });
-        }
-        // Interleave Gaana items with existing Saavn items for the same category
         const existingData = mergedCategories.get(cat).data;
         const newData = [];
-        const maxLen = Math.max(existingData.length, section.data.length);
+        const filteredGaana = section.data.filter((item: any) =>
+          isValidTitle(item.title || item.name),
+        );
+        const maxLen = Math.max(existingData.length, filteredGaana.length);
         for (let i = 0; i < maxLen; i++) {
           if (existingData[i]) newData.push(existingData[i]);
-          if (section.data[i]) newData.push(section.data[i]);
+          if (filteredGaana[i]) newData.push(filteredGaana[i]);
         }
         mergedCategories.get(cat).data = newData;
       } else {
-        otherSections.push(section);
+        const filteredSection = {
+          ...section,
+          data: section.data.filter((item: any) => isValidTitle(item.title || item.name)),
+        };
+        if (filteredSection.data.length > 0) {
+          otherSections.push(filteredSection);
+        }
       }
     });
 
@@ -111,7 +130,7 @@ export const unifiedSearchController = async (req: FastifyRequest, res: FastifyR
   const { lang, type = 'all', page = 1, count = 20 } = query;
   const languages = lang || query.languages;
 
-  const cacheKey = `unified_search_${q}_${type}_${page}_${count}_${languages || 'default'}`;
+  const cacheKey = `unified_search_v2_${q}_${type}_${page}_${count}_${languages || 'default'}`;
 
   try {
     const cached = await cache.get(cacheKey);
@@ -125,7 +144,10 @@ export const unifiedSearchController = async (req: FastifyRequest, res: FastifyR
       ]);
 
       const saavnData = saavnTop.status === 'fulfilled' ? saavnTop.value : [];
-      const gaanaData = gaanaTrending.status === 'fulfilled' ? gaanaTrending.value : [];
+      const gaanaData =
+        gaanaTrending.status === 'fulfilled'
+          ? gaanaTrending.value.filter((item: any) => isValidTitle(item.title || item.name))
+          : [];
 
       if (gaanaData.length > 0) {
         // Add Gaana trending as a new section or merge into Saavn categories
@@ -146,38 +168,54 @@ export const unifiedSearchController = async (req: FastifyRequest, res: FastifyR
       getGaanaSearchData(q, lang),
     ]);
 
-    let saavnResults = saavnSearch.status === 'fulfilled' ? saavnSearch.value : [];
     const gaanaResults = gaanaSearch.status === 'fulfilled' ? gaanaSearch.value : [];
+    let saavnResults = saavnSearch.status === 'fulfilled' ? saavnSearch.value : [];
+
+    // Helper to deduplicate by id and normalized title
+    const dedupe = (items: any[]) => {
+      const seen = new Set();
+      return items.filter((item) => {
+        const title = (item.title || item.name || '').toLowerCase().trim();
+        const id = item.id;
+        const key = `${id}_${title}`;
+        if (!title || !isValidTitle(title) || seen.has(key)) return false;
+        seen.add(key);
+        return true;
+      });
+    };
 
     if (type === 'all' && Array.isArray(saavnResults)) {
-      // saavnResults is an array of sections: [{ heading: 'Songs', ... }, { heading: 'Playlists', ... }]
+      saavnResults = saavnResults.map((s: any) => ({ ...s, data: dedupe(s.data) }));
+
       const playlistSection = saavnResults.find((s: any) => s.heading === 'Playlists');
 
       if (playlistSection) {
-        // Find Playlists or Mix in Gaana groups
         gaanaResults.forEach((gSec: any) => {
           if (['Playlists', 'Mix'].includes(gSec.heading)) {
-            playlistSection.data.push(...gSec.data);
+            playlistSection.data.push(...dedupe(gSec.data));
           }
         });
+        playlistSection.data = dedupe(playlistSection.data);
         playlistSection.source = 'unified';
       } else {
-        // If Saavn has no Playlists section, check if Gaana has one and add it
         const gaanaPlaylists = gaanaResults.find((gSec: any) =>
           ['Playlists', 'Mix'].includes(gSec.heading),
         );
         if (gaanaPlaylists) {
-          saavnResults.push(gaanaPlaylists);
+          saavnResults.push({ ...gaanaPlaylists, data: dedupe(gaanaPlaylists.data) });
         }
       }
     } else if (type === 'playlists' && (saavnResults as any).list) {
-      // saavnResults is { heading: 'Playlists', list: [...], source: 'saavn', count: ... }
+      const playlistList = dedupe((saavnResults as any).list);
       gaanaResults.forEach((gSec: any) => {
         if (['Playlists', 'Mix'].includes(gSec.heading)) {
-          (saavnResults as any).list.push(...gSec.data);
+          playlistList.push(...dedupe(gSec.data));
         }
       });
+      (saavnResults as any).list = dedupe(playlistList);
       (saavnResults as any).source = 'unified';
+    } else if (Array.isArray(saavnResults)) {
+      saavnResults = saavnResults.map((s: any) => ({ ...s, data: dedupe(s.data) }));
     }
 
     await cache.set(cacheKey, saavnResults, 7200);
