@@ -75,19 +75,19 @@ export const getGaanaImagery = (data: any): Images => {
 
   const targets = [
     {
-      names: ['50x50', 'small'],
+      name: '50x50',
       matches: ['size_s', 'crop_80x80'],
       suffix: 'size_s',
       crop: 'crop_80x80',
     },
     {
-      names: ['150x150', 'medium'],
+      name: '150x150',
       matches: ['size_m', 'crop_175x175'],
       suffix: 'size_m',
       crop: 'crop_175x175',
     },
     {
-      names: ['500x500', 'xl', 'large'],
+      name: '500x500',
       matches: ['size_l', 'size_xl', 'crop_480x480'],
       suffix: 'size_l',
       crop: 'crop_480x480',
@@ -113,14 +113,12 @@ export const getGaanaImagery = (data: any): Images => {
       finalLink = base.replace(cropRegex, t.crop);
     }
 
-    t.names.forEach((name) => {
-      let finalStr = finalLink || '';
-      // FINAL SAFEGUARD: Force size_l if size_xl is detected to avoid redirect loops
-      if (finalStr.includes('size_xl')) {
-        finalStr = finalStr.replace('size_xl', 'size_l');
-      }
-      finalImages.push({ quality: name, link: finalStr });
-    });
+    let finalStr = finalLink || '';
+    // FINAL SAFEGUARD: Force size_l if size_xl is detected to avoid redirect loops
+    if (finalStr.includes('size_xl')) {
+      finalStr = finalStr.replace('size_xl', 'size_l');
+    }
+    finalImages.push({ quality: t.name, link: finalStr });
   });
 
   return finalImages;
