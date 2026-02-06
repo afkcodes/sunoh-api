@@ -1,3 +1,4 @@
+import { isValidTitle } from '../helpers/common';
 import {
   mapGaanaAlbum,
   mapGaanaArtist,
@@ -65,13 +66,15 @@ export const gaanaSearchMapper = (data: any) => {
 };
 
 export const gaanaSectionMapper = (sections: any[]): any[] => {
-  return (sections || []).map((section: any) => ({
-    heading: section.ga_header || section.entity_description,
-    source: 'gaana',
-    url: section.url,
-    seokey: section.seokey_url,
-    entities: section.entities || section.content?.entities,
-  }));
+  return (sections || [])
+    .map((section: any) => ({
+      heading: section.ga_header || section.entity_description,
+      source: 'gaana',
+      url: section.url,
+      seokey: section.seokey_url,
+      entities: section.entities || section.content?.entities,
+    }))
+    .filter((section: any) => isValidTitle(section.heading));
 };
 
 export const gaanaHomeMapper = (data: any): any[] => {

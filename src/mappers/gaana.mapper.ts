@@ -69,7 +69,7 @@ export const mapGaanaSong = (data: any): Song => {
       id: artist.seokey || artist.artist_id,
       name: artist.name,
       role: artist.role,
-      image: createGaanaImageLinks(artist.atwj || artist.atw || artist.artwork),
+      image: createGaanaImageLinks(artist.atw || artist.atwj || artist.artwork),
       type: 'artist',
     }),
   );
@@ -80,7 +80,7 @@ export const mapGaanaSong = (data: any): Song => {
     subtitle: mappedArtists.map((a: any) => a.name).join(', '),
     type: 'song',
     image: createGaanaImageLinks(
-      data.atwj || data.artwork_large || data.artwork_web || data.artwork || data.atw,
+      data.atw || data.atwj || data.artwork_large || data.artwork_web || data.artwork,
     ),
     language: data.language,
     year: year?.toString()?.split('-')?.[0],
@@ -113,7 +113,7 @@ export const mapGaanaAlbum = (data: any): Album => {
     (artist: any) => ({
       id: artist.seokey || artist.artist_id,
       name: artist.name,
-      image: createGaanaImageLinks(artist.atwj || artist.atw || artist.artwork),
+      image: createGaanaImageLinks(artist.atw || artist.atwj || artist.artwork),
       type: 'artist',
     }),
   );
@@ -125,7 +125,7 @@ export const mapGaanaAlbum = (data: any): Album => {
     headerDesc: `Album • ${language} • ${year}`,
     description: data.detailed_description,
     type: 'album',
-    image: createGaanaImageLinks(data.atwj || data.artwork || data.atw),
+    image: createGaanaImageLinks(data.atw || data.atwj || data.artwork),
     language: language,
     year: year?.toString(),
     songCount:
@@ -166,7 +166,7 @@ export const mapGaanaArtist = (data: any): Artist => {
     name: data.name,
     type: 'artist',
     image: createGaanaImageLinks(
-      data.atwj || data.artwork_bio || data.atw || data.artwork_175x175 || data.artwork,
+      data.atw || data.atwj || data.artwork_bio || data.artwork_175x175 || data.artwork,
     ),
     followers: data.favorite_count?.toString(),
     bio: data.desc || data.detailed_description,
@@ -182,7 +182,7 @@ export const mapGaanaRadio = (data: any): Channel => {
     title: data.name,
     subtitle: data.language,
     type: 'channel',
-    image: createGaanaImageLinks(data.atwj || data.artwork || data.atw),
+    image: createGaanaImageLinks(data.atw || data.atwj || data.artwork),
     source: 'gaana',
     url: data.seokey,
   };
@@ -215,13 +215,13 @@ export const mapGaanaSearchAlbum = (data: any): Album => {
     headerDesc: `Album • ${language} • ${year}`,
     description: data.detailed_description,
     type: 'album',
-    image: createGaanaImageLinks(data.atwj || data.artwork || data.atw),
+    image: createGaanaImageLinks(data.atw || data.atwj || data.artwork),
     language: language,
     year: year?.toString(),
     songCount: data.trackcount?.toString(),
     artists: artists.map((artist: any) => ({
       ...artist,
-      image: createGaanaImageLinks(artist.atwj || artist.atw || artist.artwork),
+      image: createGaanaImageLinks(artist.atw || artist.atwj || artist.artwork),
     })),
     songs: [],
     copyright: data.recordlevel || data.vendor_name,

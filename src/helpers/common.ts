@@ -120,3 +120,31 @@ export const promiseAllLimit = async <T, R>(
   }
   return Promise.all(results);
 };
+
+export const isValidTitle = (title: string): boolean => {
+  if (!title || typeof title !== 'string') return false;
+  const trimmed = title.trim();
+  if (trimmed.length === 0) return false;
+
+  const genericWords = ['title', 'untitled', 'unknown', 'null', 'undefined', 'placeholder', 'none'];
+  const lowerTitle = trimmed.toLowerCase();
+
+  // If the title contains any of the generic words as the sole word or in a way that suggests it's a placeholder
+  if (genericWords.some((word) => lowerTitle === word || lowerTitle === `${word}s`)) return false;
+
+  // Substring check for very common generic ones
+  if (
+    lowerTitle.includes('untitled') ||
+    lowerTitle.includes('placeholder') ||
+    lowerTitle === 'title' ||
+    lowerTitle.startsWith('title ') ||
+    lowerTitle.endsWith(' title') ||
+    lowerTitle.includes(' title ')
+  )
+    return false;
+
+  // If it's just a numeric ID
+  if (/^\d+$/.test(trimmed)) return false;
+
+  return true;
+};
