@@ -1,5 +1,5 @@
 import { FastifyReply, FastifyRequest } from 'fastify';
-import { capitalizeFirstLetter, promiseAllLimit } from '../helpers/common';
+import { capitalizeFirstLetter, isValidTitle, promiseAllLimit } from '../helpers/common';
 import { fetchGet, fetchPost } from '../helpers/http';
 import {
   mapGaanaAlbum,
@@ -67,9 +67,12 @@ const hydrateGaanaSections = async (sectionMetadata: any[], lang?: string) => {
     await promiseAllLimit(relevantSections, 5, async (section: any) => {
       // If entities are already present, use them
       if (section.entities && section.entities.length > 0) {
+        const filteredData = section.entities
+          .map(mapGaanaEntity)
+          .filter((item: any) => isValidTitle(item.title || item.name));
         return {
           heading: section.heading,
-          data: section.entities.map(mapGaanaEntity),
+          data: filteredData,
           source: 'gaana',
         };
       }
@@ -88,9 +91,12 @@ const hydrateGaanaSections = async (sectionMetadata: any[], lang?: string) => {
           );
 
           if (sectionData && sectionData.entities) {
+            const filteredData = sectionData.entities
+              .map(mapGaanaEntity)
+              .filter((item: any) => isValidTitle(item.title || item.name));
             return {
               heading: section.heading,
-              data: sectionData.entities.map(mapGaanaEntity),
+              data: filteredData,
               source: 'gaana',
             };
           }
@@ -128,9 +134,12 @@ const hydrateGaanaSections = async (sectionMetadata: any[], lang?: string) => {
         }
 
         if (sectionData && sectionData.entities) {
+          const filteredData = sectionData.entities
+            .map(mapGaanaEntity)
+            .filter((item: any) => isValidTitle(item.title || item.name));
           return {
             heading: section.heading,
-            data: sectionData.entities.map(mapGaanaEntity),
+            data: filteredData,
             source: 'gaana',
           };
         }
