@@ -40,6 +40,78 @@ export const getGaanaImageUrl = (imageSource: any): string => {
   return '';
 };
 
+/**
+ * Modern imagery harvester for Gaana.
+ * Instead of picking one field, it looks at all available fields (atw, artwork, artwork_medium, etc.)
+ * to find the best native match for each quality bucket.
+ */
+export const getGaanaImagery = (data: any): Images => {
+  if (!data) return [];
+  if (typeof data === 'string') return createGaanaImageLinks(data);
+
+  const fields = [
+    'atw',
+    'atwj',
+    'artwork_large',
+    'artwork_medium',
+    'artwork_web',
+    'artwork_bio',
+    'artwork_175x175',
+    'artwork',
+  ];
+
+  const urls = fields
+    .map((f) => getGaanaImageUrl(data[f]))
+    .filter((u) => u && typeof u === 'string' && u.length > 0);
+
+  if (urls.length === 0) return [];
+
+  const targets = [
+    {
+      names: ['50x50', 'small'],
+      matches: ['size_s', 'crop_80x80'],
+      suffix: 'size_s',
+      crop: 'crop_80x80',
+    },
+    {
+      names: ['150x150', 'medium'],
+      matches: ['size_m', 'crop_175x175'],
+      suffix: 'size_m',
+      crop: 'crop_175x175',
+    },
+    {
+      names: ['500x500', 'xl', 'large'],
+      matches: ['size_l', 'size_xl', 'crop_480x480'],
+      suffix: 'size_l',
+      crop: 'crop_480x480',
+    },
+  ];
+
+  const finalImages: { quality: string; link: string }[] = [];
+  const suffixUrls = urls.filter((u) => u.includes('size_'));
+  const cropUrls = urls.filter((u) => u.includes('crop_'));
+
+  targets.forEach((t) => {
+    // 1. Native Match First (look for a link that already satisfies the quality)
+    let base = urls.find((u) => t.matches.some((m) => u.includes(m)));
+
+    // 2. Transformed Second (take the best available link and transform it)
+    if (!base) base = suffixUrls[0] || cropUrls[0] || urls[0];
+
+    let finalLink = base;
+    if (base && base.includes('size_')) {
+      finalLink = base.replace(/size_[a-z]+/, t.suffix);
+    } else if (base && base.includes('crop_')) {
+      const cropRegex = /crop_\d+x\d+/;
+      finalLink = base.replace(cropRegex, t.crop);
+    }
+
+    t.names.forEach((name) => finalImages.push({ quality: name, link: finalLink || '' }));
+  });
+
+  return finalImages;
+};
+
 export const createGaanaImageLinks = (link: string): Images => {
   if (!link || typeof link !== 'string') return [];
 
@@ -102,15 +174,7 @@ export const mapGaanaSong = (data: any): Song => {
       id: artist.seokey || artist.artist_id,
       name: artist.name,
       role: artist.role,
-      image: createGaanaImageLinks(
-        getGaanaImageUrl(
-          artist.atw ||
-            artist.atwj ||
-            artist.artwork_large ||
-            artist.artwork_medium ||
-            artist.artwork,
-        ),
-      ),
+      image: getGaanaImagery(artist),
       type: 'artist',
     }),
   );
@@ -120,16 +184,7 @@ export const mapGaanaSong = (data: any): Song => {
     title: data.name || data.track_title,
     subtitle: mappedArtists.map((a: any) => a.name).join(', '),
     type: 'song',
-    image: createGaanaImageLinks(
-      getGaanaImageUrl(
-        data.atw ||
-          data.atwj ||
-          data.artwork_large ||
-          data.artwork_medium ||
-          data.artwork_web ||
-          data.artwork,
-      ),
-    ),
+    image: getGaanaImagery(data),
     language: data.language,
     year: year?.toString()?.split('-')?.[0],
     duration: extractGaanaEntityInfo(data.entity_info, 'duration') || data.duration,
@@ -161,15 +216,7 @@ export const mapGaanaAlbum = (data: any): Album => {
     (artist: any) => ({
       id: artist.seokey || artist.artist_id,
       name: artist.name,
-      image: createGaanaImageLinks(
-        getGaanaImageUrl(
-          artist.atw ||
-            artist.atwj ||
-            artist.artwork_large ||
-            artist.artwork_medium ||
-            artist.artwork,
-        ),
-      ),
+      image: getGaanaImagery(artist),
       type: 'artist',
     }),
   );
@@ -181,11 +228,7 @@ export const mapGaanaAlbum = (data: any): Album => {
     headerDesc: `Album • ${language} • ${year}`,
     description: data.detailed_description,
     type: 'album',
-    image: createGaanaImageLinks(
-      getGaanaImageUrl(
-        data.atw || data.atwj || data.artwork_large || data.artwork_medium || data.artwork,
-      ),
-    ),
+    image: getGaanaImagery(data),
     language: language,
     year: year?.toString(),
     songCount:
@@ -207,11 +250,7 @@ export const mapGaanaPlaylist = (data: any): Playlist => {
     title: data.name || data.title,
     subtitle: data.language,
     type: 'playlist',
-    image: createGaanaImageLinks(
-      getGaanaImageUrl(
-        data.atw || data.atwj || data.artwork_large || data.artwork_medium || data.artwork,
-      ),
-    ),
+    image: getGaanaImagery(data),
     songCount:
       extractGaanaEntityInfo(data.entity_info, 'track_ids')?.length?.toString() ||
       data.trackcount?.toString() ||
@@ -229,17 +268,7 @@ export const mapGaanaArtist = (data: any): Artist => {
     id: data.seokey || data.entity_id || data.artist_id,
     name: data.name,
     type: 'artist',
-    image: createGaanaImageLinks(
-      getGaanaImageUrl(
-        data.atw ||
-          data.atwj ||
-          data.artwork_large ||
-          data.artwork_medium ||
-          data.artwork_bio ||
-          data.artwork_175x175 ||
-          data.artwork,
-      ),
-    ),
+    image: getGaanaImagery(data),
     followers: data.favorite_count?.toString(),
     bio: data.desc || data.detailed_description,
     songCount: data.songs?.toString(),
@@ -254,11 +283,7 @@ export const mapGaanaRadio = (data: any): Channel => {
     title: data.name,
     subtitle: data.language,
     type: 'channel',
-    image: createGaanaImageLinks(
-      getGaanaImageUrl(
-        data.atw || data.atwj || data.artwork_large || data.artwork_medium || data.artwork,
-      ),
-    ),
+    image: getGaanaImagery(data),
     source: 'gaana',
     url: data.seokey,
   };
@@ -269,11 +294,7 @@ export const mapGaanaOccasion = (data: any): Occasion => {
     id: data.seokey || data.entity_id,
     title: data.name,
     type: 'occasion',
-    image: createGaanaImageLinks(
-      getGaanaImageUrl(
-        data.atw || data.atwj || data.artwork_large || data.artwork_medium || data.artwork,
-      ),
-    ),
+    image: getGaanaImagery(data),
     source: 'gaana',
     url: data.seokey,
   };
@@ -295,25 +316,13 @@ export const mapGaanaSearchAlbum = (data: any): Album => {
     headerDesc: `Album • ${language} • ${year}`,
     description: data.detailed_description,
     type: 'album',
-    image: createGaanaImageLinks(
-      getGaanaImageUrl(
-        data.atw || data.atwj || data.artwork_large || data.artwork_medium || data.artwork,
-      ),
-    ),
+    image: getGaanaImagery(data),
     language: language,
     year: year?.toString(),
     songCount: data.trackcount?.toString(),
     artists: artists.map((artist: any) => ({
       ...artist,
-      image: createGaanaImageLinks(
-        getGaanaImageUrl(
-          artist.atw ||
-            artist.atwj ||
-            artist.artwork_large ||
-            artist.artwork_medium ||
-            artist.artwork,
-        ),
-      ),
+      image: getGaanaImagery(artist),
     })),
     songs: [],
     copyright: data.recordlevel || data.vendor_name,
