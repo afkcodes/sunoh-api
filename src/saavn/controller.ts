@@ -616,25 +616,67 @@ const recommendedSongsController = async (req: SaavnRequest, res: FastifyReply) 
   try {
     const { songId } = req.params;
     const languages = req.query.lang || req.query.languages;
+    const key = `saavn_recommend_v2_${songId}_${languages || 'default'}`;
+
+    const cached = await cache.get(key);
+    if (cached) return sendSuccess(res, cached, 'OK (Cached)', 'saavn');
+
     const url = `${config.saavn.baseUrl}`;
 
+    // Fetch song details which already includes recommendation sections
     const { data, code, message, error } = await saavnFetch<any>(url, {
       params: {
-        __call: config.saavn.endpoint.song.recommended,
-        pid: songId,
-        language: languages,
+        __call: config.saavn.endpoint.song.link,
+        token: songId,
+        type: 'song',
         ...params,
-        ctx: 'wap6dot0',
       },
       lang: languages,
     });
 
-    if (error) {
-      return sendError(res, message || 'Failed to fetch recommendations', error, code);
+    if (error || !data?.songs?.[0]) {
+      return sendError(res, message || 'Failed to fetch song context', error, code);
     }
 
-    const sanitizedData = songDataSanitizer(data as any);
-    return sendSuccess(res, sanitizedData, message, 'saavn', code);
+    const songData = songsDetailsMapper(data);
+
+    // Fetch all recommendation sections in parallel
+    const promiseArr = (songData.sections || []).map((d: any) => {
+      return {
+        title: d.heading,
+        promise: saavnFetch<any>(url, {
+          params: {
+            __call: d.endpoint,
+            song_id: d.songIds,
+            artist_ids: d.artistIds,
+            type: d.type,
+            language: d.language,
+            actor_ids: d.actorIds,
+            pid: d.pid,
+            ...params,
+          },
+          lang: languages,
+        }),
+      };
+    });
+
+    const results = await Promise.allSettled(promiseArr.map((item) => item.promise));
+
+    // Extract all songs from all sections and flatten
+    const recommendations: any[] = [];
+    results.forEach((result: any) => {
+      if (isValidArray(result.value?.data)) {
+        result.value.data.forEach((d: any) => {
+          if (d.type === 'song') {
+            const song = songDataSanitizer([d])[0];
+            if (song) recommendations.push(song);
+          }
+        });
+      }
+    });
+
+    await cache.set(key, recommendations, 10800);
+    return sendSuccess(res, recommendations, message || 'OK', 'saavn', code);
   } catch (error) {
     return sendError(res, 'Failed to fetch recommendations', error);
   }

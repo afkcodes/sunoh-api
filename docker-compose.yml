@@ -1,23 +1,25 @@
+version: "3.9"
+
 services:
   api:
     build: .
     ports:
-      - "3600:3600"
+      - "127.0.0.1:3600:3600"   # Only accessible locally (not public)
     environment:
       - PORT=3600
       - REDIS_HOST=redis
       - REDIS_PORT=6379
+      - NODE_ENV=production
     depends_on:
       - redis
-    restart: always
+    restart: unless-stopped
 
   redis:
     image: redis:alpine
-    ports:
-      - "6379:6379"
+    command: redis-server --appendonly yes
     volumes:
       - redis_data:/data
-    restart: always
+    restart: unless-stopped
 
 volumes:
   redis_data:
