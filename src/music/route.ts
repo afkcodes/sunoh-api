@@ -12,7 +12,6 @@ import {
   radioDetailController as gaanaRadioDetailController,
   searchController as gaanaSearchController,
   songController as gaanaSongController,
-  songRecommendController as gaanaSongRecommendController,
   songStreamController as gaanaSongStreamController,
 } from '../gaana/controller';
 import {
@@ -64,7 +63,11 @@ export const musicRoutes = async (fastify: FastifyInstance) => {
   });
   fastify.get('/song/:songId/recommend', (req, reply) => {
     const { provider } = req.query as any;
-    if (provider === 'gaana') return gaanaSongRecommendController(req as any, reply);
+    if (provider === 'gaana') {
+      return reply
+        .status(400)
+        .send({ error: 'Song recommendations are only supported for Saavn provider currently' });
+    }
     return saavnSongRecommendController(req as any, reply);
   });
   fastify.get('/song/:songId/stream', (req, reply) => {
