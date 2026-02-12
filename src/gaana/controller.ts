@@ -11,7 +11,6 @@ import {
 import { cache } from '../redis';
 import { sendError, sendSuccess } from '../utils/response';
 import { gaanaHomeMapper, gaanaSearchMapper, gaanaSectionMapper } from './helper';
-import { GaanaSessionManager } from './session';
 
 const GAANA_BASE_URL = 'https://gaana.com/apiv2';
 const USER_AGENT =
@@ -26,8 +25,7 @@ export const getGaanaHeaders = async (languages?: string) => {
     Referer: 'https://gaana.com/',
   };
 
-  const sessionCookies = await GaanaSessionManager.getCookies();
-  let cookieStr = sessionCookies || '';
+  let cookieStr = '';
 
   if (languages) {
     const formattedLangs = languages
@@ -508,81 +506,26 @@ export const songController = async (req: FastifyRequest, res: FastifyReply) => 
     const primaryArtistId =
       detailData.artist?.[0]?.artist_id || detailData.primaryartist?.[0]?.artist_id;
 
-    // Fetch similar songs and more from artist/album context in parallel
-    const [similarRes, artistSongsRes] = await Promise.all([
-      internalSongId
-        ? gaanaFetch<any>({ type: 'songSimilar', id: internalSongId }, lang)
-        : Promise.resolve({ data: null }),
-      primaryArtistId
-        ? gaanaFetch<any>({ type: 'albumArtistSongs', id: primaryArtistId, factor: 10 }, lang)
-        : Promise.resolve({ data: null }),
-    ]);
+    // Fetch more from artist/album context
+    const artistSongsRes = primaryArtistId
+      ? await gaanaFetch<any>({ type: 'albumArtistSongs', id: primaryArtistId, factor: 10 }, lang)
+      : { data: null };
 
     const sections: any[] = [];
 
-    // Process Similar Songs with full details including mediaUrls
-    const similarTracks = similarRes.data?.tracks || similarRes.data?.entities || [];
-    if (similarTracks.length > 0) {
-      const similarSongsWithMedia = await Promise.all(
-        similarTracks
-          .filter((t: any) => t.track_id || t.entity_id || t.seokey)
-          .map(async (t: any) => {
-            try {
-              const { data: songData } = await gaanaFetch<any>(
-                {
-                  seokey: t.seokey || t.track_id,
-                  type: 'songDetail',
-                },
-                lang,
-              );
-              const fullSongData = songData?.tracks?.[0] || songData?.song || songData;
-              return mapGaanaTrack(fullSongData);
-            } catch {
-              return mapGaanaTrack(t);
-            }
-          }),
-      );
-
-      sections.push({
-        heading: 'Similar Songs',
-        data: similarSongsWithMedia,
-        source: 'gaana',
-      });
-    }
-
-    // Process More from Artist with full details including mediaUrls
+    // Process More from Artist - use basic entity data
     const artistEntities = artistSongsRes.data?.entities || artistSongsRes.data?.tracks || [];
     if (artistEntities.length > 0) {
-      const artistSongsWithMedia = await Promise.all(
-        artistEntities
-          .filter((t: any) => isValidTitle(t.title || t.name))
-          .map(async (t: any) => {
-            try {
-              // If it's a track, fetch full details
-              if (t.entity_type === 'TRACK' || t.track_id || t.seokey) {
-                const { data: songData } = await gaanaFetch<any>(
-                  {
-                    seokey: t.seokey || t.track_id,
-                    type: 'songDetail',
-                  },
-                  lang,
-                );
-                const fullSongData = songData?.tracks?.[0] || songData?.song || songData;
-                return mapGaanaTrack(fullSongData);
-              }
-              // For non-track entities (albums, playlists), just map normally
-              t.entity_type = t.entity_type || 'TRACK';
-              return mapGaanaEntity(t);
-            } catch {
-              t.entity_type = t.entity_type || 'TRACK';
-              return mapGaanaEntity(t);
-            }
-          }),
-      );
+      const artistSongs = artistEntities
+        .filter((t: any) => isValidTitle(t.title || t.name))
+        .map((t: any) => {
+          t.entity_type = t.entity_type || 'TRACK';
+          return mapGaanaEntity(t);
+        });
 
       sections.push({
         heading: 'More from Artist',
-        data: artistSongsWithMedia,
+        data: artistSongs,
         source: 'gaana',
       });
     }
@@ -610,69 +553,6 @@ export const songStreamController = async (req: FastifyRequest, res: FastifyRepl
 
     const song = mapGaanaTrack(data.tracks?.[0] || data.song || data);
     return sendSuccess(res, song.mediaUrls, 'OK', 'gaana');
-  } catch (error) {
-    return sendError(res, 'Internal server error', error);
-  }
-};
-
-export const songRecommendController = async (req: FastifyRequest, res: FastifyReply) => {
-  const { songId } = req.params as any;
-  const { lang } = req.query as any;
-  const key = `gaana_recommend_v3_${songId}_${lang || 'default'}`;
-
-  try {
-    const cached = await cache.get(key);
-    if (cached) return sendSuccess(res, cached, 'OK (Cached)', 'gaana');
-
-    // 1. Fetch song details first to get internal ID
-    const { data, error, message } = await gaanaFetch<any>(
-      {
-        seokey: songId,
-        type: 'songDetail',
-      },
-      lang,
-    );
-    if (error) return sendError(res, message || 'Failed to fetch song context', error);
-
-    const detailData = data.tracks?.[0] || data.song || data;
-    const internalSongId = detailData.track_id || detailData.entity_id;
-
-    if (!internalSongId) return sendError(res, 'Failed to resolve song ID', null);
-
-    // 2. Fetch similar songs using the internal ID
-    const { data: similarData, error: similarError } = await gaanaFetch<any>(
-      { type: 'songSimilar', id: internalSongId },
-      lang,
-    );
-
-    if (similarError) return sendError(res, 'Failed to fetch recommendations', similarError);
-
-    // 3. Map the results and fetch mediaUrls in parallel
-    const rawTracks = similarData?.tracks || similarData?.entities || [];
-    const recommendations = await Promise.all(
-      rawTracks
-        .filter((t: any) => t.track_id || t.entity_id || t.seokey)
-        .map(async (t: any) => {
-          try {
-            // Fetch full song details to get mediaUrls
-            const { data: songData } = await gaanaFetch<any>(
-              {
-                seokey: t.seokey || t.track_id,
-                type: 'songDetail',
-              },
-              lang,
-            );
-            const fullSongData = songData?.tracks?.[0] || songData?.song || songData;
-            return mapGaanaTrack(fullSongData);
-          } catch {
-            // If fetching full details fails, return basic mapped track
-            return mapGaanaTrack(t);
-          }
-        }),
-    );
-
-    await cache.set(key, recommendations, 10800);
-    return sendSuccess(res, recommendations, 'OK', 'gaana');
   } catch (error) {
     return sendError(res, 'Internal server error', error);
   }
