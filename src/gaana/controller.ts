@@ -471,7 +471,7 @@ export const artistController = async (req: FastifyRequest, res: FastifyReply) =
 export const songController = async (req: FastifyRequest, res: FastifyReply) => {
   const { songId } = req.params as any;
   const { lang } = req.query as any;
-  const key = `gaana_song_${songId}_${lang || 'default'}`;
+  const key = `gaana_song_v3_${songId}_${lang || 'default'}`;
 
   try {
     const cached = await cache.get(key);
@@ -486,9 +486,44 @@ export const songController = async (req: FastifyRequest, res: FastifyReply) => 
     );
     if (error) return sendError(res, message || 'Failed to fetch song', error);
 
-    const song = mapGaanaTrack(data.tracks?.[0] || data.song || data);
-    await cache.set(key, song, 10800);
-    return sendSuccess(res, song, 'OK', 'gaana');
+    const detailData = data.tracks?.[0] || data.song || data;
+    const song = mapGaanaTrack(detailData);
+
+    const internalSongId = detailData.track_id || detailData.entity_id;
+    const albumId = detailData.album_id;
+    const primaryArtistId = detailData.artist?.[0]?.artist_id;
+
+    // Fetch similar songs and more from artist/album context in parallel
+    const [similarRes, artistSongsRes] = await Promise.all([
+      internalSongId
+        ? gaanaFetch<any>({ type: 'songSimilar', id: internalSongId }, lang)
+        : Promise.resolve({ data: null }),
+      primaryArtistId
+        ? gaanaFetch<any>({ type: 'albumArtistSongs', id: primaryArtistId, factor: 10 }, lang)
+        : Promise.resolve({ data: null }),
+    ]);
+
+    const sections = [];
+
+    if (similarRes.data?.tracks?.length > 0) {
+      sections.push({
+        heading: 'Similar Songs',
+        data: similarRes.data.tracks.map(mapGaanaTrack),
+        source: 'gaana',
+      });
+    }
+
+    if (artistSongsRes.data?.entities?.length > 0) {
+      sections.push({
+        heading: 'More from Artist',
+        data: artistSongsRes.data.entities.map(mapGaanaEntity),
+        source: 'gaana',
+      });
+    }
+
+    const result = { ...song, sections };
+    await cache.set(key, result, 10800);
+    return sendSuccess(res, result, 'OK', 'gaana');
   } catch (error) {
     return sendError(res, 'Internal server error', error);
   }
