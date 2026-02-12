@@ -483,7 +483,7 @@ export const artistController = async (req: FastifyRequest, res: FastifyReply) =
 export const songController = async (req: FastifyRequest, res: FastifyReply) => {
   const { songId } = req.params as any;
   const { lang } = req.query as any;
-  const key = `gaana_song_v5_${songId}_${lang || 'default'}`;
+  const key = `gaana_song_v8_${songId}_${lang || 'default'}`;
 
   try {
     const cached = await cache.get(key);
@@ -501,33 +501,114 @@ export const songController = async (req: FastifyRequest, res: FastifyReply) => 
     const detailData = data.tracks?.[0] || data.song || data;
     const song = mapGaanaTrack(detailData);
 
-    const internalSongId = detailData.track_id || detailData.entity_id;
-    const albumId = detailData.album_id;
     const primaryArtistId =
       detailData.artist?.[0]?.artist_id || detailData.primaryartist?.[0]?.artist_id;
 
-    // Fetch more from artist/album context
-    const artistSongsRes = primaryArtistId
-      ? await gaanaFetch<any>({ type: 'albumArtistSongs', id: primaryArtistId, factor: 10 }, lang)
-      : { data: null };
-
     const sections: any[] = [];
 
-    // Process More from Artist - use basic entity data
-    const artistEntities = artistSongsRes.data?.entities || artistSongsRes.data?.tracks || [];
-    if (artistEntities.length > 0) {
-      const artistSongs = artistEntities
-        .filter((t: any) => isValidTitle(t.title || t.name))
-        .map((t: any) => {
-          t.entity_type = t.entity_type || 'TRACK';
-          return mapGaanaEntity(t);
-        });
+    // More from Artist - Search for artist on Saavn and get their top songs
+    try {
+      const { getSaavnSearchData } = require('../saavn/controller');
 
-      sections.push({
-        heading: 'More from Artist',
-        data: artistSongs,
-        source: 'gaana',
-      });
+      const artistName = Array.isArray(song.artists) ? song.artists[0]?.name : '';
+      if (artistName) {
+        // Search for the artist on Saavn
+        const artistSearchResults = await getSaavnSearchData(artistName, 'artists', 1, 1, lang);
+
+        if (artistSearchResults?.list?.[0]?.id) {
+          const artistId = artistSearchResults.list[0].id;
+
+          // Get artist's top songs
+          const artistSongsResults = await getSaavnSearchData(artistName, 'songs', 1, 15, lang);
+
+          if (artistSongsResults?.list && artistSongsResults.list.length > 0) {
+            sections.push({
+              heading: 'More from Artist',
+              data: artistSongsResults.list.slice(0, 10),
+              source: 'saavn',
+            });
+          }
+        }
+      }
+    } catch (artistError) {
+      console.error('[More from Artist] Failed to fetch from Saavn:', artistError);
+    }
+
+    // Cross-provider recommendations: Search for this song on Saavn and get its recommendations
+    try {
+      const { getSaavnSearchData, recommendedSongsController: saavnRecommendController } =
+        require('../saavn/controller');
+
+      // Search for the song on Saavn using title and artist
+      const artistName = Array.isArray(song.artists) ? song.artists[0]?.name : '';
+      const searchQuery = `${song.title} ${artistName}`.trim();
+      const saavnSearchResults = await getSaavnSearchData(searchQuery, 'songs', 1, 5, lang);
+
+      // Find the best match (first result is usually the best)
+      if (saavnSearchResults?.list?.[0]?.id) {
+        const saavnSongId = saavnSearchResults.list[0].id;
+
+        // Create a mock request to get Saavn recommendations
+        const mockReq = {
+          params: { songId: saavnSongId },
+          query: { lang },
+        } as any;
+
+        let saavnRecommendations: any[] = [];
+        const mockRes = {
+          code: () => mockRes,
+          send: (data: any) => {
+            if (data.status === 'success' && Array.isArray(data.data)) {
+              saavnRecommendations = data.data.slice(0, 15); // Limit to 15 recommendations
+            }
+            return mockRes;
+          },
+        } as any;
+
+        // Call the Saavn recommendation controller
+        await saavnRecommendController(mockReq, mockRes);
+
+        if (saavnRecommendations.length > 0) {
+          sections.push({
+            heading: 'You Might Also Like',
+            data: saavnRecommendations,
+            source: 'saavn',
+          });
+        }
+      }
+    } catch (crossProviderError) {
+      // Silently fail if cross-provider recommendations don't work
+      console.error('[Cross-Provider] Failed to fetch Saavn recommendations:', crossProviderError);
+    }
+
+    // Trending from Artist - Gaana's artist songs (doesn't require premium)
+    if (primaryArtistId) {
+      try {
+        const artistSongsRes = await gaanaFetch<any>(
+          { type: 'albumArtistSongs', id: primaryArtistId, factor: 10 },
+          lang,
+        );
+
+        const artistEntities = artistSongsRes.data?.entities || artistSongsRes.data?.tracks || [];
+        if (artistEntities.length > 0) {
+          const artistSongs = artistEntities
+            .filter((t: any) => isValidTitle(t.title || t.name))
+            .map((t: any) => {
+              t.entity_type = t.entity_type || 'TRACK';
+              return mapGaanaEntity(t);
+            });
+
+          if (artistSongs.length > 0) {
+            sections.push({
+              heading: 'Trending from Artist',
+              data: artistSongs,
+              source: 'gaana',
+            });
+          }
+        }
+      } catch (gaanaArtistError) {
+        console.error('[Gaana Artist] Failed to fetch artist songs:', gaanaArtistError);
+      }
     }
 
     const response = { ...song, sections };
