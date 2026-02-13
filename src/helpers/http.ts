@@ -348,7 +348,19 @@ async function request<T>(url: string, options: RequestOptions = {}): Promise<Re
             try {
               switch (responseType) {
                 case 'json':
-                  responseData = JSON.parse(rawData.toString()) as T;
+                  try {
+                    const str = rawData.toString();
+                    if (!str) {
+                      responseData = null as unknown as T;
+                    } else {
+                      responseData = JSON.parse(str) as T;
+                    }
+                  } catch (e) {
+                    console.error(`[HTTP] JSON parse error for ${urlObject.href}`);
+                    console.error('Raw data:', rawData.toString().slice(0, 500));
+                    reject(new Error('Unexpected end of JSON input'));
+                    return;
+                  }
                   break;
                 case 'text':
                   responseData = rawData.toString() as unknown as T;

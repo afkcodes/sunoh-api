@@ -174,7 +174,7 @@ export const topSearchMapper = (data: any) => {
     },
     { heading: 'Artists', data: sortedData.artists.data.map(mapSaavnArtist), source: 'saavn' },
     { heading: 'Songs', data: sortedData.songs.data.map(mapSaavnSong), source: 'saavn' },
-  ];
+  ].filter((s) => s.data.length > 0);
 };
 
 const contentKeys = ['topquery', 'albums', 'playlists', 'artists'];
@@ -208,7 +208,7 @@ export const autoCompleteDataMapper = (data: any) => {
     });
   }
 
-  return sanitizedData;
+  return sanitizedData.filter((s) => Array.isArray(s.data) && s.data.length > 0);
 };
 
 export const similarArtistsDataMapper = (data: any[]) => {

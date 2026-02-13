@@ -737,35 +737,15 @@ export const occasionItemsController = async (req: FastifyRequest, res: FastifyR
   }
 };
 export const getGaanaSearchData = async (q: string, lang?: string) => {
-  const url = `https://gsearch.gaana.com/vichitih/go/v2`;
-  const formattedLangs = lang
-    ? lang
-        .split(',')
-        .map((l) => capitalizeFirstLetter(l.trim()))
-        .join(',')
-    : 'Hindi,English';
+  const url = `https://gaana.com/apiv2`;
 
-  const params = {
-    geoLocation: 'IN',
-    query: q,
-    content_filter: '2',
-    include: 'allItems',
-    isRegSrch: '0',
-    webVersion: 'mix',
-    rType: 'web',
-    usrLang: formattedLangs,
-    isChrome: '1',
-  };
-
-  // User says POST, browser subagent says GET. I'll use GET as it worked for the browser.
-  const { data, error, message } = await fetchGet<any>(url, {
-    params,
-    headers: {
-      deviceId: '1234567890',
-      deviceType: 'web',
-      gaanaAppVersion: '2.0.0',
-      ...(await getGaanaHeaders(lang)),
+  const { data, error, message } = await fetchPost<any>(url, {
+    params: {
+      keyword: q,
+      type: 'search',
     },
+    body: {},
+    headers: await getGaanaHeaders(lang),
   });
 
   if (error) throw new Error(message || 'Gaana search failed');
