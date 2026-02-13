@@ -19,6 +19,7 @@ export const gaanaDataSanitizer = (data: any): Song | Album | Playlist | Artist 
 };
 
 export const gaanaSearchMapper = (data: any) => {
+  if (!data) return [];
   const gr = data.gr || [];
   const sanitizedData = [];
 
@@ -45,9 +46,10 @@ export const gaanaSearchMapper = (data: any) => {
         entity_info: [
           {
             key: 'artist',
-            value: (item.sti || '').split(',').map((name: string) => ({ name: name.trim() })),
+            value: (item.sti || '')
+              .split(',')
+              .map((name: string) => ({ name: name.trim(), artist_id: '', seokey: '' })),
           },
-          { key: 'album', value: [{ name: item.sti }] },
         ],
       };
       return gaanaDataSanitizer(normalizedItem);

@@ -4,7 +4,7 @@ import {
   getGaanaSearchData,
   getGaanaTrendingSearchData,
 } from '../gaana/controller';
-import { isValidTitle } from '../helpers/common';
+import { capitalizeFirstLetter, isValidTitle } from '../helpers/common';
 import { cache } from '../redis';
 import { getSaavnHomeData, getSaavnSearchData, getSaavnTopSearchData } from '../saavn/controller';
 import { sendError, sendSuccess } from '../utils/response';
@@ -136,7 +136,7 @@ export const unifiedSearchController = async (req: FastifyRequest, res: FastifyR
   const q = query.q || query.query || '';
   const { lang, type = 'all', page = 1, count = 20 } = query;
   const languages = lang || query.languages;
-  const cacheKey = `unified_search_v4_${q}_${type}_${page}_${count}_${languages || 'default'}`;
+  const cacheKey = `unified_search_v6_${q}_${type}_${page}_${count}_${languages || 'default'}`;
 
   try {
     const cached = await cache.get(cacheKey);
@@ -177,32 +177,66 @@ export const unifiedSearchController = async (req: FastifyRequest, res: FastifyR
     const gaanaResults = gaanaSearch.status === 'fulfilled' ? gaanaSearch.value : [];
     let saavnResults = saavnSearch.status === 'fulfilled' ? saavnSearch.value : [];
 
-    // Helper to deduplicate by id and normalized title
+    // Helper to deduplicate by normalized title and artist
     const dedupe = (items: any[]) => {
       if (!Array.isArray(items)) return [];
       const seen = new Set();
       return items.filter((item) => {
         if (!item) return false;
-        const title = (item.title || item.name || '').toLowerCase().trim();
-        const id = item.id;
-        const key = `${id}_${title}`;
-        if (!title || !isValidTitle(title) || seen.has(key)) return false;
+        const title = (item.title || item.name || '')
+          .toLowerCase()
+          .trim()
+          .replace(/[^a-z0-9]/g, '');
+        let artist = '';
+        if (Array.isArray(item.artists) && item.artists.length > 0) {
+          artist = (item.artists[0].name || '')
+            .toLowerCase()
+            .trim()
+            .replace(/[^a-z0-9]/g, '');
+        } else if (typeof item.subtitle === 'string') {
+          artist = item.subtitle
+            .split(',')[0]
+            .toLowerCase()
+            .trim()
+            .replace(/[^a-z0-9]/g, '');
+        }
+
+        const key = `${title}_${artist}`;
+        if (!title || !isValidTitle(item.title || item.name) || seen.has(key)) return false;
         seen.add(key);
         return true;
       });
     };
 
+    const normalizeHeading = (h: string) => {
+      let cleaned = h.toLowerCase().trim().replace(/ /g, '');
+      if (cleaned === 'track' || cleaned === 'song') cleaned = 'songs';
+      if (cleaned === 'album') cleaned = 'albums';
+      if (cleaned === 'playlist') cleaned = 'playlists';
+      if (cleaned === 'artist') cleaned = 'artists';
+      if (cleaned === 'topquery' || cleaned === 'topresult') cleaned = 'topresults';
+      return cleaned;
+    };
+
     if (type === 'all' && Array.isArray(saavnResults)) {
-      // Find Gaana's "All" or "Top Results" section to serve as the new Hero
-      const gaanaAll = gaanaResults.find(
-        (g: any) => g && (g.heading === 'All' || g.heading === 'Top Results'),
+      // Create a map of Gaana sections for easier lookup
+      const gaanaSectionMap = new Map();
+      gaanaResults.forEach((g: any) => {
+        if (!g || !g.heading) return;
+        const normalized = normalizeHeading(g.heading);
+        gaanaSectionMap.set(normalized, g);
+      });
+
+      // Find Saavn's Top results / Top query
+      const topIdx = saavnResults.findIndex(
+        (s: any) =>
+          normalizeHeading(s.heading) === 'topresults' ||
+          normalizeHeading(s.heading) === 'topquery',
       );
 
-      saavnResults = saavnResults.map((s: any) => ({ ...s, data: dedupe(s.data) }));
-
-      // Replace or Unshift Saavn's Top Query with Gaana's All section
+      // 1. Process Gaana's "All" section as the new Hero/Top Result
+      const gaanaAll = gaanaSectionMap.get('all') || gaanaSectionMap.get('topresults');
       if (gaanaAll) {
-        const topIdx = saavnResults.findIndex((s: any) => s.heading === 'Top Query');
         const heroSection = {
           heading: 'Top Results',
           data: dedupe(gaanaAll.data),
@@ -216,24 +250,32 @@ export const unifiedSearchController = async (req: FastifyRequest, res: FastifyR
         }
       }
 
-      const playlistSection = saavnResults.find((s: any) => s.heading === 'Playlists');
+      // 2. Comprehensive Merge for all major categories
+      const categories = ['songs', 'albums', 'artists', 'playlists'];
+      const sResults = saavnResults as any[];
 
-      if (playlistSection) {
-        gaanaResults.forEach((gSec: any) => {
-          if (gSec && ['Playlists', 'Mix'].includes(gSec.heading)) {
-            playlistSection.data.push(...dedupe(gSec.data));
+      categories.forEach((cat) => {
+        const gSec = gaanaSectionMap.get(cat);
+        if (gSec) {
+          const sSec = sResults.find((s) => normalizeHeading(s.heading) === cat);
+          if (sSec) {
+            // Merge Gaana items into Saavn section
+            const combined = [...sSec.data, ...dedupe(gSec.data)];
+            sSec.data = dedupe(combined);
+            sSec.source = 'unified';
+          } else {
+            // Add new section if it doesn't exist in Saavn
+            sResults.push({
+              heading: capitalizeFirstLetter(cat),
+              data: dedupe(gSec.data),
+              source: 'gaana',
+            });
           }
-        });
-        playlistSection.data = dedupe(playlistSection.data);
-        playlistSection.source = 'unified';
-      } else {
-        const gaanaPlaylists = gaanaResults.find(
-          (gSec: any) => gSec && ['Playlists', 'Mix'].includes(gSec.heading),
-        );
-        if (gaanaPlaylists) {
-          saavnResults.push({ ...gaanaPlaylists, data: dedupe(gaanaPlaylists.data) });
         }
-      }
+      });
+
+      // Final dedupe of all sections
+      saavnResults = sResults.map((s: any) => ({ ...s, data: dedupe(s.data) }));
     } else if (type === 'playlists' && (saavnResults as any).list) {
       const playlistList = dedupe((saavnResults as any).list);
       gaanaResults.forEach((gSec: any) => {
@@ -252,10 +294,10 @@ export const unifiedSearchController = async (req: FastifyRequest, res: FastifyR
         (gSec: any) =>
           gSec &&
           gSec.heading &&
-          gSec.heading.toLowerCase().includes(type.toString().toLowerCase()),
+          normalizeHeading(gSec.heading) === normalizeHeading(type.toString()),
       );
       if (matchingGaana) {
-        const combined = [...(saavnResults as any).list, ...dedupe(matchingGaana.data)];
+        const combined = [...((saavnResults as any).list || []), ...dedupe(matchingGaana.data)];
         (saavnResults as any).list = dedupe(combined);
         (saavnResults as any).source = 'unified';
       }
