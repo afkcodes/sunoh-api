@@ -149,3 +149,23 @@ export const isValidTitle = (title: string): boolean => {
 
   return true;
 };
+export const detectLanguage = (query: string): string | undefined => {
+  if (!query) return undefined;
+  const languages = [
+    'hindi',
+    'punjabi',
+    'tamil',
+    'telugu',
+    'marathi',
+    'gujarati',
+    'bengali',
+    'kannada',
+    'malayalam',
+    'bhojpuri',
+    'rajasthani',
+    'urdu',
+    'haryanvi',
+  ];
+  const lowerQuery = query.toLowerCase();
+  return languages.find((lang) => lowerQuery.includes(lang));
+};

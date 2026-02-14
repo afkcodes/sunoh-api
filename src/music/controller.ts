@@ -5,7 +5,7 @@ import {
   getGaanaSearchData,
   getGaanaTrendingSearchData,
 } from '../gaana/controller';
-import { capitalizeFirstLetter, isValidTitle } from '../helpers/common';
+import { capitalizeFirstLetter, detectLanguage, isValidTitle } from '../helpers/common';
 import { cache } from '../redis';
 import {
   getSaavnHomeData,
@@ -23,7 +23,10 @@ export const unifiedArtistRadioController = async (req: FastifyRequest, res: Fas
   const { artistId } = req.params as any;
   const { q, query, lang } = req.query as any;
   const searchQuery = q || query;
-  const languages = lang || (req.query as any).languages;
+  let languages = lang || (req.query as any).languages || detectLanguage(searchQuery);
+
+  // Default languages if none detected or provided
+  if (!languages) languages = 'hindi,english';
 
   try {
     let targetArtistId = artistId;
