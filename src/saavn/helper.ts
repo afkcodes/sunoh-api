@@ -135,7 +135,7 @@ export const recommendedAlbumDataMapper = (data: any[]) => {
   return (data || []).map((item) => mapSaavnAlbum(item));
 };
 
-export const stationSongsMapper = async (data: any) => {
+export const stationSongsMapper = (data: any) => {
   const songsArr = [];
   for (const item in data) {
     if (data?.[item]?.['song']) {
@@ -252,7 +252,7 @@ export const songsDetailsMapper = (data: any) => {
   const sections = [];
   if (data.modules) {
     for (const key in data.modules) {
-      const temp: any = {};
+      const temp: any = { module_id: key };
       for (const k in saavnDataConfigs.songDetails) {
         temp[k] = dataExtractor(data.modules[key], saavnDataConfigs.songDetails[k]);
       }

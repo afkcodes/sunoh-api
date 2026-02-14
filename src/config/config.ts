@@ -49,6 +49,7 @@ export const config = {
       radio: {
         featured: 'webradio.createFeaturedStation',
         artist: 'webradio.createArtistStation',
+        create: 'webradio.createStation',
         entity: 'webradio.createEntityStation',
         songs: 'webradio.getSong',
       },

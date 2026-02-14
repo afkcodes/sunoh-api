@@ -1,13 +1,170 @@
 import { FastifyReply, FastifyRequest } from 'fastify';
 import {
+  radioStationsController as gaanaRadioStationsController,
   getGaanaHomeData,
   getGaanaSearchData,
   getGaanaTrendingSearchData,
 } from '../gaana/controller';
 import { capitalizeFirstLetter, isValidTitle } from '../helpers/common';
 import { cache } from '../redis';
-import { getSaavnHomeData, getSaavnSearchData, getSaavnTopSearchData } from '../saavn/controller';
+import {
+  getSaavnHomeData,
+  getSaavnSearchData,
+  getSaavnSongRecommendData,
+  getSaavnTopSearchData,
+  artistStationController as saavnArtistStationController,
+  featuredStationsController as saavnFeaturedStationsController,
+  stationSongsController as saavnStationSongsController,
+} from '../saavn/controller';
 import { sendError, sendSuccess } from '../utils/response';
+
+export const unifiedArtistRadioController = async (req: FastifyRequest, res: FastifyReply) => {
+  const { artistId } = req.params as any;
+  const { q, query, lang } = req.query as any;
+  const searchQuery = q || query;
+  const languages = lang || (req.query as any).languages;
+
+  try {
+    let targetArtistId = artistId;
+    let artistName = searchQuery;
+
+    // If no artistId but search query is provided, find the best match on Saavn
+    if (!targetArtistId && searchQuery) {
+      const searchResults = await getSaavnSearchData(searchQuery, 'artists', 1, 1, languages);
+      if (
+        searchResults &&
+        !Array.isArray(searchResults) &&
+        searchResults.list &&
+        searchResults.list.length > 0
+      ) {
+        targetArtistId = searchResults.list[0].id;
+        artistName = searchResults.list[0].title || searchResults.list[0].name;
+      }
+    }
+
+    if (!targetArtistId) {
+      return sendError(res, 'Could not identify an artist for radio');
+    }
+
+    // Use Saavn to create artist station
+    const mockRes = {
+      code: () => ({
+        send: (data: any) => data,
+      }),
+    } as any;
+
+    const mockReq = {
+      query: { artistId: targetArtistId, name: artistName, lang: languages },
+    } as any;
+
+    const stationRes = (await saavnArtistStationController(mockReq, mockRes)) as any;
+
+    if (stationRes && stationRes.status === 'success' && stationRes.data?.stationid) {
+      const stationId = stationRes.data.stationid;
+
+      // Fetch the first batch of songs immediately
+      const songsReq = {
+        query: { stationId, count: 20, lang: languages },
+      } as any;
+      const songsRes = (await saavnStationSongsController(songsReq, mockRes)) as any;
+
+      return sendSuccess(
+        res,
+        {
+          stationId,
+          list: songsRes.status === 'success' ? songsRes.data.list : [],
+        },
+        'Artist radio fetched successfully',
+        'unified',
+      );
+    }
+
+    return sendError(res, 'Failed to create artist radio');
+  } catch (error: any) {
+    return sendError(res, error.message || 'Failed to fetch artist radio', error);
+  }
+};
+
+export const unifiedRadioController = async (req: FastifyRequest, res: FastifyReply) => {
+  const { lang } = req.query as any;
+  const languages = lang || (req.query as any).languages;
+
+  try {
+    // Create mock objects to call controllers
+    const mockRes = (source: string) =>
+      ({
+        code: () => ({
+          send: (data: any) => data,
+        }),
+      }) as any;
+
+    const [saavnRes, gaanaRes] = await Promise.allSettled([
+      saavnFeaturedStationsController(req as any, mockRes('saavn')),
+      gaanaRadioStationsController(req as any, mockRes('gaana')),
+    ]);
+
+    let saavnStations =
+      saavnRes.status === 'fulfilled' && (saavnRes.value as any).status === 'success'
+        ? (saavnRes.value as any).data
+        : [];
+
+    let gaanaStationsRaw =
+      gaanaRes.status === 'fulfilled' && (gaanaRes.value as any).status === 'success'
+        ? (gaanaRes.value as any).data
+        : [];
+
+    // Flatten Gaana sections into a single list of radio stations
+    const gaanaStations = gaanaStationsRaw.reduce((acc: any[], section: any) => {
+      if (section.data) acc.push(...section.data);
+      return acc;
+    }, []);
+
+    const finalData = [];
+    const maxLen = Math.max(saavnStations.length, gaanaStations.length);
+    for (let i = 0; i < maxLen; i++) {
+      if (saavnStations[i]) finalData.push({ ...saavnStations[i], source: 'saavn' });
+      if (gaanaStations[i]) finalData.push({ ...gaanaStations[i], source: 'gaana' });
+    }
+
+    return sendSuccess(res, finalData, 'Radio stations fetched successfully', 'unified');
+  } catch (error: any) {
+    return sendError(res, error.message || 'Failed to fetch unified radio stations', error);
+  }
+};
+
+export const unifiedSongRecommendController = async (req: FastifyRequest, res: FastifyReply) => {
+  const { songId } = req.params as any;
+  const { q, query, lang } = req.query as any;
+  const searchQuery = q || query;
+  const languages = lang || (req.query as any).languages;
+
+  try {
+    let targetSongId = songId;
+
+    // If no songId but search query is provided, find the best match on Saavn
+    if (!targetSongId && searchQuery) {
+      const searchResults = await getSaavnSearchData(searchQuery, 'songs', 1, 1, languages);
+      if (
+        searchResults &&
+        !Array.isArray(searchResults) &&
+        searchResults.list &&
+        searchResults.list.length > 0
+      ) {
+        targetSongId = searchResults.list[0].id;
+      }
+    }
+
+    if (!targetSongId) {
+      return sendError(res, 'Could not identify a song for recommendations');
+    }
+
+    const data = await getSaavnSongRecommendData(targetSongId, languages);
+
+    return sendSuccess(res, data, 'Recommendations fetched successfully', 'unified');
+  } catch (error: any) {
+    return sendError(res, error.message || 'Failed to fetch recommendations', error);
+  }
+};
 
 export const unifiedHomeController = async (req: FastifyRequest, res: FastifyReply) => {
   const { lang } = req.query as any;

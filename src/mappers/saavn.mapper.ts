@@ -1,4 +1,4 @@
-import { createDownloadLinks, getToken } from '../helpers/common';
+import { createDownloadLinks, getToken, isValidTitle } from '../helpers/common';
 import { saavnDataConfigs } from '../helpers/dataConfig';
 import { dataExtractor } from '../helpers/dataExtractor';
 import { isArray } from '../helpers/validators';
@@ -34,7 +34,7 @@ export const mapSaavnSong = (data: any): Song => {
 
   return {
     id: token || song.id,
-    title: song.title,
+    title: isValidTitle(song.title) ? song.title : song.song || song.name || 'Unknown Song',
     subtitle: song.subtitle,
     type: 'song',
     image: createImageLinks(dataExtractor(data, saavnDataConfigs.list.images)),
@@ -52,9 +52,10 @@ export const mapSaavnSong = (data: any): Song => {
       url: artist.perma_url,
     })),
     album: {
-      id: getToken(song.album_url || '') || song.albumId,
-      name: song.album,
-      url: song.album_url || song.token,
+      id:
+        (song.albumUrl?.includes('/album/') ? getToken(song.albumUrl) : null) || song.albumId || '',
+      name: isValidTitle(song.album) ? song.album : '',
+      url: song.albumUrl?.includes('/album/') ? song.albumUrl : '',
     },
     hasLyrics: song.hasLyrics === 'true',
     copyright: song.copyright,
