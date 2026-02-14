@@ -34,13 +34,21 @@ export const dataSanitizer = (data: any): Song | Album | Playlist | Artist | any
   }
 
   // Fallback for other types or generic mapping
+  const idRaw = dataExtractor<string>(data, saavnDataConfigs.home.id) || '';
+  const stationType = dataExtractor<string>(data, saavnDataConfigs.home.moreInfo.stationType);
+  const query = data.more_info?.query || '';
+
+  // For artist stations, the ID is often the artist name/query if the actual station ID isn't created yet
+  const id = idRaw === '' && stationType === 'artist' ? query : idRaw;
+
   return {
-    id: dataExtractor<string>(data, saavnDataConfigs.home.id) || '',
+    id,
     title: dataExtractor<string>(data, saavnDataConfigs.home.title) || '',
     subtitle: dataExtractor<string>(data, saavnDataConfigs.home.subtitle),
     type: type || 'unknown',
     image: createImageLinks(dataExtractor<string>(data, saavnDataConfigs.home.images) || ''),
     source: 'saavn',
+    stationType, // useful for frontend to know if it's an artist radio
   };
 };
 

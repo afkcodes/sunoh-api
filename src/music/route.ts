@@ -132,12 +132,21 @@ export const musicRoutes = async (fastify: FastifyInstance) => {
     const { radioId } = req.params as any;
     if (provider === 'gaana') return gaanaRadioDetailController(req as any, reply);
     if (provider === 'saavn') {
-      // Repackage params for Saavn controller which expects stationId in query
+      // If it's a real station ID (contains patterns like ~^~), fetch songs
+      if (radioId.includes('~^~') || radioId.includes('%')) {
+        const saavnReq = {
+          ...(req as any),
+          query: { ...(req.query as any), stationId: radioId },
+        };
+        return saavnStationSongsController(saavnReq as any, reply);
+      }
+
+      // Otherwise, assume it's an artist name/query from a featured station
       const saavnReq = {
         ...(req as any),
-        query: { ...(req.query as any), stationId: radioId },
+        query: { ...(req.query as any), q: radioId },
       };
-      return saavnStationSongsController(saavnReq as any, reply);
+      return unifiedArtistRadioController(saavnReq as any, reply);
     }
     reply.status(400).send({ error: 'Please specify a provider (gaana or saavn)' });
   });

@@ -2,12 +2,14 @@ import { FastifyReply, FastifyRequest } from 'fastify';
 import { config } from '../config/config';
 import { isValidArray } from '../helpers/common';
 import { fetchGet } from '../helpers/http';
+import { isArray } from '../helpers/validators';
 import { cache } from '../redis';
 import { ApiResponse, sendError, sendSuccess } from '../utils/response';
 import {
   albumDataMapper,
   artistDataMapper,
   autoCompleteDataMapper,
+  dataSanitizer,
   homeDataMapper,
   modulesDataMapper,
   playlistDataMapper,
@@ -422,7 +424,8 @@ const featuredStationsController = async (req: SaavnRequest, res: FastifyReply) 
     return sendError(res, message || 'Failed to fetch featured stations', error, code);
   }
 
-  return sendSuccess(res, data, message, 'saavn', code);
+  const sanitizedData = isArray(data) ? data.map(dataSanitizer) : data;
+  return sendSuccess(res, sanitizedData, message, 'saavn', code);
 };
 
 const stationSongsController = async (req: SaavnRequest, res: FastifyReply) => {
