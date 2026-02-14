@@ -14,6 +14,7 @@ import {
   getSaavnTopSearchData,
   artistStationController as saavnArtistStationController,
   featuredStationsController as saavnFeaturedStationsController,
+  stationController as saavnStationController,
   stationSongsController as saavnStationSongsController,
 } from '../saavn/controller';
 import { sendError, sendSuccess } from '../utils/response';
@@ -30,6 +31,43 @@ export const unifiedArtistRadioController = async (req: FastifyRequest, res: Fas
 
     // If no artistId but search query is provided, find the best match on Saavn
     if (!targetArtistId && searchQuery) {
+      // 1. Try if it's a Featured Station (e.g. "Punjabi Covers")
+      const mockRes = {
+        code: () => ({
+          send: (data: any) => data,
+        }),
+      } as any;
+
+      const featuredReq = {
+        query: { name: searchQuery, lang: languages },
+      } as any;
+
+      const featuredRes = (await saavnStationController(featuredReq, mockRes)) as any;
+
+      if (featuredRes && featuredRes.status === 'success' && featuredRes.data?.stationid) {
+        const stationId = featuredRes.data.stationid;
+        const songsReq = {
+          query: { stationId, count: 20, lang: languages },
+        } as any;
+        const songsRes = (await saavnStationSongsController(songsReq, mockRes)) as any;
+
+        if (songsRes.status === 'success' && songsRes.data?.list?.length > 0) {
+          return sendSuccess(
+            res,
+            {
+              stationId,
+              list: songsRes.data.list,
+            },
+            'Radio tracks fetched successfully',
+            'unified',
+          );
+        }
+        console.log(
+          `⚠️ Featured station "${searchQuery}" found but returned 0 songs. Falling back to artist search.`,
+        );
+      }
+
+      // 2. If not a featured station, find the best Artist match
       const searchResults = await getSaavnSearchData(searchQuery, 'artists', 1, 1, languages);
       if (
         searchResults &&
