@@ -40,7 +40,7 @@ export const unifiedArtistRadioController = async (req: FastifyRequest, res: Fas
       const stationIdentifier = artistId || searchQuery;
       // 1. Try treating artistId as a direct Station ID
       const songsReq = {
-        query: { stationId: stationIdentifier, count: 20, lang: languages },
+        query: { stationId: stationIdentifier, count: 20, lang: languages, ...(req.query as any) },
       } as any;
       const songsRes = (await saavnStationSongsController(songsReq, mockRes)) as any;
 
