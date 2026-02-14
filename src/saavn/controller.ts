@@ -356,6 +356,10 @@ const stationController = async (req: SaavnRequest, res: FastifyReply) => {
       __call: config.saavn.endpoint.radio.featured,
       language: languages,
       name: name,
+      pid: '',
+      query: '',
+      mode: '',
+      artistid: '',
       includeMetaTags: 0,
       ...params,
     },
@@ -401,6 +405,7 @@ const entityStationController = async (req: SaavnRequest, res: FastifyReply) => 
       entity_type: entityType,
       pid: entityType === 'song' ? entityId : undefined,
       ...params,
+      ctx: entityType === 'song' ? 'android' : params.ctx,
     },
     lang: languages,
   });
@@ -415,7 +420,6 @@ const featuredStationsController = async (req: SaavnRequest, res: FastifyReply) 
     params: {
       __call: config.saavn.endpoint.get.featured_stations,
       ...params,
-      ctx: 'android',
     },
     lang: languages,
   });
@@ -439,7 +443,6 @@ const stationSongsController = async (req: SaavnRequest, res: FastifyReply) => {
       next: next,
       k: count || 20,
       ...params,
-      ctx: 'android',
     },
     lang: languages,
   });
