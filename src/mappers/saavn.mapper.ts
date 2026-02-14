@@ -141,6 +141,7 @@ export const mapSaavnChannel = (data: any): Channel => {
     type: 'channel',
     image: createImageLinks(dataExtractor(data, saavnDataConfigs.home.images)),
     language: dataExtractor(data, saavnDataConfigs.home.moreInfo.language),
+    stationType: dataExtractor(data, saavnDataConfigs.home.moreInfo.stationType),
     source: 'saavn',
     url: url,
   };

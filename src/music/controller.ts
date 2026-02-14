@@ -37,9 +37,10 @@ export const unifiedArtistRadioController = async (req: FastifyRequest, res: Fas
 
     // Explicit Type Handling
     if (type === 'featured') {
+      const stationIdentifier = artistId || searchQuery;
       // 1. Try treating artistId as a direct Station ID
       const songsReq = {
-        query: { stationId: artistId, count: 20, lang: languages },
+        query: { stationId: stationIdentifier, count: 20, lang: languages },
       } as any;
       const songsRes = (await saavnStationSongsController(songsReq, mockRes)) as any;
 
@@ -47,7 +48,7 @@ export const unifiedArtistRadioController = async (req: FastifyRequest, res: Fas
         return sendSuccess(
           res,
           {
-            stationId: artistId,
+            stationId: stationIdentifier,
             list: songsRes.data.list,
           },
           'Featured radio fetched successfully',
@@ -58,7 +59,7 @@ export const unifiedArtistRadioController = async (req: FastifyRequest, res: Fas
       // 2. If valid songs not found, try creating a featured station by name
       // (This handles cases where ID is just the name like "Punjabi Retro")
       const featuredReq = {
-        query: { name: artistId, lang: languages },
+        query: { name: stationIdentifier, lang: languages },
       } as any;
 
       const featuredRes = (await saavnStationController(featuredReq, mockRes)) as any;

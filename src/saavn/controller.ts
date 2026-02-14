@@ -354,7 +354,7 @@ const stationController = async (req: SaavnRequest, res: FastifyReply) => {
   const { data, code, error, message } = await saavnFetch<any>(url, {
     params: {
       __call: config.saavn.endpoint.radio.featured,
-      language: languages,
+      language: language || languages,
       name: name,
       pid: '',
       query: '',
