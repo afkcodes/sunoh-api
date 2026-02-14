@@ -21,7 +21,7 @@ import { sendError, sendSuccess } from '../utils/response';
 
 export const unifiedArtistRadioController = async (req: FastifyRequest, res: FastifyReply) => {
   const { artistId } = req.params as any;
-  const { q, query, lang } = req.query as any;
+  const { q, query, lang, type } = req.query as any;
   const searchQuery = q || query;
   let languages = lang || (req.query as any).languages || detectLanguage(searchQuery);
 
@@ -29,18 +29,39 @@ export const unifiedArtistRadioController = async (req: FastifyRequest, res: Fas
   if (!languages) languages = 'hindi,english';
 
   try {
+    const mockRes = {
+      code: () => ({
+        send: (data: any) => data,
+      }),
+    } as any;
+
+    // Explicit Type Handling
+    if (type === 'featured') {
+      // For featured stations, artistId is treated as stationId
+      const songsReq = {
+        query: { stationId: artistId, count: 20, lang: languages },
+      } as any;
+      const songsRes = (await saavnStationSongsController(songsReq, mockRes)) as any;
+
+      if (songsRes.status === 'success') {
+        return sendSuccess(
+          res,
+          {
+            stationId: artistId,
+            list: songsRes.data.list,
+          },
+          'Featured radio fetched successfully',
+          'unified',
+        );
+      }
+    }
+
     let targetArtistId = artistId;
     let artistName = searchQuery;
 
-    // If no artistId but search query is provided, find the best match on Saavn
+    // If no artistId (or type mismatch) but search query is provided, find the best match on Saavn
     if (!targetArtistId && searchQuery) {
       // 1. Try if it's a Featured Station (e.g. "Punjabi Covers")
-      const mockRes = {
-        code: () => ({
-          send: (data: any) => data,
-        }),
-      } as any;
-
       const featuredReq = {
         query: { name: searchQuery, lang: languages },
       } as any;
@@ -88,12 +109,6 @@ export const unifiedArtistRadioController = async (req: FastifyRequest, res: Fas
     }
 
     // Use Saavn to create artist station
-    const mockRes = {
-      code: () => ({
-        send: (data: any) => data,
-      }),
-    } as any;
-
     const mockReq = {
       query: { artistId: targetArtistId, name: artistName, lang: languages },
     } as any;

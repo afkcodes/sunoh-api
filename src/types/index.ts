@@ -83,6 +83,7 @@ export interface Channel {
   subtitle?: string;
   type: 'channel';
   image: Images;
+  language?: string;
   source: string;
   url?: string;
 }
@@ -93,6 +94,7 @@ export interface Occasion {
   subtitle?: string;
   type: 'occasion';
   image: Images;
+  language?: string;
   source: string;
   url?: string;
 }
