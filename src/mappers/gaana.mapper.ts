@@ -240,6 +240,8 @@ export const mapGaanaRadio = (data: any): Channel => {
     subtitle: data.language,
     type: 'channel',
     image: getGaanaImagery(data),
+    language: data.language,
+    stationType: 'radio_station',
     source: 'gaana',
     url: data.seokey,
   };

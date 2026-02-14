@@ -28,8 +28,6 @@ export const unifiedArtistRadioController = async (req: FastifyRequest, res: Fas
   // Default languages if none detected or provided
   if (!languages) languages = 'hindi,english';
 
-  console.log(`[DEBUG] Unified Radio. ArtistId: ${artistId}, Type: ${type}, Lang: ${languages}`);
-
   try {
     const mockRes = {
       code: () => ({
@@ -40,10 +38,9 @@ export const unifiedArtistRadioController = async (req: FastifyRequest, res: Fas
     // Explicit Type Handling
     if (type === 'featured') {
       const stationIdentifier = artistId || searchQuery;
-      console.log(`[DEBUG] Handling as FEATURED station: ${stationIdentifier}`);
       // 1. Try treating artistId as a direct Station ID
       const songsReq = {
-        query: { stationId: stationIdentifier, count: 20, lang: languages },
+        query: { stationId: stationIdentifier, count: 20, lang: languages, ...(req.query as any) },
       } as any;
       const songsRes = (await saavnStationSongsController(songsReq, mockRes)) as any;
 

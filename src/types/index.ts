@@ -84,6 +84,7 @@ export interface Channel {
   type: 'channel';
   image: Images;
   language?: string;
+  stationType?: string;
   source: string;
   url?: string;
 }
