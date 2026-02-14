@@ -41,12 +41,15 @@ export const dataSanitizer = (data: any): Song | Album | Playlist | Artist | any
   // For artist stations, the ID is often the artist name/query if the actual station ID isn't created yet
   const id = idRaw === '' && stationType === 'artist' ? query : idRaw;
 
+  const language = dataExtractor<string>(data, saavnDataConfigs.home.moreInfo.language);
+
   return {
     id,
     title: dataExtractor<string>(data, saavnDataConfigs.home.title) || '',
     subtitle: dataExtractor<string>(data, saavnDataConfigs.home.subtitle),
     type: type || 'unknown',
     image: createImageLinks(dataExtractor<string>(data, saavnDataConfigs.home.images) || ''),
+    language,
     source: 'saavn',
     stationType, // useful for frontend to know if it's an artist radio
   };
@@ -146,8 +149,12 @@ export const recommendedAlbumDataMapper = (data: any[]) => {
 export const stationSongsMapper = (data: any) => {
   const songsArr = [];
   for (const item in data) {
+    if (item === 'stationid' || item === 'error') continue;
+
     if (data?.[item]?.['song']) {
       songsArr.push(data?.[item]?.['song']);
+    } else if (data?.[item]?.['id']) {
+      songsArr.push(data?.[item]);
     }
   }
 
