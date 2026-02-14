@@ -10,6 +10,7 @@ import {
   occasionItemsController as gaanaOccasionItemsController,
   playlistController as gaanaPlaylistController,
   radioDetailController as gaanaRadioDetailController,
+  radioStationsController as gaanaRadioStationsController,
   searchController as gaanaSearchController,
   songController as gaanaSongController,
   songStreamController as gaanaSongStreamController,
@@ -18,14 +19,21 @@ import {
   albumController as saavnAlbumController,
   albumRecommendationController as saavnAlbumRecommendationController,
   artistController as saavnArtistController,
+  featuredStationsController as saavnFeaturedStationsController,
   homeController as saavnHomeController,
   playlistController as saavnPlaylistController,
   searchController as saavnSearchController,
   songController as saavnSongController,
-  recommendedSongsController as saavnSongRecommendController,
+  stationSongsController as saavnStationSongsController,
 } from '../saavn/controller';
 import { playlistController as spotifyPlaylistController } from '../spotify/controller';
-import { unifiedHomeController, unifiedSearchController } from './controller';
+import {
+  unifiedArtistRadioController,
+  unifiedHomeController,
+  unifiedRadioController,
+  unifiedSearchController,
+  unifiedSongRecommendController,
+} from './controller';
 import { getLanguages } from './languages';
 
 export const musicRoutes = async (fastify: FastifyInstance) => {
@@ -68,7 +76,11 @@ export const musicRoutes = async (fastify: FastifyInstance) => {
         .status(400)
         .send({ error: 'Song recommendations are only supported for Saavn provider currently' });
     }
-    return saavnSongRecommendController(req as any, reply);
+    return unifiedSongRecommendController(req as any, reply);
+  });
+
+  fastify.get('/recommend', (req, reply) => {
+    return unifiedSongRecommendController(req as any, reply);
   });
   fastify.get('/song/:songId/stream', (req, reply) => {
     const { provider } = req.query as any;
@@ -99,13 +111,35 @@ export const musicRoutes = async (fastify: FastifyInstance) => {
       .send({ error: 'Collections are only supported for Gaana provider currently' });
   });
 
-  // Radio (Gaana specific for now)
+  // Radio
+  fastify.get('/radio', (req, reply) => {
+    const { provider } = req.query as any;
+    if (provider === 'gaana') return gaanaRadioStationsController(req as any, reply);
+    if (provider === 'saavn') return saavnFeaturedStationsController(req as any, reply);
+    return unifiedRadioController(req as any, reply);
+  });
+
+  fastify.get('/artist/:artistId/radio', (req, reply) => {
+    return unifiedArtistRadioController(req as any, reply);
+  });
+
+  fastify.get('/artist/radio', (req, reply) => {
+    return unifiedArtistRadioController(req as any, reply);
+  });
+
   fastify.get('/radio/:radioId', (req, reply) => {
     const { provider } = req.query as any;
+    const { radioId } = req.params as any;
     if (provider === 'gaana') return gaanaRadioDetailController(req as any, reply);
-    reply
-      .status(400)
-      .send({ error: 'Radio details are only supported for Gaana provider currently' });
+    if (provider === 'saavn') {
+      // Repackage params for Saavn controller which expects stationId in query
+      const saavnReq = {
+        ...(req as any),
+        query: { ...(req.query as any), stationId: radioId },
+      };
+      return saavnStationSongsController(saavnReq as any, reply);
+    }
+    reply.status(400).send({ error: 'Please specify a provider (gaana or saavn)' });
   });
 
   // Album List

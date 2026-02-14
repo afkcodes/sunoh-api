@@ -73,6 +73,7 @@ const saavnDataConfigs = {
     music: 'more_info.music',
     album: 'more_info.album',
     albumId: 'more_info.album_id',
+    albumUrl: 'more_info.album_url',
     label: 'more_info.label',
     mediaUrls: 'more_info.encrypted_media_url',
     duration: 'more_info.duration',

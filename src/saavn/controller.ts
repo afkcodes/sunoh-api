@@ -29,6 +29,7 @@ type SaavnRequest = FastifyRequest<{
     stationId: string;
     q: string;
     type: string;
+    next: string;
   };
   Params: {
     albumId: string;
@@ -365,18 +366,77 @@ const stationController = async (req: SaavnRequest, res: FastifyReply) => {
 
   return sendSuccess(res, data, message, 'saavn', code);
 };
+const artistStationController = async (req: SaavnRequest, res: FastifyReply) => {
+  const { artistId, name } = req.query as any;
+  const languages = req.query.lang || req.query.languages;
+  const url = `${config.saavn.baseUrl}`;
+  const { data, code, error, message } = await saavnFetch<any>(url, {
+    params: {
+      __call: config.saavn.endpoint.radio.artist,
+      artistid: artistId,
+      name: name,
+      query: name,
+      ...params,
+    },
+    lang: languages,
+  });
+
+  if (error) return sendError(res, message || 'Failed to create artist station', error, code);
+  return sendSuccess(res, data, message, 'saavn', code);
+};
+
+const entityStationController = async (req: SaavnRequest, res: FastifyReply) => {
+  const { entityId, entityType = 'song' } = req.query as any;
+  const languages = req.query.lang || req.query.languages;
+  const url = `${config.saavn.baseUrl}`;
+  const { data, code, error, message } = await saavnFetch<any>(url, {
+    params: {
+      __call:
+        entityType === 'song'
+          ? config.saavn.endpoint.radio.create
+          : config.saavn.endpoint.radio.entity,
+      entity_id: entityId,
+      entity_type: entityType,
+      pid: entityType === 'song' ? entityId : undefined,
+      ...params,
+    },
+    lang: languages,
+  });
+
+  if (error) return sendError(res, message || 'Failed to create entity station', error, code);
+  return sendSuccess(res, data, message, 'saavn', code);
+};
+const featuredStationsController = async (req: SaavnRequest, res: FastifyReply) => {
+  const languages = req.query.lang || req.query.languages;
+  const url = `${config.saavn.baseUrl}`;
+  const { data, code, error, message } = await saavnFetch<any>(url, {
+    params: {
+      __call: config.saavn.endpoint.get.featured_stations,
+      ...params,
+      ctx: 'android',
+    },
+    lang: languages,
+  });
+
+  if (error) {
+    return sendError(res, message || 'Failed to fetch featured stations', error, code);
+  }
+
+  return sendSuccess(res, data, message, 'saavn', code);
+};
 
 const stationSongsController = async (req: SaavnRequest, res: FastifyReply) => {
-  const { stationId, count } = req.query;
+  const { stationId, count, next = '1' } = req.query;
   const languages = req.query.lang || req.query.languages;
   const url = `${config.saavn.baseUrl}`;
   const { data, code, error, message } = await saavnFetch<any>(url, {
     params: {
       __call: config.saavn.endpoint.radio.songs,
       stationid: stationId,
-      next: 1,
-      k: count,
+      next: next,
+      k: count || 20,
       ...params,
+      ctx: 'android',
     },
     lang: languages,
   });
@@ -385,7 +445,7 @@ const stationSongsController = async (req: SaavnRequest, res: FastifyReply) => {
     return sendError(res, message || 'Failed to fetch station songs', error, code);
   }
 
-  const sanitizedData = await stationSongsMapper(data);
+  const sanitizedData = stationSongsMapper(data);
   return sendSuccess(res, sanitizedData, message, 'saavn', code);
 };
 
@@ -569,7 +629,7 @@ const songController = async (req: SaavnRequest, res: FastifyReply) => {
         promise: saavnFetch<any>(url, {
           params: {
             __call: d.endpoint,
-            song_id: d.songIds,
+            song_id: d.songId,
             artist_ids: d.artistIds,
             type: d.type,
             language: d.language,
@@ -612,42 +672,37 @@ const songController = async (req: SaavnRequest, res: FastifyReply) => {
   }
 };
 
-const recommendedSongsController = async (req: SaavnRequest, res: FastifyReply) => {
-  try {
-    const { songId } = req.params;
-    const languages = req.query.lang || req.query.languages;
-    const key = `saavn_recommend_v2_${songId}_${languages || 'default'}`;
+export const getSaavnSongRecommendData = async (songId: string, languages?: string) => {
+  const url = `${config.saavn.baseUrl}`;
 
-    const cached = await cache.get(key);
-    if (cached) return sendSuccess(res, cached, 'OK (Cached)', 'saavn');
+  // 1. Fetch song details context
+  const { data, error, message } = await saavnFetch<any>(url, {
+    params: {
+      __call: config.saavn.endpoint.song.link,
+      token: songId,
+      type: 'song',
+      ...params,
+    },
+    lang: languages,
+  });
 
-    const url = `${config.saavn.baseUrl}`;
+  if (error || !data?.songs?.[0]) {
+    throw new Error(message || 'Failed to fetch song context');
+  }
 
-    // Fetch song details which already includes recommendation sections
-    const { data, code, message, error } = await saavnFetch<any>(url, {
-      params: {
-        __call: config.saavn.endpoint.song.link,
-        token: songId,
-        type: 'song',
-        ...params,
-      },
-      lang: languages,
-    });
+  const songIdNumeric = (data as any)?.songs[0]?.id;
+  const songData = songsDetailsMapper(data);
 
-    if (error || !data?.songs?.[0]) {
-      return sendError(res, message || 'Failed to fetch song context', error, code);
-    }
-
-    const songData = songsDetailsMapper(data);
-
-    // Fetch all recommendation sections in parallel
-    const promiseArr = (songData.sections || []).map((d: any) => {
+  // 2. Prepare parallel fetchers
+  const promiseArr: { title: string; promise: Promise<any> }[] = (songData.sections || [])
+    .filter((d: any) => !['currentlyTrending', 'topSearches'].includes(d.module_id))
+    .map((d: any) => {
       return {
         title: d.heading,
         promise: saavnFetch<any>(url, {
           params: {
             __call: d.endpoint,
-            song_id: d.songIds,
+            song_id: d.songId,
             artist_ids: d.artistIds,
             type: d.type,
             language: d.language,
@@ -660,25 +715,109 @@ const recommendedSongsController = async (req: SaavnRequest, res: FastifyReply) 
       };
     });
 
-    const results = await Promise.allSettled(promiseArr.map((item) => item.promise));
+  // 3. Add explicit Similar Songs call (deterministic but high quality)
+  promiseArr.push({
+    title: 'Similar Songs',
+    promise: saavnFetch<any>(url, {
+      params: {
+        __call: config.saavn.endpoint.song.recommended,
+        pid: songIdNumeric,
+        ...params,
+        ctx: 'android',
+      },
+      lang: languages,
+    }),
+  });
 
-    // Extract all songs from all sections and flatten
-    const recommendations: any[] = [];
-    results.forEach((result: any) => {
-      if (isValidArray(result.value?.data)) {
-        result.value.data.forEach((d: any) => {
-          if (d.type === 'song') {
-            const song = songDataSanitizer([d])[0];
-            if (song) recommendations.push(song);
-          }
-        });
-      }
+  // 4. Create and fetch from a Station for non-deterministic variety
+  try {
+    const { data: stationData } = await saavnFetch<any>(url, {
+      params: {
+        __call: config.saavn.endpoint.radio.create,
+        pid: songIdNumeric,
+        query: songData.songs[0]?.title || '',
+        ...params,
+        ctx: 'android',
+      },
+      lang: languages,
     });
 
-    await cache.set(key, recommendations, 10800);
-    return sendSuccess(res, recommendations, message || 'OK', 'saavn', code);
-  } catch (error) {
-    return sendError(res, 'Failed to fetch recommendations', error);
+    if (stationData?.stationid) {
+      promiseArr.push({
+        title: 'Station',
+        stationid: stationData.stationid,
+        promise: saavnFetch<any>(url, {
+          params: {
+            __call: config.saavn.endpoint.radio.songs,
+            stationid: stationData.stationid,
+            k: 25,
+            next: 1,
+            ...params,
+            ctx: 'android',
+          },
+          lang: languages,
+        }),
+      } as any);
+    }
+  } catch (e) {
+    // Radio station creation failed, continue without it
+  }
+
+  // 5. Execute all recommendation sources
+  const results = await Promise.allSettled(promiseArr.map((item) => item.promise));
+
+  // 6. Flatten and De-duplicate
+  const recommendationsMap = new Map<string, any>();
+  results.forEach((result) => {
+    if (result.status === 'fulfilled' && result.value?.data) {
+      const rawData = result.value.data;
+      let songs: any[] = [];
+
+      // Handle various response formats from Saavn
+      if (Array.isArray(rawData)) {
+        songs = rawData;
+      } else if (typeof rawData === 'object') {
+        for (const k in rawData) {
+          if (rawData[k]?.song) {
+            songs.push(rawData[k].song);
+          } else if (rawData[k]?.type === 'song') {
+            songs.push(rawData[k]);
+          } else if (Array.isArray(rawData[k])) {
+            songs.push(...rawData[k]);
+          }
+        }
+      }
+
+      songs.forEach((s) => {
+        if (s.type === 'song') {
+          const sanitized = songDataSanitizer([s])[0];
+          if (sanitized && sanitized.id !== songIdNumeric && sanitized.id !== songId) {
+            recommendationsMap.set(sanitized.id, sanitized);
+          }
+        }
+      });
+    }
+  });
+
+  const recommendations = Array.from(recommendationsMap.values());
+  const stationId = (promiseArr.find((p) => p.title === 'Station' && (p as any).stationid) as any)
+    ?.stationid;
+
+  return {
+    list: recommendations,
+    stationId,
+  };
+};
+
+const recommendedSongsController = async (req: SaavnRequest, res: FastifyReply) => {
+  try {
+    const { songId } = req.params;
+    const languages = req.query.lang || req.query.languages;
+
+    const data = await getSaavnSongRecommendData(songId, languages);
+    return sendSuccess(res, data, 'OK', 'saavn');
+  } catch (error: any) {
+    return sendError(res, error.message || 'Failed to fetch recommendations', error);
   }
 };
 
@@ -686,6 +825,9 @@ export {
   albumController,
   albumRecommendationController,
   artistController,
+  artistStationController,
+  entityStationController,
+  featuredStationsController,
   homeController,
   mixController,
   modulesController,

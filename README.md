@@ -14,6 +14,7 @@ Sunoh API is a modern, TypeScript-based middleware designed to bridge the gap be
 
 ### **Key Features**
 - 🌪️ **Unified Search & Home**: Intelligent result merging and interleaving from Saavn and Gaana.
+- 📻 **Universal Radio**: Coordinated radio stations across providers with infinite playback support.
 - ⚡ **Multi-Tier Caching**: Robust Redis-backed caching system with granular TTL policies.
 - 🎼 **Provider-Agnostic Interface**: One API for Songs, Albums, Playlists, and Artists regardless of the source.
 - 🎤 **LRC/Synced Lyrics**: High-quality sync lyrics integration via specialized providers.
@@ -41,6 +42,9 @@ The API implements a sophisticated merging algorithm that prioritizes data quali
 2. It deduplicates results based on internal IDs and normalized titles.
 3. It cleans "dirty" metadata (e.g., placeholder titles like "Untitled" or "None").
 4. It prioritizes the highest resolution imagery available (`atw` format).
+
+### **Universal Radio Stations**
+The API coordinates radio stations from Saavn and Gaana into a single stream. It supports creation of stations from artists or specific songs and provides a server-side cursor for endless music.
 
 ### **Data Homogenization**
 All source data is mapped to a strictly typed internal schema before returning. This means your frontend doesn't need to know if a song came from Saavn or Gaana; it always receives the exact same JSON structure.
@@ -88,9 +92,37 @@ Detailed endpoint specifications can be found in [api-endpoints.json](api-endpoi
 | :--- | :--- | :--- |
 | `/music/home` | `GET` | Unified home screen with interleaved charts and releases. |
 | `/music/search` | `GET` | Merged search results for songs, albums, and playlists. |
+| `/music/recommend` | `GET` | Get similar songs based on a search query (`q`). |
+| `/music/radio` | `GET` | Browse featured radio stations from all providers. |
+| `/music/artist/radio` | `GET` | Start an artist-based radio station via query (`q`). |
 | `/music/song/:id` | `GET` | Full song metadata and streaming URLs. |
 | `/music/occasions`| `GET` | Browse curated moods and genres (Gaana focused). |
 | `/lyrics/:name` | `GET` | Get LRC/Synced lyrics for a specific track. |
+
+---
+
+## 📻 Universal Radio & Recommendations
+
+The API provides a set of high-level endpoints to drive a "Discovery" experience.
+
+### **1. Smart Recommendations**
+Fetch a list of similar songs and a coordinated radio station using just a song name.
+- **Endpoint**: `GET /music/recommend?q=Song Name`
+- **Response**: Returns a `list` of songs and a `stationId`.
+
+### **2. Artist Radio**
+Start a personalized stream for any artist.
+- **Endpoint**: `GET /music/artist/radio?q=Artist Name`
+- **Response**: Returns a `stationId` and the first 20 tracks.
+
+### **3. Featured Radio**
+Browse curated stations from both Saavn and Gaana.
+- **Endpoint**: `GET /music/radio?lang=hindi`
+
+### **4. Infinite Playback (Radio Detail)**
+To keep the music going after the initial list ends, use the `stationId`:
+- **Endpoint**: `GET /music/radio/:id?provider=saavn`
+- **Next Batch**: Append `&next=1` to the request for the next set of unique tracks.
 
 ---
 

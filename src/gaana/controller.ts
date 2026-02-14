@@ -179,6 +179,29 @@ export const getGaanaHomeData = async (lang?: string) => {
   return populatedSections;
 };
 
+export const getGaanaRadioStations = async (lang?: string) => {
+  const { data, error, message } = await gaanaFetch<any>({ type: 'home' }, lang);
+  if (error) throw new Error(message || 'Failed to fetch Gaana home');
+
+  const sectionMetadata = gaanaHomeMapper(data);
+  const radioSections = sectionMetadata.filter((s: any) =>
+    s.heading?.toLowerCase().includes('radio'),
+  );
+
+  const populatedSections = await hydrateGaanaSections(radioSections, lang);
+  return populatedSections;
+};
+
+export const radioStationsController = async (req: FastifyRequest, res: FastifyReply) => {
+  const { lang } = req.query as any;
+  try {
+    const data = await getGaanaRadioStations(lang);
+    return sendSuccess(res, data, 'OK', 'gaana');
+  } catch (error: any) {
+    return sendError(res, error.message || 'Internal server error', error);
+  }
+};
+
 export const homeController = async (req: FastifyRequest, res: FastifyReply) => {
   const { lang } = req.query as any;
   try {
@@ -642,12 +665,8 @@ export const songStreamController = async (req: FastifyRequest, res: FastifyRepl
 export const radioDetailController = async (req: FastifyRequest, res: FastifyReply) => {
   const { radioId } = req.params as any;
   const { lang } = req.query as any;
-  const key = `gaana_radio_${radioId}_${lang || 'default'}`;
 
   try {
-    const cached = await cache.get(key);
-    if (cached) return sendSuccess(res, cached, 'OK (Cached)', 'gaana');
-
     const { data, error, message } = await gaanaFetch<any>(
       {
         id: radioId,
@@ -658,7 +677,6 @@ export const radioDetailController = async (req: FastifyRequest, res: FastifyRep
     if (error) return sendError(res, message || 'Failed to fetch radio detail', error);
 
     const songs = (data.tracks || []).map((t: any) => mapGaanaTrack(t));
-    await cache.set(key, songs, 10800);
     return sendSuccess(res, songs, 'OK', 'gaana');
   } catch (error) {
     return sendError(res, 'Internal server error', error);
