@@ -405,6 +405,7 @@ const entityStationController = async (req: SaavnRequest, res: FastifyReply) => 
       entity_type: entityType,
       pid: entityType === 'song' ? entityId : undefined,
       ...params,
+      ctx: entityType === 'song' ? 'android' : params.ctx,
     },
     lang: languages,
   });
