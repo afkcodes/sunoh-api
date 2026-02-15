@@ -21,6 +21,8 @@ export interface Artist {
 
 export interface Song {
   id: string;
+  songId?: string;
+  token?: string;
   title: string;
   subtitle?: string;
   type: 'song';

@@ -30,10 +30,13 @@ export const mapSaavnSong = (data: any): Song => {
     song[key] = val;
   }
 
-  const token = getToken(song.token || song.url || '');
+  const token = getToken(song.token || song.url || '') || '';
+  const id = token || song.id;
 
   return {
-    id: token || song.id,
+    id: id,
+    songId: song.id,
+    token,
     title: isValidTitle(song.title) ? song.title : song.song || song.name || 'Unknown Song',
     subtitle: song.subtitle,
     type: 'song',

@@ -68,7 +68,7 @@ const saavnFetch = async <T>(url: string, options: any = {}) => {
 
 export const getSaavnHomeData = async (languages?: string) => {
   const url = `${config.saavn.baseUrl}?__call=${config.saavn.endpoint.modules.home}`;
-  const key = `saavn_home_v2_${languages || 'default'}`;
+  const key = `saavn_home_v4_${languages || 'default'}`;
 
   const cacheData = await cache.get<ApiResponse<any>>(key);
   if (cacheData) {
@@ -433,7 +433,8 @@ const featuredStationsController = async (req: SaavnRequest, res: FastifyReply) 
 };
 
 const stationSongsController = async (req: SaavnRequest, res: FastifyReply) => {
-  const { stationId, count, next = '1' } = req.query;
+  const { count, k, next = '1' } = req.query as any;
+  const { stationId } = req.params as any;
   const languages = req.query.lang || req.query.languages;
   const url = `${config.saavn.baseUrl}`;
   const { data, code, error, message } = await saavnFetch<any>(url, {
@@ -441,8 +442,9 @@ const stationSongsController = async (req: SaavnRequest, res: FastifyReply) => {
       __call: config.saavn.endpoint.radio.songs,
       stationid: stationId,
       next: next,
-      k: count || 20,
+      k: count || k || 20,
       ...params,
+      ctx: 'android',
     },
     lang: languages,
   });
