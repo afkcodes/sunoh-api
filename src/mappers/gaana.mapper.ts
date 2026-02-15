@@ -238,7 +238,7 @@ export const mapGaanaRadio = (data: any): Channel => {
     id: data.entity_id || data.seokey,
     title: data.name,
     subtitle: data.language,
-    type: 'channel',
+    type: 'radio_station',
     image: getGaanaImagery(data),
     language: data.language,
     stationType: 'radio_station',

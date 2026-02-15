@@ -83,7 +83,7 @@ export interface Channel {
   id: string;
   title: string;
   subtitle?: string;
-  type: 'channel';
+  type: 'channel' | 'radio_station';
   image: Images;
   language?: string;
   stationType?: string;
