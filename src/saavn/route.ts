@@ -5,7 +5,6 @@ import {
   artistController,
   artistStationController,
   entityStationController,
-  featuredStationsController,
   homeController,
   mixController,
   modulesController,
@@ -29,14 +28,14 @@ const saavnRoutes = async (fastify: FastifyInstance) => {
   fastify.get('/artist/:artistId', artistController);
   fastify.get('/song/:songId', songController);
   fastify.get('/mix/:mixId', mixController);
-  fastify.get('/create_station', stationController);
-  fastify.get('/create_artist_station', artistStationController);
-  fastify.get('/create_entity_station', entityStationController);
-  fastify.get('/featured_stations', featuredStationsController);
-  fastify.get('/get_station_songs', stationSongsController);
+
   fastify.get('/top_search', topSearchController);
   fastify.get('/search', searchController);
   fastify.get('/recommended_songs/:songId', recommendedSongsController);
+  fastify.get('/station/create', entityStationController);
+  fastify.get('/station/create/artist', artistStationController);
+  fastify.get('/station/create/featured', stationController);
+  fastify.get('/station/:stationId', stationSongsController);
 };
 
 export { saavnRoutes };

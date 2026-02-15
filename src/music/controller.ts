@@ -19,6 +19,128 @@ import {
 } from '../saavn/controller';
 import { sendError, sendSuccess } from '../utils/response';
 
+export const unifiedRadioSessionController = async (req: FastifyRequest, res: FastifyReply) => {
+  const { id, type = 'song', provider, name, query } = req.query as any;
+  const languages = (req.query as any).lang || (req.query as any).languages || 'hindi,english';
+
+  try {
+    // 1. Gaana: No creation step needed, just return ID prefixed
+    if (provider === 'gaana') {
+      return sendSuccess(res, { stationId: `gaana_${id}` }, 'Radio session created', 'unified');
+    }
+
+    // 2. Saavn: Needs station creation
+    const mockRes = {
+      code: () => ({
+        send: (data: any) => data,
+      }),
+    } as any;
+
+    let stationId = '';
+
+    if (type === 'artist') {
+      // Create Artist Station
+      const mockReq = {
+        query: { artistId: id, name: name || query, lang: languages },
+      } as any;
+      const resp = (await saavnArtistStationController(mockReq, mockRes)) as any;
+      if (resp?.status === 'success') stationId = resp.data.stationid;
+    } else if (type === 'featured') {
+      // Create Featured Station
+      const mockReq = {
+        query: { name: name || query || id, lang: languages },
+      } as any;
+      const resp = (await saavnFeaturedStationsController(mockReq, mockRes)) as any;
+      if (resp?.status === 'success') stationId = resp.data.stationid;
+    } else {
+      // Create Entity Station (Song/Entity)
+      const mockReq = {
+        query: { entityId: id, entityType: type, lang: languages },
+      } as any;
+      // Using saavnStationController from import which maps to createEntityStation usually or we check imports
+      // In imports: stationController as saavnStationController.
+      // Wait, saavnStationController in controller.ts (line 350) is for FEATURED stations.
+      // We need entityStationController for songs.
+      // Let's check imports in music/controller.ts
+
+      const { entityStationController } = require('../saavn/controller');
+      const resp = (await entityStationController(mockReq, mockRes)) as any;
+      if (resp?.status === 'success') stationId = resp.data.stationid;
+    }
+
+    if (!stationId) {
+      return sendError(res, 'Failed to create Saavn station');
+    }
+
+    return sendSuccess(
+      res,
+      { stationId: `saavn_${stationId}` },
+      'Radio session created',
+      'unified',
+    );
+  } catch (error: any) {
+    return sendError(res, error.message || 'Failed to init radio session', error);
+  }
+};
+
+export const unifiedRadioPlayController = async (req: FastifyRequest, res: FastifyReply) => {
+  const { sessionId } = req.params as any;
+  const { k, count, next } = req.query as any;
+  const languages = (req.query as any).lang || (req.query as any).languages || 'hindi,english';
+
+  try {
+    const mockRes = {
+      code: () => ({
+        send: (data: any) => data,
+      }),
+    } as any;
+
+    // GAANA
+    if (sessionId.startsWith('gaana_')) {
+      const radioId = sessionId.replace('gaana_', '');
+      const mockReq = {
+        params: { radioId },
+        query: { lang: languages },
+      } as any;
+
+      const resp = (await gaanaRadioStationsController(mockReq, mockRes)) as any;
+      // gaanaRadioStationsController -> radioDetailController (imported as such?)
+      // In imports: radioStationsController as gaanaRadioStationsController
+      // Wait, gaana/controller.ts has:
+      // radioStationsController (fetches LIST of stations)
+      // radioDetailController (fetches SONGS of a station)
+      // I need radioDetailController.
+
+      const { radioDetailController } = require('../gaana/controller');
+      const detailResp = (await radioDetailController(mockReq, mockRes)) as any;
+
+      if (detailResp?.status === 'success') {
+        return sendSuccess(res, detailResp.data, 'Radio songs fetched', 'unified');
+      }
+      return sendError(res, 'Failed to fetch Gaana radio songs');
+    }
+
+    // SAAVN
+    if (sessionId.startsWith('saavn_')) {
+      const stationId = sessionId.replace('saavn_', '');
+      const mockReq = {
+        params: { stationId },
+        query: { count: count || k, next, lang: languages },
+      } as any;
+
+      const resp = (await saavnStationSongsController(mockReq, mockRes)) as any;
+      if (resp?.status === 'success') {
+        return sendSuccess(res, resp.data, 'Radio songs fetched', 'unified');
+      }
+      return sendError(res, 'Failed to fetch Saavn radio songs');
+    }
+
+    return sendError(res, 'Invalid session ID format');
+  } catch (error: any) {
+    return sendError(res, error.message || 'Failed to fetch radio songs', error);
+  }
+};
+
 export const unifiedArtistRadioController = async (req: FastifyRequest, res: FastifyReply) => {
   const { artistId } = req.params as any;
   const { q, query, lang, type } = req.query as any;

@@ -61,7 +61,7 @@ const saavnDataConfigs = {
     playlistSongCount: 'more_info.subtitle_desc.1',
   },
   list: {
-    id: 'id',
+    id: ['id'],
     title: 'title',
     subtitle: 'subtitle',
     images: 'image',

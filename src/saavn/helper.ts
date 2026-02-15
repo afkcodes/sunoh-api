@@ -52,6 +52,8 @@ export const dataSanitizer = (data: any): Song | Album | Playlist | Artist | any
     language,
     source: 'saavn',
     stationType, // useful for frontend to know if it's an artist radio
+    songId: idRaw,
+    token: dataExtractor<string>(data, saavnDataConfigs.home.token),
   };
 };
 

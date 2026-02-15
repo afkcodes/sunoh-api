@@ -6,6 +6,7 @@ import {
   collectionController,
   homeController,
   playlistController,
+  radioDetailController,
   searchController,
   songController,
   songStreamController,
@@ -21,4 +22,5 @@ export const gaanaRoutes = async (fastify: FastifyInstance) => {
   fastify.get('/collection/:seokey', collectionController);
   fastify.get('/album-list', albumListController);
   fastify.get('/artist/:artistId', artistController);
+  fastify.get('/radio/:radioId', radioDetailController);
 };
