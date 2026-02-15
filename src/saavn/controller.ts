@@ -63,6 +63,10 @@ const saavnFetch = async <T>(url: string, options: any = {}) => {
     cookie: `B=b7984e01db109802c47c5178fac7badc; CT=MjA2Mjg5ODMw; _pl=web6dot0-; DL=english; L=${encodeURIComponent(formattedLangs)}; geo=49.207.50.17%2CIN%2CKarnataka%2CBengaluru%2C562130; mm_latlong=12.9753%2C77.591; CH=G03%2CA07%2CO00%2CL03.; gdpr_acceptance=true`,
   };
 
+  if (!options.params) options.params = {};
+  if (!options.params.language) options.params.language = formattedLangs;
+  if (!options.params.languages) options.params.languages = formattedLangs;
+
   return fetchGet<T>(url, { ...options, headers });
 };
 
