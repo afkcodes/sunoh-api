@@ -50,7 +50,7 @@ export const unifiedRadioSessionController = async (req: FastifyRequest, res: Fa
       const mockReq = {
         query: { name: name || query || id, lang: languages },
       } as any;
-      const resp = (await saavnFeaturedStationsController(mockReq, mockRes)) as any;
+      const resp = (await saavnStationController(mockReq, mockRes)) as any;
       if (resp?.status === 'success') stationId = resp.data.stationid;
     } else {
       // Create Entity Station (Song/Entity)
