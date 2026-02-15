@@ -25,6 +25,8 @@ import {
 import { playlistController as spotifyPlaylistController } from '../spotify/controller';
 import {
   unifiedHomeController,
+  unifiedRadioPlayController,
+  unifiedRadioSessionController,
   unifiedSearchController,
   unifiedSongRecommendController,
 } from './controller';
@@ -143,6 +145,10 @@ export const musicRoutes = async (fastify: FastifyInstance) => {
     if (provider === 'gaana') return gaanaArtistController(req as any, reply);
     return saavnArtistController(req as any, reply);
   });
+
+  // Radio
+  fastify.get('/radio/session', unifiedRadioSessionController);
+  fastify.get('/radio/:sessionId', unifiedRadioPlayController);
 
   // Languages
   fastify.get('/languages', getLanguages);

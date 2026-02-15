@@ -115,14 +115,31 @@ Start a personalized stream for any artist.
 - **Endpoint**: `GET /music/artist/radio?q=Artist Name`
 - **Response**: Returns a `stationId` and the first 20 tracks.
 
-### **3. Featured Radio**
-Browse curated stations from both Saavn and Gaana.
-- **Endpoint**: `GET /music/radio?lang=hindi`
+### **4. Universal Radio Wrapper (Unified)**
+The API provides a seamless, provider-agnostic way to handle infinite radio playback.
 
-### **4. Infinite Playback (Radio Detail)**
-To keep the music going after the initial list ends, use the `stationId`:
-- **Endpoint**: `GET /music/radio/:id?provider=saavn`
-- **Next Batch**: Append `&next=1` to the request for the next set of unique tracks.
+**Step 1: Initialize Session**
+Call this when the user clicks "Start Radio" on an entity.
+- **Endpoint**: `GET /music/radio/session`
+- **Params**:
+  - `id`: Entity ID (Song/Artist ID)
+  - `type`: `song` | `artist` | `featured`
+  - `provider`: `saavn` | `gaana`
+  - `name`: (Optional) Name for Featured/Artist stations
+- **Response**: Returns a unified `stationId` (e.g., `saavn_PID123`, `gaana_12345`).
+
+**Step 2: Fetch Songs / Infinite Playback**
+Use the returned `stationId` to fetch songs. Supports pagination.
+- **Endpoint**: `GET /music/radio/:stationId`
+- **Params**:
+  - `k`: Number of songs (default 20)
+  - `next`: Page number (default 1)
+- **Response**: Returns a list of standardized `Song` objects ready for playback.
+
+### **Legacy Radio Endpoints (Optional)**
+Direct access to specific provider radio logic is still available via:
+- `/saavn/station/create`
+- `/gaana/radio/:id`
 
 ---
 
