@@ -354,10 +354,11 @@ const stationController = async (req: SaavnRequest, res: FastifyReply) => {
   const { data, code, error, message } = await saavnFetch<any>(url, {
     params: {
       __call: config.saavn.endpoint.radio.featured,
-      language: languages,
+      language:
+        languages && languages.toString().toLowerCase().includes('english') ? 'english' : languages,
       name: name || query,
       pid: '',
-      query: query || name || '',
+      query: query || '',
       mode: '',
       artistid: '',
       includeMetaTags: 0,
