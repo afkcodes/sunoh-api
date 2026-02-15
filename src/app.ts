@@ -1,4 +1,5 @@
 import { FastifyInstance, FastifyServerOptions } from 'fastify';
+import { gaanaRoutes } from './gaana/route';
 import { lyricsRoutes } from './lyrics/route';
 import { musicRoutes } from './music/route';
 import { play } from './play';
@@ -25,6 +26,7 @@ const entry = (fastify: FastifyInstance, _opts: FastifyServerOptions, done: () =
   // Legacy/Specific Provider Routes (optional to keep, but keeping for now)
   fastify.register(saavnRoutes, { prefix: '/saavn' });
   fastify.register(spotifyRoutes, { prefix: '/spotify' });
+  fastify.register(gaanaRoutes, { prefix: '/gaana' });
 
   // Other Services
   fastify.register(lyricsRoutes, { prefix: '/lyrics' });

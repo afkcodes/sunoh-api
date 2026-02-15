@@ -676,8 +676,30 @@ export const radioDetailController = async (req: FastifyRequest, res: FastifyRep
     );
     if (error) return sendError(res, message || 'Failed to fetch radio detail', error);
 
-    const songs = (data.tracks || []).map((t: any) => mapGaanaTrack(t));
-    return sendSuccess(res, songs, 'OK', 'gaana');
+    const initialTracks = data.tracks || [];
+
+    // Fetch full song details in parallel to get mediaUrls (stream_url)
+    const enrichedTracks = await promiseAllLimit(initialTracks, 10, async (track: any) => {
+      try {
+        if (!track.seokey) return mapGaanaTrack(track); // Fallback if no seokey
+
+        const { data: songData } = await gaanaFetch<any>(
+          {
+            seokey: track.seokey,
+            type: 'songDetail',
+          },
+          lang,
+        );
+
+        const fullTrackData = songData?.tracks?.[0] || songData?.song || songData || track;
+        return mapGaanaTrack(fullTrackData);
+      } catch (e) {
+        console.error(`Failed to fetch details for track ${track.track_id}:`, e);
+        return mapGaanaTrack(track); // Return basic info if detail fetch fails
+      }
+    });
+
+    return sendSuccess(res, enrichedTracks, 'OK', 'gaana');
   } catch (error) {
     return sendError(res, 'Internal server error', error);
   }

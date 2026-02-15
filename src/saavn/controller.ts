@@ -348,16 +348,16 @@ const mixController = async (req: SaavnRequest, res: FastifyReply) => {
 };
 
 const stationController = async (req: SaavnRequest, res: FastifyReply) => {
-  const { language, name } = req.query;
-  const languages = req.query.lang || req.query.languages || language;
+  const { language, name, query } = req.query as any;
+  const languages = req.query.lang || req.query.languages || language || 'english';
   const url = `${config.saavn.baseUrl}`;
   const { data, code, error, message } = await saavnFetch<any>(url, {
     params: {
       __call: config.saavn.endpoint.radio.featured,
-      language: language || languages,
-      name: name,
+      language: languages,
+      name: name || query,
       pid: '',
-      query: '',
+      query: query || name || '',
       mode: '',
       artistid: '',
       includeMetaTags: 0,
@@ -373,15 +373,16 @@ const stationController = async (req: SaavnRequest, res: FastifyReply) => {
   return sendSuccess(res, data, message, 'saavn', code);
 };
 const artistStationController = async (req: SaavnRequest, res: FastifyReply) => {
-  const { artistId, name } = req.query as any;
+  const { artistId, name, query } = req.query as any;
   const languages = req.query.lang || req.query.languages;
   const url = `${config.saavn.baseUrl}`;
   const { data, code, error, message } = await saavnFetch<any>(url, {
     params: {
       __call: config.saavn.endpoint.radio.artist,
-      artistid: artistId,
-      name: name,
-      query: name,
+      artistid: artistId || '', // user reported it can be empty
+      name: name || query || artistId, // prioritize name, then query, then id (which might be name)
+      query: query || name || artistId,
+      mode: '',
       ...params,
     },
     lang: languages,

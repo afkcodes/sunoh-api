@@ -3,6 +3,7 @@ import {
   albumController,
   albumRecommendationController,
   artistController,
+  artistStationController,
   entityStationController,
   homeController,
   mixController,
@@ -11,6 +12,7 @@ import {
   recommendedSongsController,
   searchController,
   songController,
+  stationController,
   stationSongsController,
   topAlbumsOfYearController,
   topSearchController,
@@ -31,6 +33,8 @@ const saavnRoutes = async (fastify: FastifyInstance) => {
   fastify.get('/search', searchController);
   fastify.get('/recommended_songs/:songId', recommendedSongsController);
   fastify.get('/station/create', entityStationController);
+  fastify.get('/station/create/artist', artistStationController);
+  fastify.get('/station/create/featured', stationController);
   fastify.get('/station/:stationId', stationSongsController);
 };
 
