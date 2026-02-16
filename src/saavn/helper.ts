@@ -149,18 +149,25 @@ export const recommendedAlbumDataMapper = (data: any[]) => {
 };
 
 export const stationSongsMapper = (data: any) => {
-  const songsArr = [];
-  for (const item in data) {
-    if (item === 'stationid' || item === 'error') continue;
+  const songsArr: any[] = [];
+  if (Array.isArray(data.list)) {
+    songsArr.push(...data.list);
+  } else {
+    for (const item in data) {
+      if (item === 'stationid' || item === 'error' || item === 'status') continue;
 
-    if (data?.[item]?.['song']) {
-      songsArr.push(data?.[item]?.['song']);
-    } else if (data?.[item]?.['id']) {
-      songsArr.push(data?.[item]);
+      if (data?.[item]?.['song']) {
+        songsArr.push(data?.[item]?.['song']);
+      } else if (data?.[item]?.['id']) {
+        songsArr.push(data?.[item]);
+      }
     }
   }
 
   const sanitizedData = songDataSanitizer(songsArr);
+  console.log(
+    `📦 stationSongsMapper: Extracted ${songsArr.length} songs. Sanitized: ${sanitizedData.length}`,
+  );
   return {
     list: sanitizedData,
     id: data.stationid,

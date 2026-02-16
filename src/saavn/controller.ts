@@ -52,11 +52,9 @@ const params = {
 
 const saavnFetch = async <T>(url: string, options: any = {}) => {
   const languages = options.lang || 'hindi,english';
-  // Saavn L cookie uses comma separated lowercase languages, usually encoded
-  const formattedLangs = languages
-    .split(',')
-    .map((l: string) => l.trim().toLowerCase())
-    .join(',');
+  const langList = languages.split(',').map((l: string) => l.trim().toLowerCase());
+  const formattedLangs = langList.join(',');
+  const primaryLang = langList[0] || 'hindi';
 
   const headers = {
     ...options.headers,
@@ -64,10 +62,28 @@ const saavnFetch = async <T>(url: string, options: any = {}) => {
   };
 
   if (!options.params) options.params = {};
-  if (!options.params.language) options.params.language = formattedLangs;
+  if (!options.params.language) options.params.language = primaryLang;
   if (!options.params.languages) options.params.languages = formattedLangs;
 
-  return fetchGet<T>(url, { ...options, headers });
+  console.log(`📡 Saavn Call: ${options.params.__call}`, { params: options.params });
+  const response = await fetchGet<T>(url, { ...options, headers });
+
+  // Log specific radio responses for debugging
+  if (options.params.__call === config.saavn.endpoint.radio.songs) {
+    const rawData = (response as any).data;
+    console.log(`📦 Saavn Radio [${options.params.stationid}] Response:`, {
+      status: rawData?.status,
+      hasError: !!rawData?.error,
+      error: rawData?.error,
+      keyCount: Object.keys(rawData || {}).length,
+      keys: Object.keys(rawData || {}).slice(0, 10),
+    });
+    if (!rawData || Object.keys(rawData).length <= 2) {
+      console.log('⚠️ Saavn Radio Response looks empty:', JSON.stringify(rawData));
+    }
+  }
+
+  return response;
 };
 
 export const getSaavnHomeData = async (languages?: string) => {
@@ -457,6 +473,11 @@ const stationSongsController = async (req: SaavnRequest, res: FastifyReply) => {
 
   if (error) {
     return sendError(res, message || 'Failed to fetch station songs', error, code);
+  }
+
+  if (data?.error) {
+    console.error(`Saavn Radio Error for station ${stationId}:`, data.error);
+    return sendError(res, `Saavn API returned an error: ${data.error}`, data.error);
   }
 
   const sanitizedData = stationSongsMapper(data);
