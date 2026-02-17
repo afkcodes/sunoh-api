@@ -43,7 +43,7 @@ export const getGaanaHeaders = async (languages?: string) => {
   return headers;
 };
 
-const gaanaFetch = async <T>(
+export const gaanaFetch = async <T>(
   params: Record<string, any>,
   languages?: string,
   options: any = {},

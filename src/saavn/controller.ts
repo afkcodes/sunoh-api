@@ -1,8 +1,9 @@
 import { FastifyReply, FastifyRequest } from 'fastify';
 import { config } from '../config/config';
-import { isValidArray } from '../helpers/common';
+import { getToken, isValidArray, promiseAllLimit } from '../helpers/common';
 import { fetchGet } from '../helpers/http';
 import { isArray } from '../helpers/validators';
+import { mapSaavnSong } from '../mappers/saavn.mapper';
 import { cache } from '../redis';
 import { ApiResponse, sendError, sendSuccess } from '../utils/response';
 import {
@@ -13,7 +14,7 @@ import {
   homeDataMapper,
   modulesDataMapper,
   playlistDataMapper,
-  recommendedAlbumDataMapper,
+  recommendationDataMapper,
   songDataSanitizer,
   songsDetailsMapper,
   stationSongsMapper,
@@ -52,18 +53,21 @@ const params = {
 
 const saavnFetch = async <T>(url: string, options: any = {}) => {
   const languages = options.lang || 'hindi,english';
-  // Saavn L cookie uses comma separated lowercase languages, usually encoded
-  const formattedLangs = languages
-    .split(',')
-    .map((l: string) => l.trim().toLowerCase())
-    .join(',');
+  const langList = languages.split(',').map((l: string) => l.trim().toLowerCase());
+  const formattedLangs = langList.join(',');
+  const primaryLang = langList[0] || 'hindi';
 
   const headers = {
     ...options.headers,
     cookie: `B=b7984e01db109802c47c5178fac7badc; CT=MjA2Mjg5ODMw; _pl=web6dot0-; DL=english; L=${encodeURIComponent(formattedLangs)}; geo=49.207.50.17%2CIN%2CKarnataka%2CBengaluru%2C562130; mm_latlong=12.9753%2C77.591; CH=G03%2CA07%2CO00%2CL03.; gdpr_acceptance=true`,
   };
 
-  return fetchGet<T>(url, { ...options, headers });
+  if (!options.params) options.params = {};
+  if (!options.params.language) options.params.language = primaryLang;
+  if (!options.params.languages) options.params.languages = formattedLangs;
+
+  const response = await fetchGet<T>(url, { ...options, headers });
+  return response;
 };
 
 export const getSaavnHomeData = async (languages?: string) => {
@@ -157,7 +161,7 @@ const albumRecommendationController = async (req: SaavnRequest, res: FastifyRepl
     return sendError(res, message || 'Failed to fetch album recommendations', error, code);
   }
 
-  const sanitizedData = recommendedAlbumDataMapper(data as any[]);
+  const sanitizedData = recommendationDataMapper(data as any[]);
   return sendSuccess(res, sanitizedData, message, 'saavn', code);
 };
 
@@ -178,7 +182,7 @@ const topAlbumsOfYearController = async (req: SaavnRequest, res: FastifyReply) =
     return sendError(res, message || 'Failed to fetch top albums', error, code);
   }
 
-  const sanitizedData = recommendedAlbumDataMapper(data as any[]);
+  const sanitizedData = recommendationDataMapper(data as any[]);
   return sendSuccess(res, sanitizedData, message, 'saavn', code);
 };
 
@@ -231,7 +235,7 @@ const albumController = async (req: SaavnRequest, res: FastifyReply) => {
         isValidArray(result.value?.data)
           ? {
               heading: promiseArr[index].title,
-              data: recommendedAlbumDataMapper(result.value.data),
+              data: recommendationDataMapper(result.value.data),
               source: 'saavn',
             }
           : null,
@@ -306,7 +310,7 @@ const playlistController = async (req: SaavnRequest, res: FastifyReply) => {
         isValidArray(result.value?.data)
           ? {
               heading: promiseArr[index].title,
-              data: recommendedAlbumDataMapper(result.value.data),
+              data: recommendationDataMapper(result.value.data),
               source: 'saavn',
             }
           : null,
@@ -455,6 +459,11 @@ const stationSongsController = async (req: SaavnRequest, res: FastifyReply) => {
     return sendError(res, message || 'Failed to fetch station songs', error, code);
   }
 
+  if (data?.error) {
+    console.error(`Saavn Radio Error for station ${stationId}:`, data.error);
+    return sendError(res, `Saavn API returned an error: ${data.error}`, data.error);
+  }
+
   const sanitizedData = stationSongsMapper(data);
   return sendSuccess(res, sanitizedData, message, 'saavn', code);
 };
@@ -594,6 +603,76 @@ const artistController = async (req: SaavnRequest, res: FastifyReply) => {
   }
 
   const extractedData = artistDataMapper(data);
+
+  // Hydrate sections like 'Singles' and 'Latest Release' to include mediaUrls
+  for (const section of extractedData.sections || []) {
+    const heading = section.heading?.toLowerCase();
+    if (
+      (heading === 'singles' || heading === 'latest release' || heading === 'latest releases') &&
+      Array.isArray(section.data)
+    ) {
+      const hydratedData = await promiseAllLimit(
+        section.data.slice(0, 20),
+        10,
+        async (item: any) => {
+          try {
+            if (item.type === 'song' && (!item.mediaUrls || item.mediaUrls.length === 0)) {
+              const { data: fullSongData } = await saavnFetch<any>(url, {
+                params: {
+                  __call: config.saavn.endpoint.song.link, // webapi.get
+                  token: item.id,
+                  type: 'song',
+                  ...params,
+                },
+                lang: languages,
+              });
+              const songData =
+                fullSongData?.songs?.[0] || (isArray(fullSongData) ? fullSongData[0] : null);
+              if (songData) {
+                return mapSaavnSong(songData);
+              }
+            } else if (item.type === 'album') {
+              const { data: albumData } = await saavnFetch<any>(url, {
+                params: {
+                  __call: config.saavn.endpoint.album.token, // webapi.get
+                  token: item.id,
+                  type: 'album',
+                  ...params,
+                },
+                lang: languages,
+              });
+              if (albumData?.list?.[0]) {
+                const songToken = getToken(
+                  albumData.list[0].perma_url || albumData.list[0].url || '',
+                );
+                const songId = songToken || albumData.list[0].id;
+                const { data: fullSongData } = await saavnFetch<any>(url, {
+                  params: {
+                    __call: config.saavn.endpoint.song.link,
+                    token: songId,
+                    type: 'song',
+                    ...params,
+                  },
+                  lang: languages,
+                });
+                const songData =
+                  fullSongData?.songs?.[0] || (isArray(fullSongData) ? fullSongData[0] : null);
+                if (songData) {
+                  return mapSaavnSong(songData);
+                }
+                return mapSaavnSong(albumData.list[0]);
+              }
+            }
+          } catch (err) {
+            console.error(`Failed to hydrate ${item.type} in artist section:`, err);
+          }
+          return item; // Fallback to original item if hydration fails
+        },
+      );
+      section.data = hydratedData;
+    }
+  }
+
   await cache.set(key, extractedData, 10800);
   return sendSuccess(res, extractedData, message, 'saavn', code);
 };

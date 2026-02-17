@@ -479,4 +479,4 @@ export {
   request,
   RequestError,
 };
-export type { HttpMethod, RequestOptions, ResponseData };
+export type { HttpMethod, RequestOptions, ResponseData, ResponseResult };
