@@ -144,8 +144,8 @@ export const playlistDataMapper = (data: any) => {
   return { ...playlist, sections };
 };
 
-export const recommendedAlbumDataMapper = (data: any[]) => {
-  return (data || []).map((item) => mapSaavnAlbum(item));
+export const recommendationDataMapper = (data: any[]) => {
+  return (data || []).map((item) => dataSanitizer(item));
 };
 
 export const stationSongsMapper = (data: any) => {
@@ -246,22 +246,18 @@ export const artistDataMapper = (data: any) => {
   if (data.modules) {
     for (const key in data.modules as any) {
       const title = data.modules[key].title;
-      if (['topSongs', 'singles'].includes(key)) {
-        sections.push({ heading: title, data: songDataSanitizer(data[key]), source: 'saavn' });
-      } else if (['similarArtists'].includes(key)) {
+      if (['topEpisodes', 'episodes', 'shows', 'topShows'].includes(key)) continue;
+
+      if (['similarArtists'].includes(key)) {
         sections.push({
           heading: title,
           data: similarArtistsDataMapper(data[key]),
           source: 'saavn',
         });
-      } else if (data[key]) {
+      } else if (data[key] && Array.isArray(data[key])) {
         sections.push({
           heading: title,
-          data: data[key].map((d: any) => {
-            if (d.type === 'album') return mapSaavnAlbum(d);
-            if (d.type === 'playlist') return mapSaavnPlaylist(d);
-            return dataSanitizer(d);
-          }),
+          data: data[key].map((d: any) => dataSanitizer(d)),
           source: 'saavn',
         });
       }

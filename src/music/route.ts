@@ -2,7 +2,6 @@ import { FastifyInstance } from 'fastify';
 import {
   albumController as gaanaAlbumController,
   albumListController as gaanaAlbumListController,
-  artistController as gaanaArtistController,
   collectionController as gaanaCollectionController,
   homeController as gaanaHomeController,
   occasionController as gaanaOccasionController,
@@ -16,7 +15,6 @@ import {
 import {
   albumController as saavnAlbumController,
   albumRecommendationController as saavnAlbumRecommendationController,
-  artistController as saavnArtistController,
   homeController as saavnHomeController,
   playlistController as saavnPlaylistController,
   searchController as saavnSearchController,
@@ -24,6 +22,7 @@ import {
 } from '../saavn/controller';
 import { playlistController as spotifyPlaylistController } from '../spotify/controller';
 import {
+  unifiedArtistController,
   unifiedHomeController,
   unifiedRadioPlayController,
   unifiedRadioSessionController,
@@ -140,11 +139,7 @@ export const musicRoutes = async (fastify: FastifyInstance) => {
   });
 
   // Artist
-  fastify.get('/artist/:artistId', (req, reply) => {
-    const { provider } = req.query as any;
-    if (provider === 'gaana') return gaanaArtistController(req as any, reply);
-    return saavnArtistController(req as any, reply);
-  });
+  fastify.get('/artist/:artistId', unifiedArtistController);
 
   // Radio
   fastify.get('/radio/session', unifiedRadioSessionController);

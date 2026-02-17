@@ -340,10 +340,12 @@ export const unifiedRadioController = async (req: FastifyRequest, res: FastifyRe
 };
 
 export const unifiedSongRecommendController = async (req: FastifyRequest, res: FastifyReply) => {
-  const { songId } = req.params as any;
-  const { q, query, lang } = req.query as any;
+  const { songId: paramSongId } = req.params as any;
+  const { q, query, lang, songId: querySongId } = req.query as any;
   const searchQuery = q || query;
   const languages = lang || (req.query as any).languages;
+  // Support songId from both URL params (/song/:songId/recommend) and query params (/recommend?songId=...)
+  const songId = paramSongId || querySongId;
 
   try {
     let targetSongId = songId;
@@ -673,5 +675,85 @@ export const unifiedSearchController = async (req: FastifyRequest, res: FastifyR
     return sendSuccess(res, saavnResults, 'Search results fetched successfully', 'unified');
   } catch (error: any) {
     return sendError(res, error.message || 'Unified search failed', error);
+  }
+};
+
+export const unifiedArtistController = async (req: FastifyRequest, res: FastifyReply) => {
+  const { artistId } = req.params as any;
+  const { provider, lang } = req.query as any;
+  const languages = lang || (req.query as any).languages || 'hindi,english';
+
+  try {
+    const { artistController: saavnArtistController } = require('../saavn/controller');
+    const { artistController: gaanaArtistController } = require('../gaana/controller');
+
+    // If provider is saavn, just delegate to saavn controller
+    if (provider === 'saavn') {
+      return saavnArtistController(req as any, res);
+    }
+
+    // If provider is gaana, try to find the artist on Saavn
+    if (provider === 'gaana') {
+      const key = `unified_artist_gaana_${artistId}_${languages}`;
+      const cached = await cache.get(key);
+      if (cached) return sendSuccess(res, cached, 'OK (Cached)', 'unified');
+
+      const { gaanaFetch } = require('../gaana/controller');
+
+      // 1. Get artist info from Gaana to get the name
+      const { data: artistDetail } = await gaanaFetch(
+        {
+          type: 'artistDetailNew',
+          seokey: artistId,
+        },
+        lang,
+      );
+
+      const artistName = artistDetail?.artist?.name || artistId;
+
+      // 2. Search for this artist on Saavn
+      const searchResults = await getSaavnSearchData(artistName, 'artists', 1, 1, languages);
+
+      if (
+        searchResults &&
+        !Array.isArray(searchResults) &&
+        searchResults.list &&
+        searchResults.list.length > 0
+      ) {
+        const saavnArtistId = searchResults.list[0].id;
+
+        // 3. Call Saavn artist controller with the new ID
+        const mockReq = {
+          params: { artistId: saavnArtistId },
+          query: { ...(req.query as any), provider: 'saavn' },
+        } as any;
+
+        let saavnData: any = null;
+        const mockRes = {
+          code: () => mockRes,
+          send: (resp: any) => {
+            if (resp.status === 'success') {
+              saavnData = resp.data;
+            }
+            return mockRes;
+          },
+        } as any;
+
+        await saavnArtistController(mockReq, mockRes);
+
+        if (saavnData) {
+          await cache.set(key, saavnData, 10800);
+          return sendSuccess(res, saavnData, 'Artist data unified successfully', 'unified');
+        }
+      }
+
+      // Fallback to Gaana if Saavn lookup fails
+      return gaanaArtistController(req as any, res);
+    }
+
+    // Default to Saavn if no provider
+    return saavnArtistController(req as any, res);
+  } catch (error: any) {
+    return sendError(res, error.message || 'Unified artist fetch failed', error);
   }
 };
