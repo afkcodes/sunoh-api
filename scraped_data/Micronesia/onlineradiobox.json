@@ -1,0 +1,38 @@
+[
+  {
+    "id": "onlineradiobox_fm.antennawebpalikir",
+    "name": "Antenna Web Palikir",
+    "image": "//cdn.onlineradiobox.com/img/l/6/138406.v1.png",
+    "stream_url": "https://tinyurl.com/Antenna-Web-Palikir",
+    "provider": "onlineradiobox",
+    "country": "Micronesia",
+    "genres": ["rock", "pop", "adult contemporary"],
+    "language": [],
+    "status": "working",
+    "last_tested_at": "2026-02-18T13:47:13+05:30"
+  },
+  {
+    "id": "onlineradiobox_fm.beta",
+    "name": "Station Beta",
+    "image": "//cdn.onlineradiobox.com/img/logo/9/124879.png",
+    "stream_url": "https://stream.zeno.fm/s7p9kob7zn2vv",
+    "provider": "onlineradiobox",
+    "country": "Micronesia",
+    "genres": ["pop", "top40", "hits"],
+    "language": [],
+    "status": "working",
+    "last_tested_at": "2026-02-18T13:47:08+05:30"
+  },
+  {
+    "id": "onlineradiobox_fm.biblebaptistchuuk",
+    "name": "Bible Baptist Radio Chuuk",
+    "image": "//cdn.onlineradiobox.com/img/l/0/47130.v5.png",
+    "stream_url": "https://streaming.radio.co/s25a6afba9/listen",
+    "provider": "onlineradiobox",
+    "country": "Micronesia",
+    "genres": ["christian"],
+    "language": [],
+    "status": "working",
+    "last_tested_at": "2026-02-18T13:47:03+05:30"
+  }
+]

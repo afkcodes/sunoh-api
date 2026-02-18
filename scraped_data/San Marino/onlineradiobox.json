@@ -1,0 +1,86 @@
+[
+  {
+    "id": "onlineradiobox_sm.antennawebmurata",
+    "name": "Antenna Web Murata",
+    "image": "//cdn.onlineradiobox.com/img/l/4/138154.v1.png",
+    "stream_url": "https://tinyurl.com/AntennaWebMurata",
+    "provider": "onlineradiobox",
+    "country": "San Marino",
+    "genres": ["rock", "pop", "adult contemporary"],
+    "language": [],
+    "status": "working",
+    "last_tested_at": "2026-02-18T17:54:06+05:30"
+  },
+  {
+    "id": "onlineradiobox_sm.hero",
+    "name": "Hero Radio (San Marino)",
+    "image": "//cdn.onlineradiobox.com/img/l/7/147017.v1.png",
+    "stream_url": "https://a2.asurahosting.com:6790/sanmarino.mp3",
+    "provider": "onlineradiobox",
+    "country": "San Marino",
+    "genres": ["news", "gospel", "hits"],
+    "language": [],
+    "status": "working",
+    "last_tested_at": "2026-02-18T17:54:30+05:30"
+  },
+  {
+    "id": "onlineradiobox_sm.hitsradio",
+    "name": "Hits Radio",
+    "image": "//cdn.onlineradiobox.com/img/l/2/145132.v1.png",
+    "stream_url": "https://listen.radioking.com/radio/695399/stream/760262",
+    "provider": "onlineradiobox",
+    "country": "San Marino",
+    "genres": ["90s", "80s", "70s"],
+    "language": [],
+    "status": "working",
+    "last_tested_at": "2026-02-18T17:54:21+05:30"
+  },
+  {
+    "id": "onlineradiobox_sm.lovefm",
+    "name": "Love FM San Marino",
+    "image": "//cdn.onlineradiobox.com/img/l/0/7970.v4.png",
+    "stream_url": "http://wma07.fluidstream.net:7600/;",
+    "provider": "onlineradiobox",
+    "country": "San Marino",
+    "genres": ["soft pop", "soft rock"],
+    "language": [],
+    "status": "working",
+    "last_tested_at": "2026-02-18T17:53:55+05:30"
+  },
+  {
+    "id": "onlineradiobox_sm.sanmarino",
+    "name": "Radio San Marino",
+    "image": "//cdn.onlineradiobox.com/img/l/6/148076.v1.png",
+    "stream_url": "https://d18ufyp3q60j7u.cloudfront.net/radio-ch01/radio-ch01/playlist.m3u8",
+    "provider": "onlineradiobox",
+    "country": "San Marino",
+    "genres": ["dance", "rock", "pop", "hip-hop"],
+    "language": [],
+    "status": "working",
+    "last_tested_at": "2026-02-18T17:54:26+05:30"
+  },
+  {
+    "id": "onlineradiobox_sm.skooldj",
+    "name": "sKOOL DJ web radio",
+    "image": "//cdn.onlineradiobox.com/img/l/9/111159.v7.png",
+    "stream_url": "https://stream.zeno.fm/d45pphzkachvv",
+    "provider": "onlineradiobox",
+    "country": "San Marino",
+    "genres": ["easy listening", "90s", "00s", "80s"],
+    "language": [],
+    "status": "broken",
+    "last_tested_at": "2026-02-18T17:54:01+05:30"
+  },
+  {
+    "id": "onlineradiobox_sm.usmaradio",
+    "name": "Usmaradio",
+    "image": "//cdn.onlineradiobox.com/img/l/4/116934.v4.png",
+    "stream_url": "https://usmaradio.out.airtime.pro/usmaradio_a",
+    "provider": "onlineradiobox",
+    "country": "San Marino",
+    "genres": ["talk", "culture"],
+    "language": [],
+    "status": "working",
+    "last_tested_at": "2026-02-18T17:54:00+05:30"
+  }
+]

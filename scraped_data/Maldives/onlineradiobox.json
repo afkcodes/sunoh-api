@@ -1,0 +1,26 @@
+[
+  {
+    "id": "onlineradiobox_mv.bittersweetmusicmv",
+    "name": "Bitter Sweet Music MV",
+    "image": "//cdn.onlineradiobox.com/img/l/5/83055.v11.png",
+    "stream_url": "http://91.121.236.34:8520/mv",
+    "provider": "onlineradiobox",
+    "country": "Maldives",
+    "genres": ["chill-out"],
+    "language": [],
+    "status": "working",
+    "last_tested_at": "2026-02-18T16:01:06+05:30"
+  },
+  {
+    "id": "onlineradiobox_mv.radiovnews",
+    "name": "Radio vNews",
+    "image": "//cdn.onlineradiobox.com/img/l/6/43536.v3.png",
+    "stream_url": "http://vfmstreaming.myvnc.com:9060/liaten",
+    "provider": "onlineradiobox",
+    "country": "Maldives",
+    "genres": ["news"],
+    "language": [],
+    "status": "working",
+    "last_tested_at": "2026-02-18T16:01:21+05:30"
+  }
+]

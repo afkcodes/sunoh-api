@@ -1,0 +1,62 @@
+[
+  {
+    "id": "onlineradiobox_wf.antennawebwallis",
+    "name": "Antenna Web Wallis",
+    "image": "//cdn.onlineradiobox.com/img/l/3/138363.v1.png",
+    "stream_url": "https://tinyurl.com/Antenna-Web-Wallis",
+    "provider": "onlineradiobox",
+    "country": "Wallis and Futuna",
+    "genres": ["rock", "pop", "adult contemporary"],
+    "language": [],
+    "status": "working",
+    "last_tested_at": "2026-02-18T18:43:48+05:30"
+  },
+  {
+    "id": "onlineradiobox_wf.beta",
+    "name": "Station Beta",
+    "image": "//cdn.onlineradiobox.com/img/logo/2/124862.png",
+    "stream_url": "https://stream.zeno.fm/mww0az1i30muv",
+    "provider": "onlineradiobox",
+    "country": "Wallis and Futuna",
+    "genres": ["pop", "top40", "hits"],
+    "language": [],
+    "status": "working",
+    "last_tested_at": "2026-02-18T18:43:44+05:30"
+  },
+  {
+    "id": "onlineradiobox_wf.hits1",
+    "name": "Hits 1 Wallis-et-Futuna",
+    "image": "//cdn.onlineradiobox.com/img/l/1/152201.v4.png",
+    "stream_url": "https://stream.hd1.hits1radio.com/?wallis",
+    "provider": "onlineradiobox",
+    "country": "Wallis and Futuna",
+    "genres": ["dance", "electronic", "pop", "top40", "latin", "hits"],
+    "language": [],
+    "status": "working",
+    "last_tested_at": "2026-02-18T18:43:54+05:30"
+  },
+  {
+    "id": "onlineradiobox_wf.tzgospelswahili",
+    "name": "Tzgospel Swahili (Wallis)",
+    "image": "//cdn.onlineradiobox.com/img/l/7/119687.v3.png",
+    "stream_url": "https://stream.zeno.fm/1vh9ypdnffhvv",
+    "provider": "onlineradiobox",
+    "country": "Wallis and Futuna",
+    "genres": ["christian", "gospel"],
+    "language": [],
+    "status": "broken",
+    "last_tested_at": "2026-02-18T18:43:38+05:30"
+  },
+  {
+    "id": "onlineradiobox_wf.wallisfutuna1ere",
+    "name": "Wallis et Futuna 1ère",
+    "image": "//cdn.onlineradiobox.com/img/l/7/13337.v5.png",
+    "stream_url": "https://wallisetfutuna.ice.infomaniak.ch/wallisetfutuna-128.mp3",
+    "provider": "onlineradiobox",
+    "country": "Wallis and Futuna",
+    "genres": ["r'n'b", "pop", "news", "talk", "rap", "hip-hop"],
+    "language": [],
+    "status": "working",
+    "last_tested_at": "2026-02-18T18:43:37+05:30"
+  }
+]

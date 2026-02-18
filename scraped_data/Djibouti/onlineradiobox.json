@@ -1,0 +1,50 @@
+[
+  {
+    "id": "onlineradiobox_dj.antennawebgibuti",
+    "name": "Antenna Web Gibuti",
+    "image": "//cdn.onlineradiobox.com/img/l/4/128564.v5.png",
+    "stream_url": "https://tinyurl.com/AntennaWebGibuti",
+    "provider": "onlineradiobox",
+    "country": "Djibouti",
+    "genres": ["rock", "pop", "blues", "jazz", "funk", "latin"],
+    "language": [],
+    "status": "working",
+    "last_tested_at": "2026-02-18T12:45:45+05:30"
+  },
+  {
+    "id": "onlineradiobox_dj.hero",
+    "name": "Hero Radio (Djibouti)",
+    "image": "//cdn.onlineradiobox.com/img/l/9/139069.v1.png",
+    "stream_url": "https://a2.asurahosting.com:6790/djibouti.mp3",
+    "provider": "onlineradiobox",
+    "country": "Djibouti",
+    "genres": ["gospel"],
+    "language": [],
+    "status": "working",
+    "last_tested_at": "2026-02-18T12:45:53+05:30"
+  },
+  {
+    "id": "onlineradiobox_dj.lrcm",
+    "name": "LRCM Radio (Djibouti)",
+    "image": "//cdn.onlineradiobox.com/img/l/9/153069.v3.png",
+    "stream_url": "https://a8.asurahosting.com:8950/djibouti.mp3",
+    "provider": "onlineradiobox",
+    "country": "Djibouti",
+    "genres": ["gospel"],
+    "language": [],
+    "status": "working",
+    "last_tested_at": "2026-02-18T12:45:49+05:30"
+  },
+  {
+    "id": "onlineradiobox_dj.mcdoualiya",
+    "name": "Monte Carlo Doualiya",
+    "image": "//cdn.onlineradiobox.com/img/l/7/46897.v4.png",
+    "stream_url": "https://montecarlodoualiya128k.ice.infomaniak.ch/mc-doualiya.mp3",
+    "provider": "onlineradiobox",
+    "country": "Djibouti",
+    "genres": ["news", "talk", "arabic", "entertainment"],
+    "language": [],
+    "status": "working",
+    "last_tested_at": "2026-02-18T12:45:40+05:30"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": "onlineradiobox_pm.archipel",
+    "name": "Radio Archipel Fm",
+    "image": "//cdn.onlineradiobox.com/img/l/3/74483.v5.png",
+    "stream_url": "https://radioarchipelfm.ice.infomaniak.ch/radioarchipelfm-64.mp3",
+    "provider": "onlineradiobox",
+    "country": "St. Pierre and Miquelon",
+    "genres": ["dance", "rock", "pop", "country"],
+    "language": [],
+    "status": "working",
+    "last_tested_at": "2026-02-18T16:36:57+05:30"
+  },
+  {
+    "id": "onlineradiobox_pm.atlantique",
+    "name": "Radio Atlantique",
+    "image": "//cdn.onlineradiobox.com/img/l/3/49733.v13.png",
+    "stream_url": "https://s7.voscast.com:10433/stream",
+    "provider": "onlineradiobox",
+    "country": "St. Pierre and Miquelon",
+    "genres": ["rock", "pop", "news", "variety"],
+    "language": [],
+    "status": "working",
+    "last_tested_at": "2026-02-18T16:37:02+05:30"
+  },
+  {
+    "id": "onlineradiobox_pm.spm1ere",
+    "name": "Saint-Pierre et Miquelon 1ère",
+    "image": "//cdn.onlineradiobox.com/img/l/6/13336.v5.png",
+    "stream_url": "https://saint-pierreetmiquelon.ice.infomaniak.ch/saint-pierreetmiquelon-128.mp3",
+    "provider": "onlineradiobox",
+    "country": "St. Pierre and Miquelon",
+    "genres": ["r'n'b", "pop", "news", "talk", "rap", "hip-hop"],
+    "language": [],
+    "status": "working",
+    "last_tested_at": "2026-02-18T16:37:07+05:30"
+  }
+]

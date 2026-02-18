@@ -1,0 +1,74 @@
+[
+  {
+    "id": "onlineradiobox_ss.963favourjuba",
+    "name": "96.3 Favour Fm Juba",
+    "image": "//cdn.onlineradiobox.com/img/l/2/105982.v8.png",
+    "stream_url": "https://us5new.listen2myradio.com:2199/listen.php?port=8106&type=ice&mount=live",
+    "provider": "onlineradiobox",
+    "country": "South Sudan",
+    "genres": ["christian"],
+    "language": [],
+    "status": "working",
+    "last_tested_at": "2026-02-18T17:58:34+05:30"
+  },
+  {
+    "id": "onlineradiobox_ss.antennawebgiuba",
+    "name": "Antenna Web Giuba",
+    "image": "//cdn.onlineradiobox.com/img/l/7/134847.v2.png",
+    "stream_url": "https://tinyurl.com/AntennaWebGiuba",
+    "provider": "onlineradiobox",
+    "country": "South Sudan",
+    "genres": ["rock", "pop", "blues", "jazz", "funk", "reggaeton"],
+    "language": [],
+    "status": "working",
+    "last_tested_at": "2026-02-18T17:58:51+05:30"
+  },
+  {
+    "id": "onlineradiobox_ss.eye",
+    "name": "Eye Radio",
+    "image": "//cdn.onlineradiobox.com/img/l/1/47851.v3.png",
+    "stream_url": "https://media.streambrothers.com:8000/stream",
+    "provider": "onlineradiobox",
+    "country": "South Sudan",
+    "genres": ["pop", "sports", "arabic", "entertainment"],
+    "language": [],
+    "status": "working",
+    "last_tested_at": "2026-02-18T17:58:29+05:30"
+  },
+  {
+    "id": "onlineradiobox_ss.hero",
+    "name": "Hero Radio (South Sudan)",
+    "image": "//cdn.onlineradiobox.com/img/l/2/139022.v1.png",
+    "stream_url": "https://a2.asurahosting.com:6790/southsudan.mp3",
+    "provider": "onlineradiobox",
+    "country": "South Sudan",
+    "genres": ["gospel"],
+    "language": [],
+    "status": "working",
+    "last_tested_at": "2026-02-18T17:58:42+05:30"
+  },
+  {
+    "id": "onlineradiobox_ss.lrcm",
+    "name": "LRCM Radio (South Sudan)",
+    "image": "//cdn.onlineradiobox.com/img/l/5/152275.v2.png",
+    "stream_url": "https://a8.asurahosting.com:8950/southsudan.mp3",
+    "provider": "onlineradiobox",
+    "country": "South Sudan",
+    "genres": ["gospel"],
+    "language": [],
+    "status": "working",
+    "last_tested_at": "2026-02-18T17:58:46+05:30"
+  },
+  {
+    "id": "onlineradiobox_ss.rmcimprint",
+    "name": "RMC Imprint Radio",
+    "image": "//cdn.onlineradiobox.com/img/l/8/97618.v5.png",
+    "stream_url": "https://stream.zeno.fm/acw68hd40uquv",
+    "provider": "onlineradiobox",
+    "country": "South Sudan",
+    "genres": ["christian"],
+    "language": [],
+    "status": "working",
+    "last_tested_at": "2026-02-18T17:58:38+05:30"
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "id": "onlineradiobox_sz.antennawebmbabane",
+    "name": "Antenna Web Mbabane",
+    "image": "//cdn.onlineradiobox.com/img/l/9/134849.v2.png",
+    "stream_url": "https://tinyurl.com/AntennaWebMbabane",
+    "provider": "onlineradiobox",
+    "country": "Eswatini",
+    "genres": ["rock", "pop", "blues", "jazz", "funk", "reggaeton"],
+    "language": [],
+    "status": "working",
+    "last_tested_at": "2026-02-18T18:01:41+05:30"
+  },
+  {
+    "id": "onlineradiobox_sz.hero",
+    "name": "Hero Radio (Swaziland)",
+    "image": "//cdn.onlineradiobox.com/img/l/7/139067.v1.png",
+    "stream_url": "https://a2.asurahosting.com:6790/swaziland.mp3",
+    "provider": "onlineradiobox",
+    "country": "Eswatini",
+    "genres": ["gospel"],
+    "language": [],
+    "status": "working",
+    "last_tested_at": "2026-02-18T18:01:36+05:30"
+  },
+  {
+    "id": "onlineradiobox_sz.jelele",
+    "name": "Jelele",
+    "image": "//cdn.onlineradiobox.com/img/l/3/77673.v9.png",
+    "stream_url": "http://everestcast.streams.ovh:1320/stream",
+    "provider": "onlineradiobox",
+    "country": "Eswatini",
+    "genres": ["house", "r'n'b", "pop", "hip-hop", "soul", "african"],
+    "language": [],
+    "status": "broken",
+    "last_tested_at": "2026-02-18T18:01:46+05:30"
+  },
+  {
+    "id": "onlineradiobox_sz.lrcm",
+    "name": "LRCM Radio (Eswatini)",
+    "image": "//cdn.onlineradiobox.com/img/l/4/153084.v2.png",
+    "stream_url": "https://a8.asurahosting.com:8950/eswatini.mp3",
+    "provider": "onlineradiobox",
+    "country": "Eswatini",
+    "genres": ["gospel"],
+    "language": [],
+    "status": "working",
+    "last_tested_at": "2026-02-18T18:01:45+05:30"
+  },
+  {
+    "id": "onlineradiobox_sz.twrafrica",
+    "name": "TWR Africa",
+    "image": "//cdn.onlineradiobox.com/img/l/0/46470.v4.png",
+    "stream_url": "http://albert.antfarm.co.za:8000/TWR",
+    "provider": "onlineradiobox",
+    "country": "Eswatini",
+    "genres": ["christian", "gospel"],
+    "language": [],
+    "status": "working",
+    "last_tested_at": "2026-02-18T18:01:20+05:30"
+  },
+  {
+    "id": "onlineradiobox_sz.tzgospel",
+    "name": "Tzgospel ( Swaziland)",
+    "image": "//cdn.onlineradiobox.com/img/l/6/127686.v1.png",
+    "stream_url": "https://stream.zeno.fm/vvb7eqh1zehvv",
+    "provider": "onlineradiobox",
+    "country": "Eswatini",
+    "genres": ["christian", "gospel"],
+    "language": [],
+    "status": "broken",
+    "last_tested_at": "2026-02-18T18:01:48+05:30"
+  },
+  {
+    "id": "onlineradiobox_sz.willybamztop",
+    "name": "WillyBamz Top Stereo",
+    "image": "//cdn.onlineradiobox.com/img/l/9/99599.v9.png",
+    "stream_url": "https://stream.zeno.fm/faytrwug8yzuv",
+    "provider": "onlineradiobox",
+    "country": "Eswatini",
+    "genres": ["talk", "entertainment"],
+    "language": [],
+    "status": "working",
+    "last_tested_at": "2026-02-18T18:01:32+05:30"
+  }
+]

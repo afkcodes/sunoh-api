@@ -1,0 +1,50 @@
+[
+  {
+    "id": "onlineradiobox_la.laonationalradio",
+    "name": "ວິທະຍຸກະຈາຍສຽງແຫ່ງຊາດລາວ",
+    "image": "//cdn.onlineradiobox.com/img/l/5/43845.v4.png",
+    "stream_url": "https://radio.lnr.org.la/fm103",
+    "provider": "onlineradiobox",
+    "country": "Laos",
+    "genres": ["news", "talk"],
+    "language": [],
+    "status": "working",
+    "last_tested_at": "2026-02-18T15:29:23+05:30"
+  },
+  {
+    "id": "onlineradiobox_la.radiofreeasia",
+    "name": "Radio Free Asia - Lao",
+    "image": "//cdn.onlineradiobox.com/img/l/8/44188.v1.png",
+    "stream_url": "http://23.61.249.149:80/7/986/433979/v1/ibb.akacast.akamaistream.net/RFALive3",
+    "provider": "onlineradiobox",
+    "country": "Laos",
+    "genres": ["news", "talk"],
+    "language": [],
+    "status": "broken",
+    "last_tested_at": "2026-02-18T15:29:54+05:30"
+  },
+  {
+    "id": "onlineradiobox_la.tzgospel",
+    "name": "Tzgospel (Laos)",
+    "image": "//cdn.onlineradiobox.com/img/l/5/120185.v8.png",
+    "stream_url": "https://stream.zeno.fm/f6vbwf596ehvv",
+    "provider": "onlineradiobox",
+    "country": "Laos",
+    "genres": ["christian", "gospel"],
+    "language": [],
+    "status": "broken",
+    "last_tested_at": "2026-02-18T15:29:24+05:30"
+  },
+  {
+    "id": "onlineradiobox_la.vyentyan",
+    "name": "ວິ​ທະ​ຍຸ​ວຽງຈັນ",
+    "image": "//cdn.onlineradiobox.com/img/l/4/128374.v2.png",
+    "stream_url": "https://stream2.svrdedicado.org/8266/stream",
+    "provider": "onlineradiobox",
+    "country": "Laos",
+    "genres": ["variety"],
+    "language": [],
+    "status": "working",
+    "last_tested_at": "2026-02-18T15:29:39+05:30"
+  }
+]

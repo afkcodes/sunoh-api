@@ -1,0 +1,38 @@
+[
+  {
+    "id": "onlineradiobox_vu.96buzzfm",
+    "name": "96 Buzz FM",
+    "image": "//cdn.onlineradiobox.com/img/l/0/9080.v15.png",
+    "stream_url": "https://streamer.dailypost.vu/live",
+    "provider": "onlineradiobox",
+    "country": "Vanuatu",
+    "genres": ["pop", "news", "90s"],
+    "language": [],
+    "status": "working",
+    "last_tested_at": "2026-02-18T18:43:07+05:30"
+  },
+  {
+    "id": "onlineradiobox_vu.antennawebvanuatu",
+    "name": "Antenna Web Vanuatu",
+    "image": "//cdn.onlineradiobox.com/img/l/9/138369.v2.png",
+    "stream_url": "https://tinyurl.com/Antenna-Web-Vanuatu",
+    "provider": "onlineradiobox",
+    "country": "Vanuatu",
+    "genres": ["rock", "pop", "adult contemporary"],
+    "language": [],
+    "status": "working",
+    "last_tested_at": "2026-02-18T18:43:11+05:30"
+  },
+  {
+    "id": "onlineradiobox_vu.beta",
+    "name": "Station Beta",
+    "image": "//cdn.onlineradiobox.com/img/logo/5/124865.png",
+    "stream_url": "https://stream.zeno.fm/hyfdqxwjzy8vv",
+    "provider": "onlineradiobox",
+    "country": "Vanuatu",
+    "genres": ["pop", "top40", "hits"],
+    "language": [],
+    "status": "working",
+    "last_tested_at": "2026-02-18T18:43:23+05:30"
+  }
+]

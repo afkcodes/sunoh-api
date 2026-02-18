@@ -1,0 +1,86 @@
+[
+  {
+    "id": "onlineradiobox_to.antennawebtonga",
+    "name": "Antenna Web Tonga",
+    "image": "//cdn.onlineradiobox.com/img/l/8/138378.v1.png",
+    "stream_url": "https://tinyurl.com/Antenna-Web-Tonga",
+    "provider": "onlineradiobox",
+    "country": "Tonga",
+    "genres": ["rock", "pop", "adult contemporary"],
+    "language": [],
+    "status": "working",
+    "last_tested_at": "2026-02-18T18:05:45+05:30"
+  },
+  {
+    "id": "onlineradiobox_to.beta",
+    "name": "Station Beta",
+    "image": "//cdn.onlineradiobox.com/img/logo/3/124873.png",
+    "stream_url": "https://stream.zeno.fm/pwvztgpogh1vv",
+    "provider": "onlineradiobox",
+    "country": "Tonga",
+    "genres": ["pop", "top40", "hits"],
+    "language": [],
+    "status": "working",
+    "last_tested_at": "2026-02-18T18:05:41+05:30"
+  },
+  {
+    "id": "onlineradiobox_to.broadcomm",
+    "name": "Letio Tonga",
+    "image": "//cdn.onlineradiobox.com/img/l/8/47748.v9.png",
+    "stream_url": "https://stream.zeno.fm/z6qsbhs48a0uv",
+    "provider": "onlineradiobox",
+    "country": "Tonga",
+    "genres": ["news", "talk"],
+    "language": [],
+    "status": "working",
+    "last_tested_at": "2026-02-18T18:05:04+05:30"
+  },
+  {
+    "id": "onlineradiobox_to.kalofiamaoeamanaki",
+    "name": "Kalofiama ‘O E ‘Amanaki",
+    "image": "//cdn.onlineradiobox.com/img/l/3/113703.v2.png",
+    "stream_url": "https://stream.zeno.fm/v4kaet5ab1ntv",
+    "provider": "onlineradiobox",
+    "country": "Tonga",
+    "genres": ["christian"],
+    "language": [],
+    "status": "working",
+    "last_tested_at": "2026-02-18T18:05:34+05:30"
+  },
+  {
+    "id": "onlineradiobox_to.keleavoice",
+    "name": "Keleá Voice 91.5FM",
+    "image": "//cdn.onlineradiobox.com/img/l/6/130196.v1.png",
+    "stream_url": "https://stream.zeno.fm/uvqwdjxnquvuv",
+    "provider": "onlineradiobox",
+    "country": "Tonga",
+    "genres": ["talk", "politics"],
+    "language": [],
+    "status": "broken",
+    "last_tested_at": "2026-02-18T18:05:22+05:30"
+  },
+  {
+    "id": "onlineradiobox_to.tonga",
+    "name": "Radio Tonga",
+    "image": "//cdn.onlineradiobox.com/img/l/2/47752.v5.png",
+    "stream_url": "https://stream.zeno.fm/ynh3ncdrqy5tv",
+    "provider": "onlineradiobox",
+    "country": "Tonga",
+    "genres": ["news", "talk", "entertainment"],
+    "language": [],
+    "status": "working",
+    "last_tested_at": "2026-02-18T18:05:19+05:30"
+  },
+  {
+    "id": "onlineradiobox_to.tzgospel",
+    "name": "Tzgospel Radio (Tonga)",
+    "image": "//cdn.onlineradiobox.com/img/l/8/119688.v4.png",
+    "stream_url": "https://stream.zeno.fm/0e1xr3cnffhvv",
+    "provider": "onlineradiobox",
+    "country": "Tonga",
+    "genres": ["news", "christian", "gospel"],
+    "language": [],
+    "status": "broken",
+    "last_tested_at": "2026-02-18T18:05:20+05:30"
+  }
+]

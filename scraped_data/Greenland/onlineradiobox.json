@@ -1,0 +1,62 @@
+[
+  {
+    "id": "onlineradiobox_gl.antennaweb",
+    "name": "Antenna Web Kulusuk",
+    "image": "//cdn.onlineradiobox.com/img/l/1/128811.v4.png",
+    "stream_url": "https://tinyurl.com/Antenna-Web-Kulusuk",
+    "provider": "onlineradiobox",
+    "country": "Greenland",
+    "genres": ["rock", "pop", "blues", "jazz", "funk", "latin"],
+    "language": [],
+    "status": "working",
+    "last_tested_at": "2026-02-18T13:55:40+05:30"
+  },
+  {
+    "id": "onlineradiobox_gl.fusionalternativa",
+    "name": "Radio Fusión Alternativa",
+    "image": "//cdn.onlineradiobox.com/img/l/6/104716.v3.png",
+    "stream_url": "https://stream.zeno.fm/t1ry4xkmzk8uv",
+    "provider": "onlineradiobox",
+    "country": "Greenland",
+    "genres": ["rock", "pop"],
+    "language": [],
+    "status": "working",
+    "last_tested_at": "2026-02-18T13:55:35+05:30"
+  },
+  {
+    "id": "onlineradiobox_gl.icefm",
+    "name": "ICE FM",
+    "image": "//cdn.onlineradiobox.com/img/l/7/33127.v3.png",
+    "stream_url": "http://media.limfjordnetradio.dk/icefm",
+    "provider": "onlineradiobox",
+    "country": "Greenland",
+    "genres": ["rock", "pop", "top40"],
+    "language": [],
+    "status": "broken",
+    "last_tested_at": "2026-02-18T13:55:11+05:30"
+  },
+  {
+    "id": "onlineradiobox_gl.knrradio",
+    "name": "KNR Radio",
+    "image": "//cdn.onlineradiobox.com/img/l/0/33130.v1.png",
+    "stream_url": "https://rrr.sz.xlcdn.com/?account=knr&file=radio&type=live&service=icecast&port=8000&output=pls",
+    "provider": "onlineradiobox",
+    "country": "Greenland",
+    "genres": ["news", "talk"],
+    "language": [],
+    "status": "working",
+    "last_tested_at": "2026-02-18T13:55:23+05:30"
+  },
+  {
+    "id": "onlineradiobox_gl.nanoqfm",
+    "name": "Nanoq FM",
+    "image": "//cdn.onlineradiobox.com/img/l/1/76781.v5.png",
+    "stream_url": "http://getnanoq.retro-radio.dk/Nanoq-TX-1",
+    "provider": "onlineradiobox",
+    "country": "Greenland",
+    "genres": ["pop"],
+    "language": [],
+    "status": "working",
+    "last_tested_at": "2026-02-18T13:55:16+05:30"
+  }
+]

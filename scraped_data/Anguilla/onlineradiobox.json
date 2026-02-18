@@ -1,0 +1,86 @@
+[
+  {
+    "id": "onlineradiobox_ai.awthevalley",
+    "name": "AW The Valley",
+    "image": "//cdn.onlineradiobox.com/img/l/6/150706.v1.png",
+    "stream_url": "https://anguilla.radioantennaweb.com/TheValley",
+    "provider": "onlineradiobox",
+    "country": "Anguilla",
+    "genres": ["rock", "pop", "adult contemporary"],
+    "language": [],
+    "status": "working",
+    "last_tested_at": "2026-02-18T11:17:29+05:30"
+  },
+  {
+    "id": "onlineradiobox_ai.justthehitz",
+    "name": "Z105.1 Just the HITZ",
+    "image": "//cdn.onlineradiobox.com/img/l/5/46865.v7.png",
+    "stream_url": "https://cosmo.shoutca.st/proxy/zron/STREAM",
+    "provider": "onlineradiobox",
+    "country": "Anguilla",
+    "genres": ["90s", "80s", "70s"],
+    "language": [],
+    "status": "working",
+    "last_tested_at": "2026-02-18T11:17:24+05:30"
+  },
+  {
+    "id": "onlineradiobox_ai.klass929",
+    "name": "Klass FM",
+    "image": "//cdn.onlineradiobox.com/img/l/2/72492.v7.png",
+    "stream_url": "https://klassfm929.radioca.st/;",
+    "provider": "onlineradiobox",
+    "country": "Anguilla",
+    "genres": ["dance", "r'n'b", "disco", "pop", "rap", "hip-hop", "hits"],
+    "language": [],
+    "status": "working",
+    "last_tested_at": "2026-02-18T11:17:14+05:30"
+  },
+  {
+    "id": "onlineradiobox_ai.kool",
+    "name": "Kool FM",
+    "image": "//cdn.onlineradiobox.com/img/l/6/46866.v3.png",
+    "stream_url": "https://s29.myradiostream.com:20299/koolfm-103",
+    "provider": "onlineradiobox",
+    "country": "Anguilla",
+    "genres": ["pop", "news", "talk", "oldies"],
+    "language": [],
+    "status": "broken",
+    "last_tested_at": "2026-02-18T11:17:29+05:30"
+  },
+  {
+    "id": "onlineradiobox_ai.tzgospel",
+    "name": "Tzgospel Anguilla",
+    "image": "//cdn.onlineradiobox.com/img/l/3/128783.v1.png",
+    "stream_url": "https://stream.zeno.fm/8w0h0p6chfhvv",
+    "provider": "onlineradiobox",
+    "country": "Anguilla",
+    "genres": ["christian", "gospel"],
+    "language": [],
+    "status": "broken",
+    "last_tested_at": "2026-02-18T11:17:46+05:30"
+  },
+  {
+    "id": "onlineradiobox_ai.vale",
+    "name": "Vale fm",
+    "image": "//cdn.onlineradiobox.com/img/l/6/127846.v1.png",
+    "stream_url": "https://stream1.svrdedicado.org:7177/;",
+    "provider": "onlineradiobox",
+    "country": "Anguilla",
+    "genres": ["eclectic"],
+    "language": [],
+    "status": "working",
+    "last_tested_at": "2026-02-18T11:17:44+05:30"
+  },
+  {
+    "id": "onlineradiobox_ai.vogueplayai",
+    "name": "Vogue Play AI",
+    "image": "//cdn.onlineradiobox.com/img/l/5/105825.v1.png",
+    "stream_url": "https://stream.zeno.fm/fkxtawd8508uv",
+    "provider": "onlineradiobox",
+    "country": "Anguilla",
+    "genres": ["pop", "top40", "hits"],
+    "language": [],
+    "status": "working",
+    "last_tested_at": "2026-02-18T11:17:20+05:30"
+  }
+]
