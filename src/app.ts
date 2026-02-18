@@ -4,6 +4,7 @@ import { lyricsRoutes } from './lyrics/route';
 import { musicRoutes } from './music/route';
 import { play } from './play';
 import { proxyImage } from './proxyImage';
+import { radioRoutes } from './radio/route';
 import { saavnRoutes } from './saavn/route';
 import { spotifyRoutes } from './spotify/route';
 import { liveMusicRoutes } from './websocket/routes';
@@ -20,8 +21,9 @@ const entry = (fastify: FastifyInstance, _opts: FastifyServerOptions, done: () =
   fastify.get('/proxy', proxyImage);
   fastify.get('/play', play);
 
-  // Unified Music Route
+  // Music and Other Services
   fastify.register(musicRoutes, { prefix: '/music' });
+  fastify.register(radioRoutes, { prefix: '/radio' });
 
   // Legacy/Specific Provider Routes (optional to keep, but keeping for now)
   fastify.register(saavnRoutes, { prefix: '/saavn' });

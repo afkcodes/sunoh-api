@@ -1,0 +1,147 @@
+afghanistan:Afghanistan
+albania:Albania
+algeria:Algeria
+american-samoa:American Samoa
+andorra:Andorra
+angola:Angola
+anguilla:Anguilla
+antigua-and-barbuda:Antigua and Barbuda
+argentina:Argentina
+armenia:Armenia
+aruba:Aruba
+australia:Australia
+austria:Austria
+azerbaijan:Azerbaijan
+bahamas:Bahamas
+bahrain:Bahrain
+bangladesh:Bangladesh
+belarus:Belarus
+belgium:Belgium
+belize:Belize
+bolivia:Bolivia
+bosnia-and-herzegovina:Bosnia and Herzegovina
+brazil:Brazil
+bulgaria:Bulgaria
+cambodia:Cambodia
+canada:Canada
+cape-verde:Cape Verde
+chad:Chad
+chile:Chile
+china:China
+colombia:Colombia
+comoros:Comoros
+costa-rica:Costa Rica
+croatia:Croatia
+cuba:Cuba
+curacao:Curaçao
+cyprus:Cyprus
+czech-republic:Czech Republic
+denmark:Denmark
+dominican-republic:Dominican Republic
+ecuador:Ecuador
+egypt:Egypt
+el-salvador:El Salvador
+estonia:Estonia
+finland:Finland
+france:France
+french-guiana:French Guiana
+georgia:Georgia
+germany:Germany
+ghana:Ghana
+greece:Greece
+guatemala:Guatemala
+guyana:Guyana
+haiti:Haiti
+hashemite-kingdom-of-jordan:Hashemite Kingdom of Jordan
+honduras:Honduras
+hong-kong:Hong Kong
+hungary:Hungary
+iceland:Iceland
+india:India
+indonesia:Indonesia
+iran:Iran
+iraq:Iraq
+ireland:Ireland
+israel:Israel
+italy:Italy
+ivory-coast:Ivory Coast
+jamaica:Jamaica
+japan:Japan
+kazakhstan:Kazakhstan
+kenya:Kenya
+kuwait:Kuwait
+latvia:Latvia
+libya:Libya
+luxembourg:Luxembourg
+macao:Macao
+madagascar:Madagascar
+malaysia:Malaysia
+mali:Mali
+malta:Malta
+mauritania:Mauritania
+mauritius:Mauritius
+mexico:Mexico
+mongolia:Mongolia
+morocco:Morocco
+mozambique:Mozambique
+namibia:Namibia
+nepal:Nepal
+netherlands:Netherlands
+new-zealand:New Zealand
+nicaragua:Nicaragua
+nigeria:Nigeria
+norway:Norway
+oman:Oman
+pakistan:Pakistan
+panama:Panama
+paraguay:Paraguay
+peru:Peru
+philippines:Philippines
+poland:Poland
+portugal:Portugal
+puerto-rico:Puerto Rico
+qatar:Qatar
+republic-of-korea:Republic of Korea
+republic-of-lithuania:Republic of Lithuania
+republic-of-moldova:Republic of Moldova
+reunion:Réunion
+romania:Romania
+russia:Russia
+rwanda:Rwanda
+saint-lucia:Saint Lucia
+saudi-arabia:Saudi Arabia
+senegal:Senegal
+serbia:Serbia
+singapore:Singapore
+sint-maarten:Sint Maarten
+slovak-republic:Slovak Republic
+slovenia:Slovenia
+south-africa:South Africa
+spain:Spain
+sri-lanka:Sri Lanka
+sudan:Sudan
+suriname:Suriname
+sweden:Sweden
+switzerland:Switzerland
+syria:Syria
+taiwan:Taiwan
+tanzania:Tanzania
+thailand:Thailand
+the-gambia:The Gambia
+trinidad-and-tobago:Trinidad and Tobago
+tunisia:Tunisia
+turkey:Turkey
+uganda:Uganda
+ukraine:Ukraine
+united-arab-emirates:United Arab Emirates
+united-kingdom:United Kingdom
+united-states:United States
+uruguay:Uruguay
+venezuela:Venezuela
+vietnam:Vietnam
+yemen:Yemen
+zambia:Zambia
+zimbabwe:Zimbabwe
+dominica:dominica
+montenegro:montenegro
+north-macedonia:north-macedonia

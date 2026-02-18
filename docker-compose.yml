@@ -21,5 +21,18 @@ services:
       - redis_data:/data
     restart: unless-stopped
 
+  db:
+    image: postgres:15-alpine
+    environment:
+      - POSTGRES_USER=sunoh
+      - POSTGRES_PASSWORD=sunoh_pass
+      - POSTGRES_DB=sunoh_db
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    restart: unless-stopped
+
 volumes:
   redis_data:
+  postgres_data:
