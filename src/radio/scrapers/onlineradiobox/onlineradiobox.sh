@@ -116,25 +116,28 @@ for ((p=0; p<MAX_PAGES; p++)); do
 
         LOG_NAME=$(echo "$STATION_NAME" | cut -c1-42)
 
-        # ---------- VLC TEST ----------
-        # Using --aout=dummy ensures silence while decoding enough data to verify the stream
-        VLC_OUT=$(timeout 15 cvlc -vv -I dummy --vout=dummy --aout=dummy --no-video --play-and-exit --run-time=3 "$STREAM" vlc://quit 2>&1)
-
+        # ---------- HYBRID TEST (VLC + FFPROBE FALLBACK) ----------
         STATUS="broken"
+        FORMAT="unknown"
 
+        # Try VLC first
+        VLC_OUT=$(timeout 10 cvlc -vv -I dummy --vout=dummy --aout=dummy --no-video --play-and-exit --run-time=2 "$STREAM" vlc://quit 2>&1)
+        
         if echo "$VLC_OUT" | grep -qiE "audio decoder|audio output|samplerate: [0-9]+"; then
             STATUS="working"
+            FORMAT=$(echo "$VLC_OUT" \
+                | grep -oaP 'adaptive demux: .* -> \K[^ ]+|audio decoder module "\K[^"]+|packetizer: \K[^ ]+|codec: \K[^ ]+' \
+                | head -n 1 | tr -d '"' | cut -d' ' -f1)
         fi
 
-        FATAL_ERRORS=$(echo "$VLC_OUT" | grep -iE "error|failed to" \
-            | grep -viE "video output|video decoder|glconv|vaapi|vdpau|vlc_core|direct3d11" \
-            | grep -iE "input error|access error|http error|failed to open|404|403|500")
-
-        [[ -n "$FATAL_ERRORS" ]] && STATUS="broken"
-
-        FORMAT=$(echo "$VLC_OUT" \
-            | grep -oaP 'adaptive demux: .* -> \K[^ ]+|audio decoder module "\K[^"]+|packetizer: \K[^ ]+|codec: \K[^ ]+' \
-            | head -n 1 | tr -d '"' | cut -d' ' -f1)
+        # Fallback to ffprobe if VLC failed (FFmpeg is much more robust on servers)
+        if [[ "$STATUS" == "broken" ]]; then
+            PROBE_OUT=$(timeout 10 ffprobe -v error -select_streams a:0 -show_entries stream=codec_name -of default=noprint_wrappers=1:nokey=1 "$STREAM" 2>&1)
+            if [[ -n "$PROBE_OUT" && "$PROBE_OUT" != *"Error"* ]]; then
+                STATUS="working"
+                FORMAT="$PROBE_OUT"
+            fi
+        fi
 
         [[ -z "$FORMAT" ]] && FORMAT="unknown"
 
