@@ -147,6 +147,7 @@ for ((p=0; p<MAX_PAGES; p++)); do
             --arg url "$STREAM" \
             --arg country "$NAME" \
             --arg status "$STATUS" \
+            --arg codec "$FORMAT" \
             --arg date "$(date -Is)" \
             --argjson genres "$GENRES" \
             '{
@@ -159,6 +160,7 @@ for ((p=0; p<MAX_PAGES; p++)); do
                 genres: $genres,
                 language: [],
                 status: $status,
+                codec: $codec,
                 last_tested_at: $date
             }')
 

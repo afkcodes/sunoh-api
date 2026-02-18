@@ -140,9 +140,9 @@ while [[ $PAGES_SCRAPED -lt $MAX_PAGES && -n "$PAGE_URL" ]]; do
         
         # Build JSON item with the verified working stream info
         STATION_JSON=$(echo "$DETAIL" | jq --arg status "$WORKING_STATUS" \
-                                          --arg format "$WORKING_FORMAT" \
+                                          --arg codec "$WORKING_FORMAT" \
                                           --arg best_url "$WORKING_STREAM" \
-                                          '. + {status: $status, format: $format, verified_url: $best_url}')
+                                          '. + {status: $status, codec: $codec, verified_url: $best_url}')
         STATIONS_JSON=$(echo "$STATIONS_JSON" | jq --argjson item "$STATION_JSON" '. += [$item]')
     done
     print_separator
