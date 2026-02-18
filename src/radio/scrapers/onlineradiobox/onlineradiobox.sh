@@ -116,26 +116,25 @@ for ((p=0; p<MAX_PAGES; p++)); do
 
         LOG_NAME=$(echo "$STATION_NAME" | cut -c1-42)
 
-        # ---------- HYBRID TEST (VLC + FFPROBE FALLBACK) ----------
+        # ---------- HYBRID TEST (FFPROBE PRIMARY + VLC FALLBACK) ----------
         STATUS="broken"
         FORMAT="unknown"
 
-        # Try VLC first
-        VLC_OUT=$(timeout 10 cvlc -vv -I dummy --vout=dummy --aout=dummy --no-video --play-and-exit --run-time=2 "$STREAM" vlc://quit 2>&1)
-        
-        if echo "$VLC_OUT" | grep -qiE "audio decoder|audio output|samplerate: [0-9]+"; then
+        # 1. Try ffprobe first (Industry standard for reliable stream analysis)
+        PROBE_OUT=$(timeout 10 ffprobe -v error -select_streams a:0 -show_entries stream=codec_name -of default=noprint_wrappers=1:nokey=1 "$STREAM" 2>&1)
+        if [[ -n "$PROBE_OUT" && "$PROBE_OUT" != *"Error"* && "$PROBE_OUT" != *"Failed"* ]]; then
             STATUS="working"
-            FORMAT=$(echo "$VLC_OUT" \
-                | grep -oaP 'adaptive demux: .* -> \K[^ ]+|audio decoder module "\K[^"]+|packetizer: \K[^ ]+|codec: \K[^ ]+' \
-                | head -n 1 | tr -d '"' | cut -d' ' -f1)
+            FORMAT="$PROBE_OUT"
         fi
 
-        # Fallback to ffprobe if VLC failed (FFmpeg is much more robust on servers)
+        # 2. Fallback to VLC only if ffprobe failed (VLC can sometimes handle weird redirects better)
         if [[ "$STATUS" == "broken" ]]; then
-            PROBE_OUT=$(timeout 10 ffprobe -v error -select_streams a:0 -show_entries stream=codec_name -of default=noprint_wrappers=1:nokey=1 "$STREAM" 2>&1)
-            if [[ -n "$PROBE_OUT" && "$PROBE_OUT" != *"Error"* ]]; then
+            VLC_OUT=$(timeout 10 cvlc -vv -I dummy --vout=dummy --aout=dummy --no-video --play-and-exit --run-time=2 "$STREAM" vlc://quit 2>&1)
+            if echo "$VLC_OUT" | grep -qiE "audio decoder|audio output|samplerate: [0-9]+"; then
                 STATUS="working"
-                FORMAT="$PROBE_OUT"
+                FORMAT=$(echo "$VLC_OUT" \
+                    | grep -oaP 'adaptive demux: .* -> \K[^ ]+|audio decoder module "\K[^"]+|packetizer: \K[^ ]+|codec: \K[^ ]+' \
+                    | head -n 1 | tr -d '"' | cut -d' ' -f1)
             fi
         fi
 

@@ -117,22 +117,30 @@ while [[ $PAGES_SCRAPED -lt $MAX_PAGES && -n "$PAGE_URL" ]]; do
             
             if [[ "$S_URL" == "null" || -z "$S_URL" ]]; then continue; fi
 
-            # Test stream with VLC (headless mode)
-            VLC_OUT=$(timeout 5 cvlc -I dummy --vout=dummy --no-video --no-audio --access 'http,https' "$S_URL" vlc://quit 2>&1)
-            
-            CODEC="N/A"
+            # ---------- HYBRID TEST (FFPROBE PRIMARY + VLC FALLBACK) ----------
+            CODEC="unknown"
             FOUND=0
-            if echo "$VLC_OUT" | grep -qiE "mpega|mpga|mp3"; then CODEC="mp3"; FOUND=1;
-            elif echo "$VLC_OUT" | grep -qiE "aac|mp4a"; then CODEC="aac"; FOUND=1;
-            elif echo "$VLC_OUT" | grep -qiE "h264|video|ts"; then CODEC="video"; FOUND=1;
-            elif echo "$VLC_OUT" | grep -qiE "icy-name"; then CODEC="stream"; FOUND=1;
+
+            # 1. Try ffprobe first
+            PROBE_OUT=$(timeout 8 ffprobe -v error -select_streams a:0 -show_entries stream=codec_name -of default=noprint_wrappers=1:nokey=1 "$S_URL" 2>&1)
+            if [[ -n "$PROBE_OUT" && "$PROBE_OUT" != *"Error"* && "$PROBE_OUT" != *"Failed"* ]]; then
+                CODEC="$PROBE_OUT"
+                FOUND=1
+            fi
+
+            # 2. Fallback to VLC
+            if [[ $FOUND -eq 0 ]]; then
+                VLC_OUT=$(timeout 8 cvlc -I dummy --vout=dummy --aout=dummy --no-video "$S_URL" vlc://quit 2>&1)
+                if echo "$VLC_OUT" | grep -qiE "mpega|mpga|mp3"; then CODEC="mp3"; FOUND=1;
+                elif echo "$VLC_OUT" | grep -qiE "aac|mp4a"; then CODEC="aac"; FOUND=1;
+                elif echo "$VLC_OUT" | grep -qiE "icy-name"; then CODEC="stream"; FOUND=1;
+                fi
             fi
 
             if [[ $FOUND -eq 1 ]]; then
                 WORKING_STREAM="$S_URL"
                 WORKING_FORMAT="$CODEC"
                 WORKING_STATUS="${GREEN}working${NC}"
-                if [[ "$CODEC" == "video" ]]; then WORKING_STATUS="${YELLOW}warning${NC}"; fi
                 break # Found a working stream!
             fi
         done <<< "$S_STREAMS"
