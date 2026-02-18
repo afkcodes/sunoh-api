@@ -117,24 +117,15 @@ while [[ $PAGES_SCRAPED -lt $MAX_PAGES && -n "$PAGE_URL" ]]; do
             
             if [[ "$S_URL" == "null" || -z "$S_URL" ]]; then continue; fi
 
-            # ---------- HYBRID TEST (FFPROBE PRIMARY + VLC FALLBACK) ----------
+            # ---------- STREAM VALIDATION (FFPROBE ONLY) ----------
             CODEC="unknown"
             FOUND=0
 
-            # 1. Try ffprobe first
+            # Use ffprobe to verify the presence of an audio stream
             PROBE_OUT=$(timeout 8 ffprobe -v error -select_streams a:0 -show_entries stream=codec_name -of default=noprint_wrappers=1:nokey=1 "$S_URL" 2>&1)
             if [[ -n "$PROBE_OUT" && "$PROBE_OUT" != *"Error"* && "$PROBE_OUT" != *"Failed"* ]]; then
                 CODEC="$PROBE_OUT"
                 FOUND=1
-            fi
-
-            # 2. Fallback to VLC
-            if [[ $FOUND -eq 0 ]]; then
-                VLC_OUT=$(timeout 8 cvlc -I dummy --vout=dummy --aout=dummy --no-video "$S_URL" vlc://quit 2>&1)
-                if echo "$VLC_OUT" | grep -qiE "mpega|mpga|mp3"; then CODEC="mp3"; FOUND=1;
-                elif echo "$VLC_OUT" | grep -qiE "aac|mp4a"; then CODEC="aac"; FOUND=1;
-                elif echo "$VLC_OUT" | grep -qiE "icy-name"; then CODEC="stream"; FOUND=1;
-                fi
             fi
 
             if [[ $FOUND -eq 1 ]]; then

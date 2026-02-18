@@ -9,7 +9,7 @@ Since you already have Node.js installed, you only need to install the multimedi
 Run this:
 ```bash
 sudo apt update
-sudo apt install -y vlc-bin vlc-plugin-base ca-certificates jq python3
+sudo apt install -y ca-certificates jq python3 ffmpeg
 ```
 
 *(Note: If you don't have Node.js yet, use [Nodesource](https://github.com/nodesource/distributions) or NVM instead of apt).*
