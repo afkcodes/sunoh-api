@@ -4,6 +4,7 @@ import json
 import glob
 import subprocess
 import concurrent.futures
+import argparse
 from collections import defaultdict
 from datetime import datetime
 
@@ -11,7 +12,6 @@ from datetime import datetime
 MAX_WORKERS = 40  # Number of parallel ffprobe checks
 PROBE_TIMEOUT = 10  # Seconds to wait for each stream
 OUTPUT_DIR = "src/radio/scrapers/metadata"
-MASTER_FILE = os.path.join(OUTPUT_DIR, "master_stations.json")
 
 def validate_stream(station):
     """Use ffprobe to verify a stream and get technical metadata."""
@@ -20,7 +20,6 @@ def validate_stream(station):
         return station
 
     try:
-        # We ask for codec, bitrate, and sample rate
         cmd = [
             "ffprobe", 
             "-v", "error",
@@ -53,9 +52,10 @@ def validate_stream(station):
     station["last_tested_at"] = datetime.now().isoformat()
     return station
 
-def ingest_stations():
+def ingest_provider(provider_name):
     scraped_dir = "scraped_data"
     iso_map_path = os.path.join(OUTPUT_DIR, "countries_iso_map.json")
+    output_file = os.path.join(OUTPUT_DIR, f"validated_{provider_name}.json")
     
     # Load ISO Mapping
     try:
@@ -65,27 +65,21 @@ def ingest_stations():
         print(f"Error loading ISO map: {e}")
         return
 
-    # Load existing master if it exists (for caching validation)
-    existing_master = {}
-    if os.path.exists(MASTER_FILE):
-        try:
-            with open(MASTER_FILE, 'r', encoding='utf-8') as f:
-                for s in json.load(f):
-                    existing_master[s["stream_url"]] = s
-        except: pass
-
-    # Unified Master Dictionary (Key: Playback URL)
-    master_library = {}
+    # Dictionary to deduplicate internal provider results by URL
+    provider_library = {}
     total_raw_entries = 0
 
-    # Find all JSON files
-    files = glob.glob(os.path.join(scraped_dir, "**/*.json"), recursive=True)
-    print(f"--- Ingesting data from {len(files)} files ---")
+    # Find all JSON files for this specific provider
+    search_pattern = os.path.join(scraped_dir, f"**/{provider_name}.json")
+    files = glob.glob(search_pattern, recursive=True)
+    
+    if not files:
+        print(f"No scraped data found for provider: {provider_name}")
+        return
+
+    print(f"--- Ingesting {provider_name} data from {len(files)} files ---")
 
     for file_path in files:
-        if not (file_path.endswith("onlineradiobox.json") or file_path.endswith("mytuner.json")):
-            continue
-            
         try:
             folder_country = os.path.basename(os.path.dirname(file_path))
             iso_code = iso_map.get(folder_country, folder_country)
@@ -98,70 +92,63 @@ def ingest_stations():
                     if not url: continue
                     
                     url = url.strip()
-                    provider = station.get("provider", "unknown")
                     
-                    if url not in master_library:
-                        master_library[url] = {
+                    if url not in provider_library:
+                        provider_library[url] = {
                             "name": station.get("name", "Unknown"),
-                            "image": station.get("image", ""),
+                            "image_url": station.get("image", ""),
                             "stream_url": url,
                             "countries": {iso_code},
                             "genres": set(station.get("genres", [])),
-                            "providers": {provider: station.get("id")},
+                            "provider_name": provider_name,
+                            "provider_id": station.get("id"),
                             "status": "untested",
                             "codec": "unknown",
                             "languages": set(station.get("language", [])),
                         }
-                        # If we already have validation data for this URL, preserve it
-                        if url in existing_master:
-                            master_library[url].update({
-                                "status": existing_master[url].get("status", "untested"),
-                                "codec": existing_master[url].get("codec", "unknown"),
-                                "bitrate": existing_master[url].get("bitrate"),
-                                "sample_rate": existing_master[url].get("sample_rate"),
-                                "last_tested_at": existing_master[url].get("last_tested_at")
-                            })
                     else:
-                        entry = master_library[url]
+                        entry = provider_library[url]
                         entry["countries"].add(iso_code)
                         if "genres" in station: entry["genres"].update(station["genres"])
-                        entry["providers"][provider] = station.get("id")
 
         except Exception as e:
             print(f"Error processing {file_path}: {e}")
 
-    # Convert to list for processing
-    unique_stations = []
-    for url, data in master_library.items():
+    # Convert to list for validation
+    stations_to_process = []
+    for url, data in provider_library.items():
         data["countries"] = sorted(list(data["countries"]))
         data["genres"] = sorted(list(data["genres"]))
         data["languages"] = sorted(list(data["languages"]))
-        unique_stations.append(data)
+        stations_to_process.append(data)
 
+    print(f"--- Found {len(stations_to_process)} unique stations for {provider_name} ---")
+    
     # Validation Phase
-    to_validate = [s for s in unique_stations if s["status"] == "untested" or s["status"] == "broken"]
-    print(f"--- Found {len(unique_stations)} unique stations ---")
-    print(f"--- Validating {len(to_validate)} stations (Parallel {MAX_WORKERS}) ---")
-
-    if to_validate:
+    if stations_to_process:
+        print(f"--- Validating streams (Parallel {MAX_WORKERS}) ---")
         with concurrent.futures.ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
-            future_to_station = {executor.submit(validate_stream, s): s for s in to_validate}
+            future_to_station = {executor.submit(validate_stream, s): s for s in stations_to_process}
             count = 0
             for future in concurrent.futures.as_completed(future_to_station):
                 count += 1
                 if count % 100 == 0:
-                    print(f"Progress: {count}/{len(to_validate)} tested...")
+                    print(f"Progress: {count}/{len(stations_to_process)} tested...")
         
-    # Save Final Master
-    with open(MASTER_FILE, 'w', encoding='utf-8') as f:
-        json.dump(unique_stations, f, indent=2, ensure_ascii=False)
+    # Save Validated Provider File
+    with open(output_file, 'w', encoding='utf-8') as f:
+        json.dump(stations_to_process, f, indent=2, ensure_ascii=False)
 
     print("\n" + "="*50)
-    print(f"INGESTION & VALIDATION COMPLETE")
+    print(f"VALIDATION COMPLETE FOR {provider_name.upper()}")
     print("="*50)
-    print(f"Total Unique: {len(unique_stations)}")
-    print(f"Master saved to: {MASTER_FILE}")
+    print(f"Total Unique: {len(stations_to_process)}")
+    print(f"Validated file saved: {output_file}")
     print("="*50)
 
 if __name__ == "__main__":
-    ingest_stations()
+    parser = argparse.ArgumentParser(description='Ingest and validate radio stations for a specific provider.')
+    parser.add_argument('--provider', type=str, required=True, help='Name of the provider (e.g., onlineradiobox, mytuner)')
+    
+    args = parser.parse_args()
+    ingest_provider(args.provider)
