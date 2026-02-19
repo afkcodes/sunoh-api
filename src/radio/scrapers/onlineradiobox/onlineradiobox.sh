@@ -12,6 +12,7 @@ PROJECT_ROOT=$(cd "$(dirname "$0")/../../../" && pwd)
 OUTPUT_DIR="$PROJECT_ROOT/scraped_data/$NAME"
 OUTPUT_FILE="$OUTPUT_DIR/onlineradiobox.json"
 SCRAPER_DIR="$(dirname "$0")"
+BASE_URL="https://onlineradiobox.com/$CODE/"
 
 # Colors (Premium Palette)
 GREEN=$'\033[1;32m'
