@@ -9,9 +9,10 @@ from datetime import datetime
 
 # Configuration
 MAX_WORKERS = 40  # Number of parallel ffprobe checks
-PROBE_TIMEOUT = 10  # Seconds to wait for each stream
+PROBE_TIMEOUT = 15  # Seconds to wait for each stream
 OUTPUT_DIR = "src/radio/scrapers/metadata"
 USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+REFERER = "https://onlineradiobox.com/"
 
 def validate_stream(station):
     """Use ffprobe to verify a stream and get technical metadata."""
@@ -21,9 +22,11 @@ def validate_stream(station):
 
     try:
         # Added -user_agent to bypass simple bot protection/403s
+        headers = f"Referer: {REFERER}\r\n"
         cmd = [
             "ffprobe", 
             "-user_agent", USER_AGENT,
+            "-headers", headers,
             "-v", "error",
             "-select_streams", "a:0",
             "-show_entries", "stream=codec_name,bit_rate,sample_rate",
