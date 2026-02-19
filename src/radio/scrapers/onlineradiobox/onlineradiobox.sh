@@ -120,9 +120,9 @@ for ((p=0; p<MAX_PAGES; p++)); do
         STATUS="broken"
         FORMAT="unknown"
 
-        # Use ffprobe to verify the presence of an audio stream
-        # This is the most reliable method for headless servers
-        PROBE_OUT=$(timeout 10 ffprobe -v error -select_streams a:0 -show_entries stream=codec_name -of default=noprint_wrappers=1:nokey=1 "$STREAM" 2>&1)
+        # Use ffprobe with a real User-Agent to bypass simple bot blocks
+        UA="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+        PROBE_OUT=$(timeout 8 ffprobe -user_agent "$UA" -v error -select_streams a:0 -show_entries stream=codec_name -of default=noprint_wrappers=1:nokey=1 "$STREAM" 2>&1)
         
         # Stricter check: Output must not be empty, must not contain error/fail, and should not have spaces/brackets
         if [[ -n "$PROBE_OUT" ]] && \
