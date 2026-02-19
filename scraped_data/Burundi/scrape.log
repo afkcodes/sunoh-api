@@ -1,0 +1,46 @@
+[1;36m==================================================[0m
+[1;33mScraping Burundi (bi) - Auto Pagination[0m
+[1;36m==================================================[0m
+
+[1;36mFetching page 0:[0m https://onlineradiobox.com/bi/?p=0
+[0;90m+------+--------------------------------------------+------------+--------------+
+[0m[0;90m|[0m [1;37mNo  [0m [0;90m|[0m [1;37mStation                                   [0m [0;90m|[0m [1;37mStatus    [0m [0;90m|[0m [1;37mFormat      [0m [0;90m|[0m
+[0;90m+------+--------------------------------------------+------------+--------------+
+[0m[0;90m|[0m [1;34m1   [0m [0;90m|[0m [1;36mRadio Isanganiro                          [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m2   [0m [0;90m|[0m [1;36mRadio Maria                               [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mAAC         [0m [0;90m|[0m
+[0;90m|[0m [1;34m3   [0m [0;90m|[0m [1;36mIteka FM                                  [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mAAC         [0m [0;90m|[0m
+[0;90m|[0m [1;34m4   [0m [0;90m|[0m [1;36mRadio Izere FM                            [0m [0;90m|[0m [1;31mbroken    [0m [0;90m|[0m [1;35munknown     [0m [0;90m|[0m
+[0;90m|[0m [1;34m5   [0m [0;90m|[0m [1;36mGlorious Newness Radio (burundi)          [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m6   [0m [0;90m|[0m [1;36mRadio Bonesha FM                          [0m [0;90m|[0m [1;31mbroken    [0m [0;90m|[0m [1;35munknown     [0m [0;90m|[0m
+[0;90m|[0m [1;34m7   [0m [0;90m|[0m [1;36mRTMB Chaine 1                             [0m [0;90m|[0m [1;31mbroken    [0m [0;90m|[0m [1;35munknown     [0m [0;90m|[0m
+[0;90m|[0m [1;34m8   [0m [0;90m|[0m [1;36mRadio Peace FM                            [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mAAC         [0m [0;90m|[0m
+[0;90m|[0m [1;34m9   [0m [0;90m|[0m [1;36mRadio Télévision Rukaramu               [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m10  [0m [0;90m|[0m [1;36mRadio TV Homewood Burundi                 [0m [0;90m|[0m [1;31mbroken    [0m [0;90m|[0m [1;35munknown     [0m [0;90m|[0m
+[0;90m|[0m [1;34m11  [0m [0;90m|[0m [1;36mRadio Umuco FM                            [0m [0;90m|[0m [1;31mbroken    [0m [0;90m|[0m [1;35munknown     [0m [0;90m|[0m
+[0;90m|[0m [1;34m12  [0m [0;90m|[0m [1;36mATOCO MEDIA                               [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m13  [0m [0;90m|[0m [1;36mRadio B.A.A MEDIA FM                      [0m [0;90m|[0m [1;31mbroken    [0m [0;90m|[0m [1;35munknown     [0m [0;90m|[0m
+[0;90m|[0m [1;34m14  [0m [0;90m|[0m [1;36mBdusa Media                               [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m15  [0m [0;90m|[0m [1;36mRemesha Amahoro FM                        [0m [0;90m|[0m [1;31mbroken    [0m [0;90m|[0m [1;35munknown     [0m [0;90m|[0m
+[0;90m|[0m [1;34m16  [0m [0;90m|[0m [1;36mAntenna Web Gitega                        [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m17  [0m [0;90m|[0m [1;36mTzgospel Burundi                          [0m [0;90m|[0m [1;31mbroken    [0m [0;90m|[0m [1;35munknown     [0m [0;90m|[0m
+[0;90m|[0m [1;34m18  [0m [0;90m|[0m [1;36mRadio Shima FM                            [0m [0;90m|[0m [1;31mbroken    [0m [0;90m|[0m [1;35munknown     [0m [0;90m|[0m
+[0;90m|[0m [1;34m19  [0m [0;90m|[0m [1;36mHero Radio (burundi)                      [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m20  [0m [0;90m|[0m [1;36mRadio Intwali FM                          [0m [0;90m|[0m [1;31mbroken    [0m [0;90m|[0m [1;35munknown     [0m [0;90m|[0m
+[0;90m|[0m [1;34m21  [0m [0;90m|[0m [1;36mLRCM Radio (Burundi)                      [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m22  [0m [0;90m|[0m [1;36mBuja FM                                   [0m [0;90m|[0m [1;31mbroken    [0m [0;90m|[0m [1;35munknown     [0m [0;90m|[0m
+[0;90m|[0m [1;34m23  [0m [0;90m|[0m [1;36mRadio Television Rukaramu Internationa    [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m24  [0m [0;90m|[0m [1;36mRadio RFM                                 [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35munknown     [0m [0;90m|[0m
+[0;90m|[0m [1;34m25  [0m [0;90m|[0m [1;36mIrebe FM                                  [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35munknown     [0m [0;90m|[0m
+[0;90m+------+--------------------------------------------+------------+--------------+
+[0m
+[1;36mFetching page 1:[0m https://onlineradiobox.com/bi/?p=1
+[0;90m+------+--------------------------------------------+------------+--------------+
+[0m[0;90m|[0m [1;37mNo  [0m [0;90m|[0m [1;37mStation                                   [0m [0;90m|[0m [1;37mStatus    [0m [0;90m|[0m [1;37mFormat      [0m [0;90m|[0m
+[0;90m+------+--------------------------------------------+------------+--------------+
+[0m[0;90m|[0m [1;34m1   [0m [0;90m|[0m [1;36mRadio Eagle Sport FM                      [0m [0;90m|[0m [1;31mbroken    [0m [0;90m|[0m [1;35munknown     [0m [0;90m|[0m
+[0;90m|[0m [1;34m2   [0m [0;90m|[0m [1;36mRadio Fo-Fe                               [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m3   [0m [0;90m|[0m [1;36mMenya Live                                [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m+------+--------------------------------------------+------------+--------------+
+[0mNo next page. Finished.
+
+[1;32mSaved 28 stations to scraped_data/Burundi/onlineradiobox.json[0m

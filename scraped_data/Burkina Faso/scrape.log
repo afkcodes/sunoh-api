@@ -1,0 +1,54 @@
+[1;36m==================================================[0m
+[1;33mScraping Burkina Faso (bf) - Auto Pagination[0m
+[1;36m==================================================[0m
+
+[1;36mFetching page 0:[0m https://onlineradiobox.com/bf/?p=0
+[0;90m+------+--------------------------------------------+------------+--------------+
+[0m[0;90m|[0m [1;37mNo  [0m [0;90m|[0m [1;37mStation                                   [0m [0;90m|[0m [1;37mStatus    [0m [0;90m|[0m [1;37mFormat      [0m [0;90m|[0m
+[0;90m+------+--------------------------------------------+------------+--------------+
+[0m[0;90m|[0m [1;34m1   [0m [0;90m|[0m [1;36mSavane FM                                 [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mAAC         [0m [0;90m|[0m
+[0;90m|[0m [1;34m2   [0m [0;90m|[0m [1;36mRadio Omega                               [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35munknown     [0m [0;90m|[0m
+[0;90m|[0m [1;34m3   [0m [0;90m|[0m [1;36mRadio Legende Ouaga                       [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mAAC         [0m [0;90m|[0m
+[0;90m|[0m [1;34m4   [0m [0;90m|[0m [1;36mRadio Pulsar                              [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m5   [0m [0;90m|[0m [1;36mRadio Iqra Burkina                        [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m6   [0m [0;90m|[0m [1;36mRadio la Voix des Balé                   [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m7   [0m [0;90m|[0m [1;36mBourgade FM 94.3                          [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m8   [0m [0;90m|[0m [1;36mRadio La Voix Du Paysan                   [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m9   [0m [0;90m|[0m [1;36mHorizon Fm Ouaga                          [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m10  [0m [0;90m|[0m [1;36mRadio De La Solidarite                    [0m [0;90m|[0m [1;31mbroken    [0m [0;90m|[0m [1;35munknown     [0m [0;90m|[0m
+[0;90m|[0m [1;34m11  [0m [0;90m|[0m [1;36mRadio Burkina RTB                         [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35munknown     [0m [0;90m|[0m
+[0;90m|[0m [1;34m12  [0m [0;90m|[0m [1;36mRadio Pognere                             [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m13  [0m [0;90m|[0m [1;36mRadio Maria                               [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m14  [0m [0;90m|[0m [1;36mRADIO VENEGRE                             [0m [0;90m|[0m [1;31mbroken    [0m [0;90m|[0m [1;35munknown     [0m [0;90m|[0m
+[0;90m|[0m [1;34m15  [0m [0;90m|[0m [1;36mRadio Bassy FM                            [0m [0;90m|[0m [1;31mbroken    [0m [0;90m|[0m [1;35munknown     [0m [0;90m|[0m
+[0;90m|[0m [1;34m16  [0m [0;90m|[0m [1;36mAntenna Web Ouagadougou                   [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m17  [0m [0;90m|[0m [1;36mRadio Tin Tua Piela                       [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m18  [0m [0;90m|[0m [1;36mRadio Al Houda                            [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m19  [0m [0;90m|[0m [1;36mRadio Palabre                             [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m20  [0m [0;90m|[0m [1;36mRadio Tankonnon                           [0m [0;90m|[0m [1;31mbroken    [0m [0;90m|[0m [1;35munknown     [0m [0;90m|[0m
+[0;90m|[0m [1;34m21  [0m [0;90m|[0m [1;36mRadio Fasomédias/Unalfa                  [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m22  [0m [0;90m|[0m [1;36mManegda Fm                                [0m [0;90m|[0m [1;31mbroken    [0m [0;90m|[0m [1;35munknown     [0m [0;90m|[0m
+[0;90m|[0m [1;34m23  [0m [0;90m|[0m [1;36mFocus Radio                               [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m24  [0m [0;90m|[0m [1;36mRED Burkina                               [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m25  [0m [0;90m|[0m [1;36mRadio Goulou                              [0m [0;90m|[0m [1;31mbroken    [0m [0;90m|[0m [1;35munknown     [0m [0;90m|[0m
+[0;90m+------+--------------------------------------------+------------+--------------+
+[0m
+[1;36mFetching page 1:[0m https://onlineradiobox.com/bf/?p=1
+[0;90m+------+--------------------------------------------+------------+--------------+
+[0m[0;90m|[0m [1;37mNo  [0m [0;90m|[0m [1;37mStation                                   [0m [0;90m|[0m [1;37mStatus    [0m [0;90m|[0m [1;37mFormat      [0m [0;90m|[0m
+[0;90m+------+--------------------------------------------+------------+--------------+
+[0m[0;90m|[0m [1;34m1   [0m [0;90m|[0m [1;36mBurkina Debat Radio                       [0m [0;90m|[0m [1;31mbroken    [0m [0;90m|[0m [1;35munknown     [0m [0;90m|[0m
+[0;90m|[0m [1;34m2   [0m [0;90m|[0m [1;36mRadio Djawoampo                           [0m [0;90m|[0m [1;31mbroken    [0m [0;90m|[0m [1;35munknown     [0m [0;90m|[0m
+[0;90m|[0m [1;34m3   [0m [0;90m|[0m [1;36mRadio Kawral                              [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m4   [0m [0;90m|[0m [1;36mRichess Radio                             [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m5   [0m [0;90m|[0m [1;36mLRCM Radio (Burkina Fasco)                [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m6   [0m [0;90m|[0m [1;36mPanorama Radio                            [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m7   [0m [0;90m|[0m [1;36mGn Radio Burkina Faso                     [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m8   [0m [0;90m|[0m [1;36mRadio Solidarité Ouahigouya              [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35munknown     [0m [0;90m|[0m
+[0;90m|[0m [1;34m9   [0m [0;90m|[0m [1;36mRadio Tampani                             [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m10  [0m [0;90m|[0m [1;36mGulmutic Webradio                         [0m [0;90m|[0m [1;31mbroken    [0m [0;90m|[0m [1;35munknown     [0m [0;90m|[0m
+[0;90m|[0m [1;34m11  [0m [0;90m|[0m [1;36mHero Radio (Burkina Faso)                 [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m+------+--------------------------------------------+------------+--------------+
+[0mNo next page. Finished.
+
+[1;32mSaved 36 stations to scraped_data/Burkina Faso/onlineradiobox.json[0m

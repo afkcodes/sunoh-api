@@ -1,0 +1,655 @@
+[1;36m==================================================[0m
+[1;33mScraping Guatemala (gt) - Auto Pagination[0m
+[1;36m==================================================[0m
+
+[1;36mFetching page 0:[0m https://onlineradiobox.com/gt/?p=0
+[0;90m+------+--------------------------------------------+------------+--------------+
+[0m[0;90m|[0m [1;37mNo  [0m [0;90m|[0m [1;37mStation                                   [0m [0;90m|[0m [1;37mStatus    [0m [0;90m|[0m [1;37mFormat      [0m [0;90m|[0m
+[0;90m+------+--------------------------------------------+------------+--------------+
+[0m[0;90m|[0m [1;34m1   [0m [0;90m|[0m [1;36mRadio Palabra-Miel                        [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m2   [0m [0;90m|[0m [1;36mRadio Emisoras Unidas                     [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m3   [0m [0;90m|[0m [1;36mRadio Panamericana de Guatemala           [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m4   [0m [0;90m|[0m [1;36mClasica                                   [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mAAC         [0m [0;90m|[0m
+[0;90m|[0m [1;34m5   [0m [0;90m|[0m [1;36mGlobo FM 98.9                             [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mAAC         [0m [0;90m|[0m
+[0;90m|[0m [1;34m6   [0m [0;90m|[0m [1;36mRadio Cultural TGN                        [0m [0;90m|[0m [1;31mbroken    [0m [0;90m|[0m [1;35munknown     [0m [0;90m|[0m
+[0;90m|[0m [1;34m7   [0m [0;90m|[0m [1;36mRadio Mia                                 [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mAAC         [0m [0;90m|[0m
+[0;90m|[0m [1;34m8   [0m [0;90m|[0m [1;36mKissFM                                    [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m9   [0m [0;90m|[0m [1;36mRadio Pirata Gt                           [0m [0;90m|[0m [1;31mbroken    [0m [0;90m|[0m [1;35munknown     [0m [0;90m|[0m
+[0;90m|[0m [1;34m10  [0m [0;90m|[0m [1;36mLa Grande                                 [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m11  [0m [0;90m|[0m [1;36mAlfa FM                                   [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mfaad        [0m [0;90m|[0m
+[0;90m|[0m [1;34m12  [0m [0;90m|[0m [1;36mRetro Hits Radio                          [0m [0;90m|[0m [1;31mbroken    [0m [0;90m|[0m [1;35munknown     [0m [0;90m|[0m
+[0;90m|[0m [1;34m13  [0m [0;90m|[0m [1;36mFama                                      [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mAAC         [0m [0;90m|[0m
+[0;90m|[0m [1;34m14  [0m [0;90m|[0m [1;36mEventos Católicos Radio                  [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m15  [0m [0;90m|[0m [1;36mRadio DJ Guatemala                        [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mAAC         [0m [0;90m|[0m
+[0;90m|[0m [1;34m16  [0m [0;90m|[0m [1;36mYosi Sideral FM                           [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m17  [0m [0;90m|[0m [1;36mRadio Sonora                              [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mfaad        [0m [0;90m|[0m
+[0;90m|[0m [1;34m18  [0m [0;90m|[0m [1;36mEstereo Alegre 101.5 FM Occidente         [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m19  [0m [0;90m|[0m [1;36mRadio Viva                                [0m [0;90m|[0m [1;31mbroken    [0m [0;90m|[0m [1;35munknown     [0m [0;90m|[0m
+[0;90m|[0m [1;34m20  [0m [0;90m|[0m [1;36mFabuestereo FM                            [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m21  [0m [0;90m|[0m [1;36mRhema Stereo                              [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m22  [0m [0;90m|[0m [1;36mRadio Camino De Santidad                  [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mAAC         [0m [0;90m|[0m
+[0;90m|[0m [1;34m23  [0m [0;90m|[0m [1;36mEstereo Salvación                        [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m24  [0m [0;90m|[0m [1;36mActitud                                   [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m25  [0m [0;90m|[0m [1;36mTGMI Radio Buenas Nuevas                  [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mAAC         [0m [0;90m|[0m
+[0;90m+------+--------------------------------------------+------------+--------------+
+[0m
+[1;36mFetching page 1:[0m https://onlineradiobox.com/gt/?p=1
+[0;90m+------+--------------------------------------------+------------+--------------+
+[0m[0;90m|[0m [1;37mNo  [0m [0;90m|[0m [1;37mStation                                   [0m [0;90m|[0m [1;37mStatus    [0m [0;90m|[0m [1;37mFormat      [0m [0;90m|[0m
+[0;90m+------+--------------------------------------------+------------+--------------+
+[0m[0;90m|[0m [1;34m1   [0m [0;90m|[0m [1;36mELM Radio Quetzaltenango                  [0m [0;90m|[0m [1;31mbroken    [0m [0;90m|[0m [1;35munknown     [0m [0;90m|[0m
+[0;90m|[0m [1;34m2   [0m [0;90m|[0m [1;36mRadio VEA                                 [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m3   [0m [0;90m|[0m [1;36m949                                       [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mfaad        [0m [0;90m|[0m
+[0;90m|[0m [1;34m4   [0m [0;90m|[0m [1;36mUnion Radio Adventista                    [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m5   [0m [0;90m|[0m [1;36mRadio Romantica                           [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m6   [0m [0;90m|[0m [1;36mEstereo Emanuel                           [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mAAC         [0m [0;90m|[0m
+[0;90m|[0m [1;34m7   [0m [0;90m|[0m [1;36mStereo Hits                               [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m8   [0m [0;90m|[0m [1;36mCaribean FM                               [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mAAC         [0m [0;90m|[0m
+[0;90m|[0m [1;34m9   [0m [0;90m|[0m [1;36mRadio 107 Exito                           [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m10  [0m [0;90m|[0m [1;36mMarimbas Del Recuerdo                     [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mAAC         [0m [0;90m|[0m
+[0;90m|[0m [1;34m11  [0m [0;90m|[0m [1;36mOrión Stereo                             [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m12  [0m [0;90m|[0m [1;36mExclusivaturadio                          [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m13  [0m [0;90m|[0m [1;36mStereo Luz                                [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35munknown     [0m [0;90m|[0m
+[0;90m|[0m [1;34m14  [0m [0;90m|[0m [1;36mRadio Marimba                             [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m15  [0m [0;90m|[0m [1;36mAsi Fue Mi Vida Radio                     [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mAAC         [0m [0;90m|[0m
+[0;90m|[0m [1;34m16  [0m [0;90m|[0m [1;36mRadio Revelacion y Verdad                 [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m17  [0m [0;90m|[0m [1;36mRadio Xtrema                              [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mfaad        [0m [0;90m|[0m
+[0;90m|[0m [1;34m18  [0m [0;90m|[0m [1;36mRadio Maria                               [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mAAC         [0m [0;90m|[0m
+[0;90m|[0m [1;34m19  [0m [0;90m|[0m [1;36mLa Indomable De La Costa                  [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35munknown     [0m [0;90m|[0m
+[0;90m|[0m [1;34m20  [0m [0;90m|[0m [1;36mStereo Apocalipsis                        [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m21  [0m [0;90m|[0m [1;36mTropicálida                              [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mfaad        [0m [0;90m|[0m
+[0;90m|[0m [1;34m22  [0m [0;90m|[0m [1;36mMusic K-Pop                               [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m23  [0m [0;90m|[0m [1;36mRadio America Guatemala                   [0m [0;90m|[0m [1;31mbroken    [0m [0;90m|[0m [1;35munknown     [0m [0;90m|[0m
+[0;90m|[0m [1;34m24  [0m [0;90m|[0m [1;36mSu Voz Del Hogar                          [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mAAC         [0m [0;90m|[0m
+[0;90m|[0m [1;34m25  [0m [0;90m|[0m [1;36mLa Nueva Mega                             [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m+------+--------------------------------------------+------------+--------------+
+[0m
+[1;36mFetching page 2:[0m https://onlineradiobox.com/gt/?p=2
+[0;90m+------+--------------------------------------------+------------+--------------+
+[0m[0;90m|[0m [1;37mNo  [0m [0;90m|[0m [1;37mStation                                   [0m [0;90m|[0m [1;37mStatus    [0m [0;90m|[0m [1;37mFormat      [0m [0;90m|[0m
+[0;90m+------+--------------------------------------------+------------+--------------+
+[0m[0;90m|[0m [1;34m1   [0m [0;90m|[0m [1;36mRadio La Jefa                             [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35munknown     [0m [0;90m|[0m
+[0;90m|[0m [1;34m2   [0m [0;90m|[0m [1;36mRadio TGW                                 [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m3   [0m [0;90m|[0m [1;36mMarimba de Guatemala Radio                [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mAAC         [0m [0;90m|[0m
+[0;90m|[0m [1;34m4   [0m [0;90m|[0m [1;36mAntigua FM                                [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m5   [0m [0;90m|[0m [1;36mRCN Mega                                  [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m6   [0m [0;90m|[0m [1;36mRadio Estrella                            [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m7   [0m [0;90m|[0m [1;36mLa Chimalteca                             [0m [0;90m|[0m [1;31mbroken    [0m [0;90m|[0m [1;35munknown     [0m [0;90m|[0m
+[0;90m|[0m [1;34m8   [0m [0;90m|[0m [1;36mLa Masheñita                             [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mAAC         [0m [0;90m|[0m
+[0;90m|[0m [1;34m9   [0m [0;90m|[0m [1;36mLa Peligrosa Sur                          [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mAAC         [0m [0;90m|[0m
+[0;90m|[0m [1;34m10  [0m [0;90m|[0m [1;36mRadio Esperanza Viva                      [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m11  [0m [0;90m|[0m [1;36mRadio Mundial FM                          [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mAAC         [0m [0;90m|[0m
+[0;90m|[0m [1;34m12  [0m [0;90m|[0m [1;36mLa Tesorito 92.7 (Xela)                   [0m [0;90m|[0m [1;31mbroken    [0m [0;90m|[0m [1;35munknown     [0m [0;90m|[0m
+[0;90m|[0m [1;34m13  [0m [0;90m|[0m [1;36mRadio la Voz del Príncipe de Paz         [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m14  [0m [0;90m|[0m [1;36mDinamica FM                               [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m15  [0m [0;90m|[0m [1;36mRadio La Patrona                          [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mAAC         [0m [0;90m|[0m
+[0;90m|[0m [1;34m16  [0m [0;90m|[0m [1;36mExa FM                                    [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m17  [0m [0;90m|[0m [1;36mLaRed - FM                                [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mAAC         [0m [0;90m|[0m
+[0;90m|[0m [1;34m18  [0m [0;90m|[0m [1;36mRadio Indiana                             [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mAAC         [0m [0;90m|[0m
+[0;90m|[0m [1;34m19  [0m [0;90m|[0m [1;36mAtmosfera                                 [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m20  [0m [0;90m|[0m [1;36mClub Radio                                [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mAAC         [0m [0;90m|[0m
+[0;90m|[0m [1;34m21  [0m [0;90m|[0m [1;36mUnicornio Estereo                         [0m [0;90m|[0m [1;31mbroken    [0m [0;90m|[0m [1;35munknown     [0m [0;90m|[0m
+[0;90m|[0m [1;34m22  [0m [0;90m|[0m [1;36mRemanente Escogido Radio                  [0m [0;90m|[0m [1;31mbroken    [0m [0;90m|[0m [1;35munknown     [0m [0;90m|[0m
+[0;90m|[0m [1;34m23  [0m [0;90m|[0m [1;36mKe Buena                                  [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m24  [0m [0;90m|[0m [1;36mFM Coco                                   [0m [0;90m|[0m [1;31mbroken    [0m [0;90m|[0m [1;35munknown     [0m [0;90m|[0m
+[0;90m|[0m [1;34m25  [0m [0;90m|[0m [1;36mRadio Dios De Pacto                       [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mAAC         [0m [0;90m|[0m
+[0;90m+------+--------------------------------------------+------------+--------------+
+[0m
+[1;36mFetching page 3:[0m https://onlineradiobox.com/gt/?p=3
+[0;90m+------+--------------------------------------------+------------+--------------+
+[0m[0;90m|[0m [1;37mNo  [0m [0;90m|[0m [1;37mStation                                   [0m [0;90m|[0m [1;37mStatus    [0m [0;90m|[0m [1;37mFormat      [0m [0;90m|[0m
+[0;90m+------+--------------------------------------------+------------+--------------+
+[0m[0;90m|[0m [1;34m1   [0m [0;90m|[0m [1;36mPresencia Radio                           [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m2   [0m [0;90m|[0m [1;36mRadio Dj Guatemala                        [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m3   [0m [0;90m|[0m [1;36mSin Fronteras Radio                       [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m4   [0m [0;90m|[0m [1;36mStereo 100                                [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mAAC         [0m [0;90m|[0m
+[0;90m|[0m [1;34m5   [0m [0;90m|[0m [1;36mLa Gozadera GT                            [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m6   [0m [0;90m|[0m [1;36mRadio Mi Redentor                         [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m7   [0m [0;90m|[0m [1;36mLa Sanjuanera La Mera Mera                [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m8   [0m [0;90m|[0m [1;36mRadio La Poderosa Guatemala               [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mAAC         [0m [0;90m|[0m
+[0;90m|[0m [1;34m9   [0m [0;90m|[0m [1;36mRadio Voz Catolica Tacana                 [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m10  [0m [0;90m|[0m [1;36mLa Zona                                   [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m11  [0m [0;90m|[0m [1;36mRadio Destello                            [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mAAC         [0m [0;90m|[0m
+[0;90m|[0m [1;34m12  [0m [0;90m|[0m [1;36mRadio La Voz De Jesucristo                [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mAAC         [0m [0;90m|[0m
+[0;90m|[0m [1;34m13  [0m [0;90m|[0m [1;36mRadio Disney                              [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mAAC         [0m [0;90m|[0m
+[0;90m|[0m [1;34m14  [0m [0;90m|[0m [1;36mLibertopolis FM                           [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m15  [0m [0;90m|[0m [1;36mNuevo Tiempo                              [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m16  [0m [0;90m|[0m [1;36mStereo Musical FM                         [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m17  [0m [0;90m|[0m [1;36mRadio Rock                                [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mAAC         [0m [0;90m|[0m
+[0;90m|[0m [1;34m18  [0m [0;90m|[0m [1;36mLa Radio Del Merengue                     [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mAAC         [0m [0;90m|[0m
+[0;90m|[0m [1;34m19  [0m [0;90m|[0m [1;36mRadio Maranatha                           [0m [0;90m|[0m [1;31mbroken    [0m [0;90m|[0m [1;35munknown     [0m [0;90m|[0m
+[0;90m|[0m [1;34m20  [0m [0;90m|[0m [1;36mEstéreo Revelación                      [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m21  [0m [0;90m|[0m [1;36mFlix                                      [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mfaad        [0m [0;90m|[0m
+[0;90m|[0m [1;34m22  [0m [0;90m|[0m [1;36mRadio Redención Gualán                  [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m23  [0m [0;90m|[0m [1;36mLa Marca                                  [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mfaad        [0m [0;90m|[0m
+[0;90m|[0m [1;34m24  [0m [0;90m|[0m [1;36mRadio Mass                                [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mAAC         [0m [0;90m|[0m
+[0;90m|[0m [1;34m25  [0m [0;90m|[0m [1;36mStereo Chiventur                          [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m+------+--------------------------------------------+------------+--------------+
+[0m
+[1;36mFetching page 4:[0m https://onlineradiobox.com/gt/?p=4
+[0;90m+------+--------------------------------------------+------------+--------------+
+[0m[0;90m|[0m [1;37mNo  [0m [0;90m|[0m [1;37mStation                                   [0m [0;90m|[0m [1;37mStatus    [0m [0;90m|[0m [1;37mFormat      [0m [0;90m|[0m
+[0;90m+------+--------------------------------------------+------------+--------------+
+[0m[0;90m|[0m [1;34m1   [0m [0;90m|[0m [1;36mFM Joya                                   [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mfaad        [0m [0;90m|[0m
+[0;90m|[0m [1;34m2   [0m [0;90m|[0m [1;36mFiesta FM                                 [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mTS          [0m [0;90m|[0m
+[0;90m|[0m [1;34m3   [0m [0;90m|[0m [1;36mRadio Centro de Rancho FM                 [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mAAC         [0m [0;90m|[0m
+[0;90m|[0m [1;34m4   [0m [0;90m|[0m [1;36mRadio Bahia FM                            [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mAAC         [0m [0;90m|[0m
+[0;90m|[0m [1;34m5   [0m [0;90m|[0m [1;36mPlaneta Radio                             [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m6   [0m [0;90m|[0m [1;36mEstudio de La Palabra                     [0m [0;90m|[0m [1;31mbroken    [0m [0;90m|[0m [1;35munknown     [0m [0;90m|[0m
+[0;90m|[0m [1;34m7   [0m [0;90m|[0m [1;36mRadio Luz Fm                              [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m8   [0m [0;90m|[0m [1;36mSalmodiando                               [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m9   [0m [0;90m|[0m [1;36mGinos Producciones                        [0m [0;90m|[0m [1;31mbroken    [0m [0;90m|[0m [1;35munknown     [0m [0;90m|[0m
+[0;90m|[0m [1;34m10  [0m [0;90m|[0m [1;36mRadio MegaMix                             [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m11  [0m [0;90m|[0m [1;36mEstereo 106                               [0m [0;90m|[0m [1;31mbroken    [0m [0;90m|[0m [1;35munknown     [0m [0;90m|[0m
+[0;90m|[0m [1;34m12  [0m [0;90m|[0m [1;36mMaxima GT                                 [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mAAC         [0m [0;90m|[0m
+[0;90m|[0m [1;34m13  [0m [0;90m|[0m [1;36mGalaxia La Picosa                         [0m [0;90m|[0m [1;31mbroken    [0m [0;90m|[0m [1;35munknown     [0m [0;90m|[0m
+[0;90m|[0m [1;34m14  [0m [0;90m|[0m [1;36mRumba Radio DJ                            [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mAAC         [0m [0;90m|[0m
+[0;90m|[0m [1;34m15  [0m [0;90m|[0m [1;36mRadio La Autentica                        [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mAAC         [0m [0;90m|[0m
+[0;90m|[0m [1;34m16  [0m [0;90m|[0m [1;36mInterface Radio                           [0m [0;90m|[0m [1;31mbroken    [0m [0;90m|[0m [1;35munknown     [0m [0;90m|[0m
+[0;90m|[0m [1;34m17  [0m [0;90m|[0m [1;36mBanana Super Stereo                       [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mAAC         [0m [0;90m|[0m
+[0;90m|[0m [1;34m18  [0m [0;90m|[0m [1;36mSalama Stereo                             [0m [0;90m|[0m [1;31mbroken    [0m [0;90m|[0m [1;35munknown     [0m [0;90m|[0m
+[0;90m|[0m [1;34m19  [0m [0;90m|[0m [1;36mRadio La Nina                             [0m [0;90m|[0m [1;31mbroken    [0m [0;90m|[0m [1;35munknown     [0m [0;90m|[0m
+[0;90m|[0m [1;34m20  [0m [0;90m|[0m [1;36mRadio djs Chapin                          [0m [0;90m|[0m [1;31mbroken    [0m [0;90m|[0m [1;35munknown     [0m [0;90m|[0m
+[0;90m|[0m [1;34m21  [0m [0;90m|[0m [1;36mMinisterio Radial Poder de Dios           [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m22  [0m [0;90m|[0m [1;36mExa Occidente 94.7 FM                     [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m23  [0m [0;90m|[0m [1;36mRadio Vision Del Rey                      [0m [0;90m|[0m [1;31mbroken    [0m [0;90m|[0m [1;35munknown     [0m [0;90m|[0m
+[0;90m|[0m [1;34m24  [0m [0;90m|[0m [1;36mStereo Redencion                          [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m25  [0m [0;90m|[0m [1;36mRadio Consejero Fiel                      [0m [0;90m|[0m [1;31mbroken    [0m [0;90m|[0m [1;35munknown     [0m [0;90m|[0m
+[0;90m+------+--------------------------------------------+------------+--------------+
+[0m
+[1;36mFetching page 5:[0m https://onlineradiobox.com/gt/?p=5
+[0;90m+------+--------------------------------------------+------------+--------------+
+[0m[0;90m|[0m [1;37mNo  [0m [0;90m|[0m [1;37mStation                                   [0m [0;90m|[0m [1;37mStatus    [0m [0;90m|[0m [1;37mFormat      [0m [0;90m|[0m
+[0;90m+------+--------------------------------------------+------------+--------------+
+[0m[0;90m|[0m [1;34m1   [0m [0;90m|[0m [1;36mDavid Radio                               [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m2   [0m [0;90m|[0m [1;36mRadio Cielo                               [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mAAC         [0m [0;90m|[0m
+[0;90m|[0m [1;34m3   [0m [0;90m|[0m [1;36mStereo Impacto                            [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m4   [0m [0;90m|[0m [1;36mIlumina 98.1 FM                           [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mAAC         [0m [0;90m|[0m
+[0;90m|[0m [1;34m5   [0m [0;90m|[0m [1;36mMalacatan Estereo                         [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m6   [0m [0;90m|[0m [1;36mRadio Tecomate                            [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mAAC         [0m [0;90m|[0m
+[0;90m|[0m [1;34m7   [0m [0;90m|[0m [1;36mRadio Revelacion Gt                       [0m [0;90m|[0m [1;31mbroken    [0m [0;90m|[0m [1;35munknown     [0m [0;90m|[0m
+[0;90m|[0m [1;34m8   [0m [0;90m|[0m [1;36mGamer Sound                               [0m [0;90m|[0m [1;31mbroken    [0m [0;90m|[0m [1;35munknown     [0m [0;90m|[0m
+[0;90m|[0m [1;34m9   [0m [0;90m|[0m [1;36mRadio Punto                               [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m10  [0m [0;90m|[0m [1;36mLa Mas Cabrona                            [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m11  [0m [0;90m|[0m [1;36mRadio San Antonio 103.9 FM                [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35munknown     [0m [0;90m|[0m
+[0;90m|[0m [1;34m12  [0m [0;90m|[0m [1;36mJHS Radio Catolica                        [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m13  [0m [0;90m|[0m [1;36mRadio Quiche                              [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mAAC         [0m [0;90m|[0m
+[0;90m|[0m [1;34m14  [0m [0;90m|[0m [1;36mStereo Trinidad                           [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35munknown     [0m [0;90m|[0m
+[0;90m|[0m [1;34m15  [0m [0;90m|[0m [1;36mLa Chulada Estereo RDC                    [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m16  [0m [0;90m|[0m [1;36mRadio Interactiva Aguacatán              [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mAAC         [0m [0;90m|[0m
+[0;90m|[0m [1;34m17  [0m [0;90m|[0m [1;36mRadio Peniel                              [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m18  [0m [0;90m|[0m [1;36mLa Mandona                                [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m19  [0m [0;90m|[0m [1;36mRadio Porteña                            [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m20  [0m [0;90m|[0m [1;36mROCK NATION GT                            [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m21  [0m [0;90m|[0m [1;36mClàsica Hits                             [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mAAC         [0m [0;90m|[0m
+[0;90m|[0m [1;34m22  [0m [0;90m|[0m [1;36mRadio Mix Guatemala                       [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m23  [0m [0;90m|[0m [1;36mRadio Contacto 91.3 FM Huehuetenango      [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m24  [0m [0;90m|[0m [1;36mRadio Gratitud GT                         [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m25  [0m [0;90m|[0m [1;36mTropiExitos GT Radio                      [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m+------+--------------------------------------------+------------+--------------+
+[0m
+[1;36mFetching page 6:[0m https://onlineradiobox.com/gt/?p=6
+[0;90m+------+--------------------------------------------+------------+--------------+
+[0m[0;90m|[0m [1;37mNo  [0m [0;90m|[0m [1;37mStation                                   [0m [0;90m|[0m [1;37mStatus    [0m [0;90m|[0m [1;37mFormat      [0m [0;90m|[0m
+[0;90m+------+--------------------------------------------+------------+--------------+
+[0m[0;90m|[0m [1;34m1   [0m [0;90m|[0m [1;36mEstereo Amor - 87.9 Fm La frecuencia del A[0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m2   [0m [0;90m|[0m [1;36mChichi FM                                 [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35munknown     [0m [0;90m|[0m
+[0;90m|[0m [1;34m3   [0m [0;90m|[0m [1;36mCHILL GT                                  [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m4   [0m [0;90m|[0m [1;36mRadio Rhema Presencia                     [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mAAC         [0m [0;90m|[0m
+[0;90m|[0m [1;34m5   [0m [0;90m|[0m [1;36mSonido Celestial Radio                    [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m6   [0m [0;90m|[0m [1;36mRadio Musica Clasica                      [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m7   [0m [0;90m|[0m [1;36mRadio y Televisión Fraternidad           [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mAAC         [0m [0;90m|[0m
+[0;90m|[0m [1;34m8   [0m [0;90m|[0m [1;36mGenesis Radio                             [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m9   [0m [0;90m|[0m [1;36mRadio La LEY                              [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m10  [0m [0;90m|[0m [1;36mLa Jefa es la ley                         [0m [0;90m|[0m [1;31mbroken    [0m [0;90m|[0m [1;35munknown     [0m [0;90m|[0m
+[0;90m|[0m [1;34m11  [0m [0;90m|[0m [1;36mINTERCOP RADIO                            [0m [0;90m|[0m [1;31mbroken    [0m [0;90m|[0m [1;35munknown     [0m [0;90m|[0m
+[0;90m|[0m [1;34m12  [0m [0;90m|[0m [1;36mRadio Cumbre la Voz de Mixco              [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m13  [0m [0;90m|[0m [1;36mRadio Gentsemani                          [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m14  [0m [0;90m|[0m [1;36mMetropolis Antigua 105.3 FM               [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m15  [0m [0;90m|[0m [1;36mLa Morgue                                 [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m16  [0m [0;90m|[0m [1;36mRadio Sulamita                            [0m [0;90m|[0m [1;31mbroken    [0m [0;90m|[0m [1;35munknown     [0m [0;90m|[0m
+[0;90m|[0m [1;34m17  [0m [0;90m|[0m [1;36mLa Pop Radio Gt                           [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m18  [0m [0;90m|[0m [1;36mRadio Complice Cuilco                     [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mAAC         [0m [0;90m|[0m
+[0;90m|[0m [1;34m19  [0m [0;90m|[0m [1;36mPrimicia Radio                            [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m20  [0m [0;90m|[0m [1;36mRadio Esla                                [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mAAC         [0m [0;90m|[0m
+[0;90m|[0m [1;34m21  [0m [0;90m|[0m [1;36mMaster FM                                 [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mAAC         [0m [0;90m|[0m
+[0;90m|[0m [1;34m22  [0m [0;90m|[0m [1;36mRadio Encarnación Aguacatán             [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mAAC         [0m [0;90m|[0m
+[0;90m|[0m [1;34m23  [0m [0;90m|[0m [1;36mRadio Maya                                [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m24  [0m [0;90m|[0m [1;36mJosy Music Live PLUS                      [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mAAC         [0m [0;90m|[0m
+[0;90m|[0m [1;34m25  [0m [0;90m|[0m [1;36mEstereo Solar - Peten                     [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mAAC         [0m [0;90m|[0m
+[0;90m+------+--------------------------------------------+------------+--------------+
+[0m
+[1;36mFetching page 7:[0m https://onlineradiobox.com/gt/?p=7
+[0;90m+------+--------------------------------------------+------------+--------------+
+[0m[0;90m|[0m [1;37mNo  [0m [0;90m|[0m [1;37mStation                                   [0m [0;90m|[0m [1;37mStatus    [0m [0;90m|[0m [1;37mFormat      [0m [0;90m|[0m
+[0;90m+------+--------------------------------------------+------------+--------------+
+[0m[0;90m|[0m [1;34m1   [0m [0;90m|[0m [1;36mLA MALCRIADA                              [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m2   [0m [0;90m|[0m [1;36mJosy Music Live PLUS                      [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mAAC         [0m [0;90m|[0m
+[0;90m|[0m [1;34m3   [0m [0;90m|[0m [1;36mRadio Encarnación Aguacatán             [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mAAC         [0m [0;90m|[0m
+[0;90m|[0m [1;34m4   [0m [0;90m|[0m [1;36mLos Mejores Sones                         [0m [0;90m|[0m [1;31mbroken    [0m [0;90m|[0m [1;35munknown     [0m [0;90m|[0m
+[0;90m|[0m [1;34m5   [0m [0;90m|[0m [1;36mRadio Santa Cruz                          [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m6   [0m [0;90m|[0m [1;36mSinceridad Radio                          [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m7   [0m [0;90m|[0m [1;36mFlow 502 Radio                            [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m8   [0m [0;90m|[0m [1;36mRadio La Consentida                       [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mAAC         [0m [0;90m|[0m
+[0;90m|[0m [1;34m9   [0m [0;90m|[0m [1;36mLa Vieja                                  [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mAAC         [0m [0;90m|[0m
+[0;90m|[0m [1;34m10  [0m [0;90m|[0m [1;36mSoplando Vida                             [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m11  [0m [0;90m|[0m [1;36mStereo San Antonio FM                     [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mAAC         [0m [0;90m|[0m
+[0;90m|[0m [1;34m12  [0m [0;90m|[0m [1;36mEl Hit Radio                              [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35munknown     [0m [0;90m|[0m
+[0;90m|[0m [1;34m13  [0m [0;90m|[0m [1;36mFm 95                                     [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mAAC         [0m [0;90m|[0m
+[0;90m|[0m [1;34m14  [0m [0;90m|[0m [1;36mDetonación Metal Radio                   [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m15  [0m [0;90m|[0m [1;36mDoble S                                   [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mAAC         [0m [0;90m|[0m
+[0;90m|[0m [1;34m16  [0m [0;90m|[0m [1;36mStereo Chonimacorral HD                   [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m17  [0m [0;90m|[0m [1;36mRadio Génesis Jacaltenango               [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m18  [0m [0;90m|[0m [1;36mStereo Paxixil                            [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mAAC         [0m [0;90m|[0m
+[0;90m|[0m [1;34m19  [0m [0;90m|[0m [1;36mUniverso Radio Coatepeque                 [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m20  [0m [0;90m|[0m [1;36mNuestra Marimba                           [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mAAC         [0m [0;90m|[0m
+[0;90m|[0m [1;34m21  [0m [0;90m|[0m [1;36mLa Querida 101.9 De Zona En Zona          [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m22  [0m [0;90m|[0m [1;36mStereo Vision                             [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m23  [0m [0;90m|[0m [1;36mLuz Fm Totonicapan                        [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m24  [0m [0;90m|[0m [1;36mRadical Radiogt                           [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m25  [0m [0;90m|[0m [1;36mRadio Creativa                            [0m [0;90m|[0m [1;31mbroken    [0m [0;90m|[0m [1;35mAAC         [0m [0;90m|[0m
+[0;90m+------+--------------------------------------------+------------+--------------+
+[0m
+[1;36mFetching page 8:[0m https://onlineradiobox.com/gt/?p=8
+[0;90m+------+--------------------------------------------+------------+--------------+
+[0m[0;90m|[0m [1;37mNo  [0m [0;90m|[0m [1;37mStation                                   [0m [0;90m|[0m [1;37mStatus    [0m [0;90m|[0m [1;37mFormat      [0m [0;90m|[0m
+[0;90m+------+--------------------------------------------+------------+--------------+
+[0m[0;90m|[0m [1;34m1   [0m [0;90m|[0m [1;36mRadio FM Ritmo                            [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mAAC         [0m [0;90m|[0m
+[0;90m|[0m [1;34m2   [0m [0;90m|[0m [1;36mEstereo Juvenil                           [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m3   [0m [0;90m|[0m [1;36mStereo Xoyita                             [0m [0;90m|[0m [1;31mbroken    [0m [0;90m|[0m [1;35munknown     [0m [0;90m|[0m
+[0;90m|[0m [1;34m4   [0m [0;90m|[0m [1;36mLa Golondrina 94.3  Puro Ambiente         [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m5   [0m [0;90m|[0m [1;36mLa Campesina                              [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m6   [0m [0;90m|[0m [1;36mXprésat Guate                            [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m7   [0m [0;90m|[0m [1;36mDiamante                                  [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mAAC         [0m [0;90m|[0m
+[0;90m|[0m [1;34m8   [0m [0;90m|[0m [1;36mBona Radio                                [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m9   [0m [0;90m|[0m [1;36mRadio Luz                                 [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m10  [0m [0;90m|[0m [1;36mLa Voz del Cuarto Angel                   [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m11  [0m [0;90m|[0m [1;36mRadio Explosiva 96.7 fm                   [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m12  [0m [0;90m|[0m [1;36mLa Rancherisima                           [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mAAC         [0m [0;90m|[0m
+[0;90m|[0m [1;34m13  [0m [0;90m|[0m [1;36mNova Estereo                              [0m [0;90m|[0m [1;31mbroken    [0m [0;90m|[0m [1;35munknown     [0m [0;90m|[0m
+[0;90m|[0m [1;34m14  [0m [0;90m|[0m [1;36mCariñosa Radio Santa Eulalia             [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m15  [0m [0;90m|[0m [1;36mRadio Candelero de Barillas Huehuetenango [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35munknown     [0m [0;90m|[0m
+[0;90m|[0m [1;34m16  [0m [0;90m|[0m [1;36mRadio La Grande FM                        [0m [0;90m|[0m [1;31mbroken    [0m [0;90m|[0m [1;35munknown     [0m [0;90m|[0m
+[0;90m|[0m [1;34m17  [0m [0;90m|[0m [1;36mEstereo Ostuncalco                        [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m18  [0m [0;90m|[0m [1;36mRadio la Voz de Atitlan                   [0m [0;90m|[0m [1;31mbroken    [0m [0;90m|[0m [1;35munknown     [0m [0;90m|[0m
+[0;90m|[0m [1;34m19  [0m [0;90m|[0m [1;36mEstereo Adoracion                         [0m [0;90m|[0m [1;31mbroken    [0m [0;90m|[0m [1;35munknown     [0m [0;90m|[0m
+[0;90m|[0m [1;34m20  [0m [0;90m|[0m [1;36mCucuruchos Online Radio                   [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m21  [0m [0;90m|[0m [1;36mRadio La Pequeña HD                      [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35munknown     [0m [0;90m|[0m
+[0;90m|[0m [1;34m22  [0m [0;90m|[0m [1;36mGlorioso Estereo                          [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35munknown     [0m [0;90m|[0m
+[0;90m|[0m [1;34m23  [0m [0;90m|[0m [1;36mRadio Revelacion De Dios                  [0m [0;90m|[0m [1;31mbroken    [0m [0;90m|[0m [1;35munknown     [0m [0;90m|[0m
+[0;90m|[0m [1;34m24  [0m [0;90m|[0m [1;36mRadio Siglo                               [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mAAC         [0m [0;90m|[0m
+[0;90m|[0m [1;34m25  [0m [0;90m|[0m [1;36mLa Jocosa                                 [0m [0;90m|[0m [1;31mbroken    [0m [0;90m|[0m [1;35munknown     [0m [0;90m|[0m
+[0;90m+------+--------------------------------------------+------------+--------------+
+[0m
+[1;36mFetching page 9:[0m https://onlineradiobox.com/gt/?p=9
+[0;90m+------+--------------------------------------------+------------+--------------+
+[0m[0;90m|[0m [1;37mNo  [0m [0;90m|[0m [1;37mStation                                   [0m [0;90m|[0m [1;37mStatus    [0m [0;90m|[0m [1;37mFormat      [0m [0;90m|[0m
+[0;90m+------+--------------------------------------------+------------+--------------+
+[0m[0;90m|[0m [1;34m1   [0m [0;90m|[0m [1;36mStereo Nueva Candente                     [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35munknown     [0m [0;90m|[0m
+[0;90m|[0m [1;34m2   [0m [0;90m|[0m [1;36mDanta Radio                               [0m [0;90m|[0m [1;31mbroken    [0m [0;90m|[0m [1;35munknown     [0m [0;90m|[0m
+[0;90m|[0m [1;34m3   [0m [0;90m|[0m [1;36mLa Excel                                  [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mAAC         [0m [0;90m|[0m
+[0;90m|[0m [1;34m4   [0m [0;90m|[0m [1;36mRadio Mundial 700 AM                      [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mAAC         [0m [0;90m|[0m
+[0;90m|[0m [1;34m5   [0m [0;90m|[0m [1;36mFm Conga                                  [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m6   [0m [0;90m|[0m [1;36mRadio Estereo Dios de Pacto               [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m7   [0m [0;90m|[0m [1;36mRadio Ciudad Digital                      [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m8   [0m [0;90m|[0m [1;36mRadio Guateritmo                          [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m9   [0m [0;90m|[0m [1;36mRadio FM Sacapulas                        [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35munknown     [0m [0;90m|[0m
+[0;90m|[0m [1;34m10  [0m [0;90m|[0m [1;36mRadio Nueva Vida                          [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m11  [0m [0;90m|[0m [1;36mLa fm 89.9                                [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m12  [0m [0;90m|[0m [1;36mRadio Bendicion Tecpan                    [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m13  [0m [0;90m|[0m [1;36mExitos Xela                               [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mfaad        [0m [0;90m|[0m
+[0;90m|[0m [1;34m14  [0m [0;90m|[0m [1;36mStereo Mana del Cielo                     [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m15  [0m [0;90m|[0m [1;36mRadio Eben Ezer Aguacatán                [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m16  [0m [0;90m|[0m [1;36mPríncipe De Paz Radio Totonicapan        [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m17  [0m [0;90m|[0m [1;36mRadio Sol De Justicia Guatemala           [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m18  [0m [0;90m|[0m [1;36mRadio Amistad - La Voz Católica          [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m19  [0m [0;90m|[0m [1;36mRadio La Puerta es Cristo                 [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m20  [0m [0;90m|[0m [1;36mXesikel Radio                             [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m21  [0m [0;90m|[0m [1;36mRadio Apostol                             [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35munknown     [0m [0;90m|[0m
+[0;90m|[0m [1;34m22  [0m [0;90m|[0m [1;36mRadio Dragon                              [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m23  [0m [0;90m|[0m [1;36mRadio La Voz Celestial                    [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m24  [0m [0;90m|[0m [1;36mRadio Glorificando 88.5 FM                [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35munknown     [0m [0;90m|[0m
+[0;90m|[0m [1;34m25  [0m [0;90m|[0m [1;36mCrystal                                   [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m+------+--------------------------------------------+------------+--------------+
+[0m
+[1;36mFetching page 10:[0m https://onlineradiobox.com/gt/?p=10
+[0;90m+------+--------------------------------------------+------------+--------------+
+[0m[0;90m|[0m [1;37mNo  [0m [0;90m|[0m [1;37mStation                                   [0m [0;90m|[0m [1;37mStatus    [0m [0;90m|[0m [1;37mFormat      [0m [0;90m|[0m
+[0;90m+------+--------------------------------------------+------------+--------------+
+[0m[0;90m|[0m [1;34m1   [0m [0;90m|[0m [1;36mRadio Magica FM                           [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m2   [0m [0;90m|[0m [1;36mVibra FM Xela                             [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m3   [0m [0;90m|[0m [1;36mStereo Granadilla                         [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mAAC         [0m [0;90m|[0m
+[0;90m|[0m [1;34m4   [0m [0;90m|[0m [1;36mEstereo Central                           [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mAAC         [0m [0;90m|[0m
+[0;90m|[0m [1;34m5   [0m [0;90m|[0m [1;36mEstereo Nueva Jerusalem Guatemala         [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m6   [0m [0;90m|[0m [1;36mStereo Grandeza                           [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m7   [0m [0;90m|[0m [1;36mRadio La Nueva 107.7 Fm                   [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m8   [0m [0;90m|[0m [1;36mRadio Estereo Jardin de Dios              [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m9   [0m [0;90m|[0m [1;36mRadio Estrella HD                         [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m10  [0m [0;90m|[0m [1;36mRadio Esquipulas                          [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mAAC         [0m [0;90m|[0m
+[0;90m|[0m [1;34m11  [0m [0;90m|[0m [1;36mLa Patrona La que Ordena y Manda          [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35munknown     [0m [0;90m|[0m
+[0;90m|[0m [1;34m12  [0m [0;90m|[0m [1;36mEmisora Josue                             [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35munknown     [0m [0;90m|[0m
+[0;90m|[0m [1;34m13  [0m [0;90m|[0m [1;36mLA VOZ DEL PUEBLO TOTONICAPAN             [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m14  [0m [0;90m|[0m [1;36mRadio Voz El Carmen                       [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35munknown     [0m [0;90m|[0m
+[0;90m|[0m [1;34m15  [0m [0;90m|[0m [1;36mRadio Viva                                [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mAAC         [0m [0;90m|[0m
+[0;90m|[0m [1;34m16  [0m [0;90m|[0m [1;36mDynamis Radio 93.5                        [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m17  [0m [0;90m|[0m [1;36mRadio Voz Divina                          [0m [0;90m|[0m [1;31mbroken    [0m [0;90m|[0m [1;35munknown     [0m [0;90m|[0m
+[0;90m|[0m [1;34m18  [0m [0;90m|[0m [1;36mRadio Asuncion 92.3 y tv Tacána          [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m19  [0m [0;90m|[0m [1;36mLa Voz del Colón Radio                   [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m20  [0m [0;90m|[0m [1;36mRadio TV Salvando Almas Para Cristo       [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m21  [0m [0;90m|[0m [1;36mRadio Manantial De Vida                   [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m22  [0m [0;90m|[0m [1;36mRadio Nazaret                             [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mAAC         [0m [0;90m|[0m
+[0;90m|[0m [1;34m23  [0m [0;90m|[0m [1;36mIglesia Principe De Paz                   [0m [0;90m|[0m [1;31mbroken    [0m [0;90m|[0m [1;35munknown     [0m [0;90m|[0m
+[0;90m|[0m [1;34m24  [0m [0;90m|[0m [1;36mRey Estereo                               [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mAAC         [0m [0;90m|[0m
+[0;90m|[0m [1;34m25  [0m [0;90m|[0m [1;36mHd Estereo Lopez                          [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35munknown     [0m [0;90m|[0m
+[0;90m+------+--------------------------------------------+------------+--------------+
+[0m
+[1;36mFetching page 11:[0m https://onlineradiobox.com/gt/?p=11
+[0;90m+------+--------------------------------------------+------------+--------------+
+[0m[0;90m|[0m [1;37mNo  [0m [0;90m|[0m [1;37mStation                                   [0m [0;90m|[0m [1;37mStatus    [0m [0;90m|[0m [1;37mFormat      [0m [0;90m|[0m
+[0;90m+------+--------------------------------------------+------------+--------------+
+[0m[0;90m|[0m [1;34m1   [0m [0;90m|[0m [1;36mEstereo Bendicion                         [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m2   [0m [0;90m|[0m [1;36mLa Raza 502                               [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m3   [0m [0;90m|[0m [1;36mRadio FeLove                              [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m4   [0m [0;90m|[0m [1;36mRadio Santa Lucia                         [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m5   [0m [0;90m|[0m [1;36mEstereo Impacto                           [0m [0;90m|[0m [1;31mbroken    [0m [0;90m|[0m [1;35munknown     [0m [0;90m|[0m
+[0;90m|[0m [1;34m6   [0m [0;90m|[0m [1;36mRadio la Dueña 88.3 FM                   [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mAAC         [0m [0;90m|[0m
+[0;90m|[0m [1;34m7   [0m [0;90m|[0m [1;36mStereo Chiventur                          [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m8   [0m [0;90m|[0m [1;36mRadio Planeta Guatemala                   [0m [0;90m|[0m [1;31mbroken    [0m [0;90m|[0m [1;35munknown     [0m [0;90m|[0m
+[0;90m|[0m [1;34m9   [0m [0;90m|[0m [1;36mRadio Catolica Emmanuel                   [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m10  [0m [0;90m|[0m [1;36mLa Maxtatuda                              [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m11  [0m [0;90m|[0m [1;36mVolcan Radio                              [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m12  [0m [0;90m|[0m [1;36mClasse Stereo                             [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m13  [0m [0;90m|[0m [1;36mLa Voz de La Buena Nueva 91.9 FM          [0m [0;90m|[0m [1;31mbroken    [0m [0;90m|[0m [1;35munknown     [0m [0;90m|[0m
+[0;90m|[0m [1;34m14  [0m [0;90m|[0m [1;36mLa Potencia Musical Xela                  [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m15  [0m [0;90m|[0m [1;36mRadio Uncion La Voz Católica             [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m16  [0m [0;90m|[0m [1;36mPerla fm Huehue                           [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m17  [0m [0;90m|[0m [1;36mShofar FM                                 [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35munknown     [0m [0;90m|[0m
+[0;90m|[0m [1;34m18  [0m [0;90m|[0m [1;36mRadio La Voz De Jesús                    [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m19  [0m [0;90m|[0m [1;36mStereo Mam                                [0m [0;90m|[0m [1;31mbroken    [0m [0;90m|[0m [1;35munknown     [0m [0;90m|[0m
+[0;90m|[0m [1;34m20  [0m [0;90m|[0m [1;36mUMG RADIO                                 [0m [0;90m|[0m [1;31mbroken    [0m [0;90m|[0m [1;35munknown     [0m [0;90m|[0m
+[0;90m|[0m [1;34m21  [0m [0;90m|[0m [1;36mRadio Fe católica Tacana                 [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m22  [0m [0;90m|[0m [1;36mRadio La InNovadora TV                    [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mAAC         [0m [0;90m|[0m
+[0;90m|[0m [1;34m23  [0m [0;90m|[0m [1;36mRadio Chuimekena                          [0m [0;90m|[0m [1;31mbroken    [0m [0;90m|[0m [1;35munknown     [0m [0;90m|[0m
+[0;90m|[0m [1;34m24  [0m [0;90m|[0m [1;36mAzucar Estereo Zacapa                     [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mAAC         [0m [0;90m|[0m
+[0;90m|[0m [1;34m25  [0m [0;90m|[0m [1;36mSalud Somos Todos Radio                   [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35munknown     [0m [0;90m|[0m
+[0;90m+------+--------------------------------------------+------------+--------------+
+[0m
+[1;36mFetching page 12:[0m https://onlineradiobox.com/gt/?p=12
+[0;90m+------+--------------------------------------------+------------+--------------+
+[0m[0;90m|[0m [1;37mNo  [0m [0;90m|[0m [1;37mStation                                   [0m [0;90m|[0m [1;37mStatus    [0m [0;90m|[0m [1;37mFormat      [0m [0;90m|[0m
+[0;90m+------+--------------------------------------------+------------+--------------+
+[0m[0;90m|[0m [1;34m1   [0m [0;90m|[0m [1;36mRadio Corazón                            [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mAAC         [0m [0;90m|[0m
+[0;90m|[0m [1;34m2   [0m [0;90m|[0m [1;36mEstéreo Bethania                         [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m3   [0m [0;90m|[0m [1;36mLa Poderosa GT                            [0m [0;90m|[0m [1;31mbroken    [0m [0;90m|[0m [1;35munknown     [0m [0;90m|[0m
+[0;90m|[0m [1;34m4   [0m [0;90m|[0m [1;36mLa X Fm                                   [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m5   [0m [0;90m|[0m [1;36mRadio Tulan AEMG 101.1                    [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mAAC         [0m [0;90m|[0m
+[0;90m|[0m [1;34m6   [0m [0;90m|[0m [1;36mBuzzer Radio                              [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m7   [0m [0;90m|[0m [1;36mUnidos Como en el Cielo                   [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m8   [0m [0;90m|[0m [1;36mRadio Poder                               [0m [0;90m|[0m [1;31mbroken    [0m [0;90m|[0m [1;35munknown     [0m [0;90m|[0m
+[0;90m|[0m [1;34m9   [0m [0;90m|[0m [1;36mShalom Radio                              [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mAAC         [0m [0;90m|[0m
+[0;90m|[0m [1;34m10  [0m [0;90m|[0m [1;36mLibertad Radio 106.5                      [0m [0;90m|[0m [1;31mbroken    [0m [0;90m|[0m [1;35munknown     [0m [0;90m|[0m
+[0;90m|[0m [1;34m11  [0m [0;90m|[0m [1;36mXetinimit Radio                           [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mAAC         [0m [0;90m|[0m
+[0;90m|[0m [1;34m12  [0m [0;90m|[0m [1;36mRadio Proezas                             [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m13  [0m [0;90m|[0m [1;36mESTÉREO JEHOVÁ ES PODEROSO              [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m14  [0m [0;90m|[0m [1;36mLa Dominante                              [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m15  [0m [0;90m|[0m [1;36mFm Maya                                   [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mAAC         [0m [0;90m|[0m
+[0;90m|[0m [1;34m16  [0m [0;90m|[0m [1;36mRadio Ranchera                            [0m [0;90m|[0m [1;31mbroken    [0m [0;90m|[0m [1;35munknown     [0m [0;90m|[0m
+[0;90m|[0m [1;34m17  [0m [0;90m|[0m [1;36mRadio Klass 95                            [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35munknown     [0m [0;90m|[0m
+[0;90m|[0m [1;34m18  [0m [0;90m|[0m [1;36mUniversidad                               [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m19  [0m [0;90m|[0m [1;36mRadio Universal                           [0m [0;90m|[0m [1;31mbroken    [0m [0;90m|[0m [1;35munknown     [0m [0;90m|[0m
+[0;90m|[0m [1;34m20  [0m [0;90m|[0m [1;36mStereo Aguacatán                         [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m21  [0m [0;90m|[0m [1;36mRadio Gozo Del Cielo                      [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mAAC         [0m [0;90m|[0m
+[0;90m|[0m [1;34m22  [0m [0;90m|[0m [1;36mRetro Total                               [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mAAC         [0m [0;90m|[0m
+[0;90m|[0m [1;34m23  [0m [0;90m|[0m [1;36mStereo Colón Oasis Radio                 [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m24  [0m [0;90m|[0m [1;36mRadio TicTac                              [0m [0;90m|[0m [1;31mbroken    [0m [0;90m|[0m [1;35munknown     [0m [0;90m|[0m
+[0;90m|[0m [1;34m25  [0m [0;90m|[0m [1;36mRadio Nueva Vida GT                       [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m+------+--------------------------------------------+------------+--------------+
+[0m
+[1;36mFetching page 13:[0m https://onlineradiobox.com/gt/?p=13
+[0;90m+------+--------------------------------------------+------------+--------------+
+[0m[0;90m|[0m [1;37mNo  [0m [0;90m|[0m [1;37mStation                                   [0m [0;90m|[0m [1;37mStatus    [0m [0;90m|[0m [1;37mFormat      [0m [0;90m|[0m
+[0;90m+------+--------------------------------------------+------------+--------------+
+[0m[0;90m|[0m [1;34m1   [0m [0;90m|[0m [1;36mLa Super Soloma                           [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mAAC         [0m [0;90m|[0m
+[0;90m|[0m [1;34m2   [0m [0;90m|[0m [1;36mExtra FM                                  [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mAAC         [0m [0;90m|[0m
+[0;90m|[0m [1;34m3   [0m [0;90m|[0m [1;36mRadio Gospel GT                           [0m [0;90m|[0m [1;31mbroken    [0m [0;90m|[0m [1;35munknown     [0m [0;90m|[0m
+[0;90m|[0m [1;34m4   [0m [0;90m|[0m [1;36mNueva Vida Ixmujil Tacana                 [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m5   [0m [0;90m|[0m [1;36mSoyMigrante.com RADIO                     [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m6   [0m [0;90m|[0m [1;36mTOP RED RADIO                             [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mAAC         [0m [0;90m|[0m
+[0;90m|[0m [1;34m7   [0m [0;90m|[0m [1;36mLa Poderosa 90.5 FM                       [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mAAC         [0m [0;90m|[0m
+[0;90m|[0m [1;34m8   [0m [0;90m|[0m [1;36mEstereo Sol San Cristobal                 [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m9   [0m [0;90m|[0m [1;36mNorato Radio                              [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m10  [0m [0;90m|[0m [1;36mNuevomundo Izabal 92.3                    [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mAAC         [0m [0;90m|[0m
+[0;90m|[0m [1;34m11  [0m [0;90m|[0m [1;36mRadio La Voz De Santa Eulalia             [0m [0;90m|[0m [1;31mbroken    [0m [0;90m|[0m [1;35munknown     [0m [0;90m|[0m
+[0;90m|[0m [1;34m12  [0m [0;90m|[0m [1;36mRadio El Poder de Esquipulas              [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m13  [0m [0;90m|[0m [1;36mRadio la Tremenda HD                      [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mAAC         [0m [0;90m|[0m
+[0;90m|[0m [1;34m14  [0m [0;90m|[0m [1;36mRadio Huya                                [0m [0;90m|[0m [1;31mbroken    [0m [0;90m|[0m [1;35munknown     [0m [0;90m|[0m
+[0;90m|[0m [1;34m15  [0m [0;90m|[0m [1;36mRadio La Exclusiva FM                     [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mAAC         [0m [0;90m|[0m
+[0;90m|[0m [1;34m16  [0m [0;90m|[0m [1;36mRadio Gracia Online                       [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m17  [0m [0;90m|[0m [1;36mRadio La Maquina                          [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m18  [0m [0;90m|[0m [1;36mMI RADIO DE TOTONICAPAN                   [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m19  [0m [0;90m|[0m [1;36mEstereo Nueva Vida                        [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mAAC         [0m [0;90m|[0m
+[0;90m|[0m [1;34m20  [0m [0;90m|[0m [1;36mRadio Mario Super Chivos                  [0m [0;90m|[0m [1;31mbroken    [0m [0;90m|[0m [1;35munknown     [0m [0;90m|[0m
+[0;90m|[0m [1;34m21  [0m [0;90m|[0m [1;36mStereo Taca                               [0m [0;90m|[0m [1;31mbroken    [0m [0;90m|[0m [1;35munknown     [0m [0;90m|[0m
+[0;90m|[0m [1;34m22  [0m [0;90m|[0m [1;36mEstereo Marquense 93.1 FM                 [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m23  [0m [0;90m|[0m [1;36mCadena Radial FGER                        [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m24  [0m [0;90m|[0m [1;36mEstereo Antoniense                        [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mAAC         [0m [0;90m|[0m
+[0;90m|[0m [1;34m25  [0m [0;90m|[0m [1;36mRadio La DR                               [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35munknown     [0m [0;90m|[0m
+[0;90m+------+--------------------------------------------+------------+--------------+
+[0m
+[1;36mFetching page 14:[0m https://onlineradiobox.com/gt/?p=14
+[0;90m+------+--------------------------------------------+------------+--------------+
+[0m[0;90m|[0m [1;37mNo  [0m [0;90m|[0m [1;37mStation                                   [0m [0;90m|[0m [1;37mStatus    [0m [0;90m|[0m [1;37mFormat      [0m [0;90m|[0m
+[0;90m+------+--------------------------------------------+------------+--------------+
+[0m[0;90m|[0m [1;34m1   [0m [0;90m|[0m [1;36mAgnus Dei Radio                           [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m2   [0m [0;90m|[0m [1;36mRadio La Voz del Señor                   [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35munknown     [0m [0;90m|[0m
+[0;90m|[0m [1;34m3   [0m [0;90m|[0m [1;36mRadio Getsemani                           [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m4   [0m [0;90m|[0m [1;36mMas Musica 104.7 Escuintla                [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m5   [0m [0;90m|[0m [1;36mLa X Xela                                 [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mAAC         [0m [0;90m|[0m
+[0;90m|[0m [1;34m6   [0m [0;90m|[0m [1;36mLa Grande de Rancho                       [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m7   [0m [0;90m|[0m [1;36mMi Bello San Miguel Sigüila              [0m [0;90m|[0m [1;31mbroken    [0m [0;90m|[0m [1;35munknown     [0m [0;90m|[0m
+[0;90m|[0m [1;34m8   [0m [0;90m|[0m [1;36mRadio Juan 3:16                           [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m9   [0m [0;90m|[0m [1;36mUniversal Ojo de Agua                     [0m [0;90m|[0m [1;31mbroken    [0m [0;90m|[0m [1;35munknown     [0m [0;90m|[0m
+[0;90m|[0m [1;34m10  [0m [0;90m|[0m [1;36mRadio Hermosa                             [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mAAC         [0m [0;90m|[0m
+[0;90m|[0m [1;34m11  [0m [0;90m|[0m [1;36mLa Voz de mi Pueblo                       [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mAAC         [0m [0;90m|[0m
+[0;90m|[0m [1;34m12  [0m [0;90m|[0m [1;36mStereo Chivarreto                         [0m [0;90m|[0m [1;31mbroken    [0m [0;90m|[0m [1;35munknown     [0m [0;90m|[0m
+[0;90m|[0m [1;34m13  [0m [0;90m|[0m [1;36mRadio Truchita Ojeteca                    [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m14  [0m [0;90m|[0m [1;36mEstéreo Avivamiento Totonicapán         [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mAAC         [0m [0;90m|[0m
+[0;90m|[0m [1;34m15  [0m [0;90m|[0m [1;36mPancholon Radio                           [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m16  [0m [0;90m|[0m [1;36mRadio Libertad                            [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mAAC         [0m [0;90m|[0m
+[0;90m|[0m [1;34m17  [0m [0;90m|[0m [1;36mRadio La Redimida                         [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35munknown     [0m [0;90m|[0m
+[0;90m|[0m [1;34m18  [0m [0;90m|[0m [1;36mZuriel Radio GT                           [0m [0;90m|[0m [1;31mbroken    [0m [0;90m|[0m [1;35munknown     [0m [0;90m|[0m
+[0;90m|[0m [1;34m19  [0m [0;90m|[0m [1;36mLa Sabrosona 105.5 (Xela)                 [0m [0;90m|[0m [1;31mbroken    [0m [0;90m|[0m [1;35munknown     [0m [0;90m|[0m
+[0;90m|[0m [1;34m20  [0m [0;90m|[0m [1;36mEstereo Shalom Chimazat                   [0m [0;90m|[0m [1;31mbroken    [0m [0;90m|[0m [1;35munknown     [0m [0;90m|[0m
+[0;90m|[0m [1;34m21  [0m [0;90m|[0m [1;36mElohimnews radio                          [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m22  [0m [0;90m|[0m [1;36mRadioTunes                                [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m23  [0m [0;90m|[0m [1;36mRadio Getzemani en línea                 [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m24  [0m [0;90m|[0m [1;36mTienda Tiger Radio                        [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m25  [0m [0;90m|[0m [1;36mLa Pegajosa                               [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mAAC         [0m [0;90m|[0m
+[0;90m+------+--------------------------------------------+------------+--------------+
+[0m
+[1;36mFetching page 15:[0m https://onlineradiobox.com/gt/?p=15
+[0;90m+------+--------------------------------------------+------------+--------------+
+[0m[0;90m|[0m [1;37mNo  [0m [0;90m|[0m [1;37mStation                                   [0m [0;90m|[0m [1;37mStatus    [0m [0;90m|[0m [1;37mFormat      [0m [0;90m|[0m
+[0;90m+------+--------------------------------------------+------------+--------------+
+[0m[0;90m|[0m [1;34m1   [0m [0;90m|[0m [1;36mLuna Stereo 502                           [0m [0;90m|[0m [1;31mbroken    [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m2   [0m [0;90m|[0m [1;36mRadio la Exitosa de Chichicastenango      [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35munknown     [0m [0;90m|[0m
+[0;90m|[0m [1;34m3   [0m [0;90m|[0m [1;36mRadio Master                              [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mAAC         [0m [0;90m|[0m
+[0;90m|[0m [1;34m4   [0m [0;90m|[0m [1;36mRadio Faro Cultural 104.5 FM Guatemala    [0m [0;90m|[0m [1;31mbroken    [0m [0;90m|[0m [1;35munknown     [0m [0;90m|[0m
+[0;90m|[0m [1;34m5   [0m [0;90m|[0m [1;36mXocomil Solola                            [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m6   [0m [0;90m|[0m [1;36mRadio La No Que No                        [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m7   [0m [0;90m|[0m [1;36mkonga retro                               [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m8   [0m [0;90m|[0m [1;36mFM Constelacion                           [0m [0;90m|[0m [1;31mbroken    [0m [0;90m|[0m [1;35munknown     [0m [0;90m|[0m
+[0;90m|[0m [1;34m9   [0m [0;90m|[0m [1;36mStereo Kabod                              [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mAAC         [0m [0;90m|[0m
+[0;90m|[0m [1;34m10  [0m [0;90m|[0m [1;36mstereobendicion                           [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m11  [0m [0;90m|[0m [1;36mRadio Sololá                             [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m12  [0m [0;90m|[0m [1;36mejecutiva                                 [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m13  [0m [0;90m|[0m [1;36mRadio Impacto La voz                      [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35munknown     [0m [0;90m|[0m
+[0;90m|[0m [1;34m14  [0m [0;90m|[0m [1;36mRadio Pastoral Juvenil Chivarreto         [0m [0;90m|[0m [1;31mbroken    [0m [0;90m|[0m [1;35munknown     [0m [0;90m|[0m
+[0;90m|[0m [1;34m15  [0m [0;90m|[0m [1;36mStereo Centro de Los Tuices               [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m16  [0m [0;90m|[0m [1;36mACADEEX                                   [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mAAC         [0m [0;90m|[0m
+[0;90m|[0m [1;34m17  [0m [0;90m|[0m [1;36mHemisferio Sonoro                         [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mAAC         [0m [0;90m|[0m
+[0;90m|[0m [1;34m18  [0m [0;90m|[0m [1;36mCanal 502                                 [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mAAC         [0m [0;90m|[0m
+[0;90m|[0m [1;34m19  [0m [0;90m|[0m [1;36mRadio Ebenezer Zacapa                     [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mAAC         [0m [0;90m|[0m
+[0;90m|[0m [1;34m20  [0m [0;90m|[0m [1;36mRadio Popular Mataquescuintla             [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m21  [0m [0;90m|[0m [1;36mLa Super Nova Radio 502                   [0m [0;90m|[0m [1;31mbroken    [0m [0;90m|[0m [1;35munknown     [0m [0;90m|[0m
+[0;90m|[0m [1;34m22  [0m [0;90m|[0m [1;36mCerrito fm                                [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m23  [0m [0;90m|[0m [1;36mLa Jefa Chiquimula                        [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mAAC         [0m [0;90m|[0m
+[0;90m|[0m [1;34m24  [0m [0;90m|[0m [1;36mMy Voz                                    [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35munknown     [0m [0;90m|[0m
+[0;90m|[0m [1;34m25  [0m [0;90m|[0m [1;36mRadio Romance                             [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mAAC         [0m [0;90m|[0m
+[0;90m+------+--------------------------------------------+------------+--------------+
+[0m
+[1;36mFetching page 16:[0m https://onlineradiobox.com/gt/?p=16
+[0;90m+------+--------------------------------------------+------------+--------------+
+[0m[0;90m|[0m [1;37mNo  [0m [0;90m|[0m [1;37mStation                                   [0m [0;90m|[0m [1;37mStatus    [0m [0;90m|[0m [1;37mFormat      [0m [0;90m|[0m
+[0;90m+------+--------------------------------------------+------------+--------------+
+[0m[0;90m|[0m [1;34m1   [0m [0;90m|[0m [1;36mJade Fm                                   [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mAAC         [0m [0;90m|[0m
+[0;90m|[0m [1;34m2   [0m [0;90m|[0m [1;36mRadio La Nueva                            [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mAAC         [0m [0;90m|[0m
+[0;90m|[0m [1;34m3   [0m [0;90m|[0m [1;36mRumba Xpress                              [0m [0;90m|[0m [1;31mbroken    [0m [0;90m|[0m [1;35munknown     [0m [0;90m|[0m
+[0;90m|[0m [1;34m4   [0m [0;90m|[0m [1;36mRadio Unica                               [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mAAC         [0m [0;90m|[0m
+[0;90m|[0m [1;34m5   [0m [0;90m|[0m [1;36mStereo Impacto de Dios                    [0m [0;90m|[0m [1;31mbroken    [0m [0;90m|[0m [1;35munknown     [0m [0;90m|[0m
+[0;90m|[0m [1;34m6   [0m [0;90m|[0m [1;36mRadio Celestial                           [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mAAC         [0m [0;90m|[0m
+[0;90m|[0m [1;34m7   [0m [0;90m|[0m [1;36mVivencias Radio FM                        [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mAAC         [0m [0;90m|[0m
+[0;90m|[0m [1;34m8   [0m [0;90m|[0m [1;36mRadio Aliento GT                          [0m [0;90m|[0m [1;31mbroken    [0m [0;90m|[0m [1;35munknown     [0m [0;90m|[0m
+[0;90m|[0m [1;34m9   [0m [0;90m|[0m [1;36mLuna Fm 105.1 (Xela)                      [0m [0;90m|[0m [1;31mbroken    [0m [0;90m|[0m [1;35munknown     [0m [0;90m|[0m
+[0;90m|[0m [1;34m10  [0m [0;90m|[0m [1;36mStereo Bethania                           [0m [0;90m|[0m [1;31mbroken    [0m [0;90m|[0m [1;35munknown     [0m [0;90m|[0m
+[0;90m|[0m [1;34m11  [0m [0;90m|[0m [1;36mMaranatha Gt                              [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m12  [0m [0;90m|[0m [1;36mProyecto PHIES 2,17                       [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m13  [0m [0;90m|[0m [1;36mRadio La Voz de Dios 95.3                 [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mAAC         [0m [0;90m|[0m
+[0;90m|[0m [1;34m14  [0m [0;90m|[0m [1;36mShalom Estereo 87.5 FM                    [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m15  [0m [0;90m|[0m [1;36mEstéreo Impacto                          [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m16  [0m [0;90m|[0m [1;36mRadio Florencia 99.9 FM                   [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mAAC         [0m [0;90m|[0m
+[0;90m|[0m [1;34m17  [0m [0;90m|[0m [1;36mCultural Educativa Totonicapan            [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mAAC         [0m [0;90m|[0m
+[0;90m|[0m [1;34m18  [0m [0;90m|[0m [1;36mRadio Olam 92.3                           [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m19  [0m [0;90m|[0m [1;36mMultimedios La Manzanera                  [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m20  [0m [0;90m|[0m [1;36mAcelera Tu Radio                          [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mAAC         [0m [0;90m|[0m
+[0;90m|[0m [1;34m21  [0m [0;90m|[0m [1;36mLa Clave Xela Fm                          [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mAAC         [0m [0;90m|[0m
+[0;90m|[0m [1;34m22  [0m [0;90m|[0m [1;36mStereo Salvacion                          [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35munknown     [0m [0;90m|[0m
+[0;90m|[0m [1;34m23  [0m [0;90m|[0m [1;36mRadio Centro Terminal Retalhuleu          [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m24  [0m [0;90m|[0m [1;36mLa Voz Ranchera                           [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m25  [0m [0;90m|[0m [1;36mRadio Clase                               [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mAAC         [0m [0;90m|[0m
+[0;90m+------+--------------------------------------------+------------+--------------+
+[0m
+[1;36mFetching page 17:[0m https://onlineradiobox.com/gt/?p=17
+[0;90m+------+--------------------------------------------+------------+--------------+
+[0m[0;90m|[0m [1;37mNo  [0m [0;90m|[0m [1;37mStation                                   [0m [0;90m|[0m [1;37mStatus    [0m [0;90m|[0m [1;37mFormat      [0m [0;90m|[0m
+[0;90m+------+--------------------------------------------+------------+--------------+
+[0m[0;90m|[0m [1;34m1   [0m [0;90m|[0m [1;36mRadio IASDZ3                              [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m2   [0m [0;90m|[0m [1;36mAlcoba Stereo                             [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35munknown     [0m [0;90m|[0m
+[0;90m|[0m [1;34m3   [0m [0;90m|[0m [1;36mLa Mejor                                  [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35munknown     [0m [0;90m|[0m
+[0;90m|[0m [1;34m4   [0m [0;90m|[0m [1;36mLa Nueva  sinceridad Radio                [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m5   [0m [0;90m|[0m [1;36mFm Perla 107.9 Patzun                     [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m6   [0m [0;90m|[0m [1;36mVisión Deportiva Radio                   [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m7   [0m [0;90m|[0m [1;36mLa Sabrosona 97.5 FM (Mazatenango)        [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m8   [0m [0;90m|[0m [1;36mAmanecer Stereo                           [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35munknown     [0m [0;90m|[0m
+[0;90m|[0m [1;34m9   [0m [0;90m|[0m [1;36mHeartbeats                                [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mAAC         [0m [0;90m|[0m
+[0;90m|[0m [1;34m10  [0m [0;90m|[0m [1;36mDifusoras RC                              [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m11  [0m [0;90m|[0m [1;36mVida Radio Musica En Linea                [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m12  [0m [0;90m|[0m [1;36mFensa Illusion                            [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mAAC         [0m [0;90m|[0m
+[0;90m|[0m [1;34m13  [0m [0;90m|[0m [1;36mLa Costeña 103.9 FM Suchitepequez        [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m14  [0m [0;90m|[0m [1;36mMaranatha FM 101                          [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mAAC         [0m [0;90m|[0m
+[0;90m|[0m [1;34m15  [0m [0;90m|[0m [1;36mEstereo Luz Verdadera                     [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m16  [0m [0;90m|[0m [1;36mRadio Esperanza Viva                      [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m17  [0m [0;90m|[0m [1;36mB&#39;alam Estéreo                       [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35munknown     [0m [0;90m|[0m
+[0;90m|[0m [1;34m18  [0m [0;90m|[0m [1;36mLa Mera Mera HD San Juan                  [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m19  [0m [0;90m|[0m [1;36mVida Nueva Estereo                        [0m [0;90m|[0m [1;31mbroken    [0m [0;90m|[0m [1;35munknown     [0m [0;90m|[0m
+[0;90m|[0m [1;34m20  [0m [0;90m|[0m [1;36mRadio Cris Stereo                         [0m [0;90m|[0m [1;31mbroken    [0m [0;90m|[0m [1;35munknown     [0m [0;90m|[0m
+[0;90m|[0m [1;34m21  [0m [0;90m|[0m [1;36mRadio Bendicion                           [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m22  [0m [0;90m|[0m [1;36mTu Radio Plus                             [0m [0;90m|[0m [1;31mbroken    [0m [0;90m|[0m [1;35munknown     [0m [0;90m|[0m
+[0;90m|[0m [1;34m23  [0m [0;90m|[0m [1;36mMetanoia Radio                            [0m [0;90m|[0m [1;31mbroken    [0m [0;90m|[0m [1;35munknown     [0m [0;90m|[0m
+[0;90m|[0m [1;34m24  [0m [0;90m|[0m [1;36mLa Grande de Momos                        [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m25  [0m [0;90m|[0m [1;36mRadio Cadena 10                           [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m+------+--------------------------------------------+------------+--------------+
+[0m
+[1;36mFetching page 18:[0m https://onlineradiobox.com/gt/?p=18
+[0;90m+------+--------------------------------------------+------------+--------------+
+[0m[0;90m|[0m [1;37mNo  [0m [0;90m|[0m [1;37mStation                                   [0m [0;90m|[0m [1;37mStatus    [0m [0;90m|[0m [1;37mFormat      [0m [0;90m|[0m
+[0;90m+------+--------------------------------------------+------------+--------------+
+[0m[0;90m|[0m [1;34m1   [0m [0;90m|[0m [1;36mRadio Power                               [0m [0;90m|[0m [1;31mbroken    [0m [0;90m|[0m [1;35munknown     [0m [0;90m|[0m
+[0;90m|[0m [1;34m2   [0m [0;90m|[0m [1;36mRadio La Redimida                         [0m [0;90m|[0m [1;31mbroken    [0m [0;90m|[0m [1;35munknown     [0m [0;90m|[0m
+[0;90m|[0m [1;34m3   [0m [0;90m|[0m [1;36mJordan Radio Fray                         [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m4   [0m [0;90m|[0m [1;36mEstereo Motagua 101.5 FM Guastatoya       [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m5   [0m [0;90m|[0m [1;36mRadio Uncion Mataquescuintla              [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m6   [0m [0;90m|[0m [1;36mRadio Fuente de Vida Xenacoj              [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35munknown     [0m [0;90m|[0m
+[0;90m|[0m [1;34m7   [0m [0;90m|[0m [1;36mMixco radio                               [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35munknown     [0m [0;90m|[0m
+[0;90m|[0m [1;34m8   [0m [0;90m|[0m [1;36mRevelacion Tecpan Tv                      [0m [0;90m|[0m [1;31mbroken    [0m [0;90m|[0m [1;35munknown     [0m [0;90m|[0m
+[0;90m|[0m [1;34m9   [0m [0;90m|[0m [1;36mRadio La Nueva Fm                         [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m10  [0m [0;90m|[0m [1;36mLa Burbuja Huehuetenango                  [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m11  [0m [0;90m|[0m [1;36mParty Zone GT                             [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m12  [0m [0;90m|[0m [1;36mRadio Tacaná                             [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m13  [0m [0;90m|[0m [1;36mLa Arrasadora                             [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m14  [0m [0;90m|[0m [1;36mLa Tejanita Esterio                       [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mAAC         [0m [0;90m|[0m
+[0;90m|[0m [1;34m15  [0m [0;90m|[0m [1;36mProeza Radio                              [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mAAC         [0m [0;90m|[0m
+[0;90m|[0m [1;34m16  [0m [0;90m|[0m [1;36mRadio Mundo GT                            [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mAAC         [0m [0;90m|[0m
+[0;90m|[0m [1;34m17  [0m [0;90m|[0m [1;36mComunitaria San Juan                      [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m18  [0m [0;90m|[0m [1;36mCaliente Huehuetenango 97.3               [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m19  [0m [0;90m|[0m [1;36mRadio El Campo Chimaltenango              [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m20  [0m [0;90m|[0m [1;36mLa Original Voz Del Hogar                 [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m21  [0m [0;90m|[0m [1;36mRadio Norte                               [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35munknown     [0m [0;90m|[0m
+[0;90m|[0m [1;34m22  [0m [0;90m|[0m [1;36mRadio Planeta HD                          [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m23  [0m [0;90m|[0m [1;36mMás Música Suroccidente 95.9 FM         [0m [0;90m|[0m [1;31mbroken    [0m [0;90m|[0m [1;35munknown     [0m [0;90m|[0m
+[0;90m|[0m [1;34m24  [0m [0;90m|[0m [1;36mRadio La Jefa FM                          [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mAAC         [0m [0;90m|[0m
+[0;90m|[0m [1;34m25  [0m [0;90m|[0m [1;36mRadio Zona Cero                           [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m+------+--------------------------------------------+------------+--------------+
+[0m
+[1;36mFetching page 19:[0m https://onlineradiobox.com/gt/?p=19
+[0;90m+------+--------------------------------------------+------------+--------------+
+[0m[0;90m|[0m [1;37mNo  [0m [0;90m|[0m [1;37mStation                                   [0m [0;90m|[0m [1;37mStatus    [0m [0;90m|[0m [1;37mFormat      [0m [0;90m|[0m
+[0;90m+------+--------------------------------------------+------------+--------------+
+[0m[0;90m|[0m [1;34m1   [0m [0;90m|[0m [1;36mRadio Catolica Corriente de Gracia        [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m2   [0m [0;90m|[0m [1;36mLa Raza FM                                [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mAAC         [0m [0;90m|[0m
+[0;90m|[0m [1;34m3   [0m [0;90m|[0m [1;36mSwitchgt                                  [0m [0;90m|[0m [1;31mbroken    [0m [0;90m|[0m [1;35munknown     [0m [0;90m|[0m
+[0;90m|[0m [1;34m4   [0m [0;90m|[0m [1;36mMás Música Oriente 99.5 FM              [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m5   [0m [0;90m|[0m [1;36mRevolucion Activa                         [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m6   [0m [0;90m|[0m [1;36mRadio Cristo Vive                         [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mAAC         [0m [0;90m|[0m
+[0;90m|[0m [1;34m7   [0m [0;90m|[0m [1;36mRadio Stereo Del Divino Maestro           [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35munknown     [0m [0;90m|[0m
+[0;90m|[0m [1;34m8   [0m [0;90m|[0m [1;36mFlix Capital                              [0m [0;90m|[0m [1;31mbroken    [0m [0;90m|[0m [1;35munknown     [0m [0;90m|[0m
+[0;90m|[0m [1;34m9   [0m [0;90m|[0m [1;36mRadio Tejano FM                           [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m10  [0m [0;90m|[0m [1;36mRadio La Nuestra                          [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m11  [0m [0;90m|[0m [1;36mRadio Centroamericana                     [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m12  [0m [0;90m|[0m [1;36mEstereo San Jose                          [0m [0;90m|[0m [1;31mbroken    [0m [0;90m|[0m [1;35munknown     [0m [0;90m|[0m
+[0;90m|[0m [1;34m13  [0m [0;90m|[0m [1;36mRadio Super Catolica 105.7 FM             [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mAAC         [0m [0;90m|[0m
+[0;90m|[0m [1;34m14  [0m [0;90m|[0m [1;36mRadio stereo 3 la voz del gallito         [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35munknown     [0m [0;90m|[0m
+[0;90m|[0m [1;34m15  [0m [0;90m|[0m [1;36mRadiotenango TGX                          [0m [0;90m|[0m [1;31mbroken    [0m [0;90m|[0m [1;35munknown     [0m [0;90m|[0m
+[0;90m|[0m [1;34m16  [0m [0;90m|[0m [1;36mRadio Pahulá                             [0m [0;90m|[0m [1;31mbroken    [0m [0;90m|[0m [1;35munknown     [0m [0;90m|[0m
+[0;90m|[0m [1;34m17  [0m [0;90m|[0m [1;36mReaccion Juvenil Radio                    [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m18  [0m [0;90m|[0m [1;36mLa Voz Del Hogar 96.7 FM                  [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mAAC         [0m [0;90m|[0m
+[0;90m|[0m [1;34m19  [0m [0;90m|[0m [1;36mChapin de Corazon                         [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mAAC         [0m [0;90m|[0m
+[0;90m|[0m [1;34m20  [0m [0;90m|[0m [1;36mEstéreo Los 7 Angeles                    [0m [0;90m|[0m [1;31mbroken    [0m [0;90m|[0m [1;35munknown     [0m [0;90m|[0m
+[0;90m|[0m [1;34m21  [0m [0;90m|[0m [1;36mTezulutlan F.M.                           [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mAAC         [0m [0;90m|[0m
+[0;90m|[0m [1;34m22  [0m [0;90m|[0m [1;36mGospel Revolution Radio                   [0m [0;90m|[0m [1;31mbroken    [0m [0;90m|[0m [1;35munknown     [0m [0;90m|[0m
+[0;90m|[0m [1;34m23  [0m [0;90m|[0m [1;36mRadio Maldonado FM                        [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mAAC         [0m [0;90m|[0m
+[0;90m|[0m [1;34m24  [0m [0;90m|[0m [1;36mRadio y TV MX Toto                        [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m25  [0m [0;90m|[0m [1;36mRadio Catolica Online de Guatemala        [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mAAC         [0m [0;90m|[0m
+[0;90m+------+--------------------------------------------+------------+--------------+
+[0m
+[1;36mFetching page 20:[0m https://onlineradiobox.com/gt/?p=20
+[0;90m+------+--------------------------------------------+------------+--------------+
+[0m[0;90m|[0m [1;37mNo  [0m [0;90m|[0m [1;37mStation                                   [0m [0;90m|[0m [1;37mStatus    [0m [0;90m|[0m [1;37mFormat      [0m [0;90m|[0m
+[0;90m+------+--------------------------------------------+------------+--------------+
+[0m[0;90m|[0m [1;34m1   [0m [0;90m|[0m [1;36mRadio Spirit                              [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35munknown     [0m [0;90m|[0m
+[0;90m|[0m [1;34m2   [0m [0;90m|[0m [1;36mAntenna Web Ciudad de Guatemala           [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m3   [0m [0;90m|[0m [1;36mCucuruchos GT Radio                       [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m4   [0m [0;90m|[0m [1;36mApocalipsis Radio                         [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mAAC         [0m [0;90m|[0m
+[0;90m|[0m [1;34m5   [0m [0;90m|[0m [1;36mRadio La Calle Siempre Contigo            [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m6   [0m [0;90m|[0m [1;36mRadio La Voz Del Príncipe De Paz         [0m [0;90m|[0m [1;31mbroken    [0m [0;90m|[0m [1;35munknown     [0m [0;90m|[0m
+[0;90m|[0m [1;34m7   [0m [0;90m|[0m [1;36mLa Señora Quiche                         [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m8   [0m [0;90m|[0m [1;36mReu Estereo                               [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m9   [0m [0;90m|[0m [1;36mRadio Vision Gt                           [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m10  [0m [0;90m|[0m [1;36mEstudio de la Palabra                     [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m11  [0m [0;90m|[0m [1;36mStereo Relampago                          [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mAAC         [0m [0;90m|[0m
+[0;90m|[0m [1;34m12  [0m [0;90m|[0m [1;36mLa Jefa Xela 97.1 Fm                      [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mAAC         [0m [0;90m|[0m
+[0;90m|[0m [1;34m13  [0m [0;90m|[0m [1;36mRadio Joya                                [0m [0;90m|[0m [1;31mbroken    [0m [0;90m|[0m [1;35munknown     [0m [0;90m|[0m
+[0;90m|[0m [1;34m14  [0m [0;90m|[0m [1;36mSan Antonio Super Stereo Hd               [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mAAC         [0m [0;90m|[0m
+[0;90m|[0m [1;34m15  [0m [0;90m|[0m [1;36mRadio Amen                                [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35munknown     [0m [0;90m|[0m
+[0;90m|[0m [1;34m16  [0m [0;90m|[0m [1;36mRadio San Juan                            [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m17  [0m [0;90m|[0m [1;36mCONRED Radio                              [0m [0;90m|[0m [1;31mbroken    [0m [0;90m|[0m [1;35munknown     [0m [0;90m|[0m
+[0;90m|[0m [1;34m18  [0m [0;90m|[0m [1;36mRadio La Voz Católica                    [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mAAC         [0m [0;90m|[0m
+[0;90m|[0m [1;34m19  [0m [0;90m|[0m [1;36mHuitan Estereo                            [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m20  [0m [0;90m|[0m [1;36mOasis Radio Guatemala                     [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m21  [0m [0;90m|[0m [1;36mRadio Famosa 105.5 FM                     [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mAAC         [0m [0;90m|[0m
+[0;90m|[0m [1;34m22  [0m [0;90m|[0m [1;36mPeniel Xela                               [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m23  [0m [0;90m|[0m [1;36mCoca Radio                                [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m+------+--------------------------------------------+------------+--------------+
+[0mNo next page. Finished.
+
+[1;32mSaved 519 stations to scraped_data/Guatemala/onlineradiobox.json[0m

@@ -1,0 +1,180 @@
+[1;36m==================================================[0m
+[1;33mScraping Ghana (gh) - Auto Pagination[0m
+[1;36m==================================================[0m
+
+[1;36mFetching page 0:[0m https://onlineradiobox.com/gh/?p=0
+[0;90m+------+--------------------------------------------+------------+--------------+
+[0m[0;90m|[0m [1;37mNo  [0m [0;90m|[0m [1;37mStation                                   [0m [0;90m|[0m [1;37mStatus    [0m [0;90m|[0m [1;37mFormat      [0m [0;90m|[0m
+[0;90m+------+--------------------------------------------+------------+--------------+
+[0m[0;90m|[0m [1;34m1   [0m [0;90m|[0m [1;36mCiti FM                                   [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m2   [0m [0;90m|[0m [1;36mPeace FM                                  [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m3   [0m [0;90m|[0m [1;36mRadio Gold                                [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m4   [0m [0;90m|[0m [1;36mKessben FM                                [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m5   [0m [0;90m|[0m [1;36mOkay FM                                   [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m6   [0m [0;90m|[0m [1;36m3FM                                       [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m7   [0m [0;90m|[0m [1;36mPower 97.9 FM                             [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m8   [0m [0;90m|[0m [1;36mNeat FM                                   [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m9   [0m [0;90m|[0m [1;36mGhana Music Radio                         [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mAAC         [0m [0;90m|[0m
+[0;90m|[0m [1;34m10  [0m [0;90m|[0m [1;36mAdom FM                                   [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35munknown     [0m [0;90m|[0m
+[0;90m|[0m [1;34m11  [0m [0;90m|[0m [1;36mOtec FM                                   [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m12  [0m [0;90m|[0m [1;36mJoy FM                                    [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35munknown     [0m [0;90m|[0m
+[0;90m|[0m [1;34m13  [0m [0;90m|[0m [1;36mStarr FM                                  [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m14  [0m [0;90m|[0m [1;36mSportyFM                                  [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m15  [0m [0;90m|[0m [1;36mNdwompa Radio                             [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m16  [0m [0;90m|[0m [1;36mVision1 FM                                [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m17  [0m [0;90m|[0m [1;36mRadio XYZ                                 [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m18  [0m [0;90m|[0m [1;36mNhyira FM                                 [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35munknown     [0m [0;90m|[0m
+[0;90m|[0m [1;34m19  [0m [0;90m|[0m [1;36mY 107.9 FM                                [0m [0;90m|[0m [1;31mbroken    [0m [0;90m|[0m [1;35munknown     [0m [0;90m|[0m
+[0;90m|[0m [1;34m20  [0m [0;90m|[0m [1;36mPure 95.7 FM                              [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m21  [0m [0;90m|[0m [1;36mAsempa FM                                 [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35munknown     [0m [0;90m|[0m
+[0;90m|[0m [1;34m22  [0m [0;90m|[0m [1;36mOman FM                                   [0m [0;90m|[0m [1;31mbroken    [0m [0;90m|[0m [1;35munknown     [0m [0;90m|[0m
+[0;90m|[0m [1;34m23  [0m [0;90m|[0m [1;36mRFI Afrique                               [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m24  [0m [0;90m|[0m [1;36mKente Radio                               [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m25  [0m [0;90m|[0m [1;36mCity FM                                   [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m+------+--------------------------------------------+------------+--------------+
+[0m
+[1;36mFetching page 1:[0m https://onlineradiobox.com/gh/?p=1
+[0;90m+------+--------------------------------------------+------------+--------------+
+[0m[0;90m|[0m [1;37mNo  [0m [0;90m|[0m [1;37mStation                                   [0m [0;90m|[0m [1;37mStatus    [0m [0;90m|[0m [1;37mFormat      [0m [0;90m|[0m
+[0;90m+------+--------------------------------------------+------------+--------------+
+[0m[0;90m|[0m [1;34m1   [0m [0;90m|[0m [1;36mCity FM                                   [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m2   [0m [0;90m|[0m [1;36mGBC Uniiq FM                              [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m3   [0m [0;90m|[0m [1;36mLive Xtra                                 [0m [0;90m|[0m [1;31mbroken    [0m [0;90m|[0m [1;35munknown     [0m [0;90m|[0m
+[0;90m|[0m [1;34m4   [0m [0;90m|[0m [1;36mGHRadio1                                  [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m5   [0m [0;90m|[0m [1;36mConnect FM                                [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mAAC         [0m [0;90m|[0m
+[0;90m|[0m [1;34m6   [0m [0;90m|[0m [1;36mThe Original Word Radio                   [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m7   [0m [0;90m|[0m [1;36mHitz FM                                   [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35munknown     [0m [0;90m|[0m
+[0;90m|[0m [1;34m8   [0m [0;90m|[0m [1;36mSweet Melodies 94.3 FM                    [0m [0;90m|[0m [1;31mbroken    [0m [0;90m|[0m [1;35munknown     [0m [0;90m|[0m
+[0;90m|[0m [1;34m9   [0m [0;90m|[0m [1;36mRainbow Radio                             [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m10  [0m [0;90m|[0m [1;36mAnanse FM                                 [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m11  [0m [0;90m|[0m [1;36mFox FM                                    [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m12  [0m [0;90m|[0m [1;36mAngel FM 96.1                             [0m [0;90m|[0m [1;31mbroken    [0m [0;90m|[0m [1;35munknown     [0m [0;90m|[0m
+[0;90m|[0m [1;34m13  [0m [0;90m|[0m [1;36mClass 91.3 FM                             [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m14  [0m [0;90m|[0m [1;36mRoyale FM                                 [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m15  [0m [0;90m|[0m [1;36mAkoma FM                                  [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m16  [0m [0;90m|[0m [1;36mZaa Radio                                 [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m17  [0m [0;90m|[0m [1;36mAkwaaba Radio 98.1 MHz                    [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m18  [0m [0;90m|[0m [1;36m1Figure Radio                             [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m19  [0m [0;90m|[0m [1;36mSpirit 88.3 FM                            [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m20  [0m [0;90m|[0m [1;36mHighLife Radio                            [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m21  [0m [0;90m|[0m [1;36mBreaking Yoke Radio Online                [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m22  [0m [0;90m|[0m [1;36m8NB Radio                                 [0m [0;90m|[0m [1;31mbroken    [0m [0;90m|[0m [1;35munknown     [0m [0;90m|[0m
+[0;90m|[0m [1;34m23  [0m [0;90m|[0m [1;36mGospel XplosivesGh Radio                  [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m24  [0m [0;90m|[0m [1;36mEquippersGH                               [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m25  [0m [0;90m|[0m [1;36mKumerica Radio                            [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m+------+--------------------------------------------+------------+--------------+
+[0m
+[1;36mFetching page 2:[0m https://onlineradiobox.com/gh/?p=2
+[0;90m+------+--------------------------------------------+------------+--------------+
+[0m[0;90m|[0m [1;37mNo  [0m [0;90m|[0m [1;37mStation                                   [0m [0;90m|[0m [1;37mStatus    [0m [0;90m|[0m [1;37mFormat      [0m [0;90m|[0m
+[0;90m+------+--------------------------------------------+------------+--------------+
+[0m[0;90m|[0m [1;34m1   [0m [0;90m|[0m [1;36mTitanic Radio                             [0m [0;90m|[0m [1;31mbroken    [0m [0;90m|[0m [1;35munknown     [0m [0;90m|[0m
+[0;90m|[0m [1;34m2   [0m [0;90m|[0m [1;36mSankofa Radio                             [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m3   [0m [0;90m|[0m [1;36mTrust 96.3FM                              [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m4   [0m [0;90m|[0m [1;36mOyerepa 100.7 FM                          [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m5   [0m [0;90m|[0m [1;36mREHIC Radio                               [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m6   [0m [0;90m|[0m [1;36mThe Bride Online Radio                    [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m7   [0m [0;90m|[0m [1;36mApostolic Fire Radio                      [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m8   [0m [0;90m|[0m [1;36mDj Ziggy Bee pro                          [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m9   [0m [0;90m|[0m [1;36mLuv FM                                    [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35munknown     [0m [0;90m|[0m
+[0;90m|[0m [1;34m10  [0m [0;90m|[0m [1;36mAkomapa FM                                [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m11  [0m [0;90m|[0m [1;36mResurrection Radio                        [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m12  [0m [0;90m|[0m [1;36mFocus FM                                  [0m [0;90m|[0m [1;31mbroken    [0m [0;90m|[0m [1;35munknown     [0m [0;90m|[0m
+[0;90m|[0m [1;34m13  [0m [0;90m|[0m [1;36mAseda 92.3 Fm                             [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m14  [0m [0;90m|[0m [1;36mAkc Radio                                 [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m15  [0m [0;90m|[0m [1;36mRADIO TAMALE GHANA                        [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m16  [0m [0;90m|[0m [1;36mB-Zar Radio                               [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m17  [0m [0;90m|[0m [1;36mAseda Radio                               [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m18  [0m [0;90m|[0m [1;36mTrust FM                                  [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m19  [0m [0;90m|[0m [1;36mEndTime Prayer Radio                      [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m20  [0m [0;90m|[0m [1;36mUltimate                                  [0m [0;90m|[0m [1;31mbroken    [0m [0;90m|[0m [1;35munknown     [0m [0;90m|[0m
+[0;90m|[0m [1;34m21  [0m [0;90m|[0m [1;36mKASAPA FM                                 [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m22  [0m [0;90m|[0m [1;36mCape Fm                                   [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m23  [0m [0;90m|[0m [1;36mAsaasePa                                  [0m [0;90m|[0m [1;31mbroken    [0m [0;90m|[0m [1;35munknown     [0m [0;90m|[0m
+[0;90m|[0m [1;34m24  [0m [0;90m|[0m [1;36mOriginal FM                               [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m25  [0m [0;90m|[0m [1;36mPrice FM                                  [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m+------+--------------------------------------------+------------+--------------+
+[0m
+[1;36mFetching page 3:[0m https://onlineradiobox.com/gh/?p=3
+[0;90m+------+--------------------------------------------+------------+--------------+
+[0m[0;90m|[0m [1;37mNo  [0m [0;90m|[0m [1;37mStation                                   [0m [0;90m|[0m [1;37mStatus    [0m [0;90m|[0m [1;37mFormat      [0m [0;90m|[0m
+[0;90m+------+--------------------------------------------+------------+--------------+
+[0m[0;90m|[0m [1;34m1   [0m [0;90m|[0m [1;36mAsaasePa                                  [0m [0;90m|[0m [1;31mbroken    [0m [0;90m|[0m [1;35munknown     [0m [0;90m|[0m
+[0;90m|[0m [1;34m2   [0m [0;90m|[0m [1;36mPrice FM                                  [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m3   [0m [0;90m|[0m [1;36mThisisAccra Radio                         [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m4   [0m [0;90m|[0m [1;36mMiraberg online radio                     [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m5   [0m [0;90m|[0m [1;36mAtlantis Radio                            [0m [0;90m|[0m [1;31mbroken    [0m [0;90m|[0m [1;35munknown     [0m [0;90m|[0m
+[0;90m|[0m [1;34m6   [0m [0;90m|[0m [1;36mDadi Fm                                   [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m7   [0m [0;90m|[0m [1;36mGroove 101                                [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m8   [0m [0;90m|[0m [1;36mWontumi Radio                             [0m [0;90m|[0m [1;31mbroken    [0m [0;90m|[0m [1;35munknown     [0m [0;90m|[0m
+[0;90m|[0m [1;34m9   [0m [0;90m|[0m [1;36mWest End Radio                            [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m10  [0m [0;90m|[0m [1;36mTriples Digital Radio                     [0m [0;90m|[0m [1;31mbroken    [0m [0;90m|[0m [1;35munknown     [0m [0;90m|[0m
+[0;90m|[0m [1;34m11  [0m [0;90m|[0m [1;36mPlatinum Radio                            [0m [0;90m|[0m [1;31mbroken    [0m [0;90m|[0m [1;35munknown     [0m [0;90m|[0m
+[0;90m|[0m [1;34m12  [0m [0;90m|[0m [1;36mFrien Fm                                  [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m13  [0m [0;90m|[0m [1;36mNetbuzz Radio                             [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m14  [0m [0;90m|[0m [1;36mMarkk Radio                               [0m [0;90m|[0m [1;31mbroken    [0m [0;90m|[0m [1;35munknown     [0m [0;90m|[0m
+[0;90m|[0m [1;34m15  [0m [0;90m|[0m [1;36mFly Sports                                [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35munknown     [0m [0;90m|[0m
+[0;90m|[0m [1;34m16  [0m [0;90m|[0m [1;36mRadio Univers                             [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m17  [0m [0;90m|[0m [1;36mKristocentric Station                     [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m18  [0m [0;90m|[0m [1;36mHot FM                                    [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m19  [0m [0;90m|[0m [1;36mKings Radio 100.3fm                       [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m20  [0m [0;90m|[0m [1;36mLiving Stone Radio                        [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35munknown     [0m [0;90m|[0m
+[0;90m|[0m [1;34m21  [0m [0;90m|[0m [1;36mTona Radio                                [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m22  [0m [0;90m|[0m [1;36mPrevailers Radio Online                   [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m23  [0m [0;90m|[0m [1;36mHello FM                                  [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m24  [0m [0;90m|[0m [1;36mTumpaani Radio Nadowli                    [0m [0;90m|[0m [1;31mbroken    [0m [0;90m|[0m [1;35munknown     [0m [0;90m|[0m
+[0;90m|[0m [1;34m25  [0m [0;90m|[0m [1;36mThe Word Radio                            [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35munknown     [0m [0;90m|[0m
+[0;90m+------+--------------------------------------------+------------+--------------+
+[0m
+[1;36mFetching page 4:[0m https://onlineradiobox.com/gh/?p=4
+[0;90m+------+--------------------------------------------+------------+--------------+
+[0m[0;90m|[0m [1;37mNo  [0m [0;90m|[0m [1;37mStation                                   [0m [0;90m|[0m [1;37mStatus    [0m [0;90m|[0m [1;37mFormat      [0m [0;90m|[0m
+[0;90m+------+--------------------------------------------+------------+--------------+
+[0m[0;90m|[0m [1;34m1   [0m [0;90m|[0m [1;36mTumpaani Radio Nadowli                    [0m [0;90m|[0m [1;31mbroken    [0m [0;90m|[0m [1;35munknown     [0m [0;90m|[0m
+[0;90m|[0m [1;34m2   [0m [0;90m|[0m [1;36mLiving Stone Radio                        [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m3   [0m [0;90m|[0m [1;36mMedeamaa                                  [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m4   [0m [0;90m|[0m [1;36mHappy 98.9 FM                             [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m5   [0m [0;90m|[0m [1;36mTruth to Heaven Radio                     [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m6   [0m [0;90m|[0m [1;36mTop FM                                    [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m7   [0m [0;90m|[0m [1;36mBoss FM                                   [0m [0;90m|[0m [1;31mbroken    [0m [0;90m|[0m [1;35munknown     [0m [0;90m|[0m
+[0;90m|[0m [1;34m8   [0m [0;90m|[0m [1;36mSandcity Radio 88.9                       [0m [0;90m|[0m [1;31mbroken    [0m [0;90m|[0m [1;35munknown     [0m [0;90m|[0m
+[0;90m|[0m [1;34m9   [0m [0;90m|[0m [1;36mSpice                                     [0m [0;90m|[0m [1;31mbroken    [0m [0;90m|[0m [1;35munknown     [0m [0;90m|[0m
+[0;90m|[0m [1;34m10  [0m [0;90m|[0m [1;36mParousia Radio                            [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m11  [0m [0;90m|[0m [1;36mSchwar FM                                 [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m12  [0m [0;90m|[0m [1;36mVictory 96.1 Fm                           [0m [0;90m|[0m [1;31mbroken    [0m [0;90m|[0m [1;35munknown     [0m [0;90m|[0m
+[0;90m|[0m [1;34m13  [0m [0;90m|[0m [1;36mAgoo 96.9 FM                              [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m14  [0m [0;90m|[0m [1;36mChrist Vision Radio                       [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m15  [0m [0;90m|[0m [1;36mSmart Gospels Radio                       [0m [0;90m|[0m [1;31mbroken    [0m [0;90m|[0m [1;35munknown     [0m [0;90m|[0m
+[0;90m|[0m [1;34m16  [0m [0;90m|[0m [1;36mReach The World Radio                     [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m17  [0m [0;90m|[0m [1;36mDeep FM                                   [0m [0;90m|[0m [1;31mbroken    [0m [0;90m|[0m [1;35munknown     [0m [0;90m|[0m
+[0;90m|[0m [1;34m18  [0m [0;90m|[0m [1;36mSilver FM                                 [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m19  [0m [0;90m|[0m [1;36mEzra 94.1 FM                              [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m20  [0m [0;90m|[0m [1;36mMyAfro Radio                              [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m21  [0m [0;90m|[0m [1;36mSolid FM                                  [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m22  [0m [0;90m|[0m [1;36mBramcom Radio Online                      [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m23  [0m [0;90m|[0m [1;36mNhyira Fie FM                             [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m24  [0m [0;90m|[0m [1;36mRestorer Radio                            [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m25  [0m [0;90m|[0m [1;36mGrace Fire Radio                          [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m+------+--------------------------------------------+------------+--------------+
+[0m
+[1;36mFetching page 5:[0m https://onlineradiobox.com/gh/?p=5
+[0;90m+------+--------------------------------------------+------------+--------------+
+[0m[0;90m|[0m [1;37mNo  [0m [0;90m|[0m [1;37mStation                                   [0m [0;90m|[0m [1;37mStatus    [0m [0;90m|[0m [1;37mFormat      [0m [0;90m|[0m
+[0;90m+------+--------------------------------------------+------------+--------------+
+[0mError: Navigating frame was detached
+    at LifecycleWatcher.<instance_members_initializer> (/home/ashish/projects/sunoh-api/node_modules/puppeteer-core/src/cdp/LifecycleWatcher.ts:80:12)
+    at new LifecycleWatcher (/home/ashish/projects/sunoh-api/node_modules/puppeteer-core/src/cdp/LifecycleWatcher.ts:87:3)
+    at CdpFrame.goto (/home/ashish/projects/sunoh-api/node_modules/puppeteer-core/src/cdp/Frame.ts:158:21)
+    at CdpFrame.<anonymous> (/home/ashish/projects/sunoh-api/node_modules/puppeteer-core/src/util/decorators.ts:63:21)
+    at CdpPage.goto (/home/ashish/projects/sunoh-api/node_modules/puppeteer-core/src/api/Page.ts:1756:35)
+    at <anonymous> (/home/ashish/projects/sunoh-api/src/radio/scrapers/orb_fetcher.js:17:16) {
+  cause: Error: LifecycleWatcher disposed
+      at LifecycleWatcher.dispose (/home/ashish/projects/sunoh-api/node_modules/puppeteer-core/src/cdp/LifecycleWatcher.ts:273:25)
+      at CdpFrame.goto (/home/ashish/projects/sunoh-api/node_modules/puppeteer-core/src/cdp/Frame.ts:189:15)
+      at async CdpPage.goto (/home/ashish/projects/sunoh-api/node_modules/puppeteer-core/src/api/Page.ts:1756:12)
+      at async <anonymous> (/home/ashish/projects/sunoh-api/src/radio/scrapers/orb_fetcher.js:17:5)
+}
+[0;90m+------+--------------------------------------------+------------+--------------+
+[0mNo more unique stations found.
+
+[1;32mSaved 120 stations to scraped_data/Ghana/onlineradiobox.json[0m

@@ -1,0 +1,31 @@
+[1;36m==================================================[0m
+[1;33mScraping Guinea (gn) - Auto Pagination[0m
+[1;36m==================================================[0m
+
+[1;36mFetching page 0:[0m https://onlineradiobox.com/gn/?p=0
+[0;90m+------+--------------------------------------------+------------+--------------+
+[0m[0;90m|[0m [1;37mNo  [0m [0;90m|[0m [1;37mStation                                   [0m [0;90m|[0m [1;37mStatus    [0m [0;90m|[0m [1;37mFormat      [0m [0;90m|[0m
+[0;90m+------+--------------------------------------------+------------+--------------+
+[0m[0;90m|[0m [1;34m1   [0m [0;90m|[0m [1;36mRadio Espace FM                           [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35munknown     [0m [0;90m|[0m
+[0;90m|[0m [1;34m2   [0m [0;90m|[0m [1;36mRadio Nostalgie Guinee                    [0m [0;90m|[0m [1;31mbroken    [0m [0;90m|[0m [1;35munknown     [0m [0;90m|[0m
+[0;90m|[0m [1;34m3   [0m [0;90m|[0m [1;36mBonheur FM Guinée                        [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m4   [0m [0;90m|[0m [1;36mSabari fm                                 [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m5   [0m [0;90m|[0m [1;36mSoleil FM                                 [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m6   [0m [0;90m|[0m [1;36mMadaliou Radio                            [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m7   [0m [0;90m|[0m [1;36mSweet FM Guinea                           [0m [0;90m|[0m [1;31mbroken    [0m [0;90m|[0m [1;35munknown     [0m [0;90m|[0m
+[0;90m|[0m [1;34m8   [0m [0;90m|[0m [1;36mRADIO FOUTA DJALLON                       [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m9   [0m [0;90m|[0m [1;36mTzgospel Radio (Guinea)                   [0m [0;90m|[0m [1;31mbroken    [0m [0;90m|[0m [1;35munknown     [0m [0;90m|[0m
+[0;90m|[0m [1;34m10  [0m [0;90m|[0m [1;36mBolivar FM                                [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m11  [0m [0;90m|[0m [1;36mRadio Fouta Djaloo Internationale         [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m12  [0m [0;90m|[0m [1;36mKania Zik FM 107.0                        [0m [0;90m|[0m [1;31mbroken    [0m [0;90m|[0m [1;35munknown     [0m [0;90m|[0m
+[0;90m|[0m [1;34m13  [0m [0;90m|[0m [1;36mAntenna Web Conakry                       [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m14  [0m [0;90m|[0m [1;36mLRCM Radio (Guinea)                       [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m15  [0m [0;90m|[0m [1;36mHero Radio (Guinea)                       [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m16  [0m [0;90m|[0m [1;36mRadio Continental FM 98.7                 [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35munknown     [0m [0;90m|[0m
+[0;90m|[0m [1;34m17  [0m [0;90m|[0m [1;36mlavibenation                              [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35munknown     [0m [0;90m|[0m
+[0;90m|[0m [1;34m18  [0m [0;90m|[0m [1;36mLittoral FM Guinée                       [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35mmpg123      [0m [0;90m|[0m
+[0;90m|[0m [1;34m19  [0m [0;90m|[0m [1;36mRadio Rurale Kindia                       [0m [0;90m|[0m [1;32mworking   [0m [0;90m|[0m [1;35munknown     [0m [0;90m|[0m
+[0;90m+------+--------------------------------------------+------------+--------------+
+[0mNo next page. Finished.
+
+[1;32mSaved 19 stations to scraped_data/Guinea/onlineradiobox.json[0m
