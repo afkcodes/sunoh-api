@@ -21,9 +21,11 @@ if (!url) {
   try {
     // Using domcontentloaded is much more reliable than networkidle2 for sites with heavy ads
     await page.goto(url, { waitUntil: 'domcontentloaded', timeout: 60000 });
-    
+
     // Wait for at least one station to appear
-    await page.waitForSelector('li.stations__station, .tablelist .item', { timeout: 10000 }).catch(() => {});
+    await page
+      .waitForSelector('li.stations__station, .tablelist .item', { timeout: 10000 })
+      .catch(() => {});
 
     const stations = await page.evaluate(() => {
       const results = [];

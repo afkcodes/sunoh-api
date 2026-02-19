@@ -8,6 +8,7 @@ export interface RadioStation {
   genres: string[];
   language: string[];
   status: 'working' | 'broken' | 'untested';
+  codec?: string;
   last_tested_at?: Date;
   metadata?: Record<string, any>;
 }
