@@ -1,4 +1,7 @@
-import puppeteer from 'puppeteer';
+import puppeteer from 'puppeteer-extra';
+import AdblockerPlugin from 'puppeteer-extra-plugin-adblocker';
+
+puppeteer.use(AdblockerPlugin({ blockTrackers: true }));
 
 const url = process.argv[2];
 if (!url) {
@@ -16,7 +19,11 @@ if (!url) {
   );
 
   try {
-    await page.goto(url, { waitUntil: 'networkidle2', timeout: 60000 });
+    // Using domcontentloaded is much more reliable than networkidle2 for sites with heavy ads
+    await page.goto(url, { waitUntil: 'domcontentloaded', timeout: 60000 });
+    
+    // Wait for at least one station to appear
+    await page.waitForSelector('li.stations__station, .tablelist .item', { timeout: 10000 }).catch(() => {});
 
     const stations = await page.evaluate(() => {
       const results = [];

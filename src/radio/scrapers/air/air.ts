@@ -1,7 +1,10 @@
 import fs from 'fs';
 import path from 'path';
-import puppeteer from 'puppeteer';
+import puppeteer from 'puppeteer-extra';
+import AdblockerPlugin from 'puppeteer-extra-plugin-adblocker';
 import { RadioStation } from '../../types';
+
+puppeteer.use(AdblockerPlugin({ blockTrackers: true }));
 
 const COUNTRY = 'India';
 const PROVIDER = 'air';
@@ -20,7 +23,7 @@ export async function scrapeAIR() {
   const page = await browser.newPage();
 
   try {
-    await page.goto('https://akashvani.gov.in/radio/live.php', { waitUntil: 'networkidle2' });
+    await page.goto('https://akashvani.gov.in/radio/live.php', { waitUntil: 'domcontentloaded' });
 
     const channels = await page.evaluate(() => {
       // @ts-ignore

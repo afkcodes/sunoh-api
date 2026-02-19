@@ -2,8 +2,12 @@ import fs from 'fs';
 import http from 'http';
 import https from 'https';
 import path from 'path';
-import puppeteer, { Page } from 'puppeteer';
+import { Page } from 'puppeteer';
+import puppeteer from 'puppeteer-extra';
+import AdblockerPlugin from 'puppeteer-extra-plugin-adblocker';
 import { RadioStation } from '../../types';
+
+puppeteer.use(AdblockerPlugin({ blockTrackers: true }));
 
 const PROVIDER = 'onlineradiobox';
 
@@ -304,7 +308,7 @@ async function scrapePage(page: Page, url: string, retries = 3): Promise<any[]> 
   for (let i = 0; i < retries; i++) {
     console.log(`Scraping: ${url} (Attempt ${i + 1}/${retries})`);
     try {
-      await page.goto(url, { waitUntil: 'networkidle2', timeout: 90000 });
+      await page.goto(url, { waitUntil: 'domcontentloaded', timeout: 90000 });
       break; // Success
     } catch (e) {
       console.error(`Attempt ${i + 1} failed for ${url}:`, (e as Error).message);
