@@ -257,7 +257,7 @@ async function testStream(url: string, depth = 0): Promise<boolean> {
       const req = protocol.get(
         url,
         {
-          timeout: 10000,
+          timeout: 15000,
           headers: {
             'User-Agent':
               'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36',
