@@ -443,7 +443,7 @@ export async function scrapeAllORB() {
 
   for (const country of ORB_COUNTRIES) {
     try {
-      await scrapeORBForCountry(page, country.code, country.name, 20); // Scrape first 20 pages per country
+      await scrapeORBForCountry(page, country.code, country.name, 1000); // Scrape up to 1000 pages per country
     } catch (err) {
       console.error(`Failed to scrape country ${country.name}:`, err);
     }

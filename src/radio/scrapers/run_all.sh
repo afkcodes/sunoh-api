@@ -33,7 +33,9 @@ process_country() {
     local name="$2"
     local scraper="$3"
     
-    local output_dir="scraped_data/$name"
+    # Find project root relative to this script
+    local SCRAPER_ROOT=$(cd "$(dirname "${BASH_SOURCE[0]}")/../../.." && pwd)
+    local output_dir="$SCRAPER_ROOT/scraped_data/$name"
     local output_file="$output_dir/onlineradiobox.json"
     local log_file="$output_dir/scrape.log"
     

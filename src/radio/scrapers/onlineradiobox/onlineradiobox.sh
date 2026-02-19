@@ -5,10 +5,11 @@
 
 CODE=${1:-"in"}
 NAME=${2:-"India"}
-MAX_PAGES=${3:-500}
+MAX_PAGES=${3:-1000}
 
-BASE_URL="https://onlineradiobox.com/$CODE/"
-OUTPUT_DIR="scraped_data/$NAME"
+# Find project root (3 levels up from this script)
+PROJECT_ROOT=$(cd "$(dirname "$0")/../../../" && pwd)
+OUTPUT_DIR="$PROJECT_ROOT/scraped_data/$NAME"
 OUTPUT_FILE="$OUTPUT_DIR/onlineradiobox.json"
 SCRAPER_DIR="$(dirname "$0")"
 

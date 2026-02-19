@@ -39,12 +39,13 @@ Instead of one giant run, we process providers one-by-one to ensure stability.
 - **Output**: `scraped_data/[Country]/[provider].json`.
 - **Constraint**: No stream validation at this stage to maximize speed.
 
-### Step B: Provider Ingestion & Validation
-**Script**: `ingest.py --provider [name]`
+### Step B: Provider Ingestion & Validation (VPN Optimized)
+**Script**: `ingest.py --provider [name] [--country "Name"]`
 - **Action**: 
-    1. Collect all JSON files for this specific provider.
-    2. Remove internal duplicates (same URL found in different categories).
-    3. Run **Parallel FFprobe** checks to verify streams and extract codecs.
+    1. Collect all JSON files for this specific provider. 
+    2. **Geo-Block Strategy**: Use the `--country` flag to process one country at a time while connected to a **Proton VPN** server for that region.
+    3. Remove internal duplicates.
+    4. Run **Parallel FFprobe** checks with **User-Agent Spoofing** to bypass bot-checks and extract high-fidelity technical metadata.
 - **Output**: A clean, validated JSON file ready for sync.
 
 ### Step C: Database Synchronization (Upsert)
