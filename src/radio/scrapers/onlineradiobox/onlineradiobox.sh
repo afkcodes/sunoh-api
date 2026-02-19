@@ -124,7 +124,12 @@ for ((p=0; p<MAX_PAGES; p++)); do
         # This is the most reliable method for headless servers
         PROBE_OUT=$(timeout 10 ffprobe -v error -select_streams a:0 -show_entries stream=codec_name -of default=noprint_wrappers=1:nokey=1 "$STREAM" 2>&1)
         
-        if [[ -n "$PROBE_OUT" && "$PROBE_OUT" != *"Error"* && "$PROBE_OUT" != *"Failed"* ]]; then
+        # Stricter check: Output must not be empty, must not contain error/fail, and should not have spaces/brackets
+        if [[ -n "$PROBE_OUT" ]] && \
+           [[ ! "${PROBE_OUT,,}" =~ "error" ]] && \
+           [[ ! "${PROBE_OUT,,}" =~ "fail" ]] && \
+           [[ ! "$PROBE_OUT" =~ "[" ]] && \
+           [[ ! "$PROBE_OUT" =~ " " ]]; then
             STATUS="working"
             FORMAT="$PROBE_OUT"
         fi

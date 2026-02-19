@@ -123,7 +123,13 @@ while [[ $PAGES_SCRAPED -lt $MAX_PAGES && -n "$PAGE_URL" ]]; do
 
             # Use ffprobe to verify the presence of an audio stream
             PROBE_OUT=$(timeout 8 ffprobe -v error -select_streams a:0 -show_entries stream=codec_name -of default=noprint_wrappers=1:nokey=1 "$S_URL" 2>&1)
-            if [[ -n "$PROBE_OUT" && "$PROBE_OUT" != *"Error"* && "$PROBE_OUT" != *"Failed"* ]]; then
+            
+            # Stricter check: Output must not be empty, must not contain error/fail, and no spaces/brackets
+            if [[ -n "$PROBE_OUT" ]] && \
+               [[ ! "${PROBE_OUT,,}" =~ "error" ]] && \
+               [[ ! "${PROBE_OUT,,}" =~ "fail" ]] && \
+               [[ ! "$PROBE_OUT" =~ "[" ]] && \
+               [[ ! "$PROBE_OUT" =~ " " ]]; then
                 CODEC="$PROBE_OUT"
                 FOUND=1
             fi
