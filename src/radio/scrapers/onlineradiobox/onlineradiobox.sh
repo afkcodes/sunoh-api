@@ -103,15 +103,19 @@ for ((p=0; p<MAX_PAGES; p++)); do
         ACTIVE_PAGE=$(echo "$line" | jq -r ._activePage)
         NEXT_URL=$(echo "$line" | jq -r ._nextUrl)
 
-        # Safety break if we are stuck on the same page index (only for deep pages)
+        # Safety break if we are stuck on the same page (using both ID and page number)
         if [[ "$STATIONS_FOUND" -eq 1 ]]; then
             CURRENT_PAGE_FIRST_ID="$ID"
             if [[ -n "$PREVIOUS_FIRST_ID" && "$CURRENT_PAGE_FIRST_ID" == "$PREVIOUS_FIRST_ID" ]]; then
-                echo "Duplicate content detected. Stopping."
-                STATIONS_FOUND=-1
-                break
+                # Only stop if the active page number also hasn't changed (truly stuck)
+                if [[ -n "$PREVIOUS_PAGE_NUM" && "$ACTIVE_PAGE" == "$PREVIOUS_PAGE_NUM" ]]; then
+                    echo "Duplicate content and page detected. Stopping."
+                    STATIONS_FOUND=-1
+                    break
+                fi
             fi
             PREVIOUS_FIRST_ID="$CURRENT_PAGE_FIRST_ID"
+            PREVIOUS_PAGE_NUM="$ACTIVE_PAGE"
         fi
 
         LOG_NAME=$(echo "$STATION_NAME" | cut -c1-42)
