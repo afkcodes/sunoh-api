@@ -5,7 +5,8 @@
 
 MAX_JOBS=${1:-5}
 SCRAPER_DIR="$(dirname "$0")"
-COUNTRIES_FILE="$SCRAPER_DIR/metadata/countries.txt"
+CORE_DIR="$SCRAPER_DIR/core"
+COUNTRIES_FILE="$CORE_DIR/countries.txt"
 
 # Colors
 export GREEN=$'\033[1;32m'
@@ -31,15 +32,15 @@ echo -e "${CYAN}==================================================${NC}"
 process_country() {
     local code="$1"
     local name="$2"
-    local scraper="$3"
+    local scraper_bin="$3"
     
-    # Find project root relative to this script
-    local SCRAPER_ROOT=$(cd "$(dirname "${BASH_SOURCE[0]}")/../../.." && pwd)
-    local output_dir="$SCRAPER_ROOT/scraped_data/$name"
-    local output_file="$output_dir/onlineradiobox.json"
-    local log_file="$output_dir/scrape.log"
+    local provider_dir=$(dirname "$scraper_bin")
+    local output_file="$provider_dir/data/${code^^}.json"
+    local log_dir="$provider_dir/logs"
+    local log_file="$log_dir/${code^^}.log"
     
-    mkdir -p "$output_dir"
+    mkdir -p "$log_dir"
+    mkdir -p "$(dirname "$output_file")"
     
     if [ -f "$output_file" ]; then
         echo -e "${GRAY}[SKIP]${NC} $name"
@@ -49,7 +50,7 @@ process_country() {
     echo -e "${YELLOW}[START]${NC} $name (Log: $log_file)"
     
     # Run the scraper and capture output to its own log
-    "$scraper" "$code" "$name" > "$log_file" 2>&1
+    "$scraper_bin" "$code" "$name" > "$log_file" 2>&1
     
     if [ $? -eq 0 ]; then
         local count=$(jq '. | length' "$output_file" 2>/dev/null || echo "0")
@@ -68,7 +69,7 @@ while IFS=: read -r code name; do
     [[ -z "$code" || "$code" == \#* ]] && continue
     
     # Process country in background
-    process_country "$code" "$name" "$SCRAPER_DIR/onlineradiobox/onlineradiobox.sh" &
+    process_country "$code" "$name" "$SCRAPER_DIR/providers/onlineradiobox/onlineradiobox.sh" &
     
     ((count++))
     if [ $count -ge "$MAX_JOBS" ]; then

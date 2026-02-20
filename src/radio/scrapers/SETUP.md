@@ -29,9 +29,24 @@ Since the scrapers use Puppeteer, you must install the Linux browser dependencie
 npx puppeteer browsers install chrome
 ```
 
-## 3. Running the Scrapers
+## 3. Directory Structure
 
-The system is designed to skip countries you have already scraped (those in `scraped_data/`).
+The project follows a modular, provider-isolated architecture:
+
+```text
+src/radio/scrapers/
+├── core/               # Shared settings & country mapping
+├── providers/          # Individual website scrapers
+│   └── onlineradiobox/
+│       ├── onlineradiobox.sh
+│       └── data/      # Raw scraped JSONs (ISO-named)
+├── scripts/            # Orchestration & Ingestion
+└── metadata/           # Final validated databases
+```
+
+## 4. Running the Scrapers
+
+The system is designed to skip countries you have already scraped (those in the provider's `data/` folder).
 
 ### Start a Full Scrape
 To scrape all countries in parallel (default 5 at a time):
@@ -42,32 +57,30 @@ To scrape all countries in parallel (default 5 at a time):
 ```
 
 ### Scrape a Specific Country manually
-If you want to re-run or test a single country:
-
 ```bash
 # Usage: ./onlineradiobox.sh [country_code] [country_name]
-./src/radio/scrapers/onlineradiobox/onlineradiobox.sh "us" "United States"
+./src/radio/scrapers/providers/onlineradiobox/onlineradiobox.sh "us" "United States"
 ```
 
-## 4. Generating the Master Library (Ingestion)
+## 5. Generating the Master Library (Ingestion)
 
-After scraping is finished, merge all individual country files into one deduplicated master list:
+After scraping is finished, merge all individual files into a deduplicated master list. This script uses smart caching to reuse previous validation results (**speeds up re-scrapes by 100x**).
 
 ```bash
-python3 src/radio/scrapers/utils/ingest.py
+python3 src/radio/scrapers/scripts/ingest.py --provider onlineradiobox
 ```
 
-- **Output**: `src/radio/scrapers/metadata/master_stations.json`
-- This file is ready to be imported into your database.
+- **Output**: `src/radio/scrapers/metadata/validated_onlineradiobox.json`
+- This file is ready for database sync.
 
-## 5. Helpful Utilities
+## 6. Helpful Utilities
 
 | Command | Description |
 |---------|-------------|
-| `./src/radio/scrapers/utils/count_stations.sh` | Shows a live table of how many stations are found per country. |
-| `python3 src/radio/scrapers/utils/count_unique.py` | Shows how many unique stations exist after deduplication. |
+| `./src/radio/scrapers/scripts/count_stations.sh` | Shows a live table of how many stations are found per country. |
+| `python3 src/radio/scrapers/scripts/count_unique.py` | Shows how many unique stations exist after deduplication. |
 
 ## Pro-Tips for Servers:
 1. **Background Running**: Always run the scraper inside `screen` or `tmux`. It takes time, and you don't want it to die if your SSH connection drops.
-2. **Headless Mode**: The scripts are already configured with `--aout=dummy --vout=dummy` so they won't try to open windows or play sound on your server.
+2. **Headless Mode**: The scripts are already configured to run in headless mode.
 3. **Cron Job**: You can set up a Cron Job to run the `run_all.sh` once a week to automatically keep your radio library updated.

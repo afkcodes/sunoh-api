@@ -3,8 +3,10 @@ node_modules
 yarn.lock
 dist
 
-# Radio Scraping Data (Uncomment to exclude)
-# scraped_data/
+# Radio Scraping
+src/radio/scrapers/providers/*/data/*.json
+src/radio/scrapers/providers/*/logs/*.log
+scraped_data/
 *.log
-# src/radio/scrapers/metadata/master_stations.json
 src/radio/scrapers/metadata/duplicates.json
+src/radio/scrapers/metadata/validated_*
