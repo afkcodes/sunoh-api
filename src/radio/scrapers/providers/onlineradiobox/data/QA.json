@@ -1,0 +1,300 @@
+[
+  {
+    "id": "onlineradiobox_qa.986fmqatar",
+    "name": "Malayalam 98.6 FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/88768.v3.png",
+    "stream_url": "http://vokcast.bluecast.in:8227/986fm",
+    "website": "https://radio986.com/",
+    "provider": "onlineradiobox",
+    "country": "Qatar",
+    "genres": [
+      "ethnic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:20:14+05:30"
+  },
+  {
+    "id": "onlineradiobox_qa.alaraby",
+    "name": "Al Araby",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/138305.v1.png",
+    "stream_url": "https://l3.itworkscdn.net/alarabyradiolive/alarabyradio_audio/icecast.audio",
+    "website": "https://www.alaraby.com/",
+    "provider": "onlineradiobox",
+    "country": "Qatar",
+    "genres": [
+      "news"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:20:11+05:30"
+  },
+  {
+    "id": "onlineradiobox_qa.aljazeeraarabic",
+    "name": "Radio Al Jazeera Arabic",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/41362.v8.png",
+    "stream_url": "https://live-hls-audio-web-aja.getaj.net/VOICE-AJA/index.m3u8",
+    "website": "http://listen.aljazeera.com/arabic/livestream",
+    "provider": "onlineradiobox",
+    "country": "Qatar",
+    "genres": [
+      "news",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:20:10+05:30"
+  },
+  {
+    "id": "onlineradiobox_qa.brazillivedoha",
+    "name": "rede brazil live Doha",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/126851.v1.png",
+    "stream_url": "https://sonicpanel.oficialserver.com:7164/;",
+    "website": "https://redebrazillivedoha.blogspot.com/",
+    "provider": "onlineradiobox",
+    "country": "Qatar",
+    "genres": [
+      "brazilian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:20:17+05:30"
+  },
+  {
+    "id": "onlineradiobox_qa.fameqatar",
+    "name": "Fame FM Qatar",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/92636.v12.png",
+    "stream_url": "https://samcloud.spacial.com/api/listen?sid=122198&m=sc&rid=257535",
+    "website": "http://famefmqatar.com/",
+    "provider": "onlineradiobox",
+    "country": "Qatar",
+    "genres": [
+      "pop",
+      "top40",
+      "arabic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:20:15+05:30"
+  },
+  {
+    "id": "onlineradiobox_qa.freefmlkqatarsinhala",
+    "name": "freefm.lk - Qatar Sinhala Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/126059.v2.png",
+    "stream_url": "https://stream.zeno.fm/4awq6kvoezttv",
+    "website": "https://freefm.lk/qa",
+    "provider": "onlineradiobox",
+    "country": "Qatar",
+    "genres": [
+      "pop",
+      "news",
+      "classic",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:20:19+05:30"
+  },
+  {
+    "id": "onlineradiobox_qa.habaieb",
+    "name": "Habaieb FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/110175.v2.png",
+    "stream_url": "http://188.166.95.19:8000/live_habaiebfm.mp3",
+    "website": "https://www.habaiebradio.com/",
+    "provider": "onlineradiobox",
+    "country": "Qatar",
+    "genres": [
+      "r'n'b",
+      "hip-hop",
+      "turkish",
+      "arabic",
+      "african"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:20:17+05:30"
+  },
+  {
+    "id": "onlineradiobox_qa.montecarlodoualiya",
+    "name": "Radio Monte Carlo Doualiya",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/41357.v6.png",
+    "stream_url": "https://montecarlodoualiya128k.ice.infomaniak.ch/mc-doualiya.mp3",
+    "website": "http://www.mc-doualiya.com/",
+    "provider": "onlineradiobox",
+    "country": "Qatar",
+    "genres": [
+      "news",
+      "talk",
+      "arabic",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:20:10+05:30"
+  },
+  {
+    "id": "onlineradiobox_qa.olive",
+    "name": "Radio Olive 106.3",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/111103.v8.png",
+    "stream_url": "https://playerservices.streamtheworld.com/api/livestream-redirect/OLIVE1063.mp3?dist=onlineradiobox",
+    "website": "https://olive.qa/",
+    "provider": "onlineradiobox",
+    "country": "Qatar",
+    "genres": [
+      "pop",
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:20:13+05:30"
+  },
+  {
+    "id": "onlineradiobox_qa.qatarradio",
+    "name": "Qatar Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/41364.v6.png",
+    "stream_url": "http://52.178.28.223:1935/QRS/myStream/Playlist.m3u8",
+    "website": "http://www.qatarradio.qa/",
+    "provider": "onlineradiobox",
+    "country": "Qatar",
+    "genres": [
+      "pop",
+      "news",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:20:16+05:30"
+  },
+  {
+    "id": "onlineradiobox_qa.radiosawa",
+    "name": "Radio Sawa",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/41361.v4.png",
+    "stream_url": "https://stream.radiojar.com/mzw8z62r92quv",
+    "website": "https://www.radiosawa.com/sawa-live-stream",
+    "provider": "onlineradiobox",
+    "country": "Qatar",
+    "genres": [
+      "pop",
+      "top40",
+      "arabic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:20:12+05:30"
+  },
+  {
+    "id": "onlineradiobox_qa.soutalkhaleejfm",
+    "name": "Radio Sout Al Khaleej FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/41359.v4.png",
+    "stream_url": "https://live.amperwave.net/direct/ihorizonsradio-sakfmaac-ibc1",
+    "website": "http://www.soutalkhaleej.fm/",
+    "provider": "onlineradiobox",
+    "country": "Qatar",
+    "genres": [
+      "pop",
+      "news",
+      "talk",
+      "arabic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:20:14+05:30"
+  },
+  {
+    "id": "onlineradiobox_qa.sriindia",
+    "name": "Sri India Doha Tamil 81.98FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/120871.v5.png",
+    "stream_url": "http://freeuk21.listen2myradio.com:11582/;",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Qatar",
+    "genres": [
+      "hindu"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:20:18+05:30"
+  },
+  {
+    "id": "onlineradiobox_qa.suno917",
+    "name": "Radio Suno 91.7",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/88762.v3.png",
+    "stream_url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SUNO917.mp3?dist=onlineradiobox",
+    "website": "https://suno.qa/",
+    "provider": "onlineradiobox",
+    "country": "Qatar",
+    "genres": [
+      "news",
+      "indian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:20:16+05:30"
+  },
+  {
+    "id": "onlineradiobox_qa.urdu",
+    "name": "URDU Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/96263.v9.png",
+    "stream_url": "http://52.178.28.223:1935/URDU/myStream/Playlist.m3u8",
+    "website": "http://www.urduradio.qa/",
+    "provider": "onlineradiobox",
+    "country": "Qatar",
+    "genres": [
+      "talk",
+      "folk",
+      "culture"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:20:19+05:30"
+  },
+  {
+    "id": "onlineradiobox_qa.uthamiyaefm",
+    "name": "Radio Uthamiyae FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/41360.v2.png",
+    "stream_url": "https://ssl.aloncast.com:1595/",
+    "website": "http://www.uthamiyae.fm/",
+    "provider": "onlineradiobox",
+    "country": "Qatar",
+    "genres": [
+      "christian",
+      "children"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:20:18+05:30"
+  }
+]

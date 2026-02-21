@@ -1,0 +1,557 @@
+[
+  {
+    "id": "onlineradiobox_cw.94korsou",
+    "name": "Legria 94.5 Curacao",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/48691.v9.png",
+    "stream_url": "http://162.243.94.61:8028/;stream.mp3",
+    "website": "http://www.vozdibonaire.com/",
+    "provider": "onlineradiobox",
+    "country": "Curacao",
+    "genres": [
+      "pop",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:16:31+05:30"
+  },
+  {
+    "id": "onlineradiobox_cw.aindatinsperansa",
+    "name": "Ainda Tin Speransa Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/146022.v1.png",
+    "stream_url": "https://listen.radioking.com/radio/354847/stream/404098",
+    "website": "https://www.ainda-tin-speransa.websiteradio.co/",
+    "provider": "onlineradiobox",
+    "country": "Curacao",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:16:43+05:30"
+  },
+  {
+    "id": "onlineradiobox_cw.amadeus",
+    "name": "Radio Amadeus",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/75048.v17.png",
+    "stream_url": "https://curastreamz.com:7003/stream?type=http&nocache=2",
+    "website": "https://radioamadeus.radio12345.com/",
+    "provider": "onlineradiobox",
+    "country": "Curacao",
+    "genres": [
+      "80s",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:16:43+05:30"
+  },
+  {
+    "id": "onlineradiobox_cw.direct1071",
+    "name": "Radio Direct 107.1 FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/48694.v5.png",
+    "stream_url": "https://edge1.direct107.com/;",
+    "website": "http://www.direct107.com/",
+    "provider": "onlineradiobox",
+    "country": "Curacao",
+    "genres": [
+      "top40",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:16:31+05:30"
+  },
+  {
+    "id": "onlineradiobox_cw.dolfijn",
+    "name": "Dolfijn FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/43522.v9.png",
+    "stream_url": "https://radiostreamfm.com/radio/8130/radio.mp3",
+    "website": "https://dolfijngo.com/radio/",
+    "provider": "onlineradiobox",
+    "country": "Curacao",
+    "genres": [
+      "pop",
+      "news",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:16:34+05:30"
+  },
+  {
+    "id": "onlineradiobox_cw.fiesta",
+    "name": "Fiesta FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/43520.v7.png",
+    "stream_url": "https://radiofiestafm.krioyohosting.com/live",
+    "website": "http://fiesta.fm/",
+    "provider": "onlineradiobox",
+    "country": "Curacao",
+    "genres": [
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:16:42+05:30"
+  },
+  {
+    "id": "onlineradiobox_cw.hitradio915",
+    "name": "HITradio 915",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/48684.v12.png",
+    "stream_url": "https://stream.paradisefm.cw/HITradio915",
+    "website": "https://hitradio915.com/",
+    "provider": "onlineradiobox",
+    "country": "Curacao",
+    "genres": [
+      "dance",
+      "pop",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:16:34+05:30"
+  },
+  {
+    "id": "onlineradiobox_cw.hype",
+    "name": "Hype Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/97371.v25.png",
+    "stream_url": "https://servidor33-2.brlogic.com:7036/live?source=website",
+    "website": "http://hyperadio.nl/",
+    "provider": "onlineradiobox",
+    "country": "Curacao",
+    "genres": [
+      "r'n'b",
+      "hip-hop",
+      "latin",
+      "dancehall"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:16:38+05:30"
+  },
+  {
+    "id": "onlineradiobox_cw.joceproduction",
+    "name": "Joce production fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/112613.v1.png",
+    "stream_url": "https://stream.zeno.fm/hp4bpr101ehvv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Curacao",
+    "genres": [
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:16:41+05:30"
+  },
+  {
+    "id": "onlineradiobox_cw.kimiko",
+    "name": "Radio Kimiko",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/93211.v10.png",
+    "stream_url": "https://stream.zeno.fm/sq6v6nxmns8uv",
+    "website": "https://kimiko1717.radio12345.com/",
+    "provider": "onlineradiobox",
+    "country": "Curacao",
+    "genres": [
+      "r'n'b",
+      "pop",
+      "hip-hop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:16:37+05:30"
+  },
+  {
+    "id": "onlineradiobox_cw.krioyo",
+    "name": "Radio Krioyo",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/48676.v4.png",
+    "stream_url": "https://radios.wakenext.com/listen/radio_kriyoyo_2/radio.mp3",
+    "website": "http://www.radiokrioyo.fm/",
+    "provider": "onlineradiobox",
+    "country": "Curacao",
+    "genres": [
+      "pop",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:16:33+05:30"
+  },
+  {
+    "id": "onlineradiobox_cw.kristaldioro",
+    "name": "Radio Kristal di Oro",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/74718.v8.png",
+    "stream_url": "https://stream.zeno.fm/chs4bwz1mp8uv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Curacao",
+    "genres": [
+      "pop",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:16:36+05:30"
+  },
+  {
+    "id": "onlineradiobox_cw.laser101curacao",
+    "name": "Laser 101 Curacao",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/48685.v7.png",
+    "stream_url": "https://one.laser-101.com/laser/stream",
+    "website": "https://www.laser-101.com/",
+    "provider": "onlineradiobox",
+    "country": "Curacao",
+    "genres": [
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:16:37+05:30"
+  },
+  {
+    "id": "onlineradiobox_cw.margaritha",
+    "name": "Radio Margaritha Online 90.3 FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/80052.v8.png",
+    "stream_url": "https://usa6.fastcast4u.com/proxy/lfxmgisa?mp=/1",
+    "website": "http://www.radiomargaritha.com/",
+    "provider": "onlineradiobox",
+    "country": "Curacao",
+    "genres": [
+      "talk",
+      "education"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:16:32+05:30"
+  },
+  {
+    "id": "onlineradiobox_cw.mas997",
+    "name": "Radio Mas 99.7",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/48696.v12.png",
+    "stream_url": "https://radios.wakenext.com/hls/radio_mas99.7/live.m3u8",
+    "website": "https://www.mas99.cw/web/",
+    "provider": "onlineradiobox",
+    "country": "Curacao",
+    "genres": [
+      "pop",
+      "top40",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:16:31+05:30"
+  },
+  {
+    "id": "onlineradiobox_cw.mixglobal",
+    "name": "Mix Global Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/107210.v3.png",
+    "stream_url": "https://radiostreamfm.com/radio/8100/live.mp3",
+    "website": "https://mixglobalradio.com/",
+    "provider": "onlineradiobox",
+    "country": "Curacao",
+    "genres": [
+      "house",
+      "deep house"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:16:35+05:30"
+  },
+  {
+    "id": "onlineradiobox_cw.ondacw",
+    "name": "CW International",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/103771.v6.png",
+    "stream_url": "https://sonic.mediacp.eu/8042/stream",
+    "website": "https://cwradio.avandhub.com/",
+    "provider": "onlineradiobox",
+    "country": "Curacao",
+    "genres": [
+      "pop",
+      "soft pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:17:07+05:30"
+  },
+  {
+    "id": "onlineradiobox_cw.one",
+    "name": "Radio One FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/87850.v4.png",
+    "stream_url": "https://8793843.com/7896326782/",
+    "website": "https://www.radioone.cw/",
+    "provider": "onlineradiobox",
+    "country": "Curacao",
+    "genres": [
+      "dance",
+      "electronic",
+      "house",
+      "progressive house",
+      "deep house",
+      "electro house",
+      "club",
+      "dj"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:16:35+05:30"
+  },
+  {
+    "id": "onlineradiobox_cw.palm",
+    "name": "Palm Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/104854.v9.png",
+    "stream_url": "https://stream.palm.radio/palmradio.mp3",
+    "website": "https://palm.radio/",
+    "provider": "onlineradiobox",
+    "country": "Curacao",
+    "genres": [
+      "lounge",
+      "ambient",
+      "chill-out"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:16:37+05:30"
+  },
+  {
+    "id": "onlineradiobox_cw.paradisefm",
+    "name": "Paradise FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/48688.v11.png",
+    "stream_url": "https://stream.paradisefm.cw/ParadiseFM",
+    "website": "http://www.paradisefm.cw/",
+    "provider": "onlineradiobox",
+    "country": "Curacao",
+    "genres": [
+      "pop",
+      "news",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:16:32+05:30"
+  },
+  {
+    "id": "onlineradiobox_cw.pearlfm",
+    "name": "Radio Pearl FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/48677.v5.png",
+    "stream_url": "https://live2.tensila.com/pearl-v-1.pearlfm/hls/master.m3u8",
+    "website": "http://pearlfmradio.sx/",
+    "provider": "onlineradiobox",
+    "country": "Curacao",
+    "genres": [
+      "pop",
+      "news",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:17:06+05:30"
+  },
+  {
+    "id": "onlineradiobox_cw.q939fm",
+    "name": "Q93.9 FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/48690.v5.png",
+    "stream_url": "https://s1.northrich.nl:38123/streamq939",
+    "website": "http://q939.fm/",
+    "provider": "onlineradiobox",
+    "country": "Curacao",
+    "genres": [
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:16:41+05:30"
+  },
+  {
+    "id": "onlineradiobox_cw.qc",
+    "name": "ret Q",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/109618.v4.png",
+    "stream_url": "https://stream.zeno.fm/9s61dtwd898uv",
+    "website": "http://www.retq.eu/",
+    "provider": "onlineradiobox",
+    "country": "Curacao",
+    "genres": [
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:17:08+05:30"
+  },
+  {
+    "id": "onlineradiobox_cw.radioexplore",
+    "name": "Radio Explore Curacao Online",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/55902.v15.png",
+    "stream_url": "https://uk17freenew.listen2myradio.com/live.mp3?typeportmount=s2_5646_stream_738706148;",
+    "website": "http://radioexplorecuracao.weebly.com/",
+    "provider": "onlineradiobox",
+    "country": "Curacao",
+    "genres": [
+      "news",
+      "talk",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:16:35+05:30"
+  },
+  {
+    "id": "onlineradiobox_cw.ritmoantiyano",
+    "name": "Ritmo Antiyano",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/43472.v10.png",
+    "stream_url": "https://ec6.yesstreaming.net:3105/stream",
+    "website": "http://www.ritmo-antiyano.com/",
+    "provider": "onlineradiobox",
+    "country": "Curacao",
+    "genres": [
+      "caribbean"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:16:33+05:30"
+  },
+  {
+    "id": "onlineradiobox_cw.simpelmenteeberdat",
+    "name": "Simpelmente e Berdat",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/145497.v1.png",
+    "stream_url": "https://listen.radioking.com/radio/659869/stream/723619",
+    "website": "https://www.eberdat.online/",
+    "provider": "onlineradiobox",
+    "country": "Curacao",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:17:07+05:30"
+  },
+  {
+    "id": "onlineradiobox_cw.staytunedonline",
+    "name": "Stay Tuned Online",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/136668.v2.png",
+    "stream_url": "https://stream.zeno.fm/349z3qeuy68uv",
+    "website": "https://zeno.fm/radio/stay-tuned-online/",
+    "provider": "onlineradiobox",
+    "country": "Curacao",
+    "genres": [
+      "african",
+      "latin",
+      "caribbean"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:16:39+05:30"
+  },
+  {
+    "id": "onlineradiobox_cw.true4life",
+    "name": "Radio True4life",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/82176.v12.png",
+    "stream_url": "http://213.202.241.199:9446/stream",
+    "website": "https://www.radiotrueforlife.nl/",
+    "provider": "onlineradiobox",
+    "country": "Curacao",
+    "genres": [
+      "pop",
+      "talk",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:16:34+05:30"
+  },
+  {
+    "id": "onlineradiobox_cw.vibesnation",
+    "name": "Vibes nation Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/105942.v2.png",
+    "stream_url": "https://stream.zeno.fm/2rrkqrsgps8uv",
+    "website": "https://vibesnationradio.live/",
+    "provider": "onlineradiobox",
+    "country": "Curacao",
+    "genres": [
+      "pop",
+      "talk",
+      "hip-hop",
+      "reggae",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:17:09+05:30"
+  },
+  {
+    "id": "onlineradiobox_cw.x1043",
+    "name": "X104.3",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/48698.v4.png",
+    "stream_url": "https://www.streamcontrol.net:8444/s/16520/",
+    "website": "https://x1043.com/",
+    "provider": "onlineradiobox",
+    "country": "Curacao",
+    "genres": [
+      "electronic",
+      "pop",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:16:42+05:30"
+  }
+]

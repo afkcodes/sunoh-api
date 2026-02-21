@@ -1,0 +1,1117 @@
+[
+  {
+    "id": "onlineradiobox_tt.4elements",
+    "name": "4 Elements Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/40425.v11.png",
+    "stream_url": "http://198.245.61.103:8027/;",
+    "website": "http://www.4elementsradio.com/",
+    "provider": "onlineradiobox",
+    "country": "Trinidad and Tobago",
+    "genres": [
+      "rap",
+      "hip-hop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:54:25+05:30"
+  },
+  {
+    "id": "onlineradiobox_tt.951thebestmix",
+    "name": "95.1 The Best Mix",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/39641.v7.png",
+    "stream_url": "https://streams.radiomast.io/aae72a18-3fa0-4b9a-a4c4-5a19655e1c68?referer=onlineradiobox",
+    "website": "http://www.951thebestmix.co.tt/",
+    "provider": "onlineradiobox",
+    "country": "Trinidad and Tobago",
+    "genres": [
+      "pop",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:53:23+05:30"
+  },
+  {
+    "id": "onlineradiobox_tt.bacchanal",
+    "name": "Bacchanal Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/39648.v8.png",
+    "stream_url": "https://c13.radioboss.fm:18470/stream",
+    "website": "http://bacchanalradio.com/",
+    "provider": "onlineradiobox",
+    "country": "Trinidad and Tobago",
+    "genres": [
+      "trance",
+      "hip-hop",
+      "bhangra",
+      "reggae",
+      "dancehall"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:53:30+05:30"
+  },
+  {
+    "id": "onlineradiobox_tt.canopyradio",
+    "name": "Canopy Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/40463.v5.png",
+    "stream_url": "https://s2.radio.co/saa8aeb242/listen",
+    "website": "http://www.canopyradio.com/",
+    "provider": "onlineradiobox",
+    "country": "Trinidad and Tobago",
+    "genres": [
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:53:31+05:30"
+  },
+  {
+    "id": "onlineradiobox_tt.caribbeanlight",
+    "name": "Caribbean Light Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/88417.v3.png",
+    "stream_url": "https://stream.zeno.fm/xmdgb65cnzzuv",
+    "website": "https://zeno.fm/caribbean-light-radio/",
+    "provider": "onlineradiobox",
+    "country": "Trinidad and Tobago",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:54:34+05:30"
+  },
+  {
+    "id": "onlineradiobox_tt.caribbeanwaveqx93",
+    "name": "Caribbean Wave Radio QX93",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/94363.v2.png",
+    "stream_url": "https://stream.zeno.fm/xzzxq317ps8uv",
+    "website": "https://www.caribbeanwaveqx93.com/",
+    "provider": "onlineradiobox",
+    "country": "Trinidad and Tobago",
+    "genres": [
+      "r'n'b",
+      "reggae"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:53:34+05:30"
+  },
+  {
+    "id": "onlineradiobox_tt.dblend",
+    "name": "D Blend",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/151057.v1.png",
+    "stream_url": "https://centova87.shoutcastservices.com/proxy/dblend/stream",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Trinidad and Tobago",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:54:57+05:30"
+  },
+  {
+    "id": "onlineradiobox_tt.eleganttreasures",
+    "name": "Elegant Treasures Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/119639.v3.png",
+    "stream_url": "https://stream.zeno.fm/kikyuh9f7bttv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Trinidad and Tobago",
+    "genres": [
+      "christmas",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:54:21+05:30"
+  },
+  {
+    "id": "onlineradiobox_tt.enfxradio",
+    "name": "eNFX Radio HD",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/39644.v7.png",
+    "stream_url": "https://enfxradio.radioca.st/;",
+    "website": "http://enfxradio.com/",
+    "provider": "onlineradiobox",
+    "country": "Trinidad and Tobago",
+    "genres": [
+      "dance",
+      "techno",
+      "rap",
+      "hip-hop",
+      "reggae",
+      "afro beat"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:53:29+05:30"
+  },
+  {
+    "id": "onlineradiobox_tt.felicity",
+    "name": "Felicity Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/107113.v3.png",
+    "stream_url": "http://162.244.80.36:9112/;stream.mp3",
+    "website": "http://www.primcast.com/radio/11928186",
+    "provider": "onlineradiobox",
+    "country": "Trinidad and Tobago",
+    "genres": [
+      "dance",
+      "electronic",
+      "pop",
+      "80s"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:54:26+05:30"
+  },
+  {
+    "id": "onlineradiobox_tt.freshfiregospel",
+    "name": "Fresh Fire Gospel Radio Tt",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/135764.v1.png",
+    "stream_url": "https://stream.zeno.fm/t7hky208ab5vv",
+    "website": "https://www.freshfiregospel.com/",
+    "provider": "onlineradiobox",
+    "country": "Trinidad and Tobago",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:54:30+05:30"
+  },
+  {
+    "id": "onlineradiobox_tt.fyah",
+    "name": "Fyah Digital",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/136619.v17.png",
+    "stream_url": "http://65.108.98.93:7628/stream",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Trinidad and Tobago",
+    "genres": [
+      "dance",
+      "r'n'b",
+      "hip-hop",
+      "reggae"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:54:29+05:30"
+  },
+  {
+    "id": "onlineradiobox_tt.gen10",
+    "name": "GEN 10 Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/151048.v4.png",
+    "stream_url": "https://streaming.radio.co/s2fe166ea0/listen",
+    "website": "http://https/www.gen10radio.com",
+    "provider": "onlineradiobox",
+    "country": "Trinidad and Tobago",
+    "genres": [
+      "house",
+      "drum'n'bass",
+      "alternative rock"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:55:00+05:30"
+  },
+  {
+    "id": "onlineradiobox_tt.globalreggae",
+    "name": "Global Fm Reggae Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/90676.v6.png",
+    "stream_url": "https://servidor39-5.brlogic.com:7190/live?source=website",
+    "website": "https://globalfmreggaeradio.webradiosite.com/",
+    "provider": "onlineradiobox",
+    "country": "Trinidad and Tobago",
+    "genres": [
+      "reggae"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:53:35+05:30"
+  },
+  {
+    "id": "onlineradiobox_tt.hd54",
+    "name": "Online Radio hd54FM Smooth Grooves",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/110781.v4.png",
+    "stream_url": "https://radiohd54fm.out.airtime.pro/radiohd54fm_b",
+    "website": "https://radiohd54fm.airtime.pro/",
+    "provider": "onlineradiobox",
+    "country": "Trinidad and Tobago",
+    "genres": [
+      "r'n'b",
+      "disco",
+      "jazz",
+      "soul",
+      "soft rock",
+      "reggae"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:54:33+05:30"
+  },
+  {
+    "id": "onlineradiobox_tt.heartbeat",
+    "name": "Radio Heartbeat",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/40450.v4.png",
+    "stream_url": "https://streamdb3web.securenetsystems.net/ce/CLCL",
+    "website": "http://www.heartbeatradiott.com/",
+    "provider": "onlineradiobox",
+    "country": "Trinidad and Tobago",
+    "genres": [
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:54:32+05:30"
+  },
+  {
+    "id": "onlineradiobox_tt.heritageradio1017fm",
+    "name": "Heritage Radio 101.7FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/40392.v2.png",
+    "stream_url": "http://www.heritageradiott.com/livestream",
+    "website": "http://www.heritageradiott.com/",
+    "provider": "onlineradiobox",
+    "country": "Trinidad and Tobago",
+    "genres": [
+      "news",
+      "talk",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:54:58+05:30"
+  },
+  {
+    "id": "onlineradiobox_tt.hero",
+    "name": "Hero Radio (Saint Helena)",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/139078.v1.png",
+    "stream_url": "https://a2.asurahosting.com:6790/sthelena.mp3",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Trinidad and Tobago",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:54:29+05:30"
+  },
+  {
+    "id": "onlineradiobox_tt.hotlikefireradioonline",
+    "name": "Hot Like Fire Radio Online",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/40384.v9.png",
+    "stream_url": "https://fps3.listen2myradio.com:2199/listen.php?ip=109.169.23.124&port=8678&type=s1",
+    "website": "http://www.hotlikefireradio.com/",
+    "provider": "onlineradiobox",
+    "country": "Trinidad and Tobago",
+    "genres": [
+      "dance",
+      "house",
+      "rock",
+      "r'n'b",
+      "disco",
+      "pop",
+      "techno",
+      "hip-hop",
+      "indian",
+      "reggae",
+      "reggaeton",
+      "merengue",
+      "bachata"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:54:24+05:30"
+  },
+  {
+    "id": "onlineradiobox_tt.hott93",
+    "name": "Radio Hott 93",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/40444.v14.png",
+    "stream_url": "https://streamdb3web.securenetsystems.net/v5/HOTT93",
+    "website": "http://www.hott93.com/",
+    "provider": "onlineradiobox",
+    "country": "Trinidad and Tobago",
+    "genres": [
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:54:19+05:30"
+  },
+  {
+    "id": "onlineradiobox_tt.i955fm",
+    "name": "I 95.5 FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/39262.v9.png",
+    "stream_url": "https://radio.securenetsystems.net/v5/I95",
+    "website": "http://i955fm.com/",
+    "provider": "onlineradiobox",
+    "country": "Trinidad and Tobago",
+    "genres": [
+      "news",
+      "talk",
+      "gospel",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:54:18+05:30"
+  },
+  {
+    "id": "onlineradiobox_tt.icantalks",
+    "name": "Ican Talks",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/94083.v1.png",
+    "stream_url": "https://stream.zeno.fm/npk880fs3heuv",
+    "website": "http://clarencearchibaldnetwork.org/",
+    "provider": "onlineradiobox",
+    "country": "Trinidad and Tobago",
+    "genres": [
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:54:22+05:30"
+  },
+  {
+    "id": "onlineradiobox_tt.ie",
+    "name": "IeRadio",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/95498.v5.png",
+    "stream_url": "https://s3.radio.co/sce21a368c/listen",
+    "website": "http://www.ieradiott.com/",
+    "provider": "onlineradiobox",
+    "country": "Trinidad and Tobago",
+    "genres": [
+      "indian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:54:20+05:30"
+  },
+  {
+    "id": "onlineradiobox_tt.johd",
+    "name": "JO Radio Hd",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/107615.v22.png",
+    "stream_url": "https://stream.zeno.fm/xw3tbfhzftzuv",
+    "website": "https://lm.fm/jomedia",
+    "provider": "onlineradiobox",
+    "country": "Trinidad and Tobago",
+    "genres": [
+      "r'n'b",
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:53:33+05:30"
+  },
+  {
+    "id": "onlineradiobox_tt.jointservices",
+    "name": "JOINT SERVICES RADIO-1NE TT",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/117239.v6.png",
+    "stream_url": "https://stream.zeno.fm/cg99qzns5rhvv",
+    "website": "https://zeno.fm/radio/joint-services-radio1nep626hzns5rhvv/",
+    "provider": "onlineradiobox",
+    "country": "Trinidad and Tobago",
+    "genres": [
+      "news",
+      "talk",
+      "reggae",
+      "gospel",
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:54:30+05:30"
+  },
+  {
+    "id": "onlineradiobox_tt.lit",
+    "name": "LIT 102.3",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/151647.v5.png",
+    "stream_url": "http://s8.yesstreaming.net:7106/stream",
+    "website": "https://lit102fm.com/",
+    "provider": "onlineradiobox",
+    "country": "Trinidad and Tobago",
+    "genres": [
+      "pop",
+      "top40",
+      "hits",
+      "dancehall"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:55:00+05:30"
+  },
+  {
+    "id": "onlineradiobox_tt.lovelife",
+    "name": "Love&amp;Life Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/145698.v2.png",
+    "stream_url": "https://listen.radioking.com/radio/643939/stream/707092",
+    "website": "https://aliciaparejo87.wixsite.com/loveandliferadio",
+    "provider": "onlineradiobox",
+    "country": "Trinidad and Tobago",
+    "genres": [
+      "country",
+      "alternative",
+      "gospel",
+      "romantic",
+      "love songs"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:54:57+05:30"
+  },
+  {
+    "id": "onlineradiobox_tt.musicradio97",
+    "name": "Music Radio 97",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/39636.v7.png",
+    "stream_url": "https://radio.securenetsystems.net/cirrusencore/MR97",
+    "website": "https://www.musicradio97.com/",
+    "provider": "onlineradiobox",
+    "country": "Trinidad and Tobago",
+    "genres": [
+      "pop",
+      "news",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:53:31+05:30"
+  },
+  {
+    "id": "onlineradiobox_tt.ocov",
+    "name": "OCOV Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/121403.v6.png",
+    "stream_url": "http://s5.voscast.com:9520/stream",
+    "website": "https://www.ourcultureourvibztt.com/",
+    "provider": "onlineradiobox",
+    "country": "Trinidad and Tobago",
+    "genres": [
+      "reggae",
+      "culture"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:54:32+05:30"
+  },
+  {
+    "id": "onlineradiobox_tt.oneinchriststudios",
+    "name": "One in Christ Studios",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/103357.v1.png",
+    "stream_url": "https://oneinchriststudios.out.airtime.pro/oneinchriststudios_a",
+    "website": "https://oneinchriststudios.com/",
+    "provider": "onlineradiobox",
+    "country": "Trinidad and Tobago",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:54:31+05:30"
+  },
+  {
+    "id": "onlineradiobox_tt.pure977mixx",
+    "name": "Pure 97.7 Mixx Online FM- The Love Station",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/75661.v20.png",
+    "stream_url": "https://uk2freenew.listen2myradio.com/live.mp3?typeportmount=s1_5063_stream_525812059",
+    "website": "https://pure977mixxfm.radiostream321.com/",
+    "provider": "onlineradiobox",
+    "country": "Trinidad and Tobago",
+    "genres": [
+      "retro",
+      "70s",
+      "60s",
+      "love songs",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:54:22+05:30"
+  },
+  {
+    "id": "onlineradiobox_tt.radio905",
+    "name": "Radio 90.5",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/39643.v5.png",
+    "stream_url": "https://radio.securenetsystems.net/v5/index.cfm?",
+    "website": "https://www.radio90fm.com/",
+    "provider": "onlineradiobox",
+    "country": "Trinidad and Tobago",
+    "genres": [
+      "dance",
+      "pop",
+      "bollywood",
+      "indian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:54:24+05:30"
+  },
+  {
+    "id": "onlineradiobox_tt.radio961wefm",
+    "name": "Radio 96.1 WEFM",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/39642.v4.png",
+    "stream_url": "https://fms.ttrn.org/live/961wefm.sdp/playlist.m3u8",
+    "website": "http://96wefm.com/",
+    "provider": "onlineradiobox",
+    "country": "Trinidad and Tobago",
+    "genres": [
+      "r'n'b",
+      "pop",
+      "rap",
+      "hip-hop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:53:24+05:30"
+  },
+  {
+    "id": "onlineradiobox_tt.radioaakashvani",
+    "name": "Freedom 106.5",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/40452.v8.png",
+    "stream_url": "https://streams.radiomast.io/3ccc1156-fcf8-4ba7-9a0c-28e3a465e1ae?referer=onlineradiobox",
+    "website": "https://tbcradionetwork.co.tt/freedom1065/",
+    "provider": "onlineradiobox",
+    "country": "Trinidad and Tobago",
+    "genres": [
+      "romantic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:53:32+05:30"
+  },
+  {
+    "id": "onlineradiobox_tt.radioboomchampions",
+    "name": "Radio Boom Champions",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/40465.v4.png",
+    "stream_url": "http://s8.yesstreaming.net:7103/stream",
+    "website": "http://boomchampionstt.com/",
+    "provider": "onlineradiobox",
+    "country": "Trinidad and Tobago",
+    "genres": [
+      "pop",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:53:24+05:30"
+  },
+  {
+    "id": "onlineradiobox_tt.radiojaagriti",
+    "name": "Radio Jaagriti",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/39632.v9.png",
+    "stream_url": "https://radio.sibercdn.com/Radio_Jaagriti-15/index.m3u8",
+    "website": "https://sdmsjaagriti.com/",
+    "provider": "onlineradiobox",
+    "country": "Trinidad and Tobago",
+    "genres": [
+      "talk",
+      "christian",
+      "spiritual"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:53:25+05:30"
+  },
+  {
+    "id": "onlineradiobox_tt.radiored967fm",
+    "name": "Radio Red 96.7 FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/39629.v7.png",
+    "stream_url": "http://104.238.99.1:8000/red967.mp3",
+    "website": "http://red967fm.com/",
+    "provider": "onlineradiobox",
+    "country": "Trinidad and Tobago",
+    "genres": [
+      "pop",
+      "reggae",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:53:25+05:30"
+  },
+  {
+    "id": "onlineradiobox_tt.radioslam",
+    "name": "Radio Slam",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/40434.v4.png",
+    "stream_url": "https://streams.radiomast.io/68540e88-54b8-4924-b098-5a668f7da7b6?referer=onlineradiobox",
+    "website": "http://www.slam1005.com/",
+    "provider": "onlineradiobox",
+    "country": "Trinidad and Tobago",
+    "genres": [
+      "r'n'b",
+      "rap",
+      "hip-hop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:53:28+05:30"
+  },
+  {
+    "id": "onlineradiobox_tt.radiosweetfm",
+    "name": "Radio Sweet FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/39627.v9.png",
+    "stream_url": "https://media.streambrothers.com:8448/stream",
+    "website": "http://www.sweet100fm.com/",
+    "provider": "onlineradiobox",
+    "country": "Trinidad and Tobago",
+    "genres": [
+      "rock",
+      "pop",
+      "caribbean",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:53:28+05:30"
+  },
+  {
+    "id": "onlineradiobox_tt.realradio",
+    "name": "Real Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/40458.v3.png",
+    "stream_url": "https://streaming.radio.co/s3928a1fef/listen",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Trinidad and Tobago",
+    "genres": [
+      "pop",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:53:37+05:30"
+  },
+  {
+    "id": "onlineradiobox_tt.sangeet1061fm",
+    "name": "Radio Sangeet 106.1 FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/39639.v7.png",
+    "stream_url": "https://streams.radiomast.io/22e2c991-fc0c-4242-8cba-0a64d0aea809?referer=onlineradiobox",
+    "website": "http://www.sangeet106fm.co.tt/",
+    "provider": "onlineradiobox",
+    "country": "Trinidad and Tobago",
+    "genres": [
+      "pop",
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:53:36+05:30"
+  },
+  {
+    "id": "onlineradiobox_tt.sky",
+    "name": "Radio SKY",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/40453.v7.png",
+    "stream_url": "https://streams.radiomast.io/efe56859-e3cb-4563-8e94-0320488b7cbd?referer=onlineradiobox",
+    "website": "http://www.sky995fm.com/",
+    "provider": "onlineradiobox",
+    "country": "Trinidad and Tobago",
+    "genres": [
+      "talk",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:54:56+05:30"
+  },
+  {
+    "id": "onlineradiobox_tt.smashtt",
+    "name": "Smash Radio TT",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/105554.v14.png",
+    "stream_url": "https://vdo.smashradiott.com:3858/stream/play.m3u8",
+    "website": "https://www.smashradiott.com/",
+    "provider": "onlineradiobox",
+    "country": "Trinidad and Tobago",
+    "genres": [
+      "r'n'b",
+      "reggae"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:54:21+05:30"
+  },
+  {
+    "id": "onlineradiobox_tt.socafever",
+    "name": "Soca Fever",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/87573.v4.png",
+    "stream_url": "https://centova87.shoutcastservices.com/proxy/socafever/stream",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Trinidad and Tobago",
+    "genres": [],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:53:31+05:30"
+  },
+  {
+    "id": "onlineradiobox_tt.socaswitchradio",
+    "name": "Soca Switch Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/39653.v18.png",
+    "stream_url": "https://stream.zeno.fm/4f738mzizi1uv",
+    "website": "https://socaswitch.nicepage.io/",
+    "provider": "onlineradiobox",
+    "country": "Trinidad and Tobago",
+    "genres": [],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:53:26+05:30"
+  },
+  {
+    "id": "onlineradiobox_tt.stormhd",
+    "name": "Storm HD Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/90766.v9.png",
+    "stream_url": "https://stream.zeno.fm/imsfguhz6netv",
+    "website": "https://stormhdradio.nicepage.io/",
+    "provider": "onlineradiobox",
+    "country": "Trinidad and Tobago",
+    "genres": [
+      "disco",
+      "soul",
+      "90s",
+      "80s"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:54:28+05:30"
+  },
+  {
+    "id": "onlineradiobox_tt.taj92.3fm",
+    "name": "Taj 92.3 FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/40464.v5.png",
+    "stream_url": "https://streamdb3web.securenetsystems.net/v5/TAJ",
+    "website": "http://www.taj923fm.com/",
+    "provider": "onlineradiobox",
+    "country": "Trinidad and Tobago",
+    "genres": [
+      "indian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:53:34+05:30"
+  },
+  {
+    "id": "onlineradiobox_tt.tc",
+    "name": "TRUE CHRISTIAN ONLINE RADIO",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/94209.v6.png",
+    "stream_url": "https://stream.zeno.fm/qtwtzwwt3a0uv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Trinidad and Tobago",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:54:26+05:30"
+  },
+  {
+    "id": "onlineradiobox_tt.tc881",
+    "name": "TC Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/140632.v1.png",
+    "stream_url": "https://stream.zeno.fm/inu6sagdi3auv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Trinidad and Tobago",
+    "genres": [
+      "80s",
+      "70s"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:54:58+05:30"
+  },
+  {
+    "id": "onlineradiobox_tt.tdg",
+    "name": "TDG Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/89320.v6.png",
+    "stream_url": "https://stream.zeno.fm/s9heq9mspwzuv",
+    "website": "https://zeno.fm/tdg-radio/",
+    "provider": "onlineradiobox",
+    "country": "Trinidad and Tobago",
+    "genres": [
+      "dance",
+      "electronic",
+      "rap",
+      "retro",
+      "90s",
+      "80s",
+      "reggae",
+      "dancehall"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:54:27+05:30"
+  },
+  {
+    "id": "onlineradiobox_tt.thebestlatinomusicbyondirect",
+    "name": "The Best Latino Music By Ondirect",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/99103.v1.png",
+    "stream_url": "https://stream.zeno.fm/6zunkkxc2wzuv",
+    "website": "https://ondirectunpluggedonline.blogspot.com/",
+    "provider": "onlineradiobox",
+    "country": "Trinidad and Tobago",
+    "genres": [
+      "pop",
+      "soft pop",
+      "reggaeton",
+      "salsa",
+      "merengue"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:54:56+05:30"
+  },
+  {
+    "id": "onlineradiobox_tt.thestreet919fm",
+    "name": "The Street 91.9 FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/39637.v8.png",
+    "stream_url": "https://stream.zeno.fm/bi5helbi4ggtv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Trinidad and Tobago",
+    "genres": [
+      "news",
+      "talk",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:53:29+05:30"
+  },
+  {
+    "id": "onlineradiobox_tt.trinbagoweb",
+    "name": "RadioTrinbagoWeb",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/113539.v4.png",
+    "stream_url": "https://stream.zeno.fm/pn9865an7tzuv",
+    "website": "https://vlcommunicationslt.wixsite.com/website",
+    "provider": "onlineradiobox",
+    "country": "Trinidad and Tobago",
+    "genres": [
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:54:19+05:30"
+  },
+  {
+    "id": "onlineradiobox_tt.vibect105fm",
+    "name": "Radio VIBE CT 105 fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/39631.v8.png",
+    "stream_url": "https://dacastmmd.mmdlive.lldns.net/dacastmmd/b857787696f74a43bef8d7e7d7d0ec93/manifest.m3u8",
+    "website": "http://www.vibect1051.com/",
+    "provider": "onlineradiobox",
+    "country": "Trinidad and Tobago",
+    "genres": [
+      "reggae",
+      "caribbean"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:53:30+05:30"
+  },
+  {
+    "id": "onlineradiobox_tt.wack",
+    "name": "WACK Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/39630.v4.png",
+    "stream_url": "https://stream.zenolive.com/6178mp9emq5tv",
+    "website": "http://www.wackradio901fm.com/",
+    "provider": "onlineradiobox",
+    "country": "Trinidad and Tobago",
+    "genres": [
+      "news",
+      "culture",
+      "caribbean"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:53:27+05:30"
+  },
+  {
+    "id": "onlineradiobox_tt.wcan",
+    "name": "WCAN Radio",
+    "image": "https://cdn.onlineradiobox.com/img/logo/2/94082.png",
+    "stream_url": "https://stream.zeno.fm/c34r6c5629duv",
+    "website": "http://wcanradio.us/",
+    "provider": "onlineradiobox",
+    "country": "Trinidad and Tobago",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:54:59+05:30"
+  },
+  {
+    "id": "onlineradiobox_tt.winr1011",
+    "name": "Win Radio 101.1 FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/39635.v3.png",
+    "stream_url": "https://stream.radio.co/s9f46a9bb1/listen?ver=319331",
+    "website": "http://www.winradio101.com/",
+    "provider": "onlineradiobox",
+    "country": "Trinidad and Tobago",
+    "genres": [
+      "news",
+      "bollywood",
+      "caribbean"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:53:35+05:30"
+  },
+  {
+    "id": "onlineradiobox_tt.woodshit",
+    "name": "Woods Hit Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/86633.v4.png",
+    "stream_url": "https://stream.zeno.fm/z2rpt80t4mzuv",
+    "website": "http://whrfm.webnode.com/",
+    "provider": "onlineradiobox",
+    "country": "Trinidad and Tobago",
+    "genres": [
+      "rock",
+      "pop",
+      "90s",
+      "80s",
+      "70s",
+      "oldies",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:53:32+05:30"
+  },
+  {
+    "id": "onlineradiobox_tt.woodshitac",
+    "name": "Woods Hit Radio AC",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/147971.v3.png",
+    "stream_url": "https://cast4.asurahosting.com/proxy/nigel/stream",
+    "website": "https://whrfm.webnode.page/",
+    "provider": "onlineradiobox",
+    "country": "Trinidad and Tobago",
+    "genres": [
+      "oldies",
+      "adult contemporary",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:54:23+05:30"
+  }
+]

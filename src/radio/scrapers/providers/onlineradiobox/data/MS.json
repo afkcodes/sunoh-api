@@ -1,0 +1,39 @@
+[
+  {
+    "id": "onlineradiobox_ms.bosssvg",
+    "name": "Boss FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/87919.v10.png",
+    "stream_url": "https://stream.zeno.fm/8d4htdspa8zuv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Montserrat",
+    "genres": [
+      "top40",
+      "dancehall"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:03:17+05:30"
+  },
+  {
+    "id": "onlineradiobox_ms.zjb",
+    "name": "ZJB Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/49691.v7.png",
+    "stream_url": "https://stream.radiojar.com/mmbg3hfk2v8uv",
+    "website": "https://www.zjbradio.com/",
+    "provider": "onlineradiobox",
+    "country": "Montserrat",
+    "genres": [
+      "news",
+      "culture",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:03:16+05:30"
+  }
+]

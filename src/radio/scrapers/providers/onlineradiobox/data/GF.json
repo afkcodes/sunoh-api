@@ -1,0 +1,435 @@
+[
+  {
+    "id": "onlineradiobox_gf.alcatraz",
+    "name": "HERA RADIO",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/129095.v11.png",
+    "stream_url": "https://a8.my-control-panel.com:9360/radio.mp3",
+    "website": "https://www.heraradio.com/",
+    "provider": "onlineradiobox",
+    "country": "French Guiana",
+    "genres": [
+      "alternative"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:10:29+05:30"
+  },
+  {
+    "id": "onlineradiobox_gf.antennaweb",
+    "name": "Antenna Web Cayenne",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/133441.v2.png",
+    "stream_url": "http://tinyurl.com/AntennaWebCayenne",
+    "website": "https://antennaweb.it/antennaweb-cayenne/",
+    "provider": "onlineradiobox",
+    "country": "French Guiana",
+    "genres": [
+      "rock",
+      "pop",
+      "blues",
+      "jazz",
+      "funk",
+      "reggaeton"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:10:39+05:30"
+  },
+  {
+    "id": "onlineradiobox_gf.aouara",
+    "name": "AOUARA RADIO. . .",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/146587.v1.png",
+    "stream_url": "https://listen.radioking.com/radio/588953/stream/649532",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "French Guiana",
+    "genres": [
+      "reggae",
+      "african",
+      "hits",
+      "dancehall"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:10:33+05:30"
+  },
+  {
+    "id": "onlineradiobox_gf.cherie",
+    "name": "CHERIE FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/48135.v4.png",
+    "stream_url": "https://cheriefmguyane.ice.infomaniak.ch/cheriefmguyane-64.aac",
+    "website": "http://www.cheriefmguyane.com/",
+    "provider": "onlineradiobox",
+    "country": "French Guiana",
+    "genres": [
+      "pop",
+      "love songs"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:10:24+05:30"
+  },
+  {
+    "id": "onlineradiobox_gf.chwitiweb",
+    "name": "Chwitiweb",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/145379.v3.png",
+    "stream_url": "https://listen.radioking.com/radio/190309/stream/232540",
+    "website": "https://chwitiweb.com/",
+    "provider": "onlineradiobox",
+    "country": "French Guiana",
+    "genres": [
+      "pop",
+      "news",
+      "talk",
+      "reggae",
+      "culture",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:10:31+05:30"
+  },
+  {
+    "id": "onlineradiobox_gf.communedapatou",
+    "name": "Commune d&#39;Apatou",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/150332.v1.png",
+    "stream_url": "https://listen.radioking.com/radio/756566/stream/823472",
+    "website": "https://ville-apatou.fr/",
+    "provider": "onlineradiobox",
+    "country": "French Guiana",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:10:31+05:30"
+  },
+  {
+    "id": "onlineradiobox_gf.fun",
+    "name": "Fun Radio Guyane",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/48137.v6.png",
+    "stream_url": "http://manager2.streaming-ingenierie.fr:8050/;stream.mp3",
+    "website": "http://funradioguyane.fr/",
+    "provider": "onlineradiobox",
+    "country": "French Guiana",
+    "genres": [
+      "pop",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:10:24+05:30"
+  },
+  {
+    "id": "onlineradiobox_gf.gbs",
+    "name": "GBSRadio",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/79775.v7.png",
+    "stream_url": "https://guyanablackstar.fr/wp-content/uploads/2021/08/Dj-Moody-Mike-Money.mp3",
+    "website": "https://guyanablackstar.fr/gbsradio/",
+    "provider": "onlineradiobox",
+    "country": "French Guiana",
+    "genres": [
+      "dance",
+      "rap",
+      "reggae"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:10:30+05:30"
+  },
+  {
+    "id": "onlineradiobox_gf.ghettoblack",
+    "name": "Ghetto Black Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/151818.v1.png",
+    "stream_url": "https://listen.radioking.com/radio/769595/stream/836843",
+    "website": "https://linktr.ee/Ghettoblackmusic",
+    "provider": "onlineradiobox",
+    "country": "French Guiana",
+    "genres": [
+      "dance",
+      "rap",
+      "reggae",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:10:34+05:30"
+  },
+  {
+    "id": "onlineradiobox_gf.guyane",
+    "name": "Radio Guyane TV",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/153232.v1.png",
+    "stream_url": "https://listen.radioking.com/radio/795001/stream/863376",
+    "website": "https://radioguyane.tv/",
+    "provider": "onlineradiobox",
+    "country": "French Guiana",
+    "genres": [
+      "culture"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:10:36+05:30"
+  },
+  {
+    "id": "onlineradiobox_gf.indigoguyane",
+    "name": "INDIGO GUYANE",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/145747.v3.png",
+    "stream_url": "https://listen.radioking.com/radio/641791/stream/704827",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "French Guiana",
+    "genres": [
+      "r'n'b",
+      "hip-hop",
+      "hits",
+      "dancehall"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:10:25+05:30"
+  },
+  {
+    "id": "onlineradiobox_gf.joiedevivre",
+    "name": "RADIO JOIE DE VIVRE",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/146514.v1.png",
+    "stream_url": "https://listen.radioking.com/radio/289372/stream/335533",
+    "website": "https://radiojoiedevivre.org/",
+    "provider": "onlineradiobox",
+    "country": "French Guiana",
+    "genres": [
+      "gospel",
+      "christian contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:10:36+05:30"
+  },
+  {
+    "id": "onlineradiobox_gf.kakoumprod9732k25",
+    "name": "KAKOUM prod973 2k25",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/146418.v3.png",
+    "stream_url": "https://listen.radioking.com/radio/477206/stream/533519",
+    "website": "http://mykakou.wordpress.com/",
+    "provider": "onlineradiobox",
+    "country": "French Guiana",
+    "genres": [
+      "r'n'b",
+      "rap",
+      "reggae",
+      "american",
+      "dancehall"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:10:30+05:30"
+  },
+  {
+    "id": "onlineradiobox_gf.konvwe",
+    "name": "Radio Konvwé",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/145880.v2.png",
+    "stream_url": "https://listen.radioking.com/radio/407665/stream/460090",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "French Guiana",
+    "genres": [
+      "guyanese"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:10:32+05:30"
+  },
+  {
+    "id": "onlineradiobox_gf.nostalgie",
+    "name": "Nostalgie Guyane",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/48128.v10.png",
+    "stream_url": "http://2stream.dyndns.org:8000/nostalgieguy",
+    "website": "http://www.nostalgiedom.fr/",
+    "provider": "onlineradiobox",
+    "country": "French Guiana",
+    "genres": [
+      "80s"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:10:27+05:30"
+  },
+  {
+    "id": "onlineradiobox_gf.nostalgieguadeloupe",
+    "name": "Nostalgie Guadeloupe",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/93724.v5.png",
+    "stream_url": "https://go.2stream.net/nostalgiegp",
+    "website": "http://www.nostalgiedom.fr/",
+    "provider": "onlineradiobox",
+    "country": "French Guiana",
+    "genres": [
+      "80s"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:10:26+05:30"
+  },
+  {
+    "id": "onlineradiobox_gf.nrj",
+    "name": "NRJ Guyane",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/48121.v5.png",
+    "stream_url": "https://nrjguyane.ice.infomaniak.ch/nrjguyane-64.mp3",
+    "website": "http://www.nrjguyane.fm/",
+    "provider": "onlineradiobox",
+    "country": "French Guiana",
+    "genres": [
+      "pop",
+      "hip-hop",
+      "reggae",
+      "latin",
+      "zouk",
+      "dancehall"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:10:27+05:30"
+  },
+  {
+    "id": "onlineradiobox_gf.ouest",
+    "name": "Bblack Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/48141.v7.png",
+    "stream_url": "https://stunnel1.cyber-streaming.com:9162/stream",
+    "website": "http://www.bblackradio.fm/",
+    "provider": "onlineradiobox",
+    "country": "French Guiana",
+    "genres": [
+      "r'n'b",
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:10:28+05:30"
+  },
+  {
+    "id": "onlineradiobox_gf.patapatasports",
+    "name": "Radio Pata-pata Sports",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/154937.v1.png",
+    "stream_url": "https://listen.radioking.com/radio/826136/stream/895291",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "French Guiana",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:10:39+05:30"
+  },
+  {
+    "id": "onlineradiobox_gf.peka",
+    "name": "Radio Péka",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/145520.v1.png",
+    "stream_url": "https://listen.radioking.com/radio/391846/stream/443497",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "French Guiana",
+    "genres": [
+      "electronic",
+      "rock",
+      "reggae"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:10:37+05:30"
+  },
+  {
+    "id": "onlineradiobox_gf.proximite",
+    "name": "Radio Proximite",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/145555.v1.png",
+    "stream_url": "https://listen.radioking.com/radio/385429/stream/436771",
+    "website": "https://black241.website-radio.com/",
+    "provider": "onlineradiobox",
+    "country": "French Guiana",
+    "genres": [
+      "rock",
+      "blues",
+      "country",
+      "acoustic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:10:35+05:30"
+  },
+  {
+    "id": "onlineradiobox_gf.rtl2guyane",
+    "name": "RTL 2 Guyane",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/48147.v2.png",
+    "stream_url": "http://coollabel1.streaming-ingenierie.fr:8136/;stream.mp3",
+    "website": "http://www.rtl2guyane.fr/",
+    "provider": "onlineradiobox",
+    "country": "French Guiana",
+    "genres": [
+      "rock",
+      "pop",
+      "top40",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:10:29+05:30"
+  },
+  {
+    "id": "onlineradiobox_gf.sweetvibes",
+    "name": "Sweet vibes radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/151970.v2.png",
+    "stream_url": "https://c42.radioboss.fm:8064/stream",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "French Guiana",
+    "genres": [
+      "80s"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:10:37+05:30"
+  }
+]

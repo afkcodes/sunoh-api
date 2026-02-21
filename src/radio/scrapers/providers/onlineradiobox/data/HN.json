@@ -1,0 +1,4173 @@
+[
+  {
+    "id": "onlineradiobox_hn.0820cantarranas",
+    "name": "Radio 0820 Cantarranas",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/139205.v3.png",
+    "stream_url": "https://cast2.my-control-panel.com/proxy/reframir/stream",
+    "website": "https://radio0820cantarranas.com/",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:55:13+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.1821radio",
+    "name": "1821 Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/133236.v2.png",
+    "stream_url": "https://servidor24.brlogic.com:7190/live",
+    "website": "https://1821radio.com/",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "pop",
+      "talk",
+      "education"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:57:33+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.2000",
+    "name": "Stereo Radio 2000",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/35001.v2.png",
+    "stream_url": "http://server4.usatelk.com:8045/autodj?type=.mp3",
+    "website": "http://www.radiostereo2000.net/",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "pop",
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:57:15+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.504hn",
+    "name": "Radio 504 HN",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/86025.v11.png",
+    "stream_url": "https://sonicpanel.us/8054/stream",
+    "website": "http://www.radio504hn.com/",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "oldies"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:52:24+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.80accion",
+    "name": "80s Radio Accion",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/140278.v3.png",
+    "stream_url": "https://stream.zeno.fm/qsqdmazvrzzuv",
+    "website": "https://zeno.fm/radio/80s-radio-accion/",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "pop",
+      "80s"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:54:25+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.94sufm",
+    "name": "94sufm",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/34925.v10.png",
+    "stream_url": "http://streamdb3web.securenetsystems.net/cirrusencore/94SUFM",
+    "website": "http://www.94sufm.hn/",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "pop",
+      "adult contemporary",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:52:24+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.967stereosantacruz",
+    "name": "96.7 Stereo Santa Cruz",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/104902.v2.png",
+    "stream_url": "http://190.92.25.210:8080/livestream/stream.m3u8",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:56:16+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.abriendoloscielos",
+    "name": "Abriendo Los Cielos",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/106699.v1.png",
+    "stream_url": "https://stream.zeno.fm/a8uwe88svy8uv",
+    "website": "https://avbaracoa.com/",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:57:08+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.actualidad",
+    "name": "Radio Actualidad",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/87339.v13.png",
+    "stream_url": "https://sp3.servidorrprivado.com/8042/stream",
+    "website": "https://www.radioactualidadhn.net/",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "christian",
+      "education"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:50:37+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.adventhope",
+    "name": "Advent Hope Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/35012.v6.png",
+    "stream_url": "https://cloudstream2030.conectarhosting.com/9966/stream",
+    "website": "http://www.adventhoperadio.org/",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "christian",
+      "spanish"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:53:26+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.alternativarock",
+    "name": "Alternativa Rock Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/139529.v8.png",
+    "stream_url": "https://a9.asurahosting.com/listen/alternativa_rock_radio/radio.mp3",
+    "website": "https://alternativarockradio.online/",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "rock",
+      "classic rock",
+      "alternative rock"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:51:34+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.ambiental",
+    "name": "Ambiental FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/35062.v3.png",
+    "stream_url": "https://stream.zeno.fm/200an1um6f0uv",
+    "website": "http://www.radioambientalfm.com/",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "pop",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:51:31+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.amcze",
+    "name": "AMC Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/106639.v2.png",
+    "stream_url": "https://stream.zeno.fm/uyp7qw24wv8uv",
+    "website": "https://zeno.fm/amc-radio/",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:57:06+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.amistad",
+    "name": "Radio Amistad",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/74774.v5.png",
+    "stream_url": "https://stream.zeno.fm/552m7c6schruv",
+    "website": "https://www.palimpalem.com/2/RadioAmistad/backup2.html",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "rock",
+      "news",
+      "folk",
+      "classic",
+      "hip-hop",
+      "ranchera",
+      "instrumental",
+      "bachata"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:53:21+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.amrica",
+    "name": "Radio América",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/34865.v4.png",
+    "stream_url": "https://playerservices.streamtheworld.com/api/livestream-redirect/AMERICAAAC.aac?dist=onlineradiobox",
+    "website": "http://www.radioamerica.hn/",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "pop",
+      "news",
+      "talk",
+      "sports"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:49:39+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.antennawebtegucigalpa",
+    "name": "Antenna Web Tegucigalpa",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/131982.v1.png",
+    "stream_url": "https://tinyurl.com/Antenna-Web-Tegucigalpa",
+    "website": "https://antennaweb.it/antennaweb-tegucigalpa/",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "rock",
+      "pop",
+      "blues",
+      "jazz",
+      "funk",
+      "latin"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:54:23+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.aslamonair",
+    "name": "Aslam On Air",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/107327.v3.png",
+    "stream_url": "https://stream.zeno.fm/yg1gkzwabzzuv",
+    "website": "https://www.aslamonair.com/",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "pop",
+      "top40",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:55:15+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.beathd",
+    "name": "Beat Radio HD",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/97324.v3.png",
+    "stream_url": "https://stream2.mcvhost.com/beatradiohd/",
+    "website": "http://beatradiohd.blogspot.com/",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "pop",
+      "reggae",
+      "reggaeton",
+      "merengue"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:54:23+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.bendicion",
+    "name": "Bendicion FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/34906.v5.png",
+    "stream_url": "https://ssl.hostingtico.com:9934/stream",
+    "website": "https://www.radiofmbendicion.org/",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "christian contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:52:22+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.bendicion1",
+    "name": "Radio Bendicion",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/86021.v10.png",
+    "stream_url": "https://bendicionradio.stream.laut.fm/bendicionradio",
+    "website": "http://www.radiobendicionhn.com/",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "christian",
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:53:26+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.bendicionradiohn",
+    "name": "Bendicion Radio HN",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/85338.v7.png",
+    "stream_url": "https://stream.zeno.fm/me48q57fpnruv",
+    "website": "https://bendicionradiohn.blogspot.com/?m=1",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:51:32+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.bolsadeempleoshonduras",
+    "name": "Bolsa De Empleos Honduras",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/123296.v2.png",
+    "stream_url": "https://live.bolsadeempleos.info/8032/stream",
+    "website": "https://www.bolsadeempleos.info/",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "pop",
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:54:22+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.buenasnuevasdesalvacion",
+    "name": "Radio Buenas Nuevas de Salvacion",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/103121.v5.png",
+    "stream_url": "https://stream.zeno.fm/rcvdys1v398uv",
+    "website": "https://radiobuenasnuevasdesalvacion.wordpress.com/",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:55:18+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.cabstereo",
+    "name": "CAB Stereo 100.5 FM Olanchito",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/87781.v4.png",
+    "stream_url": "http://109.73.65.69:4674/;",
+    "website": "https://www.cabstereo.com/",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "news",
+      "oldies",
+      "sports",
+      "education"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:57:07+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.cacaojutiapaatlantida",
+    "name": "Radio Stereo Cacao Jutiapa Atlantida",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/130183.v3.png",
+    "stream_url": "https://stream.zeno.fm/ltwry3vgy4vvv",
+    "website": "https://zeno.fm/radio/radio-stereo-cacao-jutiapa-atlantida/",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "electronic",
+      "reggaeton",
+      "merengue",
+      "bachata"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:56:13+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.cadenavoces",
+    "name": "Radio Cadena Voces",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/34927.v7.png",
+    "stream_url": "http://stream.playerlive.info:8048/RCV.aac",
+    "website": "http://www.radiocadenavoceshn.com/rcv/",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "pop",
+      "news",
+      "talk",
+      "sports"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:51:35+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.caminandoconjess",
+    "name": "Caminando con Jesús",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/132349.v14.png",
+    "stream_url": "https://s20.myradiostream.com:17739/stream",
+    "website": "https://ccjmedios.com/radio",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:54:20+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.caminoalaconversion",
+    "name": "Camino a la Conversión Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/148461.v6.png",
+    "stream_url": "https://stream2.mcvhost.com/caminoalaconversionradio/",
+    "website": "https://caminoalaconversionradio.blogspot.com/",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:56:07+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.canal6honduras",
+    "name": "Canal 6 Honduras",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/86498.v6.png",
+    "stream_url": "https://radio.canal6.com.hn/listen/canal6honduras/radio.mp3",
+    "website": "https://www.canal6.com.hn/",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "news"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:56:08+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.canaldiosteve",
+    "name": "Radio Dios Te Ve",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/72281.v12.png",
+    "stream_url": "https://s.emisoras.tv:8081/diostevetv/index.m3u8",
+    "website": "http://www.diosteve.org/",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "talk",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:52:29+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.caribe",
+    "name": "Radio Caribe",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/35199.v8.png",
+    "stream_url": "https://radio.securenetsystems.net/cwa/CARIBE",
+    "website": "http://radiocaribe.hn/",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "pop",
+      "spanish"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:54:16+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.cascadacampamento",
+    "name": "Radio Cascada - Campamento",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/147815.v3.png",
+    "stream_url": "https://stream.zeno.fm/2bu5hzbnha0uv",
+    "website": "https://radiocascadahn.com/",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "ranchera",
+      "reggaeton",
+      "balada"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:56:14+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.catracha",
+    "name": "Radio Catracha",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/91828.v6.png",
+    "stream_url": "https://stream.zenolive.com/8rg841yuwp5tv.aac",
+    "website": "https://zeno.fm/radio-catracha-honduras-master-input-station/",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "pop",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:57:10+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.centro",
+    "name": "La Centro De Honduras",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/35244.v8.png",
+    "stream_url": "http://198.204.234.10:6175/lacentro",
+    "website": "https://centroradialhn.net/",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "pop",
+      "talk",
+      "spanish",
+      "mexican",
+      "ranchera",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:49:37+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.ceslive",
+    "name": "Ces Live Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/124383.v7.png",
+    "stream_url": "https://radio.vegamultimedios.com:7107/;",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:55:21+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.chat",
+    "name": "Radio Chat",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/114934.v1.png",
+    "stream_url": "https://stream.playerlive.info:8176/stream",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:57:11+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.cholulatriunfena",
+    "name": "Radio Cholula Triunfeña",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/151300.v8.png",
+    "stream_url": "https://stream.zeno.fm/bp64kpugg6quv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "classic",
+      "reggae",
+      "salsa",
+      "cumbia",
+      "bachata",
+      "romantic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:54:19+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.colinasstereo",
+    "name": "Colinas Stereo",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/104314.v1.png",
+    "stream_url": "https://stream.zeno.fm/krzq5n1dkzzuv",
+    "website": "https://colinasstereo.es.tl/",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "pop",
+      "reggaeton",
+      "latin",
+      "cumbia"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:54:17+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.colohete",
+    "name": "Stereo Colohete",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/82221.v5.png",
+    "stream_url": "https://stream.zeno.fm/r5tru8p31zquv",
+    "website": "https://zeno.fm/estereo-colohete-hn",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "ranchera",
+      "reggaeton",
+      "salsa",
+      "merengue",
+      "bachata"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:57:10+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.conga",
+    "name": "Radio Conga",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/35260.v8.png",
+    "stream_url": "https://stream.zeno.fm/28h21wxruxmtv",
+    "website": "http://www.congafm.com/",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "mexican",
+      "ranchera",
+      "salsa",
+      "balada"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:50:40+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.conquistadoresparacristo",
+    "name": "Radio Conquistadores Para Cristo Honduras",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/125408.v5.png",
+    "stream_url": "https://castlive.stream/8062/stream",
+    "website": "https://conquistadoresparacristo.com/",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:57:11+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.cristiana908",
+    "name": "Radio Cristiana Internacional",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/100216.v10.png",
+    "stream_url": "https://stream.zeno.fm/scembcfs1f8uv",
+    "website": "https://sites.google.com/view/radiocristianahonduras/p%C3%A1gina-principal",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:51:30+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.cristianariodedios",
+    "name": "Radio Cristiana Rio De Dios",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/34899.v4.png",
+    "stream_url": "http://104.247.73.128:8004/stream",
+    "website": "http://www.radioriodedios.org/",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "christian contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:51:32+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.cristofiel",
+    "name": "Radio Cristo Fiel",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/154483.v1.png",
+    "stream_url": "https://s3.conectarmedia.com:2020/stream/cristofiel",
+    "website": "https://radiocristofielhn.com/",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:57:08+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.deejayhonduras",
+    "name": "Radio DeeJay Honduras",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/92255.v3.png",
+    "stream_url": "https://stream.zeno.fm/65nv3n9dr7zuv",
+    "website": "http://www.deejayfm.com/",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "pop",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:53:31+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.dinamismostereo",
+    "name": "Dinamismo Stereo",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/101454.v4.png",
+    "stream_url": "https://stream.zeno.fm/pdv3w19psp8uv",
+    "website": "https://zeno.fm/radio/dinamismo-radio/",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "pop",
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:55:21+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.dlive",
+    "name": "Altar Hn Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/99367.v19.png",
+    "stream_url": "https://sp.dattavolt.com/8060/stream",
+    "website": "https://altarhn.com/",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:53:28+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.edc",
+    "name": "Radio EDC",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/123576.v3.png",
+    "stream_url": "https://stream.zeno.fm/9rx86vd80xhvv",
+    "website": "https://iglesiaembajadores.com/",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:56:13+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.elmundo",
+    "name": "Radio El Mundo",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/35192.v7.png",
+    "stream_url": "https://sonicpanel.us/8028/stream",
+    "website": "https://radioelmundohn.net/",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "pop",
+      "talk",
+      "spanish"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:49:32+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.elreporterohn",
+    "name": "El Reporterohn Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/136844.v1.png",
+    "stream_url": "https://servidor24.brlogic.com:7040/live",
+    "website": "https://elreporterohnradio.net/",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "rock",
+      "pop",
+      "news",
+      "classic",
+      "romantic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:56:09+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.eltigre915",
+    "name": "Radio Católica Santa Lucía",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/106554.v18.png",
+    "stream_url": "https://radio.host.com.py:7268/;",
+    "website": "https://www.radiosantalucia.com/",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "classic",
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:52:28+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.encuentrodigital",
+    "name": "Radio Encuentro Digital",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/102187.v1.png",
+    "stream_url": "https://stream.zeno.fm/q4rwg5e661zuv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:51:36+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.es",
+    "name": "ES Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/122000.v6.png",
+    "stream_url": "http://65.109.81.84:7853/stream",
+    "website": "https://esradiohn.com/",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:57:12+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.estereocentro",
+    "name": "Radio Estereo Centro",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/35200.v5.png",
+    "stream_url": "https://tampa.audio-stream.com/proxy/rudass00/stream/1/",
+    "website": "http://www.radioestereocentro.com/inicio.html",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "pop",
+      "talk",
+      "spanish"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:51:37+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.estereoclase",
+    "name": "Estereo Clase",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/113172.v19.png",
+    "stream_url": "https://stream.zeno.fm/k6grbcx0zceuv",
+    "website": "http://estereoclase.com/",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "rock",
+      "disco",
+      "pop",
+      "relax",
+      "classic",
+      "90s",
+      "00s",
+      "80s",
+      "70s",
+      "funk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:49:30+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.estereogenesis",
+    "name": "Estereo Genesis",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/35009.v5.png",
+    "stream_url": "https://sp3.servidorrprivado.com:10930/;stream.mp3",
+    "website": "http://estereogenesishn.com/",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "christian contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:54:19+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.estereolean",
+    "name": "Estereo Lean",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/135753.v2.png",
+    "stream_url": "https://stream.zeno.fm/vqedti7ql2quv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:55:17+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.estereomil",
+    "name": "Estereo Mil",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/34930.v14.png",
+    "stream_url": "https://radio.securenetsystems.net/cwa/ESTEREOMIL",
+    "website": "https://www.estereomil.com/",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "pop",
+      "top40",
+      "80s"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:50:31+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.estereosalemsico",
+    "name": "Estereo Salem Sico Colón",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/144437.v2.png",
+    "stream_url": "https://radios0790.vegamultimedioshn.com:8060/;",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:56:08+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.estereosula",
+    "name": "Estereo Sula",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/35264.v6.png",
+    "stream_url": "https://tampa.audio-stream.com/proxy/rudass01?mp=/stream",
+    "website": "http://radioestereosula.com/",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "pop",
+      "90s",
+      "80s",
+      "70s",
+      "latin",
+      "salsa"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:50:30+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.estereovida",
+    "name": "Radio Estereo Vida",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/83932.v8.png",
+    "stream_url": "https://player.voxhd.com.br/proxy/7986",
+    "website": "https://radioestereovidahn.com/",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:54:17+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.esteriokapryjmco",
+    "name": "Estéreo Kaply JM-CO",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/144519.v5.png",
+    "stream_url": "https://stream.zeno.fm/gfb72nuqrnytv",
+    "website": "https://zeno.fm/radio/esterio-capry-jmco/",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "dance"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:54:22+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.estrelladeoro",
+    "name": "Radio Estrella De Oro",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/34920.v7.png",
+    "stream_url": "https://stream.playerlive.info:8001/live.aac",
+    "website": "http://radioestrelladeoro.org/",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:50:36+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.estreogamaomoahonduras",
+    "name": "Estéreo GAMA (Omoa | Honduras)",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/100378.v5.png",
+    "stream_url": "https://stream.zeno.fm/c9vv20nx5k8uv",
+    "website": "https://multimediosprohn.wixsite.com/mmpro",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "pop",
+      "classic",
+      "balada"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:52:24+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.exa",
+    "name": "Exa FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/34894.v10.png",
+    "stream_url": "https://stream.zeno.fm/0n4tnx3wd5zuv",
+    "website": "http://www.exafm.com/#!/honduras/home",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "rock",
+      "pop",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:49:35+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.exahonduras",
+    "name": "EXA Honduras",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/92250.v4.png",
+    "stream_url": "https://stream.zeno.fm/5mx3rp2937zuv",
+    "website": "http://www.exafm.hn/",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "pop",
+      "top40",
+      "reggaeton"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:52:30+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.exclusivaradio",
+    "name": "Exclusiva Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/69395.v5.png",
+    "stream_url": "https://stream.zeno.fm/4k9pk46gyneuv",
+    "website": "https://zeno.fm/exclusivahnradio",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "ranchera",
+      "merengue",
+      "bachata"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:55:17+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.exitosmc",
+    "name": "Radio Exitos MC",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/86028.v5.png",
+    "stream_url": "https://stream.zeno.fm/6nw6fxqw4mptv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:52:29+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.expandiendoelreynodedios",
+    "name": "Expandiendo El Reyno De Dios Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/122888.v6.png",
+    "stream_url": "https://fps4.listen2myradio.com:2199/listen.php?ip=109.169.23.123&port=10337&type=s1",
+    "website": "https://expandiendoelreynodediosradioytv.listen2myshow.com/",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:55:20+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.fabulosa",
+    "name": "Radio Fabulosa",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/34937.v6.png",
+    "stream_url": "https://sh1.radioonlinehd.com:8046/stream",
+    "website": "https://radiofabulosa.com/",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "r'n'b",
+      "pop",
+      "classic rock",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:53:24+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.fama979",
+    "name": "FM Fama 97.9",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/35236.v9.png",
+    "stream_url": "https://s9.myradiostream.com/:46498/listen.mp3",
+    "website": "http://fama977.com/",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "rock",
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:49:34+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.ferguson",
+    "name": "RadioFerguson.com",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/110161.v4.png",
+    "stream_url": "http://everestcast-us.myautodj.com:2390/;",
+    "website": "http://www.radioferguson.com/",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "reggaeton",
+      "salsa",
+      "merengue"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:55:19+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.fiel",
+    "name": "Stereo Fiel",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/35291.v6.png",
+    "stream_url": "https://stream.playerlive.info:8091/fiel.aac",
+    "website": "http://www.stereofielfm.com/",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "pop",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:53:29+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.fiesta1120am",
+    "name": "RADIO FIESTA 1120 AM",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/51962.v3.png",
+    "stream_url": "https://icecasthd.net/proxy/fiesta/stream",
+    "website": "http://www.circuitopop.com/",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "grupera",
+      "romantic",
+      "balada"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:54:17+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.fiestahn",
+    "name": "Fiestahn Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/133810.v1.png",
+    "stream_url": "https://stream.zeno.fm/ncqzzrte41zuv",
+    "website": "https://zeno.fm/radio/fiestahnradio/",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "electronic",
+      "pop",
+      "reggae",
+      "reggaeton",
+      "salsa",
+      "merengue",
+      "cumbia",
+      "bachata"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:57:15+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.fm102",
+    "name": "FM102",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/87158.v3.png",
+    "stream_url": "https://stream.zeno.fm/1uxceb022tzuv",
+    "website": "https://zeno.fm/fm1027/",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:54:22+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.fnixinternacional",
+    "name": "Radio Fénix Internacional",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/97721.v2.png",
+    "stream_url": "https://listen.usuarios.space/radiofenix/",
+    "website": "https://www.radiofenixinternacional.com/",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:54:21+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.fraternidad",
+    "name": "Radio Fraternidad",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/35004.v8.png",
+    "stream_url": "https://stream20.usastreams.com:7024/;",
+    "website": "https://radiofraternidad.org/",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:55:17+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.freedom961",
+    "name": "Freedom 96.1",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/101095.v8.png",
+    "stream_url": "https://sonicpanel.us/8142/;",
+    "website": "http://freedomhn.com/",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "reggaeton",
+      "salsa",
+      "bachata"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:49:29+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.galaxiadigital",
+    "name": "Galaxia Digital",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/123792.v6.png",
+    "stream_url": "https://sonicpanelpro.com/8020/stream",
+    "website": "https://grupouniradio.com/",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "electronic",
+      "pop",
+      "reggaeton",
+      "merengue",
+      "bachata"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:55:19+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.galaxyradio",
+    "name": "Galaxy Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/118141.v2.png",
+    "stream_url": "http://galaxy.usuarios.space:8010/star",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:57:13+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.girasol",
+    "name": "Radio Girasol",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/123246.v1.png",
+    "stream_url": "https://stream.playerlive.info:8037/live.aac",
+    "website": "https://girasolradiotvhn.com/",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "pop",
+      "reggaeton",
+      "merengue"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:56:11+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.globohonduras",
+    "name": "Radio Globo Honduras",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/35149.v9.png",
+    "stream_url": "https://stream.radiosmundiales.com/stream/radioglobo/stream",
+    "website": "http://www.radioglobohonduras.com/",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "pop",
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:49:36+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.hallel",
+    "name": "Hallel Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/150956.v4.png",
+    "stream_url": "https://azuracast.dataserv.cc/listen/hallel_radio/radio.mp3",
+    "website": "https://hallelradio.org/",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:57:15+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.havc",
+    "name": "HAVC Radio Online",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/92342.v3.png",
+    "stream_url": "https://stream.zeno.fm/hatrpcrdh5zuv",
+    "website": "https://zeno.fm/havc-radio/",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "rock",
+      "pop",
+      "classic",
+      "spanish"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:54:23+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.honduras504",
+    "name": "Radio Honduras 504",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/75297.v6.png",
+    "stream_url": "https://emisoras.hn:2000/stream/hn504",
+    "website": "https://www.rh504.com/",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "electronic",
+      "pop",
+      "90s",
+      "80s"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:52:31+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.hopehondurascomayaguela",
+    "name": "Hope Radio Honduras Comayaguela",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/146055.v2.png",
+    "stream_url": "https://listen.radioking.com/radio/360379/stream/409918",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:57:09+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.hrn",
+    "name": "Radio HRN",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/34872.v15.png",
+    "stream_url": "https://www.radiohrn.hn/l",
+    "website": "http://www.radiohrn.hn/l/",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "pop",
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:49:37+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.hrvc",
+    "name": "HRVC Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/35549.v5.png",
+    "stream_url": "https://stream.playerlive.info:10978/HRVC.aac",
+    "website": "http://hrvc.org/V2/",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "talk",
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:49:36+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.ideal1047",
+    "name": "Ideal Fm 104.7",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/96473.v6.png",
+    "stream_url": "https://www.idealfm104-7.com/hls/0/stream.m3u8",
+    "website": "http://www.idealfm104-7.com/",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "reggaeton",
+      "salsa",
+      "merengue",
+      "bachata"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:55:22+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.impactodedioscrucete",
+    "name": "Radio Impacto De Dios Crucete",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/153896.v1.png",
+    "stream_url": "https://radios0790.vegamultimedioshn.com:7016/;",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:56:18+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.inedital",
+    "name": "inedital",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/132011.v2.png",
+    "stream_url": "https://stream.laut.fm/inedital",
+    "website": "http://radioineditalhn.weebly.com/",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "country",
+      "reggae",
+      "latin",
+      "balada"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:54:20+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.infinita",
+    "name": "Radio Infinita FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/35537.v4.png",
+    "stream_url": "https://mdstrm.com/audio/639b791cea22540890cd1d8b/live.m3u8",
+    "website": "http://radioinfinitahn.com/",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "pop",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:54:24+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.inter",
+    "name": "Inter 91.7 FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/35047.v4.png",
+    "stream_url": "https://securestreams2.autopo.st:1151/;",
+    "website": "http://interfmhonduras.com/",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "pop",
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:50:31+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.internacionallahondurena",
+    "name": "Radio Internacional La Hondureña",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/139327.v3.png",
+    "stream_url": "https://stream2.mcvhost.com/rih/",
+    "website": "https://rih504.blogspot.com/",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "dance",
+      "rock",
+      "pop",
+      "christian",
+      "reggaeton",
+      "latin",
+      "salsa",
+      "merengue",
+      "bachata",
+      "balada"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:57:16+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.jesus",
+    "name": "Jesus FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/151953.v1.png",
+    "stream_url": "https://cdn2.castx.live:8012/stream",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:55:21+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.jesusesmiroca",
+    "name": "Jesús es mi Roca Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/153858.v1.png",
+    "stream_url": "https://stream.zeno.fm/c6iqh0ivsaruv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:56:15+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.jr",
+    "name": "Con Los Manes",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/106047.v13.png",
+    "stream_url": "https://streaming.hostpannel.lat:8122/stream",
+    "website": "https://www.conlosmanes.com/",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:53:30+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.juticalpa",
+    "name": "Radio Juticalpa Español",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/74966.v13.png",
+    "stream_url": "https://stream.zeno.fm/sw7t7rhd1d0uv",
+    "website": "https://zeno.fm/radio-juticalpa-espanol/",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "spanish"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:50:35+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.juticalpaingles",
+    "name": "Radio Juticalpa Inglés",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/101692.v5.png",
+    "stream_url": "https://stream.zeno.fm/a697edtb6p8uv",
+    "website": "https://zeno.fm/radio-juticalpa-ingles/",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "80s",
+      "70s"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:50:39+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.kairos",
+    "name": "Kairos FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/34901.v4.png",
+    "stream_url": "https://c7.radioboss.fm:18255/KAIROSFM",
+    "website": "http://www.kairosfm.org/",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "pop",
+      "talk",
+      "latin"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:52:31+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.kerigma",
+    "name": "Kerigma Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/108565.v2.png",
+    "stream_url": "https://stream.zeno.fm/yk3qw8b9038uv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "pop",
+      "talk",
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:55:20+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.king",
+    "name": "King Radio Online",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/127308.v3.png",
+    "stream_url": "https://stream.zeno.fm/n6exc1hxn18uv",
+    "website": "https://zeno.fm/radio/king-radio-online/",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "90s",
+      "00s",
+      "80s",
+      "70s"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:55:15+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.la87",
+    "name": "La 87",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/152211.v1.png",
+    "stream_url": "https://stream.zeno.fm/tr4u2w53sxhvv",
+    "website": "https://www.la87hn.com/",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "reggaeton",
+      "salsa",
+      "merengue",
+      "bachata"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:57:05+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.la98",
+    "name": "La 98",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/35552.v7.png",
+    "stream_url": "http://stream.playerlive.info:8025/stream",
+    "website": "http://www.la98hn.com/radio/",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "dance",
+      "dubstep",
+      "r'n'b",
+      "pop",
+      "hip-hop",
+      "latin",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:51:38+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.labuenisima",
+    "name": "La Buenisima 91.7 FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/51958.v5.png",
+    "stream_url": "https://icecasthd.net/proxy/buenisima/stream",
+    "website": "http://www.circuitopop.com/",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "grupera"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:50:39+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.lacatracha",
+    "name": "Radio La Catracha",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/92832.v2.png",
+    "stream_url": "https://162.213.36.141:8006/;",
+    "website": "http://radiolacatracha.net/",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:57:32+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.lada1079",
+    "name": "Radio Lada 107.9",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/81842.v10.png",
+    "stream_url": "https://stream.zeno.fm/5p15ayu22tzuv",
+    "website": "https://zeno.fm/radio-lada-1079/",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "latin"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:51:33+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.laexplosiva",
+    "name": "Radio La Explosiva",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/116040.v3.png",
+    "stream_url": "https://stream.zeno.fm/8kwqz5quzuhvv",
+    "website": "http://mixlr.com/radio-la-explosiva",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "disco",
+      "pop",
+      "salsa",
+      "merengue",
+      "bachata",
+      "romantic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:50:39+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.lakalle",
+    "name": "Radio La Kalle Honduras",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/76468.v7.png",
+    "stream_url": "http://65.109.81.84:9603/stream",
+    "website": "http://www.lakallehn.net/",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "pop",
+      "reggaeton",
+      "latin",
+      "salsa",
+      "merengue",
+      "bachata"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:50:40+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.lamega",
+    "name": "La Mega",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/34896.v11.png",
+    "stream_url": "https://stream.zeno.fm/jvzrqahonfbtv",
+    "website": "https://www.lamegahn.com/",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "latin",
+      "salsa"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:51:30+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.lapoderosahn",
+    "name": "La Poderosa hn",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/78512.v2.png",
+    "stream_url": "https://stream.zeno.fm/1trmhxyyw2quv",
+    "website": "https://zeno.fm/la-poderosa-hn",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:57:07+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.lared",
+    "name": "La RED Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/140293.v3.png",
+    "stream_url": "https://servidor31.brlogic.com:7032/live",
+    "website": "https://laredradio.com/",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "pop",
+      "talk",
+      "education",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:56:14+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.latop",
+    "name": "La Top 107.7",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/35195.v12.png",
+    "stream_url": "https://59d39900ebfb8.streamlock.net/top107/top107/playlist.m3u8",
+    "website": "https://www.latop.hn/",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "pop",
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:49:36+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.latorredelevangelio",
+    "name": "Radio La Torre del Evangelio",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/86026.v9.png",
+    "stream_url": "https://app.sonicpanelradio.com/8090/stream",
+    "website": "http://www.radiolte.com/",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "christian",
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:53:27+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.lavozdeelgranyosoy",
+    "name": "Radio la voz de El Gran Yo Soy",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/124011.v5.png",
+    "stream_url": "https://stream.zeno.fm/dpz1a3oze9muv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:56:17+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.lavozdelatlantico",
+    "name": "La Voz Del Atlantico",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/35261.v3.png",
+    "stream_url": "https://stream.zeno.fm/1e3heh061mzuv",
+    "website": "http://www.lavozdelatlantico.com/",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "pop",
+      "talk",
+      "latin",
+      "salsa"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:56:10+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.lavozdesalvacion",
+    "name": "Radio La Voz De Salvacion",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/111673.v17.png",
+    "stream_url": "https://stream.zeno.fm/rcvdys1v398uv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:53:27+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.lavozdesion",
+    "name": "Radio La Voz De Sion",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/98642.v1.png",
+    "stream_url": "https://stream.zeno.fm/2k87ry0xhm0uv",
+    "website": "https://radiolavozdesionhn.blogspot.com/",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:53:28+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.lht",
+    "name": "LHT FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/148028.v1.png",
+    "stream_url": "https://lht.hn/",
+    "website": "https://lht.hn/",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "pop",
+      "news",
+      "sports"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:57:14+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.lluvia",
+    "name": "Lluvia Fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/126705.v3.png",
+    "stream_url": "https://s1.amixfm.live:8032/stream",
+    "website": "http://www.smyhn.com/",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "rock",
+      "pop",
+      "classic",
+      "reggaeton"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:51:36+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.logos",
+    "name": "LOGOS FM 104.9",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/49118.v6.png",
+    "stream_url": "http://stream.playerlive.info:8023/stream",
+    "website": "http://logosfm.hn/",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "pop",
+      "news",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:50:37+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.luna",
+    "name": "Luna FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/34912.v7.png",
+    "stream_url": "https://stream.playerlive.info:8289/lunafm.aac",
+    "website": "https://sbmultimedios.com/index.php/luna-fm/",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "classic",
+      "spanish"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:50:29+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.luz",
+    "name": "Radio Luz",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/35277.v7.png",
+    "stream_url": "https://s1.amixfm.live:8012/stream",
+    "website": "https://radioluzhn.com/",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "pop",
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:53:28+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.luzyvida",
+    "name": "Radio Luz y Vida",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/89050.v10.png",
+    "stream_url": "http://stream.playerlive.info:8039/LuzyVida.aac",
+    "website": "http://radioluzyvida.org/",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:50:40+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.magia",
+    "name": "Magia 88.1 FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/35187.v14.png",
+    "stream_url": "https://www.magia881.com/php/stream.php",
+    "website": "https://www.magia881.com/",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "rock",
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:54:24+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.magic1075",
+    "name": "Magic 107.5 FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/105283.v4.png",
+    "stream_url": "https://dattavolt.com/8290/stream",
+    "website": "https://www.magic107roatan.com/",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "classic",
+      "90s",
+      "00s",
+      "80s",
+      "70s",
+      "adult contemporary",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:57:16+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.mahanaim",
+    "name": "Radio Mahanaim",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/86832.v19.png",
+    "stream_url": "https://audio1stream.com:8132/stream",
+    "website": "http://radiomahanaimhn.com/",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:52:30+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.malombo",
+    "name": "Radio Malombo",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/121475.v4.png",
+    "stream_url": "https://stream.zeno.fm/sgsq68xcs18uv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "pop",
+      "salsa",
+      "merengue",
+      "cumbia",
+      "bachata",
+      "banda",
+      "balada"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:51:33+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.manadelcielo",
+    "name": "Radio Maná del Cielo Olanchito",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/119054.v11.png",
+    "stream_url": "https://radios0790.vegamultimedioshn.com:8122/;",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:50:33+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.marcahn",
+    "name": "Marca HN",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/90184.v4.png",
+    "stream_url": "https://stream.zeno.fm/3g1wm79v81zuv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "reggaeton"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:56:09+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.mass",
+    "name": "Radio Mass",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/35239.v3.png",
+    "stream_url": "http://radio.worldkast.com:8432/stream;",
+    "website": "http://www.stereomass.com/",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "pop",
+      "talk",
+      "spanish"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:51:30+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.master969",
+    "name": "Master FM 969",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/116390.v12.png",
+    "stream_url": "https://stream.zeno.fm/vcumd3susq5vv",
+    "website": "https://master969hn.wixsite.com/radio",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "rock",
+      "heavy metal",
+      "hard rock",
+      "metal"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:49:38+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.mazaya",
+    "name": "Mazaya FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/34944.v2.png",
+    "stream_url": "http://streema.com/radios/play/70903",
+    "website": "http://sabormazaya.es.tl/",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "pop",
+      "latin",
+      "salsa"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:57:34+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.mcintosh",
+    "name": "Estereo McIntosh",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/77846.v13.png",
+    "stream_url": "https://cdn2.castx.live:8018/stream",
+    "website": "http://www.stereomcintosh1035.com/",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:50:35+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.mcstereosanfrancisco",
+    "name": "1807 Stereo",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/134064.v4.png",
+    "stream_url": "https://radios0790.vegamultimedioshn.com:8456/;",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:56:07+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.millenium970am",
+    "name": "Radio Millenium 970 AM",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/52052.v3.png",
+    "stream_url": "https://icecasthd.net/proxy/millenium/stream",
+    "website": "http://www.circuitopop.com/",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "adult contemporary",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:57:06+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.moderna",
+    "name": "Radio Moderna",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/35287.v6.png",
+    "stream_url": "https://playerservices.streamtheworld.com/api/livestream-redirect/MODERNAAAC.aac?dist=onlineradiobox",
+    "website": "http://player.listenlive.co/28611/es",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "pop",
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:54:16+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.momentos",
+    "name": "Momentos",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/69563.v10.png",
+    "stream_url": "https://playerservices.streamtheworld.com/api/livestream-redirect/MOMENTOS_SC?dist=onlineradiobox",
+    "website": "http://www.momentosfm.hn/",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "rock",
+      "pop",
+      "balada"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:49:33+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.musiquera",
+    "name": "Musiquera",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/34868.v16.png",
+    "stream_url": "https://stream.zeno.fm/83h238tqsceuv",
+    "website": "http://www.musiquera.com/",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "pop",
+      "talk",
+      "relax",
+      "mexican",
+      "ranchera",
+      "grupera",
+      "banda"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:49:30+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.nacional",
+    "name": "Radio Nacional de Honduras",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/34875.v11.png",
+    "stream_url": "https://stream.zeno.fm/mb5f69fk0d0uv",
+    "website": "https://tnh.gob.hn/rnh/",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "pop",
+      "news",
+      "talk",
+      "sports"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:50:33+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.nextdigital",
+    "name": "Next Radio Digital",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/144306.v1.png",
+    "stream_url": "https://stream.zeno.fm/uzh6ory6asotv",
+    "website": "https://www.nextradiodigital.com/",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:56:12+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.norte",
+    "name": "Radio Norte",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/35280.v6.png",
+    "stream_url": "https://radio.securenetsystems.net/cwa/index.cfm?stationCallSign=NORTE",
+    "website": "http://radionorte.hn/",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "pop",
+      "latin",
+      "salsa"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:54:25+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.oasis",
+    "name": "Oasis RadioHN",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/86856.v6.png",
+    "stream_url": "https://stream.zeno.fm/3m2yvc4sftzuv",
+    "website": "https://zeno.fm/radio/oasis-radiohn/",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "christian",
+      "90s",
+      "80s",
+      "70s"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:52:30+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.ondasdelulua",
+    "name": "Radio Ondas Del Ulua",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/34911.v6.png",
+    "stream_url": "http://stream.playerlive.info:8287/ondas.aac",
+    "website": "http://sbmultimedios.com/ondasdelulua/",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "pop",
+      "talk",
+      "spanish"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:49:34+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.orostereo",
+    "name": "Radio Oro Stereo",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/34928.v2.png",
+    "stream_url": "http://orostereofm.com/",
+    "website": "http://orostereofm.com/",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "pop",
+      "salsa",
+      "bachata"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:57:13+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.pais",
+    "name": "Radio País",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/120809.v6.png",
+    "stream_url": "https://rad-net.com/Pais/123/icecast.audio",
+    "website": "https://radiopaishn.com/",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "news",
+      "90s",
+      "80s"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:49:37+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.panamericana",
+    "name": "Radio Panamericana",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/35252.v3.png",
+    "stream_url": "https://5cefcbf58ba2e.streamlock.net:543/panam-hn/panam.stream/playlist.m3u8",
+    "website": "http://panamericanafm.com/",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "pop",
+      "talk",
+      "classic",
+      "spanish"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:54:21+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.paraiso",
+    "name": "Radio Paraiso",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/123245.v5.png",
+    "stream_url": "https://stream.playerlive.info:8122/paraiso.aac",
+    "website": "https://girasolradiotvhn.com/",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "classic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:53:27+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.paz",
+    "name": "Radio Paz hn",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/35535.v11.png",
+    "stream_url": "https://stream.zeno.fm/r60qqv0zrfnvv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:52:31+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.pencaligue",
+    "name": "Pencaligue tv radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/126973.v2.png",
+    "stream_url": "https://stream.zeno.fm/bf3i8bxsj7dtv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "news"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:56:15+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.perla",
+    "name": "Radio Perla",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/35294.v7.png",
+    "stream_url": "https://stream.zenolive.com/vhqu1t3aa0quv",
+    "website": "https://www.radioperla.com/",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "rock",
+      "pop",
+      "balada"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:53:25+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.powerhonduras",
+    "name": "Power FM Honduras",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/92277.v3.png",
+    "stream_url": "https://stream.zeno.fm/0eacaa8937zuv",
+    "website": "http://www.powerfm.hn/",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "reggaeton",
+      "salsa",
+      "merengue"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:49:28+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.prendidaonline",
+    "name": "Radio Juvenil Jesús es mi Roca",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/118759.v9.png",
+    "stream_url": "https://stream.zeno.fm/vdwcrfimh78uv",
+    "website": "https://zeno.fm/radio/radio-juvenil-jesus-es-mi-roca/",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:53:25+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.progreso",
+    "name": "Radio Progreso",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/35283.v8.png",
+    "stream_url": "https://streamingcwsradio30.com:7045/stream?type=http&nocache=102&1600459029128",
+    "website": "https://radioprogresohn.net/",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "pop",
+      "talk",
+      "spanish"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:50:34+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.radical",
+    "name": "Radio Radical",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/137098.v5.png",
+    "stream_url": "https://stream.zeno.fm/vcumd3susq5vv",
+    "website": "https://radioradicalhn.wixsite.com/radio",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "rock",
+      "heavy metal",
+      "metal"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:49:33+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.radioactiva997",
+    "name": "Radioactiva Honduras",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/34866.v20.png",
+    "stream_url": "https://stream.zeno.fm/6n7fp9t2pceuv",
+    "website": "http://radioactiva997.com/",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "rock",
+      "hip-hop",
+      "top40",
+      "reggae",
+      "reggaeton"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:49:31+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.radiolavoz95",
+    "name": "Radio La Voz del Príncipe de Paz",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/35561.v6.png",
+    "stream_url": "https://stream.playerlive.info:8068/paz.aac",
+    "website": "https://principefm.girasolradiotvhn.com/",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:55:19+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.rama",
+    "name": "Rama Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/82672.v12.png",
+    "stream_url": "https://stream.zeno.fm/bake7wvg0mruv",
+    "website": "https://theramaradio.wixsite.com/radio",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "gospel",
+      "christian contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:54:18+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.rcolancho",
+    "name": "Radio Catolica de Olancho",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/35558.v7.png",
+    "stream_url": "http://radiocatolica.serverroom.net:7766/;",
+    "website": "https://rcolancho.com/",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:52:27+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.rdglinenews",
+    "name": "rdg line news",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/128369.v1.png",
+    "stream_url": "https://stream2.svrdedicado.org:7160/;",
+    "website": "https://rdglinenews.blogspot.com/",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "eclectic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:55:22+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.rds",
+    "name": "RDS Radio 88.9 FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/35197.v5.png",
+    "stream_url": "https://stream.playerlive.info:8058/rds.aac",
+    "website": "http://rdsradio.hn/",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "pop",
+      "talk",
+      "spanish"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:52:26+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.reactor",
+    "name": "Reactor FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/74737.v8.png",
+    "stream_url": "https://emisoras.hn:8034/stream.mp3",
+    "website": "https://reactoradio.com/",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "rock",
+      "indie",
+      "alternative",
+      "sports"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:53:23+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.reggaetonviejitojsantos",
+    "name": "Reggaeton Viejito J Santos",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/137052.v1.png",
+    "stream_url": "https://stream.zeno.fm/nfs90gy7pkhvv",
+    "website": "https://zeno.fm/radio/reggaeton-viejito-j-santos/",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "reggaeton"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:50:38+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.rhema",
+    "name": "Radio Rhema",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/34923.v4.png",
+    "stream_url": "https://5e85d90130e77.streamlock.net/6010/ngrp:6010_all/playlist.m3u8",
+    "website": "http://rhema.ebenezer.hn/",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "christian",
+      "spanish"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:55:12+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.rockboga",
+    "name": "Rockboga | Alternative - Indie Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/110885.v8.png",
+    "stream_url": "https://streamingv2.shoutcast.com/rockboga-alternative-indie-radio",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "rock",
+      "pop",
+      "indie",
+      "alternative",
+      "alternative rock",
+      "indie rock"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:52:25+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.rocknpop",
+    "name": "Rock N Pop FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/35206.v17.png",
+    "stream_url": "https://streamdb3web.securenetsystems.net/ce/ROCKNPOP",
+    "website": "http://www.rocknpop.hn/",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "rock",
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:53:30+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.rockononline",
+    "name": "Rock On Online Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/100984.v4.png",
+    "stream_url": "https://stream.zenolive.com/55vpetz081zuv.aac",
+    "website": "https://linktr.ee/rockonpanama",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "metal",
+      "punk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:53:29+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.roka",
+    "name": "Roka FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/35247.v4.png",
+    "stream_url": "https://stream.playerlive.info:10944/RokaFM.aac",
+    "website": "http://rokafm.com/",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "christian contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:52:26+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.saguicholuteca",
+    "name": "Sagui Fm Choluteca",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/98519.v2.png",
+    "stream_url": "https://stream.zeno.fm/bzwwn2d7sm0uv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:56:17+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.sanpedroevangelio",
+    "name": "Radio San Pedro evangelio",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/127449.v1.png",
+    "stream_url": "https://stream1.svrdedicado.org:7169/;",
+    "website": "https://radiosanpedroenlinea.blogspot.com/",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "eclectic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:56:15+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.santafe",
+    "name": "Radio Santa Fe",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/151181.v3.png",
+    "stream_url": "https://micanal.ovh/proxy-audio/RadioSantaFe",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:54:23+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.satlite",
+    "name": "Radio Satélite",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/35289.v5.png",
+    "stream_url": "https://streamdb3web.securenetsystems.net/cirrusencore/SATELITE",
+    "website": "http://radiosatelite.hn/",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "pop",
+      "salsa",
+      "balada"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:50:32+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.sbstereo",
+    "name": "SB Stereo",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/34914.v7.png",
+    "stream_url": "http://stream.playerlive.info:8285/sb.aac",
+    "website": "http://sbmultimedios.com/sbstereo/",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "pop",
+      "latin",
+      "salsa",
+      "balada"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:49:31+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.scan",
+    "name": "Radio Scan Fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/84898.v3.png",
+    "stream_url": "https://stream.radiosmundiales.com/8750/stream",
+    "website": "http://www.radioscanmixhonduras.com/",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "merengue",
+      "bachata"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:55:18+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.sentimientos",
+    "name": "Sentimientos FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/70287.v3.png",
+    "stream_url": "http://198.204.234.10:8407/live",
+    "website": "http://senti.centroradialhn.net/",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:57:32+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.sinpaja",
+    "name": "Sin Paja Radio Honduras",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/124013.v8.png",
+    "stream_url": "https://radios0790.vegamultimedioshn.com:8438/;",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:56:17+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.soloclasicos",
+    "name": "RADIO SOLO CLASICOS ONLINE",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/112694.v8.png",
+    "stream_url": "https://stream.zeno.fm/dxscbt1341puv",
+    "website": "https://zeno.fm/radio/radio-solo-clasicos-online/",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "classic",
+      "90s",
+      "80s"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:54:18+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.soloexitos",
+    "name": "Radio Solo Exitos HN",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/68072.v10.png",
+    "stream_url": "https://stream.zeno.fm/r51vdhet3bruv",
+    "website": "http://www.radiosoloexitos.es.tl/",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "pop",
+      "reggaeton",
+      "salsa",
+      "merengue"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:51:32+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.stereoayapa",
+    "name": "Stereo Ayapa",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/34942.v3.png",
+    "stream_url": "https://stream.zeno.fm/kt2fc5v1tueuv",
+    "website": "http://www.stereoayapa.com/",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "pop",
+      "latin",
+      "balada"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:55:14+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.stereoelaguacristalina",
+    "name": "Radio Stereo El Agua Cristalina Olanchito",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/139015.v2.png",
+    "stream_url": "https://radios0790.vegamultimedioshn.com:8112/;",
+    "website": "https://radiostereoelaguacristalina.com/",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:57:09+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.stereoexitos",
+    "name": "Stereo Exitos",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/35198.v7.png",
+    "stream_url": "https://streamdb3web.securenetsystems.net/ce/EXITOS",
+    "website": "http://stereoexitos.hn/",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "pop",
+      "latin",
+      "salsa"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:51:33+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.stereohits",
+    "name": "Stereo Hits",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/92369.v8.png",
+    "stream_url": "https://laradio.stream/proxy/stereohits/stream",
+    "website": "https://www.radioparallevar.com/stereohits",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "pop",
+      "top40",
+      "reggaeton",
+      "latin",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:52:23+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.stereoluz971",
+    "name": "Stereo Luz Descombros Jutiapa",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/106908.v14.png",
+    "stream_url": "https://radios0790.vegamultimedioshn.com:8126/;",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:50:38+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.stereopalmeras",
+    "name": "Stereo Palmeras",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/34891.v7.png",
+    "stream_url": "https://stream.playerlive.info:10995/live",
+    "website": "http://www.estereopalmeras.com/",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "dance",
+      "rock",
+      "rap",
+      "reggaeton"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:53:23+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.stereoser",
+    "name": "Radio Stereo SER",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/102554.v1.png",
+    "stream_url": "https://stream.zeno.fm/t5hzh67yus8uv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "news",
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:56:12+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.sun1071",
+    "name": "Sun 107.1 Fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/105282.v7.png",
+    "stream_url": "https://dattavolt.com/8294/stream",
+    "website": "https://www.sun107fm.com/",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "dance",
+      "rock",
+      "pop",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:53:25+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.sunny",
+    "name": "Sunny FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/142714.v2.png",
+    "stream_url": "https://stream.zeno.fm/qyy3qd6woeptv",
+    "website": "https://zeno.fm/radio/sunny-94-5-fm/",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "pop",
+      "top40",
+      "80s"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:52:25+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.super",
+    "name": "Radio La Poderosa hn",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/67830.v10.png",
+    "stream_url": "https://stream.zeno.fm/1trmhxyyw2quv",
+    "website": "https://zeno.fm/la-poderosa-hn/",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:57:12+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.super100",
+    "name": "Super 100",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/35042.v6.png",
+    "stream_url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SUPER100AAC.aac?dist=onlineradiobox",
+    "website": "http://www.super100hn.net/",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "90s",
+      "80s"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:50:34+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.superclasica",
+    "name": "Super Clásica",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/82988.v8.png",
+    "stream_url": "https://streamingv2.shoutcast.com/SuperClasica",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "80s",
+      "70s",
+      "romantic",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:51:37+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.superclasicala",
+    "name": "Super Clasica",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/103957.v1.png",
+    "stream_url": "https://stream.zeno.fm/66z3zu1ahhruv",
+    "website": "https://zeno.fm/super-clasica",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "pop",
+      "merengue",
+      "romantic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:50:36+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.suprema",
+    "name": "Suprema FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/35259.v6.png",
+    "stream_url": "https://stream.playerlive.info:8093/live.aac",
+    "website": "https://www.chrradios.hn/suprema-fm",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "pop",
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:51:38+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.suyapa",
+    "name": "Suyapa FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/35286.v6.png",
+    "stream_url": "https://cdn.castx.live:8020/stream",
+    "website": "https://suyapamedios.hn/suyapa-fm/",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "talk",
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:51:34+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.teamo",
+    "name": "Radio Te Amo",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/35447.v12.png",
+    "stream_url": "https://uk2.internet-radio.com/proxy/radioteamomamahilda?mp=/stream;",
+    "website": "http://www.radioteamo.com/",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "pop",
+      "christian",
+      "spanish",
+      "latin"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:55:12+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.templaria",
+    "name": "Radio Templaria Online",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/154780.v1.png",
+    "stream_url": "https://stream.zeno.fm/3mvrdwj6orqtv",
+    "website": "https://zeno.fm/player/radio-templaria-online",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:56:11+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.tictac",
+    "name": "Tic Tac Estereo",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/35553.v5.png",
+    "stream_url": "https://icecasthd.net/proxy/tictac/stream",
+    "website": "http://www.circuitopop.com/",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "pop",
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:54:25+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.tufamilia",
+    "name": "Tu Familia HN",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/134436.v7.png",
+    "stream_url": "https://cast20.plugstreaming.com:2020/stream/famhonduras",
+    "website": "https://tufamiliafm.com/",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:51:35+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.tvcrd",
+    "name": "Radio TV C.R.D",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/139816.v2.png",
+    "stream_url": "https://stream.zeno.fm/ncnk6jjw8jwvv",
+    "website": "https://zeno.fm/radio/radio-tv-crd/",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:57:16+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.ultra",
+    "name": "Ultra FM HN",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/34871.v7.png",
+    "stream_url": "https://playerservices.streamtheworld.com/api/livestream-redirect/ULTRAAAC.aac?dist=onlineradiobox",
+    "website": "https://player.listenlive.co/21751/es",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "pop",
+      "talk",
+      "spanish"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:51:29+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.uncionstereoolanchito",
+    "name": "Radio Unción Stereo Olanchito",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/120354.v4.png",
+    "stream_url": "https://radio.vegamultimedios.com:7103/;",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:56:14+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.unidadevangelica",
+    "name": "Radio Unidad Evangelica",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/102188.v2.png",
+    "stream_url": "https://stream.zeno.fm/sumb3b8r91zuv",
+    "website": "https://zeno.fm/radio/radiounidadevangelica/",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:53:29+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.uno",
+    "name": "Radio Uno",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/154281.v1.png",
+    "stream_url": "https://radio.host.com.py:7102/stream",
+    "website": "https://radiouno830.com/",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "news",
+      "talk",
+      "culture",
+      "romantic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:49:38+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.urbana",
+    "name": "Urbana Radio 96.1 FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/126313.v2.png",
+    "stream_url": "https://london-ssd.myautodj.com:6260/stream",
+    "website": "https://www.urbanaradioarizona.com/",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:53:22+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.valle",
+    "name": "Radio Valle",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/35205.v5.png",
+    "stream_url": "https://playerservices.streamtheworld.com/api/livestream-redirect/VALLEAAC.aac?dist=onlineradiobox",
+    "website": "http://www.radiovalle.net/",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "pop",
+      "talk",
+      "spanish"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:49:40+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.vida",
+    "name": "Vida FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/35290.v7.png",
+    "stream_url": "https://sh4.radioonlinehd.com:8510/stream",
+    "website": "http://radiovidafm.net/",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "pop",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:52:22+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.vida943",
+    "name": "Radio Vida 94.3 FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/124005.v3.png",
+    "stream_url": "https://stream.zeno.fm/whhkpyf73iztv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:56:16+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.vinilo",
+    "name": "Vinilo FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/139309.v2.png",
+    "stream_url": "https://s1.free-shoutcast.com/stream/18194",
+    "website": "https://vinilofm.wixsite.com/radio",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "disco",
+      "pop",
+      "80s",
+      "70s",
+      "funk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:49:35+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.virtualesteriojmco",
+    "name": "Virtual Estéreo JM-CO",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/144527.v5.png",
+    "stream_url": "https://stream.zeno.fm/svdji9gzqfnvv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:55:13+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.visiondedios",
+    "name": "Radio Visión de Dios",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/106900.v1.png",
+    "stream_url": "https://stream.zeno.fm/7148d6xdvg0uv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:53:30+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.visionmisionerahn",
+    "name": "Vision Misionera HN FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/63271.v15.png",
+    "stream_url": "https://stream.zeno.fm/nya98qsfrd0uv",
+    "website": "http://www.visionmisionerahn.com/",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "pop",
+      "talk",
+      "spanish",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:55:11+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.visiontvhd",
+    "name": "Radio VisionTv HD",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/151217.v4.png",
+    "stream_url": "https://s1.amixfm.live:8010/;",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:50:32+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.vivastereo",
+    "name": "Viva Stereo",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/34998.v10.png",
+    "stream_url": "http://192.198.95.166:31892/;",
+    "website": "http://www.vivastereo.hn/",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "talk",
+      "christian",
+      "gospel",
+      "latin",
+      "christian contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:55:16+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.vox",
+    "name": "Vox FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/35148.v7.png",
+    "stream_url": "http://streamdb3web.securenetsystems.net/v5/VOXFM",
+    "website": "http://www.planetavox.hn/",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "pop",
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:52:27+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.w105",
+    "name": "Radio W105",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/34926.v4.png",
+    "stream_url": "https://sonicpanel.us/8140/stream",
+    "website": "http://radiow105.com/",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "pop",
+      "top40",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:49:39+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.w107",
+    "name": "W107",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/83363.v7.png",
+    "stream_url": "https://sonicpanel.us/8138/stream",
+    "website": "http://www.radiow107.com/",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "reggaeton",
+      "latin"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:51:34+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.wepafm",
+    "name": "Radio Wepa FM",
+    "image": "https://cdn.onlineradiobox.com/img/logo/9/117399.png",
+    "stream_url": "https://stream.zeno.fm/dpunsvezx7zuv",
+    "website": "https://radiowepamarcovia.es.tl/",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "pop",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:55:20+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.xhn",
+    "name": "RADIO X HN",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/115104.v27.png",
+    "stream_url": "https://stream.zeno.fm/e0yxr95bdd0uv",
+    "website": "https://radioxhn1.blogspot.com/?m=0",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "electronic",
+      "rock",
+      "pop",
+      "classic",
+      "reggae",
+      "ranchera",
+      "grupera",
+      "reggaeton",
+      "salsa",
+      "merengue",
+      "cumbia",
+      "bachata",
+      "variety",
+      "banda",
+      "balada"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:52:28+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.xy",
+    "name": "XY 90.5 FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/35207.v7.png",
+    "stream_url": "https://streamdb3web.securenetsystems.net/cirrusencore/XY905",
+    "website": "http://www.radioxy.hn/",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "pop",
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:49:40+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.yasheradiohn",
+    "name": "Yasheradiohn",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/83119.v10.png",
+    "stream_url": "https://stream.zeno.fm/fcc6yv6z0a0uv",
+    "website": "https://yasheradiotropical.wixsite.com/misitio",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "classic",
+      "salsa",
+      "merengue",
+      "bachata"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:52:29+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.yeshuahonduras",
+    "name": "Radio Yeshua Honduras",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/144045.v1.png",
+    "stream_url": "https://stream.zeno.fm/gdkfq6f9cxhvv",
+    "website": "https://radioyeshuahonduras.wixsite.com/andersonmendoza",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:57:14+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.zavalanquira1031",
+    "name": "Radio Zavalanquira",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/107831.v4.png",
+    "stream_url": "https://stream.zeno.fm/gdagcf8m5ehvv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:53:24+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.zol",
+    "name": "Radio Zol 89.1",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/91844.v8.png",
+    "stream_url": "https://stream.zeno.fm/6wb19k9daveuv",
+    "website": "https://zeno.fm/radio/radio-zol-89-1/",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "news"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:50:37+05:30"
+  },
+  {
+    "id": "onlineradiobox_hn.zonadejuegos",
+    "name": "Radio Zona de Juegos",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/110164.v1.png",
+    "stream_url": "https://stream.zeno.fm/cn6pbucxxc9uv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Honduras",
+    "genres": [
+      "pop",
+      "reggaeton",
+      "salsa",
+      "merengue",
+      "cumbia"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:52:27+05:30"
+  }
+]

@@ -1,0 +1,1663 @@
+[
+  {
+    "id": "onlineradiobox_fi.aalto",
+    "name": "Easy Hits",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/26482.v10.png",
+    "stream_url": "https://aud-stream-easyhits.nm-elemental.nelonenmedia.fi/playlist.m3u8",
+    "website": "https://www.supla.fi/menaisetradio",
+    "provider": "onlineradiobox",
+    "country": "Finland",
+    "genres": [
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T19:22:37+05:30"
+  },
+  {
+    "id": "onlineradiobox_fi.aitoiskelma",
+    "name": "Aito Iskelmä",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/86000.v5.png",
+    "stream_url": "https://aud-stream-aitoiskelma.nm-elemental.nelonenmedia.fi/playlist.m3u8",
+    "website": "https://www.supla.fi/aitoiskelma",
+    "provider": "onlineradiobox",
+    "country": "Finland",
+    "genres": [
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T19:21:39+05:30"
+  },
+  {
+    "id": "onlineradiobox_fi.alands",
+    "name": "Ålands Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/48585.v4.png",
+    "stream_url": "https://stream.alandsradio.ax/stream.ogg",
+    "website": "http://www.radiotv.ax/",
+    "provider": "onlineradiobox",
+    "country": "Finland",
+    "genres": [
+      "pop",
+      "news",
+      "talk",
+      "folk",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T19:23:41+05:30"
+  },
+  {
+    "id": "onlineradiobox_fi.amnnews",
+    "name": "AMNews Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/138432.v4.png",
+    "stream_url": "https://stream.zeno.fm/m2wnv2cnyrhvv",
+    "website": "https://amnewsworld.com/amnews/",
+    "provider": "onlineradiobox",
+    "country": "Finland",
+    "genres": [
+      "news"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T19:23:39+05:30"
+  },
+  {
+    "id": "onlineradiobox_fi.auranaallot",
+    "name": "Radio Auran Aallot",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/26146.v5.png",
+    "stream_url": "https://radioplay.fi/auran-aallot/",
+    "website": "http://www.auranaallot.fi/",
+    "provider": "onlineradiobox",
+    "country": "Finland",
+    "genres": [
+      "pop",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T19:22:40+05:30"
+  },
+  {
+    "id": "onlineradiobox_fi.basso",
+    "name": "Bassoradio",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/26293.v6.png",
+    "stream_url": "https://radioplay.fi/basso/",
+    "website": "https://radioplay.fi/basso/",
+    "provider": "onlineradiobox",
+    "country": "Finland",
+    "genres": [
+      "electronic",
+      "hip-hop",
+      "indie",
+      "alternative"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T19:23:35+05:30"
+  },
+  {
+    "id": "onlineradiobox_fi.callibiza",
+    "name": "Call Ibiza Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/151046.v1.png",
+    "stream_url": "https://listen.radioking.com/radio/766604/stream/833765",
+    "website": "https://www.callibizaradio.com/",
+    "provider": "onlineradiobox",
+    "country": "Finland",
+    "genres": [
+      "dance",
+      "electronic",
+      "house",
+      "lounge",
+      "ambient",
+      "club"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T19:23:38+05:30"
+  },
+  {
+    "id": "onlineradiobox_fi.city",
+    "name": "Radio City",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/26166.v7.png",
+    "stream_url": "https://radioplay.fi/radio-city/",
+    "website": "http://www.radiocity.fi/",
+    "provider": "onlineradiobox",
+    "country": "Finland",
+    "genres": [
+      "classic rock"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T19:21:35+05:30"
+  },
+  {
+    "id": "onlineradiobox_fi.classic",
+    "name": "Radio Classic",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/26156.v6.png",
+    "stream_url": "https://radioplay.fi/radio-classic/",
+    "website": "https://radioplay.fi/radio-classic/",
+    "provider": "onlineradiobox",
+    "country": "Finland",
+    "genres": [
+      "jazz",
+      "folk",
+      "classic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T19:22:36+05:30"
+  },
+  {
+    "id": "onlineradiobox_fi.classichelsinki",
+    "name": "Classic FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/149815.v1.png",
+    "stream_url": "https://e9e96ac8-europa-radio-external-cdn51-live-cluster-us-cfd2-prd.taurer.org:8020/CLASSIC",
+    "website": "https://classic.taurer.org/",
+    "provider": "onlineradiobox",
+    "country": "Finland",
+    "genres": [
+      "lounge",
+      "jazz",
+      "relax",
+      "retro",
+      "90s",
+      "00s",
+      "80s",
+      "70s",
+      "oldies"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T19:24:18+05:30"
+  },
+  {
+    "id": "onlineradiobox_fi.classichits",
+    "name": "Classic Hits",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/137185.v2.png",
+    "stream_url": "https://aud-stream-classichits.nm-elemental.nelonenmedia.fi/playlist.m3u8",
+    "website": "https://www.supla.fi/classichits",
+    "provider": "onlineradiobox",
+    "country": "Finland",
+    "genres": [
+      "80s",
+      "70s",
+      "60s",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T19:22:38+05:30"
+  },
+  {
+    "id": "onlineradiobox_fi.cool",
+    "name": "Cool FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/149915.v1.png",
+    "stream_url": "https://e9e96ac8-europa-radio-external-cdn51-live-cluster-us-cfd2-prd.taurer.org:8040/COOLFM",
+    "website": "https://coolfm.taurer.org/",
+    "provider": "onlineradiobox",
+    "country": "Finland",
+    "genres": [
+      "rock",
+      "pop",
+      "hard rock",
+      "metal",
+      "90s",
+      "80s",
+      "70s",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T19:23:40+05:30"
+  },
+  {
+    "id": "onlineradiobox_fi.dei89",
+    "name": "Radio Dei",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/45468.v3.png",
+    "stream_url": "https://stream.dei.fi:8443/yleisohjelma",
+    "website": "http://www.radiodei.fi/",
+    "provider": "onlineradiobox",
+    "country": "Finland",
+    "genres": [
+      "talk",
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T19:22:37+05:30"
+  },
+  {
+    "id": "onlineradiobox_fi.druzifi",
+    "name": "drUzi.fi",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/132067.v4.png",
+    "stream_url": "https://druzi.fm:8443/48aac",
+    "website": "http://druzi.ee/",
+    "provider": "onlineradiobox",
+    "country": "Finland",
+    "genres": [],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T19:24:21+05:30"
+  },
+  {
+    "id": "onlineradiobox_fi.finest",
+    "name": "Finest FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/48586.v4.png",
+    "stream_url": "https://shoutcast.finestfm.fi/stream/1/:80/;stream",
+    "website": "http://finestfm.fi/",
+    "provider": "onlineradiobox",
+    "country": "Finland",
+    "genres": [
+      "folk",
+      "90s",
+      "80s",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T19:22:34+05:30"
+  },
+  {
+    "id": "onlineradiobox_fi.freed1",
+    "name": "Freed Radio 1",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/145965.v1.png",
+    "stream_url": "https://listen.radioking.com/radio/604321/stream/665725",
+    "website": "https://freed-radio-1.webnode.fi/",
+    "provider": "onlineradiobox",
+    "country": "Finland",
+    "genres": [
+      "dance",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T19:23:38+05:30"
+  },
+  {
+    "id": "onlineradiobox_fi.groove",
+    "name": "Groove FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/26162.v8.png",
+    "stream_url": "https://aud-stream-groove.nm-elemental.nelonenmedia.fi/playlist.m3u8?",
+    "website": "https://www.supla.fi/groovefm",
+    "provider": "onlineradiobox",
+    "country": "Finland",
+    "genres": [
+      "jazz",
+      "soul"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T19:22:32+05:30"
+  },
+  {
+    "id": "onlineradiobox_fi.hamsi",
+    "name": "Hamsi FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/26477.v6.png",
+    "stream_url": "http://radyo.hamsi.fm:8050/;",
+    "website": "http://www.hamsi.fm/",
+    "provider": "onlineradiobox",
+    "country": "Finland",
+    "genres": [
+      "news",
+      "turkish"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T19:23:38+05:30"
+  },
+  {
+    "id": "onlineradiobox_fi.happyholidays",
+    "name": "Happy Holidays",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/152087.v1.png",
+    "stream_url": "https://aud-stream-jouluradio08.nm-elemental.nelonenmedia.fi/master.m3u8",
+    "website": "https://www.supla.fi/happyholidays",
+    "provider": "onlineradiobox",
+    "country": "Finland",
+    "genres": [
+      "christmas",
+      "soundtrack"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T19:23:41+05:30"
+  },
+  {
+    "id": "onlineradiobox_fi.hear",
+    "name": "Radio Hear",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/26488.v4.png",
+    "stream_url": "http://hear.fi:8000/h128.mp3",
+    "website": "http://www.hear.fi/",
+    "provider": "onlineradiobox",
+    "country": "Finland",
+    "genres": [
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T19:23:40+05:30"
+  },
+  {
+    "id": "onlineradiobox_fi.helmi",
+    "name": "HitMix 80s",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/48587.v9.png",
+    "stream_url": "https://ext-stream-pl09.nm-elemental.nelonenmedia.fi/HEH/master.m3u8",
+    "website": "https://www.supla.fi/helmiradio",
+    "provider": "onlineradiobox",
+    "country": "Finland",
+    "genres": [
+      "80s",
+      "70s",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T19:21:35+05:30"
+  },
+  {
+    "id": "onlineradiobox_fi.helsinki",
+    "name": "Radio Helsinki",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/26157.v5.png",
+    "stream_url": "https://stream.radiohelsinki.fi/;",
+    "website": "https://www.radiohelsinki.fi/",
+    "provider": "onlineradiobox",
+    "country": "Finland",
+    "genres": [
+      "top40",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T19:21:37+05:30"
+  },
+  {
+    "id": "onlineradiobox_fi.hero",
+    "name": "Hero Radio (finland)",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/139262.v1.png",
+    "stream_url": "https://a2.asurahosting.com:6790/finland.mp3",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Finland",
+    "genres": [
+      "talk",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T19:23:36+05:30"
+  },
+  {
+    "id": "onlineradiobox_fi.hitmix",
+    "name": "HitMix",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/85978.v7.png",
+    "stream_url": "https://aud-stream-hitmix.nm-elemental.nelonenmedia.fi/playlist.m3u8",
+    "website": "https://www.supla.fi/hitmix",
+    "provider": "onlineradiobox",
+    "country": "Finland",
+    "genres": [
+      "90s",
+      "00s",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T19:21:33+05:30"
+  },
+  {
+    "id": "onlineradiobox_fi.ida",
+    "name": "IDA Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/141715.v1.png",
+    "stream_url": "https://broadcast.idaidaida.net:8030/stream",
+    "website": "https://idaidaida.net/",
+    "provider": "onlineradiobox",
+    "country": "Finland",
+    "genres": [
+      "electronic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T19:24:13+05:30"
+  },
+  {
+    "id": "onlineradiobox_fi.inari",
+    "name": "Radio Inari",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/48896.v4.png",
+    "stream_url": "https://radioinari.radioman.fi:8443/radioinari",
+    "website": "http://www.inari.fi/",
+    "provider": "onlineradiobox",
+    "country": "Finland",
+    "genres": [
+      "pop",
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T19:23:36+05:30"
+  },
+  {
+    "id": "onlineradiobox_fi.jahrvisound",
+    "name": "Jahrvi Sound",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/86905.v3.png",
+    "stream_url": "http://giss.tv:8000/jahrvisound.ogg",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Finland",
+    "genres": [
+      "dubstep",
+      "disco",
+      "rap",
+      "hip-hop",
+      "funk",
+      "reggae",
+      "african",
+      "dancehall"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T19:23:35+05:30"
+  },
+  {
+    "id": "onlineradiobox_fi.jarvi",
+    "name": "Jarvi Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/26160.v10.png",
+    "stream_url": "https://jarviradio.radiotaajuus.fi:9000/jr",
+    "website": "http://www.jarviradio.fi/",
+    "provider": "onlineradiobox",
+    "country": "Finland",
+    "genres": [
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T19:22:35+05:30"
+  },
+  {
+    "id": "onlineradiobox_fi.jouluradio",
+    "name": "Joulu Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/152089.v1.png",
+    "stream_url": "https://aud-stream-jouluradio01.nm-elemental.nelonenmedia.fi/master.m3u8",
+    "website": "https://www.supla.fi/jouluradio",
+    "provider": "onlineradiobox",
+    "country": "Finland",
+    "genres": [
+      "christmas"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T19:23:39+05:30"
+  },
+  {
+    "id": "onlineradiobox_fi.julradion",
+    "name": "Jul Radion",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/152081.v1.png",
+    "stream_url": "https://aud-stream-jouluradio02.nm-elemental.nelonenmedia.fi/master.m3u8",
+    "website": "https://www.supla.fi/julradion",
+    "provider": "onlineradiobox",
+    "country": "Finland",
+    "genres": [
+      "christmas"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T19:23:41+05:30"
+  },
+  {
+    "id": "onlineradiobox_fi.kaaosradiopsygoatrance",
+    "name": "Kaaosradio Psy/Goatrance",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/148836.v2.png",
+    "stream_url": "http://stream.kaaosradio.fi:8000/stream2",
+    "website": "https://kaaosradio.fi/index.php",
+    "provider": "onlineradiobox",
+    "country": "Finland",
+    "genres": [
+      "trance",
+      "techno"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T19:24:22+05:30"
+  },
+  {
+    "id": "onlineradiobox_fi.kantriradio",
+    "name": "Kantriradio",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/124647.v4.png",
+    "stream_url": "https://aud-stream-kantriradio.nm-elemental.nelonenmedia.fi/playlist.m3u8",
+    "website": "https://www.supla.fi/kantriradio",
+    "provider": "onlineradiobox",
+    "country": "Finland",
+    "genres": [
+      "country"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T19:22:33+05:30"
+  },
+  {
+    "id": "onlineradiobox_fi.kasari",
+    "name": "Kasari Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/85996.v3.png",
+    "stream_url": "https://streaming.radioplay.fi/fi_kasari_64.aac",
+    "website": "https://www.kasariradio.fi/",
+    "provider": "onlineradiobox",
+    "country": "Finland",
+    "genres": [
+      "80s"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T19:22:34+05:30"
+  },
+  {
+    "id": "onlineradiobox_fi.kauneimmatjoululaulut",
+    "name": "Kauneimmat Joululaulut",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/152083.v2.png",
+    "stream_url": "https://aud-stream-jouluradio03.nm-elemental.nelonenmedia.fi/master.m3u8",
+    "website": "https://www.supla.fi/kauneimmat-joululaulut",
+    "provider": "onlineradiobox",
+    "country": "Finland",
+    "genres": [
+      "christian",
+      "christmas"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T19:23:40+05:30"
+  },
+  {
+    "id": "onlineradiobox_fi.kempele",
+    "name": "Radio Kempele",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/146511.v1.png",
+    "stream_url": "https://listen.radioking.com/radio/283663/stream/329548",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Finland",
+    "genres": [
+      "ambient"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T19:24:15+05:30"
+  },
+  {
+    "id": "onlineradiobox_fi.kiss",
+    "name": "Kiss fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/26300.v7.png",
+    "stream_url": "https://radioplay.fi/kiss/",
+    "website": "http://www.kiss.fi/?ref=voice",
+    "provider": "onlineradiobox",
+    "country": "Finland",
+    "genres": [
+      "pop",
+      "news",
+      "top40",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T19:21:35+05:30"
+  },
+  {
+    "id": "onlineradiobox_fi.klassinenjoulu",
+    "name": "Klassinen Joulu",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/152088.v1.png",
+    "stream_url": "https://aud-stream-jouluradio07.nm-elemental.nelonenmedia.fi/master.m3u8",
+    "website": "https://www.supla.fi/klassinenjoulu",
+    "provider": "onlineradiobox",
+    "country": "Finland",
+    "genres": [
+      "christmas"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T19:24:24+05:30"
+  },
+  {
+    "id": "onlineradiobox_fi.kuhan",
+    "name": "Radio Kuhan.FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/129366.v3.png",
+    "stream_url": "https://fra-pioneer08.dedicateware.com:3135/stream",
+    "website": "http://www.kuhan.fm/",
+    "provider": "onlineradiobox",
+    "country": "Finland",
+    "genres": [
+      "rock",
+      "disco",
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T19:23:37+05:30"
+  },
+  {
+    "id": "onlineradiobox_fi.laspegasus",
+    "name": "Las Pegasus Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/133758.v2.png",
+    "stream_url": "https://icecast.laspegas.us/ari",
+    "website": "https://old.laspegas.us/",
+    "provider": "onlineradiobox",
+    "country": "Finland",
+    "genres": [
+      "dance",
+      "electronic",
+      "trance"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T19:22:39+05:30"
+  },
+  {
+    "id": "onlineradiobox_fi.lastenjouluradio",
+    "name": "Lasten Jouluradio",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/152084.v1.png",
+    "stream_url": "https://aud-stream-jouluradio04.nm-elemental.nelonenmedia.fi/master.m3u8",
+    "website": "https://www.supla.fi/lastenjouluradio",
+    "provider": "onlineradiobox",
+    "country": "Finland",
+    "genres": [
+      "children",
+      "christmas"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T19:24:16+05:30"
+  },
+  {
+    "id": "onlineradiobox_fi.latina",
+    "name": "Radio Latina",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/138441.v5.png",
+    "stream_url": "https://stream.zeno.fm/lawvx8yxjcavv",
+    "website": "http://latinoliradi.blogspot.com/",
+    "provider": "onlineradiobox",
+    "country": "Finland",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T19:23:37+05:30"
+  },
+  {
+    "id": "onlineradiobox_fi.litefm",
+    "name": "Lite fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/149816.v1.png",
+    "stream_url": "https://e9e96ac8-europa-radio-external-cdn51-live-cluster-us-cfd2-prd.taurer.org:8030/LITEFM",
+    "website": "https://litefm.taurer.org/",
+    "provider": "onlineradiobox",
+    "country": "Finland",
+    "genres": [
+      "pop",
+      "lounge",
+      "jazz",
+      "relax",
+      "90s",
+      "00s",
+      "80s",
+      "70s",
+      "love songs",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T19:24:17+05:30"
+  },
+  {
+    "id": "onlineradiobox_fi.loop",
+    "name": "Loop",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/85999.v5.png",
+    "stream_url": "https://aud-stream-loop.nm-elemental.nelonenmedia.fi/playlist.m3u8",
+    "website": "https://www.supla.fi/loop",
+    "provider": "onlineradiobox",
+    "country": "Finland",
+    "genres": [
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T19:21:35+05:30"
+  },
+  {
+    "id": "onlineradiobox_fi.lost",
+    "name": "Lost Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/153812.v2.png",
+    "stream_url": "https://listen.radioking.com/radio/600457/stream/661660",
+    "website": "https://www.osuusradio.fi/",
+    "provider": "onlineradiobox",
+    "country": "Finland",
+    "genres": [
+      "rock"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T19:24:23+05:30"
+  },
+  {
+    "id": "onlineradiobox_fi.lrcm",
+    "name": "LRCM Radio (Finland)",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/153109.v1.png",
+    "stream_url": "https://a8.asurahosting.com:8950/finland.mp3",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Finland",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T19:23:39+05:30"
+  },
+  {
+    "id": "onlineradiobox_fi.moiweb",
+    "name": "MOI Web Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/88649.v14.png",
+    "stream_url": "https://everestcast.streams.ovh/MOIWebRadio",
+    "website": "https://moiwebradio.com/",
+    "provider": "onlineradiobox",
+    "country": "Finland",
+    "genres": [
+      "rock",
+      "pop",
+      "classic rock",
+      "jazz",
+      "soul",
+      "funk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T19:22:35+05:30"
+  },
+  {
+    "id": "onlineradiobox_fi.moreeni",
+    "name": "Radio Moreeni",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/26458.v5.png",
+    "stream_url": "http://moreenistream1.uta.fi:8080/moreeni.mp3",
+    "website": "http://radio.uta.fi/",
+    "provider": "onlineradiobox",
+    "country": "Finland",
+    "genres": [
+      "news",
+      "culture",
+      "education"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T19:23:34+05:30"
+  },
+  {
+    "id": "onlineradiobox_fi.musa",
+    "name": "Radio Musa",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/48904.v6.png",
+    "stream_url": "https://stream.radiojar.com/n6yg5q0z8vzuv",
+    "website": "http://www.hitit.fi/",
+    "provider": "onlineradiobox",
+    "country": "Finland",
+    "genres": [
+      "talk",
+      "adult contemporary",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T19:22:39+05:30"
+  },
+  {
+    "id": "onlineradiobox_fi.nostalgia",
+    "name": "Radio Nostalgia",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/26523.v10.png",
+    "stream_url": "https://streaming.radioplay.fi/fi_nostalgia_64.aac",
+    "website": "http://radionostalgia.fi/",
+    "provider": "onlineradiobox",
+    "country": "Finland",
+    "genres": [
+      "news",
+      "oldies",
+      "60s",
+      "50s",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T19:21:36+05:30"
+  },
+  {
+    "id": "onlineradiobox_fi.nova",
+    "name": "Radio Nova",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/26153.v5.png",
+    "stream_url": "https://radioplay.fi/radio-nova/",
+    "website": "http://www.radionova.fi/",
+    "provider": "onlineradiobox",
+    "country": "Finland",
+    "genres": [
+      "pop",
+      "news",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T19:21:32+05:30"
+  },
+  {
+    "id": "onlineradiobox_fi.nrjsuomihitit",
+    "name": "NRJ Suomihitit",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/26144.v7.png",
+    "stream_url": "https://radioplay.fi/nrj/",
+    "website": "http://nrj.fi/nettiradio/",
+    "provider": "onlineradiobox",
+    "country": "Finland",
+    "genres": [
+      "pop",
+      "top40",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T19:21:40+05:30"
+  },
+  {
+    "id": "onlineradiobox_fi.patmos",
+    "name": "Radio Patmos",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/48906.v5.png",
+    "stream_url": "https://s3.yesstreaming.net:7011/radio",
+    "website": "https://www.patmos.fi/radio-patmos",
+    "provider": "onlineradiobox",
+    "country": "Finland",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T19:21:38+05:30"
+  },
+  {
+    "id": "onlineradiobox_fi.pirataboing",
+    "name": "Pirata Boing! Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/51324.v4.png",
+    "stream_url": "http://198.100.145.190:8000/PirataBoing.ogg",
+    "website": "http://www.pirataboing.info/",
+    "provider": "onlineradiobox",
+    "country": "Finland",
+    "genres": [
+      "reggae",
+      "spanish"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T19:23:41+05:30"
+  },
+  {
+    "id": "onlineradiobox_fi.pooki",
+    "name": "Radio Pooki",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/26155.v5.png",
+    "stream_url": "https://radioplay.fi/radio-pooki/",
+    "website": "http://www.radiopooki.fi/",
+    "provider": "onlineradiobox",
+    "country": "Finland",
+    "genres": [
+      "news",
+      "talk",
+      "culture",
+      "community"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T19:22:32+05:30"
+  },
+  {
+    "id": "onlineradiobox_fi.pop",
+    "name": "POPfm Finland",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/149233.v1.png",
+    "stream_url": "https://stream.madmenmedia.se/popfm",
+    "website": "https://popfm.fi/",
+    "provider": "onlineradiobox",
+    "country": "Finland",
+    "genres": [
+      "pop",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T19:22:35+05:30"
+  },
+  {
+    "id": "onlineradiobox_fi.popjoulu",
+    "name": "PopJoulu",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/152082.v1.png",
+    "stream_url": "https://aud-stream-jouluradio05.nm-elemental.nelonenmedia.fi/master.m3u8",
+    "website": "https://www.supla.fi/popjoulu",
+    "provider": "onlineradiobox",
+    "country": "Finland",
+    "genres": [
+      "christmas"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T19:23:42+05:30"
+  },
+  {
+    "id": "onlineradiobox_fi.pori",
+    "name": "Radio Pori",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/26165.v4.png",
+    "stream_url": "https://radioplay.fi/radio-pori/",
+    "website": "http://www.radiopori.fi/",
+    "provider": "onlineradiobox",
+    "country": "Finland",
+    "genres": [
+      "90s",
+      "80s",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T19:22:39+05:30"
+  },
+  {
+    "id": "onlineradiobox_fi.radio957",
+    "name": "Radio 957",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/85998.v7.png",
+    "stream_url": "https://radioplay.fi/radio-957/",
+    "website": "https://www.957.fi/",
+    "provider": "onlineradiobox",
+    "country": "Finland",
+    "genres": [
+      "rock",
+      "pop",
+      "news"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T19:23:34+05:30"
+  },
+  {
+    "id": "onlineradiobox_fi.radioverkko",
+    "name": "Radioverkko",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/48912.v3.png",
+    "stream_url": "http://kuuntele.radioverkko.fi:8000/live",
+    "website": "http://radioverkko.fi/",
+    "provider": "onlineradiobox",
+    "country": "Finland",
+    "genres": [
+      "pop",
+      "talk",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T19:23:37+05:30"
+  },
+  {
+    "id": "onlineradiobox_fi.ramona",
+    "name": "Radio Ramona",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/48909.v4.png",
+    "stream_url": "https://stream.protonbroadcast.com:8443/ramona.mp3",
+    "website": "http://www.radioramona.fi/",
+    "provider": "onlineradiobox",
+    "country": "Finland",
+    "genres": [
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T19:23:36+05:30"
+  },
+  {
+    "id": "onlineradiobox_fi.reggaenord",
+    "name": "ReggaeNord",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/100803.v11.png",
+    "stream_url": "https://a10.asurahosting.com:7700/radio.mp3",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Finland",
+    "genres": [
+      "dance",
+      "reggae"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T19:22:38+05:30"
+  },
+  {
+    "id": "onlineradiobox_fi.retro",
+    "name": "REFM (РЕФМ)",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/90624.v26.png",
+    "stream_url": "https://e9e96ac8-europa-radio-external-cdn51-live-cluster-us-cfd2-prd.taurer.org:8000/REFM",
+    "website": "https://refm.taurer.org/",
+    "provider": "onlineradiobox",
+    "country": "Finland",
+    "genres": [
+      "pop",
+      "lounge",
+      "jazz",
+      "relax",
+      "new age",
+      "90s",
+      "00s",
+      "80s",
+      "70s",
+      "soft pop",
+      "20s",
+      "10s",
+      "love songs",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T19:21:34+05:30"
+  },
+  {
+    "id": "onlineradiobox_fi.rock",
+    "name": "Radio Rock",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/26151.v8.png",
+    "stream_url": "https://aud-stream-radiorock.nm-elemental.nelonenmedia.fi/playlist.m3u8",
+    "website": "https://www.supla.fi/radiorock",
+    "provider": "onlineradiobox",
+    "country": "Finland",
+    "genres": [
+      "rock"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T19:21:31+05:30"
+  },
+  {
+    "id": "onlineradiobox_fi.rondoclassic",
+    "name": "Rondo Classic - Klasu",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/26164.v7.png",
+    "stream_url": "https://iradio.fi/klasu-hi.mp3",
+    "website": "https://rondolehti.fi/",
+    "provider": "onlineradiobox",
+    "country": "Finland",
+    "genres": [
+      "classic",
+      "instrumental",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T19:22:37+05:30"
+  },
+  {
+    "id": "onlineradiobox_fi.rouheajoulu",
+    "name": "Rouhea Joulu",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/152086.v1.png",
+    "stream_url": "https://aud-stream-jouluradio06.nm-elemental.nelonenmedia.fi/master.m3u8",
+    "website": "https://www.supla.fi/rouheajoulu",
+    "provider": "onlineradiobox",
+    "country": "Finland",
+    "genres": [
+      "christmas"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T19:24:14+05:30"
+  },
+  {
+    "id": "onlineradiobox_fi.rql",
+    "name": "RQL",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/48942.v24.png",
+    "stream_url": "https://a8.asurahosting.com:8140/radio.mp3",
+    "website": "https://rqlweb.blogspot.com/",
+    "provider": "onlineradiobox",
+    "country": "Finland",
+    "genres": [
+      "rock",
+      "classic rock"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T19:21:38+05:30"
+  },
+  {
+    "id": "onlineradiobox_fi.sandels",
+    "name": "Radio Sandels",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/48910.v5.png",
+    "stream_url": "https://radiosandels.radiotaajuus.fi:9050/radio",
+    "website": "http://www.radiosandels.fi/",
+    "provider": "onlineradiobox",
+    "country": "Finland",
+    "genres": [
+      "folk",
+      "adult contemporary",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T19:21:37+05:30"
+  },
+  {
+    "id": "onlineradiobox_fi.santaclaus",
+    "name": "Radio Santa Claus",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/26152.v7.png",
+    "stream_url": "https://streaming.radiostreamlive.com/radiosantaclaus_devices",
+    "website": "http://www.radiosantaclaus.com/",
+    "provider": "onlineradiobox",
+    "country": "Finland",
+    "genres": [
+      "christmas"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T19:21:34+05:30"
+  },
+  {
+    "id": "onlineradiobox_fi.sea",
+    "name": "Sea FM Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/26462.v9.png",
+    "stream_url": "https://s3.myradiostream.com/:4976/listen.mp3?ver=976890",
+    "website": "http://www.seafm.fi/",
+    "provider": "onlineradiobox",
+    "country": "Finland",
+    "genres": [
+      "dance",
+      "r'n'b",
+      "pop",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T19:21:36+05:30"
+  },
+  {
+    "id": "onlineradiobox_fi.star",
+    "name": "Star",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/149813.v2.png",
+    "stream_url": "https://e9e96ac8-europa-radio-external-cdn51-live-cluster-us-cfd2-prd.taurer.org:8010/STAR",
+    "website": "https://star.taurer.org/",
+    "provider": "onlineradiobox",
+    "country": "Finland",
+    "genres": [
+      "pop",
+      "news",
+      "top40",
+      "00s",
+      "10s",
+      "love songs",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T19:24:14+05:30"
+  },
+  {
+    "id": "onlineradiobox_fi.steel",
+    "name": "Steel FM 95.9",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/26479.v6.png",
+    "stream_url": "https://www.steelfm.ax/",
+    "website": "http://www.steelfm.ax/",
+    "provider": "onlineradiobox",
+    "country": "Finland",
+    "genres": [
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T19:24:24+05:30"
+  },
+  {
+    "id": "onlineradiobox_fi.sun",
+    "name": "Radio Sun",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/26147.v3.png",
+    "stream_url": "https://st.downtime.fi/sun.mp3",
+    "website": "http://www.radiosun.fi/",
+    "provider": "onlineradiobox",
+    "country": "Finland",
+    "genres": [
+      "news",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T19:21:38+05:30"
+  },
+  {
+    "id": "onlineradiobox_fi.suomipop",
+    "name": "Radio SuomiPop",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/26149.v7.png",
+    "stream_url": "https://aud-stream-suomipop.nm-elemental.nelonenmedia.fi/playlist.m3u8",
+    "website": "https://www.supla.fi/radiosuomipop",
+    "provider": "onlineradiobox",
+    "country": "Finland",
+    "genres": [
+      "pop",
+      "top40",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T19:21:32+05:30"
+  },
+  {
+    "id": "onlineradiobox_fi.suomirap",
+    "name": "SuomiRäp",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/115619.v3.png",
+    "stream_url": "https://radioplay.fi/suomirap/",
+    "website": "https://radioplay.fi/suomirap/",
+    "provider": "onlineradiobox",
+    "country": "Finland",
+    "genres": [
+      "rap"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T19:23:38+05:30"
+  },
+  {
+    "id": "onlineradiobox_fi.suomirock",
+    "name": "SuomiRock",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/48943.v6.png",
+    "stream_url": "https://radioplay.fi/suomi-rock/",
+    "website": "http://www.radiosuomirock.fi/",
+    "provider": "onlineradiobox",
+    "country": "Finland",
+    "genres": [
+      "rock"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T19:21:33+05:30"
+  },
+  {
+    "id": "onlineradiobox_fi.tranceport",
+    "name": "Tranceport FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/150546.v1.png",
+    "stream_url": "https://a12.asurahosting.com/listen/tranceport_fm/radio.mp3",
+    "website": "https://tranceport.vercel.app/",
+    "provider": "onlineradiobox",
+    "country": "Finland",
+    "genres": [
+      "electronic",
+      "trance"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T19:22:34+05:30"
+  },
+  {
+    "id": "onlineradiobox_fi.utajarvenseurakunnan",
+    "name": "Utajärven seurakunnan Kirkkoradio",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/145627.v1.png",
+    "stream_url": "https://listen.radioking.com/radio/486611/stream/543311",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Finland",
+    "genres": [],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T19:24:20+05:30"
+  },
+  {
+    "id": "onlineradiobox_fi.vaasa",
+    "name": "Radio Vaasa",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/26496.v4.png",
+    "stream_url": "https://stream.protonbroadcast.com:8443/radiovaasa.mp3",
+    "website": "http://www.radiovaasa.fi/",
+    "provider": "onlineradiobox",
+    "country": "Finland",
+    "genres": [
+      "folk",
+      "culture",
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T19:21:39+05:30"
+  },
+  {
+    "id": "onlineradiobox_fi.voima",
+    "name": "Radio Voima",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/26526.v4.png",
+    "stream_url": "https://cast2.radiovoima.fi/voima.mp3",
+    "website": "http://www.radiovoima.fi/",
+    "provider": "onlineradiobox",
+    "country": "Finland",
+    "genres": [
+      "country"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T19:22:38+05:30"
+  },
+  {
+    "id": "onlineradiobox_fi.vomba",
+    "name": "Võmba FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/100964.v2.png",
+    "stream_url": "https://c4.radioboss.fm:18123/stream",
+    "website": "http://www.xn--vmbafm-pxa.fi/",
+    "provider": "onlineradiobox",
+    "country": "Finland",
+    "genres": [
+      "90s",
+      "80s"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T19:21:33+05:30"
+  },
+  {
+    "id": "onlineradiobox_fi.yle1019",
+    "name": "YLE Sami Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/48979.v5.png",
+    "stream_url": "https://yleradiolive.akamaized.net/hls/live/2027680/in-YleSami/master.m3u8",
+    "website": "https://areena.yle.fi/radio/ohjelmat/yle-sami-radio",
+    "provider": "onlineradiobox",
+    "country": "Finland",
+    "genres": [
+      "news",
+      "talk",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T19:22:40+05:30"
+  },
+  {
+    "id": "onlineradiobox_fi.yle1879",
+    "name": "YLE Radio 1",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/48945.v6.png",
+    "stream_url": "https://yleradiolive.akamaized.net/hls/live/2027672/in-YleRadio1/master.m3u8",
+    "website": "https://areena.yle.fi/radio/ohjelmat/yle-radio-1",
+    "provider": "onlineradiobox",
+    "country": "Finland",
+    "genres": [
+      "jazz",
+      "classic",
+      "instrumental"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T19:22:36+05:30"
+  },
+  {
+    "id": "onlineradiobox_fi.yle940",
+    "name": "YLE Radio Suomi",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/48978.v7.png",
+    "stream_url": "https://yleradiolive.akamaized.net/hls/live/2027675/in-YleRS/master.m3u8",
+    "website": "https://areena.yle.fi/radio/ohjelmat/yle-radio-suomi",
+    "provider": "onlineradiobox",
+    "country": "Finland",
+    "genres": [
+      "news",
+      "talk",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T19:21:33+05:30"
+  },
+  {
+    "id": "onlineradiobox_fi.yleklassinen",
+    "name": "YLE Klassinen",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/48961.v5.png",
+    "stream_url": "https://yleradiolive.akamaized.net/hls/live/2027676/in-YleKlassinen/master.m3u8",
+    "website": "https://areena.yle.fi/radio/ohjelmat/yle-klassinen",
+    "provider": "onlineradiobox",
+    "country": "Finland",
+    "genres": [
+      "classic",
+      "instrumental"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T19:21:34+05:30"
+  },
+  {
+    "id": "onlineradiobox_fi.ylevega1011",
+    "name": "YLE Vega Huvudstadsregionen",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/78831.v5.png",
+    "stream_url": "https://yleradiolive.akamaized.net/hls/live/2027679/in-YleVega/master.m3u8",
+    "website": "https://arenan.yle.fi/radio/program/yle-vega?_c=radio-vega-huvudstadsregionen",
+    "provider": "onlineradiobox",
+    "country": "Finland",
+    "genres": [
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T19:21:36+05:30"
+  },
+  {
+    "id": "onlineradiobox_fi.ylex",
+    "name": "YleX",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/48995.v5.png",
+    "stream_url": "https://yleradiolive.akamaized.net/hls/live/2027674/in-YleX/master.m3u8",
+    "website": "https://areena.yle.fi/radio/ohjelmat/ylex",
+    "provider": "onlineradiobox",
+    "country": "Finland",
+    "genres": [
+      "pop",
+      "talk",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T19:22:32+05:30"
+  },
+  {
+    "id": "onlineradiobox_fi.ylex3m",
+    "name": "YLE X3M",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/48989.v4.png",
+    "stream_url": "https://yleradiolive.akamaized.net/hls/live/2027678/in-YleX3M/master.m3u8",
+    "website": "https://arenan.yle.fi/radio/program/x3m",
+    "provider": "onlineradiobox",
+    "country": "Finland",
+    "genres": [
+      "pop",
+      "hip-hop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T19:22:33+05:30"
+  },
+  {
+    "id": "onlineradiobox_fi.yo",
+    "name": "Yöradio",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/48996.v2.png",
+    "stream_url": "http://yoradio.fi:8080/radio.mp3",
+    "website": "http://www.xn--yradio-wxa.fi/",
+    "provider": "onlineradiobox",
+    "country": "Finland",
+    "genres": [
+      "pop",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T19:24:19+05:30"
+  },
+  {
+    "id": "onlineradiobox_fi.ysari",
+    "name": "Ysäri Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/85997.v4.png",
+    "stream_url": "https://streaming.radioplay.fi/fi_ysari_64.aac",
+    "website": "https://www.ysariradio.fi/",
+    "provider": "onlineradiobox",
+    "country": "Finland",
+    "genres": [
+      "90s"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T19:22:36+05:30"
+  }
+]

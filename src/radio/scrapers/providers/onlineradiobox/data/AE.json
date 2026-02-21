@@ -1,0 +1,1648 @@
+[
+  {
+    "id": "onlineradiobox_ae.1038dubaieye",
+    "name": "Dubai Eye 103.8",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/19009.v7.png",
+    "stream_url": "https://stream.radiojar.com/shcthrfbsxquv",
+    "website": "https://www.dubaieye1038.com/",
+    "provider": "onlineradiobox",
+    "country": "UAE",
+    "genres": [
+      "news",
+      "talk",
+      "sports"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:55:12+05:30"
+  },
+  {
+    "id": "onlineradiobox_ae.1062bigfm",
+    "name": "106.2 Big FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/95162.v7.png",
+    "stream_url": "https://funasia.streamguys1.com/live4",
+    "website": "https://big1062.com/",
+    "provider": "onlineradiobox",
+    "country": "UAE",
+    "genres": [
+      "pop",
+      "bollywood",
+      "indian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:54:55+05:30"
+  },
+  {
+    "id": "onlineradiobox_ae.360uae",
+    "name": "360 Radio UAE",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/145621.v2.png",
+    "stream_url": "https://listen.radioking.com/radio/493456/stream/550438",
+    "website": "https://360.radio/",
+    "provider": "onlineradiobox",
+    "country": "UAE",
+    "genres": [
+      "children",
+      "asian",
+      "soundtrack",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:56:11+05:30"
+  },
+  {
+    "id": "onlineradiobox_ae.4themusic",
+    "name": "4 The Music",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/100006.v6.png",
+    "stream_url": "https://stream.zeno.fm/1ygkqswx4k8uv",
+    "website": "https://4themusic.club/",
+    "provider": "onlineradiobox",
+    "country": "UAE",
+    "genres": [
+      "house",
+      "techno",
+      "deep house",
+      "club"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:57:12+05:30"
+  },
+  {
+    "id": "onlineradiobox_ae.80swonderland",
+    "name": "80&#39;s Wonderland",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/153596.v3.png",
+    "stream_url": "https://80swonderland.funstream.net/listen/80swonderland/radio.aac",
+    "website": "https://80swonderland.funstream.net/",
+    "provider": "onlineradiobox",
+    "country": "UAE",
+    "genres": [
+      "80s"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:58:04+05:30"
+  },
+  {
+    "id": "onlineradiobox_ae.aimusicdjdonald",
+    "name": "AI MUSIC RADIO - DONALD TRUMP",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/128986.v1.png",
+    "stream_url": "https://drive.uber.radio/uber/aidonald/icecast.audio",
+    "website": "https://aimusic.radio/",
+    "provider": "onlineradiobox",
+    "country": "UAE",
+    "genres": [
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:58:05+05:30"
+  },
+  {
+    "id": "onlineradiobox_ae.alaan",
+    "name": "راديو الآن - Radio Al Aan",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/44456.v17.png",
+    "stream_url": "https://c20.radioboss.fm/stream/543",
+    "website": "https://www.akhbaralaan.net/",
+    "provider": "onlineradiobox",
+    "country": "UAE",
+    "genres": [
+      "talk",
+      "arabic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:56:15+05:30"
+  },
+  {
+    "id": "onlineradiobox_ae.alarabiya",
+    "name": "Alarabiya FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/100397.v3.png",
+    "stream_url": "https://fm.alarabiya.net/fm/myStream/chunklist_w1173383407.m3u8",
+    "website": "https://www.alarabiya.net/fm",
+    "provider": "onlineradiobox",
+    "country": "UAE",
+    "genres": [
+      "arabic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:55:09+05:30"
+  },
+  {
+    "id": "onlineradiobox_ae.alarabiya99",
+    "name": "Al Arabiya 99",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/18884.v6.png",
+    "stream_url": "https://stream.radiojar.com/s1mygd1frxquv",
+    "website": "https://www.99fm.ae/",
+    "provider": "onlineradiobox",
+    "country": "UAE",
+    "genres": [
+      "folk",
+      "arabic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:54:53+05:30"
+  },
+  {
+    "id": "onlineradiobox_ae.alkhaleejiya",
+    "name": "Al Khaleejiya",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/18989.v6.png",
+    "stream_url": "https://stream.radiojar.com/5wpf9e4erxquv",
+    "website": "https://www.1009.ae/",
+    "provider": "onlineradiobox",
+    "country": "UAE",
+    "genres": [
+      "news",
+      "talk",
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:55:07+05:30"
+  },
+  {
+    "id": "onlineradiobox_ae.alrabia",
+    "name": "Al Rabia FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/18753.v11.png",
+    "stream_url": "https://s2.radio.co/s770fa24b6/listen",
+    "website": "https://www.alrabiafm.com/",
+    "provider": "onlineradiobox",
+    "country": "UAE",
+    "genres": [
+      "news",
+      "arabic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:56:01+05:30"
+  },
+  {
+    "id": "onlineradiobox_ae.alrushd",
+    "name": "Radio Alrushd",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/115574.v2.png",
+    "stream_url": "https://stream.zeno.fm/kk4c4a1eunhvv",
+    "website": "https://arab.academy/religion_of_god",
+    "provider": "onlineradiobox",
+    "country": "UAE",
+    "genres": [
+      "news",
+      "christian",
+      "education",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:58:00+05:30"
+  },
+  {
+    "id": "onlineradiobox_ae.amber",
+    "name": "Amber Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/110216.v6.png",
+    "stream_url": "https://amberradio.radioca.st/stream?type=http&nocache=6",
+    "website": "https://amber-radio.net/",
+    "provider": "onlineradiobox",
+    "country": "UAE",
+    "genres": [
+      "00s",
+      "60s"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:58:05+05:30"
+  },
+  {
+    "id": "onlineradiobox_ae.amourwaves",
+    "name": "Amour",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/153530.v2.png",
+    "stream_url": "https://amour.funstream.net/listen/amour_waves/radio.aac",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "UAE",
+    "genres": [
+      "romantic",
+      "love songs"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:58:02+05:30"
+  },
+  {
+    "id": "onlineradiobox_ae.antennaweb",
+    "name": "Antenna Web Abu Dhabi",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/130559.v3.png",
+    "stream_url": "https://tinyurl.com/Antenna-Web-Abu-Dhabi",
+    "website": "https://antennaweb.it/antennaweb-abu-dhabi/",
+    "provider": "onlineradiobox",
+    "country": "UAE",
+    "genres": [
+      "rock",
+      "pop",
+      "blues",
+      "jazz",
+      "funk",
+      "latin"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:57:23+05:30"
+  },
+  {
+    "id": "onlineradiobox_ae.asia947",
+    "name": "Radioasia 94.7",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/88766.v1.png",
+    "stream_url": "http://51.255.235.165:5480/;stream.mp3",
+    "website": "http://www.radioasiauae.com/",
+    "provider": "onlineradiobox",
+    "country": "UAE",
+    "genres": [
+      "pop",
+      "news",
+      "talk",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:56:09+05:30"
+  },
+  {
+    "id": "onlineradiobox_ae.ayk",
+    "name": "Radio AYK ",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/18804.v3.png",
+    "stream_url": "http://64.150.176.42:8117/;listen.mp3",
+    "website": "http://www.radioayk.com/",
+    "provider": "onlineradiobox",
+    "country": "UAE",
+    "genres": [
+      "news",
+      "talk",
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:56:15+05:30"
+  },
+  {
+    "id": "onlineradiobox_ae.bafa",
+    "name": "Bafa Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/18928.v4.png",
+    "stream_url": "https://gains.reviveradio.net/proxy/bafaradio/stream",
+    "website": "http://www.bafaradio.com/",
+    "provider": "onlineradiobox",
+    "country": "UAE",
+    "genres": [
+      "christian",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:57:16+05:30"
+  },
+  {
+    "id": "onlineradiobox_ae.beat",
+    "name": "Beat 97.8",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/127774.v1.png",
+    "stream_url": "https://funasia.streamguys1.com/live3",
+    "website": "https://beat978.com/",
+    "provider": "onlineradiobox",
+    "country": "UAE",
+    "genres": [
+      "dance",
+      "house",
+      "techno"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:57:07+05:30"
+  },
+  {
+    "id": "onlineradiobox_ae.boomerang20s",
+    "name": "Greatest Hits 1920&#39;s",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/117719.v4.png",
+    "stream_url": "https://drive.uber.radio/uber/boomerang1920s/icecast.audio",
+    "website": "https://greatesthits.radio/",
+    "provider": "onlineradiobox",
+    "country": "UAE",
+    "genres": [
+      "pop",
+      "oldies",
+      "20s"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:55:04+05:30"
+  },
+  {
+    "id": "onlineradiobox_ae.city1016",
+    "name": "City 1016",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/18982.v5.png",
+    "stream_url": "https://stream.radiojar.com/gmwyu8xdrxquv",
+    "website": "http://city1016.ae/",
+    "provider": "onlineradiobox",
+    "country": "UAE",
+    "genres": [
+      "bollywood"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:54:59+05:30"
+  },
+  {
+    "id": "onlineradiobox_ae.classicalbeethoven",
+    "name": "Classical Radio - Beethoven",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/112310.v3.png",
+    "stream_url": "https://drive.uber.radio/uber/crbeethoven/icecast.audio",
+    "website": "https://uber.radio/",
+    "provider": "onlineradiobox",
+    "country": "UAE",
+    "genres": [
+      "classic",
+      "beethoven"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:54:59+05:30"
+  },
+  {
+    "id": "onlineradiobox_ae.clubfm996",
+    "name": "Club FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/88761.v5.png",
+    "stream_url": "https://eu10.fastcast4u.com/clubfmuae",
+    "website": "http://www.clubfm.ae/",
+    "provider": "onlineradiobox",
+    "country": "UAE",
+    "genres": [
+      "pop",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:55:10+05:30"
+  },
+  {
+    "id": "onlineradiobox_ae.countryalabama",
+    "name": "Country Music Radio - Alabama",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/113594.v2.png",
+    "stream_url": "https://drive.uber.radio/uber/cmralabama/icecast.audio",
+    "website": "https://uber.radio/",
+    "provider": "onlineradiobox",
+    "country": "UAE",
+    "genres": [
+      "country"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:56:02+05:30"
+  },
+  {
+    "id": "onlineradiobox_ae.dancemachine",
+    "name": "Dance Machine",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/135222.v1.png",
+    "stream_url": "https://edm.streeemer.com/listen/edm/radio.aac",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "UAE",
+    "genres": [
+      "dance",
+      "electronic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:56:04+05:30"
+  },
+  {
+    "id": "onlineradiobox_ae.desertvibes",
+    "name": "Desert Vibes Radio",
+    "image": "https://cdn.onlineradiobox.com/img/logo/5/149975.png",
+    "stream_url": "https://stream.zeno.fm/az2ir3hatzjuv",
+    "website": "https://desertvibesradio.blogspot.com/",
+    "provider": "onlineradiobox",
+    "country": "UAE",
+    "genres": [
+      "electronic",
+      "lounge",
+      "ambient",
+      "deep house",
+      "chill-out",
+      "ethnic",
+      "arabic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:57:20+05:30"
+  },
+  {
+    "id": "onlineradiobox_ae.dibailong",
+    "name": "Dubai Dragon",
+    "image": "https://cdn.onlineradiobox.com/img/logo/6/78346.png",
+    "stream_url": "https://stream.radiojar.com/n30hp6aerxquv",
+    "website": "http://dibailong.ae/",
+    "provider": "onlineradiobox",
+    "country": "UAE",
+    "genres": [
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:56:14+05:30"
+  },
+  {
+    "id": "onlineradiobox_ae.djradiodubai",
+    "name": "DJ Radio Dubai",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/145888.v1.png",
+    "stream_url": "https://listen.radioking.com/radio/623812/stream/685897",
+    "website": "https://www.djradio.ae/",
+    "provider": "onlineradiobox",
+    "country": "UAE",
+    "genres": [
+      "dance",
+      "electronic",
+      "house",
+      "techno",
+      "club"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:57:15+05:30"
+  },
+  {
+    "id": "onlineradiobox_ae.dubai92",
+    "name": "Dubai 92",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/72535.v6.png",
+    "stream_url": "https://stream.radiojar.com/6ty5rrkerxquv",
+    "website": "https://www.dubai92.com/",
+    "provider": "onlineradiobox",
+    "country": "UAE",
+    "genres": [
+      "pop",
+      "90s",
+      "00s",
+      "80s"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:55:01+05:30"
+  },
+  {
+    "id": "onlineradiobox_ae.dubaidabeat",
+    "name": "Dubai Da Beat",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/109510.v22.png",
+    "stream_url": "http://cast3.asurahosting.com:9408/stream",
+    "website": "https://dubaidabeat.com/",
+    "provider": "onlineradiobox",
+    "country": "UAE",
+    "genres": [
+      "r'n'b",
+      "pop",
+      "hip-hop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:58:05+05:30"
+  },
+  {
+    "id": "onlineradiobox_ae.dubaidragoncityvoice",
+    "name": "Dubai Dragon City Voice Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/140710.v4.png",
+    "stream_url": "https://a10.asurahosting.com:7030/radio.mp3",
+    "website": "https://www.asiadubai.tv/",
+    "provider": "onlineradiobox",
+    "country": "UAE",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:57:59+05:30"
+  },
+  {
+    "id": "onlineradiobox_ae.dubaiitalia",
+    "name": "Dubai Radio Italia",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/88200.v3.png",
+    "stream_url": "https://stream.zeno.fm/gganb49auwzuv",
+    "website": "https://zeno.fm/dubai-radio-italiaeuepb49auwzuv/",
+    "provider": "onlineradiobox",
+    "country": "UAE",
+    "genres": [
+      "italian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:57:09+05:30"
+  },
+  {
+    "id": "onlineradiobox_ae.dubailanka",
+    "name": "Dubai Lanka Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/120853.v4.png",
+    "stream_url": "https://stream.zeno.fm/1a5eqwdvxrfvv",
+    "website": "https://bit.ly/dubailankaradio",
+    "provider": "onlineradiobox",
+    "country": "UAE",
+    "genres": [
+      "news",
+      "top40",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:57:59+05:30"
+  },
+  {
+    "id": "onlineradiobox_ae.easychristmas",
+    "name": "Easy Christmas",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/109573.v1.png",
+    "stream_url": "https://streaming.exclusive.radio/uber/easychristmas/icecast.audio",
+    "website": "https://easy.radio/",
+    "provider": "onlineradiobox",
+    "country": "UAE",
+    "genres": [
+      "christmas"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:57:24+05:30"
+  },
+  {
+    "id": "onlineradiobox_ae.easyinstrumentals",
+    "name": "Easy Instrumentals",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/108007.v3.png",
+    "stream_url": "https://streaming.exclusive.radio/uber/easyinstrumentals/icecast.audio",
+    "website": "https://easy.radio/",
+    "provider": "onlineradiobox",
+    "country": "UAE",
+    "genres": [
+      "easy listening"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:55:05+05:30"
+  },
+  {
+    "id": "onlineradiobox_ae.emarat",
+    "name": "Emarat FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/18752.v4.png",
+    "stream_url": "https://admdn7.cdn.mangomolo.com/emrdo/emrdo.stream_aac/playlist.m3u8",
+    "website": "http://www.admedia.ae/",
+    "provider": "onlineradiobox",
+    "country": "UAE",
+    "genres": [
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:56:05+05:30"
+  },
+  {
+    "id": "onlineradiobox_ae.exclusivelyadele",
+    "name": "Exclusively Adele",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/90922.v10.png",
+    "stream_url": "https://streaming.exclusive.radio/er/adele/icecast.audio",
+    "website": "https://play.you.radio/",
+    "provider": "onlineradiobox",
+    "country": "UAE",
+    "genres": [
+      "pop",
+      "top40",
+      "adele"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:54:52+05:30"
+  },
+  {
+    "id": "onlineradiobox_ae.exclusivelyafrobeats",
+    "name": "World Music Radio - Afrobeats",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/97933.v9.png",
+    "stream_url": "https://streaming.exclusive.radio/er/afrobeats/icecast.audio",
+    "website": "https://you.radio/",
+    "provider": "onlineradiobox",
+    "country": "UAE",
+    "genres": [
+      "pop",
+      "african",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:56:16+05:30"
+  },
+  {
+    "id": "onlineradiobox_ae.forkidsbathtimefun",
+    "name": "For Kids Bathtime Fun",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/106343.v4.png",
+    "stream_url": "https://drive.uber.radio/uber/forkidzbathtimefun/icecast.audio",
+    "website": "https://funkids.radio/",
+    "provider": "onlineradiobox",
+    "country": "UAE",
+    "genres": [
+      "children"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:56:10+05:30"
+  },
+  {
+    "id": "onlineradiobox_ae.fredfilm",
+    "name": "FRED FILM RADIO",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/46848.v4.png",
+    "stream_url": "https://s10.webradio-hosting.com/proxy/fredradioar/stream/;",
+    "website": "http://www.fred.fm/ar/",
+    "provider": "onlineradiobox",
+    "country": "UAE",
+    "genres": [
+      "news",
+      "talk",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:58:03+05:30"
+  },
+  {
+    "id": "onlineradiobox_ae.freefmlkuaesinhala",
+    "name": "freefm.lk - UAE Sinhala Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/125974.v2.png",
+    "stream_url": "https://stream.zeno.fm/n7u7aog5og6vv",
+    "website": "https://freefm.lk/ae",
+    "provider": "onlineradiobox",
+    "country": "UAE",
+    "genres": [
+      "rock",
+      "pop",
+      "folk",
+      "classic",
+      "bollywood",
+      "top40",
+      "funk",
+      "indian",
+      "arabic",
+      "tamil",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:57:08+05:30"
+  },
+  {
+    "id": "onlineradiobox_ae.fujairah",
+    "name": "Fujairah FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/127316.v1.png",
+    "stream_url": "https://fujairah.fm/stream.php",
+    "website": "https://fujairah.fm/",
+    "provider": "onlineradiobox",
+    "country": "UAE",
+    "genres": [
+      "arabic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:57:57+05:30"
+  },
+  {
+    "id": "onlineradiobox_ae.gold1013",
+    "name": "Gold FM 1013",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/18800.v10.png",
+    "stream_url": "https://stream.radio.co/s00240810b/listen",
+    "website": "http://www.gold1013fm.com/",
+    "provider": "onlineradiobox",
+    "country": "UAE",
+    "genres": [
+      "pop",
+      "folk",
+      "funk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:54:56+05:30"
+  },
+  {
+    "id": "onlineradiobox_ae.gospirationalmusic",
+    "name": "GMIRADIO DUBAI",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/99996.v2.png",
+    "stream_url": "http://salttnetwork.com:8140/.mp3",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "UAE",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:57:04+05:30"
+  },
+  {
+    "id": "onlineradiobox_ae.gulf",
+    "name": "RAK Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/130427.v9.png",
+    "stream_url": "https://stream.chiliradio.app/gulfradio",
+    "website": "https://rakradio.ae/",
+    "provider": "onlineradiobox",
+    "country": "UAE",
+    "genres": [
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:57:10+05:30"
+  },
+  {
+    "id": "onlineradiobox_ae.hit967",
+    "name": "Hit 96.7",
+    "image": "https://cdn.onlineradiobox.com/img/logo/3/78343.png",
+    "stream_url": "https://stream.radiojar.com/3yygc0pwuueuv",
+    "website": "https://www.hit967.ae/",
+    "provider": "onlineradiobox",
+    "country": "UAE",
+    "genres": [
+      "tamil",
+      "malayalam"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:54:57+05:30"
+  },
+  {
+    "id": "onlineradiobox_ae.hits1",
+    "name": "Hits 1 E.A.U.",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/152204.v4.png",
+    "stream_url": "https://stream.hd1.hits1radio.com/?abou",
+    "website": "https://www.hits1radio.com/",
+    "provider": "onlineradiobox",
+    "country": "UAE",
+    "genres": [
+      "dance",
+      "electronic",
+      "pop",
+      "top40",
+      "latin",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:57:16+05:30"
+  },
+  {
+    "id": "onlineradiobox_ae.justjazzaljarreau",
+    "name": "Just Jazz - Al Jarreau",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/117935.v3.png",
+    "stream_url": "https://drive.uber.radio/uber/jjraljarreau/icecast.audio",
+    "website": "https://justjazz.radio/",
+    "provider": "onlineradiobox",
+    "country": "UAE",
+    "genres": [
+      "jazz"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:56:06+05:30"
+  },
+  {
+    "id": "onlineradiobox_ae.kadak",
+    "name": "Adtvmena",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/108648.v29.png",
+    "stream_url": "https://adtv.ae/en/radio?station=abu_dhabi_fm",
+    "website": "https://adtv.ae/",
+    "provider": "onlineradiobox",
+    "country": "UAE",
+    "genres": [
+      "pop",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:55:08+05:30"
+  },
+  {
+    "id": "onlineradiobox_ae.kinozal",
+    "name": "Кинозал.ТВ",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/131732.v2.png",
+    "stream_url": "https://myradio24.org/kinozaltv",
+    "website": "https://kinozal.tv/radio.php",
+    "provider": "onlineradiobox",
+    "country": "UAE",
+    "genres": [
+      "dance",
+      "pop",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:57:25+05:30"
+  },
+  {
+    "id": "onlineradiobox_ae.kpopmusic",
+    "name": "Kpop Music",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/129208.v4.png",
+    "stream_url": "https://stream.zeno.fm/zrckomf7prdtv",
+    "website": "https://zeno.fm/radio/kpop-music-ueuu/",
+    "provider": "onlineradiobox",
+    "country": "UAE",
+    "genres": [
+      "pop",
+      "k-pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:57:17+05:30"
+  },
+  {
+    "id": "onlineradiobox_ae.latinabandida",
+    "name": "Latina Bandida!",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/135221.v1.png",
+    "stream_url": "https://latina.streeemer.com/listen/latina/radio.aac",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "UAE",
+    "genres": [
+      "reggaeton",
+      "latin"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:57:13+05:30"
+  },
+  {
+    "id": "onlineradiobox_ae.love50s",
+    "name": "Love Radio - 50&#39;s",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/116680.v4.png",
+    "stream_url": "https://drive.uber.radio/uber/lr1950s/icecast.audio",
+    "website": "https://loveradio.love/",
+    "provider": "onlineradiobox",
+    "country": "UAE",
+    "genres": [
+      "pop",
+      "50s",
+      "love songs"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:55:01+05:30"
+  },
+  {
+    "id": "onlineradiobox_ae.luv",
+    "name": "Luv 107.1",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/127775.v1.png",
+    "stream_url": "https://funasia.streamguys1.com/live2",
+    "website": "https://luv1071.com/",
+    "provider": "onlineradiobox",
+    "country": "UAE",
+    "genres": [
+      "top40",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:56:06+05:30"
+  },
+  {
+    "id": "onlineradiobox_ae.mamsi",
+    "name": "Mamsi Live Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/147598.v1.png",
+    "stream_url": "https://listen.radioking.com/radio/731720/stream/797915",
+    "website": "https://www.mamsilive.com/",
+    "provider": "onlineradiobox",
+    "country": "UAE",
+    "genres": [
+      "dance"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:57:57+05:30"
+  },
+  {
+    "id": "onlineradiobox_ae.noeledmondsbillionzclub",
+    "name": "Noel Edmonds Billionz Club",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/148106.v2.png",
+    "stream_url": "https://drive.uber.radio/uber/noelsbillions/icecast.audio",
+    "website": "https://you.radio/",
+    "provider": "onlineradiobox",
+    "country": "UAE",
+    "genres": [
+      "pop",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:57:26+05:30"
+  },
+  {
+    "id": "onlineradiobox_ae.nursery",
+    "name": "Radio Nursery",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/18841.v4.png",
+    "stream_url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SAM04AAC281_SC?dist=onlineradiobox",
+    "website": "http://www.radionursery.com/",
+    "provider": "onlineradiobox",
+    "country": "UAE",
+    "genres": [
+      "children"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:57:11+05:30"
+  },
+  {
+    "id": "onlineradiobox_ae.optimist",
+    "name": "Радио Оптимист",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/94225.v2.png",
+    "stream_url": "https://myradio24.org/s383718",
+    "website": "https://www.radio-optimist.com/",
+    "provider": "onlineradiobox",
+    "country": "UAE",
+    "genres": [
+      "rock",
+      "pop",
+      "news"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:57:25+05:30"
+  },
+  {
+    "id": "onlineradiobox_ae.ouremirates",
+    "name": "Наши Эмираты / Our Emirates Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/110981.v1.png",
+    "stream_url": "http://nl1.streamingpulse.com:7062/stream.mp3",
+    "website": "http://www.ouremirates.ae/",
+    "provider": "onlineradiobox",
+    "country": "UAE",
+    "genres": [
+      "rock",
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:58:03+05:30"
+  },
+  {
+    "id": "onlineradiobox_ae.positivelymeditation",
+    "name": "Positively Meditation",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/90834.v4.png",
+    "stream_url": "https://streaming.positivity.radio/pr/posimeditation/icecast.audio",
+    "website": "https://positivity.radio/",
+    "provider": "onlineradiobox",
+    "country": "UAE",
+    "genres": [
+      "ambient"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:54:58+05:30"
+  },
+  {
+    "id": "onlineradiobox_ae.pravasibharathi",
+    "name": "Pravasi Bharathi",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/88770.v1.png",
+    "stream_url": "http://198.27.67.39:8000/pravasiradio.mp3",
+    "website": "http://www.pravasibharathi.com/",
+    "provider": "onlineradiobox",
+    "country": "UAE",
+    "genres": [
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:57:19+05:30"
+  },
+  {
+    "id": "onlineradiobox_ae.pulse95",
+    "name": "Pulse 95 Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/84567.v2.png",
+    "stream_url": "https://svs.itworkscdn.net/pulse95live/pulse96/playlist.m3u8",
+    "website": "https://www.pulse95radio.com/",
+    "provider": "onlineradiobox",
+    "country": "UAE",
+    "genres": [
+      "news",
+      "talk",
+      "sports",
+      "business",
+      "acoustic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:56:05+05:30"
+  },
+  {
+    "id": "onlineradiobox_ae.qunm",
+    "name": "Qunm Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/144892.v1.png",
+    "stream_url": "https://listen.radioking.com/radio/709592/stream/775127",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "UAE",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:58:01+05:30"
+  },
+  {
+    "id": "onlineradiobox_ae.quran",
+    "name": "Quran Radio From Sharjah",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/87476.v2.png",
+    "stream_url": "https://l3.itworkscdn.net/smcquranlive/quranradiolive/icecast.audio",
+    "website": "https://sba.net.ae/en/radio/channel/12",
+    "provider": "onlineradiobox",
+    "country": "UAE",
+    "genres": [],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:54:53+05:30"
+  },
+  {
+    "id": "onlineradiobox_ae.qurankareem882",
+    "name": "Quran Kareem 88.2",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/18738.v4.png",
+    "stream_url": "https://admdn7.cdn.mangomolo.com/quranrdo/quranrdo.stream_aac/playlist.m3u8",
+    "website": "http://www.adradio.ae/qurankareem/",
+    "provider": "onlineradiobox",
+    "country": "UAE",
+    "genres": [
+      "talk",
+      "arabic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:55:07+05:30"
+  },
+  {
+    "id": "onlineradiobox_ae.radio4",
+    "name": "Radio 4 FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/18761.v9.png",
+    "stream_url": "https://stream.radio.co/s6004eac2f/listen",
+    "website": "http://www.radio4fm.com/",
+    "provider": "onlineradiobox",
+    "country": "UAE",
+    "genres": [
+      "pop",
+      "bollywood",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:55:00+05:30"
+  },
+  {
+    "id": "onlineradiobox_ae.radiokeralam1476",
+    "name": "Radio Keralam 1476 AM",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/147471.v3.png",
+    "stream_url": "https://radiokeralam.com/",
+    "website": "https://radiokeralam.com/",
+    "provider": "onlineradiobox",
+    "country": "UAE",
+    "genres": [
+      "pop",
+      "news",
+      "indian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:56:13+05:30"
+  },
+  {
+    "id": "onlineradiobox_ae.radiosawa",
+    "name": "Radio Sawa",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/18995.v3.png",
+    "stream_url": "https://stream.radiojar.com/1w27tnzst5quv",
+    "website": "http://www.radiosawa.com/",
+    "provider": "onlineradiobox",
+    "country": "UAE",
+    "genres": [
+      "pop",
+      "news",
+      "talk",
+      "folk",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:55:59+05:30"
+  },
+  {
+    "id": "onlineradiobox_ae.rakrock",
+    "name": "RAK Rock Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/91573.v3.png",
+    "stream_url": "https://s5.radio.co/s7b588bca9/low",
+    "website": "https://www.rakrockradio.com/",
+    "provider": "onlineradiobox",
+    "country": "UAE",
+    "genres": [
+      "classic rock",
+      "blues",
+      "metal",
+      "indie",
+      "country",
+      "alternative",
+      "grunge"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:57:05+05:30"
+  },
+  {
+    "id": "onlineradiobox_ae.rocktheworldaltrock",
+    "name": "Rock The World - Alt Rock",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/134857.v1.png",
+    "stream_url": "https://drive.uber.radio/uber/rtwalt/icecast.audio",
+    "website": "https://rockradio.world/",
+    "provider": "onlineradiobox",
+    "country": "UAE",
+    "genres": [
+      "rock"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:57:19+05:30"
+  },
+  {
+    "id": "onlineradiobox_ae.rockuae",
+    "name": "Rock Radio UAE ",
+    "image": "https://cdn.onlineradiobox.com/img/logo/5/18905.png",
+    "stream_url": "http://fujmedia.dyndns.org:4427/rock",
+    "website": "http://www.rockradio.ae/",
+    "provider": "onlineradiobox",
+    "country": "UAE",
+    "genres": [
+      "rock"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:57:58+05:30"
+  },
+  {
+    "id": "onlineradiobox_ae.russianemirates",
+    "name": "Радио «Русские Эмираты»",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/91746.v2.png",
+    "stream_url": "http://a4.radioheart.ru:8041/RH32763",
+    "website": "http://radio.russianemirates.com/",
+    "provider": "onlineradiobox",
+    "country": "UAE",
+    "genres": [
+      "news",
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:57:18+05:30"
+  },
+  {
+    "id": "onlineradiobox_ae.sharjah",
+    "name": "Sharjah Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/18910.v4.png",
+    "stream_url": "https://l3.itworkscdn.net/smcradiolive/smcradiolive/icecast.audio",
+    "website": "https://sba.net.ae/ar/radio/channel/13",
+    "provider": "onlineradiobox",
+    "country": "UAE",
+    "genres": [
+      "talk",
+      "arabic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:55:03+05:30"
+  },
+  {
+    "id": "onlineradiobox_ae.shoma934",
+    "name": "Radio Shoma",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/19020.v5.png",
+    "stream_url": "https://stream.radiojar.com/rzcfw4cbsxquv",
+    "website": "https://www.radioshoma934.ae/",
+    "provider": "onlineradiobox",
+    "country": "UAE",
+    "genres": [
+      "news",
+      "arabic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:54:57+05:30"
+  },
+  {
+    "id": "onlineradiobox_ae.starboxsoul",
+    "name": "The Best Of Soul",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/118258.v7.png",
+    "stream_url": "https://drive.uber.radio/uber/starboxsoul/icecast.audio",
+    "website": "https://you.radio/",
+    "provider": "onlineradiobox",
+    "country": "UAE",
+    "genres": [
+      "pop",
+      "soul"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:56:00+05:30"
+  },
+  {
+    "id": "onlineradiobox_ae.suno1024",
+    "name": "Mirchi 1024",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/18894.v9.png",
+    "stream_url": "https://eu8.fastcast4u.com/proxy/clyedupq/?mp=/1",
+    "website": "https://www.mirchi.ae/",
+    "provider": "onlineradiobox",
+    "country": "UAE",
+    "genres": [
+      "bollywood"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:54:55+05:30"
+  },
+  {
+    "id": "onlineradiobox_ae.tag911",
+    "name": "Tag 91.1",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/18986.v5.png",
+    "stream_url": "https://stream.radiojar.com/bpv82qebsxquv",
+    "website": "http://tag911.ae/",
+    "provider": "onlineradiobox",
+    "country": "UAE",
+    "genres": [
+      "pop",
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:55:11+05:30"
+  },
+  {
+    "id": "onlineradiobox_ae.talk",
+    "name": "Talk 100.3",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/127777.v2.png",
+    "stream_url": "https://funasia.streamguys1.com/live13",
+    "website": "https://talk1003.ae/",
+    "provider": "onlineradiobox",
+    "country": "UAE",
+    "genres": [
+      "talk",
+      "sports"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:56:10+05:30"
+  },
+  {
+    "id": "onlineradiobox_ae.thegroovesociety",
+    "name": "The Groove Society Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/97329.v2.png",
+    "stream_url": "https://cf-hls-media.sndcdn.com/playlist/qMs31J4LBEby.128.mp3/playlist.m3u8",
+    "website": "https://thegroovesociety.com/",
+    "provider": "onlineradiobox",
+    "country": "UAE",
+    "genres": [
+      "dance",
+      "house",
+      "techno",
+      "chill-out"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:57:22+05:30"
+  },
+  {
+    "id": "onlineradiobox_ae.tiktokexclusive",
+    "name": "TikTok Trending",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/103241.v6.png",
+    "stream_url": "https://streaming.exclusive.radio/er/tiktoktrending/icecast.audio",
+    "website": "https://you.radio/",
+    "provider": "onlineradiobox",
+    "country": "UAE",
+    "genres": [
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:56:07+05:30"
+  },
+  {
+    "id": "onlineradiobox_ae.titterdubai",
+    "name": "Titter FM Dubai",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/18832.v2.png",
+    "stream_url": "http://64.150.176.9:8211/;",
+    "website": "http://twitterfm.fm/",
+    "provider": "onlineradiobox",
+    "country": "UAE",
+    "genres": [
+      "pop",
+      "news",
+      "arabic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:56:12+05:30"
+  },
+  {
+    "id": "onlineradiobox_ae.tzgospel",
+    "name": "Tzgospel swahili (Dubai)",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/120976.v6.png",
+    "stream_url": "https://mira.streamerr.co/radio/8170/dubai",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "UAE",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:58:00+05:30"
+  },
+  {
+    "id": "onlineradiobox_ae.vibe1054",
+    "name": "Vibe FM 105.4",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/124706.v2.png",
+    "stream_url": "https://media.streambrothers.com:8004/vfm",
+    "website": "https://www.vibe1054.com/",
+    "provider": "onlineradiobox",
+    "country": "UAE",
+    "genres": [
+      "bollywood",
+      "hindu"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:57:06+05:30"
+  },
+  {
+    "id": "onlineradiobox_ae.virgin",
+    "name": "Virgin Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/18769.v7.png",
+    "stream_url": "https://stream.radiojar.com/nhq0vcqwuueuv",
+    "website": "https://www.virginradiodubai.com/",
+    "provider": "onlineradiobox",
+    "country": "UAE",
+    "genres": [
+      "rock",
+      "pop",
+      "top40",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:54:57+05:30"
+  },
+  {
+    "id": "onlineradiobox_ae.vogueplayuae",
+    "name": "Vogue Play UAE",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/105698.v1.png",
+    "stream_url": "https://stream.zeno.fm/t5n4u4fb508uv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "UAE",
+    "genres": [
+      "pop",
+      "top40",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:56:08+05:30"
+  },
+  {
+    "id": "onlineradiobox_ae.voiceofislamradio",
+    "name": "صوت الإسلام",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/91809.v3.png",
+    "stream_url": "https://stream.zeno.fm/t5gkwva794zuv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "UAE",
+    "genres": [
+      "islamic",
+      "education",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:56:12+05:30"
+  },
+  {
+    "id": "onlineradiobox_ae.volnauae",
+    "name": "Volna UAE",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/129841.v2.png",
+    "stream_url": "https://de1.streamingpulse.com/ssl/radiovolna",
+    "website": "http://www.volna.ae/",
+    "provider": "onlineradiobox",
+    "country": "UAE",
+    "genres": [
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:56:14+05:30"
+  },
+  {
+    "id": "onlineradiobox_ae.vvip",
+    "name": "VVIP FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/18899.v3.png",
+    "stream_url": "https://p.scdn.co/mp3-preview/0d91999e92764983d3ee9cf99ea36c1d04c1a0f0?cid=a46f5c5745a14fbf826186da8da5ecc3",
+    "website": "http://www.vvip.co/",
+    "provider": "onlineradiobox",
+    "country": "UAE",
+    "genres": [
+      "r'n'b",
+      "hip-hop",
+      "soul"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:57:21+05:30"
+  },
+  {
+    "id": "onlineradiobox_ae.zayedforquraan",
+    "name": "Zayed Radio For Qura&#39;an",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/18998.v1.png",
+    "stream_url": "http://ccfz.dyndns.org:4427/zfm",
+    "website": "http://fcma.gov.ae/",
+    "provider": "onlineradiobox",
+    "country": "UAE",
+    "genres": [
+      "news",
+      "arabic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:56:03+05:30"
+  }
+]

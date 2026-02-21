@@ -1,0 +1,6305 @@
+[
+  {
+    "id": "onlineradiobox_tz.1fm",
+    "name": "Onefm radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/130565.v5.png",
+    "stream_url": "https://stream.zeno.fm/opykz6zuaayvv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:05:34+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.255global",
+    "name": "+255 Global Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/78248.v19.png",
+    "stream_url": "https://zas7.ndx.co.za:8026/stream",
+    "website": "https://globalpublishers.co.tz/",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:59:24+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.80svibe",
+    "name": "80sVibe",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/135029.v4.png",
+    "stream_url": "https://s28.myradiostream.com/29338/listen.mp3",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "pop",
+      "soul"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:08:17+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.abcglobal",
+    "name": "ABC Global Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/141095.v5.png",
+    "stream_url": "https://stream.zeno.fm/tvb2jrc38hmuv",
+    "website": "https://www.abcglobal.or.tz/radio",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:04:38+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.abcglobalimpact",
+    "name": "ABC Global Impact Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/118587.v3.png",
+    "stream_url": "http://hydra.shoutca.st:8127/stream",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:08:08+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.abm",
+    "name": "abm radio 91.2 fm Dodoma",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/134723.v1.png",
+    "stream_url": "https://stream.zeno.fm/frt0ofb2rrmuv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:07:13+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.abmfm",
+    "name": "ABM FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/144312.v3.png",
+    "stream_url": "https://cast1.my-control-panel.com/proxy/abmfm/abm",
+    "website": "https://www.ariseandshine-ministries.org/",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:06:20+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.abood",
+    "name": "Abood Fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/32273.v11.png",
+    "stream_url": "https://cast4.my-control-panel.com/proxy/rafopgr1/stream",
+    "website": "https://aboodmedia.co.tz/",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "pop",
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:00:27+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.access1009",
+    "name": "Access Fm 100.9Mhz",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/91708.v43.png",
+    "stream_url": "http://uk18freenew.listen2myradio.com:6209/;",
+    "website": "http://accessfm.co.tz/",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "news",
+      "talk",
+      "sports",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:00:34+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.adonaifm",
+    "name": "Adonai FM Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/151674.v2.png",
+    "stream_url": "https://play.radioking.io/adonai-fm-radio",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:05:29+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.afm",
+    "name": "AFM Radio 92.9",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/32097.v10.png",
+    "stream_url": "http://198.7.62.157:10056/stream",
+    "website": "http://www.afmradio.co.tz/",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "top40",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:00:29+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.afya",
+    "name": "Afya Radio Fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/125757.v1.png",
+    "stream_url": "https://cast4.my-control-panel.com/proxy/afyaradi/stream",
+    "website": "https://afyaradio.co.tz/",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "r'n'b",
+      "classic rock",
+      "jazz",
+      "reggae"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:05:24+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.aict",
+    "name": "Aict radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/144079.v1.png",
+    "stream_url": "https://stream.zeno.fm/zauxjkzm2o8uv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:58:35+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.am24",
+    "name": "AM24 Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/147288.v1.png",
+    "stream_url": "https://cast1.my-control-panel.com/proxy/livefm/live",
+    "website": "https://www.ariseandshine-ministries.org/",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:06:29+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.amen",
+    "name": "Radio Amen",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/127047.v5.png",
+    "stream_url": "https://servidor40.brlogic.com:7394/live",
+    "website": "https://redioamen.com/",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:02:40+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.amenradio",
+    "name": "Amen Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/122342.v14.png",
+    "stream_url": "http://cosmo.shoutca.st:8183/;",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:57:51+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.amka",
+    "name": "Amka Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/134448.v3.png",
+    "stream_url": "https://stream.zeno.fm/gjz9d9ha3cluv",
+    "website": "https://zeno.fm/radio/amka-radio-p1hf/",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:02:42+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.antennawebdodoma",
+    "name": "Antenna Web Dodoma",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/134851.v1.png",
+    "stream_url": "https://tinyurl.com/AntennaWebDodoma",
+    "website": "https://antennaweb.it/antennaweb-dodoma/",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "rock",
+      "pop",
+      "blues",
+      "jazz",
+      "funk",
+      "reggaeton"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:08:16+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.arushaone",
+    "name": "Arusha One Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/97657.v7.png",
+    "stream_url": "http://uk19freenew.listen2myradio.com:30332/stream",
+    "website": "https://arushaone.co.tz/",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "news",
+      "sports",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:59:22+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.babayao",
+    "name": "BABA YAO FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/136982.v4.png",
+    "stream_url": "https://stream.zeno.fm/ztjilv871a2uv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "dj",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:01:40+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.badilikohalisi",
+    "name": "Badiliko Halisi Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/124704.v4.png",
+    "stream_url": "https://stream.zeno.fm/oahhic3hkihuv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:09:06+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.balozi",
+    "name": "Balozi radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/112810.v2.png",
+    "stream_url": "https://stream.zeno.fm/x0m9cgk1nfhvv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:03:35+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.banana",
+    "name": "Banana FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/102615.v13.png",
+    "stream_url": "https://bananafm.radioca.st/stream",
+    "website": "https://bananafm.co.tz/",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "news",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:58:30+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.bariadi",
+    "name": "93.5 Mhz Bariadi Fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/143764.v11.png",
+    "stream_url": "https://stream.zeno.fm/tqtur1muie7tv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "pop",
+      "news",
+      "sports"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:01:50+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.bethel",
+    "name": "Bethel Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/31848.v31.png",
+    "stream_url": "https://a5.asurahosting.com:7290/radio.mp3",
+    "website": "https://bethelradio.co.tz/",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:57:40+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.bfm",
+    "name": "BFM RADIO 92.5",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/133843.v17.png",
+    "stream_url": "https://cast5.my-control-panel.com/proxy/bfmradio/stream",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:04:39+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.bigstarfm",
+    "name": "BIG STAR FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/120404.v7.png",
+    "stream_url": "http://88.150.230.110:16375/;",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "news",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:02:40+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.bion",
+    "name": "Bion Fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/129677.v1.png",
+    "stream_url": "https://stream.zeno.fm/akjeztb6vpftv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:09:06+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.blessedhope",
+    "name": "BLESSED HOPE FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/135482.v3.png",
+    "stream_url": "https://stream.zeno.fm/stdnnrjd6vwuv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "news",
+      "talk",
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:08:08+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.blessings",
+    "name": "Blessings FM Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/126812.v1.png",
+    "stream_url": "https://stream.zeno.fm/optlulikwnrvv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "news",
+      "talk",
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:06:29+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.bomba",
+    "name": "Bomba Fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/139857.v1.png",
+    "stream_url": "https://stream.zeno.fm/9pugtwcjq4stv",
+    "website": "https://zeno.fm/bomba-fm/",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:01:51+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.bomba1041",
+    "name": "Bomba Fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/144436.v2.png",
+    "stream_url": "https://cast1.my-control-panel.com/proxy/bombafm/bomba",
+    "website": "https://www.ariseandshine-ministries.org/",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:02:37+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.bombambeya",
+    "name": "Bomba Fm Radio",
+    "image": "https://cdn.onlineradiobox.com/img/logo/6/142456.png",
+    "stream_url": "http://s9.myradiostream.com:46740/listen.mp3",
+    "website": "https://bombafm.co.tz/",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "news",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:07:20+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.bongo",
+    "name": "Bongo Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/31850.v5.png",
+    "stream_url": "http://173.244.208.77:9000/bongo.mp3/;",
+    "website": "http://www.bongoradio.com/",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "r'n'b",
+      "hip-hop",
+      "reggae",
+      "african"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:58:31+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.bongobeat",
+    "name": "BongoBeat",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/146221.v1.png",
+    "stream_url": "https://bongoflava.out.airtime.pro/bongoflava_a",
+    "website": "https://bongoflava.airtime.pro/",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "dance",
+      "hip-hop",
+      "afro beat"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:09:58+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.bongoexclusive",
+    "name": "Bongo Exclusive",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/128763.v1.png",
+    "stream_url": "https://stream.zeno.fm/mkx5bg9pounvv",
+    "website": "https://bongoexclusivetv.com/",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "news",
+      "easy listening",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:08:53+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.bongothrowback",
+    "name": "Radio Ngamia",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/124740.v21.png",
+    "stream_url": "https://stream.zeno.fm/tyri2rpbpzwtv",
+    "website": "https://www.radiongamia.co.tz/",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "talk",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:00:40+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.boresha",
+    "name": "Boresha Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/79380.v8.png",
+    "stream_url": "https://halo.streamerr.co/listen/radio_boresha/radio.mp3",
+    "website": "https://boresha.or.tz/",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "african"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:57:43+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.brand",
+    "name": "Brand FM Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/153432.v6.png",
+    "stream_url": "http://s41.myradiostream.com:39818/;",
+    "website": "https://brandfmradio.carrd.co/",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "news",
+      "talk",
+      "african",
+      "entertainment",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:09:03+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.bs",
+    "name": "Bs Radio Tanzania",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/132068.v40.png",
+    "stream_url": "http://hyades.shoutca.st:8040/;",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:00:27+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.buha",
+    "name": "Buha FM Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/139318.v4.png",
+    "stream_url": "https://stream.zeno.fm/raqbtgmjb5ivv",
+    "website": "https://www.buhanews.co.tz/",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "news",
+      "sports",
+      "culture"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:09:02+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.bunda",
+    "name": "Bunda Fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/105146.v18.png",
+    "stream_url": "https://cast4.my-control-panel.com/proxy/rafopgro/stream",
+    "website": "http://bundafm.co.tz/",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "news",
+      "talk",
+      "sports",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:05:27+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.caanan",
+    "name": "NCHI YA AHADI RADIO",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/116622.v7.png",
+    "stream_url": "https://stream.zeno.fm/m15eapfacxhvv",
+    "website": "https://zeno.fm/radio/nchi-y-a-ahadi-radio/",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:01:46+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.care901",
+    "name": "Care Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/125421.v4.png",
+    "stream_url": "https://stream.zeno.fm/ew90v6lzp6uvv",
+    "website": "https://carefm.mystrikingly.com/",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:07:16+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.carefm",
+    "name": "care fm radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/132898.v1.png",
+    "stream_url": "https://stream.zeno.fm/q4r7xpwu8cstv",
+    "website": "https://zeno.fm/radio/carefmradio/",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:07:23+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.cfm",
+    "name": "CFM Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/104228.v38.png",
+    "stream_url": "https://c2.radioboss.fm/stream/1127",
+    "website": "http://www.cfm.co.tz/",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:59:24+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.cg",
+    "name": "CG FM Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/32093.v8.png",
+    "stream_url": "http://live2.rcast.net:8590/;stream.mp3",
+    "website": "http://www.cgfmradio.co.tz/",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "news",
+      "sports"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:59:22+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.chabo",
+    "name": "Chaboz online radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/114916.v13.png",
+    "stream_url": "https://stream.zeno.fm/3nv1wwh5srhvv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:06:21+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.chakula",
+    "name": "Chakula Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/119030.v5.png",
+    "stream_url": "http://cressida.shoutca.st:8095/stream?type=http&nocache=7",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:59:25+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.chalinze",
+    "name": "Chalinze FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/135467.v3.png",
+    "stream_url": "https://radio.chalinzefm.co.tz/chalinze-fm",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "community"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:03:42+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.champion",
+    "name": "Champion FM Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/140495.v3.png",
+    "stream_url": "https://a12.asurahosting.com/listen/champion_fm_radio/radio.mp3",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:08:56+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.charisma",
+    "name": "Charisma Fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/136079.v2.png",
+    "stream_url": "https://stream.zeno.fm/izjrq7cssrtuv",
+    "website": "https://zeno.fm/radio/charismafm/",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:04:40+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.chipuka",
+    "name": "Chipuka Fm Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/143636.v1.png",
+    "stream_url": "http://uk17freenew.listen2myradio.com:17065/;",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "talk",
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:06:30+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.christcentred",
+    "name": "Christ Centred",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/147212.v12.png",
+    "stream_url": "https://stream.zeno.fm/qbkzmglbnb9vv",
+    "website": "https://www.christcentred.co.tz/",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:09:46+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.christian",
+    "name": "Christian FM Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/122264.v11.png",
+    "stream_url": "https://stream.zeno.fm/d9wlidcxq9qtv",
+    "website": "https://zeno.fm/radio/christian-fm-radio/",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "talk",
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:08:09+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.cityfm",
+    "name": "City FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/138150.v3.png",
+    "stream_url": "https://ins3.radiolize.com/radio/8160/radio.mp3",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "community"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:09:04+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.click",
+    "name": "Click Fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/148449.v1.png",
+    "stream_url": "https://listen.radioking.com/radio/734105/stream/800399",
+    "website": "https://clickfm.co.tz/",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:09:03+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.clouds",
+    "name": "Clouds FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/31841.v10.png",
+    "stream_url": "http://eu6.fastcast4u.com:5306/;",
+    "website": "http://cloudsmedia.co.tz/",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:57:38+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.colorsconnect",
+    "name": "Colors Connect",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/81504.v3.png",
+    "stream_url": "https://listen.colorsconnect.radio/listen/colors_connect_online_radio/radio.mp3",
+    "website": "https://www.colorsconnect.radio/",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "r'n'b",
+      "pop",
+      "hip-hop",
+      "reggae",
+      "african"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:03:43+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.completemeal",
+    "name": "Complete Meal",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/141279.v1.png",
+    "stream_url": "https://stream.zeno.fm/eijfbhyxwwsvv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:05:36+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.cross",
+    "name": "Cross Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/144144.v1.png",
+    "stream_url": "https://azuralive.streams.ovh/listen/crosstanzania/radio.mp3",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:06:25+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.crown",
+    "name": "Crown FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/134750.v12.png",
+    "stream_url": "https://radio.crownmedia.co.tz:8443/crown",
+    "website": "https://www.crownmedia.co.tz/",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "r'n'b",
+      "pop",
+      "top40",
+      "adult contemporary",
+      "afropop",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:57:38+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.dafani",
+    "name": "Msisimko Fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/139632.v6.png",
+    "stream_url": "https://stream.zeno.fm/uuyq0wpvf48uv",
+    "website": "https://msisimkomedia.github.io/Msisimkomedia/#msisimkofm",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:09:47+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.darasa",
+    "name": "Metro Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/80720.v19.png",
+    "stream_url": "https://stream.zeno.fm/s53v017yr5quv",
+    "website": "https://www.metroradio.co.tz/",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "r'n'b",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:02:42+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.dartaarifa",
+    "name": "Dartaarifa.Fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/126399.v1.png",
+    "stream_url": "https://stream.zeno.fm/spgwhxhabgkvv",
+    "website": "https://zeno.fm/radio/dartaarifa-fm/",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "hip-hop",
+      "oldies",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:04:30+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.dealplus",
+    "name": "Deal Plus",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/108142.v5.png",
+    "stream_url": "https://stream.zeno.fm/x7fe33amc78uv",
+    "website": "https://www.mdukuzi.blogspot.com/",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "r'n'b",
+      "jazz",
+      "hip-hop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:02:38+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.deliverance",
+    "name": "Deliverance Radio Kahama",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/133306.v4.png",
+    "stream_url": "https://stream.zeno.fm/mtrcigb9yhitv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "talk",
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:03:36+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.deliveranceradio",
+    "name": "Deliverance Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/148578.v3.png",
+    "stream_url": "https://studio.loovacast.com/listen/deliverance_radio/radio.mp3",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:07:18+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.deliverence",
+    "name": "Deliverence fm radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/153718.v1.png",
+    "stream_url": "https://cast3.asurahosting.com/proxy/jesusdel/stream",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:08:05+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.dfm",
+    "name": "DFM Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/136002.v3.png",
+    "stream_url": "https://stream.zeno.fm/fygodpmrgcquv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:08:11+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.dfmradio",
+    "name": "Disciples&#39; Network Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/136673.v2.png",
+    "stream_url": "https://listen.radioking.com/radio/474527/stream/530720",
+    "website": "http://www.disciplesnetwork.or.tz/",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:00:42+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.dige",
+    "name": "DIGE FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/138658.v1.png",
+    "stream_url": "https://a9.asurahosting.com:7860/radio.mp3",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "r'n'b",
+      "news",
+      "hip-hop",
+      "country",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:10:24+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.disciplesfellowship",
+    "name": "Disciples_fellowship",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/145093.v2.png",
+    "stream_url": "https://stream.zeno.fm/rv49xungim1vv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:09:50+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.divine",
+    "name": "Divine Radio FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/116763.v5.png",
+    "stream_url": "https://streamlive2.hearthis.at:8000/10321602.ogg?time=1658498168",
+    "website": "https://www.divineradiofm.co.tz/",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:00:31+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.dmc",
+    "name": "Dmc Fm Arusha",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/152644.v6.png",
+    "stream_url": "http://uk18freenew.listen2myradio.com:34113/;",
+    "website": "https://dmcfm.radiostream321.com/",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:10:26+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.dodoma",
+    "name": "Dodoma FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/110225.v8.png",
+    "stream_url": "https://radiotadio.co.tz/dodoma-fm-stream",
+    "website": "http://dodomafm.co.tz/",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "news",
+      "talk",
+      "sports",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:02:40+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.dreamfm",
+    "name": "Dream FM Mbeya",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/139293.v6.png",
+    "stream_url": "http://199.115.115.71:8000/stream",
+    "website": "https://www.dreamfm.co.tz/",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "news",
+      "sports",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:09:59+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.dvdntitu",
+    "name": "Dvd ntitu",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/128230.v12.png",
+    "stream_url": "http://uk26freenew.listen2myradio.com:30988/;",
+    "website": "https://dvdnti2.radio12345.com/",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "news",
+      "talk",
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:08:06+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.eastafrica",
+    "name": "East Africa Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/31834.v2.png",
+    "stream_url": "https://eatv.radioca.st/stream",
+    "website": "http://www.eastafricaradio.com/",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "pop",
+      "hip-hop",
+      "african"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:57:43+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.ebony",
+    "name": "ebony Fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/139858.v1.png",
+    "stream_url": "https://stream.zeno.fm/zedt9fv1w0hvv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:59:29+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.efm",
+    "name": "E-FM Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/32089.v19.png",
+    "stream_url": "https://efmradio-atunwadigital.streamguys1.com/efmradio",
+    "website": "http://efm.co.tz/",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "news",
+      "talk",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:57:40+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.eku",
+    "name": "Eku fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/114266.v7.png",
+    "stream_url": "https://stream.zeno.fm/yazm2pc8schvv",
+    "website": "https://zeno.fm/radio/eku-radio-fm/",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "talk",
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:08:09+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.empafrica",
+    "name": "Emp Africa Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/149180.v3.png",
+    "stream_url": "https://stream.zeno.fm/k1g6btpjeg8vv",
+    "website": "http://www.empafricaradio.co.tz/",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "news",
+      "talk",
+      "sports"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:04:33+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.faraja",
+    "name": "Radio Faraja",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/140757.v7.png",
+    "stream_url": "http://uk16freenew.listen2myradio.com:11436/;",
+    "website": "https://farajafm.co.tz/",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "news"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:09:57+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.favouromega",
+    "name": "Favour Radio Omega",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/139447.v1.png",
+    "stream_url": "https://favour-radio.radiocult.fm/stream",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "news",
+      "talk",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:08:53+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.firefire",
+    "name": "Fire Fire Radio Fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/154111.v1.png",
+    "stream_url": "https://stream.zeno.fm/y0obehxe5irtv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:08:16+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.flamingo",
+    "name": "FLAMINGO FM RADIO",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/138885.v3.png",
+    "stream_url": "http://uk3-vn.mixstream.net:8166/;listen.mp3",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "news",
+      "education",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:08:12+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.fungua",
+    "name": "Fungua Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/140011.v1.png",
+    "stream_url": "http://65.108.124.70:7435/stream",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:07:17+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.furaha",
+    "name": "Radio Furaha FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/136676.v4.png",
+    "stream_url": "http://s40.myradiostream.com:23222/;listen.mp3",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "community"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:06:33+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.furaha909",
+    "name": "Furaha Fm 90.9",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/150520.v2.png",
+    "stream_url": "http://37.157.242.104:38208/;",
+    "website": "https://www.furahafm.com/",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "pop",
+      "gospel",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:09:51+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.galaxy",
+    "name": "Galaxy FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/138268.v3.png",
+    "stream_url": "https://cast.az-streamingserver.com/proxy/widjmqxq/stream",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "news",
+      "adult contemporary",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:00:26+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.globify",
+    "name": "Globify Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/122580.v6.png",
+    "stream_url": "https://stream.zeno.fm/b6h8lppd3auuv",
+    "website": "https://globify-tz.com/",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "news",
+      "sports",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:59:34+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.gloriousnewness",
+    "name": "Glorious Newness Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/148122.v3.png",
+    "stream_url": "https://a11.asurahosting.com:7360/radio.mp3",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:08:15+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.gmcl",
+    "name": "GMCL FM Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/141442.v10.png",
+    "stream_url": "http://uk3freenew.listen2myradio.com:17179/;",
+    "website": "https://gmclfmradio.co.tz/",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:07:22+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.gold",
+    "name": "GOLD FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/105706.v19.png",
+    "stream_url": "http://uk6freenew.listen2myradio.com:11576/;",
+    "website": "http://goldfm.co.tz/",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "news",
+      "sports",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:58:41+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.goldenchance",
+    "name": "Golden Chance Fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/149747.v4.png",
+    "stream_url": "https://servidor15.brlogic.com:7148/live",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "news",
+      "sports",
+      "gospel",
+      "politics"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:05:35+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.gombo",
+    "name": "Gombo FM Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/118348.v5.png",
+    "stream_url": "https://stream.zeno.fm/03hodwuxrqgvv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "talk",
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:08:15+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.gospelclinic",
+    "name": "Gospel Clinic",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/102243.v4.png",
+    "stream_url": "https://studio29.radiolize.com/radio/8100/radio.mp3",
+    "website": "https://gospelclinic.co.tz/",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:02:48+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.gospelpower",
+    "name": "Gospel Power Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/135339.v4.png",
+    "stream_url": "https://stream.zeno.fm/o17ib5o4t51vv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:03:44+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.gospo",
+    "name": "Gospo Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/106760.v4.png",
+    "stream_url": "https://s5.radio.co/s7c6d7357d/listen",
+    "website": "https://gosporadio.co.tz/",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:10:00+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.greatness",
+    "name": "Greatness Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/144254.v1.png",
+    "stream_url": "https://stream.zeno.fm/zw462zewhweuv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "news",
+      "talk",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:09:56+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.gusa",
+    "name": "Gusa Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/149367.v3.png",
+    "stream_url": "https://radio.gusa.tz:8000/radio.mp3",
+    "website": "https://gusa.tz/gusa-radio/",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:07:21+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.h1017",
+    "name": "HFM",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/137374.v1.png",
+    "stream_url": "https://s38.myradiostream.com/15892/listen.mp3",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:58:38+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.habari",
+    "name": "Habari FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/138508.v3.png",
+    "stream_url": "https://edge.mixlr.com/channel/vaavc",
+    "website": "https://habarifm.blogspot.com/p/home_18.html?m=0",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "news",
+      "education"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:04:35+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.habarimaalum",
+    "name": "Habari Maalum Fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/153149.v1.png",
+    "stream_url": "http://uk4freenew.listen2myradio.com:11242/;",
+    "website": "https://habarimaalummedia.or.tz/",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:59:35+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.habarinjema",
+    "name": "Habari Njema Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/119907.v9.png",
+    "stream_url": "https://uk4-vn.mixstream.net/8084/;listen.mp3",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "talk",
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:59:28+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.haleluya",
+    "name": "Haleluya Fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/134674.v12.png",
+    "stream_url": "http://37.157.242.101:15817/;",
+    "website": "https://haleluyatv.co.tz/",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "christian",
+      "gospel",
+      "christian contemporary",
+      "spiritual"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:06:28+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.harvesttime",
+    "name": "Harvest time FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/135568.v1.png",
+    "stream_url": "https://stream.zeno.fm/qeihoogcpukvv",
+    "website": "https://zeno.fm/radio/harvest-time-fm/",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "news",
+      "talk",
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:05:27+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.hatma",
+    "name": "Hatma FM Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/142242.v2.png",
+    "stream_url": "https://s18.myradiostream.com/13488/listen.mp3",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:57:50+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.healing",
+    "name": "Healing fm 105.5",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/144528.v2.png",
+    "stream_url": "http://uk6freenew.listen2myradio.com:24397/stream",
+    "website": "https://abcglobalplatform.com/",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:05:37+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.heaven",
+    "name": "Heaven FM Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/113590.v14.png",
+    "stream_url": "https://stream.zeno.fm/utrzcfw72hhvv",
+    "website": "https://linktr.ee/Heavenfmradio",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "news",
+      "talk",
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:59:28+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.heavenchoiceradio",
+    "name": "heaven choice radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/147375.v2.png",
+    "stream_url": "https://a11.asurahosting.com:7160/radio.mp3",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:09:53+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.herickanthonymakere",
+    "name": "Testimony Gospel Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/132714.v5.png",
+    "stream_url": "https://a4.asurahosting.com:7590/radio.mp3",
+    "website": "https://testimonygospelradio.com/",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:05:25+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.hfm",
+    "name": "HFM",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/133488.v3.png",
+    "stream_url": "http://streamlive1.hearthis.at:8080/10899101.ogg",
+    "website": "https://www.hfm.co.tz/",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "news",
+      "sports",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:07:15+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.hidaya",
+    "name": "Radio Hidaya",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/128155.v1.png",
+    "stream_url": "https://stream.ibadalive.com/8026/stream",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "islamic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:05:36+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.hidaya945",
+    "name": "Radio Hidaya",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/131306.v2.png",
+    "stream_url": "https://stream.zeno.fm/zkp3volsgi5vv",
+    "website": "http://hidayafmradio.blogspot.com/",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "islamic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:03:34+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.highlands",
+    "name": "Highlands Fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/124416.v2.png",
+    "stream_url": "http://freeuk18.listen2myradio.com:26133/;",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "news"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:10:25+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.hill",
+    "name": "LIVING WATER",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/110279.v19.png",
+    "stream_url": "https://stream.zeno.fm/zlkq7draiiduv",
+    "website": "https://livingwaterfmradio.co.tz/",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:58:42+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.hope",
+    "name": "Hope Fm 98.1",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/111505.v2.png",
+    "stream_url": "https://stream.zeno.fm/um3eu3tbrchvv",
+    "website": "https://www.uoi.ac.tz/",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:01:50+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.hopelandarusha",
+    "name": "hopeland radio arusha",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/150255.v1.png",
+    "stream_url": "http://uk20freenew.listen2myradio.com:22074/;",
+    "website": "http://hopelandonlineradio.radio12345.com/",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:06:23+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.hopesabbath",
+    "name": "Hope Sabbath Fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/143624.v6.png",
+    "stream_url": "https://stream.zeno.fm/wyp3plpubyitv",
+    "website": "https://zeno.fm/radio/hope-sabbath-fm/",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:05:33+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.houseofholyspirit",
+    "name": "HHS FM Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/132016.v13.png",
+    "stream_url": "https://stream.zeno.fm/h6o86th9meduv",
+    "website": "https://zeno.fm/radio/hhs-fm-radio/",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:04:38+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.ice995",
+    "name": "Ice Fm Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/127120.v2.png",
+    "stream_url": "http://78.129.185.84:15225/;",
+    "website": "https://www.icefm.co.tz/",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "community"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:03:42+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.ideafm",
+    "name": "Idea fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/144313.v3.png",
+    "stream_url": "https://cast1.my-control-panel.com/proxy/ideafm/idea",
+    "website": "https://www.ariseandshine-ministries.org/",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:05:33+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.idreams",
+    "name": "Idreams Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/108582.v3.png",
+    "stream_url": "https://stream.zeno.fm/8v1ryskru98uv",
+    "website": "https://zeno.fm/idreamsradio/",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:09:04+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.ilasi",
+    "name": "ILASI RADIO FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/72278.v10.png",
+    "stream_url": "https://stream.zeno.fm/t52pqhxjtxuvv",
+    "website": "https://zeno.fm/radio/ilasi-fm-radio/",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:02:46+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.imbanasi",
+    "name": "ImbaNasi",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/118351.v6.png",
+    "stream_url": "https://stream.zeno.fm/dsfhivkawjiuv",
+    "website": "https://imbanasi.com/",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:58:30+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.ination",
+    "name": "I Nation Fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/98413.v2.png",
+    "stream_url": "https://stream.zeno.fm/7y5hws600f8uv",
+    "website": "https://zeno.fm/radio/i-nation-fm/",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:03:34+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.inland",
+    "name": "Inland Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/139866.v5.png",
+    "stream_url": "https://stream.zeno.fm/g56qqyp6ckhvv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:00:40+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.ipm",
+    "name": "IPM REDIO ONLINE",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/131634.v1.png",
+    "stream_url": "https://stream.zeno.fm/uzmr1yuvhnktv",
+    "website": "https://zeno.fm/radio/ipm-redio-online/",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:06:19+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.ishizwe",
+    "name": "Ishizwe Fm Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/134993.v3.png",
+    "stream_url": "https://stream.zeno.fm/hwietfyurcvvv",
+    "website": "https://ishizwemedia.co.tz/",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:00:41+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.j",
+    "name": "Favor Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/136800.v27.png",
+    "stream_url": "https://a4.asurahosting.com:6730/radio.mp3",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:57:46+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.jago",
+    "name": "Jago Fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/124256.v2.png",
+    "stream_url": "https://stream.zeno.fm/efqed30gmpxuv",
+    "website": "https://zeno.fm/radio/jago-fm1/",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:06:22+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.jambo",
+    "name": "Jambo FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/126955.v3.png",
+    "stream_url": "https://cast3.asurahosting.com/proxy/jambocom/stream",
+    "website": "https://jambocommunication.co.tz/",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:01:47+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.jamii",
+    "name": "Jamii Fm Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/110176.v10.png",
+    "stream_url": "https://radiotadio.co.tz/jamii-fm-stream",
+    "website": "https://radiotadio.co.tz/",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "news"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:03:38+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.jembe",
+    "name": "Jembe Fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/81267.v17.png",
+    "stream_url": "https://cast3.asurahosting.com/proxy/jembemed/stream",
+    "website": "https://www.jembenijembe.com/",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "pop",
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:59:23+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.jesusnews",
+    "name": "Jesus News Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/148085.v4.png",
+    "stream_url": "https://azuracast.streams.ovh/listen/jnradio/radio.mp3",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:00:35+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.jiji",
+    "name": "JIJI RADIO",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/126047.v3.png",
+    "stream_url": "https://stream.zeno.fm/cislmcickyptv",
+    "website": "https://jijiradio.co.tz/",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:01:49+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.jipate",
+    "name": "Jipate Fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/139844.v1.png",
+    "stream_url": "https://stream.zeno.fm/33kkpa2wcfhvv",
+    "website": "https://zeno.fm/radio/jipate-fm/",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "talk",
+      "gospel",
+      "community"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:09:56+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.jitambueforums",
+    "name": "Jitambueforums Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/125130.v2.png",
+    "stream_url": "https://stream.zeno.fm/mrrmbnnueqjtv",
+    "website": "https://linktr.ee/jitambueforums",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "talk",
+      "education"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:03:33+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.jogoo",
+    "name": "Jogoo FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/75271.v15.png",
+    "stream_url": "https://audio.cloudrad.io/abab9db3/live",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "r'n'b"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:57:52+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.joy",
+    "name": "Radio Joy Fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/133551.v5.png",
+    "stream_url": "https://radiotadio.co.tz/joy-fm-stream",
+    "website": "https://radiojoyfm.co.tz/",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "news",
+      "talk",
+      "sports"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:04:36+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.juhudi",
+    "name": "Radio Juhudi",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/141196.v8.png",
+    "stream_url": "http://uk4freenew.listen2myradio.com:36611/stream",
+    "website": "http://radiojuhudi.radio12345.com/",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:07:13+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.k9",
+    "name": "K9 FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/146236.v2.png",
+    "stream_url": "https://stream.zeno.fm/crg9qh3i3wduv",
+    "website": "https://ishizwemedia.co.tz/",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:03:36+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.kahama",
+    "name": "Kahama FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/72279.v13.png",
+    "stream_url": "http://78.129.193.82:22798/;",
+    "website": "https://kahamafm.co.tz/",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "news",
+      "talk",
+      "sports"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:03:34+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.kasibante",
+    "name": "Kasibante FM Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/72280.v5.png",
+    "stream_url": "http://s26.myradiostream.com:20788/listen.mp3",
+    "website": "http://macmedianews.com/",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:04:39+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.kazi",
+    "name": "Kazi FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/124089.v6.png",
+    "stream_url": "https://stream.zeno.fm/kq04e0gk8rhvv",
+    "website": "http://kazifm.co.tz/",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "top40",
+      "dj",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:01:50+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.keshenimkiomba",
+    "name": "Kesheni Mkiomba Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/121857.v12.png",
+    "stream_url": "https://cast1.asurahosting.com/proxy/kesheni1/stream",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:05:35+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.kgt",
+    "name": "KGT Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/97251.v12.png",
+    "stream_url": "https://stream.zeno.fm/p46rpn6cyy8uv",
+    "website": "https://zeno.fm/radio/kgt-hits/",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "news",
+      "talk",
+      "hip-hop",
+      "sports"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:58:36+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.kichekolive",
+    "name": "Radio Kicheko Live",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/105511.v5.png",
+    "stream_url": "https://stream.zeno.fm/hg18dkfn1v8uv",
+    "website": "https://radiokicheko.co.tz/",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "news",
+      "sports",
+      "gospel",
+      "education"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:58:29+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.kicora",
+    "name": "Kicora Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/140647.v3.png",
+    "stream_url": "http://uk3-vn.mixstream.net:8140/;listen.mp3",
+    "website": "https://www.kicorafm.co.tz/",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "news",
+      "sports"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:08:55+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.kili",
+    "name": "KILI FM RADIO 87.5",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/120615.v20.png",
+    "stream_url": "https://radio.kilifm.co.tz/kilifm-3",
+    "website": "https://kilifm.co.tz/",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "news"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:59:26+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.kilimanjarorevival",
+    "name": "Kilimanjaro Revival FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/135543.v12.png",
+    "stream_url": "http://uk3freenew.listen2myradio.com:7235/;",
+    "website": "https://krfmradio.radiostream123.com/",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "news",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:02:43+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.kings",
+    "name": "Kings FM Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/32263.v12.png",
+    "stream_url": "https://kingsfm.radioca.st/stream",
+    "website": "http://www.kingsfm.co.tz/",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "r'n'b",
+      "african",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:59:30+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.kipitionline",
+    "name": "Kipiti Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/103503.v7.png",
+    "stream_url": "https://stream.zeno.fm/7ebq5q3tcv8uv",
+    "website": "https://zeno.fm/kipiti-online-radio/",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:03:38+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.kiss",
+    "name": "Kiss FM Tanzania",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/81503.v5.png",
+    "stream_url": "https://s3.radio.co/sbe50ddddb/listen",
+    "website": "http://www.kissfm.co.tz/",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "pop",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:58:37+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.kitimezamazile",
+    "name": "Kitime Zamazile Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/153032.v1.png",
+    "stream_url": "https://cast1.asurahosting.com/proxy/kitimemu/stream",
+    "website": "https://www.kitimemusicmuseum.co.tz/",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:59:34+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.klptboko",
+    "name": "Klpt Boko Online Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/136681.v2.png",
+    "stream_url": "https://stream.zeno.fm/hggiwcsamelvv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:05:28+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.kulola",
+    "name": "Kulola FM Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/118591.v4.png",
+    "stream_url": "https://stream.zeno.fm/gguuwi06bcntv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:01:47+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.kwizera",
+    "name": "Radio Kwizera",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/31835.v8.png",
+    "stream_url": "http://uk4-vn.mixstream.net:8052/;",
+    "website": "https://radiokwizera.co.tz/",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:57:48+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.kyela961",
+    "name": "Kyela Fm Radio 96.1 Mhz Mbeya",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/108165.v6.png",
+    "stream_url": "https://edge.mixlr.com/channel/ehipp",
+    "website": "http://mixlr.com/kyela-fm-radio-961-mhz",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "business",
+      "community"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:00:28+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.leoafrica",
+    "name": "Leo Africa Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/139963.v2.png",
+    "stream_url": "https://stream.zeno.fm/rzhzzd7bcc6uv",
+    "website": "https://zeno.fm/radio/leo-africa-radio/",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:06:27+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.libo",
+    "name": "Libo Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/80503.v14.png",
+    "stream_url": "https://stream.zeno.fm/kaxma3iiyanuv",
+    "website": "https://zeno.fm/radio/libo-mediatz/",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:01:51+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.liquid",
+    "name": "GM Fm Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/150316.v19.png",
+    "stream_url": "http://uk19freenew.listen2myradio.com:31984/;",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "dance",
+      "r'n'b",
+      "reggae",
+      "bongo",
+      "afro beat"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:09:57+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.lrcm",
+    "name": "LRCM Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/152266.v2.png",
+    "stream_url": "https://a8.asurahosting.com:8950/radio.mp3",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:07:25+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.lushoto",
+    "name": "Lushoto FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/141008.v2.png",
+    "stream_url": "https://stream.zeno.fm/b2zs0de6eubuv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "news",
+      "talk",
+      "community"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:09:58+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.m",
+    "name": "M Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/151635.v6.png",
+    "stream_url": "http://95.154.196.37:34662/;",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "news",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:09:02+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.m24",
+    "name": "M24Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/153563.v2.png",
+    "stream_url": "http://uk17freenew.listen2myradio.com:16318/;",
+    "website": "http://m24radio.radiostream123.com/",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:06:28+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.machesha",
+    "name": "MACHESHA FM RADIO",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/136530.v53.png",
+    "stream_url": "http://uk14freenew.listen2myradio.com:18423/;",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "news",
+      "sports",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:03:44+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.main",
+    "name": "Main FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/129754.v1.png",
+    "stream_url": "https://stream.zeno.fm/qqrh9ehcxr4vv",
+    "website": "https://mainfm.co.tz/",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:00:36+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.maipac",
+    "name": "Maipac fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/143435.v1.png",
+    "stream_url": "https://stream.zeno.fm/sm0ukswfuj2vv",
+    "website": "https://www.maipac.or.tz/",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:08:13+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.maishahalisi",
+    "name": "Maisha Halisi  Online Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/121281.v4.png",
+    "stream_url": "https://stream.zeno.fm/io6y29jznwzuv",
+    "website": "https://zeno.fm/radio/maisha-halisi-online-radio/",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:09:05+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.majimaji",
+    "name": "Majimaji FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/133505.v5.png",
+    "stream_url": "https://streamlive2.hearthis.at:8000/10900257.ogg",
+    "website": "https://hearthis.at/majimaji-fm-songea/live/",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "news"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:00:41+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.malkiachoice",
+    "name": "Malkia Choice Fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/153451.v1.png",
+    "stream_url": "https://usa20.fastcast4u.com:2690/;?type=http&nocache=1766324999",
+    "website": "http://www.malkiachoicefm.co.tz/",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:05:36+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.malula",
+    "name": "Malula FM Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/123543.v3.png",
+    "stream_url": "https://stream.zeno.fm/rkyantx08r5uv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:06:31+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.mamlaka",
+    "name": "Mamlaka Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/154109.v1.png",
+    "stream_url": "https://stream.radio.co/s84bac3ee8/listen",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:06:23+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.manukato",
+    "name": "Ufunuo Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/94028.v10.png",
+    "stream_url": "https://stream.zeno.fm/pebd18dpw4zuv",
+    "website": "https://zeno.fm/radio/ufunuo-radio-tz/",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:00:33+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.maria",
+    "name": "Radio Maria",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/31831.v7.png",
+    "stream_url": "https://dreamsiteradiocp2.com/proxy/rmtanzania2?mp=/stream?ver=679444",
+    "website": "http://www.radiomaria.co.tz/",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:57:41+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.mashujaa",
+    "name": "Mashujaa Fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/133503.v8.png",
+    "stream_url": "http://5.252.53.77:8120/radio.mp3",
+    "website": "https://mashujaafm.co.tz/",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "news",
+      "sports",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:08:58+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.mazingira",
+    "name": "Mazingira Fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/109554.v5.png",
+    "stream_url": "https://radiotadio.co.tz/mazingira-fm-stream",
+    "website": "https://www.mazingirafm.co.tz/",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "news",
+      "education"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:58:41+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.mbeya",
+    "name": "Creative Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/139691.v14.png",
+    "stream_url": "http://uk14freenew.listen2myradio.com:34353/;",
+    "website": "http://creativefmtz.radio12345.com/",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "sports",
+      "culture",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:07:25+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.mbeya893",
+    "name": "Mbeya Fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/140498.v5.png",
+    "stream_url": "http://uk4freenew.listen2myradio.com:10080/;",
+    "website": "http://mbeyafm.radio12345.com/",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "news",
+      "sports",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:05:30+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.mbinguduniani",
+    "name": "Mbingu Duniani Fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/130812.v7.png",
+    "stream_url": "https://stream.zeno.fm/sx1rtiepnwitv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:57:40+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.mcc",
+    "name": "Mcc Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/150282.v3.png",
+    "stream_url": "http://uk26freenew.listen2myradio.com:20825/;",
+    "website": "http://mcc.radio.co.tz/",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:08:14+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.megaone",
+    "name": "Mega One Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/145280.v1.png",
+    "stream_url": "https://s13.myradiostream.com/41688/listen.mp3",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:09:49+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.messiah",
+    "name": "Messiah Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/132314.v3.png",
+    "stream_url": "https://servidor24.brlogic.com:7084/live",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:10:27+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.midundoonline",
+    "name": "Midundo Online Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/112851.v3.png",
+    "stream_url": "http://midundo.fauluhost.co.tz:8000/_a",
+    "website": "https://www.midundoradio.co.tz/",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "african"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:01:43+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.mimossa",
+    "name": "Mimossa Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/116576.v3.png",
+    "stream_url": "https://stream.zeno.fm/10e0vmsqkxhvv",
+    "website": "https://zeno.fm/radio/mimossa-radio/",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:06:32+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.mira",
+    "name": "Mira Fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/146981.v3.png",
+    "stream_url": "https://s1.citrus3.com:2000/stream/mirafm",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "r'n'b",
+      "hip-hop",
+      "afropop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:08:11+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.mjimkuu",
+    "name": "Mji Mkuu FM Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/126497.v1.png",
+    "stream_url": "https://stream.zeno.fm/w0wxhdvhoi8tv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "news",
+      "talk",
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:03:39+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.mkisi",
+    "name": "Mkisi Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/138180.v2.png",
+    "stream_url": "https://stream.zeno.fm/cwhkr4fugdbvv",
+    "website": "https://mkisidigitaltz.com/",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:02:45+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.mkombozi",
+    "name": "Mkombozi Fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/146676.v3.png",
+    "stream_url": "http://uk26freenew.listen2myradio.com:37896/;",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:07:24+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.mlchristian",
+    "name": "Ml Christian Radio home of Champion",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/116210.v13.png",
+    "stream_url": "https://stream.zeno.fm/xzfg6cyyreovv",
+    "website": "https://zeno.fm/radio/ml-christian-radio-home-of-champion/",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:01:42+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.moon255",
+    "name": "Tarime FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/127067.v7.png",
+    "stream_url": "https://stream.zeno.fm/h0gmu02zpu8tv",
+    "website": "https://zeno.fm/radio/moon-255-radio/",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:01:51+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.morningstar",
+    "name": "Morning Star Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/32086.v7.png",
+    "stream_url": "https://stream.zeno.fm/4aq1th23pvduv",
+    "website": "https://zeno.fm/radio/morning-star-radio-master-input-station/",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "pop",
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:57:47+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.moroonline",
+    "name": "Moro Online Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/92693.v5.png",
+    "stream_url": "https://stream.zeno.fm/15vv25cpg5zuv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:00:24+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.moshi",
+    "name": "Moshi FM Radio 90.7Mhz",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/115135.v11.png",
+    "stream_url": "http://uk21freenew.listen2myradio.com:19751/;",
+    "website": "http://www.moshifm.co.tz/",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "news",
+      "sports",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:04:35+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.mpanda",
+    "name": "Mpanda Radio fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/139873.v2.png",
+    "stream_url": "https://radiotadio.co.tz/mpanda-fm-stream",
+    "website": "https://mpandaradio.co.tz/",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "community"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:03:41+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.mt",
+    "name": "MT Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/147081.v2.png",
+    "stream_url": "https://mtradio.online:8443/main",
+    "website": "https://mtradio.online/",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "news",
+      "talk",
+      "adult contemporary",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:07:25+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.mtawala",
+    "name": "Mtawala Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/121093.v7.png",
+    "stream_url": "http://mtawalaradio.online:8000/main",
+    "website": "http://mtawalaradio.online/",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "talk",
+      "adult contemporary",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:59:30+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.mungukwanza",
+    "name": "Mungu Kwanza",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/103514.v3.png",
+    "stream_url": "https://mungukwanza.radioca.st/;",
+    "website": "https://mungukwanza.com/",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:57:39+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.must",
+    "name": "Must Fm Mbeya",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/141480.v19.png",
+    "stream_url": "http://78.129.252.13:21396/;",
+    "website": "http://mustfmmby.radiostream321.com/",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:10:28+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.mustleadgroup",
+    "name": "MUSTLEAD ONLINE RADIO",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/114658.v4.png",
+    "stream_url": "https://stream.zeno.fm/b5my1dvyaphvv",
+    "website": "https://mustleadgroup.com/",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "education"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:08:54+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.mwalukasa",
+    "name": "Mwalukasa Fm Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/117596.v3.png",
+    "stream_url": "https://stream.zeno.fm/3gtan29ag0hvv",
+    "website": "https://zeno.fm/radio/mwalukasa-fm-radionkscn29ag0hvv/",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:05:24+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.mwanakondoo",
+    "name": "Mwanakondoo Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/135342.v2.png",
+    "stream_url": "https://a8.my-control-panel.com:8020/radio.mp3",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:03:43+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.mwanakwetu",
+    "name": "Mwanakwetu",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/148508.v1.png",
+    "stream_url": "https://s134.radiolize.com/radio/8030/radio.mp3",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "politics"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:06:26+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.n957",
+    "name": "N-FM Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/136877.v1.png",
+    "stream_url": "http://uk4-vn.mixstream.net:8338/;listen.mp3",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:59:29+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.ndingala",
+    "name": "Ndingala Fm 93.3 Mhz",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/144049.v15.png",
+    "stream_url": "https://stream.zeno.fm/t6ix0hg3hypuv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "news",
+      "sports",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:01:44+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.nelsonmandela",
+    "name": "Nelson Mandela FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/135727.v2.png",
+    "stream_url": "http://41.93.85.231:5000/;",
+    "website": "http://nm-aist.ac.tz/",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:10:00+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.neno",
+    "name": "Neno Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/102672.v5.png",
+    "stream_url": "https://stream.zeno.fm/6vx19kexgs8uv",
+    "website": "https://zeno.fm/radio/neno-radio/",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "talk",
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:00:39+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.nenolamaarifa",
+    "name": "Neno la Maarifa Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/139764.v1.png",
+    "stream_url": "https://cast5.asurahosting.com/proxy/obed/stream",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:06:26+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.nenolaushindi",
+    "name": "Neno La Ushindi",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/143941.v6.png",
+    "stream_url": "https://stream.zeno.fm/0uak5jomztcvv",
+    "website": "https://zeno.fm/radio/neno-la-ushindi/",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:03:40+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.nenomo",
+    "name": "Dy International",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/102873.v5.png",
+    "stream_url": "https://stream.zeno.fm/253yemexgs8uv",
+    "website": "https://zeno.fm/dy-international/",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "talk",
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:03:35+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.newala",
+    "name": "Newala FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/151357.v2.png",
+    "stream_url": "http://uk18freenew.listen2myradio.com:15045/;",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "dance",
+      "r'n'b",
+      "pop",
+      "jazz",
+      "hip-hop",
+      "gospel",
+      "afro beat"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:09:01+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.newlife967",
+    "name": "New Life Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/148492.v2.png",
+    "stream_url": "http://95.154.196.37:35937/;",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:07:17+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.njiwa",
+    "name": "Njiwa Online Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/114596.v4.png",
+    "stream_url": "https://stream.zeno.fm/kk4huth58nhvv",
+    "website": "https://zeno.fm/radio/njiwa-online-radio/",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:02:39+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.nlc",
+    "name": "TUNDUMA NLC FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/135867.v9.png",
+    "stream_url": "https://stream.zeno.fm/7kriqk7jht4uv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "news",
+      "talk",
+      "gospel",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:58:35+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.nurunaiangaze",
+    "name": "Nuru Naiangaze Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/133466.v20.png",
+    "stream_url": "https://a2.asurahosting.com:6110/radio.mp3",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:57:50+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.nuruyawatu",
+    "name": "Nuru ya Watu FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/136898.v1.png",
+    "stream_url": "https://stream.zeno.fm/nn7crjdltvqtv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "news",
+      "talk",
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:07:22+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.nyu",
+    "name": "Nyu Fm Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/89885.v8.png",
+    "stream_url": "http://uk24freenew.listen2myradio.com:15025/;",
+    "website": "https://nyu.radiostream321.com/",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "christian contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:05:31+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.ogkitambo",
+    "name": "OG KITAMBO",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/135766.v2.png",
+    "stream_url": "http://uk9freenew.listen2myradio.com:34446/;",
+    "website": "http://ogkitambo1.com/",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "dance",
+      "african",
+      "gospel",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:08:57+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.okoa",
+    "name": "Okoa Fm Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/128630.v3.png",
+    "stream_url": "https://cast5.asurahosting.com/proxy/okoafmok/stream",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "news",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:08:56+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.okoataifa",
+    "name": "Injili Okoa Taifa Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/128594.v82.png",
+    "stream_url": "http://hydra.shoutca.st:8197/;",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:04:37+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.okokaleo",
+    "name": "Okoka Leo Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/127712.v1.png",
+    "stream_url": "https://stream.zeno.fm/okj4fau8e60tv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "christian",
+      "gospel",
+      "spiritual"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:08:14+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.onairchurchmedia",
+    "name": "On Air Church Media",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/134518.v2.png",
+    "stream_url": "https://stream.zeno.fm/4a73xnfmgxuuv",
+    "website": "https://zeno.fm/radio/0n-air-church-radio",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:09:00+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.oneam",
+    "name": "RadioOne",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/31856.v7.png",
+    "stream_url": "https://radioonetanzania.radioca.st/stream",
+    "website": "http://www.radio1.co.tz/",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "pop",
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:57:44+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.onlineprayer",
+    "name": "Online Prayer Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/150406.v3.png",
+    "stream_url": "https://studio.loovacast.com/listen/online_prayer_radio/radio.mp3",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:04:31+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.ops",
+    "name": "Ops Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/143826.v1.png",
+    "stream_url": "https://a6.asurahosting.com:6930/radio.mp3",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:00:35+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.pambazuko",
+    "name": "Pambazuko Fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/144386.v2.png",
+    "stream_url": "https://radiotadio.co.tz/pambazuko-fm-radio-stream",
+    "website": "https://radiotadio.co.tz/pambazukofmradio/",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "sports",
+      "education",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:05:31+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.parachichi",
+    "name": "Parachichi Fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/136812.v2.png",
+    "stream_url": "https://stream.zeno.fm/4r9qcoe2dd0uv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:09:59+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.passion",
+    "name": "Passion Fm 96.1",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/114028.v5.png",
+    "stream_url": "https://stream.zeno.fm/9f8pg7qqsnhvv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "talk",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:02:44+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.passion961",
+    "name": "Passion FM 96.1",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/147258.v1.png",
+    "stream_url": "https://stream.zeno.fm/jocsewf5ji7tv",
+    "website": "https://zeno.fm/radio/passion-fm-dar/",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "christian",
+      "education",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:08:05+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.pathfinder",
+    "name": "Pathfinder Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/137506.v1.png",
+    "stream_url": "https://s63.radiolize.com:8000/radio.mp3",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:09:47+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.peace",
+    "name": "Peace Fm Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/116510.v3.png",
+    "stream_url": "https://stream.zeno.fm/y7csnyf3dxhvv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "news",
+      "gospel",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:07:19+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.penuel",
+    "name": "PenuelFM",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/132017.v8.png",
+    "stream_url": "http://uk17freenew.listen2myradio.com:34684/;",
+    "website": "https://penuelfm105.radio12345.com/",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "news",
+      "talk",
+      "sports",
+      "gospel",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:09:48+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.planet875",
+    "name": "Planetfm",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/128426.v3.png",
+    "stream_url": "https://cast.az-streamingserver.com/proxy/ucuwmjfy/stream",
+    "website": "https://planetfm.co.tz/",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:59:24+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.point",
+    "name": "Point FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/140240.v11.png",
+    "stream_url": "https://stream.zeno.fm/rmlh17iq1ibvv",
+    "website": "https://pointfm.co.tz/",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "news",
+      "talk",
+      "entertainment",
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:05:26+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.popup",
+    "name": "POP—UP Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/131591.v2.png",
+    "stream_url": "https://popupradio.radioca.st/;",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:03:37+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.power",
+    "name": "DP Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/147426.v6.png",
+    "stream_url": "https://azuracast.streams.ovh/listen/dpradio/radio.mp3",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:04:34+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.ptn",
+    "name": "Dr PTN Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/122835.v3.png",
+    "stream_url": "https://drptn.com/80.php",
+    "website": "https://drptn.com/radio",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:10:27+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.qfm",
+    "name": "QFM",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/133586.v8.png",
+    "stream_url": "https://stream.zeno.fm/h33vf45bxptvv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:07:12+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.qiblaten",
+    "name": "Qiblaten FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/32268.v5.png",
+    "stream_url": "https://s36.myradiostream.com:20772/;",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "islamic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:01:52+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.radio5",
+    "name": "Radio 5 Fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/84831.v15.png",
+    "stream_url": "http://41.59.200.210:8000/stream",
+    "website": "https://www.radio5fm.co.tz/",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "news",
+      "sports",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:01:48+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.radiokheri",
+    "name": "Radio Kheri",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/132985.v2.png",
+    "stream_url": "http://s19.myradiostream.com:19894/listen.mp3",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "islamic",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:08:59+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.radiomissionaries",
+    "name": "Radiomissionaries Tanzania",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/141017.v2.png",
+    "stream_url": "https://stream.zeno.fm/mx8o3lmmlnwvv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:10:24+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.radionguvuyamaombi",
+    "name": "Nguvu Ya Maombi",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/137669.v15.png",
+    "stream_url": "https://stream.zeno.fm/audqogef9hetv",
+    "website": "https://www.nguvuyamaombi.co.tz/",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:00:30+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.rafiki",
+    "name": "Rafiki FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/120449.v18.png",
+    "stream_url": "http://82.145.63.6:4819/;",
+    "website": "http://www.rafikifm.co.tz/",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "news",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:01:48+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.refocus",
+    "name": "Refocus FM Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/127769.v1.png",
+    "stream_url": "https://stream.zeno.fm/f2ovjecvieetv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "talk",
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:00:37+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.refukerewe",
+    "name": "REF-FM Ukerewe",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/135508.v2.png",
+    "stream_url": "https://ref_fm_ukerewe.streampartner.nl/live?type=.mp3",
+    "website": "https://ref-fmukerewe.com/index.php",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "pop",
+      "news"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:04:37+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.rehobothifmtz",
+    "name": "Rehoboth Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/118275.v17.png",
+    "stream_url": "https://rehobothi.radioca.st/;",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:58:40+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.rehobothmedia",
+    "name": "Rehoboth Media",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/135592.v3.png",
+    "stream_url": "http://uk11freenew.listen2myradio.com:9021/;",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:06:27+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.revival",
+    "name": "Revival Fm Tz",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/134507.v4.png",
+    "stream_url": "https://stream.zeno.fm/5hvztf4o9b4uv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:59:33+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.rhodesia",
+    "name": "HERO RADIO",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/136822.v31.png",
+    "stream_url": "https://a2.asurahosting.com:6790/radio.mp3",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "news",
+      "gospel",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:00:37+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.rhumbamusic",
+    "name": "Rhumba Music Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/117476.v11.png",
+    "stream_url": "https://stream.zeno.fm/ahs3fs3yipwuv",
+    "website": "https://zeno.fm/radio/rhumba-music-radio-9udt/",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:59:23+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.rufaida",
+    "name": "Rufaida  Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/140558.v7.png",
+    "stream_url": "https://stream.zeno.fm/m7vd2bccn9quv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "islamic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:59:27+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.rungwe",
+    "name": "Rungwe Fm Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/151283.v4.png",
+    "stream_url": "http://95.154.196.37:20108/;",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "news",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:05:34+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.ruvuma",
+    "name": "Ruvuma Fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/146871.v1.png",
+    "stream_url": "http://37.157.242.103:10535/;",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "news",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:07:20+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.sachita",
+    "name": "Sachita FM 88.1 MHz",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/89398.v18.png",
+    "stream_url": "https://cast1.asurahosting.com/proxy/sachita/live",
+    "website": "https://sachitaradio.or.tz/",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:02:45+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.safari",
+    "name": "Safari Media",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/49043.v22.png",
+    "stream_url": "http://41.59.206.28:88/broadwave.mp3",
+    "website": "http://www.safarimedia.co.tz/",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "pop",
+      "news",
+      "talk",
+      "african"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:58:39+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.safina925",
+    "name": "Safina Radio Fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/153176.v1.png",
+    "stream_url": "https://s9.myradiostream.com:46284/;",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:58:34+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.salamba",
+    "name": "Salamba Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/153573.v5.png",
+    "stream_url": "https://radio-backend.salambatv.com/listen/salambaradio/live",
+    "website": "https://radio.salambatv.com/",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "sports"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:06:24+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.salemonline",
+    "name": "Salem Online Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/129048.v4.png",
+    "stream_url": "https://stream.zeno.fm/ar45qguznfhvv",
+    "website": "https://www.mbeziluislutheran.co.tz/",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:10:28+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.salvatio",
+    "name": "Salvation Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/116537.v10.png",
+    "stream_url": "http://37.157.242.101:17581/;",
+    "website": "http://salvation.radiostream321.com/",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "pop",
+      "news"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:02:46+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.sama",
+    "name": "sama online radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/138684.v1.png",
+    "stream_url": "https://stream.zeno.fm/af1kemnxonauv",
+    "website": "https://zeno.fm/radio/sama-online-radio/",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "talk",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:08:07+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.sautiyainjil",
+    "name": "Sauti ya Injil",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/31846.v9.png",
+    "stream_url": "http://sautiyainjili.de:6801/;",
+    "website": "http://www.elct.org/TechServ/Radio/RVOGSITE/documents/index.html",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "talk",
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:57:50+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.sautiyainjili",
+    "name": "Redio Sauti ya Injili",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/129897.v3.png",
+    "stream_url": "http://212.227.150.101:6801/;",
+    "website": "https://www.sautiyainjili.or.tz/",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "gospel",
+      "education",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:58:37+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.sautiyaquran",
+    "name": "Radio Sauti Ya Qur&#39;an",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/128028.v2.png",
+    "stream_url": "https://stream.zeno.fm/igtk1anecmcvv",
+    "website": "https://www.sautiyaquranfm.co.tz/",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:09:05+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.sautiyawatanzania",
+    "name": "Sauti Ya Watanzania",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/128468.v1.png",
+    "stream_url": "https://stream.ibadalive.com/8028/stream",
+    "website": "https://sautiyawatanzaniaw.wixsite.com/sautiyawatanzania",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "education"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:01:41+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.savetalent",
+    "name": "Savetalent FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/141230.v5.png",
+    "stream_url": "https://listen.radioking.com/radio/696887/stream/761798",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:01:43+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.savior",
+    "name": "Savior Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/97882.v8.png",
+    "stream_url": "https://stream.zeno.fm/6rbvecezmrpuv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:04:33+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.savvy",
+    "name": "Savvy FM Arusha",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/118936.v4.png",
+    "stream_url": "https://stream.zeno.fm/tkh85wpzznhvv",
+    "website": "https://savvymediagroup.co.tz/",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "news",
+      "sports"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:02:43+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.sethmedia",
+    "name": "Seth Media",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/150576.v3.png",
+    "stream_url": "http://16155.cloudrad.io:9176/live",
+    "website": "http://www.sethmedia.co.tz/",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "news",
+      "talk",
+      "sports",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:05:32+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.shalom",
+    "name": "Shalom Radio Arusha",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/133317.v4.png",
+    "stream_url": "http://uk3-vn.mixstream.net:8144/;",
+    "website": "https://shalomfm.co.tz/",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:57:45+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.shamba",
+    "name": "Shamba Fm Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/116031.v15.png",
+    "stream_url": "http://uk17freenew.listen2myradio.com:37553/;",
+    "website": "https://shambafm.co.tz/",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "news",
+      "sports",
+      "culture",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:02:41+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.shammah",
+    "name": "Shammah Fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/139178.v2.png",
+    "stream_url": "https://stream.rcast.net/71593",
+    "website": "https://www.shammahradio.co.tz/",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "news",
+      "talk",
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:58:29+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.sheddysnewlook",
+    "name": "Sheddy&#39;s New Look",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/126414.v2.png",
+    "stream_url": "https://stream.zeno.fm/vqnyakyfpkhvv",
+    "website": "http://sheddysnewlook.org/",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "r'n'b"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:08:58+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.shiners",
+    "name": "Shiner&#39;s Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/121747.v4.png",
+    "stream_url": "https://stream.zeno.fm/zxnvlashme1tv",
+    "website": "https://zeno.fm/radio/shiners-radio/",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:02:48+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.sibuka945",
+    "name": "Sibuka Fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/143741.v7.png",
+    "stream_url": "https://cast1.my-control-panel.com/proxy/sibukafm/sibuka",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:57:42+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.signature",
+    "name": "Signature fm Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/140824.v3.png",
+    "stream_url": "https://stream.zeno.fm/3wmr8qqkv20vv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:07:14+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.simulizihub",
+    "name": "Simulizi Hub Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/148137.v1.png",
+    "stream_url": "https://stream.zeno.fm/bolydetbmceuv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:06:18+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.sinai",
+    "name": "Sinai Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/152423.v2.png",
+    "stream_url": "https://servidor38.brlogic.com:7106/live",
+    "website": "https://sinaitz.com/",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:08:15+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.site",
+    "name": "Site Fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/143352.v1.png",
+    "stream_url": "https://stream.zeno.fm/pl2y0chu4i4vv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:04:34+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.spice",
+    "name": "Spice FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/128824.v6.png",
+    "stream_url": "https://zbc.go.tz:8443/spice",
+    "website": "http://www.zbc.go.tz/",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:00:43+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.sqf",
+    "name": "SQF Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/151116.v1.png",
+    "stream_url": "https://a7.asurahosting.com:7960/radio.mp3",
+    "website": "https://www.samequalitiesfoundation.org/",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "community"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:04:36+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.st.albansonline",
+    "name": "St. Alban&#39;s Online Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/116091.v4.png",
+    "stream_url": "http://hydra.shoutca.st:8014/stream",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:03:41+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.startergospel",
+    "name": "Homina Gospel Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/79623.v23.png",
+    "stream_url": "http://uk5freenew.listen2myradio.com:15602/;",
+    "website": "https://hominaradiofm.co.tz/",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:01:45+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.stationbeta",
+    "name": "Station Beta",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/113039.v7.png",
+    "stream_url": "https://stream.zeno.fm/zr2aezq05hhvv",
+    "website": "https://beta.co.ke/",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "pop",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:04:29+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.stationbetaafrica",
+    "name": "Station Beta Africa",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/125165.v1.png",
+    "stream_url": "https://stream.zeno.fm/nrskiapm9qpvv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "pop",
+      "top40",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:10:29+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.stormtanzania",
+    "name": "Storm FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/72275.v11.png",
+    "stream_url": "http://199.115.115.71:10018/stream",
+    "website": "http://stormfm.co.tz/",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "pop",
+      "talk",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:00:25+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.streetone",
+    "name": "Street One Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/31853.v15.png",
+    "stream_url": "https://listen.openstream.co/5234/audio",
+    "website": "https://streetoneradio.com/",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "pop",
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:01:46+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.success",
+    "name": "Success Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/106733.v1.png",
+    "stream_url": "https://stream.zeno.fm/crbrdx5zbg0uv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:59:31+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.suluhu",
+    "name": "Suluhu Online",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/129782.v4.png",
+    "stream_url": "https://stream.zeno.fm/m2gp06hiydotv",
+    "website": "https://suluhumedia.blogspot.com/",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "pop",
+      "news",
+      "sports"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:01:48+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.sunrise",
+    "name": "Sunrise Radio Arusha",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/122870.v13.png",
+    "stream_url": "http://102.219.204.201:8000/sunrise",
+    "website": "https://www.sunriseradio.co.tz/",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "news",
+      "sports",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:02:47+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.sunsee",
+    "name": "sunsee fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/134461.v5.png",
+    "stream_url": "https://stream.zeno.fm/pjyrau0imf3uv",
+    "website": "https://zeno.fm/radio/sunsee-fm/",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:02:44+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.sweet",
+    "name": "Sweet Fm 90.5",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/150258.v7.png",
+    "stream_url": "http://16245.cloudrad.io:9202/live",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "news",
+      "talk",
+      "sports",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:06:32+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.tabasamu",
+    "name": "tabasamu radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/144577.v1.png",
+    "stream_url": "https://stream.zeno.fm/ogctn00gespuv",
+    "website": "https://zeno.fm/radio/tabasamu-radio",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:04:37+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.tamu",
+    "name": "Tamu Fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/130718.v7.png",
+    "stream_url": "https://stream.zeno.fm/dcomssbgoumtv",
+    "website": "https://tamufm.com/",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:02:39+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.tanakh",
+    "name": "Tanakh FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/133610.v17.png",
+    "stream_url": "http://uk24freenew.listen2myradio.com:22288/;",
+    "website": "https://tanakhfm.radiostream123.com/",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:59:33+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.tasisi",
+    "name": "Tasisi FM Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/123544.v2.png",
+    "stream_url": "https://stream.zeno.fm/bmzisyaqdsruv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:09:57+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.tbcarusha",
+    "name": "TBC Arusha",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/146778.v1.png",
+    "stream_url": "https://fpsnew1.listen2myradio.com:2199/listen.php?ip=82.145.63.6&port=9137&type=s2&mount=1",
+    "website": "https://www.tbc.go.tz/",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "pop",
+      "news",
+      "talk",
+      "ethnic",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:06:30+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.tbctaifa",
+    "name": "TBC Taifa",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/31837.v11.png",
+    "stream_url": "https://a4.asurahosting.com:8210/radio.mp3",
+    "website": "http://www.tbc.go.tz/",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "pop",
+      "news",
+      "african"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:58:31+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.tff",
+    "name": "TFF Online",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/151661.v1.png",
+    "stream_url": "http://uk15freenew.listen2myradio.com:22211/;",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "football"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:07:24+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.tffdigital",
+    "name": "TFF DIGITAL",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/151348.v4.png",
+    "stream_url": "http://uk17freenew.listen2myradio.com:26812/;",
+    "website": "https://tffdigital.radiostream321.com/",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "football"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:08:07+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.tffonline",
+    "name": "TFF Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/90183.v31.png",
+    "stream_url": "https://edge.mixlr.com/channel/ofrkn",
+    "website": "https://mixlr.com/tffonlineradio",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "sports"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:58:36+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.thevoice",
+    "name": "The Voice Radio Tz",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/146861.v8.png",
+    "stream_url": "https://a11.asurahosting.com:6710/radio.mp3",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:57:51+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.times",
+    "name": "Times FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/31854.v21.png",
+    "stream_url": "https://stream.zeno.fm/3aorzyvpaymuv",
+    "website": "http://www.timesfm.tz/",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "sports"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:59:22+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.tk885",
+    "name": "Tk Fm 88.5 Tanga",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/73848.v28.png",
+    "stream_url": "http://109.169.15.21:17049/;stream.mp3",
+    "website": "http://www.tangakunani.co.tz/",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "r'n'b",
+      "pop",
+      "news",
+      "hip-hop",
+      "sports"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:01:44+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.togan",
+    "name": "Togan fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/104408.v1.png",
+    "stream_url": "https://stream.zeno.fm/hm255tmmsv8uv",
+    "website": "https://toganmedia.blogspot.com/",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "news",
+      "sports",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:05:28+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.topfm",
+    "name": "Top fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/144311.v3.png",
+    "stream_url": "https://cast1.my-control-panel.com/proxy/topfm/top",
+    "website": "https://www.ariseandshine-ministries.org/",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:02:43+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.tower",
+    "name": "Tower Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/123589.v2.png",
+    "stream_url": "https://stream.zeno.fm/3bllsdnvrnvvv",
+    "website": "https://zeno.fm/radio/tower-radio-7i1w/",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "news",
+      "sports"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:09:00+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.triple",
+    "name": "Triple A Fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/109387.v1.png",
+    "stream_url": "https://radiotadio.co.tz/triple-a-fm-stream",
+    "website": "https://radiotadio.co.tz/tripleafm",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:01:52+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.tunduma",
+    "name": "Tunduma FM Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/113191.v4.png",
+    "stream_url": "https://stream.zeno.fm/c3q1ab7b2hhvv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:03:39+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.tzgospel",
+    "name": "Tzgospel Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/104977.v60.png",
+    "stream_url": "https://stream.zeno.fm/ex6ng25chfhvv",
+    "website": "https://tzgospel1.blogspot.com/",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "news",
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:57:42+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.uhai",
+    "name": "Radio Uhai",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/74084.v7.png",
+    "stream_url": "https://s2.citrus3.com:8050/stream",
+    "website": "http://radiouhai.co.tz/",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:58:40+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.uhuru",
+    "name": "Uhuru FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/32090.v13.png",
+    "stream_url": "https://s5.myradiostream.com/42756/listen.mp3",
+    "website": "https://uhurumedia.co.tz/",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "pop",
+      "talk",
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:58:40+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.uinjilishaji",
+    "name": "Amani Radio Fm 100.5MHz",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/135918.v14.png",
+    "stream_url": "http://uk20freenew.listen2myradio.com:26479/;",
+    "website": "https://arusha-archdiocese.or.tz/",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "christian",
+      "gospel",
+      "christian contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:09:54+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.ukomboziwafamilia",
+    "name": "Ukombozi Wa Familia Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/113535.v6.png",
+    "stream_url": "https://a11.asurahosting.com:8920/radio.mp3",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:58:43+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.umoja",
+    "name": "Umoja Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/128339.v1.png",
+    "stream_url": "https://stream.zeno.fm/gifgb1bkcysvv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "news",
+      "talk",
+      "politics"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:06:20+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.upatanisho",
+    "name": "Upatanisho Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/153606.v1.png",
+    "stream_url": "https://cast1.asurahosting.com/proxy/hemalaup/stream",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:03:32+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.upendo",
+    "name": "Upendo FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/31839.v8.png",
+    "stream_url": "http://s12.myradiostream.com:8186/;",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:57:49+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.uplands",
+    "name": "Uplands Fm Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/109763.v16.png",
+    "stream_url": "http://uk19freenew.listen2myradio.com:6548/;",
+    "website": "https://uplandsfm.co.tz/",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "news",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:58:32+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.uponyaji",
+    "name": "Uponyaji Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/147795.v4.png",
+    "stream_url": "https://azuracast.myautodj.com/listen/station_8035_1765345100/radio.mp3",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:01:41+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.upward",
+    "name": "Upward Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/126580.v3.png",
+    "stream_url": "https://stream.zeno.fm/fmn9bagw7wxuv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:03:43+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.usajiliwetu",
+    "name": "usajiliwetu",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/152498.v3.png",
+    "stream_url": "http://uk14freenew.listen2myradio.com:19166/stream",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:09:53+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.utukufu",
+    "name": "Slava fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/136621.v12.png",
+    "stream_url": "https://servidor32.brlogic.com:7080/live",
+    "website": "https://www.utukufufm.com/",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "news",
+      "gospel",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:08:57+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.utume973",
+    "name": "Utume Fm Radio 97.3mhz",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/107465.v6.png",
+    "stream_url": "http://uk7freenew.listen2myradio.com:20178/;",
+    "website": "https://utumefmradiomubashara.radio12345.com/",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "spiritual"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:00:33+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.uvinza",
+    "name": "Uvinza FM Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/108618.v5.png",
+    "stream_url": "http://usa1-vn.mixstream.net:8090/;listen.mp3",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "r'n'b",
+      "classic",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:05:26+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.uzimanakweli",
+    "name": "Uzima na Kweli FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/145831.v1.png",
+    "stream_url": "https://stream.zeno.fm/buzvdrm7doqtv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:09:49+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.vog",
+    "name": "V.O.G Ministry Online Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/131345.v4.png",
+    "stream_url": "https://stream.zeno.fm/9pnhzqsj3ujtv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:58:33+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.voice",
+    "name": "Voice FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/116936.v22.png",
+    "stream_url": "http://streamlive1.hearthis.at:8080/10921035.ogg",
+    "website": "https://voicefm.co.tz/",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:06:31+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.voicefm",
+    "name": "Voice of Tabora fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/144310.v4.png",
+    "stream_url": "https://cast1.my-control-panel.com/proxy/voicefm/voice",
+    "website": "https://www.ariseandshine-ministries.org/",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "news",
+      "sports",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:05:22+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.vos",
+    "name": "Vos Fm Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/130722.v6.png",
+    "stream_url": "https://stream.zeno.fm/1iyvqiofnrxtv",
+    "website": "https://www.vosfm.co.tz/",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "news",
+      "talk",
+      "sports",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:00:32+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.vot",
+    "name": "VOT FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/32259.v5.png",
+    "stream_url": "http://50.7.99.163:16454/stream",
+    "website": "http://votfmradio.blogspot.com/",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "pop",
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:04:39+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.vradiotanzania",
+    "name": "Victory Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/112459.v17.png",
+    "stream_url": "https://s5.radio.co/se6a8f8291/listen",
+    "website": "http://www.victorysradio.com/",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:58:32+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.vwawa",
+    "name": "Vwawa Fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/140320.v11.png",
+    "stream_url": "http://uk14freenew.listen2myradio.com:13072/;",
+    "website": "http://vwawafm.radiostream321.com/",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "news",
+      "sports",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:08:07+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.wajefya",
+    "name": "Thank Wave Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/143531.v4.png",
+    "stream_url": "https://stream.zeno.fm/7v2ymqlukmvuv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "news",
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:02:41+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.wapo",
+    "name": "WAPO Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/109042.v9.png",
+    "stream_url": "https://cast3.my-control-panel.com/proxy/john1236/stream",
+    "website": "https://waporadio.radio12345.com/",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:57:49+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.wasafi",
+    "name": "Wasafi FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/77193.v17.png",
+    "stream_url": "http://s4.voscast.com:9712/;",
+    "website": "https://wasafimedia.co.tz/",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:57:44+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.wayradio",
+    "name": "The Way To Heaven Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/97321.v17.png",
+    "stream_url": "https://stream.zeno.fm/fyqk13fmbm0uv",
+    "website": "https://zeno.fm/the-way-radio/",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:59:26+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.wide",
+    "name": "Wide Fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/140335.v1.png",
+    "stream_url": "https://stream.zeno.fm/2gg3hs3k9hhvv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:09:55+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.wigan",
+    "name": "Wigan Fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/143889.v2.png",
+    "stream_url": "https://us3.streamingpulse.com/ssl/wbga",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "news",
+      "sports",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:09:52+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.wisdom",
+    "name": "Wisdom Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/136090.v1.png",
+    "stream_url": "https://a2.asurahosting.com:6300/radio.mp3",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:04:32+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.wish",
+    "name": "Radio Wish",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/112365.v8.png",
+    "stream_url": "https://radio.ifastekpanel.com:1915/stream",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "community"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:07:26+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.wokovu",
+    "name": "Praise radio Tanzania",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/120954.v9.png",
+    "stream_url": "https://stream.zeno.fm/x4smztcw7ezvv",
+    "website": "https://www.praise-radio-tanzania.com/",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:59:25+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.worldshakers",
+    "name": "World Shakers Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/125895.v2.png",
+    "stream_url": "https://stream.zeno.fm/lfcjlmzg4jfvv",
+    "website": "https://zeno.fm/radio/world-shakers-radio/",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:08:13+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.xradio",
+    "name": "XRadio",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/132569.v1.png",
+    "stream_url": "https://streamer.radio.co/s86f9cd445/listen",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:07:15+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.zbc",
+    "name": "ZBC Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/128400.v1.png",
+    "stream_url": "http://102.214.45.109:8000/stream",
+    "website": "http://www.zbc.go.tz/",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:04:40+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.zgac",
+    "name": "ZIG Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/148201.v9.png",
+    "stream_url": "https://a8.asurahosting.com:8920/radio.mp3",
+    "website": "https://ctmi.org/",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:10:24+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.zionimpact",
+    "name": "Zion Impact Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/127394.v7.png",
+    "stream_url": "https://stream.zeno.fm/t94pk4xmtkfvv",
+    "website": "https://zionimpactfm.co.tz/",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "news",
+      "talk",
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:08:54+05:30"
+  },
+  {
+    "id": "onlineradiobox_tz.zoefmradio",
+    "name": "Zoe FM Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/125381.v4.png",
+    "stream_url": "https://stream.zeno.fm/uozuugk1essuv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Tanzania",
+    "genres": [
+      "news",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:04:31+05:30"
+  }
+]

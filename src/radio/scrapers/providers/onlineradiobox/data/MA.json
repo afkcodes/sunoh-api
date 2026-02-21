@@ -1,0 +1,1617 @@
+[
+  {
+    "id": "onlineradiobox_ma.2m",
+    "name": "Radio 2M",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/20858.v19.png",
+    "stream_url": "https://cdn-globecast.akamaized.net/live/eds/radio_2m/radio_hls_ts_hy217612tge1f21j83/radio_2m.m3u8",
+    "website": "http://www.radio2m.ma/",
+    "provider": "onlineradiobox",
+    "country": "Morocco",
+    "genres": [
+      "rock",
+      "pop",
+      "news",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:55:09+05:30"
+  },
+  {
+    "id": "onlineradiobox_ma.achkid",
+    "name": "radio achkid fm راديوأشكيدإف إم",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/97270.v21.png",
+    "stream_url": "https://stream.zeno.fm/7nqu31p6xg0uv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Morocco",
+    "genres": [
+      "arabic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:56:00+05:30"
+  },
+  {
+    "id": "onlineradiobox_ma.adhwaafm1",
+    "name": "Adwaafm 1",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/90376.v9.png",
+    "stream_url": "https://stream.zeno.fm/5bxh2nh0x1zuv",
+    "website": "http://www.adwaafm.com/",
+    "provider": "onlineradiobox",
+    "country": "Morocco",
+    "genres": [
+      "pop",
+      "folk",
+      "arabic",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:56:05+05:30"
+  },
+  {
+    "id": "onlineradiobox_ma.alamazighia",
+    "name": "Radio Al Amazighia",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/44158.v11.png",
+    "stream_url": "https://snrtlive.ma/fr/alidaa-alamazighia",
+    "website": "http://www.alidaa-alamazighia.ma/",
+    "provider": "onlineradiobox",
+    "country": "Morocco",
+    "genres": [
+      "news"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:55:13+05:30"
+  },
+  {
+    "id": "onlineradiobox_ma.alfanefmplus",
+    "name": "Radio Alfane Fm Plus",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/125123.v1.png",
+    "stream_url": "https://listen.radioking.com/radio/559079/stream/621395",
+    "website": "https://play.radioking.com/radio/radioalfanefmplus",
+    "provider": "onlineradiobox",
+    "country": "Morocco",
+    "genres": [
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:57:02+05:30"
+  },
+  {
+    "id": "onlineradiobox_ma.aljalia",
+    "name": "Radio Aljalia - راديو الجالية",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/136734.v9.png",
+    "stream_url": "https://app.sonicpanelradio.com/8196/stream",
+    "website": "https://radioaljalia.com/",
+    "provider": "onlineradiobox",
+    "country": "Morocco",
+    "genres": [
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:57:12+05:30"
+  },
+  {
+    "id": "onlineradiobox_ma.aljami3a",
+    "name": "Radio aljami3a",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/146465.v1.png",
+    "stream_url": "https://listen.radioking.com/radio/698978/stream/763967",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Morocco",
+    "genres": [
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:57:12+05:30"
+  },
+  {
+    "id": "onlineradiobox_ma.alphamorocco",
+    "name": "Alpha Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/127389.v5.png",
+    "stream_url": "https://a3.asurahosting.com/listen/alpha_radio/radio.mp3",
+    "website": "https://alpharadio.ma/",
+    "provider": "onlineradiobox",
+    "country": "Morocco",
+    "genres": [
+      "pop",
+      "news",
+      "talk",
+      "arabic",
+      "business",
+      "culture",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:57:41+05:30"
+  },
+  {
+    "id": "onlineradiobox_ma.antennawebrabat",
+    "name": "Antenna Web Rabat",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/134601.v2.png",
+    "stream_url": "https://tinyurl.com/AntennaWebRabat",
+    "website": "https://antennaweb.it/antennaweb-rabat/",
+    "provider": "onlineradiobox",
+    "country": "Morocco",
+    "genres": [
+      "rock",
+      "pop",
+      "blues",
+      "jazz",
+      "funk",
+      "reggaeton"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:57:05+05:30"
+  },
+  {
+    "id": "onlineradiobox_ma.aswat",
+    "name": "Radio Aswat",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/20843.v4.png",
+    "stream_url": "https://broadcast.ice.infomaniak.ch/aswat-high.mp3",
+    "website": "http://www.radioaswat.ma/",
+    "provider": "onlineradiobox",
+    "country": "Morocco",
+    "genres": [
+      "news",
+      "talk",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:54:56+05:30"
+  },
+  {
+    "id": "onlineradiobox_ma.atbir",
+    "name": "Radio Atbir",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/20936.v7.png",
+    "stream_url": "https://stream.zeno.fm/bqdbb6hd0neuv",
+    "website": "http://www.radioatbir.com/",
+    "provider": "onlineradiobox",
+    "country": "Morocco",
+    "genres": [
+      "folk",
+      "arabic",
+      "african"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:55:06+05:30"
+  },
+  {
+    "id": "onlineradiobox_ma.atlantic",
+    "name": "Atlantic Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/20865.v11.png",
+    "stream_url": "https://atlantic-sonic.nindohost.net:9300/stream",
+    "website": "http://www.atlanticradio.ma/",
+    "provider": "onlineradiobox",
+    "country": "Morocco",
+    "genres": [
+      "rock",
+      "pop",
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:55:04+05:30"
+  },
+  {
+    "id": "onlineradiobox_ma.azawan",
+    "name": "Radio Azawan",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/140401.v1.png",
+    "stream_url": "https://az-maroc.ice.infomaniak.ch/az-maroc-128.mp3",
+    "website": "https://www.radioazawan.ma/",
+    "provider": "onlineradiobox",
+    "country": "Morocco",
+    "genres": [
+      "pop",
+      "ethnic",
+      "culture"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:57:13+05:30"
+  },
+  {
+    "id": "onlineradiobox_ma.azrou",
+    "name": "Radio Azrou",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/20940.v9.png",
+    "stream_url": "https://stream.zeno.fm/nzdw7gqc0s8uv",
+    "website": "https://radioazrouliveatlas.blogspot.com/",
+    "provider": "onlineradiobox",
+    "country": "Morocco",
+    "genres": [
+      "news",
+      "talk",
+      "culture"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:57:03+05:30"
+  },
+  {
+    "id": "onlineradiobox_ma.barlamane",
+    "name": "Barlamane Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/146068.v2.png",
+    "stream_url": "https://listen.radioking.com/radio/422578/stream/475915",
+    "website": "https://barlamaneradio.com/",
+    "provider": "onlineradiobox",
+    "country": "Morocco",
+    "genres": [
+      "pop",
+      "news",
+      "talk",
+      "folk",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:57:44+05:30"
+  },
+  {
+    "id": "onlineradiobox_ma.cap",
+    "name": "Cap Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/44120.v8.png",
+    "stream_url": "https://listen.radioking.com/radio/710810/stream/776366",
+    "website": "http://capradio.ma/",
+    "provider": "onlineradiobox",
+    "country": "Morocco",
+    "genres": [
+      "pop",
+      "news",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:55:02+05:30"
+  },
+  {
+    "id": "onlineradiobox_ma.capmaroc",
+    "name": "Cap Radio Maroc",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/144839.v2.png",
+    "stream_url": "https://listen.radioking.com/radio/710810/stream/776360",
+    "website": "https://capradiotv.com/",
+    "provider": "onlineradiobox",
+    "country": "Morocco",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:57:42+05:30"
+  },
+  {
+    "id": "onlineradiobox_ma.chada",
+    "name": "Chada FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/20859.v10.png",
+    "stream_url": "https://edge16.vedge.infomaniak.com/livecast/ik:chadatv/manifest.m3u8",
+    "website": "http://www.chadafm.net/",
+    "provider": "onlineradiobox",
+    "country": "Morocco",
+    "genres": [
+      "news",
+      "talk",
+      "arabic",
+      "culture"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:55:00+05:30"
+  },
+  {
+    "id": "onlineradiobox_ma.chaineinter",
+    "name": "Radio Chaine Inter",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/102431.v5.png",
+    "stream_url": "http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/radio_chaine_inter/hls_snrt_radio/index.m3u8",
+    "website": "http://www.chaineinter.ma/",
+    "provider": "onlineradiobox",
+    "country": "Morocco",
+    "genres": [
+      "pop",
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:56:06+05:30"
+  },
+  {
+    "id": "onlineradiobox_ma.dib",
+    "name": "DIB Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/110971.v2.png",
+    "stream_url": "https://streaming2.rimradio.ma/dibradio",
+    "website": "https://www.dibradio.ma/",
+    "provider": "onlineradiobox",
+    "country": "Morocco",
+    "genres": [
+      "arabic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:56:11+05:30"
+  },
+  {
+    "id": "onlineradiobox_ma.dt",
+    "name": "RADIO DT",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/146105.v2.png",
+    "stream_url": "https://listen.radioking.com/radio/574703/stream/634793",
+    "website": "https://www.draatafilalet.com/",
+    "provider": "onlineradiobox",
+    "country": "Morocco",
+    "genres": [
+      "news",
+      "sports",
+      "african"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:57:45+05:30"
+  },
+  {
+    "id": "onlineradiobox_ma.favor",
+    "name": "Favor Radio (Morocco)",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/139412.v10.png",
+    "stream_url": "https://a10.asurahosting.com:7660/Morocco.mp3",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Morocco",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:57:43+05:30"
+  },
+  {
+    "id": "onlineradiobox_ma.francemaghreb2",
+    "name": "Radio France Maghreb 2",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/44176.v6.png",
+    "stream_url": "https://francemaghreb2.ice.infomaniak.ch/francemaghreb2-high.mp3",
+    "website": "http://www.francemaghreb2.fr/",
+    "provider": "onlineradiobox",
+    "country": "Morocco",
+    "genres": [
+      "pop",
+      "news",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:55:57+05:30"
+  },
+  {
+    "id": "onlineradiobox_ma.frequenceroutiere",
+    "name": "Radio Fréquence Routière",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/107697.v11.png",
+    "stream_url": "https://stream.zeno.fm/jastextdkvquv",
+    "website": "https://www.radiofrequenceroutiere.com/",
+    "provider": "onlineradiobox",
+    "country": "Morocco",
+    "genres": [
+      "pop",
+      "news"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:57:44+05:30"
+  },
+  {
+    "id": "onlineradiobox_ma.gnawa",
+    "name": "Radio Gnawa",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/140090.v1.png",
+    "stream_url": "https://stream.zeno.fm/wghcdfwvnc9uv",
+    "website": "https://radio-gnawa.blogspot.com/",
+    "provider": "onlineradiobox",
+    "country": "Morocco",
+    "genres": [
+      "rock",
+      "pop",
+      "folk",
+      "arabic",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:57:14+05:30"
+  },
+  {
+    "id": "onlineradiobox_ma.gnmorocco",
+    "name": "Gn Radio - Morocco",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/150075.v1.png",
+    "stream_url": "https://a11.asurahosting.com:7360/morocco.mp3",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Morocco",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:57:41+05:30"
+  },
+  {
+    "id": "onlineradiobox_ma.hashtagmorocco",
+    "name": "HASHTAG RADIO MOROCCO",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/146033.v3.png",
+    "stream_url": "https://listen.radioking.com/radio/592426/stream/653230",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Morocco",
+    "genres": [
+      "rock",
+      "pop",
+      "blues",
+      "rap",
+      "african"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:57:40+05:30"
+  },
+  {
+    "id": "onlineradiobox_ma.hexagone",
+    "name": "Hexagone FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/88338.v9.png",
+    "stream_url": "http://radio.ready2play.fr:1700/stream",
+    "website": "https://www.hexagonefm.com/",
+    "provider": "onlineradiobox",
+    "country": "Morocco",
+    "genres": [
+      "talk",
+      "chanson"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:56:07+05:30"
+  },
+  {
+    "id": "onlineradiobox_ma.hit998",
+    "name": "Hit Radio FM 99.8",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/20871.v9.png",
+    "stream_url": "https://hitradio-maroc.ice.infomaniak.ch/hitradio-maroc-128.mp3",
+    "website": "http://www.hitradio.ma/",
+    "provider": "onlineradiobox",
+    "country": "Morocco",
+    "genres": [
+      "pop",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:54:57+05:30"
+  },
+  {
+    "id": "onlineradiobox_ma.hits1maroc",
+    "name": "Hits 1 Maroc",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/85809.v17.png",
+    "stream_url": "https://player.maroc.hits1radio.com/",
+    "website": "https://www.hits1radio.com/",
+    "provider": "onlineradiobox",
+    "country": "Morocco",
+    "genres": [
+      "dance",
+      "pop",
+      "top40",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:55:10+05:30"
+  },
+  {
+    "id": "onlineradiobox_ma.ici",
+    "name": "ICI Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/128130.v1.png",
+    "stream_url": "https://manager8.streamradio.fr:3555/stream",
+    "website": "https://iciradio.ma/",
+    "provider": "onlineradiobox",
+    "country": "Morocco",
+    "genres": [
+      "folk",
+      "oldies",
+      "arabic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:57:11+05:30"
+  },
+  {
+    "id": "onlineradiobox_ma.idaaalwatania",
+    "name": "Idaa Al Watania",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/102432.v5.png",
+    "stream_url": "http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/radio_idaa_watanya/hls_snrt_radio/index.m3u8",
+    "website": "http://www.alidaa-alwatania.ma/",
+    "provider": "onlineradiobox",
+    "country": "Morocco",
+    "genres": [
+      "pop",
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:56:03+05:30"
+  },
+  {
+    "id": "onlineradiobox_ma.idaamohammedassadiss",
+    "name": "Idaa Mohammed Assadiss",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/102433.v4.png",
+    "stream_url": "http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/radio_mohammed_6/hls_snrt_radio/index.m3u8",
+    "website": "http://www.idaatmohammedassadiss.ma/",
+    "provider": "onlineradiobox",
+    "country": "Morocco",
+    "genres": [
+      "news",
+      "talk",
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:56:09+05:30"
+  },
+  {
+    "id": "onlineradiobox_ma.izlanfr",
+    "name": "Radio Izlan.Fr",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/44137.v8.png",
+    "stream_url": "https://izlan.fr/radios/atlas/stream",
+    "website": "http://www.izlan.fr/",
+    "provider": "onlineradiobox",
+    "country": "Morocco",
+    "genres": [
+      "pop",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:56:02+05:30"
+  },
+  {
+    "id": "onlineradiobox_ma.izlanzik",
+    "name": "Izlanzik Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/20954.v13.png",
+    "stream_url": "https://www.izlanzik.biz:1991/stream.mp3",
+    "website": "http://www.izlanzik.org/",
+    "provider": "onlineradiobox",
+    "country": "Morocco",
+    "genres": [
+      "pop",
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:56:14+05:30"
+  },
+  {
+    "id": "onlineradiobox_ma.laconfiseriesonore",
+    "name": "La Confiserie Sonore",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/145141.v3.png",
+    "stream_url": "https://listen.radioking.com/radio/115108/stream/157846",
+    "website": "http://laconfiseriesonore.com/",
+    "provider": "onlineradiobox",
+    "country": "Morocco",
+    "genres": [
+      "house",
+      "techno"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:57:11+05:30"
+  },
+  {
+    "id": "onlineradiobox_ma.lodj",
+    "name": "L&#39;ODJ Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/125669.v3.png",
+    "stream_url": "https://listen.radioking.com/radio/330070/stream/390475",
+    "website": "https://www.lodj.ma/radio/",
+    "provider": "onlineradiobox",
+    "country": "Morocco",
+    "genres": [
+      "pop",
+      "news"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:57:06+05:30"
+  },
+  {
+    "id": "onlineradiobox_ma.lovemaroc",
+    "name": "Love Maroc",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/20925.v3.png",
+    "stream_url": "http://64.150.176.42:8288/;stream.mp3/;",
+    "website": "http://www.lovemaroc.net/",
+    "provider": "onlineradiobox",
+    "country": "Morocco",
+    "genres": [
+      "talk",
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:57:09+05:30"
+  },
+  {
+    "id": "onlineradiobox_ma.lrcm",
+    "name": "LRCM Radio (Morocco)",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/152996.v1.png",
+    "stream_url": "https://a8.asurahosting.com:8950/morocco.mp3",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Morocco",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:57:46+05:30"
+  },
+  {
+    "id": "onlineradiobox_ma.maloulou",
+    "name": "Radio Maloulou",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/110943.v1.png",
+    "stream_url": "https://streaming2.rimradio.ma/livemaloulou",
+    "website": "https://www.radiomaloulou.ma/",
+    "provider": "onlineradiobox",
+    "country": "Morocco",
+    "genres": [
+      "arabic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:56:07+05:30"
+  },
+  {
+    "id": "onlineradiobox_ma.manarat",
+    "name": "Radio Manarat",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/84245.v5.png",
+    "stream_url": "https://listen.radioking.com/radio/252934/stream/297385",
+    "website": "https://fm6-radiomanarat.ma/",
+    "provider": "onlineradiobox",
+    "country": "Morocco",
+    "genres": [
+      "talk",
+      "culture",
+      "education"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:56:15+05:30"
+  },
+  {
+    "id": "onlineradiobox_ma.marrakech",
+    "name": "Radio Marrakech",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/20963.v7.png",
+    "stream_url": "https://listen.radioking.com/radio/654328/stream/717928",
+    "website": "http://www.radio-marrakech.com/",
+    "provider": "onlineradiobox",
+    "country": "Morocco",
+    "genres": [
+      "house",
+      "african"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:55:59+05:30"
+  },
+  {
+    "id": "onlineradiobox_ma.marrakechplus",
+    "name": "Marrakech Plus Web Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/129112.v4.png",
+    "stream_url": "https://cast5.my-control-panel.com/proxy/marrakec/stream",
+    "website": "https://webradio.marrakechplus.ma/",
+    "provider": "onlineradiobox",
+    "country": "Morocco",
+    "genres": [
+      "classic",
+      "arabic",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:57:10+05:30"
+  },
+  {
+    "id": "onlineradiobox_ma.mars",
+    "name": "Radio Mars",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/20861.v4.png",
+    "stream_url": "https://radiomars.ice.infomaniak.ch/radiomars-128.mp3",
+    "website": "http://www.radiomars.ma/ar/",
+    "provider": "onlineradiobox",
+    "country": "Morocco",
+    "genres": [
+      "pop",
+      "sports"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:54:55+05:30"
+  },
+  {
+    "id": "onlineradiobox_ma.mavie",
+    "name": "Ma vie Que j&#39;adore !",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/144924.v1.png",
+    "stream_url": "https://listen.radioking.com/radio/706877/stream/772337",
+    "website": "https://ma-vie.ma/",
+    "provider": "onlineradiobox",
+    "country": "Morocco",
+    "genres": [
+      "club"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:57:15+05:30"
+  },
+  {
+    "id": "onlineradiobox_ma.mcg",
+    "name": "Radio MCG24",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/154939.v1.png",
+    "stream_url": "https://listen.radioking.com/radio/819606/stream/888581",
+    "website": "https://www.mcg24.com/",
+    "provider": "onlineradiobox",
+    "country": "Morocco",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:57:48+05:30"
+  },
+  {
+    "id": "onlineradiobox_ma.med",
+    "name": "Med Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/20870.v11.png",
+    "stream_url": "https://medradio.ice.infomaniak.ch/medradio-128.mp3",
+    "website": "http://www.medradio.ma/",
+    "provider": "onlineradiobox",
+    "country": "Morocco",
+    "genres": [
+      "pop",
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:54:54+05:30"
+  },
+  {
+    "id": "onlineradiobox_ma.medi1",
+    "name": "Medi 1 Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/20846.v9.png",
+    "stream_url": "https://cdn.live.easybroadcast.io/live/83_medi1radio-maghreb_8s9i4bn/playlist.m3u8",
+    "website": "http://www.medi1.com/",
+    "provider": "onlineradiobox",
+    "country": "Morocco",
+    "genres": [
+      "news",
+      "talk",
+      "sports"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:54:58+05:30"
+  },
+  {
+    "id": "onlineradiobox_ma.medina97",
+    "name": "Radio Medina FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/20924.v6.png",
+    "stream_url": "https://medinafm.ice.infomaniak.ch/medinafm-64.mp3",
+    "website": "http://radiomedinafm.ma/",
+    "provider": "onlineradiobox",
+    "country": "Morocco",
+    "genres": [
+      "news",
+      "talk",
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:55:01+05:30"
+  },
+  {
+    "id": "onlineradiobox_ma.mfm",
+    "name": "MFM Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/20842.v10.png",
+    "stream_url": "https://a5.asurahosting.com:7980/radio.mp3",
+    "website": "http://www.mfmradio.ma/",
+    "provider": "onlineradiobox",
+    "country": "Morocco",
+    "genres": [
+      "news",
+      "talk",
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:54:58+05:30"
+  },
+  {
+    "id": "onlineradiobox_ma.monemaroc",
+    "name": "moneradio maroc",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/128659.v1.png",
+    "stream_url": "https://stream.zeno.fm/6xs0t3dikvgvv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Morocco",
+    "genres": [
+      "news",
+      "rap",
+      "arabic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:57:08+05:30"
+  },
+  {
+    "id": "onlineradiobox_ma.montecarlodoualiya",
+    "name": "Radio Monte Carlo Doualiya",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/20959.v5.png",
+    "stream_url": "https://montecarlodoualiya128k.ice.infomaniak.ch/mc-doualiya.mp3",
+    "website": "http://www.mc-doualiya.com/",
+    "provider": "onlineradiobox",
+    "country": "Morocco",
+    "genres": [
+      "news",
+      "talk",
+      "arabic",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:55:07+05:30"
+  },
+  {
+    "id": "onlineradiobox_ma.moroccoenglish",
+    "name": "Morocco English Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/116443.v4.png",
+    "stream_url": "https://streamer.radio.co/s6cba51492/listen",
+    "website": "https://moroccoenglishradio.com/",
+    "provider": "onlineradiobox",
+    "country": "Morocco",
+    "genres": [
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:56:04+05:30"
+  },
+  {
+    "id": "onlineradiobox_ma.nador",
+    "name": "Radio Nador",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/76735.v4.png",
+    "stream_url": "https://stream.zeno.fm/cfuk22ssv4zuv",
+    "website": "https://www.radionador.com/",
+    "provider": "onlineradiobox",
+    "country": "Morocco",
+    "genres": [
+      "news",
+      "folk",
+      "education"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:56:58+05:30"
+  },
+  {
+    "id": "onlineradiobox_ma.ness",
+    "name": "Ness Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/20950.v6.png",
+    "stream_url": "https://radio.nessradio.net:8212/nessradio",
+    "website": "http://nessradio.com/",
+    "provider": "onlineradiobox",
+    "country": "Morocco",
+    "genres": [
+      "house",
+      "dubstep",
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:55:14+05:30"
+  },
+  {
+    "id": "onlineradiobox_ma.notamagharibia",
+    "name": "Nota Magharibia",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/91487.v13.png",
+    "stream_url": "http://95.154.195.3:6035/live",
+    "website": "http://www.notaarabia.com/nota-maghribia/",
+    "provider": "onlineradiobox",
+    "country": "Morocco",
+    "genres": [
+      "arabic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:55:13+05:30"
+  },
+  {
+    "id": "onlineradiobox_ma.nrjsante",
+    "name": "NRJ Sante",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/146155.v2.png",
+    "stream_url": "https://listen.radioking.com/radio/597841/stream/658903",
+    "website": "http://nrj-sante.radiowebsite.co/",
+    "provider": "onlineradiobox",
+    "country": "Morocco",
+    "genres": [
+      "easy listening",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:57:46+05:30"
+  },
+  {
+    "id": "onlineradiobox_ma.onlyrai",
+    "name": "Radio Only Rai",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/20999.v6.png",
+    "stream_url": "https://onlyrai.ice.infomaniak.ch/onlyrai-high.mp3",
+    "website": "http://www.radionomy.com/en/radio/ONLYRAI",
+    "provider": "onlineradiobox",
+    "country": "Morocco",
+    "genres": [
+      "r'n'b",
+      "rap"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:55:14+05:30"
+  },
+  {
+    "id": "onlineradiobox_ma.plenitudesvie",
+    "name": "Radio PlenitudeS Vie",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/146238.v2.png",
+    "stream_url": "https://listen.radioking.com/radio/443582/stream/497990",
+    "website": "https://plenitudesvie.com/",
+    "provider": "onlineradiobox",
+    "country": "Morocco",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:57:05+05:30"
+  },
+  {
+    "id": "onlineradiobox_ma.plusmarrakech",
+    "name": "Radio Plus Marrakech",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/20866.v6.png",
+    "stream_url": "http://radioplusmaoc.ice.infomaniak.ch/radioplusmarrakech-128.mp3",
+    "website": "http://radioplusmarrakech.jimdo.com/",
+    "provider": "onlineradiobox",
+    "country": "Morocco",
+    "genres": [
+      "pop",
+      "news",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:56:10+05:30"
+  },
+  {
+    "id": "onlineradiobox_ma.qurancoranstation",
+    "name": "Radio Coran - Quran Station",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/20862.v14.png",
+    "stream_url": "https://virmach2.hajjam.net/index.html",
+    "website": "https://virmach2.hajjam.net/",
+    "provider": "onlineradiobox",
+    "country": "Morocco",
+    "genres": [
+      "islamic",
+      "arabic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:54:55+05:30"
+  },
+  {
+    "id": "onlineradiobox_ma.rabatfm",
+    "name": "Rabat FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/146037.v2.png",
+    "stream_url": "https://listen.radioking.com/radio/590996/stream/651707",
+    "website": "https://rabatfm.com/",
+    "provider": "onlineradiobox",
+    "country": "Morocco",
+    "genres": [
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:57:13+05:30"
+  },
+  {
+    "id": "onlineradiobox_ma.radio24",
+    "name": "Radio24",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/87326.v5.png",
+    "stream_url": "http://titan.shoutca.st:8253/live",
+    "website": "http://radio24.ma/",
+    "provider": "onlineradiobox",
+    "country": "Morocco",
+    "genres": [
+      "news",
+      "culture"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:57:08+05:30"
+  },
+  {
+    "id": "onlineradiobox_ma.radio425fm",
+    "name": "radio425fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/128442.v8.png",
+    "stream_url": "https://stream.zeno.fm/heepkvo1lfavv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Morocco",
+    "genres": [
+      "pop",
+      "news",
+      "talk",
+      "islamic",
+      "arabic",
+      "culture"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:56:59+05:30"
+  },
+  {
+    "id": "onlineradiobox_ma.radiohabayiib",
+    "name": "Radio Habayiib",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/20995.v5.png",
+    "stream_url": "http://85.214.110.29:8000/;",
+    "website": "http://radiohabayiib.com/",
+    "provider": "onlineradiobox",
+    "country": "Morocco",
+    "genres": [
+      "news",
+      "talk",
+      "folk",
+      "sports",
+      "culture"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:56:12+05:30"
+  },
+  {
+    "id": "onlineradiobox_ma.radjumarija",
+    "name": "Radju Marija",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/20932.v7.png",
+    "stream_url": "https://dreamsiteradiocp2.com/proxy/rmmalta2?mp=/stream",
+    "website": "http://radjumarija.org/",
+    "provider": "onlineradiobox",
+    "country": "Morocco",
+    "genres": [
+      "talk",
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:57:07+05:30"
+  },
+  {
+    "id": "onlineradiobox_ma.raplbeldimaroc",
+    "name": "Rap Lbeldi Maroc - Hip Hop Music from Morocco",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/143103.v1.png",
+    "stream_url": "https://stream.zeno.fm/ivdufrl7q0quv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Morocco",
+    "genres": [
+      "rap",
+      "hip-hop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:57:47+05:30"
+  },
+  {
+    "id": "onlineradiobox_ma.rim",
+    "name": "RIM",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/85171.v6.png",
+    "stream_url": "https://streaming.rimradio.ma/live",
+    "website": "https://www.rimradio.ma/",
+    "provider": "onlineradiobox",
+    "country": "Morocco",
+    "genres": [
+      "news",
+      "politics"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:56:13+05:30"
+  },
+  {
+    "id": "onlineradiobox_ma.rmn",
+    "name": "RMN-Radio Maroc News",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/109261.v1.png",
+    "stream_url": "https://stream.zeno.fm/nefhp3q9fc9uv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Morocco",
+    "genres": [
+      "news"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:57:00+05:30"
+  },
+  {
+    "id": "onlineradiobox_ma.saficity",
+    "name": "SafiCity.online",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/82604.v15.png",
+    "stream_url": "https://stream.zeno.fm/hkld3ooptkztv",
+    "website": "https://saficity.online/",
+    "provider": "onlineradiobox",
+    "country": "Morocco",
+    "genres": [
+      "blues",
+      "talk",
+      "business"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:56:01+05:30"
+  },
+  {
+    "id": "onlineradiobox_ma.samaa",
+    "name": "Radio Samaa",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/110970.v1.png",
+    "stream_url": "http://streaming2.rimradio.ma:8000/samaa",
+    "website": "https://www.radiosamaa.ma/",
+    "provider": "onlineradiobox",
+    "country": "Morocco",
+    "genres": [
+      "arabic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:56:59+05:30"
+  },
+  {
+    "id": "onlineradiobox_ma.samaoui",
+    "name": "Samaoui, Gnaoua Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/119763.v1.png",
+    "stream_url": "https://streaming2.rimradio.ma/livegnaoua",
+    "website": "https://www.radiognaoua.ma/",
+    "provider": "onlineradiobox",
+    "country": "Morocco",
+    "genres": [
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:56:57+05:30"
+  },
+  {
+    "id": "onlineradiobox_ma.sawa",
+    "name": "Radio Sawa",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/44127.v2.png",
+    "stream_url": "https://mbn-channel-06.akacast.akamaistream.net/7/28/233455/v1/ibb.akacast.akamaistream.net/mbn_channel_06",
+    "website": "http://www.radiosawa.com/",
+    "provider": "onlineradiobox",
+    "country": "Morocco",
+    "genres": [
+      "pop",
+      "news",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:56:08+05:30"
+  },
+  {
+    "id": "onlineradiobox_ma.sawtlmoustahlik",
+    "name": "Sawtlmoustahlik",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/81479.v5.png",
+    "stream_url": "http://37.187.146.76:8000/;",
+    "website": "http://sawtlmoustahlik.com/",
+    "provider": "onlineradiobox",
+    "country": "Morocco",
+    "genres": [
+      "arabic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:57:01+05:30"
+  },
+  {
+    "id": "onlineradiobox_ma.sawtouarzazate",
+    "name": "Radio Sawt Ouarzazate",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/20926.v4.png",
+    "stream_url": "http://www.quran-radio.org:8002/stream",
+    "website": "https://sawteouarzazate.wixsite.com/sawteouarzazate",
+    "provider": "onlineradiobox",
+    "country": "Morocco",
+    "genres": [
+      "news",
+      "talk",
+      "politics"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:56:10+05:30"
+  },
+  {
+    "id": "onlineradiobox_ma.skyrockcasablanca",
+    "name": "Skyrock Casablanca",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/80450.v5.png",
+    "stream_url": "https://icecast.skyrock.net/s/casa_aac_64k",
+    "website": "http://skyrock.fm/",
+    "provider": "onlineradiobox",
+    "country": "Morocco",
+    "genres": [
+      "pop",
+      "hip-hop",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:55:03+05:30"
+  },
+  {
+    "id": "onlineradiobox_ma.soleil",
+    "name": "Radio Soleil",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/20996.v10.png",
+    "stream_url": "https://radiosoleil.ice.infomaniak.ch/radiosoleil-128.mp3",
+    "website": "http://www.radio-soleil.com/",
+    "provider": "onlineradiobox",
+    "country": "Morocco",
+    "genres": [
+      "news",
+      "talk",
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:56:03+05:30"
+  },
+  {
+    "id": "onlineradiobox_ma.starmaroc",
+    "name": "Radio Star Maroc",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/44124.v13.png",
+    "stream_url": "https://a2.asurahosting.com:6100/radio.mp3",
+    "website": "http://www.radiostarmaroc.com/",
+    "provider": "onlineradiobox",
+    "country": "Morocco",
+    "genres": [
+      "pop",
+      "arabic",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:55:06+05:30"
+  },
+  {
+    "id": "onlineradiobox_ma.tamazgha",
+    "name": "Radio Tamazgha",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/110969.v1.png",
+    "stream_url": "https://streaming2.rimradio.ma/liveamazighe",
+    "website": "https://www.radiotamazgha.ma/",
+    "provider": "onlineradiobox",
+    "country": "Morocco",
+    "genres": [
+      "arabic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:56:13+05:30"
+  },
+  {
+    "id": "onlineradiobox_ma.tarab",
+    "name": "Tarab Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/110926.v1.png",
+    "stream_url": "http://streaming2.rimradio.ma:8000/livetarab",
+    "website": "https://www.tarabradio.ma/",
+    "provider": "onlineradiobox",
+    "country": "Morocco",
+    "genres": [
+      "arabic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:55:11+05:30"
+  },
+  {
+    "id": "onlineradiobox_ma.tdm",
+    "name": "TDM",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/112791.v1.png",
+    "stream_url": "http://radiocampus.ice.infomaniak.ch/radiocampus-128.mp3",
+    "website": "https://radio.oxygene.ma/",
+    "provider": "onlineradiobox",
+    "country": "Morocco",
+    "genres": [
+      "rock",
+      "pop",
+      "90s",
+      "00s",
+      "80s",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:56:08+05:30"
+  },
+  {
+    "id": "onlineradiobox_ma.web",
+    "name": "RadioWeb",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/43937.v4.png",
+    "stream_url": "http://185.52.127.168/fr/30601/mp3_128.mp3",
+    "website": "http://radioweb-ma.wifeo.com//",
+    "provider": "onlineradiobox",
+    "country": "Morocco",
+    "genres": [
+      "90s",
+      "80s",
+      "70s"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:55:58+05:30"
+  },
+  {
+    "id": "onlineradiobox_ma.worldofaita",
+    "name": "World of Aita",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/110967.v2.png",
+    "stream_url": "http://streaming2.rimradio.ma:8000/liveworldofaita",
+    "website": "https://www.worldofaita.ma/",
+    "provider": "onlineradiobox",
+    "country": "Morocco",
+    "genres": [
+      "arabic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:56:15+05:30"
+  },
+  {
+    "id": "onlineradiobox_ma.wrkhouribga",
+    "name": "SAMAA RADIO",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/140035.v6.png",
+    "stream_url": "https://stream.zeno.fm/nezfuswpyjfuv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Morocco",
+    "genres": [
+      "islamic",
+      "arabic",
+      "education"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:55:12+05:30"
+  },
+  {
+    "id": "onlineradiobox_ma.yabiladi",
+    "name": "Radio Yabiladi",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/20928.v9.png",
+    "stream_url": "https://radio.yabiladi.com:8002/;stream.mp3",
+    "website": "http://www.yabiladi.com/radio/",
+    "provider": "onlineradiobox",
+    "country": "Morocco",
+    "genres": [
+      "pop",
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:54:59+05:30"
+  },
+  {
+    "id": "onlineradiobox_ma.yassinequran",
+    "name": "Yassine Radio Quran",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/146445.v1.png",
+    "stream_url": "https://radio.yassine.mobi:8443/quran.mp3",
+    "website": "https://ar.yassine.net/%D8%A5%D8%B0%D8%A7%D8%B9%D8%A9-%D8%A7%D9%84%D9%82%D8%B1%D8%A2%D9%86-%D8%A7%D9%84%D9%83%D8%B1%D9%8A%D9%85",
+    "provider": "onlineradiobox",
+    "country": "Morocco",
+    "genres": [
+      "islamic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:57:04+05:30"
+  },
+  {
+    "id": "onlineradiobox_ma.zinebladi",
+    "name": "Zine Bladi",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/74996.v7.png",
+    "stream_url": "https://zinebladi.ma/radio",
+    "website": "https://www.zinebladi.ma/",
+    "provider": "onlineradiobox",
+    "country": "Morocco",
+    "genres": [
+      "news",
+      "islamic",
+      "arabic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:55:04+05:30"
+  }
+]

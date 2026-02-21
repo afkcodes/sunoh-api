@@ -1,0 +1,3114 @@
+[
+  {
+    "id": "onlineradiobox_ni.acoyapachontales",
+    "name": "Radio Acoyapa Chontales",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/91985.v4.png",
+    "stream_url": "https://stream.zeno.fm/1wb4z75nktzuv",
+    "website": "http://stereoacoyapa.com/",
+    "provider": "onlineradiobox",
+    "country": "Nicaragua",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:17:08+05:30"
+  },
+  {
+    "id": "onlineradiobox_ni.activa",
+    "name": "Radioactiva Juigalpa",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/100558.v5.png",
+    "stream_url": "https://stream.zeno.fm/qs0tvd41em8uv",
+    "website": "https://zeno.fm/radioactiva-juigalpa/",
+    "provider": "onlineradiobox",
+    "country": "Nicaragua",
+    "genres": [
+      "pop",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:16:12+05:30"
+  },
+  {
+    "id": "onlineradiobox_ni.activa925",
+    "name": "Radio Activa 92.5 Fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/149812.v1.png",
+    "stream_url": "https://stream.zeno.fm/ppcaafybfzmvv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Nicaragua",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:16:19+05:30"
+  },
+  {
+    "id": "onlineradiobox_ni.adoracionjinotega",
+    "name": "Radio Adoración Jinotega",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/82853.v8.png",
+    "stream_url": "https://stream5.305stream.com:6124/;",
+    "website": "http://www.radioadoracionlapastora.com/",
+    "provider": "onlineradiobox",
+    "country": "Nicaragua",
+    "genres": [
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:11:56+05:30"
+  },
+  {
+    "id": "onlineradiobox_ni.adventistajuigalpa",
+    "name": "Radio Adventista Juigalpa",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/100750.v2.png",
+    "stream_url": "https://freeuk9.listen2myradio.com/live.mp3?typeportmount=s1_4524_stream",
+    "website": "https://radioadventistajuigalpa1005fm.wordpress.com/",
+    "provider": "onlineradiobox",
+    "country": "Nicaragua",
+    "genres": [],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:15:25+05:30"
+  },
+  {
+    "id": "onlineradiobox_ni.adventstereo",
+    "name": "Advent Stereo",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/36624.v4.png",
+    "stream_url": "http://streaming.admediasystem.net:9642/;",
+    "website": "http://www.adventstereo.org/",
+    "provider": "onlineradiobox",
+    "country": "Nicaragua",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:13:33+05:30"
+  },
+  {
+    "id": "onlineradiobox_ni.agrodigital",
+    "name": "Agrodigital Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/121789.v3.png",
+    "stream_url": "https://stream.zeno.fm/pf9nwyenxchvv",
+    "website": "https://hablemosdelcamponic.com/",
+    "provider": "onlineradiobox",
+    "country": "Nicaragua",
+    "genres": [
+      "ranchera",
+      "grupera",
+      "cumbia",
+      "balada"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:12:43+05:30"
+  },
+  {
+    "id": "onlineradiobox_ni.alegria",
+    "name": "Radio Alegria",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/150417.v1.png",
+    "stream_url": "https://stream.zeno.fm/fostet55odlvv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Nicaragua",
+    "genres": [
+      "oldies"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:12:41+05:30"
+  },
+  {
+    "id": "onlineradiobox_ni.alfa",
+    "name": "Radio Alfa",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/36535.v9.png",
+    "stream_url": "https://www.radiosnicaragua.com.ni/radios/alfa/",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Nicaragua",
+    "genres": [
+      "pop",
+      "news",
+      "90s",
+      "80s",
+      "oldies"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:11:49+05:30"
+  },
+  {
+    "id": "onlineradiobox_ni.alfa1043",
+    "name": "Radio Alfa 104.3 Fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/137876.v3.png",
+    "stream_url": "https://stream.zeno.fm/lscko2qlfpluv",
+    "website": "https://radioalfa1043fm.godaddysites.com/",
+    "provider": "onlineradiobox",
+    "country": "Nicaragua",
+    "genres": [
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:17:13+05:30"
+  },
+  {
+    "id": "onlineradiobox_ni.amistad",
+    "name": "Ms TV y Radio Amistad",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/151273.v1.png",
+    "stream_url": "https://stream.zeno.fm/hs25pewepkhvv",
+    "website": "https://mstvnica.godaddysites.com/",
+    "provider": "onlineradiobox",
+    "country": "Nicaragua",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:16:18+05:30"
+  },
+  {
+    "id": "onlineradiobox_ni.andromeda",
+    "name": "Radio Andromeda",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/48882.v11.png",
+    "stream_url": "https://c11.radioboss.fm:18071/stream",
+    "website": "http://www.radioandromeda.tk/",
+    "provider": "onlineradiobox",
+    "country": "Nicaragua",
+    "genres": [
+      "dubstep",
+      "pop",
+      "hip-hop",
+      "top40",
+      "balada"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:12:39+05:30"
+  },
+  {
+    "id": "onlineradiobox_ni.andromedamatagalpa",
+    "name": "RADIO ANDROMEDA",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/115449.v9.png",
+    "stream_url": "https://stream.zeno.fm/k70x3gswz1zuv",
+    "website": "https://zeno.fm/radio/radioandromeda/",
+    "provider": "onlineradiobox",
+    "country": "Nicaragua",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:15:17+05:30"
+  },
+  {
+    "id": "onlineradiobox_ni.antennawebmanagua",
+    "name": "Antenna Web Managua",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/131978.v1.png",
+    "stream_url": "https://tinyurl.com/Antenna-Web-Managua",
+    "website": "https://antennaweb.it/antennaweb-managua/",
+    "provider": "onlineradiobox",
+    "country": "Nicaragua",
+    "genres": [
+      "rock",
+      "pop",
+      "blues",
+      "jazz",
+      "funk",
+      "latin"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:17:07+05:30"
+  },
+  {
+    "id": "onlineradiobox_ni.avivavoz",
+    "name": "A Viva Voz Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/125436.v1.png",
+    "stream_url": "https://rr5100.globalhost1.com/8006/stream",
+    "website": "http://www.avivavozradio.com/",
+    "provider": "onlineradiobox",
+    "country": "Nicaragua",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:15:23+05:30"
+  },
+  {
+    "id": "onlineradiobox_ni.axmenicaragua",
+    "name": "Radio AXME Nicaragua",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/106817.v1.png",
+    "stream_url": "https://stream.zeno.fm/zbs5mrxy238uv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Nicaragua",
+    "genres": [
+      "dance",
+      "electronic",
+      "reggae",
+      "banda"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:17:19+05:30"
+  },
+  {
+    "id": "onlineradiobox_ni.bautistaonair",
+    "name": "Bautista Radio On Air",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/94053.v8.png",
+    "stream_url": "https://cast3.my-control-panel.com/proxy/bautistaradio?mp=/stream",
+    "website": "https://www.bautistaradioonair.net/",
+    "provider": "onlineradiobox",
+    "country": "Nicaragua",
+    "genres": [
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:14:26+05:30"
+  },
+  {
+    "id": "onlineradiobox_ni.belen",
+    "name": "Radio Belen 103.3 FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/148774.v1.png",
+    "stream_url": "https://sp14.instainternet.com/8058/stream",
+    "website": "https://radiobelen.org/",
+    "provider": "onlineradiobox",
+    "country": "Nicaragua",
+    "genres": [
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:15:26+05:30"
+  },
+  {
+    "id": "onlineradiobox_ni.bethel1069",
+    "name": "Stereo Bombonazo",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/133149.v3.png",
+    "stream_url": "https://stream.zeno.fm/yahlcbupoqbvv",
+    "website": "https://zeno.fm/radio/stereobombonazo/",
+    "provider": "onlineradiobox",
+    "country": "Nicaragua",
+    "genres": [
+      "mexican",
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:16:17+05:30"
+  },
+  {
+    "id": "onlineradiobox_ni.betheljinotega",
+    "name": "Radio Bethel Jinotega",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/85410.v4.png",
+    "stream_url": "https://radio.datalivehd.com:6672/",
+    "website": "http://starterfm.com/hitnation",
+    "provider": "onlineradiobox",
+    "country": "Nicaragua",
+    "genres": [
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:12:48+05:30"
+  },
+  {
+    "id": "onlineradiobox_ni.blackdiamond",
+    "name": "Black Diamond Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/141508.v1.png",
+    "stream_url": "https://a4.asurahosting.com:7540/radio.mp3",
+    "website": "https://thesoundofthecarebbeanradio.com/",
+    "provider": "onlineradiobox",
+    "country": "Nicaragua",
+    "genres": [
+      "reggae"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:17:17+05:30"
+  },
+  {
+    "id": "onlineradiobox_ni.blessing",
+    "name": "Blessing Fm Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/98441.v3.png",
+    "stream_url": "https://stream.zeno.fm/tknydyrp2f8uv",
+    "website": "https://radioblessingfm.jimdofree.com/",
+    "provider": "onlineradiobox",
+    "country": "Nicaragua",
+    "genres": [
+      "rock",
+      "gospel",
+      "balada"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:12:46+05:30"
+  },
+  {
+    "id": "onlineradiobox_ni.bluffgospel",
+    "name": "Bluff Gospel Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/148416.v5.png",
+    "stream_url": "https://a5.asurahosting.com:7720/radio.mp3",
+    "website": "https://www.thesoundofthecarebbeanradio.com/",
+    "provider": "onlineradiobox",
+    "country": "Nicaragua",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:16:21+05:30"
+  },
+  {
+    "id": "onlineradiobox_ni.calero",
+    "name": "Radio Monte Carmelo 98.9 Fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/95279.v14.png",
+    "stream_url": "https://stream.zeno.fm/mh88wub0vd0uv",
+    "website": "https://zeno.fm/radio/radio-monte-carmelo-98-9-fm/",
+    "provider": "onlineradiobox",
+    "country": "Nicaragua",
+    "genres": [
+      "ranchera",
+      "salsa",
+      "merengue",
+      "bachata",
+      "banda",
+      "balada"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:16:18+05:30"
+  },
+  {
+    "id": "onlineradiobox_ni.camoapa",
+    "name": "Radio Camoapa Estéreo",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/97069.v3.png",
+    "stream_url": "https://c30.radioboss.fm:18546/radiocamoapa",
+    "website": "https://www.radiocamoapa.com/",
+    "provider": "onlineradiobox",
+    "country": "Nicaragua",
+    "genres": [
+      "news",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:13:39+05:30"
+  },
+  {
+    "id": "onlineradiobox_ni.catarina",
+    "name": "Radio Catarina",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/125271.v4.png",
+    "stream_url": "https://stream.zeno.fm/mdinbyckk9uuv",
+    "website": "https://radiocatarinafm.com/",
+    "provider": "onlineradiobox",
+    "country": "Nicaragua",
+    "genres": [
+      "ranchera",
+      "grupera",
+      "cumbia",
+      "balada"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:17:16+05:30"
+  },
+  {
+    "id": "onlineradiobox_ni.catolicalavozdesanrafael",
+    "name": "RADIO CATOLICA LA VOZ DE SAN RAFAEL",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/121717.v10.png",
+    "stream_url": "https://servidor23.brlogic.com:7336/live",
+    "website": "https://lavozdesanrafael.net/",
+    "provider": "onlineradiobox",
+    "country": "Nicaragua",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:17:18+05:30"
+  },
+  {
+    "id": "onlineradiobox_ni.cepad",
+    "name": "Radio Cepad",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/93952.v7.png",
+    "stream_url": "http://usa10.fastcast4u.com:7440/type",
+    "website": "http://www.radiocepad.org/",
+    "provider": "onlineradiobox",
+    "country": "Nicaragua",
+    "genres": [
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:17:18+05:30"
+  },
+  {
+    "id": "onlineradiobox_ni.clasica",
+    "name": "Clasica",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/133948.v1.png",
+    "stream_url": "http://live4.rcast.net:8110/;",
+    "website": "http://clasica1019fm.com/",
+    "provider": "onlineradiobox",
+    "country": "Nicaragua",
+    "genres": [
+      "oldies"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:15:24+05:30"
+  },
+  {
+    "id": "onlineradiobox_ni.clasicanicaragua",
+    "name": "Clasica Nicaragua",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/117744.v2.png",
+    "stream_url": "https://stream.zeno.fm/bpvd4phmns8uv",
+    "website": "https://elderorozconicaragua.com/",
+    "provider": "onlineradiobox",
+    "country": "Nicaragua",
+    "genres": [
+      "classic",
+      "romantic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:11:48+05:30"
+  },
+  {
+    "id": "onlineradiobox_ni.conexion",
+    "name": "Radio Buenas Nuevas Nicaragua",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/133319.v10.png",
+    "stream_url": "https://app.sonicpanelradio.com/8404/stream",
+    "website": "https://www.radiobuenasnuevas.org/",
+    "provider": "onlineradiobox",
+    "country": "Nicaragua",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:14:21+05:30"
+  },
+  {
+    "id": "onlineradiobox_ni.corinto",
+    "name": "Radio corinto",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/127403.v2.png",
+    "stream_url": "https://stream1.svrdedicado.org:7028/;",
+    "website": "https://radiocorintoweb.blogspot.com/",
+    "provider": "onlineradiobox",
+    "country": "Nicaragua",
+    "genres": [
+      "eclectic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:17:06+05:30"
+  },
+  {
+    "id": "onlineradiobox_ni.cristoviene",
+    "name": "Radio Cristo Viene  88.3 Fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/134491.v12.png",
+    "stream_url": "https://stream.zeno.fm/kk23a58nzhhvv",
+    "website": "https://zeno.fm/radio/radio-cristo-viene-88-3fm/",
+    "provider": "onlineradiobox",
+    "country": "Nicaragua",
+    "genres": [
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:12:45+05:30"
+  },
+  {
+    "id": "onlineradiobox_ni.cristovienemasayanicaragua",
+    "name": "Radio Cristo Viene Masaya Nicaragua",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/122961.v5.png",
+    "stream_url": "https://stream.zeno.fm/axxgbszqxhhvv",
+    "website": "https://zeno.fm/radio/radio-cristo-viene-masaya-nicaragua/",
+    "provider": "onlineradiobox",
+    "country": "Nicaragua",
+    "genres": [
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:12:37+05:30"
+  },
+  {
+    "id": "onlineradiobox_ni.cristovienematigus",
+    "name": "Radio Cristo Viene Matiguás",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/143710.v1.png",
+    "stream_url": "https://stream.zeno.fm/7fxzzqnmhcitv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Nicaragua",
+    "genres": [
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:17:14+05:30"
+  },
+  {
+    "id": "onlineradiobox_ni.dancehall",
+    "name": "Dancehall Nicaragua",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/123388.v10.png",
+    "stream_url": "https://stream.zeno.fm/vt5mnbkllkstv",
+    "website": "https://zeno.fm/radio/dancehallnicaragua",
+    "provider": "onlineradiobox",
+    "country": "Nicaragua",
+    "genres": [
+      "reggae",
+      "african",
+      "dancehall"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:13:41+05:30"
+  },
+  {
+    "id": "onlineradiobox_ni.deportivaymusical",
+    "name": "Radio deportiva y musical online",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/153053.v3.png",
+    "stream_url": "https://stream.zeno.fm/rwtqjdq1ubxuv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Nicaragua",
+    "genres": [
+      "ranchera",
+      "merengue",
+      "cumbia"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:16:16+05:30"
+  },
+  {
+    "id": "onlineradiobox_ni.digital",
+    "name": "Radio Digital",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/66526.v8.png",
+    "stream_url": "https://stream.zeno.fm/5dtqds7hfrruv",
+    "website": "http://radiodigital1001.com/",
+    "provider": "onlineradiobox",
+    "country": "Nicaragua",
+    "genres": [
+      "electronic",
+      "hip-hop",
+      "reggaeton",
+      "balada"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:14:20+05:30"
+  },
+  {
+    "id": "onlineradiobox_ni.elnuevosol",
+    "name": "Radio El Nuevo Sol",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/92609.v7.png",
+    "stream_url": "http://s2.mexside.net:9020/;",
+    "website": "http://www.nuevosol1065fmradio.com/",
+    "provider": "onlineradiobox",
+    "country": "Nicaragua",
+    "genres": [
+      "rock",
+      "reggaeton",
+      "salsa",
+      "cumbia",
+      "bachata",
+      "romantic",
+      "banda"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:14:19+05:30"
+  },
+  {
+    "id": "onlineradiobox_ni.elpensamiento",
+    "name": "Radio El Pensamiento",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/103504.v17.png",
+    "stream_url": "https://radios.solumedia.com:6400/stream?icy=http",
+    "website": "https://www.radioelpensamiento.online/",
+    "provider": "onlineradiobox",
+    "country": "Nicaragua",
+    "genres": [
+      "news",
+      "oldies"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:12:44+05:30"
+  },
+  {
+    "id": "onlineradiobox_ni.enfoquematagalpa",
+    "name": "Enfoque Radio Matagalpa",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/149924.v1.png",
+    "stream_url": "https://stream.zeno.fm/0bfas62vrhruv",
+    "website": "https://zeno.fm/radio/enfoque-radio-matagalpa/",
+    "provider": "onlineradiobox",
+    "country": "Nicaragua",
+    "genres": [
+      "pop",
+      "folk",
+      "ethnic",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:17:06+05:30"
+  },
+  {
+    "id": "onlineradiobox_ni.esquipulasmatagalpa",
+    "name": "Radio Esquipulas Matagalpa",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/88239.v3.png",
+    "stream_url": "https://stream.zeno.fm/kbum7waxchruv",
+    "website": "http://radioesquipulas.com/",
+    "provider": "onlineradiobox",
+    "country": "Nicaragua",
+    "genres": [
+      "christian",
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:13:36+05:30"
+  },
+  {
+    "id": "onlineradiobox_ni.euforiametal",
+    "name": "Euforia Metal",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/71531.v2.png",
+    "stream_url": "http://giss.tv:8001/euforiametal.mp3",
+    "website": "http://www.euforiametal.com/",
+    "provider": "onlineradiobox",
+    "country": "Nicaragua",
+    "genres": [
+      "rock",
+      "hard rock",
+      "metal"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:14:23+05:30"
+  },
+  {
+    "id": "onlineradiobox_ni.evangelicavozcristiana",
+    "name": "Radio Evangélica Voz Cristiana",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/73447.v6.png",
+    "stream_url": "https://stream.zeno.fm/f4q5q77y868uv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Nicaragua",
+    "genres": [
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:11:55+05:30"
+  },
+  {
+    "id": "onlineradiobox_ni.extasis",
+    "name": "Radio Extasis 91.1 Fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/100305.v5.png",
+    "stream_url": "https://stream.zeno.fm/chpkaq2lv3jvv",
+    "website": "http://radioextasis.mex.tl/",
+    "provider": "onlineradiobox",
+    "country": "Nicaragua",
+    "genres": [
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:17:15+05:30"
+  },
+  {
+    "id": "onlineradiobox_ni.fabulosa993",
+    "name": "Radio Fabulosa 99.3 FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/104970.v4.png",
+    "stream_url": "https://r1.comcities.com/proxy/csvalglh/stream",
+    "website": "https://www.radiofabulosafm.com/",
+    "provider": "onlineradiobox",
+    "country": "Nicaragua",
+    "genres": [],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:14:28+05:30"
+  },
+  {
+    "id": "onlineradiobox_ni.familia",
+    "name": "Familia Radiotv",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/121683.v5.png",
+    "stream_url": "https://stream.zeno.fm/rf65gb2xk18uv",
+    "website": "https://www.familiaradiotv.com/",
+    "provider": "onlineradiobox",
+    "country": "Nicaragua",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:14:33+05:30"
+  },
+  {
+    "id": "onlineradiobox_ni.feelingmatagalpanicaragua",
+    "name": "Radio Feeling Matagalpa Nicaragua",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/134151.v9.png",
+    "stream_url": "https://stream.zeno.fm/dwmeq8xk2rquv",
+    "website": "https://atmosfera.lat/",
+    "provider": "onlineradiobox",
+    "country": "Nicaragua",
+    "genres": [
+      "rock",
+      "pop",
+      "oldies",
+      "romantic",
+      "balada"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:11:53+05:30"
+  },
+  {
+    "id": "onlineradiobox_ni.feyesperanza1",
+    "name": "Radio Fe y Esperanza FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/76546.v3.png",
+    "stream_url": "http://167.114.116.223:2137/;",
+    "website": "http://radiofeyesperanza103-7fm.com/wp/",
+    "provider": "onlineradiobox",
+    "country": "Nicaragua",
+    "genres": [
+      "rock",
+      "pop",
+      "christian",
+      "gospel",
+      "cumbia"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:11:56+05:30"
+  },
+  {
+    "id": "onlineradiobox_ni.fiesta",
+    "name": "Fiesta Norteña Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/81557.v4.png",
+    "stream_url": "https://stream.zeno.fm/2wy9xv857reuv",
+    "website": "https://zeno.fm/fiestaNorte/",
+    "provider": "onlineradiobox",
+    "country": "Nicaragua",
+    "genres": [
+      "ranchera",
+      "cumbia",
+      "banda"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:14:31+05:30"
+  },
+  {
+    "id": "onlineradiobox_ni.fitness",
+    "name": "Fitness Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/121759.v4.png",
+    "stream_url": "https://stream.zeno.fm/3wwbu98vc5zuv",
+    "website": "https://fitnessradio505.blogspot.com/",
+    "provider": "onlineradiobox",
+    "country": "Nicaragua",
+    "genres": [
+      "dance",
+      "electronic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:13:29+05:30"
+  },
+  {
+    "id": "onlineradiobox_ni.fundamental",
+    "name": "Fundamental Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/121918.v4.png",
+    "stream_url": "https://stream.zeno.fm/5rdgn50s2f8uv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Nicaragua",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:15:14+05:30"
+  },
+  {
+    "id": "onlineradiobox_ni.futura",
+    "name": "Radio Futura Nicaragua",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/111668.v10.png",
+    "stream_url": "https://stream.zeno.fm/iwmolyow6tivv",
+    "website": "http://radiofuturanicaragua.com/",
+    "provider": "onlineradiobox",
+    "country": "Nicaragua",
+    "genres": [
+      "reggaeton"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:11:42+05:30"
+  },
+  {
+    "id": "onlineradiobox_ni.getsemani889",
+    "name": "Radio Getsemani",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/103188.v8.png",
+    "stream_url": "https://stream.zeno.fm/0x5qd65g09duv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Nicaragua",
+    "genres": [
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:12:40+05:30"
+  },
+  {
+    "id": "onlineradiobox_ni.hermanos",
+    "name": "Radio Hermanos",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/66528.v7.png",
+    "stream_url": "https://stream.zeno.fm/vq7z0a3u7mruv",
+    "website": "http://radiohermanos.net/",
+    "provider": "onlineradiobox",
+    "country": "Nicaragua",
+    "genres": [
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:15:21+05:30"
+  },
+  {
+    "id": "onlineradiobox_ni.hotplate",
+    "name": "Hot Plate Radio",
+    "image": "https://cdn.onlineradiobox.com/img/logo/3/123973.png",
+    "stream_url": "https://stream.zeno.fm/gm3zesopiaeuv",
+    "website": "https://zeno.fm/radio/hotplateradio/",
+    "provider": "onlineradiobox",
+    "country": "Nicaragua",
+    "genres": [
+      "electronic",
+      "disco",
+      "funk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:13:42+05:30"
+  },
+  {
+    "id": "onlineradiobox_ni.impactodedios",
+    "name": "Radio Impacto de Dios",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/115284.v14.png",
+    "stream_url": "https://stream.zeno.fm/hng50quxhrhvv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Nicaragua",
+    "genres": [
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:14:30+05:30"
+  },
+  {
+    "id": "onlineradiobox_ni.instrumental",
+    "name": "Instrumental Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/121704.v5.png",
+    "stream_url": "https://stream.zeno.fm/3hhp1s4z8zhvv",
+    "website": "https://www.instrumentalradio.online/",
+    "provider": "onlineradiobox",
+    "country": "Nicaragua",
+    "genres": [
+      "easy listening",
+      "soundtrack",
+      "instrumental"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:11:48+05:30"
+  },
+  {
+    "id": "onlineradiobox_ni.jinotega",
+    "name": "Radio Jinotega",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/76562.v2.png",
+    "stream_url": "https://stream.pinedahost.com/radio/8060/radio",
+    "website": "https://radiojinotega.com/",
+    "provider": "onlineradiobox",
+    "country": "Nicaragua",
+    "genres": [
+      "news",
+      "sports",
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:12:47+05:30"
+  },
+  {
+    "id": "onlineradiobox_ni.joyafm",
+    "name": "Joya FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/36368.v7.png",
+    "stream_url": "https://www.nicaradios.com.ni/radios/joya/",
+    "website": "http://www.joyafm.com.ni/",
+    "provider": "onlineradiobox",
+    "country": "Nicaragua",
+    "genres": [
+      "rock",
+      "pop",
+      "90s",
+      "80s",
+      "70s",
+      "oldies",
+      "60s"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:13:31+05:30"
+  },
+  {
+    "id": "onlineradiobox_ni.juvenildelnorte",
+    "name": "Radio juvenil del norte",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/136971.v5.png",
+    "stream_url": "https://stream.zeno.fm/4qfuh7bsww2vv",
+    "website": "https://zeno.fm/radio/radio-juvenil-del-norte-online4qfuh7bsww2vv/",
+    "provider": "onlineradiobox",
+    "country": "Nicaragua",
+    "genres": [
+      "ranchera",
+      "salsa",
+      "merengue",
+      "cumbia",
+      "bachata"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:17:11+05:30"
+  },
+  {
+    "id": "onlineradiobox_ni.kairosseven",
+    "name": "Kairos Seven",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/80221.v7.png",
+    "stream_url": "https://sonic.host-live.com/8164/stream",
+    "website": "https://www.kairosseven.com/",
+    "provider": "onlineradiobox",
+    "country": "Nicaragua",
+    "genres": [
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:13:41+05:30"
+  },
+  {
+    "id": "onlineradiobox_ni.kilambe",
+    "name": "Radio Kilambe Wiwili",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/148092.v9.png",
+    "stream_url": "http://uk24freenew.listen2myradio.com:33963/;",
+    "website": "https://httpsdashinfinit.radiostream321.com/",
+    "provider": "onlineradiobox",
+    "country": "Nicaragua",
+    "genres": [
+      "talk",
+      "sports",
+      "community"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:16:11+05:30"
+  },
+  {
+    "id": "onlineradiobox_ni.kiss929",
+    "name": "Radio Kiss Matagalpa",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/56469.v10.png",
+    "stream_url": "https://stream.zeno.fm/f7gh5r3m6s8uv",
+    "website": "http://radiokiss929.com/",
+    "provider": "onlineradiobox",
+    "country": "Nicaragua",
+    "genres": [
+      "electronic",
+      "reggae",
+      "reggaeton"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:12:50+05:30"
+  },
+  {
+    "id": "onlineradiobox_ni.labipolar",
+    "name": "Radio La Bipolar",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/141509.v2.png",
+    "stream_url": "https://a4.asurahosting.com:7380/radio.mp3",
+    "website": "https://thesoundofthecarebbeanradio.com/",
+    "provider": "onlineradiobox",
+    "country": "Nicaragua",
+    "genres": [
+      "latin"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:14:19+05:30"
+  },
+  {
+    "id": "onlineradiobox_ni.lakye",
+    "name": "Radio La Kye",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/93432.v7.png",
+    "stream_url": "https://stream.zeno.fm/0ssdrkra84zuv",
+    "website": "https://zeno.fm/radio/radio-la-kye/",
+    "provider": "onlineradiobox",
+    "country": "Nicaragua",
+    "genres": [
+      "merengue",
+      "bachata"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:14:20+05:30"
+  },
+  {
+    "id": "onlineradiobox_ni.lamisioneradelaire",
+    "name": "Radio la Misionera del Aire",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/92040.v1.png",
+    "stream_url": "https://stream.zeno.fm/fuevqzm42mzuv",
+    "website": "https://lamisioneraradio.wixsite.com/radio-la-misionera",
+    "provider": "onlineradiobox",
+    "country": "Nicaragua",
+    "genres": [
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:12:43+05:30"
+  },
+  {
+    "id": "onlineradiobox_ni.lanuevaradioya",
+    "name": "La Nueva Radio Ya",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/36315.v13.png",
+    "stream_url": "https://stream.zenolive.com/axr92qawesmtv",
+    "website": "https://nuevaya.com.ni/",
+    "provider": "onlineradiobox",
+    "country": "Nicaragua",
+    "genres": [
+      "pop",
+      "news",
+      "talk",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:11:45+05:30"
+  },
+  {
+    "id": "onlineradiobox_ni.lapoderosa505",
+    "name": "La Original",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/94442.v6.png",
+    "stream_url": "https://stream.zeno.fm/wvcqyy2rm2zuv",
+    "website": "https://zeno.fm/radio/lap505/",
+    "provider": "onlineradiobox",
+    "country": "Nicaragua",
+    "genres": [
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:12:49+05:30"
+  },
+  {
+    "id": "onlineradiobox_ni.laprimerisima",
+    "name": "Radio La Primerísima",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/36324.v5.png",
+    "stream_url": "http://server.3hostingnica.com:9000/&type=mp3",
+    "website": "http://www.radiolaprimerisima.com/",
+    "provider": "onlineradiobox",
+    "country": "Nicaragua",
+    "genres": [
+      "pop",
+      "news",
+      "talk",
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:11:50+05:30"
+  },
+  {
+    "id": "onlineradiobox_ni.larock",
+    "name": "La Rock FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/127132.v5.png",
+    "stream_url": "https://securestream.us/radio/8050/radio.mp3",
+    "website": "https://rockfm.com.ni/",
+    "provider": "onlineradiobox",
+    "country": "Nicaragua",
+    "genres": [
+      "rock",
+      "metal",
+      "alternative"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:11:49+05:30"
+  },
+  {
+    "id": "onlineradiobox_ni.latuani",
+    "name": "La Tuani",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/36505.v12.png",
+    "stream_url": "https://server.multimediamb.com/9300/stream",
+    "website": "https://www.latuani.com.ni/",
+    "provider": "onlineradiobox",
+    "country": "Nicaragua",
+    "genres": [
+      "pop",
+      "news",
+      "talk",
+      "folk",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:11:44+05:30"
+  },
+  {
+    "id": "onlineradiobox_ni.lavozdeteresa",
+    "name": "RADIO LA VOZ DE TERESA",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/36634.v13.png",
+    "stream_url": "https://stream.zeno.fm/s9p8qq92em0uv",
+    "website": "http://lavozdeteresa.blogspot.com/",
+    "provider": "onlineradiobox",
+    "country": "Nicaragua",
+    "genres": [
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:14:29+05:30"
+  },
+  {
+    "id": "onlineradiobox_ni.lavozdezelayacentral",
+    "name": "Radio La Voz De Zelaya Central",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/143611.v1.png",
+    "stream_url": "https://stream.zeno.fm/bbyhup8s8dauv",
+    "website": "https://zeno.fm/radio/radiolavozdezelaya",
+    "provider": "onlineradiobox",
+    "country": "Nicaragua",
+    "genres": [
+      "ranchera",
+      "reggaeton",
+      "cumbia",
+      "bachata"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:15:18+05:30"
+  },
+  {
+    "id": "onlineradiobox_ni.leonenlinea",
+    "name": "Radio León en linea",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/127404.v1.png",
+    "stream_url": "https://stream1.svrdedicado.org/8072/stream",
+    "website": "https://radioleonweb.blogspot.com/",
+    "provider": "onlineradiobox",
+    "country": "Nicaragua",
+    "genres": [
+      "eclectic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:15:27+05:30"
+  },
+  {
+    "id": "onlineradiobox_ni.levantateelshow",
+    "name": "Levantate el show",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/121019.v7.png",
+    "stream_url": "https://dattavolt.com/8174/stream",
+    "website": "https://levantateelshow.com/",
+    "provider": "onlineradiobox",
+    "country": "Nicaragua",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:16:21+05:30"
+  },
+  {
+    "id": "onlineradiobox_ni.lifematagalpa",
+    "name": "Radio Life Matagalpa",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/88231.v4.png",
+    "stream_url": "https://stream.zeno.fm/yya27dkmuqruv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Nicaragua",
+    "genres": [
+      "electronic",
+      "hip-hop",
+      "reggaeton",
+      "salsa",
+      "merengue",
+      "cumbia"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:14:26+05:30"
+  },
+  {
+    "id": "onlineradiobox_ni.lineaderefugio",
+    "name": "Radio Línea de Refugio",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/102527.v7.png",
+    "stream_url": "https://stream.zeno.fm/ml7qja3hj7bvv",
+    "website": "https://radiolineaderefugio.wixsite.com/enlinea",
+    "provider": "onlineradiobox",
+    "country": "Nicaragua",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:13:31+05:30"
+  },
+  {
+    "id": "onlineradiobox_ni.lovelatina",
+    "name": "Love radio latina",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/98546.v4.png",
+    "stream_url": "https://stream.zeno.fm/xpff0ehy0f8uv",
+    "website": "https://radiolovelatina.jimdofree.com/",
+    "provider": "onlineradiobox",
+    "country": "Nicaragua",
+    "genres": [
+      "rock",
+      "pop",
+      "classic",
+      "romantic",
+      "love songs",
+      "balada"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:12:46+05:30"
+  },
+  {
+    "id": "onlineradiobox_ni.luckydubee",
+    "name": "Lucky Dubee Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/141474.v1.png",
+    "stream_url": "https://a6.asurahosting.com:7320/radio.mp3",
+    "website": "https://thesoundofthecarebbeanradio.com/",
+    "provider": "onlineradiobox",
+    "country": "Nicaragua",
+    "genres": [
+      "reggae"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:16:15+05:30"
+  },
+  {
+    "id": "onlineradiobox_ni.maria",
+    "name": "Radio Maria",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/36346.v6.png",
+    "stream_url": "http://dreamsiteradiocp4.com:8048/;?",
+    "website": "http://radiomaria.org.ni/",
+    "provider": "onlineradiobox",
+    "country": "Nicaragua",
+    "genres": [
+      "talk",
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:11:55+05:30"
+  },
+  {
+    "id": "onlineradiobox_ni.masayahit",
+    "name": "Radio masaya Hit",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/127936.v2.png",
+    "stream_url": "https://stream.zeno.fm/o2pxgthjryktv",
+    "website": "https://zeno.fm/player/radio-masaya-hit-mhh4",
+    "provider": "onlineradiobox",
+    "country": "Nicaragua",
+    "genres": [
+      "romantic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:12:36+05:30"
+  },
+  {
+    "id": "onlineradiobox_ni.matiguas",
+    "name": "Radio Matiguás",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/127122.v3.png",
+    "stream_url": "https://stream.zeno.fm/arx8r9n8sc9uv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Nicaragua",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:14:27+05:30"
+  },
+  {
+    "id": "onlineradiobox_ni.metro",
+    "name": "Metro FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/92511.v7.png",
+    "stream_url": "https://laradio.stream/proxy/metrofm/stream",
+    "website": "https://www.radioparallevar.com/metrofm",
+    "provider": "onlineradiobox",
+    "country": "Nicaragua",
+    "genres": [
+      "pop",
+      "top40",
+      "reggaeton",
+      "latin",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:13:42+05:30"
+  },
+  {
+    "id": "onlineradiobox_ni.miquerida",
+    "name": "Mi Querida",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/115915.v4.png",
+    "stream_url": "https://stream.zeno.fm/353ud79mnrhvv",
+    "website": "http://www.miquerida965fm.webnode.es/",
+    "provider": "onlineradiobox",
+    "country": "Nicaragua",
+    "genres": [
+      "ranchera",
+      "salsa",
+      "merengue",
+      "cumbia",
+      "banda"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:14:27+05:30"
+  },
+  {
+    "id": "onlineradiobox_ni.mujer",
+    "name": "Siempre Joven",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/126347.v8.png",
+    "stream_url": "https://stream.zeno.fm/isizeju3lbrvv",
+    "website": "https://zeno.fm/radio/siemprejoven/",
+    "provider": "onlineradiobox",
+    "country": "Nicaragua",
+    "genres": [
+      "retro",
+      "oldies"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:16:15+05:30"
+  },
+  {
+    "id": "onlineradiobox_ni.mundoactual",
+    "name": "Radio Fe y Verdad",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/129756.v6.png",
+    "stream_url": "https://stream.zeno.fm/ean80otsqrxtv",
+    "website": "https://zeno.fm/radio/radio-fe-y-verdad/",
+    "provider": "onlineradiobox",
+    "country": "Nicaragua",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:14:22+05:30"
+  },
+  {
+    "id": "onlineradiobox_ni.musicnicaragua",
+    "name": "Radio Music Nicaragua",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/87940.v2.png",
+    "stream_url": "https://stream.zeno.fm/8mwf6ssgtceuv",
+    "website": "https://radiomusicnicaragu.wixsite.com/online",
+    "provider": "onlineradiobox",
+    "country": "Nicaragua",
+    "genres": [
+      "electronic",
+      "reggaeton",
+      "latin",
+      "salsa",
+      "merengue",
+      "bachata",
+      "banda"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:14:19+05:30"
+  },
+  {
+    "id": "onlineradiobox_ni.musiconline",
+    "name": "Radio Music Online",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/80211.v2.png",
+    "stream_url": "https://ic.streann.com/cvaudio",
+    "website": "http://radiomusicfm.mex.tl/",
+    "provider": "onlineradiobox",
+    "country": "Nicaragua",
+    "genres": [
+      "pop",
+      "news",
+      "latin"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:14:24+05:30"
+  },
+  {
+    "id": "onlineradiobox_ni.mymusiccollection",
+    "name": "Hotmusic Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/75371.v8.png",
+    "stream_url": "https://stream.zenolive.com/dwmeq8xk2rquv",
+    "website": "http://hotmusicradio.cf/",
+    "provider": "onlineradiobox",
+    "country": "Nicaragua",
+    "genres": [
+      "pop",
+      "news",
+      "reggaeton"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:14:22+05:30"
+  },
+  {
+    "id": "onlineradiobox_ni.nica",
+    "name": "Radio Nica 94.10 Fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/123135.v2.png",
+    "stream_url": "http://media.dominiocreativo.com:8040/stereonica",
+    "website": "https://nica94.com/",
+    "provider": "onlineradiobox",
+    "country": "Nicaragua",
+    "genres": [
+      "top40",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:16:12+05:30"
+  },
+  {
+    "id": "onlineradiobox_ni.nicaradio",
+    "name": "Nicaradio",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/127139.v2.png",
+    "stream_url": "https://stream.zeno.fm/533wr7agyztvv",
+    "website": "https://zeno.fm/radio/NICARADIO/",
+    "provider": "onlineradiobox",
+    "country": "Nicaragua",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:16:11+05:30"
+  },
+  {
+    "id": "onlineradiobox_ni.norteaesteli",
+    "name": "Radio Norteña Estelí",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/127003.v2.png",
+    "stream_url": "https://stream.zeno.fm/04ab94yv1f9uv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Nicaragua",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:11:53+05:30"
+  },
+  {
+    "id": "onlineradiobox_ni.nortenadigital",
+    "name": "Norteña Digital Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/116889.v3.png",
+    "stream_url": "https://stream.nortenadigital.com/listen/nortena_digital_radio/radio",
+    "website": "https://www.nortenadigital.com/",
+    "provider": "onlineradiobox",
+    "country": "Nicaragua",
+    "genres": [
+      "news"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:16:17+05:30"
+  },
+  {
+    "id": "onlineradiobox_ni.nuevaecodivinoonline",
+    "name": "La nueva radio eco divino online",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/152896.v3.png",
+    "stream_url": "https://stream.zeno.fm/v6cwugsfogluv",
+    "website": "https://zeno.fm/radio/la-nueva-radio-eco-divino-online/",
+    "provider": "onlineradiobox",
+    "country": "Nicaragua",
+    "genres": [
+      "ranchera",
+      "salsa",
+      "merengue",
+      "cumbia",
+      "bachata"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:17:05+05:30"
+  },
+  {
+    "id": "onlineradiobox_ni.oasisdebendicion",
+    "name": "Radio Oasis de bendición 98.1 FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/144648.v8.png",
+    "stream_url": "https://stream.zeno.fm/gvnbnme2xpsuv",
+    "website": "https://plum-rabbit-z5jfkt.mystrikingly.com/",
+    "provider": "onlineradiobox",
+    "country": "Nicaragua",
+    "genres": [
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:15:27+05:30"
+  },
+  {
+    "id": "onlineradiobox_ni.palabradevidayesperanza",
+    "name": "Ministerio Cristiano Palabra de Vida y Esperanza",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/112449.v4.png",
+    "stream_url": "https://cast4.my-control-panel.com/proxy/palabradevida?mp=/1",
+    "website": "http://palabradevidayesperanza.com/",
+    "provider": "onlineradiobox",
+    "country": "Nicaragua",
+    "genres": [
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:15:17+05:30"
+  },
+  {
+    "id": "onlineradiobox_ni.patronosmasaya",
+    "name": "Patronos Masaya Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/116342.v3.png",
+    "stream_url": "https://stream.zeno.fm/286z3mep7whvv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Nicaragua",
+    "genres": [
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:13:40+05:30"
+  },
+  {
+    "id": "onlineradiobox_ni.pisona",
+    "name": "Radio Pisona",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/152325.v2.png",
+    "stream_url": "https://stream.zeno.fm/5snmygyrpbatv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Nicaragua",
+    "genres": [
+      "pop",
+      "ranchera",
+      "salsa",
+      "cumbia",
+      "banda",
+      "balada"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:17:18+05:30"
+  },
+  {
+    "id": "onlineradiobox_ni.prixestereo",
+    "name": "Prix Estereo",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/121020.v4.png",
+    "stream_url": "https://dattavolt.com/8368/stream",
+    "website": "https://levantateelshow.com/",
+    "provider": "onlineradiobox",
+    "country": "Nicaragua",
+    "genres": [],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:15:25+05:30"
+  },
+  {
+    "id": "onlineradiobox_ni.prncipedepazsomotillo",
+    "name": "Príncipe de Paz",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/137177.v6.png",
+    "stream_url": "https://app.sonicpanelradio.com/8050/streaming",
+    "website": "https://www.principedepaz.top/radio-principe-de-paz-somotillo/",
+    "provider": "onlineradiobox",
+    "country": "Nicaragua",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:15:26+05:30"
+  },
+  {
+    "id": "onlineradiobox_ni.profetica95.5fm",
+    "name": "Radio Profetica 95.5 Fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/150248.v1.png",
+    "stream_url": "https://stream.zeno.fm/xsxffwp2yuhvv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Nicaragua",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:17:16+05:30"
+  },
+  {
+    "id": "onlineradiobox_ni.publimag",
+    "name": "Publimag Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/139662.v1.png",
+    "stream_url": "https://stream.zeno.fm/wlrpwkyubojvv",
+    "website": "https://zeno.fm/radio/publimag-radio-com/",
+    "provider": "onlineradiobox",
+    "country": "Nicaragua",
+    "genres": [
+      "reggaeton",
+      "merengue",
+      "cumbia"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:17:12+05:30"
+  },
+  {
+    "id": "onlineradiobox_ni.quebendicion",
+    "name": "Radio Que Bendicion",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/112920.v3.png",
+    "stream_url": "https://sonic.radiostreaminglatino.com/8126/stream",
+    "website": "https://grupoquebendicion.com/radioquebendicion/",
+    "provider": "onlineradiobox",
+    "country": "Nicaragua",
+    "genres": [
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:17:08+05:30"
+  },
+  {
+    "id": "onlineradiobox_ni.radio800am",
+    "name": "Radio 800 AM",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/36643.v6.png",
+    "stream_url": "https://radio42.globalhost1.com/8032/stream",
+    "website": "https://radio800ni.com/",
+    "provider": "onlineradiobox",
+    "country": "Nicaragua",
+    "genres": [
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:12:36+05:30"
+  },
+  {
+    "id": "onlineradiobox_ni.radioabcstereo",
+    "name": "Radio ABC Stereo",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/36631.v11.png",
+    "stream_url": "https://hoth.alonhosting.com:4205/stream",
+    "website": "https://radioabcstereo.com/",
+    "provider": "onlineradiobox",
+    "country": "Nicaragua",
+    "genres": [
+      "pop",
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:11:46+05:30"
+  },
+  {
+    "id": "onlineradiobox_ni.radiocalero",
+    "name": "Radio Calero",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/121152.v11.png",
+    "stream_url": "https://stream.zeno.fm/2ponna82ykutv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Nicaragua",
+    "genres": [
+      "pop",
+      "ranchera",
+      "salsa",
+      "cumbia",
+      "banda",
+      "balada"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:16:20+05:30"
+  },
+  {
+    "id": "onlineradiobox_ni.radiocorporacin",
+    "name": "Radio Corporación",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/35989.v11.png",
+    "stream_url": "https://stream.zeno.fm/2d1n26k0a7duv",
+    "website": "http://www.radio-corporacion.com/",
+    "provider": "onlineradiobox",
+    "country": "Nicaragua",
+    "genres": [
+      "pop",
+      "news",
+      "talk",
+      "folk",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:11:39+05:30"
+  },
+  {
+    "id": "onlineradiobox_ni.radiofamily",
+    "name": "Radio Stereo Family",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/37279.v3.png",
+    "stream_url": "https://stream.pinedahost.com/radio/8050/;",
+    "website": "https://radiofamily907.com/",
+    "provider": "onlineradiobox",
+    "country": "Nicaragua",
+    "genres": [
+      "pop",
+      "news",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:13:33+05:30"
+  },
+  {
+    "id": "onlineradiobox_ni.radiolamarka",
+    "name": "Radio La Marka",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/36620.v10.png",
+    "stream_url": "https://www.radiosnicaragua.com.ni/radios/la-marka/",
+    "website": "https://www.radiosnicaragua.com.ni/radios/la-marka/",
+    "provider": "onlineradiobox",
+    "country": "Nicaragua",
+    "genres": [
+      "dance",
+      "electronic",
+      "trance",
+      "house"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:15:15+05:30"
+  },
+  {
+    "id": "onlineradiobox_ni.radiomundoactual",
+    "name": "Radio Mundo Actual Online",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/145279.v1.png",
+    "stream_url": "https://sp14.instainternet.com/8024/stream",
+    "website": "https://radiomundoactual.online/",
+    "provider": "onlineradiobox",
+    "country": "Nicaragua",
+    "genres": [
+      "news",
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:16:14+05:30"
+  },
+  {
+    "id": "onlineradiobox_ni.radionicaragua",
+    "name": "Radio Nicaragua",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/36507.v6.png",
+    "stream_url": "https://online.radionicaragua.com.ni/stream.mp3",
+    "website": "http://www.radionicaragua.com.ni/",
+    "provider": "onlineradiobox",
+    "country": "Nicaragua",
+    "genres": [
+      "pop",
+      "news",
+      "talk",
+      "folk",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:13:28+05:30"
+  },
+  {
+    "id": "onlineradiobox_ni.radioometepe",
+    "name": "Radio Ometepe",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/79079.v6.png",
+    "stream_url": "https://rr5100.globalhost1.com/8240/stream",
+    "website": "http://www.radioometepe.com/",
+    "provider": "onlineradiobox",
+    "country": "Nicaragua",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:13:35+05:30"
+  },
+  {
+    "id": "onlineradiobox_ni.radioondasdeluz",
+    "name": "Radio Ondas de Luz",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/36637.v4.png",
+    "stream_url": "https://vivo.miradio.in/8102/stream",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Nicaragua",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:11:43+05:30"
+  },
+  {
+    "id": "onlineradiobox_ni.radioritmolatino",
+    "name": "Radio Ritmo Latino",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/37119.v12.png",
+    "stream_url": "https://subituradio.com/8010/stream/;type=mp3",
+    "website": "https://www.radioritmolatino1005.com/",
+    "provider": "onlineradiobox",
+    "country": "Nicaragua",
+    "genres": [
+      "pop",
+      "latin",
+      "salsa"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:14:29+05:30"
+  },
+  {
+    "id": "onlineradiobox_ni.radiosandino",
+    "name": "Radio Sandino",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/36316.v5.png",
+    "stream_url": "http://streaming.lasandino.com.ni:8020/lasandino.mp3",
+    "website": "http://www.lasandino.com.ni/",
+    "provider": "onlineradiobox",
+    "country": "Nicaragua",
+    "genres": [
+      "pop",
+      "news",
+      "talk",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:11:54+05:30"
+  },
+  {
+    "id": "onlineradiobox_ni.radiosegovia",
+    "name": "Radio Segovia",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/36537.v7.png",
+    "stream_url": "https://stream.zeno.fm/dxkpx08drchvv",
+    "website": "http://radiosegovia.net/",
+    "provider": "onlineradiobox",
+    "country": "Nicaragua",
+    "genres": [
+      "pop",
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:14:18+05:30"
+  },
+  {
+    "id": "onlineradiobox_ni.radiosendasfm",
+    "name": "Radio Sendas FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/37110.v5.png",
+    "stream_url": "https://s17.ssl-stream.com/proxy/radiosendasfm?mp=/stream",
+    "website": "http://radiosendasfm.com/",
+    "provider": "onlineradiobox",
+    "country": "Nicaragua",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:16:14+05:30"
+  },
+  {
+    "id": "onlineradiobox_ni.radiosuprema",
+    "name": "Radio Suprema",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/36622.v8.png",
+    "stream_url": "https://www.radiosnicaragua.com.ni/radios/suprema/",
+    "website": "https://www.nicaradios.com.ni/radios/suprema/",
+    "provider": "onlineradiobox",
+    "country": "Nicaragua",
+    "genres": [
+      "dance",
+      "rock",
+      "pop",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:16:13+05:30"
+  },
+  {
+    "id": "onlineradiobox_ni.radiotropiclida",
+    "name": "RT 89.9 FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/36511.v7.png",
+    "stream_url": "https://www.radiosnicaragua.com.ni/radios/tropicalida/",
+    "website": "https://www.nicaradios.com.ni/radios/rt/",
+    "provider": "onlineradiobox",
+    "country": "Nicaragua",
+    "genres": [
+      "dance",
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:15:14+05:30"
+  },
+  {
+    "id": "onlineradiobox_ni.recuerdos",
+    "name": "Radio Recuerdos",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/99551.v3.png",
+    "stream_url": "https://stream.zeno.fm/xkg1uzfbfv8uv",
+    "website": "https://radiorecuerdosnicaragua.blogspot.com/",
+    "provider": "onlineradiobox",
+    "country": "Nicaragua",
+    "genres": [
+      "oldies",
+      "latin"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:11:47+05:30"
+  },
+  {
+    "id": "onlineradiobox_ni.regocijoespritual",
+    "name": "Radio Regocijo Espritual",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/96173.v2.png",
+    "stream_url": "https://stream.zeno.fm/z43n8zahwa0uv",
+    "website": "https://zeno.fm/radio-regocijo-espiritual/",
+    "provider": "onlineradiobox",
+    "country": "Nicaragua",
+    "genres": [
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:17:09+05:30"
+  },
+  {
+    "id": "onlineradiobox_ni.renovacion",
+    "name": "Renovación Radio 98.9FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/135987.v1.png",
+    "stream_url": "https://radios.yanapak.org/renovacionradio98.9fm",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Nicaragua",
+    "genres": [
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:16:10+05:30"
+  },
+  {
+    "id": "onlineradiobox_ni.republica",
+    "name": "RADIO REPUBLICA",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/97752.v9.png",
+    "stream_url": "https://stream.zeno.fm/3kruxu5a9s8uv",
+    "website": "https://radio-republica.com/",
+    "provider": "onlineradiobox",
+    "country": "Nicaragua",
+    "genres": [
+      "news",
+      "latin",
+      "politics"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:14:26+05:30"
+  },
+  {
+    "id": "onlineradiobox_ni.restauracion",
+    "name": "Radio Restauracion",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/36455.v7.png",
+    "stream_url": "https://ssl.voxservidor.com:7048/;",
+    "website": "https://mirestauracion.org/",
+    "provider": "onlineradiobox",
+    "country": "Nicaragua",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:11:46+05:30"
+  },
+  {
+    "id": "onlineradiobox_ni.ride",
+    "name": "Ride Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/88988.v3.png",
+    "stream_url": "https://stream.zeno.fm/sveby10xawzuv",
+    "website": "https://zeno.fm/ride-radio/",
+    "provider": "onlineradiobox",
+    "country": "Nicaragua",
+    "genres": [
+      "oldies"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:11:57+05:30"
+  },
+  {
+    "id": "onlineradiobox_ni.rocafiel",
+    "name": "Radio Online Roca Fiel",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/153697.v1.png",
+    "stream_url": "https://stream.zeno.fm/gq82e3bg0rhvv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Nicaragua",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:16:16+05:30"
+  },
+  {
+    "id": "onlineradiobox_ni.rumba505",
+    "name": "Radio Rumba 505",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/148314.v3.png",
+    "stream_url": "https://stream.zeno.fm/nsdum0ihkmkvv",
+    "website": "https://notitvandradiorumba.godaddysites.com/",
+    "provider": "onlineradiobox",
+    "country": "Nicaragua",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:17:10+05:30"
+  },
+  {
+    "id": "onlineradiobox_ni.samuel",
+    "name": "Radio Samuel",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/135879.v4.png",
+    "stream_url": "https://stream.zeno.fm/whe8d3y5w9wvv",
+    "website": "https://radiosamuel.com/",
+    "provider": "onlineradiobox",
+    "country": "Nicaragua",
+    "genres": [
+      "ranchera",
+      "salsa",
+      "merengue",
+      "cumbia",
+      "bachata",
+      "romantic",
+      "vallenato"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:13:43+05:30"
+  },
+  {
+    "id": "onlineradiobox_ni.sanjose",
+    "name": "Radio San Jose 96.9 Fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/92984.v7.png",
+    "stream_url": "https://stream.zeno.fm/pqqmerkka8zuv",
+    "website": "https://zeno.fm/radio-san-josek32baxty77zuv/",
+    "provider": "onlineradiobox",
+    "country": "Nicaragua",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:13:38+05:30"
+  },
+  {
+    "id": "onlineradiobox_ni.sanjosematiguas",
+    "name": "Radio San Jose Matiguas",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/88229.v2.png",
+    "stream_url": "https://stream.zeno.fm/33hu8323ahruv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Nicaragua",
+    "genres": [
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:15:22+05:30"
+  },
+  {
+    "id": "onlineradiobox_ni.sansebastian883",
+    "name": "Radio San Sebastián",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/109437.v2.png",
+    "stream_url": "https://stream.zeno.fm/r0m8nqhrpc9uv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Nicaragua",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:13:32+05:30"
+  },
+  {
+    "id": "onlineradiobox_ni.santalucia",
+    "name": "Radio Santa Lucia",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/66527.v5.png",
+    "stream_url": "https://stream.zeno.fm/2510fz0w87zuv",
+    "website": "http://radiosantalucia.org/",
+    "provider": "onlineradiobox",
+    "country": "Nicaragua",
+    "genres": [
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:15:20+05:30"
+  },
+  {
+    "id": "onlineradiobox_ni.santarita",
+    "name": "Radio Santa Rita",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/137178.v4.png",
+    "stream_url": "https://stream.zeno.fm/sikq4ra2tcttv",
+    "website": "https://zeno.fm/radio/radio-santa-rita-r1x9/",
+    "provider": "onlineradiobox",
+    "country": "Nicaragua",
+    "genres": [
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:17:15+05:30"
+  },
+  {
+    "id": "onlineradiobox_ni.sonoro",
+    "name": "Sonoro Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/122282.v3.png",
+    "stream_url": "https://stream.zeno.fm/gpnke9xsxjhvv",
+    "website": "https://sonorolocutores.net/",
+    "provider": "onlineradiobox",
+    "country": "Nicaragua",
+    "genres": [
+      "dance",
+      "easy listening",
+      "romantic",
+      "balada"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:13:34+05:30"
+  },
+  {
+    "id": "onlineradiobox_ni.stereobesame",
+    "name": "Stereo Besame",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/85977.v4.png",
+    "stream_url": "http://ngstreaming.info:8182/stream",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Nicaragua",
+    "genres": [
+      "romantic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:13:28+05:30"
+  },
+  {
+    "id": "onlineradiobox_ni.stereobeso",
+    "name": "Stereo Beso",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/103060.v8.png",
+    "stream_url": "https://a9.asurahosting.com/listen/stereo_beso/radio.mp3",
+    "website": "https://radiobeso.net/",
+    "provider": "onlineradiobox",
+    "country": "Nicaragua",
+    "genres": [
+      "pop",
+      "oldies",
+      "latin"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:12:42+05:30"
+  },
+  {
+    "id": "onlineradiobox_ni.stereocorazon",
+    "name": "Radio Stereo Corazón",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/83462.v4.png",
+    "stream_url": "https://yesfm.vip:8020/stream/1/",
+    "website": "http://stereocorazon.com/",
+    "provider": "onlineradiobox",
+    "country": "Nicaragua",
+    "genres": [
+      "romantic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:15:20+05:30"
+  },
+  {
+    "id": "onlineradiobox_ni.stereocristiana",
+    "name": "Radio stereo cristiana online",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/147234.v1.png",
+    "stream_url": "https://stream.zeno.fm/93xw7pnn21zuv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Nicaragua",
+    "genres": [
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:12:44+05:30"
+  },
+  {
+    "id": "onlineradiobox_ni.stereodalia961",
+    "name": "Radio Stereo Dalia 96.1 Fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/117052.v4.png",
+    "stream_url": "https://stream.zeno.fm/0dqs1rnv6k8uv",
+    "website": "https://stereodalia.wixsite.com/stereodalia",
+    "provider": "onlineradiobox",
+    "country": "Nicaragua",
+    "genres": [
+      "news",
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:17:10+05:30"
+  },
+  {
+    "id": "onlineradiobox_ni.stereofe",
+    "name": "Radio Stereo Fe",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/99406.v6.png",
+    "stream_url": "http://51.161.84.170:8171/stream",
+    "website": "https://radiostereofe985.com/",
+    "provider": "onlineradiobox",
+    "country": "Nicaragua",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:16:20+05:30"
+  },
+  {
+    "id": "onlineradiobox_ni.stereomadriz",
+    "name": "Radio Stereo Madriz",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/67297.v12.png",
+    "stream_url": "https://stream.zeno.fm/n7ur3nfdft5tv",
+    "website": "https://stereomadrizsomoto.es.tl/",
+    "provider": "onlineradiobox",
+    "country": "Nicaragua",
+    "genres": [
+      "pop",
+      "news",
+      "balada"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:13:37+05:30"
+  },
+  {
+    "id": "onlineradiobox_ni.stereomonimbo",
+    "name": "Radio Stereo Monimbo",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/107192.v3.png",
+    "stream_url": "https://stream.zeno.fm/mfc879gzfm8uv",
+    "website": "https://radiostereomonimbo.blogspot.com/",
+    "provider": "onlineradiobox",
+    "country": "Nicaragua",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:12:48+05:30"
+  },
+  {
+    "id": "onlineradiobox_ni.stereomundo",
+    "name": "Radio Stereo Mundo 91.9 FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/154286.v2.png",
+    "stream_url": "https://ssl.hostingtico.com:8138/smundo2014",
+    "website": "https://www.stereomundo919.com/",
+    "provider": "onlineradiobox",
+    "country": "Nicaragua",
+    "genres": [
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:16:12+05:30"
+  },
+  {
+    "id": "onlineradiobox_ni.stereoredencion",
+    "name": "Radio Stereo Redencion",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/37096.v9.png",
+    "stream_url": "https://s17.ssl-stream.com/proxy/stereoredencion?mp=/stream",
+    "website": "http://stereoredencion.org/",
+    "provider": "onlineradiobox",
+    "country": "Nicaragua",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:14:24+05:30"
+  },
+  {
+    "id": "onlineradiobox_ni.stereoresurreccion",
+    "name": "Radio Stereo Resurrección",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/97636.v4.png",
+    "stream_url": "https://c15.radioboss.fm:8667/stream",
+    "website": "https://www.radiostereoresurreccion.com/",
+    "provider": "onlineradiobox",
+    "country": "Nicaragua",
+    "genres": [
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:12:38+05:30"
+  },
+  {
+    "id": "onlineradiobox_ni.stereosanrafael",
+    "name": "Radio San Rafael 105.5 Fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/136804.v10.png",
+    "stream_url": "https://stream.zeno.fm/dp8k3tdr3m5vv",
+    "website": "https://radio.stereo.san.rafael.com/",
+    "provider": "onlineradiobox",
+    "country": "Nicaragua",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:16:09+05:30"
+  },
+  {
+    "id": "onlineradiobox_ni.stereosantamaria",
+    "name": "Stereo Pantasma",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/84969.v11.png",
+    "stream_url": "https://stream.zeno.fm/rc47u1upn8quv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Nicaragua",
+    "genres": [
+      "sports",
+      "hits",
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:11:52+05:30"
+  },
+  {
+    "id": "onlineradiobox_ni.steriomardin1067",
+    "name": "Sterio mardin 106.7fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/131447.v5.png",
+    "stream_url": "http://uk2freenew.listen2myradio.com:8473/;",
+    "website": "http://radiosteriomardinfm.radio12345.com/",
+    "provider": "onlineradiobox",
+    "country": "Nicaragua",
+    "genres": [
+      "electronic",
+      "romantic",
+      "balada"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:12:45+05:30"
+  },
+  {
+    "id": "onlineradiobox_ni.subterraneoamerical",
+    "name": "Subterráneo Americal Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/132300.v6.png",
+    "stream_url": "https://custom-azura1.asurahosting.com/listen/subterraneo_americal_radio/radio.mp3",
+    "website": "https://radio.subterraneoamerical.tk/",
+    "provider": "onlineradiobox",
+    "country": "Nicaragua",
+    "genres": [
+      "rock",
+      "metal",
+      "alternative"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:13:39+05:30"
+  },
+  {
+    "id": "onlineradiobox_ni.superhits",
+    "name": "Super Hits Nicaragua",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/88235.v2.png",
+    "stream_url": "https://stream.zeno.fm/v6836yt2ahruv",
+    "website": "https://elderorozconicaragua.com/",
+    "provider": "onlineradiobox",
+    "country": "Nicaragua",
+    "genres": [
+      "electronic",
+      "reggaeton",
+      "salsa"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:13:30+05:30"
+  },
+  {
+    "id": "onlineradiobox_ni.superstereo",
+    "name": "Super Stereo",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/123706.v4.png",
+    "stream_url": "https://stream.zeno.fm/fe9cay03wfkuv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Nicaragua",
+    "genres": [
+      "ranchera",
+      "grupera",
+      "salsa",
+      "romantic",
+      "banda"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:15:15+05:30"
+  },
+  {
+    "id": "onlineradiobox_ni.thesoundofthecarebbean",
+    "name": "The Sound Of The Carebbean",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/141472.v1.png",
+    "stream_url": "https://a10.asurahosting.com:8570/radio.mp3",
+    "website": "https://thesoundofthecarebbeanradio.com/",
+    "provider": "onlineradiobox",
+    "country": "Nicaragua",
+    "genres": [
+      "reggae"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:13:30+05:30"
+  },
+  {
+    "id": "onlineradiobox_ni.tigre939",
+    "name": "Radio Tigre 93.9 FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/36510.v7.png",
+    "stream_url": "https://stream.zeno.fm/muckqtmpfvatv",
+    "website": "http://www.radiotigre.com/index.html",
+    "provider": "onlineradiobox",
+    "country": "Nicaragua",
+    "genres": [
+      "pop",
+      "news",
+      "talk",
+      "folk",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:11:41+05:30"
+  },
+  {
+    "id": "onlineradiobox_ni.total505",
+    "name": "Radio total 505",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/111827.v23.png",
+    "stream_url": "https://zonaclouds.ddns.net:8020/stream",
+    "website": "https://radiototal505.blogspot.com/",
+    "provider": "onlineradiobox",
+    "country": "Nicaragua",
+    "genres": [
+      "rock",
+      "disco",
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:11:57+05:30"
+  },
+  {
+    "id": "onlineradiobox_ni.tropical",
+    "name": "Tropical Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/111052.v6.png",
+    "stream_url": "https://stream.zeno.fm/shwqry2xhchvv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Nicaragua",
+    "genres": [],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:13:29+05:30"
+  },
+  {
+    "id": "onlineradiobox_ni.uncion1013",
+    "name": "Radio Uncion 102.3 Fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/85910.v11.png",
+    "stream_url": "http://freeuk22.listen2myradio.com:6995/;",
+    "website": "https://uncionradio1023.radiostream321.com/",
+    "provider": "onlineradiobox",
+    "country": "Nicaragua",
+    "genres": [
+      "gospel",
+      "ranchera",
+      "cumbia"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:14:25+05:30"
+  },
+  {
+    "id": "onlineradiobox_ni.valle883",
+    "name": "Radio Valle la del Humor Nicaragua",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/132718.v13.png",
+    "stream_url": "https://stream.zeno.fm/cr2pn3mrbrzuv",
+    "website": "https://klkone.com/",
+    "provider": "onlineradiobox",
+    "country": "Nicaragua",
+    "genres": [
+      "comedy",
+      "entertainment",
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:15:19+05:30"
+  },
+  {
+    "id": "onlineradiobox_ni.vandalicanicaragua",
+    "name": "Radio Vandalica Nicaragua",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/88552.v3.png",
+    "stream_url": "https://stream.zeno.fm/5d35mwn1fnruv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Nicaragua",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:14:22+05:30"
+  },
+  {
+    "id": "onlineradiobox_ni.vidajuigalpa",
+    "name": "Radio Vida Juigalpa",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/98300.v3.png",
+    "stream_url": "https://stream.zeno.fm/heux5w7xywzuv",
+    "website": "https://radiovidajuigalpa.wixsite.com/nica",
+    "provider": "onlineradiobox",
+    "country": "Nicaragua",
+    "genres": [
+      "christian",
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:17:12+05:30"
+  },
+  {
+    "id": "onlineradiobox_ni.vidanicaragua",
+    "name": "Radio Vida Nicaragua 107.3 fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/86887.v8.png",
+    "stream_url": "https://servidor26-2.brlogic.com:7162/live",
+    "website": "http://www.vidafmnicaragua.com/",
+    "provider": "onlineradiobox",
+    "country": "Nicaragua",
+    "genres": [
+      "pop",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:12:49+05:30"
+  },
+  {
+    "id": "onlineradiobox_ni.visiondediosstereo",
+    "name": "Radio Visión de Dios Stereo",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/84785.v7.png",
+    "stream_url": "http://stereovisiondediosradio.sitiosweb7.live/stream",
+    "website": "https://stereovisiondedios.com/",
+    "provider": "onlineradiobox",
+    "country": "Nicaragua",
+    "genres": [
+      "gospel",
+      "ranchera",
+      "balada"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:12:35+05:30"
+  },
+  {
+    "id": "onlineradiobox_ni.visionhermosa",
+    "name": "Radio Visión Hermosa 95.1 Fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/151052.v3.png",
+    "stream_url": "https://radios.solumedia.com:6752/stream?icy=http",
+    "website": "https://www.radiovisionhermosa.com/",
+    "provider": "onlineradiobox",
+    "country": "Nicaragua",
+    "genres": [
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:16:10+05:30"
+  },
+  {
+    "id": "onlineradiobox_ni.viva",
+    "name": "Viva León",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/108603.v1.png",
+    "stream_url": "https://stream.zeno.fm/1zet4nf7n98uv",
+    "website": "http://vivaleon.online/",
+    "provider": "onlineradiobox",
+    "country": "Nicaragua",
+    "genres": [
+      "news",
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:15:24+05:30"
+  },
+  {
+    "id": "onlineradiobox_ni.viva983",
+    "name": "Radio Viva FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/67380.v11.png",
+    "stream_url": "https://stream.zeno.fm/78a5h5mfgg8uv",
+    "website": "https://viva983fm.com/",
+    "provider": "onlineradiobox",
+    "country": "Nicaragua",
+    "genres": [
+      "pop",
+      "romantic",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:11:51+05:30"
+  },
+  {
+    "id": "onlineradiobox_ni.vozcristiana",
+    "name": "Radio Voz Cristiana",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/99542.v4.png",
+    "stream_url": "https://cp12.serverse.com/proxy/vozcristiana?mp=/stream",
+    "website": "http://www.radiovozcristiana104.com/",
+    "provider": "onlineradiobox",
+    "country": "Nicaragua",
+    "genres": [
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:13:39+05:30"
+  },
+  {
+    "id": "onlineradiobox_ni.vozdevida",
+    "name": "Radio Voz de Vida",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/130686.v1.png",
+    "stream_url": "https://stream.zeno.fm/d9w9q29vtxhvv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Nicaragua",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:15:22+05:30"
+  },
+  {
+    "id": "onlineradiobox_ni.vozqueclamaeneldesierto",
+    "name": "Radio Nueva Vision",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/140457.v4.png",
+    "stream_url": "https://stream.zeno.fm/fgapzfj0bflvv",
+    "website": "https://zeno.fm/radio/radio-nueva-vision-cexe/",
+    "provider": "onlineradiobox",
+    "country": "Nicaragua",
+    "genres": [
+      "ranchera"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:16:19+05:30"
+  },
+  {
+    "id": "onlineradiobox_ni.wepa",
+    "name": "wepa fm nicaragua",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/146913.v1.png",
+    "stream_url": "https://stream.zeno.fm/icfe9ixt9kjuv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Nicaragua",
+    "genres": [
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:17:11+05:30"
+  },
+  {
+    "id": "onlineradiobox_ni.yuri",
+    "name": "Yuri Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/89597.v1.png",
+    "stream_url": "https://stream.zeno.fm/w33uk30exzzuv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Nicaragua",
+    "genres": [],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:12:48+05:30"
+  }
+]

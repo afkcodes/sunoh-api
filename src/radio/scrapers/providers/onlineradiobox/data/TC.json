@@ -1,0 +1,150 @@
+[
+  {
+    "id": "onlineradiobox_tc.98.9faithfm",
+    "name": "98.9 Faith FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/121123.v2.png",
+    "stream_url": "http://204.13.104.119:8000/;",
+    "website": "https://rojtc.org/",
+    "provider": "onlineradiobox",
+    "country": "Turks and Caicos Islands",
+    "genres": [
+      "talk",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:49:43+05:30"
+  },
+  {
+    "id": "onlineradiobox_tc.exocmi",
+    "name": "Radio Example of Christ Ministries",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/149221.v3.png",
+    "stream_url": "http://live4.rcast.net:8322/;",
+    "website": "http://www.radioexampleofchrist.org/",
+    "provider": "onlineradiobox",
+    "country": "Turks and Caicos Islands",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:49:43+05:30"
+  },
+  {
+    "id": "onlineradiobox_tc.hopetci",
+    "name": "Hope Radio TCI",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/110680.v1.png",
+    "stream_url": "http://5.135.158.214:19326/;",
+    "website": "http://hoperadiotci.com/",
+    "provider": "onlineradiobox",
+    "country": "Turks and Caicos Islands",
+    "genres": [
+      "christian contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:49:42+05:30"
+  },
+  {
+    "id": "onlineradiobox_tc.jamz",
+    "name": "88 JAMZ",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/49732.v1.png",
+    "stream_url": "http://209.133.221.250:8784/stream",
+    "website": "http://www.88jamz.com/",
+    "provider": "onlineradiobox",
+    "country": "Turks and Caicos Islands",
+    "genres": [
+      "pop",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:49:40+05:30"
+  },
+  {
+    "id": "onlineradiobox_tc.platinumsounds",
+    "name": "88.5 The Beat",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/83777.v14.png",
+    "stream_url": "http://s2.yesstreaming.net:7212/;",
+    "website": "https://thebeat88fm.com/",
+    "provider": "onlineradiobox",
+    "country": "Turks and Caicos Islands",
+    "genres": [
+      "r'n'b",
+      "pop",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:49:42+05:30"
+  },
+  {
+    "id": "onlineradiobox_tc.power",
+    "name": "Power 92.5 FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/49739.v4.png",
+    "stream_url": "http://smi.ss32support.com:8092/;",
+    "website": "https://www.925fm.tc/",
+    "provider": "onlineradiobox",
+    "country": "Turks and Caicos Islands",
+    "genres": [
+      "pop",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:49:40+05:30"
+  },
+  {
+    "id": "onlineradiobox_tc.turksandcaicos",
+    "name": "Radio Turks &amp; Caicos RTCFM",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/80745.v9.png",
+    "stream_url": "https://air.doscast.com/proxy/rtc89fm/radio-turks-caicos",
+    "website": "http://www.rtc89fm.com/",
+    "provider": "onlineradiobox",
+    "country": "Turks and Caicos Islands",
+    "genres": [
+      "r'n'b",
+      "news",
+      "talk",
+      "rap",
+      "hip-hop",
+      "top40",
+      "reggae"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:49:39+05:30"
+  },
+  {
+    "id": "onlineradiobox_tc.vhtc",
+    "name": "Radio VHTC 91.5 FM Stereo",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/149329.v10.png",
+    "stream_url": "https://stream.zeno.fm/5rfoac6swpsuv",
+    "website": "https://zeno.fm/radio/radio-vhtc-91-5-fm/",
+    "provider": "onlineradiobox",
+    "country": "Turks and Caicos Islands",
+    "genres": [
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:49:44+05:30"
+  }
+]

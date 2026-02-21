@@ -1,0 +1,1682 @@
+[
+  {
+    "id": "onlineradiobox_al.93fm",
+    "name": "93 Fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/114522.v5.png",
+    "stream_url": "https://stream.zeno.fm/g41127628nhvv",
+    "website": "https://zeno.fm/radio/93-fm-albania/",
+    "provider": "onlineradiobox",
+    "country": "Albania",
+    "genres": [
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:58:30+05:30"
+  },
+  {
+    "id": "onlineradiobox_al.a2o",
+    "name": "A2O Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/146619.v1.png",
+    "stream_url": "https://onair.tune.al:8000/a2o",
+    "website": "https://tune.al/",
+    "provider": "onlineradiobox",
+    "country": "Albania",
+    "genres": [
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:58:24+05:30"
+  },
+  {
+    "id": "onlineradiobox_al.albagame",
+    "name": "Albagame Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/145998.v2.png",
+    "stream_url": "https://listen.radioking.com/radio/600418/stream/661621",
+    "website": "https://www.albagame.al/",
+    "provider": "onlineradiobox",
+    "country": "Albania",
+    "genres": [
+      "dance",
+      "electronic",
+      "club",
+      "hip-hop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:58:22+05:30"
+  },
+  {
+    "id": "onlineradiobox_al.albtimes",
+    "name": "Albtimes Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/72427.v10.png",
+    "stream_url": "https://playerservices.streamtheworld.com/api/livestream-redirect/VIRGIN_RADIO.mp3?dist=onlineradiobox",
+    "website": "http://albparajsa.com/",
+    "provider": "onlineradiobox",
+    "country": "Albania",
+    "genres": [
+      "news",
+      "sports",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:57:37+05:30"
+  },
+  {
+    "id": "onlineradiobox_al.alfaeomegaradio",
+    "name": "Alfa e Omega Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/11230.v6.png",
+    "stream_url": "https://cp12.shoutcheap.com:18186/stream",
+    "website": "http://alfaeomegaradio.com/",
+    "provider": "onlineradiobox",
+    "country": "Albania",
+    "genres": [
+      "talk",
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:56:23+05:30"
+  },
+  {
+    "id": "onlineradiobox_al.alporadio",
+    "name": "Alpo Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/11607.v11.png",
+    "stream_url": "https://cp1.sednastream.com/proxy/alporadio/stream",
+    "website": "http://alpomedia.com/",
+    "provider": "onlineradiobox",
+    "country": "Albania",
+    "genres": [
+      "pop",
+      "eclectic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:55:22+05:30"
+  },
+  {
+    "id": "onlineradiobox_al.alsion",
+    "name": "Alsion Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/72441.v9.png",
+    "stream_url": "http://108.59.11.81:2199/listen.php?port=10051&type=s1",
+    "website": "https://elbasaninews.tv/",
+    "provider": "onlineradiobox",
+    "country": "Albania",
+    "genres": [
+      "easy listening"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:56:28+05:30"
+  },
+  {
+    "id": "onlineradiobox_al.antennawebtirana",
+    "name": "Antenna Web Tirana",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/138161.v2.png",
+    "stream_url": "https://albania.radioantennaweb.com/Tirana",
+    "website": "https://antennaweb.it/antenna-web-tirana/",
+    "provider": "onlineradiobox",
+    "country": "Albania",
+    "genres": [
+      "rock",
+      "pop",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:57:40+05:30"
+  },
+  {
+    "id": "onlineradiobox_al.arnisa",
+    "name": "Arnisa Radio HD",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/150583.v1.png",
+    "stream_url": "https://stream.zeno.fm/7vdpuvp57zhvv",
+    "website": "https://zeno.fm/radio/arnisa-radio-hd/",
+    "provider": "onlineradiobox",
+    "country": "Albania",
+    "genres": [
+      "dance",
+      "techno",
+      "folk",
+      "hip-hop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:58:25+05:30"
+  },
+  {
+    "id": "onlineradiobox_al.awelbasan",
+    "name": "AW Elbasan",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/150588.v1.png",
+    "stream_url": "https://albania.radioantennaweb.com/Elbasan",
+    "website": "https://antennaweb.it/aw-elbasan/",
+    "provider": "onlineradiobox",
+    "country": "Albania",
+    "genres": [
+      "rock",
+      "pop",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:57:41+05:30"
+  },
+  {
+    "id": "onlineradiobox_al.casino",
+    "name": "Casino",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/145544.v2.png",
+    "stream_url": "https://listen.radioking.com/radio/261226/stream/306193",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Albania",
+    "genres": [
+      "techno"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:58:21+05:30"
+  },
+  {
+    "id": "onlineradiobox_al.chillalbania",
+    "name": "Chill Albania",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/105174.v2.png",
+    "stream_url": "https://streams.radiomast.io/346318d3-5312-4a69-8f80-64d75640fd35?referer=onlineradiobox",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Albania",
+    "genres": [
+      "chill-out"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:56:33+05:30"
+  },
+  {
+    "id": "onlineradiobox_al.chillradio",
+    "name": "Chill Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/117896.v20.png",
+    "stream_url": "https://eu8.fastcast4u.com/proxy/chillradio?mp=/1",
+    "website": "https://chillradio.rf.gd/",
+    "provider": "onlineradiobox",
+    "country": "Albania",
+    "genres": [
+      "deep house",
+      "chill-out",
+      "adult contemporary",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:56:37+05:30"
+  },
+  {
+    "id": "onlineradiobox_al.cityradio",
+    "name": "City Radio 88.0 FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/11466.v4.png",
+    "stream_url": "https://cp1.sednastream.com/proxy/cityradio?mp=/stream",
+    "website": "http://cityradio.al/",
+    "provider": "onlineradiobox",
+    "country": "Albania",
+    "genres": [
+      "pop",
+      "albanian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:55:27+05:30"
+  },
+  {
+    "id": "onlineradiobox_al.clubbar",
+    "name": "Radio Club Bar",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/152948.v1.png",
+    "stream_url": "https://cp1.sednastream.com/proxy/deephouse/stream",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Albania",
+    "genres": [
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:58:35+05:30"
+  },
+  {
+    "id": "onlineradiobox_al.clubfm",
+    "name": "Club FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/11229.v6.png",
+    "stream_url": "https://cp1.sednastream.com/proxy/clubfm?mp=/stream",
+    "website": "https://clubfm.al/",
+    "provider": "onlineradiobox",
+    "country": "Albania",
+    "genres": [
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:55:21+05:30"
+  },
+  {
+    "id": "onlineradiobox_al.cmendinaradio",
+    "name": "Cmendina Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/11258.v5.png",
+    "stream_url": "https://streamingv2.shoutcast.com/cmendina-radio",
+    "website": "http://www.cmendina.net/",
+    "provider": "onlineradiobox",
+    "country": "Albania",
+    "genres": [
+      "house",
+      "deep house",
+      "hip-hop",
+      "chill-out"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:57:33+05:30"
+  },
+  {
+    "id": "onlineradiobox_al.deqani",
+    "name": "RadioDeqani",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/72502.v11.png",
+    "stream_url": "https://mars.streamerr.co/8052/stream",
+    "website": "https://radiodeqani.com/",
+    "provider": "onlineradiobox",
+    "country": "Albania",
+    "genres": [
+      "albanian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:57:32+05:30"
+  },
+  {
+    "id": "onlineradiobox_al.divjakahd",
+    "name": "Radio Divjaka HD",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/150582.v1.png",
+    "stream_url": "https://stream.zeno.fm/brc5btguqg8uv",
+    "website": "https://zeno.fm/radio/radio-divjaka-hd-oxay/",
+    "provider": "onlineradiobox",
+    "country": "Albania",
+    "genres": [
+      "dance",
+      "trance",
+      "disco",
+      "pop",
+      "classic rock",
+      "folk",
+      "hip-hop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:57:39+05:30"
+  },
+  {
+    "id": "onlineradiobox_al.dj982",
+    "name": "Radio DJ",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/104045.v6.png",
+    "stream_url": "https://radio.albaniaradiodj.al/stream",
+    "website": "https://albaniaradiodj.al/",
+    "provider": "onlineradiobox",
+    "country": "Albania",
+    "genres": [
+      "dance",
+      "house",
+      "r'n'b",
+      "pop",
+      "dj"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:56:27+05:30"
+  },
+  {
+    "id": "onlineradiobox_al.gjakova",
+    "name": "Radio Gjakova",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/72565.v6.png",
+    "stream_url": "http://37.26.69.30:8080/;",
+    "website": "http://www.radiogjakova.info/",
+    "provider": "onlineradiobox",
+    "country": "Albania",
+    "genres": [
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:55:34+05:30"
+  },
+  {
+    "id": "onlineradiobox_al.hasithate",
+    "name": "Radio Hasi Thate",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/72566.v6.png",
+    "stream_url": "http://listen.lspublic.com:8000/;stream.mp3",
+    "website": "http://hasi-thate.com/",
+    "provider": "onlineradiobox",
+    "country": "Albania",
+    "genres": [
+      "albanian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:57:33+05:30"
+  },
+  {
+    "id": "onlineradiobox_al.hero",
+    "name": "Hero Radio (Albania)",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/147002.v1.png",
+    "stream_url": "https://a2.asurahosting.com:6790/albania.mp3",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Albania",
+    "genres": [
+      "news",
+      "gospel",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:58:23+05:30"
+  },
+  {
+    "id": "onlineradiobox_al.hm",
+    "name": "HM Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/129246.v1.png",
+    "stream_url": "https://stream.zeno.fm/1nykd3t9f7qtv",
+    "website": "http://arumun.com/",
+    "provider": "onlineradiobox",
+    "country": "Albania",
+    "genres": [
+      "albanian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:58:21+05:30"
+  },
+  {
+    "id": "onlineradiobox_al.intradio",
+    "name": "Intradio",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/121335.v4.png",
+    "stream_url": "https://stream.zeno.fm/z61vrp6rmd0uv",
+    "website": "https://intradio.live/#content",
+    "provider": "onlineradiobox",
+    "country": "Albania",
+    "genres": [
+      "rap",
+      "hip-hop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:57:32+05:30"
+  },
+  {
+    "id": "onlineradiobox_al.juvenilja",
+    "name": "Juvenilja Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/149790.v1.png",
+    "stream_url": "http://37.27.204.229/juvr",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Albania",
+    "genres": [
+      "pop",
+      "jazz"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:56:32+05:30"
+  },
+  {
+    "id": "onlineradiobox_al.kissalbania",
+    "name": "Kiss Albania Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/65937.v7.png",
+    "stream_url": "https://stream.kissfm.com.al:8000/stream?ver=800173",
+    "website": "https://kissfm.com.al/",
+    "provider": "onlineradiobox",
+    "country": "Albania",
+    "genres": [
+      "dance",
+      "house",
+      "r'n'b",
+      "pop",
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:56:36+05:30"
+  },
+  {
+    "id": "onlineradiobox_al.klan",
+    "name": "Klan Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/135680.v3.png",
+    "stream_url": "https://klanradio.tvklan.al/live/klanmusicradio1/playlist.m3u8",
+    "website": "https://radio.tvklan.al/",
+    "provider": "onlineradiobox",
+    "country": "Albania",
+    "genres": [
+      "rock",
+      "r'n'b",
+      "pop",
+      "balada"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:56:25+05:30"
+  },
+  {
+    "id": "onlineradiobox_al.klea",
+    "name": "Radio Klea",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/74473.v39.png",
+    "stream_url": "http://uk21freenew.listen2myradio.com:23300/;",
+    "website": "https://radioklea.radio12345.com/",
+    "provider": "onlineradiobox",
+    "country": "Albania",
+    "genres": [
+      "albanian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:56:29+05:30"
+  },
+  {
+    "id": "onlineradiobox_al.lefutur",
+    "name": "LeFutur Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/145657.v2.png",
+    "stream_url": "https://listen.radioking.com/radio/320837/stream/368528",
+    "website": "https://www.radiolefutur.com/",
+    "provider": "onlineradiobox",
+    "country": "Albania",
+    "genres": [
+      "pop",
+      "hip-hop",
+      "90s",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:58:26+05:30"
+  },
+  {
+    "id": "onlineradiobox_al.liria",
+    "name": "Radio LIRIA",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/64881.v8.png",
+    "stream_url": "https://live.radiostreaming.al/9998/stream",
+    "website": "http://radioliria.blogspot.com/",
+    "provider": "onlineradiobox",
+    "country": "Albania",
+    "genres": [
+      "talk",
+      "folk",
+      "culture",
+      "albanian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:56:26+05:30"
+  },
+  {
+    "id": "onlineradiobox_al.lotivu",
+    "name": "Loti Vu Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/73021.v7.png",
+    "stream_url": "http://84.20.83.181:90/broadwave.mp3",
+    "website": "http://loti-vu.epizy.com/",
+    "provider": "onlineradiobox",
+    "country": "Albania",
+    "genres": [
+      "pop",
+      "dj"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:57:41+05:30"
+  },
+  {
+    "id": "onlineradiobox_al.love",
+    "name": "Love Radio 90.7",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/109722.v4.png",
+    "stream_url": "https://radio.albanialoveradio.al/stream",
+    "website": "https://www.albanialoveradio.al/",
+    "provider": "onlineradiobox",
+    "country": "Albania",
+    "genres": [
+      "pop",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:56:26+05:30"
+  },
+  {
+    "id": "onlineradiobox_al.loveradio",
+    "name": "Love Radio 90.7 FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/11212.v10.png",
+    "stream_url": "http://95.107.173.168:6200/;*.mp3",
+    "website": "http://www.loveradio.al/",
+    "provider": "onlineradiobox",
+    "country": "Albania",
+    "genres": [
+      "pop",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:56:30+05:30"
+  },
+  {
+    "id": "onlineradiobox_al.ls",
+    "name": "LS Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/72497.v4.png",
+    "stream_url": "http://live.lspublic.com:27022/;stream.mp3",
+    "website": "http://lspublic.com/",
+    "provider": "onlineradiobox",
+    "country": "Albania",
+    "genres": [
+      "pop",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:55:34+05:30"
+  },
+  {
+    "id": "onlineradiobox_al.mango",
+    "name": "Mango HD Radio Albania",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/150584.v1.png",
+    "stream_url": "https://stream.zeno.fm/5mhd9qdksg8uv",
+    "website": "https://zeno.fm/radio/mango-hd-albania/",
+    "provider": "onlineradiobox",
+    "country": "Albania",
+    "genres": [
+      "disco",
+      "classic rock",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:57:42+05:30"
+  },
+  {
+    "id": "onlineradiobox_al.mcnradio",
+    "name": "MCN Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/11256.v8.png",
+    "stream_url": "http://46.183.121.48:8000/mcn",
+    "website": "http://mcnradio.al/",
+    "provider": "onlineradiobox",
+    "country": "Albania",
+    "genres": [
+      "pop",
+      "top40",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:55:24+05:30"
+  },
+  {
+    "id": "onlineradiobox_al.melodiashqip",
+    "name": "Radio Melodia Shqip",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/98085.v8.png",
+    "stream_url": "https://s41.myradiostream.com/:37680/listen.mp3",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Albania",
+    "genres": [
+      "albanian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:57:34+05:30"
+  },
+  {
+    "id": "onlineradiobox_al.mergimi",
+    "name": "Radio Mergimi",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/63507.v6.png",
+    "stream_url": "https://mars.streamerr.co/8114/stream",
+    "website": "http://www.radiomergimi.com/",
+    "provider": "onlineradiobox",
+    "country": "Albania",
+    "genres": [
+      "r'n'b",
+      "pop",
+      "hip-hop",
+      "reggae"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:55:30+05:30"
+  },
+  {
+    "id": "onlineradiobox_al.mi",
+    "name": "Radio Mi",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/96960.v2.png",
+    "stream_url": "https://streamingv2.shoutcast.com/radio-mi-online",
+    "website": "https://radiomi.al/",
+    "provider": "onlineradiobox",
+    "country": "Albania",
+    "genres": [
+      "dance",
+      "rock",
+      "indie"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:57:38+05:30"
+  },
+  {
+    "id": "onlineradiobox_al.mymusic",
+    "name": "My Music Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/152908.v1.png",
+    "stream_url": "https://live.top-media.al/mmr",
+    "website": "https://www.topalbaniaradio.com/live/mmr/",
+    "provider": "onlineradiobox",
+    "country": "Albania",
+    "genres": [
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:56:24+05:30"
+  },
+  {
+    "id": "onlineradiobox_al.myzeqeja",
+    "name": "Radio Myzeqeja HD",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/150585.v1.png",
+    "stream_url": "https://stream.zeno.fm/c7x08ebksg8uv",
+    "website": "https://zeno.fm/radio/radio-myzeqeja-hd/",
+    "provider": "onlineradiobox",
+    "country": "Albania",
+    "genres": [
+      "dance",
+      "trance",
+      "disco",
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:57:40+05:30"
+  },
+  {
+    "id": "onlineradiobox_al.nacionalalbania",
+    "name": "Radio Nacional Albania 93.6 FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/135723.v3.png",
+    "stream_url": "https://stream.zeno.fm/vkqjn43uuptuv",
+    "website": "https://www.radionacional.al/",
+    "provider": "onlineradiobox",
+    "country": "Albania",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:58:31+05:30"
+  },
+  {
+    "id": "onlineradiobox_al.natyra",
+    "name": "Radio Natyra",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/126305.v5.png",
+    "stream_url": "https://mars.streamerr.co/8266/stream",
+    "website": "https://radionatyra.com/",
+    "provider": "onlineradiobox",
+    "country": "Albania",
+    "genres": [
+      "pop",
+      "folk",
+      "ethnic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:57:44+05:30"
+  },
+  {
+    "id": "onlineradiobox_al.ngjallja",
+    "name": "Radio Ngjallja",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/72405.v9.png",
+    "stream_url": "http://84.20.84.114:1234/radiongjallja;%20type='audio/mpeg;%20codecs=",
+    "website": "http://www.radiongjallja.org/",
+    "provider": "onlineradiobox",
+    "country": "Albania",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:57:43+05:30"
+  },
+  {
+    "id": "onlineradiobox_al.nrgenergyradio",
+    "name": "NRG Energy Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/11214.v15.png",
+    "stream_url": "https://streamdb7web.securenetsystems.net/cirrusencore/AL09",
+    "website": "https://radionrg.al/",
+    "provider": "onlineradiobox",
+    "country": "Albania",
+    "genres": [
+      "top40",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:56:31+05:30"
+  },
+  {
+    "id": "onlineradiobox_al.playalbania",
+    "name": "Play Radio Albania",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/97057.v4.png",
+    "stream_url": "https://business.playfm.al:8170/paperplay",
+    "website": "https://www.playfm.al/",
+    "provider": "onlineradiobox",
+    "country": "Albania",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:56:24+05:30"
+  },
+  {
+    "id": "onlineradiobox_al.playradio",
+    "name": "Play Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/45701.v12.png",
+    "stream_url": "https://stream.radiojar.com/0zs50dbr274tv",
+    "website": "http://playradio.one/",
+    "provider": "onlineradiobox",
+    "country": "Albania",
+    "genres": [
+      "pop",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:55:20+05:30"
+  },
+  {
+    "id": "onlineradiobox_al.plipki",
+    "name": "Plipki Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/93549.v7.png",
+    "stream_url": "https://listen.radioking.com/radio/686706/stream/751338",
+    "website": "https://www.plipkirecords.com/",
+    "provider": "onlineradiobox",
+    "country": "Albania",
+    "genres": [
+      "techno"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:57:45+05:30"
+  },
+  {
+    "id": "onlineradiobox_al.positivegold",
+    "name": "Radio Positive Gold FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/47544.v10.png",
+    "stream_url": "https://positivealtradio.streamguys1.com/positivegold",
+    "website": "http://positivegoldmedia.com/",
+    "provider": "onlineradiobox",
+    "country": "Albania",
+    "genres": [
+      "pop",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:57:35+05:30"
+  },
+  {
+    "id": "onlineradiobox_al.prime",
+    "name": "Prime Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/148496.v2.png",
+    "stream_url": "https://play.primeradio.al/prime",
+    "website": "https://primeradio.al/",
+    "provider": "onlineradiobox",
+    "country": "Albania",
+    "genres": [
+      "dance",
+      "r'n'b",
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:58:32+05:30"
+  },
+  {
+    "id": "onlineradiobox_al.quraninalbanian",
+    "name": "Quran in Albanian",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/12444.v8.png",
+    "stream_url": "http://quraan.us:9944/;",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Albania",
+    "genres": [
+      "talk",
+      "islamic",
+      "albanian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:57:42+05:30"
+  },
+  {
+    "id": "onlineradiobox_al.qytezacermesektor",
+    "name": "Radio Qyteza Cerme Sektor",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/142846.v9.png",
+    "stream_url": "https://stream.radiocast.cc/listen/radio_cerma/radio.mp3",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Albania",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:58:23+05:30"
+  },
+  {
+    "id": "onlineradiobox_al.ra",
+    "name": "Radio Ra",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/92519.v7.png",
+    "stream_url": "http://shqiponjat.al:8000/;",
+    "website": "http://www.shqiponjat.al/",
+    "provider": "onlineradiobox",
+    "country": "Albania",
+    "genres": [
+      "dance",
+      "r'n'b",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:57:31+05:30"
+  },
+  {
+    "id": "onlineradiobox_al.radio1",
+    "name": "Radio 1",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/11321.v6.png",
+    "stream_url": "http://audio.radio1.al:88/broadwavehigh.mp3?src=1&rate=1",
+    "website": "http://radio1.al/",
+    "provider": "onlineradiobox",
+    "country": "Albania",
+    "genres": [
+      "christian",
+      "education"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:55:30+05:30"
+  },
+  {
+    "id": "onlineradiobox_al.radio4plus",
+    "name": "Radio 4 Plus 98.3 FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/10827.v1.png",
+    "stream_url": "https://radio.albcast.pro/listen/radio_4plus/radio.mp3",
+    "website": "http://radio.4plusmedia.tv/",
+    "provider": "onlineradiobox",
+    "country": "Albania",
+    "genres": [
+      "classic rock"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:57:41+05:30"
+  },
+  {
+    "id": "onlineradiobox_al.radioalbacom",
+    "name": "Radio-Alba.com",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/12267.v3.png",
+    "stream_url": "http://streaming.jusahost.com:9222/;",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Albania",
+    "genres": [
+      "pop",
+      "folk",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:55:36+05:30"
+  },
+  {
+    "id": "onlineradiobox_al.radiodardania",
+    "name": "Radio Dardania",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/11234.v5.png",
+    "stream_url": "http://radio.radiodardania.com:4000/stream/1/;",
+    "website": "http://www.radiodardania.com/",
+    "provider": "onlineradiobox",
+    "country": "Albania",
+    "genres": [
+      "rock",
+      "r'n'b",
+      "pop",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:55:28+05:30"
+  },
+  {
+    "id": "onlineradiobox_al.radiodashuria",
+    "name": "Radio Dashuria",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/11307.v9.png",
+    "stream_url": "https://listen.radioking.com/radio/465815/stream/523790",
+    "website": "http://radiodashuria.com/radio/",
+    "provider": "onlineradiobox",
+    "country": "Albania",
+    "genres": [
+      "folk",
+      "hip-hop",
+      "funk",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:56:28+05:30"
+  },
+  {
+    "id": "onlineradiobox_al.radiodielli",
+    "name": "Radio Dielli",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/12265.v9.png",
+    "stream_url": "https://radiodielli.synology.me/radio/8000/radio.mp3/;",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Albania",
+    "genres": [
+      "rock",
+      "pop",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:57:44+05:30"
+  },
+  {
+    "id": "onlineradiobox_al.radiodj",
+    "name": "RADIO DJ 98.2",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/11196.v7.png",
+    "stream_url": "https://antena.albaniadigitalradio.al/radiodj",
+    "website": "http://www.radiodj.al/main.htm",
+    "provider": "onlineradiobox",
+    "country": "Albania",
+    "genres": [
+      "dance",
+      "electronic",
+      "dj"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:55:31+05:30"
+  },
+  {
+    "id": "onlineradiobox_al.radiodukagjini",
+    "name": "Radio Dukagjini",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/12255.v5.png",
+    "stream_url": "https://s2.voscast.com:8825/radiodukagjini",
+    "website": "http://www.dukagjini.com/",
+    "provider": "onlineradiobox",
+    "country": "Albania",
+    "genres": [
+      "dance",
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:55:27+05:30"
+  },
+  {
+    "id": "onlineradiobox_al.radioemanuel",
+    "name": "Radio Emanuel",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/12270.v6.png",
+    "stream_url": "https://cp1.sednastream.com/proxy/radioemanuel/stream",
+    "website": "http://emanuelradio.net/",
+    "provider": "onlineradiobox",
+    "country": "Albania",
+    "genres": [
+      "talk",
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:56:34+05:30"
+  },
+  {
+    "id": "onlineradiobox_al.radioemigranti",
+    "name": "Radio Emigranti",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/11204.v4.png",
+    "stream_url": "http://www.radioemigranti.com:8000/radio",
+    "website": "http://www.radioemigranti.com/",
+    "provider": "onlineradiobox",
+    "country": "Albania",
+    "genres": [
+      "folk",
+      "oldies",
+      "albanian",
+      "dj"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:55:23+05:30"
+  },
+  {
+    "id": "onlineradiobox_al.radiokoha",
+    "name": "Radio Koha",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/11199.v10.png",
+    "stream_url": "https://radiokoha.radioca.st/stream",
+    "website": "http://radiokoha.com/",
+    "provider": "onlineradiobox",
+    "country": "Albania",
+    "genres": [
+      "pop",
+      "alternative",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:56:32+05:30"
+  },
+  {
+    "id": "onlineradiobox_al.radiokontakt",
+    "name": "Radio Kontakt 89.3 FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/11231.v8.png",
+    "stream_url": "http://84.20.83.24:88/broadwavehigh.mp3",
+    "website": "http://www.radiokontakt.al/",
+    "provider": "onlineradiobox",
+    "country": "Albania",
+    "genres": [
+      "pop",
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:56:35+05:30"
+  },
+  {
+    "id": "onlineradiobox_al.radiologos",
+    "name": "Radio Logos 94.2 FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/10828.v7.png",
+    "stream_url": "https://s2.stationplaylist.com:9280/listen.aac",
+    "website": "http://radiologos.al/",
+    "provider": "onlineradiobox",
+    "country": "Albania",
+    "genres": [
+      "talk",
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:55:33+05:30"
+  },
+  {
+    "id": "onlineradiobox_al.radiolushnja",
+    "name": "Radio Lushnja",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/11274.v6.png",
+    "stream_url": "https://stream.radiolushnja.al/listen/radio_lushnja/radio.mp3",
+    "website": "http://radiolushnja.com/",
+    "provider": "onlineradiobox",
+    "country": "Albania",
+    "genres": [
+      "rock",
+      "pop",
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:55:25+05:30"
+  },
+  {
+    "id": "onlineradiobox_al.radiomariaalbania",
+    "name": "Radio Maria",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/11201.v5.png",
+    "stream_url": "https://dreamsiteradiocp2.com/proxy/rmalbania2?mp=/stream.mp3?ver=118223",
+    "website": "http://www.radiomaria.al/",
+    "provider": "onlineradiobox",
+    "country": "Albania",
+    "genres": [
+      "talk",
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:55:24+05:30"
+  },
+  {
+    "id": "onlineradiobox_al.radiomarimanga",
+    "name": "Radio Marimanga",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/12338.v13.png",
+    "stream_url": "https://a9.asurahosting.com/listen/radio_marimanga/radio.mp3",
+    "website": "http://www.radiomarimanga.com/",
+    "provider": "onlineradiobox",
+    "country": "Albania",
+    "genres": [
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:55:29+05:30"
+  },
+  {
+    "id": "onlineradiobox_al.radiopendimi",
+    "name": "Radio Pendimi Live Kanali-1",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/11324.v8.png",
+    "stream_url": "https://www.rtvpendimi.com:8014/stream",
+    "website": "http://www.radio-pendimi.com/",
+    "provider": "onlineradiobox",
+    "country": "Albania",
+    "genres": [
+      "talk",
+      "islamic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:55:35+05:30"
+  },
+  {
+    "id": "onlineradiobox_al.radiorainca",
+    "name": "Radio Rainca",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/12441.v14.png",
+    "stream_url": "https://radiocast.ch:8000/;",
+    "website": "http://www.radiorainca.com/",
+    "provider": "onlineradiobox",
+    "country": "Albania",
+    "genres": [
+      "pop",
+      "folk",
+      "top40",
+      "albanian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:57:37+05:30"
+  },
+  {
+    "id": "onlineradiobox_al.radiospektrum",
+    "name": "Radio Spektrum 96.4 FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/11313.v8.png",
+    "stream_url": "http://92.119.237.186:88/broadwavehigh.mp3",
+    "website": "http://www.spektrum.al/",
+    "provider": "onlineradiobox",
+    "country": "Albania",
+    "genres": [
+      "talk",
+      "culture",
+      "eclectic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:57:43+05:30"
+  },
+  {
+    "id": "onlineradiobox_al.radiotirana1",
+    "name": "Radio Tirana 1",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/11292.v20.png",
+    "stream_url": "http://79.106.48.2:8000/radiotirana1",
+    "website": "https://radio.rtsh.al/kanale/radio-tirana-1",
+    "provider": "onlineradiobox",
+    "country": "Albania",
+    "genres": [
+      "talk",
+      "culture",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:55:26+05:30"
+  },
+  {
+    "id": "onlineradiobox_al.radiotravel",
+    "name": "Radio Travel",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/11263.v8.png",
+    "stream_url": "https://cp1.sednastream.com/proxy/radiotravel?mp=/stream",
+    "website": "http://radiotravel.al/",
+    "provider": "onlineradiobox",
+    "country": "Albania",
+    "genres": [
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:56:34+05:30"
+  },
+  {
+    "id": "onlineradiobox_al.radioviciana",
+    "name": "Radio Viciana",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/12394.v5.png",
+    "stream_url": "http://radioviciana.org:8000/;",
+    "website": "http://www.radioviciana.com/",
+    "provider": "onlineradiobox",
+    "country": "Albania",
+    "genres": [
+      "pop",
+      "talk",
+      "culture",
+      "albanian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:55:32+05:30"
+  },
+  {
+    "id": "onlineradiobox_al.rfimonde102",
+    "name": "RFI Monde",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/12272.v3.png",
+    "stream_url": "http://live02.rfi.fr/rfimonde-64.mp3",
+    "website": "http://www.rfi.fr/",
+    "provider": "onlineradiobox",
+    "country": "Albania",
+    "genres": [
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:55:25+05:30"
+  },
+  {
+    "id": "onlineradiobox_al.rtvahiretikanali2kuran",
+    "name": "Rtv Ahireti Kanali 1",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/102965.v7.png",
+    "stream_url": "http://37.120.176.233:9302/stream",
+    "website": "https://rtvahireti.com/",
+    "provider": "onlineradiobox",
+    "country": "Albania",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:58:34+05:30"
+  },
+  {
+    "id": "onlineradiobox_al.saranda961",
+    "name": "Radio Saranda 96.1 FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/140368.v2.png",
+    "stream_url": "https://s64.radiolize.com/radio/8050/radio.mp3",
+    "website": "https://radio.saranda.love/",
+    "provider": "onlineradiobox",
+    "country": "Albania",
+    "genres": [
+      "pop",
+      "ethnic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:57:39+05:30"
+  },
+  {
+    "id": "onlineradiobox_al.shqip",
+    "name": "Radio Shqip",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/69873.v10.png",
+    "stream_url": "https://cp1.sednastream.com/proxy/radioshqip?mp=/stream",
+    "website": "https://shqipfm.al/",
+    "provider": "onlineradiobox",
+    "country": "Albania",
+    "genres": [
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:55:18+05:30"
+  },
+  {
+    "id": "onlineradiobox_al.shqippopullore",
+    "name": "Radio Shqip Popullore",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/152947.v3.png",
+    "stream_url": "https://cp1.sednastream.com/proxy/shqipfolk/stream",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Albania",
+    "genres": [
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:58:28+05:30"
+  },
+  {
+    "id": "onlineradiobox_al.sophiecaffe",
+    "name": "Sophie Caffe   Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/99005.v2.png",
+    "stream_url": "https://sophie1.skylineserver.com/.mp3",
+    "website": "https://sophiecafferadio.live/",
+    "provider": "onlineradiobox",
+    "country": "Albania",
+    "genres": [
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:56:27+05:30"
+  },
+  {
+    "id": "onlineradiobox_al.thesaret",
+    "name": "Radio Thesaret",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/97554.v5.png",
+    "stream_url": "https://stream.zeno.fm/ubzj8twgccstv",
+    "website": "http://www.radiothesaret.great-site.net/",
+    "provider": "onlineradiobox",
+    "country": "Albania",
+    "genres": [
+      "islamic",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:57:36+05:30"
+  },
+  {
+    "id": "onlineradiobox_al.tiranajazzradio",
+    "name": "Tirana Jazz Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/11235.v6.png",
+    "stream_url": "https://live.tiranajazzradio.com:8443/stream",
+    "website": "http://tiranajazzradio.com/",
+    "provider": "onlineradiobox",
+    "country": "Albania",
+    "genres": [
+      "jazz"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:56:35+05:30"
+  },
+  {
+    "id": "onlineradiobox_al.topalbaniaradio",
+    "name": "Top Albania Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/10755.v9.png",
+    "stream_url": "https://live.top-media.al/tar",
+    "website": "http://www.topalbaniaradio.com/v7/",
+    "provider": "onlineradiobox",
+    "country": "Albania",
+    "genres": [
+      "pop",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:55:19+05:30"
+  },
+  {
+    "id": "onlineradiobox_al.topgold",
+    "name": "Top Gold",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/11211.v9.png",
+    "stream_url": "https://live.topgold.al/topgold",
+    "website": "http://www.topgold.al/",
+    "provider": "onlineradiobox",
+    "country": "Albania",
+    "genres": [
+      "rock",
+      "r'n'b",
+      "pop",
+      "classic rock"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:55:19+05:30"
+  },
+  {
+    "id": "onlineradiobox_al.tradita",
+    "name": "Radio Tradita",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/143447.v2.png",
+    "stream_url": "https://sonicpanel.totalstreaming.net:8016/stream",
+    "website": "https://radiotradita.com/",
+    "provider": "onlineradiobox",
+    "country": "Albania",
+    "genres": [
+      "pop",
+      "news",
+      "folk",
+      "culture",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:58:32+05:30"
+  },
+  {
+    "id": "onlineradiobox_al.vati",
+    "name": "Radio Vati",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/72642.v5.png",
+    "stream_url": "http://radiostream.neotel.mk:8000/radiovati",
+    "website": "http://www.vati.com.mk/",
+    "provider": "onlineradiobox",
+    "country": "Albania",
+    "genres": [
+      "pop",
+      "albanian",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:56:30+05:30"
+  },
+  {
+    "id": "onlineradiobox_al.viciana",
+    "name": "Radio Viciana",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/31696.v8.png",
+    "stream_url": "http://radioviciana.org:8030/;",
+    "website": "https://www.radioviciana.de/",
+    "provider": "onlineradiobox",
+    "country": "Albania",
+    "genres": [
+      "talk",
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:56:36+05:30"
+  },
+  {
+    "id": "onlineradiobox_al.wave",
+    "name": "Radio Wave",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/147244.v1.png",
+    "stream_url": "http://80.90.88.91/stream",
+    "website": "https://radiowave.al/",
+    "provider": "onlineradiobox",
+    "country": "Albania",
+    "genres": [
+      "dance",
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:58:29+05:30"
+  },
+  {
+    "id": "onlineradiobox_al.window",
+    "name": "Window Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/152256.v1.png",
+    "stream_url": "https://a8.asurahosting.com:8570/radio.mp3",
+    "website": "https://windowradio.de/",
+    "provider": "onlineradiobox",
+    "country": "Albania",
+    "genres": [
+      "dance",
+      "rock",
+      "pop",
+      "alternative"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:58:26+05:30"
+  }
+]

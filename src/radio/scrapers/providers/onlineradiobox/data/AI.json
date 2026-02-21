@@ -1,0 +1,137 @@
+[
+  {
+    "id": "onlineradiobox_ai.awthevalley",
+    "name": "AW The Valley",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/150706.v1.png",
+    "stream_url": "https://anguilla.radioantennaweb.com/TheValley",
+    "website": "https://antennaweb.it/aw-the-valley/",
+    "provider": "onlineradiobox",
+    "country": "Anguilla",
+    "genres": [
+      "rock",
+      "pop",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:54:27+05:30"
+  },
+  {
+    "id": "onlineradiobox_ai.justthehitz",
+    "name": "Z105.1 Just the HITZ",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/46865.v7.png",
+    "stream_url": "https://cosmo.shoutca.st/proxy/zron/STREAM",
+    "website": "http://z1051.com/",
+    "provider": "onlineradiobox",
+    "country": "Anguilla",
+    "genres": [
+      "90s",
+      "80s",
+      "70s"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:54:27+05:30"
+  },
+  {
+    "id": "onlineradiobox_ai.klass929",
+    "name": "Klass FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/72492.v7.png",
+    "stream_url": "https://klassfm929.radioca.st/;",
+    "website": "https://klass929.com/",
+    "provider": "onlineradiobox",
+    "country": "Anguilla",
+    "genres": [
+      "dance",
+      "r'n'b",
+      "disco",
+      "pop",
+      "rap",
+      "hip-hop",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:54:24+05:30"
+  },
+  {
+    "id": "onlineradiobox_ai.kool",
+    "name": "Kool FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/46866.v3.png",
+    "stream_url": "https://s29.myradiostream.com:20299/koolfm-103",
+    "website": "http://www.koolfm103.ai/",
+    "provider": "onlineradiobox",
+    "country": "Anguilla",
+    "genres": [
+      "pop",
+      "news",
+      "talk",
+      "oldies"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:54:29+05:30"
+  },
+  {
+    "id": "onlineradiobox_ai.tzgospel",
+    "name": "Tzgospel Anguilla",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/128783.v1.png",
+    "stream_url": "https://stream.zeno.fm/8w0h0p6chfhvv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Anguilla",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:54:30+05:30"
+  },
+  {
+    "id": "onlineradiobox_ai.vale",
+    "name": "Vale fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/127846.v1.png",
+    "stream_url": "https://stream1.svrdedicado.org:7177/;",
+    "website": "https://valeline.blogspot.com/",
+    "provider": "onlineradiobox",
+    "country": "Anguilla",
+    "genres": [
+      "eclectic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:54:29+05:30"
+  },
+  {
+    "id": "onlineradiobox_ai.vogueplayai",
+    "name": "Vogue Play AI",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/105825.v1.png",
+    "stream_url": "https://stream.zeno.fm/fkxtawd8508uv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Anguilla",
+    "genres": [
+      "pop",
+      "top40",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:54:25+05:30"
+  }
+]

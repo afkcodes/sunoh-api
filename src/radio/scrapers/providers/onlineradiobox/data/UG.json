@@ -1,0 +1,6464 @@
+[
+  {
+    "id": "onlineradiobox_ug.1021fufa",
+    "name": "102.1 FUFA FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/114259.v4.png",
+    "stream_url": "https://stream.radio.co/scd479562f/listen",
+    "website": "https://fufa.co.ug/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "sports"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:03:49+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.1026hope",
+    "name": "102.6 FM Hope Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/113759.v5.png",
+    "stream_url": "https://media.streambrothers.com:8422/stream",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:03:47+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.62fm",
+    "name": "62 online Radio - Do It Now",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/135772.v6.png",
+    "stream_url": "https://stream.zeno.fm/r1t7vedzpzatv",
+    "website": "https://zeno.fm/radio/62-fm-radio-do-it-now/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "r'n'b",
+      "reggae"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:09:16+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.876country",
+    "name": "87.6 Country Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/139537.v1.png",
+    "stream_url": "https://stream.zeno.fm/tpj3fn3matktv",
+    "website": "https://countryradiofm.com/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:04:45+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.89smart",
+    "name": "89 Smart FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/144001.v2.png",
+    "stream_url": "https://smart.radioca.st/;",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:05:36+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.89smartfm",
+    "name": "89 SMART FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/95755.v4.png",
+    "stream_url": "https://smart.radioca.st/stream",
+    "website": "https://www.nbsgroupuganda.com/smart-fm/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "pop",
+      "folk",
+      "entertainment",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:01:51+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.903metropolitan",
+    "name": "90.3 Metropolitan fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/139399.v2.png",
+    "stream_url": "https://stream.zeno.fm/m6tht9anh48uv",
+    "website": "https://metropolitanfmug.com/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:04:41+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.915kvr",
+    "name": "91.5 KVR FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/98315.v4.png",
+    "stream_url": "https://stream.zeno.fm/hyyzuphrsg0uv",
+    "website": "https://kvr.ssoccom.ug/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "dance",
+      "r'n'b",
+      "hip-hop",
+      "afro beat"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:00:49+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.921choice",
+    "name": "92.1 Choice FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/143686.v3.png",
+    "stream_url": "https://sapircast.caster.fm:11633/ljStB?token=c177d42fd56ab404e3e62f8273a6c64c",
+    "website": "https://choicefm.co.ug/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:03:45+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.930kingdom",
+    "name": "93.0 KINGDOM FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/120162.v4.png",
+    "stream_url": "https://stream.zeno.fm/8aczu67pwwauv",
+    "website": "https://kingdommediaug.com/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:04:40+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.95timefm",
+    "name": "95 Time Fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/138148.v3.png",
+    "stream_url": "https://stream.zeno.fm/5xw3te7w81zuv",
+    "website": "https://zeno.fm/radio/95-time-fm/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "pop",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:09:07+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.964tfm",
+    "name": "96.4 TFM",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/129231.v4.png",
+    "stream_url": "https://stream.zeno.fm/y9q1it69x4otv",
+    "website": "https://zeno.fm/radio/96-4-tfm/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "pop",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:05:42+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.976big",
+    "name": "97.6 Bigfm radio Mbale",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/108134.v8.png",
+    "stream_url": "https://stream.zeno.fm/30mcqwg0yuhvv",
+    "website": "https://zeno.fm/radio/bigfm-97-6/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:03:46+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.977record",
+    "name": "97.7 Record FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/87603.v13.png",
+    "stream_url": "https://eu1.reliastream.com/proxy/recordfm977?mp=/stream.mp3",
+    "website": "http://recordradio.co.ug/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "pop",
+      "news",
+      "sports"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:01:47+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.984rockcity",
+    "name": "98.4 ROCKCITY RADIO",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/132338.v4.png",
+    "stream_url": "http://uk4freenew.listen2myradio.com:34760/;",
+    "website": "https://rockcityradio.radio12345.com/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:09:12+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.abs",
+    "name": "106.8 ABS FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/152542.v2.png",
+    "stream_url": "https://s12.myradiostream.com/19198/listen.mp3",
+    "website": "https://absfmgulu.github.io/106.8-ABSFM/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:06:41+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.adonai",
+    "name": "Adonai FM Uganda",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/115453.v8.png",
+    "stream_url": "https://stream.zeno.fm/7rhvbqpgg0duv",
+    "website": "https://www.adonaimedia.org/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "reggae",
+      "gospel",
+      "dancehall"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:01:49+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.afrobeatz",
+    "name": "Afrobeatz Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/154983.v1.png",
+    "stream_url": "https://streamer.radio.co/s152a19d19/listen",
+    "website": "https://afrobeatz.co/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "african"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:10:10+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.ajunaisaac",
+    "name": "Ajuna Isaac Fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/121332.v9.png",
+    "stream_url": "https://stream.zeno.fm/xpjlcjqpv0btv",
+    "website": "https://ajunaisaac.com/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "dance",
+      "education"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:10:56+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.akaboozi",
+    "name": "Akaboozi",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/30897.v6.png",
+    "stream_url": "http://162.244.80.52:8732/stream.mp3;audio.mp3",
+    "website": "http://www.akaboozi.com/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "pop",
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:59:30+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.aleph",
+    "name": "Aleph Radio Uganda",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/129887.v1.png",
+    "stream_url": "https://stream.zeno.fm/gq7vfpvrhojvv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:07:24+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.aliveagainem",
+    "name": "Gospel Music DJs",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/132540.v8.png",
+    "stream_url": "https://live.ionradios.com:5025/stream",
+    "website": "https://freedomexperienceradio.com/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:10:08+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.ankole993",
+    "name": "Radio Ankole 99.3 Fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/147434.v2.png",
+    "stream_url": "https://stream.zeno.fm/xvslsscul2wvv",
+    "website": "https://ankoleradio.wixsite.com/993fm",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:08:26+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.answer",
+    "name": "Answer Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/108413.v1.png",
+    "stream_url": "https://stream.zeno.fm/cbh3age3xp8uv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "news",
+      "sports",
+      "entertainment",
+      "love songs"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:10:07+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.antennawebkampala",
+    "name": "Antenna Web Kampala",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/134854.v1.png",
+    "stream_url": "https://tinyurl.com/AntennaWebKampala",
+    "website": "https://antennaweb.it/antennaweb-kampala/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "rock",
+      "pop",
+      "blues",
+      "jazz",
+      "funk",
+      "reggaeton"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:09:04+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.apex",
+    "name": "Apex FM Ekikompola",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/132126.v1.png",
+    "stream_url": "https://a3.asurahosting.com:7060/radio.mp3",
+    "website": "https://apexfmug.com/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "pop",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:01:54+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.apollo72",
+    "name": "APOLLO72",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/149965.v1.png",
+    "stream_url": "https://listen.radioking.com/radio/753074/stream/819917",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "house",
+      "r'n'b",
+      "hip-hop",
+      "soul",
+      "reggae"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:11:49+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.apostleelisamsonallan",
+    "name": "Core Worship radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/132465.v3.png",
+    "stream_url": "https://stream.zeno.fm/t309u3yvhm0uv",
+    "website": "https://zeno.fm/radio/Core-Worship-radio/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:08:21+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.apostolic",
+    "name": "Apostolic Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/86919.v14.png",
+    "stream_url": "https://server.freedomflixtv.com:1105/stream",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "talk",
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:06:39+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.atedero",
+    "name": "Atedero FM 91.8",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/152669.v1.png",
+    "stream_url": "https://host.atenimedia.com/listen/atedero_fm/radio.mp3",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "dance",
+      "hip-hop",
+      "reggae"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:08:14+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.aura",
+    "name": "Aura Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/144897.v2.png",
+    "stream_url": "https://listen.radioking.com/radio/708821/stream/774344",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:12:31+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.awr1029lightkasese",
+    "name": "Awr-102.9 Light Fm Live",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/100264.v15.png",
+    "stream_url": "https://stream.zeno.fm/5yssfmk94v8uv",
+    "website": "https://www.lightfm.fun/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "news",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:59:43+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.baba",
+    "name": "Baba FM 87.7",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/113534.v7.png",
+    "stream_url": "https://stream.zeno.fm/ns28rp24dkhvv",
+    "website": "https://babatv.co.ug/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "dance",
+      "reggae",
+      "gospel",
+      "afro beat"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:59:36+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.bantu",
+    "name": "Bantu Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/108646.v1.png",
+    "stream_url": "https://stream.zeno.fm/7u8xbck3v7zuv",
+    "website": "https://bantuhits.biz/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:05:41+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.bazzug",
+    "name": "Bazz Radio Ug",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/117876.v5.png",
+    "stream_url": "http://titan.shoutca.st:8070/stream?type=http&nocache=57",
+    "website": "https://www.rockfmug.com/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:09:16+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.beat",
+    "name": "Beat FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/30939.v2.png",
+    "stream_url": "http://5230.cloudrad.io:8354/;",
+    "website": "http://beatradio.co.ug/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "pop",
+      "top40",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:59:32+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.bedspace",
+    "name": "Bedspace Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/126736.v1.png",
+    "stream_url": "https://stream.zeno.fm/auoe2w7brsiuv",
+    "website": "https://www.bedspaceradio.com/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:09:18+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.bhmug",
+    "name": "BHM Radio Ug",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/131068.v2.png",
+    "stream_url": "https://stream.zeno.fm/yv0ytatm0xetv",
+    "website": "https://magic1xtra.com/station/bhm-radio-ug/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:11:08+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.bidibidi",
+    "name": "Bidibidi FM 95.3",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/134767.v1.png",
+    "stream_url": "https://bidibidi_fm.streampartner.nl/live?type=.mp3",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "pop",
+      "news"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:06:41+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.big",
+    "name": "PERFECT RADIO UG",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/80738.v17.png",
+    "stream_url": "https://stream.zeno.fm/n4vnc80b3c9uv",
+    "website": "https://zeno.fm/radio/perfect-radio-ug/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "entertainment",
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:01:54+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.blackmarket",
+    "name": "Black Market Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/123395.v1.png",
+    "stream_url": "https://stream.zeno.fm/w4m7e13sb0hvv",
+    "website": "https://blackmarketrad.io/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "dance",
+      "r'n'b",
+      "pop",
+      "hip-hop",
+      "soul",
+      "reggae"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:11:51+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.blackmarketrecords",
+    "name": "Black Market Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/117400.v3.png",
+    "stream_url": "https://stream.zeno.fm/w4m7e13sb0hvv",
+    "website": "https://blackmarketrecords.com/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "afropop",
+      "dancehall"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:03:52+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.blackstates",
+    "name": "Blackstates Fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/150640.v16.png",
+    "stream_url": "https://usa3.fastcast4u.com/proxy/blackstatesfm/stream",
+    "website": "https://www.mixcloud.com/mukoseyekosan/blackstate/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:05:39+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.blithe",
+    "name": "Blithe Fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/95700.v2.png",
+    "stream_url": "https://stream.zeno.fm/ur7mk7dxkd0uv",
+    "website": "https://zeno.fm/blithe-fm/#.X5xV_xJkLPE.link",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "dance",
+      "country",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:04:49+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.block",
+    "name": "Block FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/136572.v15.png",
+    "stream_url": "https://stream.zeno.fm/jmhdmkxfjkxuv",
+    "website": "https://www.blockfmuganda.websites.co.in/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "dance",
+      "adult contemporary",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:05:44+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.bnxmedia",
+    "name": "BNX Media Fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/143790.v2.png",
+    "stream_url": "https://stream.zeno.fm/6icyyzi1hawuv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:08:18+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.bona",
+    "name": "Bona Radio Uganda",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/121907.v4.png",
+    "stream_url": "https://cast4.asurahosting.com/proxy/bonabona/stream",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:11:49+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.boona",
+    "name": "Boona fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/109134.v8.png",
+    "stream_url": "https://stream.zeno.fm/ndi9k9r4lp9uv",
+    "website": "https://www.boonafm.ug/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "pop",
+      "country"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:01:51+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.brevmedia",
+    "name": "BRev Media Uganda",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/129833.v7.png",
+    "stream_url": "https://stream.zeno.fm/86axb6hnbzxuv",
+    "website": "https://zeno.fm/radio/brev-media-uganda-14kn/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "classic",
+      "90s",
+      "80s",
+      "70s",
+      "60s"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:11:03+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.brightstar",
+    "name": "Bright Star Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/152054.v1.png",
+    "stream_url": "https://stream.zeno.fm/xxmykkrivlivv",
+    "website": "https://zeno.fm/radio/brightstarradio/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:09:06+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.bthemodel",
+    "name": "Bfm The Model",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/110203.v5.png",
+    "stream_url": "https://sirius.dribbcast.com/8054/stream",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "hip-hop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:04:38+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.buddu",
+    "name": "Radio Buddu 98.8FM and 95.5FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/131138.v1.png",
+    "stream_url": "https://dc4.serverse.com/proxy/ccmxrgub/stream?",
+    "website": "https://www.radiobuddufm.com/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "pop",
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:00:37+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.bugwere",
+    "name": "Bugwere Fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/139562.v3.png",
+    "stream_url": "https://stream.zeno.fm/o5uo32igksjvv",
+    "website": "https://zeno.fm/radio/radio-bugwere-97-2-fm/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:04:41+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.bugwerebor",
+    "name": "Bugwere Online Radio BOR-FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/139588.v1.png",
+    "stream_url": "https://stream.zeno.fm/64ol1dwqvuzvv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:04:48+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.bukedde1005",
+    "name": "Bukedde FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/67080.v15.png",
+    "stream_url": "https://stream.hydeinnovations.com:2020/stream/bukeddefm/stream",
+    "website": "https://www.bukedde.co.ug/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "news"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:59:33+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.bukomansimbi",
+    "name": "102.7 Bukomansimbi FM Entongooli",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/117015.v14.png",
+    "stream_url": "https://stream.zeno.fm/1wueb17n9bhvv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:02:56+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.bukomero",
+    "name": "Bukomero fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/133276.v4.png",
+    "stream_url": "https://stream.zeno.fm/da2oezphtkqtv",
+    "website": "https://zeno.fm/radio/bukomero-fm/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:04:50+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.bunyole",
+    "name": "Bunyole Fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/153770.v1.png",
+    "stream_url": "https://stream.zeno.fm/jddn0e0z9f0uv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:06:40+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.busesa",
+    "name": "Busesa Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/122363.v2.png",
+    "stream_url": "https://stream.zeno.fm/zcajbxdhqeutv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:10:00+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.busogaone",
+    "name": "Busoga One Fm Uganda",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/112965.v7.png",
+    "stream_url": "https://stream.zeno.fm/xna2aad7gc9uv",
+    "website": "http://busogaone.com/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "reggae",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:00:40+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.busogaroyal",
+    "name": "Busoga Royal Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/144008.v1.png",
+    "stream_url": "https://cast5.my-control-panel.com/proxy/busogaroyalradio/stream",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:01:48+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.buyamba",
+    "name": "KM Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/135172.v11.png",
+    "stream_url": "https://stream.zeno.fm/s0l2pe1mqcuuv",
+    "website": "https://zeno.fm/radio/km-radio-klr5/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:03:47+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.cac",
+    "name": "Cac Radio Budaka",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/149320.v1.png",
+    "stream_url": "https://stream.zeno.fm/kkjdtwblpidtv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:07:29+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.calvary",
+    "name": "Calvary Global Network Radio Station",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/76740.v8.png",
+    "stream_url": "http://108.59.9.147:8392/;",
+    "website": "http://calvarystudioministry.blogspot.com/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "news",
+      "talk",
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:02:58+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.campus",
+    "name": "Campus Radio UG",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/114518.v5.png",
+    "stream_url": "https://stream.zeno.fm/qiaxrpbyzq2uv",
+    "website": "https://zeno.fm/radio/campus-radiohtfdd5th5nhvv/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "sports",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:05:45+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.capital",
+    "name": "91.3 Capital FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/30918.v7.png",
+    "stream_url": "https://capitalfm.cloudrad.io/stream",
+    "website": "https://capitalradio.co.ug/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "pop",
+      "news",
+      "talk",
+      "entertainment",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:59:31+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.captainyvirus",
+    "name": "Captain Virus FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/133296.v2.png",
+    "stream_url": "https://stream.zeno.fm/wpbdink8tkdtv",
+    "website": "https://www.liveradio.uk/stations/captain-virus-fm",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "dance",
+      "african"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:10:06+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.cbc",
+    "name": "Sprout Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/132506.v7.png",
+    "stream_url": "https://live.ionradios.com:6279/stream",
+    "website": "https://freedomexperienceradio.com/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "talk",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:12:33+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.cbs",
+    "name": "CBS Radio Buganda",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/30895.v12.png",
+    "stream_url": "https://s5.voscast.com:9905/EMMANDUSO",
+    "website": "https://www.cbsfm.ug/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "pop",
+      "news",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:59:29+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.centenary",
+    "name": "Centenary Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/130838.v9.png",
+    "stream_url": "https://stream.zeno.fm/kzbapkwffafvv",
+    "website": "https://centenaryradiofm.com/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "news",
+      "talk",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:02:51+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.challenge",
+    "name": "CHALLENGE Radio Uganda-TIRINYI",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/138179.v6.png",
+    "stream_url": "https://stream.zeno.fm/n4vnc80b3c9uv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "news",
+      "politics",
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:09:58+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.channel303",
+    "name": "303 Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/139849.v4.png",
+    "stream_url": "https://a5.asurahosting.com:6750/radio.mp3",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "talk",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:11:58+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.christ",
+    "name": "Christ Saves Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/153325.v1.png",
+    "stream_url": "https://radio.mytintah.com/listen/christ_saves_radio/radio.mp3",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:09:11+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.christ916",
+    "name": "Christ FM 91.6",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/84522.v8.png",
+    "stream_url": "https://s39.myradiostream.com/:15664/;",
+    "website": "https://broronnieministries.org/radio/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:59:39+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.christlove",
+    "name": "Christ Love Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/83046.v10.png",
+    "stream_url": "https://s20.reliastream.com:8020/stream",
+    "website": "http://christloveug.org/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:02:58+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.city96",
+    "name": "CityFM 96",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/77440.v60.png",
+    "stream_url": "https://eu4.fastcast4u.com/proxy/cityfmradio/stream",
+    "website": "https://96cityfm.wixsite.com/96cityfm-radio",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:02:50+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.cityofgrace",
+    "name": "City of Grace Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/150092.v1.png",
+    "stream_url": "https://stream.zeno.fm/0por56gzmccvv",
+    "website": "https://zeno.fm/radio/cityofgraceradio/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:09:57+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.cloud",
+    "name": "Cloud Radio Uganda",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/114238.v5.png",
+    "stream_url": "https://stream.zeno.fm/eq0vu571ekhvv",
+    "website": "https://cloudmusicuganda.simdif.com/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "classic",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:05:41+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.comfort",
+    "name": "Comfort Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/152753.v1.png",
+    "stream_url": "https://stream.zeno.fm/9mrk5pzuzj5uv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:04:45+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.communitygreen",
+    "name": "Community Green Radio 103.9 FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/124060.v3.png",
+    "stream_url": "https://stream.zeno.fm/u87k8hdws8puv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "community"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:05:38+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.connect",
+    "name": "Connect Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/30911.v6.png",
+    "stream_url": "https://www.connectuganda.com/connect-live",
+    "website": "http://www.connectuganda.com/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "pop",
+      "90s",
+      "80s",
+      "70s",
+      "african"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:05:43+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.coolfmuganda",
+    "name": "Cool Fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/129299.v6.png",
+    "stream_url": "https://stream.zeno.fm/i1eekifhvoztv",
+    "website": "https://zeno.fm/radio/cool-fm-uganda/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:06:30+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.coolug",
+    "name": "Cool Radio -ug",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/106675.v1.png",
+    "stream_url": "https://stream.zeno.fm/w4ggd862xp8uv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:10:58+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.crest",
+    "name": "92.0 Crest Fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/138547.v1.png",
+    "stream_url": "https://stream.zeno.fm/gqgde3bnxq5uv",
+    "website": "https://zeno.fm/radio/crest-fm-92-0-mhz-kyotera/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:08:26+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.crooze",
+    "name": "Crooze FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/30953.v8.png",
+    "stream_url": "https://stream.zeno.fm/vyxwdk08apxtv",
+    "website": "http://croozefm.com/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "pop",
+      "top40",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:59:34+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.dada",
+    "name": "Dada Radio Online",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/147503.v3.png",
+    "stream_url": "https://stream.zeno.fm/xuukgovoxxxvv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:09:14+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.deliverance",
+    "name": "Ewhradio",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/83218.v23.png",
+    "stream_url": "https://stream.zeno.fm/6p2uru1rg98uv",
+    "website": "https://ewhradio.listen2myshow.com/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:05:38+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.dembe",
+    "name": "Dembe FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/30914.v5.png",
+    "stream_url": "http://41.190.132.68:8000/stream",
+    "website": "http://dembefm.ug/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "pop",
+      "news",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:07:28+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.descoutparadise",
+    "name": "Descout Paradise Fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/145963.v1.png",
+    "stream_url": "https://stream.zeno.fm/hls/fbi0yrunjttvv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "dance",
+      "r'n'b",
+      "pop",
+      "reggae",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:11:01+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.divine",
+    "name": "Divine Radio Kisoro",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/128771.v1.png",
+    "stream_url": "https://streamer.radio.co/s35ac4f38a/listen",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "dance",
+      "talk",
+      "country",
+      "reggae",
+      "adult contemporary",
+      "zouk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:03:42+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.djezra256",
+    "name": "Cride Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/121873.v16.png",
+    "stream_url": "https://stream.zeno.fm/caagjpu9qxcuv",
+    "website": "https://zeno.fm/radio/cride-radio/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "news",
+      "talk",
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:04:44+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.djkezman",
+    "name": "Dj Kezman",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/150923.v1.png",
+    "stream_url": "https://stream.zeno.fm/1xymkg4yc5zuv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "dance",
+      "r'n'b",
+      "pop",
+      "hip-hop",
+      "top40",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:02:48+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.dokolo",
+    "name": "Dokolo FM 102.4",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/149950.v5.png",
+    "stream_url": "https://host.atenimedia.com/listen/dokolo_fm/radio.mp3",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:12:31+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.doveuganda",
+    "name": "Dove Radio Uganda",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/129834.v3.png",
+    "stream_url": "https://stream.zeno.fm/ldawmwxck5hvv",
+    "website": "https://zeno.fm/radio/dove-radio-uganda",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:12:03+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.dreamerzvoice",
+    "name": "Dreamerz Voice",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/106577.v1.png",
+    "stream_url": "https://stream.zeno.fm/aeknt51tm18uv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "christian contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:08:25+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.dwanwa",
+    "name": "Dwanwa FM 102.9",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/154155.v1.png",
+    "stream_url": "https://host.atenimedia.com/listen/dwanwa_fm/radio.mp3",
+    "website": "https://dwanwafm.online/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "dance",
+      "hip-hop",
+      "reggae",
+      "afro beat"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:12:02+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.east",
+    "name": "East FM Tororo",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/135957.v4.png",
+    "stream_url": "https://stream.zeno.fm/yc3g0srwieotv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "talk",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:03:44+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.east1022",
+    "name": "100.2 East FM, Tororo",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/137241.v2.png",
+    "stream_url": "https://stream.zeno.fm/yc3g0srwieotv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:02:46+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.easternvoice",
+    "name": "102.3 Eastern Voice Fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/152697.v3.png",
+    "stream_url": "https://evfmradio.out.airtime.pro/evfmradio_a",
+    "website": "https://evfmradio.airtime.pro/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "news",
+      "sports",
+      "politics"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:03:50+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.ejazz",
+    "name": "EJazz Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/83129.v5.png",
+    "stream_url": "https://eu1.reliastream.com/proxy/ejazzug?mp=/stream",
+    "website": "http://radio.ejazzug.com/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "pop",
+      "hip-hop",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:03:43+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.ejazzextra",
+    "name": "EJazz Extra",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/100841.v3.png",
+    "stream_url": "https://c32.radioboss.fm:18320/stream",
+    "website": "https://extra.ejazzug.com/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "afro beat"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:02:55+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.eka",
+    "name": "E&#39;ka radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/137007.v3.png",
+    "stream_url": "https://stream.zeno.fm/rt28io2v44ptv",
+    "website": "https://zeno.fm/radio/eka-radio/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:11:59+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.ekokotido",
+    "name": "Eko Fm Kotido",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/149787.v2.png",
+    "stream_url": "http://5.39.82.219/22094/listen.mp3",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:12:26+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.elgon1014",
+    "name": "Elgon fm 101.4",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/105325.v3.png",
+    "stream_url": "https://stream.zeno.fm/43sr7vmuhrhvv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "pop",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:03:52+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.elias101",
+    "name": "Radio Elias 101",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/120471.v3.png",
+    "stream_url": "https://stream.zeno.fm/vjrhfxijkl2uv",
+    "website": "http://radioelias101.com/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "news",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:06:35+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.emambya",
+    "name": "Emambya Fm Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/128540.v3.png",
+    "stream_url": "https://stream.zeno.fm/ev2noebihvntv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "news",
+      "sports",
+      "education"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:08:13+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.emc",
+    "name": "EMC Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/131100.v3.png",
+    "stream_url": "https://c22.radioboss.fm:18040/stream",
+    "website": "https://edenmiracleministries.org/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:01:55+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.enjiri",
+    "name": "Enjiri Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/123287.v4.png",
+    "stream_url": "https://stream.zeno.fm/xdb8nazajqcvv",
+    "website": "https://enjiriradio.com/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "news",
+      "sports",
+      "gospel",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:11:52+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.enka",
+    "name": "EKA Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/136254.v2.png",
+    "stream_url": "https://stream.zeno.fm/ojvt7w7o6eeuv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:12:01+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.epikaizo",
+    "name": "Epikaizo FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/149947.v3.png",
+    "stream_url": "https://c26.radioboss.fm:8642/stream",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "talk",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:09:59+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.etherealsanctuary",
+    "name": "Ethereal Sanctuary Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/153324.v1.png",
+    "stream_url": "https://radio.mytintah.com/listen/ethereal_sanctuary_radio/radio.mp3",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:12:29+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.etoilakaramoja",
+    "name": "Etoil Akaramoja Fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/151055.v1.png",
+    "stream_url": "https://www.radiocomnetu.org/etoilakaramoja-stream",
+    "website": "https://radioetoil.com/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:10:11+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.excel",
+    "name": "Excel Radio Kireka",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/148598.v1.png",
+    "stream_url": "https://stream.zeno.fm/cftkqp8ngg1tv",
+    "website": "https://kmcchurch.org/station/excel-online-radio/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:08:17+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.faith914",
+    "name": "Faith Fm 91.4",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/139808.v1.png",
+    "stream_url": "https://stream.zeno.fm/rohl51zwvpruv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:11:53+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.faithcity",
+    "name": "FaithCity Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/86424.v19.png",
+    "stream_url": "https://ec2.yesstreaming.net:3235/stream",
+    "website": "https://faithcitychurch.net/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "talk",
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:06:40+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.faithcity1",
+    "name": "Faith City Radio 1",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/105883.v2.png",
+    "stream_url": "https://stream.zeno.fm/yd6vdxuq208uv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "talk",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:06:31+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.faithmission",
+    "name": "Faith Mission Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/150528.v5.png",
+    "stream_url": "https://s20.reliastream.com:8116/stream",
+    "website": "https://faithmissionradio.news.blog/2025/08/27/faith-mission-radio-profile/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:09:03+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.favour",
+    "name": "Favour Radio - Kampala",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/140866.v3.png",
+    "stream_url": "https://stream.zeno.fm/ndmy1zj9psyvv",
+    "website": "https://zeno.fm/radio/favour-radio-z6tr/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:04:42+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.favour1041",
+    "name": "104.1 Favour Fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/152495.v1.png",
+    "stream_url": "https://us5new.listen2myradio.com:2199/listen.php?port=8138&type=ice&mount=live",
+    "website": "https://favourfmgulu.org/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:12:00+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.flamez",
+    "name": "Flamez Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/140130.v5.png",
+    "stream_url": "https://host.atenimedia.com/listen/flamez_radio/radio.mp3",
+    "website": "https://flamezradio.com/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "dance",
+      "hip-hop",
+      "reggae",
+      "afro beat"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:09:10+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.focuskabale",
+    "name": "Focus Radio kabale",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/126841.v1.png",
+    "stream_url": "https://stream.zeno.fm/3d87i65bn93uv",
+    "website": "https://zeno.fm/radio/focus-radio-kabale/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:10:02+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.fortuganda",
+    "name": "Fort Radio Uganda",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/135469.v2.png",
+    "stream_url": "https://stream.zeno.fm/3rysvfu3ynttv",
+    "website": "https://zeno.fm/radio/fort-radio-b4u1/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "news"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:08:15+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.fot",
+    "name": "FOT Online Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/143243.v1.png",
+    "stream_url": "https://r1.comcities.com/proxy/fotonline/stream",
+    "website": "https://fot-churches.org/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:05:40+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.freedomexperience",
+    "name": "Freedom Experience Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/73870.v29.png",
+    "stream_url": "https://live.ionradios.com:1045/stream",
+    "website": "https://freedomexperienceradio.com/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:04:48+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.freedomlovezone",
+    "name": "Freedom LoveZone Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/100256.v10.png",
+    "stream_url": "https://live.ionradios.com:1385/stream",
+    "website": "https://freedomlovezone.org/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "talk",
+      "love songs"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:07:31+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.fullpotential",
+    "name": "Full Potential Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/120990.v2.png",
+    "stream_url": "https://stream.zeno.fm/xvgqyqlrehouv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:10:00+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.galaxy",
+    "name": "Galaxy FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/30908.v9.png",
+    "stream_url": "https://stream.radio.co/s1ef6287cc/listen",
+    "website": "http://galaxyfm.co.ug/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:59:30+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.gasanamemorial",
+    "name": "Gasana Memorial Fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/143151.v1.png",
+    "stream_url": "https://stream.zeno.fm/vqmn80u7hv8uv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "education"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:11:08+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.global",
+    "name": "Global Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/143982.v2.png",
+    "stream_url": "https://stream.zeno.fm/oqxedoag0u3vv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:08:19+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.gloriousnewness",
+    "name": "Glorious Newness Radio (uganda)",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/148235.v1.png",
+    "stream_url": "https://a11.asurahosting.com:7360/uganda.mp3",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:11:01+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.glory",
+    "name": "Mawule C/F International Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/109047.v10.png",
+    "stream_url": "https://stream.zeno.fm/6vuqqh78bkhvv",
+    "website": "https://zeno.fm/radio/mawule-cf-international-radio/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "talk",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:07:26+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.glorymaganjo",
+    "name": "GLORY FM MAGANJO",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/114305.v8.png",
+    "stream_url": "https://stream.zeno.fm/vvvcfg8w0nhvv",
+    "website": "https://zeno.fm/radio/glory-fm-maganjo/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "pop",
+      "news"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:04:40+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.gloryoftheholyspirit",
+    "name": "Glory Of The Holy Spirit Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/106197.v2.png",
+    "stream_url": "https://stream.zeno.fm/m72v88992k0uv",
+    "website": "http://gloryoftheholyspirit.webradiosite.com/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:06:37+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.gmi",
+    "name": "GMI Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/84627.v1.png",
+    "stream_url": "https://stream.zeno.fm/0nrtdf5banzuv",
+    "website": "http://www.gmiradio.com/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "easy listening"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:10:59+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.godsway",
+    "name": "God&#39;s Way Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/152277.v1.png",
+    "stream_url": "https://stream.zeno.fm/yy5v3vmf0pzuv",
+    "website": "https://www.godswayhighschool.ac.ug/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "news"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:09:05+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.goldencrownug",
+    "name": "Golden Crown Radio Ug",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/150236.v1.png",
+    "stream_url": "https://a12.my-control-panel.com/listen/golden_crown_radio_ug/radio.mp3",
+    "website": "http://goldencrownchristiansfellowship.org/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:09:06+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.goodnews",
+    "name": "Good News Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/125755.v1.png",
+    "stream_url": "https://cast4.asurahosting.com/proxy/habinco2/stream",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "news",
+      "sports"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:10:57+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.goodnews904",
+    "name": "Good News FM - Biharwe",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/133387.v1.png",
+    "stream_url": "https://stream.zeno.fm/rhf71ls2hbpuv",
+    "website": "https://zeno.fm/radio/good-news-fm-biharwe/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:07:33+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.gospeleastafrica",
+    "name": "Gospel Radio-East Africa",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/48027.v10.png",
+    "stream_url": "http://c32.radioboss.fm:8451/stream",
+    "website": "http://gospelradioeastafrica.org/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:02:55+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.gospelmelodies",
+    "name": "Gospel Melodies Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/135919.v2.png",
+    "stream_url": "https://gospelradio.256cloud.com/listen/gospel_melodies/radio.mp3",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:10:05+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.greenekikoola",
+    "name": "Green Radio Ekikoola",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/143841.v1.png",
+    "stream_url": "https://stream.zeno.fm/epweumrmxj1uv",
+    "website": "https://zeno.fm/radio/greenradio-ekikoola/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:04:46+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.gsword",
+    "name": "Kristos Life Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/132022.v9.png",
+    "stream_url": "https://live.ionradios.com:1195/stream",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "talk",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:09:02+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.heart1023",
+    "name": "102.3 Heart Fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/108160.v4.png",
+    "stream_url": "https://stream.zeno.fm/c7wmzug90rhvv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:02:59+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.heavenlyaltar",
+    "name": "Heavenly Altar",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/113204.v2.png",
+    "stream_url": "https://stream.zeno.fm/6s8719ctbphvv",
+    "website": "https://zeno.fm/radio/heavenly-altar/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:09:07+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.hero",
+    "name": "Hero Radio (uganda)",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/138787.v2.png",
+    "stream_url": "https://a2.asurahosting.com:6790/uganda.mp3",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:05:35+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.hifi",
+    "name": "HiFi Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/138791.v3.png",
+    "stream_url": "https://stream.zeno.fm/j3vnssegkw0uv",
+    "website": "https://hifiradios.com/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:08:15+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.hii5",
+    "name": "Hii5 Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/93106.v8.png",
+    "stream_url": "https://stream.zeno.fm/dcayysc6pxhvv",
+    "website": "https://hii5radioug.com/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "news",
+      "talk",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:04:47+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.hills1004",
+    "name": "Hills FM 100.4",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/121319.v5.png",
+    "stream_url": "http://s40.myradiostream.com:21392/;",
+    "website": "https://hillsfm.co.ug/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:01:57+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.hoima",
+    "name": "Radio Hoima 88.6FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/150492.v3.png",
+    "stream_url": "https://r1.comcities.com/proxy/ytswyfvh/stream",
+    "website": "https://radiohoima.com/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:04:39+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.homeboyz",
+    "name": "HomeBoyz Radio Ug",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/148025.v3.png",
+    "stream_url": "https://stream.zeno.fm/gxjhbloltwluv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:02:49+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.hotx",
+    "name": "Hotxradio",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/123270.v2.png",
+    "stream_url": "https://stream.zeno.fm/1nwdm0xgdsxuv",
+    "website": "http://www.hotxradio.com/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "r'n'b",
+      "classic",
+      "hip-hop",
+      "country",
+      "oldies",
+      "reggae",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:06:32+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.housekse",
+    "name": "House Radio K&#39;se",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/136380.v1.png",
+    "stream_url": "https://stream.zeno.fm/ibadjv6m5kyuv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "dance",
+      "afropop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:10:56+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.hut",
+    "name": "Hut Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/102240.v1.png",
+    "stream_url": "https://stream.zeno.fm/80bfp9gsks8uv",
+    "website": "https://zeno.fm/hut-radio/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "news",
+      "sports",
+      "gospel",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:07:21+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.impact",
+    "name": "Impact FM 98.4",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/30898.v4.png",
+    "stream_url": "http://imc.ug/",
+    "website": "http://imc.ug/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "talk",
+      "christian contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:10:50+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.infinityuganda",
+    "name": "Infinity Radio Uganda",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/129534.v1.png",
+    "stream_url": "https://stream.zeno.fm/z3d2saoyjsctv",
+    "website": "https://infinityug.com/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "news",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:07:22+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.innerman",
+    "name": "Innerman Fm 107.5",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/112700.v3.png",
+    "stream_url": "https://dc4.serverse.com/proxy/aqzyrakq/stream",
+    "website": "https://www.innermanfm.org/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:01:54+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.inspire",
+    "name": "Inspire Fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/133563.v4.png",
+    "stream_url": "https://stream.zeno.fm/mvguohfmp4gvv",
+    "website": "https://livingstonebanjagala.weebly.com/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:06:36+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.inspireuganda",
+    "name": "Inspire Radio Uganda",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/146639.v1.png",
+    "stream_url": "https://stream.zeno.fm/j4ipnmbt9ogvv",
+    "website": "https://zeno.fm/radio/inspire-radio-s5hk/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:10:10+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.iseb",
+    "name": "Iseb Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/108678.v1.png",
+    "stream_url": "https://stream.zeno.fm/y6bbt2cmdq8uv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "news",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:07:33+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.iuiu",
+    "name": "IUIU FM Uganda",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/114258.v5.png",
+    "stream_url": "http://fm.iuiu.ac.ug:4848/stream?id=19",
+    "website": "https://iuiufm.iuiu.ac.ug/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "pop",
+      "news"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:05:37+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.jahzon",
+    "name": "Jahzon Radio Uganda",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/129981.v2.png",
+    "stream_url": "https://stream.zeno.fm/wbulxzf3yxotv",
+    "website": "https://zeno.fm/radio/jahzon-radio-ug/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "news",
+      "classic",
+      "sports",
+      "politics"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:09:09+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.janan",
+    "name": "Janan Schools Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/108717.v3.png",
+    "stream_url": "https://stream.zeno.fm/c258uuxxr98uv",
+    "website": "https://www.jananschools.com/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:07:26+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.jogoo",
+    "name": "Jogoo FM 93.8",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/64164.v14.png",
+    "stream_url": "https://listen.shoutcast.com/jogoofm938",
+    "website": "https://jogoofm.com/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "r'n'b",
+      "news",
+      "talk",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:05:36+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.joy",
+    "name": "Joy FM 104.5",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/80243.v10.png",
+    "stream_url": "https://stream.zeno.fm/agzau19esc9uv",
+    "website": "http://www.liferesurrection.co.ug/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:01:50+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.jubilee",
+    "name": "Jubilee Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/139393.v1.png",
+    "stream_url": "https://stream.zeno.fm/f3y3up2k07zuv",
+    "website": "https://jubileeradiouganda.com/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "rock",
+      "news",
+      "talk",
+      "classic",
+      "christian",
+      "gospel",
+      "education",
+      "community"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:11:54+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.kabalega",
+    "name": "Kabalega FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/131313.v1.png",
+    "stream_url": "https://stream.hydeinnovations.com:8028/stream",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "pop",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:03:52+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.kadama",
+    "name": "Kadama Fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/129148.v3.png",
+    "stream_url": "https://stream.zeno.fm/a4kkqp9k5nstv",
+    "website": "https://magic1xtra.com/station/kadama-fm/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "dance",
+      "pop",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:11:06+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.kahunge",
+    "name": "Kahunge Radio Fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/154497.v2.png",
+    "stream_url": "https://a13.asurahosting.com/listen/kahunge_radio_fm/radio.mp3",
+    "website": "https://kahungeradio.com/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "news",
+      "rap",
+      "hip-hop",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:07:27+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.kairosbroadcastingservices",
+    "name": "Kairos Broadcasting Services",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/121754.v3.png",
+    "stream_url": "https://stream.zeno.fm/4u46wloebsauv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "talk",
+      "gospel",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:08:18+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.kampalabusiness",
+    "name": "Kampala Business Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/108191.v4.png",
+    "stream_url": "https://servidor38.brlogic.com:7218/live",
+    "website": "https://www.kampalabusinessradio.com/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "talk",
+      "business",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:12:30+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.kaseseguide",
+    "name": "Kasese Guide Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/88100.v8.png",
+    "stream_url": "https://radio.julyhost.net/8240/stream",
+    "website": "https://www.kaseseguideradio.com/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "news",
+      "christian",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:59:34+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.kazinjema",
+    "name": "Kazi Njema Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/125753.v1.png",
+    "stream_url": "http://cast3.asurahosting.com/proxy/habincon/stream",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "news",
+      "sports"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:10:55+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.kazo",
+    "name": "Kazo FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/139591.v7.png",
+    "stream_url": "https://stream.zeno.fm/xaebasjtt0vuv",
+    "website": "https://kazofm.com/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:01:52+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.kbs",
+    "name": "KBS 93.0 FM - Ekisweko",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/112599.v14.png",
+    "stream_url": "http://139.162.195.139:8030/radio.mp3",
+    "website": "https://www.kookikingdom.org/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "news",
+      "culture",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:02:46+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.kbskampala",
+    "name": "Bethel Radio - Uganda",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/136159.v12.png",
+    "stream_url": "https://stream.zeno.fm/zv7gtfnyf79tv",
+    "website": "https://zeno.fm/radio/bethel-radio-uganda/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:08:23+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.kdr1003",
+    "name": "KDR 100.3FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/87133.v21.png",
+    "stream_url": "https://radiocomnetu.org/kdrfm-stream",
+    "website": "http://www.kdrfmradio.com/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "news",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:00:44+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.kfm",
+    "name": "93.3 KFM",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/30900.v8.png",
+    "stream_url": "https://worldradio.online/proxy/?q=http://radio.kfm.co.ug:8000/stream&plugin_id=13399&site_id=13513928",
+    "website": "http://kfm.co.ug/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "r'n'b"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:00:41+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.kiab",
+    "name": "KIAB Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/147249.v2.png",
+    "stream_url": "https://stream.zeno.fm/blomrpcwlxsvv",
+    "website": "https://zeno.fm/radio/kiabradio-uganda/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "news",
+      "talk",
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:09:05+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.kicorhythm",
+    "name": "KICO Rhythm Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/150491.v1.png",
+    "stream_url": "https://r1.comcities.com/proxy/vwbsmpkb/stream",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:07:24+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.kiiramedia",
+    "name": "Kiira Media Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/153862.v3.png",
+    "stream_url": "https://stream.zeno.fm/qe8xyw67xlruv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "r'n'b",
+      "classic",
+      "soul",
+      "reggae"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:11:57+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.kiis",
+    "name": "Kiis Fm 100.9",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/119577.v3.png",
+    "stream_url": "http://14867.cloudrad.io:9224/live",
+    "website": "http://www.capital.co.ug.com/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:00:36+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.kingsolomon",
+    "name": "King Solomon Fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/133552.v9.png",
+    "stream_url": "https://stream.zeno.fm/jkgrrfm3rlkvv",
+    "website": "https://www.kstvuganda.com/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "education",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:09:10+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.kiruhura",
+    "name": "Kiruhura FM 98.6",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/128303.v3.png",
+    "stream_url": "https://c18.radioboss.fm:8597/stream",
+    "website": "https://kiruhurafm.co.ug/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:01:56+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.kkcr917",
+    "name": "KKCR 91.7FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/87801.v17.png",
+    "stream_url": "https://kkcradio.urdt.net:8000/radio.mp3",
+    "website": "https://kkcr.urdt.net/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "r'n'b",
+      "pop",
+      "folk",
+      "classic",
+      "soul",
+      "african",
+      "politics"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:00:55+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.konzo",
+    "name": "Konzo Fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/153778.v1.png",
+    "stream_url": "https://stream.zeno.fm/dv3fsvconekuv",
+    "website": "https://konzomovies.ct.ws/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "dance",
+      "afro beat"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:10:51+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.krakon",
+    "name": "Krak On Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/119535.v24.png",
+    "stream_url": "https://stream.zeno.fm/ejtgiokrnnkvv",
+    "website": "https://www.krakonradio.com/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:00:55+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.krc",
+    "name": "KRC 102 FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/137700.v1.png",
+    "stream_url": "https://stream.zeno.fm/y7bqwfryxdovv",
+    "website": "https://krcfm.com/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "pop",
+      "culture"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:07:29+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.ktown",
+    "name": "Ktown Fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/123169.v7.png",
+    "stream_url": "https://stream.zeno.fm/cz0qkurw3movv",
+    "website": "https://ktownfm.com/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:01:49+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.kyaka",
+    "name": "96.4 Kyaka FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/134288.v2.png",
+    "stream_url": "https://c2.radioboss.fm:8864/stream",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "news",
+      "talk",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:06:29+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.lastrol",
+    "name": "Lastrol FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/83219.v17.png",
+    "stream_url": "https://stream.zeno.fm/4scq4ykxzv8uv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:08:20+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.lavaccine",
+    "name": "Radio La Vaccine",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/104738.v6.png",
+    "stream_url": "https://stream.zeno.fm/tg5q02h7rrhvv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "news",
+      "top40",
+      "oldies"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:08:24+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.leadafrica",
+    "name": "Radio Lead Africa",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/30912.v7.png",
+    "stream_url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SAM04AAC177_SC?dist=onlineradiobox",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "pop",
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:08:14+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.legit",
+    "name": "Legit Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/133574.v8.png",
+    "stream_url": "https://stream.zeno.fm/yyyg9d6oiwotv",
+    "website": "https://legitradio.com/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:07:23+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.liberty",
+    "name": "89.0 Liberty Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/153879.v12.png",
+    "stream_url": "https://libertyfmhoima.com/wpstreamify/ev_wps_63013_libert1f6e73_1758_1770559819/hls/um9anifimboqv4z6.m3u8?nocache=1",
+    "website": "https://libertyfmhoima.com/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:04:45+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.lifehavenmukono",
+    "name": "Life Haven Radio-Mukono",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/142880.v1.png",
+    "stream_url": "https://stream.zeno.fm/smoi2chc0tkvv",
+    "website": "https://lifehavenchristianministries.org/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:09:15+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.liu",
+    "name": "LivingStone Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/137446.v4.png",
+    "stream_url": "https://stream.zeno.fm/t43wjcfevfruv",
+    "website": "https://livingstone.ac.ug/liuradio/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:11:56+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.lrcm",
+    "name": "LRCM Radio (Uganda)",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/152272.v3.png",
+    "stream_url": "https://a8.asurahosting.com:8950/uganda.mp3",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:08:25+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.lubegaali",
+    "name": "UMCA RADIO",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/123511.v4.png",
+    "stream_url": "https://a5.asurahosting.com:7270/radio.mp3",
+    "website": "https://radio.umcafoundation.org/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "islamic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:06:38+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.luung",
+    "name": "Luung Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/119098.v2.png",
+    "stream_url": "https://stream.zeno.fm/ct7duzvtz68uv",
+    "website": "https://www.luungradio.com/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "talk",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:04:41+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.luweero",
+    "name": "LUWEERO ONLINE RADIO",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/133327.v5.png",
+    "stream_url": "https://stream.zeno.fm/hdkcczt7hzivv",
+    "website": "https://luweeroonlineradio.simdif.com/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:07:32+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.makejesusfamous",
+    "name": "Make Jesus Famous Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/152578.v5.png",
+    "stream_url": "https://live.ionradios.com:5271/stream",
+    "website": "https://www.mjfgt.org/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:10:54+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.makradio",
+    "name": "MAKRADIO",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/150518.v2.png",
+    "stream_url": "https://s2.radio.co/sf61f72150/listen",
+    "website": "https://mak.ac.ug/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:08:16+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.mariauganda",
+    "name": "Radio Maria",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/30902.v7.png",
+    "stream_url": "https://dreamsiteradiocp2.com/proxy/rmuganda2?mp=/stream?ver=896679",
+    "website": "http://www.radiomaria.ug/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:59:36+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.mawokota",
+    "name": "Mawokota Radio 99.9",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/145829.v1.png",
+    "stream_url": "https://stream.zeno.fm/le9vbqo47hotv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "news",
+      "talk",
+      "sports"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:03:51+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.mcf",
+    "name": "MCF RADIO 98.7",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/114497.v2.png",
+    "stream_url": "https://streams.radio.co/s79fbbb432/listen",
+    "website": "https://mcfradio.co.ug/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:59:29+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.mega",
+    "name": "Mega FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/100593.v12.png",
+    "stream_url": "https://s31.myradiostream.com/9022/;",
+    "website": "https://megafmug.com/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "pop",
+      "news",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:59:41+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.mega100",
+    "name": "Mega 100 FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/144981.v9.png",
+    "stream_url": "https://s2.myradiostream.com/8560/listen.mp3",
+    "website": "http://100fmradio.com/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "news",
+      "comedy",
+      "sports",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:59:42+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.mega1011",
+    "name": "Mega Radio 101.1",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/102402.v4.png",
+    "stream_url": "https://stream.zeno.fm/4k48hk3mg5zuv",
+    "website": "https://www.megaradiofm.com/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "alternative"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:03:45+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.messiah",
+    "name": "Messiah Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/99689.v10.png",
+    "stream_url": "https://radio.julyhost.net/8246/stream",
+    "website": "https://messiahradio.co.ug/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "news"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:59:40+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.metro",
+    "name": "Metro FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/30938.v8.png",
+    "stream_url": "http://66.55.145.43:7757/stream",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:06:29+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.metro908",
+    "name": "Metro Fm 90.8",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/124186.v6.png",
+    "stream_url": "https://radio.mytintah.com/listen/metro_fm_90.8_uganda_/radio.mp3",
+    "website": "https://metrofm908.net/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "news"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:05:44+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.mgf",
+    "name": "JCG Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/151145.v6.png",
+    "stream_url": "https://stream.zeno.fm/rhgvtusqachvv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:05:39+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.mikedee",
+    "name": "Mike Dee radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/149411.v1.png",
+    "stream_url": "https://stream.radiojar.com/9nesgw002hcwv",
+    "website": "https://mikedeeradio.com/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "r'n'b",
+      "classic",
+      "afro beat"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:05:33+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.miracle",
+    "name": "Afribeats Mixnet Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/85157.v22.png",
+    "stream_url": "https://stream.zeno.fm/duf0fay5kpduv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "gospel",
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:04:42+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.mirembe",
+    "name": "Mirembe Radio 99.2",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/124573.v2.png",
+    "stream_url": "https://stream.zeno.fm/6sqw2hhwnoquv",
+    "website": "https://zeno.fm/radio/mirembe-radio-99-2",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "news",
+      "talk",
+      "sports"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:05:35+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.mjf",
+    "name": "MJF radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/93976.v6.png",
+    "stream_url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SAM07AAC134.mp3?dist=onlineradiobox",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:12:01+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.mmu",
+    "name": "mmu radio 105.2",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/147908.v2.png",
+    "stream_url": "https://stream.zeno.fm/e7jm2atm4hfvv",
+    "website": "https://mmu.ac.ug/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "dance",
+      "rock",
+      "soul"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:11:57+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.mpd",
+    "name": "MPD Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/149620.v2.png",
+    "stream_url": "https://play.radioking.io/preach-and-deliver-radio",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "country",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:02:45+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.mpondwe",
+    "name": "Mpondwe FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/120279.v12.png",
+    "stream_url": "https://sonic01.instainternet.com/8192/stream",
+    "website": "https://mpondwefm.com/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:00:39+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.mrai",
+    "name": "MRAI RADIO",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/128801.v4.png",
+    "stream_url": "https://stream.zeno.fm/aoyrjokk40xvv",
+    "website": "https://mraiug.org/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "gospel",
+      "entertainment",
+      "politics"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:02:50+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.mugishabobbrian",
+    "name": "Mugisha Bob Brian",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/83500.v6.png",
+    "stream_url": "https://stream.zeno.fm/5k5c5xwrtqruv",
+    "website": "https://zeno.fm/mugishabobbrian/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "dance",
+      "hip-hop",
+      "reggae",
+      "african"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:03:43+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.mukono",
+    "name": "Mukono fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/123882.v1.png",
+    "stream_url": "https://s19.myradiostream.com/18784/;?",
+    "website": "https://mukonofm.com/listen-live/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "talk",
+      "education",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:12:02+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.nara24",
+    "name": "Nara24 FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/121753.v2.png",
+    "stream_url": "https://cast4.asurahosting.com/proxy/kamulite/stream",
+    "website": "https://nara24fm.com/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "pop",
+      "african",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:10:09+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.nbs894",
+    "name": "NBS 89.4 FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/95743.v5.png",
+    "stream_url": "https://khodeyo.radioca.st/stream",
+    "website": "https://www.nbsgroupuganda.com/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "pop",
+      "news",
+      "talk",
+      "folk",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:59:35+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.newlife",
+    "name": "Turn Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/87815.v32.png",
+    "stream_url": "https://stream.zeno.fm/cuejngegi8btv",
+    "website": "https://www.turnradio.live/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "talk",
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:01:51+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.nufflove",
+    "name": "Nufflove Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/150855.v1.png",
+    "stream_url": "https://stream.zeno.fm/sgsmsbmlrfytv",
+    "website": "https://www.nuff-love.com/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "dance",
+      "reggae"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:09:17+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.nup",
+    "name": "Nup Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/143978.v5.png",
+    "stream_url": "https://stream.zeno.fm/gxjhbloltwluv",
+    "website": "https://nupfm.com/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "dance",
+      "adult contemporary",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:07:25+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.nxt",
+    "name": "NXT Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/96833.v7.png",
+    "stream_url": "https://stream.zeno.fm/lbca7zintcnuv",
+    "website": "https://nextradio.co.ug/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "african"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:00:46+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.obs",
+    "name": "OBS Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/149951.v3.png",
+    "stream_url": "https://s3.free-shoutcast.com/stream/18204",
+    "website": "https://obsnetwork.tech.blog/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:09:17+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.oldtymerz",
+    "name": "Oldtymerz Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/140789.v2.png",
+    "stream_url": "https://stream.radio.co/scf650032a/listen",
+    "website": "https://www.oldtymerzradio.net/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "r'n'b",
+      "pop",
+      "hip-hop",
+      "reggae"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:02:47+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.one",
+    "name": "One FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/30901.v4.png",
+    "stream_url": "http://162.244.80.52:8740/;stream.mp3;audio.mp3",
+    "website": "http://radioonefm90.com/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "rock",
+      "pop",
+      "news",
+      "adult contemporary",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:00:38+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.onlinechurch",
+    "name": "Pastor Nissi",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/83526.v13.png",
+    "stream_url": "https://stream.zeno.fm/76wtffr53d0uv",
+    "website": "https://zeno.fm/radio/prayer-line/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:06:39+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.op",
+    "name": "OP FM 92.1",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/119837.v10.png",
+    "stream_url": "https://stream.zeno.fm/iydttapi8rguv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:01:47+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.opengate",
+    "name": "Open Gate FM Mbale",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/30960.v20.png",
+    "stream_url": "http://139.162.195.139:8010/radio.mp3",
+    "website": "http://www.opengatefmmbale.com/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "news",
+      "community"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:59:37+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.oradio",
+    "name": "O Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/140846.v1.png",
+    "stream_url": "https://stream.zeno.fm/15u3hdz0qf9uv",
+    "website": "https://site.oradio.ug/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "afropop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:09:08+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.own",
+    "name": "OWN FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/140065.v1.png",
+    "stream_url": "https://stream.zeno.fm/srw8nxlyrlztv",
+    "website": "https://zeno.fm/radio/own-fm/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "news",
+      "talk",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:06:34+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.oxygen",
+    "name": "Radio YOO",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/88537.v23.png",
+    "stream_url": "https://stream.zeno.fm/xesdk5gwaphvv",
+    "website": "https://zeno.fm/radio/radio-yoo/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "news",
+      "gospel",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:01:48+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.pacis",
+    "name": "Radio Pacis",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/30909.v10.png",
+    "stream_url": "https://radiopacisuganda.radioca.st/stream",
+    "website": "http://www.radiopacis.org/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "pop",
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:00:36+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.pan",
+    "name": "Pan Radio - Kampala",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/140924.v1.png",
+    "stream_url": "https://stream.zeno.fm/nhxvgg83pjquv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:10:53+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.papa",
+    "name": "Papa FM Uganda",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/111466.v5.png",
+    "stream_url": "https://stream.zeno.fm/uv626z88af9uv",
+    "website": "https://graceofhope.org/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "dance",
+      "reggae",
+      "gospel",
+      "afro beat"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:04:43+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.pastoranthonymutiinisa",
+    "name": "Pastor Anthony Mutiinisa",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/112671.v1.png",
+    "stream_url": "https://radio.tmediacentre.com/8014/stream",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:10:54+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.path",
+    "name": "restoration radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/135995.v10.png",
+    "stream_url": "https://stream.zeno.fm/tgzp9ppcuvnuv",
+    "website": "https://zeno.fm/radio/restoration-radio-innc/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:08:13+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.peakkabale",
+    "name": "Peak fm kabale",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/123682.v3.png",
+    "stream_url": "https://stream.zeno.fm/nhnueqpwlpovv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:03:50+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.pearlofafrica",
+    "name": "Pearl of Africa Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/30930.v5.png",
+    "stream_url": "https://dc4.serverse.com/proxy/pearlfm/stream",
+    "website": "https://pearlfmuganda.com/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "pop",
+      "news"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:59:33+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.pfemuganda",
+    "name": "Pfem radio uganda",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/135590.v4.png",
+    "stream_url": "https://a5.asurahosting.com:6720/radio.mp3",
+    "website": "https://pfemdr.org/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:11:02+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.pine",
+    "name": "Pine Radio - Uganda",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/138588.v1.png",
+    "stream_url": "https://stream.zeno.fm/bbecse7al2ruv",
+    "website": "https://zeno.fm/radio/pine-radio-1tlf/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "r'n'b",
+      "soul",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:02:53+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.pison",
+    "name": "Pison Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/152505.v2.png",
+    "stream_url": "https://live.ionradios.com:5336/stream",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "talk",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:10:05+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.point",
+    "name": "Point FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/89011.v4.png",
+    "stream_url": "https://stream.zeno.fm/rghv2xr5bzzuv",
+    "website": "https://zeno.fm/point-fm/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:00:42+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.powerofchrist",
+    "name": "Power of Christ Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/150693.v3.png",
+    "stream_url": "https://live.ionradios.com:5617/stream",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "talk",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:08:22+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.prayerfire",
+    "name": "Prayer Fire Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/152432.v2.png",
+    "stream_url": "https://stream.zeno.fm/badjrtmyyhttv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:11:53+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.prayermountainwarriors",
+    "name": "Prayer Mountain Warriors Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/150241.v1.png",
+    "stream_url": "https://stream.zeno.fm/udwgvjoea35vv",
+    "website": "https://zeno.fm/radio/prayer-mountain-warriors-radio/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:04:38+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.prayertower",
+    "name": "Prayer Tower Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/107746.v6.png",
+    "stream_url": "https://stream.zeno.fm/ymapb78yznhvv",
+    "website": "https://zeno.fm/radio/prayer-tower-radio/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:03:53+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.preachanddeliver",
+    "name": "HG Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/143892.v20.png",
+    "stream_url": "https://stream.zeno.fm/3zwhdz1uawzvv",
+    "website": "https://zeno.fm/radio/hg-radio-eywz/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:01:53+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.pride",
+    "name": "Kiira Media",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/150891.v25.png",
+    "stream_url": "https://s3.free-shoutcast.com/stream/18132",
+    "website": "https://kiiramedia25.wixsite.com/kiira-media",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:11:55+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.prime",
+    "name": "91.9 Prime Radio Kampala",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/135783.v3.png",
+    "stream_url": "https://media2.streambrothers.com:8128/stream",
+    "website": "https://primeradio.ug/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "sports",
+      "gospel",
+      "education",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:00:52+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.prince",
+    "name": "Prince Online Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/125754.v1.png",
+    "stream_url": "https://cast3.asurahosting.com/proxy/habinco1/stream",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "news",
+      "sports"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:10:50+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.promise",
+    "name": "Promise Radio UG",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/141013.v1.png",
+    "stream_url": "https://stream.zeno.fm/hkzgeqlcjoxuv",
+    "website": "https://zeno.fm/radio/promise-radio-5gkf/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:00:50+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.radio5",
+    "name": "Radio 5",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/136411.v1.png",
+    "stream_url": "https://stream.zeno.fm/sh45yebkxksvv",
+    "website": "https://radio5.com/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "rock",
+      "jazz",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:59:41+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.radiocity",
+    "name": "Radiocity",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/30915.v9.png",
+    "stream_url": "https://cast1.my-control-panel.com/proxy/richar16/stream",
+    "website": "http://www.radiocity.ug/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "pop",
+      "news",
+      "talk",
+      "sports"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:00:40+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.radioyouganda",
+    "name": "Radio Yoo",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/114557.v5.png",
+    "stream_url": "https://stream.zeno.fm/v73tc5gwaphvv",
+    "website": "https://zeno.fm/radio/radioyo/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "talk",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:03:44+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.redemption",
+    "name": "Redemption Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/138090.v1.png",
+    "stream_url": "https://stream.zeno.fm/kzkqawu2tc4uv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:06:32+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.ref",
+    "name": "REF-FM Kyangwali",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/134469.v1.png",
+    "stream_url": "https://ref_fm_kyangwali.streampartner.nl/live?type=.mp3",
+    "website": "https://ref-fmkyangwali.com/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "pop",
+      "news"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:05:37+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.remnant",
+    "name": "Remnant Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/111333.v4.png",
+    "stream_url": "https://stream.zeno.fm/0x81u7mprv8uv",
+    "website": "https://www.demagospel.com/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:11:49+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.rockug",
+    "name": "Rock Fm Ug",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/107725.v9.png",
+    "stream_url": "http://titan.shoutca.st:8341/;",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:01:58+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.rubandatukore",
+    "name": "Rubanda Tukore Fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/143815.v2.png",
+    "stream_url": "https://stream.zeno.fm/449xd1stlsqtv",
+    "website": "https://rubandafm.odoo.com/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "jazz",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:00:53+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.rukigapearl",
+    "name": "Rukiga Pearl Radio 92.9",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/133884.v2.png",
+    "stream_url": "https://stream.zeno.fm/8abznqlzdfltv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "news",
+      "talk",
+      "sports"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:10:04+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.rukungiri",
+    "name": "Radio Rukungiri",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/108842.v12.png",
+    "stream_url": "https://radio.julyhost.net/8244/stream",
+    "website": "https://radiorukungiri.com/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:01:59+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.ruutsa",
+    "name": "Ruutsa Radio | Inyaisa Mwenya",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/137555.v4.png",
+    "stream_url": "https://studio23.radiolize.com/radio/8110/radio.mp3",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "news",
+      "talk",
+      "sports",
+      "african",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:01:55+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.samiane",
+    "name": "Samiane Fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/91040.v15.png",
+    "stream_url": "https://stream.zeno.fm/6vpy07x371zuv",
+    "website": "https://kikobaelites.xyz/samiane-fm/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "talk",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:06:30+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.sanctuaryfm",
+    "name": "Sanctuary FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/113203.v2.png",
+    "stream_url": "https://stream.zeno.fm/vyx334hsbphvv",
+    "website": "https://zeno.fm/radio/sanctuaryfm-uganda/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:05:34+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.sanctuaryuganda",
+    "name": "Sanctuary radio uganda",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/107550.v3.png",
+    "stream_url": "https://s20.reliastream.com/stream/8094",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:02:47+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.sapientia",
+    "name": "Radio Sapientia",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/30944.v6.png",
+    "stream_url": "http://streaming.radiosapientia.com:6300/sapientia",
+    "website": "http://www.radiosapientia.com/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:59:37+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.satelliteviewschool",
+    "name": "Radio Kontakt",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/136740.v5.png",
+    "stream_url": "https://stream.zeno.fm/iu4niw828tqtv",
+    "website": "https://zeno.fm/radio/radio-kontakt/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "classic",
+      "oldies"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:09:57+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.sauti",
+    "name": "SAUTI FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/150501.v14.png",
+    "stream_url": "https://eu4.fastcast4u.com/proxy/sautifm1055/stream",
+    "website": "https://96cityfm.wixsite.com/96cityfm-radio",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:07:28+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.seke",
+    "name": "107.8 SEKE FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/133093.v5.png",
+    "stream_url": "https://stream.zeno.fm/0n2vdwtew54vv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "news",
+      "sports",
+      "entertainment",
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:04:42+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.serulyo",
+    "name": "Serulyo Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/146087.v1.png",
+    "stream_url": "https://stream.zeno.fm/oib8r31anzavv",
+    "website": "https://serulyo.org/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:10:01+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.set",
+    "name": "SET FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/149025.v1.png",
+    "stream_url": "https://stream.zeno.fm/mswdydyaubovv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:07:27+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.sevenz",
+    "name": "Sevenz Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/122013.v12.png",
+    "stream_url": "https://servidor21.brlogic.com:7066/live",
+    "website": "https://sevenzradio.com/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:09:55+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.shafiqproperties",
+    "name": "Shafiq Properties Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/138351.v2.png",
+    "stream_url": "https://stream.zeno.fm/38sqkxjb1nuuv",
+    "website": "https://zeno.fm/radio/shafiq-properties-radio/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "90s",
+      "00s",
+      "80s"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:08:16+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.sheema",
+    "name": "Sheema broadcasting services 90.1fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/131373.v7.png",
+    "stream_url": "https://streaming.live365.com/a28745",
+    "website": "https://www.sheemasbs.com/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "news",
+      "talk",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:02:49+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.shine",
+    "name": "Shine Fm 106.5 Oyam",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/148277.v4.png",
+    "stream_url": "https://www.radiocomnetu.org/shinefm-stream",
+    "website": "https://www.radiocomnetu.org/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:04:43+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.sifa",
+    "name": "Sifa FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/133272.v7.png",
+    "stream_url": "https://stream.zeno.fm/p0znhhsqachvv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:04:44+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.siloamuganda",
+    "name": "Winners Radio Uganda",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/147550.v6.png",
+    "stream_url": "https://stream.zeno.fm/eyljdanihemtv",
+    "website": "https://zeno.fm/radio/winnersradioganda/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:06:36+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.simba",
+    "name": "Radio Simba",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/30896.v9.png",
+    "stream_url": "https://www.radiosimba.ug/stream2",
+    "website": "https://www.radiosimba.ug/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "news",
+      "african"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:59:28+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.sinza",
+    "name": "Radio Sinza",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/119088.v6.png",
+    "stream_url": "https://stream.zeno.fm/zajwav6sescuv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:07:22+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.skyfmuganda",
+    "name": "Sky Radio Ug",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/130875.v5.png",
+    "stream_url": "https://stream.zeno.fm/skyifevcwmpvv",
+    "website": "https://zeno.fm/radio/sky-fm-nz8h/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "pop",
+      "rap",
+      "hip-hop",
+      "african",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:05:34+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.skynet",
+    "name": "Skynet Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/92039.v2.png",
+    "stream_url": "https://stream.zeno.fm/twr5ewtfk5zuv",
+    "website": "https://skynetradio.com/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "news",
+      "talk",
+      "folk",
+      "sports"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:09:56+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.soft",
+    "name": "Soft Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/114302.v3.png",
+    "stream_url": "https://stream.zeno.fm/8ybc1t1m8yzuv",
+    "website": "https://softmediauganda.com/radio/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "talk",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:10:52+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.spearvisual",
+    "name": "Spear Visual Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/127464.v2.png",
+    "stream_url": "https://s43.webcastserver.com:23214/;",
+    "website": "https://spearradio.com/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "politics"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:08:17+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.spicefm",
+    "name": "Spicefm Hoima",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/131312.v5.png",
+    "stream_url": "https://dc4.serverse.com/proxy/spicefm/stream",
+    "website": "https://spicemedia.ug/spicefm/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "news",
+      "talk",
+      "african"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:00:48+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.spirit",
+    "name": "Spirit FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/30947.v7.png",
+    "stream_url": "http://216.104.206.38/broadwave.mp3",
+    "website": "http://www.spiritfm.co.ug/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "pop",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:01:50+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.spiritofglory",
+    "name": "Spirit Of Glory Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/126915.v6.png",
+    "stream_url": "https://live.ionradios.com:1215/stream",
+    "website": "https://freedomexperienceradio.com/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "talk",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:10:03+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.srh",
+    "name": "SRH Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/127580.v5.png",
+    "stream_url": "https://a1.asurahosting.com/hls/srh_radio_/live.m3u8",
+    "website": "https://srhradio.com/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:12:32+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.ssaza",
+    "name": "99.8 Ssaza Fm Kyankwanzi",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/123016.v3.png",
+    "stream_url": "https://stream.zeno.fm/m73wrg95xnhvv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:03:49+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.stationbeta",
+    "name": "Station Beta",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/113038.v6.png",
+    "stream_url": "https://stream.zeno.fm/trg8wmq05hhvv",
+    "website": "https://beta.co.ke/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "pop",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:09:03+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.stationbetaafrica",
+    "name": "Station Beta Africa",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/125164.v3.png",
+    "stream_url": "https://stream.zeno.fm/bw5aivxbxlbtv",
+    "website": "https://zeno.fm/radio/station-beta-africa/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "pop",
+      "top40",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:04:39+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.stepmbale",
+    "name": "Step FM Mbale",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/89574.v15.png",
+    "stream_url": "http://139.162.195.139:8020/radio.mp3",
+    "website": "http://www.stepfmmbale.com/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "news",
+      "community"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:00:43+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.stn",
+    "name": "STN RADIO UGANDA",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/114191.v9.png",
+    "stream_url": "https://stream.zeno.fm/stpzmmyknkhvv",
+    "website": "https://graceofhope.org/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:06:33+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.streetdeejays",
+    "name": "Street Deejays Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/98396.v2.png",
+    "stream_url": "https://stream.zeno.fm/nbwdnxz7na0uv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "reggae",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:00:45+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.super",
+    "name": "Radio Super FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/110978.v2.png",
+    "stream_url": "https://stream.radio.co/sbb4e6ffc8/listen",
+    "website": "https://radiosuper.fm/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "pop",
+      "african",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:00:51+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.sure",
+    "name": "Sure Fm 99.9",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/148670.v2.png",
+    "stream_url": "https://surefm.radioca.st/stream",
+    "website": "https://surefm.ug/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "dance",
+      "pop",
+      "news",
+      "talk",
+      "entertainment",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:07:30+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.sureheavens",
+    "name": "Sure Heavens Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/153201.v2.png",
+    "stream_url": "https://servidor16.brlogic.com:7070/live",
+    "website": "https://sureheavenradio.webradiosite.com/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:12:25+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.tabia",
+    "name": "Radio Tabia",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/133856.v1.png",
+    "stream_url": "https://stream.zeno.fm/8qfasezknactv",
+    "website": "https://zeno.fm/radio/tabia-radio/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "pop",
+      "news",
+      "talk",
+      "reggae",
+      "african",
+      "culture",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:09:59+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.tamba",
+    "name": "Tamba Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/139110.v2.png",
+    "stream_url": "https://stream.zeno.fm/hkolyu7hxrtuv",
+    "website": "https://zeno.fm/radio/tamba-radio/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "news",
+      "gospel",
+      "entertainment",
+      "politics"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:11:00+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.tashacommunity",
+    "name": "Tasha Community Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/139784.v1.png",
+    "stream_url": "https://cast5.asurahosting.com/proxy/habinco5/stream",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "afro beat"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:11:54+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.tashuvah",
+    "name": "Teshuvah Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/132762.v8.png",
+    "stream_url": "https://stream.zeno.fm/3qpkku63z5quv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "dance",
+      "pop",
+      "news",
+      "hip-hop",
+      "reggae",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:03:42+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.tbs",
+    "name": "TBS FM  The Bull",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/135885.v1.png",
+    "stream_url": "https://dc4.serverse.com/proxy/tbsfm/stream",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "r'n'b",
+      "hip-hop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:00:46+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.teo905",
+    "name": "Teo Fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/130874.v3.png",
+    "stream_url": "https://stream.zeno.fm/wshc8fzfmbrtv",
+    "website": "https://zeno.fm/radio/teo-fm-90-5-ffe-tuliko",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "pop",
+      "sports"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:12:27+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.thehost",
+    "name": "The Host Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/139109.v2.png",
+    "stream_url": "https://stream.zeno.fm/sz84g8ppnbotv",
+    "website": "https://www.thehostradioug.co.ug/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:06:35+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.thekulture",
+    "name": "The Kulture Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/109766.v4.png",
+    "stream_url": "https://cast4.asurahosting.com/proxy/thekultu/stream",
+    "website": "https://thekultureradio.com/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "dance",
+      "r'n'b",
+      "pop",
+      "news",
+      "rap",
+      "hip-hop",
+      "reggae",
+      "african",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:05:44+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.theolivewaves",
+    "name": "The Olive Waves",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/151463.v1.png",
+    "stream_url": "https://listen.radioking.com/radio/767627/stream/834803",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "r'n'b",
+      "soul",
+      "reggae",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:12:30+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.tintiksmedia",
+    "name": "Tintik&#39;s media",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/133160.v2.png",
+    "stream_url": "https://dc4.serverse.com/proxy/tintik/stream",
+    "website": "https://www.tintiksmedia.com/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "talk",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:10:01+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.tlit",
+    "name": "TLIT Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/133631.v1.png",
+    "stream_url": "https://stream.zeno.fm/k5o8wtfla9fvv",
+    "website": "https://zeno.fm/radio/tlit-radio/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:09:56+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.touch",
+    "name": "Touch FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/30949.v6.png",
+    "stream_url": "http://s2.yesstreaming.net:7091/stream?",
+    "website": "http://www.touch.fm/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "alternative rock"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:05:40+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.tropical884",
+    "name": "Tropical FM 88.4",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/92087.v4.png",
+    "stream_url": "https://stream.zeno.fm/rs0m1rd5g2zuv",
+    "website": "http://www.tropicalradio.co.ug/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "news",
+      "talk",
+      "sports"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:00:47+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.trust",
+    "name": "Trust FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/121921.v3.png",
+    "stream_url": "http://cast4.my-control-panel.com:8270/stream",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "news",
+      "talk",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:11:56+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.truthfreedom",
+    "name": "Truth &amp; Freedom Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/145444.v3.png",
+    "stream_url": "https://listen.radioking.com/radio/267544/stream/312847",
+    "website": "https://pastorumarmulinde.com/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:11:05+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.truthuganda",
+    "name": "Truth Radio Uganda",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/147686.v1.png",
+    "stream_url": "https://stream.zeno.fm/z5l0knbzmc4tv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:08:15+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.tzgospel",
+    "name": "Tzgospel Uganda",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/119048.v6.png",
+    "stream_url": "https://stream.zeno.fm/mh25tbvkpchvv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:03:43+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.ubc",
+    "name": "UBC Ngeya FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/131903.v2.png",
+    "stream_url": "https://radio.julyhost.net/8168/stream",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:02:51+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.uccj",
+    "name": "UCCJ Online Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/121252.v10.png",
+    "stream_url": "https://julycast.be/8232/stream.mp3",
+    "website": "https://uccjministries.org/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:01:50+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.ugabeat",
+    "name": "UgaBeat FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/122758.v2.png",
+    "stream_url": "https://stream.zeno.fm/acehm4tr59xuv",
+    "website": "https://www.ugabeat.com/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "news",
+      "gospel",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:03:48+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.ugandadjs",
+    "name": "Uganda djs online radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/110942.v1.png",
+    "stream_url": "https://stream.zeno.fm/vkunv86994zuv",
+    "website": "https://ugandadjs.com/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "news",
+      "sports",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:00:44+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.ugandaqatar",
+    "name": "APPLE SKILLS RADIO",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/89003.v17.png",
+    "stream_url": "https://stream.zeno.fm/pnlcbfmlh63tv",
+    "website": "https://zeno.fm/radio/apple-skills-radio/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "news",
+      "talk",
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:02:56+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.ugonlinemedia",
+    "name": "Ugonlinemedia",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/132617.v1.png",
+    "stream_url": "https://stream.zeno.fm/8t4dtkxfgkuuv",
+    "website": "https://www.ugonlinemedia.com/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:11:05+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.umasha",
+    "name": "Umasha Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/132302.v1.png",
+    "stream_url": "https://stream.zeno.fm/ds42seqemh6uv",
+    "website": "https://umashaug.com/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "r'n'b",
+      "pop",
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:06:33+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.umcat",
+    "name": "Umcat Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/130852.v1.png",
+    "stream_url": "https://stream.zeno.fm/tnd9uzdeafutv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "dance",
+      "hip-hop",
+      "afro beat"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:03:51+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.umu",
+    "name": "Uganda Martyrs University Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/138897.v2.png",
+    "stream_url": "http://s46.webcastserver.com:11190/;",
+    "website": "https://voxcasting.com/umuradio",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "community"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:11:07+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.unityfmlira",
+    "name": "Unity FM Lira Uganda",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/113314.v2.png",
+    "stream_url": "https://stream.zeno.fm/1g8bb8ueuuhvv",
+    "website": "https://zeno.fm/radio/unity-fm-97-7-lira/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "pop",
+      "news",
+      "talk",
+      "education",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:00:54+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.vega",
+    "name": "Vega Radio ~Smile now",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/138771.v1.png",
+    "stream_url": "https://stream.zeno.fm/kkgnwbqh838uv",
+    "website": "https://vegaradioug.com/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "news",
+      "sports",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:08:25+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.vimba",
+    "name": "vimba fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/147539.v4.png",
+    "stream_url": "https://stream.zeno.fm/kek8ajhazvqvv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "talk",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:11:58+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.vision",
+    "name": "VISION RADIO",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/117000.v3.png",
+    "stream_url": "https://stream.zeno.fm/rmtdek37zxhvv",
+    "website": "https://visionradio.co.ug/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "r'n'b",
+      "classic",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:59:38+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.voice",
+    "name": "89.7 Fm Voice of Kyankwanzi",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/134748.v4.png",
+    "stream_url": "https://stream.zeno.fm/eyzf4ddwqcmvv",
+    "website": "https://zeno.fm/radio/89-7-voice-of-kyankwanzi/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:11:51+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.voiceofafrica",
+    "name": "voice of Africa Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/101792.v2.png",
+    "stream_url": "http://s13.myradiostream.com:40212/;",
+    "website": "https://voiceofafricauganda.com/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "islamic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:01:59+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.voiceofheaven",
+    "name": "Voice Of Heaven",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/119909.v4.png",
+    "stream_url": "https://s20.reliastream.com:8090/stream",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:07:25+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.voiceofkyankwanzi",
+    "name": "Voice Of Kyankwanzi Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/137057.v2.png",
+    "stream_url": "https://stream.zeno.fm/jjzwii38fqrvv",
+    "website": "https://zeno.fm/radio/89-7-voice-of-kyankwanzi/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "news"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:11:50+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.voiceoflife",
+    "name": "Radio Voice Of Life Fm 100.9 Arua",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/140806.v1.png",
+    "stream_url": "https://stream.zeno.fm/ugm9puqlsdeuv",
+    "website": "https://www.vol.ug/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:03:45+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.voiceofsheema",
+    "name": "Voice of Sheema 90.9 FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/111001.v2.png",
+    "stream_url": "https://stream.zeno.fm/wt8dvrwwrf9uv",
+    "website": "http://www.voiceofsheema.com/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "news",
+      "sports",
+      "education"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:02:52+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.voiceofteso",
+    "name": "Voice of Teso",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/30966.v13.png",
+    "stream_url": "https://dc4.serverse.com/proxy/vote/stream",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "pop",
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:59:36+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.vu",
+    "name": "VU RADIO Kampala, Feel the Hit!",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/127412.v8.png",
+    "stream_url": "https://s5.radio.co/sdf8bf7e2a/listen",
+    "website": "https://vu.ac.ug/vu-radio",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "rock",
+      "hip-hop",
+      "african"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:05:35+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.vukampala",
+    "name": "VU Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/147646.v3.png",
+    "stream_url": "https://s5.radio.co/sdf8bf7e2a/listen",
+    "website": "https://vu.ac.ug/vu-radio",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "sports",
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:05:37+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.vvamubusibe",
+    "name": "Va Mubusibe Radio - Nansana",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/148643.v6.png",
+    "stream_url": "https://stream.zeno.fm/j7a3dfjt8oquv",
+    "website": "https://zeno.fm/radio/va-mubusibe-radio-nansana/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:08:19+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.wa",
+    "name": "Radio Wa",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/100594.v5.png",
+    "stream_url": "https://nr8.newradio.it/proxy/radiowa?mp=/stream&1614672505698",
+    "website": "http://radiowa.org/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "news",
+      "talk",
+      "community"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:01:53+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.willz",
+    "name": "Willz fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/143975.v1.png",
+    "stream_url": "https://stream.zeno.fm/sdlodjn3v4wuv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:09:04+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.winnerschannel",
+    "name": "Winners Channel",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/137571.v1.png",
+    "stream_url": "https://stream.zeno.fm/zzmzr8j2kwfuv",
+    "website": "https://zeno.fm/radio/winners-channel/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:09:09+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.wordoftruth",
+    "name": "GBN Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/107812.v20.png",
+    "stream_url": "https://live.ionradios.com:1285/stream",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:06:34+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.worship",
+    "name": "Worship Fm Kampala",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/133816.v5.png",
+    "stream_url": "https://stream.zeno.fm/mjy0n6ogfmfuv",
+    "website": "https://zeno.fm/radio/worship-fm-kampala/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:11:04+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.worshipparadise",
+    "name": "Worship Paradise Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/146696.v2.png",
+    "stream_url": "https://live.ionradios.com:1355/stream",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:09:58+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.xfm948",
+    "name": "XFM 94.8",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/83080.v5.png",
+    "stream_url": "https://stream.hydeinnovations.com:2020/stream/xfm/stream",
+    "website": "http://xfm.co.ug/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "pop",
+      "top40",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:59:35+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.xkonjo",
+    "name": "xkonjo radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/131611.v5.png",
+    "stream_url": "https://stream.zeno.fm/mkjmr7lzfe6tv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "dance",
+      "reggae",
+      "afropop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:03:46+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.xtra",
+    "name": "Xtra radio Uganda",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/109861.v7.png",
+    "stream_url": "https://stream.zeno.fm/xnkrclewfviuv",
+    "website": "https://zeno.fm/radio/xtra-fm-oef7",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:06:31+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.xtreem",
+    "name": "Xtreem Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/143943.v2.png",
+    "stream_url": "https://stream.zeno.fm/xvbb1sbj0kbuv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:02:57+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.xtrim",
+    "name": "Radio Xtrim Fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/83142.v9.png",
+    "stream_url": "https://stream.zeno.fm/kxiypobdkgktv",
+    "website": "https://radioxtrimfm.com/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "pop",
+      "reggae",
+      "african",
+      "adult contemporary",
+      "dancehall"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:02:54+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.yofochm",
+    "name": "Yofochm Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/30910.v7.png",
+    "stream_url": "https://c13.radioboss.fm:18053/stream",
+    "website": "https://yofochmradio.com/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "pop",
+      "top40",
+      "christian contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:07:34+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.yourvoice",
+    "name": "Your Voice Fm 92.5fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/140306.v2.png",
+    "stream_url": "https://stream.zeno.fm/nso4zcmgfidvv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "dance",
+      "community"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:02:56+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.zed",
+    "name": "ZED FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/121022.v5.png",
+    "stream_url": "https://stream.zeno.fm/mkmkbwbcnyquv",
+    "website": "https://zeno.fm/radio/ZED_FM/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:07:23+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.zionfamily",
+    "name": "Peace In Christ Radio Entebbe",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/117759.v16.png",
+    "stream_url": "https://stream.zeno.fm/w923knxnbc9uv",
+    "website": "https://zeno.fm/radio/peace-in-christ-radio-entebbe/",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "talk",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:06:32+05:30"
+  },
+  {
+    "id": "onlineradiobox_ug.zoeolam",
+    "name": "Zoe Olam Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/146943.v3.png",
+    "stream_url": "https://live.ionradios.com:1105/stream",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Uganda",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:12:33+05:30"
+  }
+]

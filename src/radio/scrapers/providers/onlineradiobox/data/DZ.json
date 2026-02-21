@@ -1,0 +1,484 @@
+[
+  {
+    "id": "onlineradiobox_dz.adrar",
+    "name": "Radio Adrar - إذاعة أدرار الجهوية",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/43647.v15.png",
+    "stream_url": "https://radioadrar.ice.infomaniak.ch/adrar.mp3",
+    "website": "http://www.radioalgerie.dz/player/ar/live/01--Adrar",
+    "provider": "onlineradiobox",
+    "country": "Algeria",
+    "genres": [
+      "news",
+      "talk",
+      "arabic",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:42:25+05:30"
+  },
+  {
+    "id": "onlineradiobox_dz.algerch3",
+    "name": "Radio Algerienne - Chaine 3",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/20470.v11.png",
+    "stream_url": "https://radiochaine3.ice.infomaniak.ch/chaine3.mp3",
+    "website": "http://www.radioalgerie.dz/chaine3/",
+    "provider": "onlineradiobox",
+    "country": "Algeria",
+    "genres": [
+      "news",
+      "talk",
+      "sports"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:42:19+05:30"
+  },
+  {
+    "id": "onlineradiobox_dz.algerieinternationale",
+    "name": "Radio Algérie Internationale - إذاعة الجزائر الدولية",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/20435.v7.png",
+    "stream_url": "https://radiointernationale.ice.infomaniak.ch/internationale.mp3",
+    "website": "http://www.radioalgerie.dz/rai/",
+    "provider": "onlineradiobox",
+    "country": "Algeria",
+    "genres": [
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:42:27+05:30"
+  },
+  {
+    "id": "onlineradiobox_dz.algeriennechaine1",
+    "name": "Radio Algerienne - Chaine 1",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/20389.v10.png",
+    "stream_url": "https://radiochaine1.ice.infomaniak.ch/chaine1.mp3",
+    "website": "http://www.radioalgerie.dz/chaine1/",
+    "provider": "onlineradiobox",
+    "country": "Algeria",
+    "genres": [
+      "news",
+      "sports",
+      "arabic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:42:24+05:30"
+  },
+  {
+    "id": "onlineradiobox_dz.algeriennechaine2",
+    "name": "Radio Algerienne - Chaine 2",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/43654.v10.png",
+    "stream_url": "https://radiochaine2.ice.infomaniak.ch/chaine2.mp3",
+    "website": "https://radioalgerie.dz/chaine2/",
+    "provider": "onlineradiobox",
+    "country": "Algeria",
+    "genres": [
+      "pop",
+      "news",
+      "sports",
+      "arabic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:42:26+05:30"
+  },
+  {
+    "id": "onlineradiobox_dz.algerienneelbahdja",
+    "name": "Radio Algerienne -  El Bahdja",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/20373.v6.png",
+    "stream_url": "https://radioelbahdja.ice.infomaniak.ch/elbahdja.mp3",
+    "website": "https://radioalgerie.dz/player/fr/content/bahdja",
+    "provider": "onlineradiobox",
+    "country": "Algeria",
+    "genres": [
+      "news",
+      "arabic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:42:20+05:30"
+  },
+  {
+    "id": "onlineradiobox_dz.antennawebalgeri",
+    "name": "Antenna Web Algeri",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/134191.v3.png",
+    "stream_url": "https://tinyurl.com/AntennaWebAlgeri",
+    "website": "https://antennaweb.it/antennaweb-algeri/",
+    "provider": "onlineradiobox",
+    "country": "Algeria",
+    "genres": [
+      "rock",
+      "pop",
+      "blues",
+      "jazz",
+      "funk",
+      "reggaeton"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:42:31+05:30"
+  },
+  {
+    "id": "onlineradiobox_dz.chaabidialna",
+    "name": "Radio Chaabi Dialna",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/43931.v5.png",
+    "stream_url": "https://www.webchaabi.com/radiodialna.html",
+    "website": "http://www.webchaabi.com/",
+    "provider": "onlineradiobox",
+    "country": "Algeria",
+    "genres": [
+      "chanson"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:42:29+05:30"
+  },
+  {
+    "id": "onlineradiobox_dz.chemgang",
+    "name": "CHEMGANG RADIO",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/117174.v1.png",
+    "stream_url": "https://stream.zeno.fm/n13kwucpwxhvv",
+    "website": "https://www.ksun66.com/",
+    "provider": "onlineradiobox",
+    "country": "Algeria",
+    "genres": [
+      "rap",
+      "hip-hop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:42:31+05:30"
+  },
+  {
+    "id": "onlineradiobox_dz.coran",
+    "name": "Radio Coran",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/20396.v13.png",
+    "stream_url": "https://radiocoran.ice.infomaniak.ch/coran.mp3",
+    "website": "http://www.radioalgerie.dz/coran/",
+    "provider": "onlineradiobox",
+    "country": "Algeria",
+    "genres": [
+      "islamic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:42:20+05:30"
+  },
+  {
+    "id": "onlineradiobox_dz.culture",
+    "name": "Radio Culture - الإذاعة الثقافيه",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/43930.v9.png",
+    "stream_url": "https://radioculture.ice.infomaniak.ch/culture.mp3",
+    "website": "http://www.radioalgerie.dz/culture/",
+    "provider": "onlineradiobox",
+    "country": "Algeria",
+    "genres": [
+      "news",
+      "culture"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:42:28+05:30"
+  },
+  {
+    "id": "onlineradiobox_dz.dzairraina",
+    "name": "Radio Dzair Raina",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/20421.v11.png",
+    "stream_url": "https://radiodzair.net:8060/raina?shoutcast",
+    "website": "http://radio-dzair.com/",
+    "provider": "onlineradiobox",
+    "country": "Algeria",
+    "genres": [
+      "folk",
+      "african"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:42:22+05:30"
+  },
+  {
+    "id": "onlineradiobox_dz.francemaghreb2",
+    "name": "Radio France Maghreb 2",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/43933.v7.png",
+    "stream_url": "https://francemaghreb2.ice.infomaniak.ch/francemaghreb2-high.mp3",
+    "website": "http://www.francemaghreb2.fr/",
+    "provider": "onlineradiobox",
+    "country": "Algeria",
+    "genres": [
+      "pop",
+      "news",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:42:25+05:30"
+  },
+  {
+    "id": "onlineradiobox_dz.gnalgeria",
+    "name": "Gn Radio - Algeria",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/150073.v2.png",
+    "stream_url": "https://a11.asurahosting.com:7360/algeria.mp3",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Algeria",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:42:34+05:30"
+  },
+  {
+    "id": "onlineradiobox_dz.hawana",
+    "name": "Radio Hawana",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/105584.v4.png",
+    "stream_url": "https://radio4.pro-fhi.net/radio/9062/stream.mp3",
+    "website": "http://radiohawana-dz.com/",
+    "provider": "onlineradiobox",
+    "country": "Algeria",
+    "genres": [
+      "arabic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:42:30+05:30"
+  },
+  {
+    "id": "onlineradiobox_dz.hero",
+    "name": "Hero Radio (Algeria)",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/138903.v1.png",
+    "stream_url": "https://a2.asurahosting.com:6790/algeria.mp3",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Algeria",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:42:47+05:30"
+  },
+  {
+    "id": "onlineradiobox_dz.hits1algerie",
+    "name": "Hits 1 Algérie",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/89928.v23.png",
+    "stream_url": "https://stream.hd1.hits1radio.com/?11",
+    "website": "https://www.hits1radio.com/",
+    "provider": "onlineradiobox",
+    "country": "Algeria",
+    "genres": [
+      "dance",
+      "electronic",
+      "pop",
+      "club",
+      "top40",
+      "latin",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:42:27+05:30"
+  },
+  {
+    "id": "onlineradiobox_dz.jil",
+    "name": "JIL FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/20480.v12.png",
+    "stream_url": "https://radiojeunesse.ice.infomaniak.ch/jeunesse.mp3",
+    "website": "http://www.radioalgerie.dz/jilfm/",
+    "provider": "onlineradiobox",
+    "country": "Algeria",
+    "genres": [
+      "pop",
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:42:21+05:30"
+  },
+  {
+    "id": "onlineradiobox_dz.ksunblues",
+    "name": "K-SUN66 &#34;THE BRIDGE&#34;",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/10945.v16.png",
+    "stream_url": "https://stream.zeno.fm/euucrm0fhhruv",
+    "website": "https://www.ksun66.com/blues",
+    "provider": "onlineradiobox",
+    "country": "Algeria",
+    "genres": [
+      "blues"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:42:26+05:30"
+  },
+  {
+    "id": "onlineradiobox_dz.lrcm",
+    "name": "LRCM Radio (Algeria)",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/152988.v1.png",
+    "stream_url": "https://a8.asurahosting.com:8950/algeria.mp3",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Algeria",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:42:32+05:30"
+  },
+  {
+    "id": "onlineradiobox_dz.maghrebemergent",
+    "name": "Radio Maghreb Emergent",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/20433.v10.png",
+    "stream_url": "https://listen.radioking.com/radio/540956/stream/599777",
+    "website": "http://maghrebemergent.info/",
+    "provider": "onlineradiobox",
+    "country": "Algeria",
+    "genres": [
+      "pop",
+      "folk",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:42:29+05:30"
+  },
+  {
+    "id": "onlineradiobox_dz.radio425fmalgerie",
+    "name": "radio425fmalgerie",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/128743.v4.png",
+    "stream_url": "https://stream.zeno.fm/heepkvo1lfavv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Algeria",
+    "genres": [
+      "pop",
+      "news",
+      "talk",
+      "islamic",
+      "arabic",
+      "culture"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:42:33+05:30"
+  },
+  {
+    "id": "onlineradiobox_dz.shaykhtchalabi",
+    "name": "Radio Shaykh Tchalabi",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/145235.v2.png",
+    "stream_url": "https://listen.radioking.com/radio/291025/stream/337294",
+    "website": "http://tchalabi.com/",
+    "provider": "onlineradiobox",
+    "country": "Algeria",
+    "genres": [],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:42:34+05:30"
+  },
+  {
+    "id": "onlineradiobox_dz.skyrockalger",
+    "name": "Skyrock Alger",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/73951.v4.png",
+    "stream_url": "https://icecast.skyrock.net/s/alger_aac_64k",
+    "website": "https://skyrock.fm/",
+    "provider": "onlineradiobox",
+    "country": "Algeria",
+    "genres": [
+      "r'n'b",
+      "hip-hop",
+      "arabic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:42:23+05:30"
+  },
+  {
+    "id": "onlineradiobox_dz.staralgerie",
+    "name": "Radio Star Algérie",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/113249.v1.png",
+    "stream_url": "http://manager8.streamradio.fr:1770/stream",
+    "website": "http://www.radiostarmaroc.com/",
+    "provider": "onlineradiobox",
+    "country": "Algeria",
+    "genres": [
+      "pop",
+      "arabic",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:42:35+05:30"
+  },
+  {
+    "id": "onlineradiobox_dz.tzgospel",
+    "name": "Tzgospel ( Algeria)",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/127690.v1.png",
+    "stream_url": "https://stream.zeno.fm/3n2qghq1uchvv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Algeria",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:42:31+05:30"
+  }
+]

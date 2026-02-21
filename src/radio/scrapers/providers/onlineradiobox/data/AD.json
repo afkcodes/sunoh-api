@@ -1,0 +1,215 @@
+[
+  {
+    "id": "onlineradiobox_ad.andorra1",
+    "name": "FLAIXBAC AND",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/7976.v11.png",
+    "stream_url": "https://streaming.giraweb.com/8010/stream",
+    "website": "https://flaixandorra.com/",
+    "provider": "onlineradiobox",
+    "country": "Andorra",
+    "genres": [
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:54:32+05:30"
+  },
+  {
+    "id": "onlineradiobox_ad.antennaweblavella",
+    "name": "Antenna Web la Vella",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/131162.v3.png",
+    "stream_url": "https://tinyurl.com/Antenna-Web-la-Vella",
+    "website": "https://antennaweb.it/antennaweb-la-vella/",
+    "provider": "onlineradiobox",
+    "country": "Andorra",
+    "genres": [
+      "rock",
+      "pop",
+      "blues",
+      "jazz",
+      "funk",
+      "latin"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:54:35+05:30"
+  },
+  {
+    "id": "onlineradiobox_ad.antennawebransol",
+    "name": "Antenna Web Ransol",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/138147.v1.png",
+    "stream_url": "https://tinyurl.com/AntennaWebRansol",
+    "website": "https://antennaweb.it/antennaweb-ransol/",
+    "provider": "onlineradiobox",
+    "country": "Andorra",
+    "genres": [
+      "rock",
+      "pop",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:54:34+05:30"
+  },
+  {
+    "id": "onlineradiobox_ad.kwrock",
+    "name": "KW ROCK_!",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/7973.v9.png",
+    "stream_url": "http://usa7.fastcast4u.com:5230/stream",
+    "website": "http://kwrock.online/",
+    "provider": "onlineradiobox",
+    "country": "Andorra",
+    "genres": [
+      "rock",
+      "heavy metal",
+      "classic rock",
+      "hard rock",
+      "metal",
+      "punk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:54:33+05:30"
+  },
+  {
+    "id": "onlineradiobox_ad.laveu",
+    "name": "La Veu",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/7982.v5.png",
+    "stream_url": "https://streaming.enacast.com/laveu128.mp3",
+    "website": "http://www.santjoandelesabadesses.cat/index.php/noticies-la-veu",
+    "provider": "onlineradiobox",
+    "country": "Andorra",
+    "genres": [
+      "talk",
+      "sports"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:54:35+05:30"
+  },
+  {
+    "id": "onlineradiobox_ad.maximaandorra",
+    "name": "Maxima Hits 1",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/93879.v34.png",
+    "stream_url": "https://hits1-audiomediaradio.radioca.st/hits1?52",
+    "website": "https://www;ibizaradio1.com/",
+    "provider": "onlineradiobox",
+    "country": "Andorra",
+    "genres": [
+      "dance",
+      "electronic",
+      "pop",
+      "club",
+      "top40",
+      "latin",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:54:29+05:30"
+  },
+  {
+    "id": "onlineradiobox_ad.nacionaldandorra",
+    "name": "Ràdio Nacional d&#39;Andorra",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/82252.v17.png",
+    "stream_url": "https://live-edge-ams-1.cdn.enetres.net/56495F77FD124FECA75590A906965F2C023/rna/index.m3u8",
+    "website": "https://www.andorradifusio.ad/",
+    "provider": "onlineradiobox",
+    "country": "Andorra",
+    "genres": [
+      "news",
+      "talk",
+      "sports",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:54:37+05:30"
+  },
+  {
+    "id": "onlineradiobox_ad.ondasdeportugal",
+    "name": "Rádio Ondas de Portugal",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/72490.v13.png",
+    "stream_url": "https://ssl.ndvendas.eu:9538/stream",
+    "website": "https://xat.com/RadioOndasdePortugal",
+    "provider": "onlineradiobox",
+    "country": "Andorra",
+    "genres": [
+      "pop",
+      "talk",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:54:31+05:30"
+  },
+  {
+    "id": "onlineradiobox_ad.proximafm",
+    "name": "Proxima FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/7978.v8.png",
+    "stream_url": "http://91.187.93.115:8000/;stream/1",
+    "website": "http://www.proxima.cat/",
+    "provider": "onlineradiobox",
+    "country": "Andorra",
+    "genres": [
+      "rock",
+      "pop",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:54:30+05:30"
+  },
+  {
+    "id": "onlineradiobox_ad.radio24",
+    "name": "Ràdio 24 Andorra",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/133699.v4.png",
+    "stream_url": "https://stream.radio24andorra.com/8020/stream",
+    "website": "https://radio24andorra.com/",
+    "provider": "onlineradiobox",
+    "country": "Andorra",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:54:34+05:30"
+  },
+  {
+    "id": "onlineradiobox_ad.radiovalira",
+    "name": "Ràdio Valira",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/7979.v3.png",
+    "stream_url": "http://91.187.93.115:8020/stream",
+    "website": "http://www.radiovalira.ad/",
+    "provider": "onlineradiobox",
+    "country": "Andorra",
+    "genres": [
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:54:36+05:30"
+  }
+]

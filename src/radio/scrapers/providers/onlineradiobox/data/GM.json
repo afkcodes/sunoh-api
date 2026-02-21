@@ -1,0 +1,162 @@
+[
+  {
+    "id": "onlineradiobox_gm.alfalaah",
+    "name": "Al Falaah FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/43728.v5.png",
+    "stream_url": "https://stream.zeno.fm/f9211qdqv98uv",
+    "website": "https://alfalaah.gm/",
+    "provider": "onlineradiobox",
+    "country": "Gambia",
+    "genres": [
+      "talk",
+      "islamic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:18:39+05:30"
+  },
+  {
+    "id": "onlineradiobox_gm.antennawebbanjul",
+    "name": "Antenna Web Banjul",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/134577.v3.png",
+    "stream_url": "https://tinyurl.com/AntennaWebBanjul",
+    "website": "https://antennaweb.it/antennaweb-banjul/",
+    "provider": "onlineradiobox",
+    "country": "Gambia",
+    "genres": [
+      "rock",
+      "pop",
+      "blues",
+      "jazz",
+      "funk",
+      "reggaeton"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:18:38+05:30"
+  },
+  {
+    "id": "onlineradiobox_gm.gloria",
+    "name": "Radio Gloria",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/118908.v3.png",
+    "stream_url": "https://radiogloria.out.airtime.pro/radiogloria_b",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Gambia",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:18:38+05:30"
+  },
+  {
+    "id": "onlineradiobox_gm.hero",
+    "name": "Hero Radio (Gambia)",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/139064.v1.png",
+    "stream_url": "https://a2.asurahosting.com:6790/gambia.mp3",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Gambia",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:18:39+05:30"
+  },
+  {
+    "id": "onlineradiobox_gm.islaminthegambia",
+    "name": "Islam in The Gambia",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/43729.v3.png",
+    "stream_url": "http://192.95.39.65:5525/stream",
+    "website": "http://www.islaminthegambia.com/",
+    "provider": "onlineradiobox",
+    "country": "Gambia",
+    "genres": [
+      "talk",
+      "islamic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:18:38+05:30"
+  },
+  {
+    "id": "onlineradiobox_gm.lrcm",
+    "name": "LRCM Radio (Gambia)",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/153051.v2.png",
+    "stream_url": "https://a8.asurahosting.com:8950/gambia.mp3",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Gambia",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:18:39+05:30"
+  },
+  {
+    "id": "onlineradiobox_gm.mandingboulundala",
+    "name": "Boulundala FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/73709.v5.png",
+    "stream_url": "https://listen.radioking.com/radio/594/stream/2165",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Gambia",
+    "genres": [
+      "culture"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:18:37+05:30"
+  },
+  {
+    "id": "onlineradiobox_gm.upafrica",
+    "name": "Up Africa radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/114887.v25.png",
+    "stream_url": "https://stream.zeno.fm/um48p4wgmkhvv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Gambia",
+    "genres": [
+      "news",
+      "sports",
+      "african"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:18:37+05:30"
+  },
+  {
+    "id": "onlineradiobox_gm.xasida24",
+    "name": "xassida24",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/129766.v5.png",
+    "stream_url": "https://stream.zeno.fm/rrnxdd3gzqjvv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Gambia",
+    "genres": [],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:18:37+05:30"
+  }
+]

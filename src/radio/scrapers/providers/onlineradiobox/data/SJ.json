@@ -1,0 +1,22 @@
+[
+  {
+    "id": "onlineradiobox_sj.arcticoutpost",
+    "name": "Arctic Outpost AM1270",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/77071.v28.png",
+    "stream_url": "https://radio.streemlion.com:3475/stream",
+    "website": "https://aor.am/",
+    "provider": "onlineradiobox",
+    "country": "Svalbard",
+    "genres": [
+      "blues",
+      "jazz",
+      "30s",
+      "40s"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:41:18+05:30"
+  }
+]

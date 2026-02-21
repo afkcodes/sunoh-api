@@ -1,0 +1,218 @@
+[
+  {
+    "id": "onlineradiobox_bn.antennabelait",
+    "name": "Antenna Web Belait",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/138356.v1.png",
+    "stream_url": "https://tinyurl.com/Antenna-Web-Belait",
+    "website": "https://antennaweb.it/antenna-web-belait/",
+    "provider": "onlineradiobox",
+    "country": "Brunei",
+    "genres": [
+      "rock",
+      "pop",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:14:18+05:30"
+  },
+  {
+    "id": "onlineradiobox_bn.bfbsbrunei",
+    "name": "Radio BFBS Brunei",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/44677.v7.png",
+    "stream_url": "https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs10.aac",
+    "website": "https://radio.bfbs.com/stations/bfbs-brunei",
+    "provider": "onlineradiobox",
+    "country": "Brunei",
+    "genres": [
+      "news",
+      "talk",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:14:16+05:30"
+  },
+  {
+    "id": "onlineradiobox_bn.bykiwi",
+    "name": "LocalizedFM",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/127298.v17.png",
+    "stream_url": "https://radio.localized.asia/stream",
+    "website": "https://fm.localized.asia/",
+    "provider": "onlineradiobox",
+    "country": "Brunei",
+    "genres": [
+      "electronic",
+      "r'n'b",
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:14:18+05:30"
+  },
+  {
+    "id": "onlineradiobox_bn.harmonifm",
+    "name": "RTB Harmoni FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/113592.v1.png",
+    "stream_url": "https://d2kziuzkf9oizb.cloudfront.net/rd002/playlist.m3u8",
+    "website": "http://www.rtb.gov.bn/",
+    "provider": "onlineradiobox",
+    "country": "Brunei",
+    "genres": [
+      "pop",
+      "90s",
+      "80s",
+      "70s",
+      "60s",
+      "50s",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:14:13+05:30"
+  },
+  {
+    "id": "onlineradiobox_bn.kristal",
+    "name": "Radio KRISTALfm",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/44678.v5.png",
+    "stream_url": "http://202.152.73.2:801/kfm",
+    "website": "http://www.kristal.fm/",
+    "provider": "onlineradiobox",
+    "country": "Brunei",
+    "genres": [
+      "pop",
+      "news",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:14:14+05:30"
+  },
+  {
+    "id": "onlineradiobox_bn.nasionalfm",
+    "name": "RTB Nasional FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/113510.v3.png",
+    "stream_url": "https://d2kziuzkf9oizb.cloudfront.net/rd005/playlist.m3u8",
+    "website": "http://www.rtb.gov.bn/",
+    "provider": "onlineradiobox",
+    "country": "Brunei",
+    "genres": [
+      "pop",
+      "news",
+      "talk",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:14:15+05:30"
+  },
+  {
+    "id": "onlineradiobox_bn.nurislamfm",
+    "name": "RTB Nur Islam FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/113593.v1.png",
+    "stream_url": "https://d2kziuzkf9oizb.cloudfront.net/rd004/playlist.m3u8",
+    "website": "http://www.rtb.gov.bn/",
+    "provider": "onlineradiobox",
+    "country": "Brunei",
+    "genres": [
+      "islamic",
+      "education",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:14:13+05:30"
+  },
+  {
+    "id": "onlineradiobox_bn.pelangifm",
+    "name": "Radio Pelangi FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/44683.v7.png",
+    "stream_url": "https://d2kziuzkf9oizb.cloudfront.net/rd001/playlist.m3u8",
+    "website": "http://www.rtb.gov.bn/",
+    "provider": "onlineradiobox",
+    "country": "Brunei",
+    "genres": [
+      "pop",
+      "news"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:14:13+05:30"
+  },
+  {
+    "id": "onlineradiobox_bn.pilihanfm",
+    "name": "RTB Pilihan FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/113547.v1.png",
+    "stream_url": "https://d2kziuzkf9oizb.cloudfront.net/rd003/playlist.m3u8",
+    "website": "http://www.rtb.gov.bn/",
+    "provider": "onlineradiobox",
+    "country": "Brunei",
+    "genres": [
+      "pop",
+      "culture",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:14:16+05:30"
+  },
+  {
+    "id": "onlineradiobox_bn.progresif",
+    "name": "Progresif Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/76239.v9.png",
+    "stream_url": "http://184.154.43.106:8396/stream/1/",
+    "website": "https://progresifradio.com/",
+    "provider": "onlineradiobox",
+    "country": "Brunei",
+    "genres": [
+      "dance",
+      "pop",
+      "talk",
+      "classic",
+      "top40",
+      "oldies",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:14:17+05:30"
+  },
+  {
+    "id": "onlineradiobox_bn.tzgospel",
+    "name": "Tzgospel (Brunei)",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/119735.v5.png",
+    "stream_url": "https://stream.zeno.fm/6z80uwea7ehvv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Brunei",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:14:19+05:30"
+  }
+]

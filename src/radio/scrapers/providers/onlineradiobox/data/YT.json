@@ -1,0 +1,399 @@
+[
+  {
+    "id": "onlineradiobox_yt.antennawebmamoudzou",
+    "name": "Antenna Web Mamoudzou",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/134603.v1.png",
+    "stream_url": "https://tinyurl.com/AntennaWebMamoudzou",
+    "website": "https://antennaweb.it/antennaweb-mamoudzou/",
+    "provider": "onlineradiobox",
+    "country": "Mayotte",
+    "genres": [
+      "rock",
+      "pop",
+      "blues",
+      "jazz",
+      "funk",
+      "reggaeton"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:28:02+05:30"
+  },
+  {
+    "id": "onlineradiobox_yt.chiconi",
+    "name": "CHICONI FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/49687.v5.png",
+    "stream_url": "https://radio.mayotte-streaming.com/8004/stream",
+    "website": "https://chiconifm.fr/",
+    "provider": "onlineradiobox",
+    "country": "Mayotte",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:27:52+05:30"
+  },
+  {
+    "id": "onlineradiobox_yt.circodebandraboua",
+    "name": "Radio Circo de Bandraboua",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/145139.v1.png",
+    "stream_url": "https://listen.radioking.com/radio/695621/stream/760490",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Mayotte",
+    "genres": [
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:28:02+05:30"
+  },
+  {
+    "id": "onlineradiobox_yt.dzianivoixdulac",
+    "name": "Dziani FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/49666.v9.png",
+    "stream_url": "https://listen.radioking.com/radio/3331/stream/10187",
+    "website": "https://dzianifm.fr/",
+    "provider": "onlineradiobox",
+    "country": "Mayotte",
+    "genres": [
+      "news",
+      "sports",
+      "culture",
+      "french",
+      "love songs",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:27:51+05:30"
+  },
+  {
+    "id": "onlineradiobox_yt.hero",
+    "name": "Hero Radio (Mayotte)",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/138811.v1.png",
+    "stream_url": "https://a2.asurahosting.com:6790/radio/mayotte.mp3",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Mayotte",
+    "genres": [
+      "talk",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:28:05+05:30"
+  },
+  {
+    "id": "onlineradiobox_yt.koudjouni",
+    "name": "Radio Koudjouni",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/55369.v11.png",
+    "stream_url": "https://radio.mayotte-streaming.com/8002/stream",
+    "website": "https://www.zazan-koudjouni.com/",
+    "provider": "onlineradiobox",
+    "country": "Mayotte",
+    "genres": [
+      "reggae",
+      "zouk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:27:55+05:30"
+  },
+  {
+    "id": "onlineradiobox_yt.koungou",
+    "name": "Koungou Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/81634.v1.png",
+    "stream_url": "http://188.165.215.158:9148/stream.mp3",
+    "website": "https://clg-koungou.ac-mayotte.fr/",
+    "provider": "onlineradiobox",
+    "country": "Mayotte",
+    "genres": [
+      "education"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:28:01+05:30"
+  },
+  {
+    "id": "onlineradiobox_yt.mawoua",
+    "name": "RADIO MAWOUA",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/57428.v5.png",
+    "stream_url": "https://mawoua.ice.infomaniak.ch/mawoua-32.aac",
+    "website": "http://www.radio-mawoua-mayotte.fr/",
+    "provider": "onlineradiobox",
+    "country": "Mayotte",
+    "genres": [
+      "news",
+      "talk",
+      "culture"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:27:57+05:30"
+  },
+  {
+    "id": "onlineradiobox_yt.mayana",
+    "name": "Réa FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/81580.v12.png",
+    "stream_url": "https://streaming.radio.co/s59aedb575/listen",
+    "website": "https://xn--rafm-bpa.com/",
+    "provider": "onlineradiobox",
+    "country": "Mayotte",
+    "genres": [
+      "culture",
+      "education"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:27:53+05:30"
+  },
+  {
+    "id": "onlineradiobox_yt.mayotte",
+    "name": "Mayotte FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/104164.v12.png",
+    "stream_url": "http://manager6.streamradio.fr/mayottefm",
+    "website": "http://mayottefm.fr/",
+    "provider": "onlineradiobox",
+    "country": "Mayotte",
+    "genres": [
+      "news",
+      "reggae",
+      "hits",
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:27:58+05:30"
+  },
+  {
+    "id": "onlineradiobox_yt.mayotte1ere",
+    "name": "Mayotte 1ère",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/13333.v7.png",
+    "stream_url": "https://mayotte.ice.infomaniak.ch/mayotte-128.mp3",
+    "website": "http://la1ere.francetvinfo.fr/mayotte/radio",
+    "provider": "onlineradiobox",
+    "country": "Mayotte",
+    "genres": [
+      "r'n'b",
+      "pop",
+      "news",
+      "talk",
+      "rap",
+      "hip-hop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:27:56+05:30"
+  },
+  {
+    "id": "onlineradiobox_yt.mayotteone",
+    "name": "Mayotte One",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/113520.v1.png",
+    "stream_url": "https://live.myradio.yt/mayotteone",
+    "website": "https://mayotteone.fr/",
+    "provider": "onlineradiobox",
+    "country": "Mayotte",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:27:54+05:30"
+  },
+  {
+    "id": "onlineradiobox_yt.mirereniville",
+    "name": "R.M.V",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/75807.v18.png",
+    "stream_url": "https://live.myradio.yt:1100/stream",
+    "website": "https://rmv.yt/",
+    "provider": "onlineradiobox",
+    "country": "Mayotte",
+    "genres": [
+      "reggae",
+      "salsa",
+      "zouk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:27:54+05:30"
+  },
+  {
+    "id": "onlineradiobox_yt.paroleacoua",
+    "name": "Radio Parole Acoua",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/87367.v4.png",
+    "stream_url": "http://51.254.221.183:8006/;",
+    "website": "http://radioparole.com/",
+    "provider": "onlineradiobox",
+    "country": "Mayotte",
+    "genres": [
+      "rock",
+      "pop",
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:27:56+05:30"
+  },
+  {
+    "id": "onlineradiobox_yt.rf976mayotte",
+    "name": "RF Mayotte",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/55371.v8.png",
+    "stream_url": "https://radio.mayotte-streaming.com/8000/stream",
+    "website": "https://www.mahorais.fr/",
+    "provider": "onlineradiobox",
+    "country": "Mayotte",
+    "genres": [
+      "reggae",
+      "zouk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:27:52+05:30"
+  },
+  {
+    "id": "onlineradiobox_yt.rimmayotte",
+    "name": "RIM-Mayotte",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/114778.v3.png",
+    "stream_url": "https://radio.mayotte-streaming.com/8006/stream",
+    "website": "https://rim.mahorais.org/",
+    "provider": "onlineradiobox",
+    "country": "Mayotte",
+    "genres": [
+      "christian",
+      "culture"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:28:04+05:30"
+  },
+  {
+    "id": "onlineradiobox_yt.roi",
+    "name": "R-OI",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/88657.v2.png",
+    "stream_url": "https://radio.mayotte-streaming.com/8010/stream",
+    "website": "https://www.roitv.fr/",
+    "provider": "onlineradiobox",
+    "country": "Mayotte",
+    "genres": [
+      "reggae",
+      "african",
+      "zouk",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:27:59+05:30"
+  },
+  {
+    "id": "onlineradiobox_yt.rsmayotte",
+    "name": "RS Mayotte",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/124783.v2.png",
+    "stream_url": "https://radio.mayotte-streaming.com/8008/stream",
+    "website": "https://www.mayotte-souvenir.com/",
+    "provider": "onlineradiobox",
+    "country": "Mayotte",
+    "genres": [
+      "african",
+      "culture"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:28:00+05:30"
+  },
+  {
+    "id": "onlineradiobox_yt.studiohprod",
+    "name": "Studio h prod",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/145786.v1.png",
+    "stream_url": "https://listen.radioking.com/radio/675910/stream/740167",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Mayotte",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:28:04+05:30"
+  },
+  {
+    "id": "onlineradiobox_yt.sun",
+    "name": "SUN FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/137158.v11.png",
+    "stream_url": "https://listen.radioking.com/radio/669814/stream/733864",
+    "website": "https://www.sunfm.yt/",
+    "provider": "onlineradiobox",
+    "country": "Mayotte",
+    "genres": [
+      "bollywood",
+      "top40",
+      "caribbean",
+      "zouk",
+      "hits",
+      "afro beat"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:28:03+05:30"
+  },
+  {
+    "id": "onlineradiobox_yt.swautiya",
+    "name": "Swauti Ya Bandrélé",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/151608.v2.png",
+    "stream_url": "https://radio.mayotte-streaming.com/8660/stream",
+    "website": "https://rlp-bandrele-webradio.net/",
+    "provider": "onlineradiobox",
+    "country": "Mayotte",
+    "genres": [
+      "education",
+      "zouk",
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:28:06+05:30"
+  }
+]

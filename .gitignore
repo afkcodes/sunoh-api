@@ -4,8 +4,8 @@ yarn.lock
 dist
 
 # Radio Scraping
-src/radio/scrapers/providers/*/data/*.json
-src/radio/scrapers/providers/*/logs/*.log
+#src/radio/scrapers/providers/*/data/*.json
+#src/radio/scrapers/providers/*/logs/*.log
 scraped_data/
 *.log
 src/radio/scrapers/metadata/duplicates.json

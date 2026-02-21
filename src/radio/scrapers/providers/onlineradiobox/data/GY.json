@@ -1,0 +1,280 @@
+[
+  {
+    "id": "onlineradiobox_gy.antennaweb",
+    "name": "Antenna Web Georgetown",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/133440.v3.png",
+    "stream_url": "http://tinyurl.com/AntennaWebGeorgetown",
+    "website": "https://antennaweb.it/antennaweb-georgetown/",
+    "provider": "onlineradiobox",
+    "country": "Guyana",
+    "genres": [
+      "rock",
+      "pop",
+      "blues",
+      "jazz",
+      "funk",
+      "reggaeton"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:47:26+05:30"
+  },
+  {
+    "id": "onlineradiobox_gy.bhajansguyana",
+    "name": "Bhajans Radio Guyana",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/98424.v3.png",
+    "stream_url": "https://s5.citrus3.com:8148/stream",
+    "website": "https://s5.citrus3.com:2020/public/bhajansradioguyana",
+    "provider": "onlineradiobox",
+    "country": "Guyana",
+    "genres": [
+      "easy listening",
+      "hindu"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:47:18+05:30"
+  },
+  {
+    "id": "onlineradiobox_gy.boomfm",
+    "name": "Boom FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/9609.v8.png",
+    "stream_url": "https://stream.zeno.fm/mzbqdeylbxfuv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Guyana",
+    "genres": [
+      "r'n'b",
+      "pop",
+      "talk",
+      "hip-hop",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:47:19+05:30"
+  },
+  {
+    "id": "onlineradiobox_gy.gtriddim",
+    "name": "GTriddim Guyana Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/9611.v3.png",
+    "stream_url": "http://www.gtriddim.net:8080/;",
+    "website": "http://gtriddim.com/",
+    "provider": "onlineradiobox",
+    "country": "Guyana",
+    "genres": [
+      "r'n'b",
+      "hip-hop",
+      "reggae"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:47:24+05:30"
+  },
+  {
+    "id": "onlineradiobox_gy.guyanalite",
+    "name": "104.1 Guyana Lite FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/102655.v5.png",
+    "stream_url": "https://stream.radiojar.com/nh42m158d4duv",
+    "website": "https://guyanalite.com/",
+    "provider": "onlineradiobox",
+    "country": "Guyana",
+    "genres": [
+      "alternative"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:47:16+05:30"
+  },
+  {
+    "id": "onlineradiobox_gy.guyane1ere",
+    "name": "Guyane 1ère",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/13329.v9.png",
+    "stream_url": "https://guyane.ice.infomaniak.ch/guyane-128.mp3?",
+    "website": "http://la1ere.francetvinfo.fr/guyane/radio",
+    "provider": "onlineradiobox",
+    "country": "Guyana",
+    "genres": [
+      "r'n'b",
+      "pop",
+      "news",
+      "talk",
+      "rap",
+      "hip-hop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:47:24+05:30"
+  },
+  {
+    "id": "onlineradiobox_gy.intelligent",
+    "name": "95.5 INTELLIGENT FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/147427.v1.png",
+    "stream_url": "https://listen.radioking.com/radio/505777/stream/563329",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Guyana",
+    "genres": [
+      "r'n'b",
+      "pop",
+      "soul",
+      "smooth jazz",
+      "reggae"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:47:27+05:30"
+  },
+  {
+    "id": "onlineradiobox_gy.mix901",
+    "name": "Mix 90.1 FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/9621.v9.png",
+    "stream_url": "https://streams.radiomast.io/aa758625-6c37-4a31-8262-b2bf84bbe17f?referer=onlineradiobox",
+    "website": "https://www.mix901fm.com/",
+    "provider": "onlineradiobox",
+    "country": "Guyana",
+    "genres": [
+      "pop",
+      "top40",
+      "caribbean"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:47:20+05:30"
+  },
+  {
+    "id": "onlineradiobox_gy.ntnradio",
+    "name": "NTN Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/9620.v3.png",
+    "stream_url": "https://auds1.intacs.com/ntnradio",
+    "website": "http://ntntv-radio.com/",
+    "provider": "onlineradiobox",
+    "country": "Guyana",
+    "genres": [
+      "news",
+      "talk",
+      "folk",
+      "bollywood",
+      "guyanese"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:47:21+05:30"
+  },
+  {
+    "id": "onlineradiobox_gy.radioguyana",
+    "name": "Radio Guyana Inc.",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/9610.v5.png",
+    "stream_url": "https://stream.radio.co/s9668e2ab5/listen",
+    "website": "https://rgi89fm.com/",
+    "provider": "onlineradiobox",
+    "country": "Guyana",
+    "genres": [
+      "r'n'b",
+      "hip-hop",
+      "bollywood",
+      "reggae"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:47:17+05:30"
+  },
+  {
+    "id": "onlineradiobox_gy.radioguyanainternational",
+    "name": "Radio Guyana International",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/9624.v7.png",
+    "stream_url": "https://a6.asurahosting.com:7940/radio.mp3",
+    "website": "http://www.radioguyanafm.com/",
+    "provider": "onlineradiobox",
+    "country": "Guyana",
+    "genres": [
+      "pop",
+      "bollywood",
+      "top40",
+      "reggae"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:47:22+05:30"
+  },
+  {
+    "id": "onlineradiobox_gy.tracefm",
+    "name": "TRACE FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/35613.v9.png",
+    "stream_url": "https://stream.rcs.revma.com/nxvafk744k0uv",
+    "website": "http://gy.trace.fm/",
+    "provider": "onlineradiobox",
+    "country": "Guyana",
+    "genres": [
+      "dance",
+      "pop",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:47:25+05:30"
+  },
+  {
+    "id": "onlineradiobox_gy.voice",
+    "name": "96.1 Voice FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/74704.v5.png",
+    "stream_url": "https://s4.radio.co/s75af666f2/listen",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Guyana",
+    "genres": [
+      "pop",
+      "hip-hop",
+      "soul",
+      "funk",
+      "indian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:47:15+05:30"
+  },
+  {
+    "id": "onlineradiobox_gy.voiceofguyana",
+    "name": "Voice of Guyana",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/106917.v4.png",
+    "stream_url": "https://cast4.my-control-panel.com/proxy/ncn1025/stream",
+    "website": "https://ncnguyana.com/",
+    "provider": "onlineradiobox",
+    "country": "Guyana",
+    "genres": [
+      "news"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:47:23+05:30"
+  }
+]

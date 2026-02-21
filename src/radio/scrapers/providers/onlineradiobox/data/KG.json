@@ -1,0 +1,290 @@
+[
+  {
+    "id": "onlineradiobox_kg.almaz",
+    "name": "Almaz FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/88265.v1.png",
+    "stream_url": "http://almazfm.ddns.net:8888/",
+    "website": "https://almazfm.kg/",
+    "provider": "onlineradiobox",
+    "country": "Kyrgyzstan",
+    "genres": [
+      "pop",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:41:15+05:30"
+  },
+  {
+    "id": "onlineradiobox_kg.birinchi",
+    "name": "Биринчи Радио",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/88095.v1.png",
+    "stream_url": "http://81.88.192.51:8000/Radio1",
+    "website": "http://www.ktrk.kg/birinchi",
+    "provider": "onlineradiobox",
+    "country": "Kyrgyzstan",
+    "genres": [
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:41:15+05:30"
+  },
+  {
+    "id": "onlineradiobox_kg.hit",
+    "name": "Hit FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/43319.v7.png",
+    "stream_url": "https://cdn.radioplayer.kg:8443/hitfm64",
+    "website": "http://hitfm.kg/",
+    "provider": "onlineradiobox",
+    "country": "Kyrgyzstan",
+    "genres": [
+      "pop",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:41:09+05:30"
+  },
+  {
+    "id": "onlineradiobox_kg.i920",
+    "name": "I Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/88263.v3.png",
+    "stream_url": "http://212.112.123.200:8000/stream.ogg.m3u",
+    "website": "http://iradio.kg/",
+    "provider": "onlineradiobox",
+    "country": "Kyrgyzstan",
+    "genres": [
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:41:11+05:30"
+  },
+  {
+    "id": "onlineradiobox_kg.iradio-retro",
+    "name": "Radio Retro (ex FM88.5)",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/43374.v9.png",
+    "stream_url": "http://a.streamsin.space:8000/retro_exfm885",
+    "website": "http://iradio.one/",
+    "provider": "onlineradiobox",
+    "country": "Kyrgyzstan",
+    "genres": [
+      "pop",
+      "oldies"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:41:12+05:30"
+  },
+  {
+    "id": "onlineradiobox_kg.iradioalmaz",
+    "name": "80&#39;s channel (iradio.one)",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/43362.v6.png",
+    "stream_url": "http://a.streamsin.space:8000/80s",
+    "website": "http://iradio.one/",
+    "provider": "onlineradiobox",
+    "country": "Kyrgyzstan",
+    "genres": [
+      "pop",
+      "soul",
+      "soft rock"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:41:13+05:30"
+  },
+  {
+    "id": "onlineradiobox_kg.iradiosunshine",
+    "name": "Emotions",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/43376.v8.png",
+    "stream_url": "http://a.streamsin.space:8000/emotions",
+    "website": "http://iradio.one/",
+    "provider": "onlineradiobox",
+    "country": "Kyrgyzstan",
+    "genres": [
+      "balada"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:41:14+05:30"
+  },
+  {
+    "id": "onlineradiobox_kg.kyrgyzradiosu",
+    "name": "KyrgyzRadiosu",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/88096.v6.png",
+    "stream_url": "http://81.88.192.51:8000/KyrgyzRadiosu",
+    "website": "http://www.ktrk.kg/kyrgyzradio",
+    "provider": "onlineradiobox",
+    "country": "Kyrgyzstan",
+    "genres": [
+      "folk",
+      "ethnic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:41:13+05:30"
+  },
+  {
+    "id": "onlineradiobox_kg.kyrgyzstanobondory",
+    "name": "Kyrgyzstan Obondory",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/43322.v2.png",
+    "stream_url": "https://cdn.radioplayer.kg:8443/obondoru64",
+    "website": "http://obondoru.kg/",
+    "provider": "onlineradiobox",
+    "country": "Kyrgyzstan",
+    "genres": [
+      "pop",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:41:10+05:30"
+  },
+  {
+    "id": "onlineradiobox_kg.maralfm",
+    "name": "MARAL FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/88092.v1.png",
+    "stream_url": "http://212.42.115.186:8000/;stream.mp3",
+    "website": "https://maralfm.kg/",
+    "provider": "onlineradiobox",
+    "country": "Kyrgyzstan",
+    "genres": [
+      "pop",
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:41:16+05:30"
+  },
+  {
+    "id": "onlineradiobox_kg.suiunchu",
+    "name": "Сүйүнчү FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/88264.v3.png",
+    "stream_url": "https://cdn.radioplayer.kg:8443//suiunchu64",
+    "website": "http://suiunchu.kg/",
+    "provider": "onlineradiobox",
+    "country": "Kyrgyzstan",
+    "genres": [
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:41:11+05:30"
+  },
+  {
+    "id": "onlineradiobox_kg.suusamyr",
+    "name": "Суусамыр FM 103.0",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/130600.v1.png",
+    "stream_url": "https://myradio24.org/59537",
+    "website": "https://suusamyr.kyrgyzmedia.kg/",
+    "provider": "onlineradiobox",
+    "country": "Kyrgyzstan",
+    "genres": [
+      "pop",
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:41:16+05:30"
+  },
+  {
+    "id": "onlineradiobox_kg.tatina",
+    "name": "Радио Татина",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/102282.v11.png",
+    "stream_url": "http://82.146.46.229:8000/radio.mp3",
+    "website": "https://taplink.cc/radiotatina.kg",
+    "provider": "onlineradiobox",
+    "country": "Kyrgyzstan",
+    "genres": [
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:41:14+05:30"
+  },
+  {
+    "id": "onlineradiobox_kg.toguztoro",
+    "name": "ToguzToroFM 105.1",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/128095.v1.png",
+    "stream_url": "https://myradio24.org/42010",
+    "website": "https://toguztorofm.com.kg/",
+    "provider": "onlineradiobox",
+    "country": "Kyrgyzstan",
+    "genres": [
+      "pop",
+      "folk",
+      "classic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:41:15+05:30"
+  },
+  {
+    "id": "onlineradiobox_kg.tumar",
+    "name": "Tumar FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/43320.v8.png",
+    "stream_url": "https://radio.tumar.fm:8005/stream",
+    "website": "http://www.tumar.fm/",
+    "provider": "onlineradiobox",
+    "country": "Kyrgyzstan",
+    "genres": [
+      "pop",
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:41:08+05:30"
+  },
+  {
+    "id": "onlineradiobox_kg.tzgospel",
+    "name": "Tzgospel ( Kyrgyzstan)",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/120187.v7.png",
+    "stream_url": "https://stream.zeno.fm/1n6f9y596ehvv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Kyrgyzstan",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:41:14+05:30"
+  }
+]

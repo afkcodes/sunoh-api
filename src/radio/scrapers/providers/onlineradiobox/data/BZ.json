@@ -1,0 +1,392 @@
+[
+  {
+    "id": "onlineradiobox_bz.antennawebbelmopan",
+    "name": "Antenna Web Belmopan",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/131975.v2.png",
+    "stream_url": "https://tinyurl.com/Antenna-Web-Belmopan",
+    "website": "https://antennaweb.it/antennaweb-belmopan/",
+    "provider": "onlineradiobox",
+    "country": "Belize",
+    "genres": [
+      "rock",
+      "pop",
+      "blues",
+      "jazz",
+      "funk",
+      "latin"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:24:38+05:30"
+  },
+  {
+    "id": "onlineradiobox_bz.belizerising",
+    "name": "Belize Rising Dawn Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/119992.v4.png",
+    "stream_url": "https://stream.zeno.fm/sa4ksbzraekuv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Belize",
+    "genres": [
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:24:39+05:30"
+  },
+  {
+    "id": "onlineradiobox_bz.christianfaithministries",
+    "name": "Christian Faith Ministries 102.3 FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/113809.v6.png",
+    "stream_url": "https://stream.zeno.fm/3uvhtuwdnkhvv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Belize",
+    "genres": [
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:24:41+05:30"
+  },
+  {
+    "id": "onlineradiobox_bz.east1049",
+    "name": "East Radio 104.9 FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/127192.v1.png",
+    "stream_url": "https://s1.voscast.com:11401/eastradio",
+    "website": "https://eastradiobelize.com/",
+    "provider": "onlineradiobox",
+    "country": "Belize",
+    "genres": [
+      "dance",
+      "electronic",
+      "pop",
+      "techno",
+      "reggae",
+      "alternative rock",
+      "reggaeton",
+      "latin"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:24:35+05:30"
+  },
+  {
+    "id": "onlineradiobox_bz.flexstudio",
+    "name": "Flex Studio Radio &amp; Tv",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/108981.v14.png",
+    "stream_url": "https://streaming01.radiosenlinea.com.ar/8110/stream",
+    "website": "https://flexstudioradio.radio12345.com/",
+    "provider": "onlineradiobox",
+    "country": "Belize",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:24:36+05:30"
+  },
+  {
+    "id": "onlineradiobox_bz.gatekeeperdestiny",
+    "name": "GATEKEEPER DESTINY RADIO 105.1 FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/127629.v3.png",
+    "stream_url": "https://stream.zeno.fm/3hmxyzcouywvv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Belize",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:24:44+05:30"
+  },
+  {
+    "id": "onlineradiobox_bz.harmonychristian",
+    "name": "Harmony Christian Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/121855.v2.png",
+    "stream_url": "https://stream.zeno.fm/v8nzntvdqw2tv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Belize",
+    "genres": [
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:24:42+05:30"
+  },
+  {
+    "id": "onlineradiobox_bz.horizon",
+    "name": "Horizon Radio Belize",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/43281.v4.png",
+    "stream_url": "http://149.56.185.82:8075/;stream/1",
+    "website": "http://s1.nexuscast.com/start/horradio/",
+    "provider": "onlineradiobox",
+    "country": "Belize",
+    "genres": [
+      "talk",
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:24:40+05:30"
+  },
+  {
+    "id": "onlineradiobox_bz.impactomusical",
+    "name": "Radio Impacto Musical",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/104752.v3.png",
+    "stream_url": "https://stream.zeno.fm/x49uaudyvk8uv",
+    "website": "https://xat.com/radioimpactomusicalvip",
+    "provider": "onlineradiobox",
+    "country": "Belize",
+    "genres": [
+      "rock",
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:24:35+05:30"
+  },
+  {
+    "id": "onlineradiobox_bz.krem",
+    "name": "KREM Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/43282.v10.png",
+    "stream_url": "http://159.65.32.199:8016/stream",
+    "website": "http://www.krembz.com/",
+    "provider": "onlineradiobox",
+    "country": "Belize",
+    "genres": [
+      "pop",
+      "news",
+      "talk",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:24:34+05:30"
+  },
+  {
+    "id": "onlineradiobox_bz.liferestoration",
+    "name": "Radio Restauración De Vida",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/108296.v17.png",
+    "stream_url": "https://stream.zeno.fm/wxnk4ca3zehvv",
+    "website": "https://radiorestauraciondevida.mystrikingly.com/",
+    "provider": "onlineradiobox",
+    "country": "Belize",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:24:37+05:30"
+  },
+  {
+    "id": "onlineradiobox_bz.love",
+    "name": "Love FM Belize",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/106932.v3.png",
+    "stream_url": "https://s1.voscast.com:10243/lovefm",
+    "website": "https://lovefm.com/",
+    "provider": "onlineradiobox",
+    "country": "Belize",
+    "genres": [
+      "pop",
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:24:33+05:30"
+  },
+  {
+    "id": "onlineradiobox_bz.maximum",
+    "name": "Maximum radio 104.1",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/111113.v2.png",
+    "stream_url": "http://159.65.32.199:8026/stream",
+    "website": "http://maximumradiobz.com/",
+    "provider": "onlineradiobox",
+    "country": "Belize",
+    "genres": [
+      "dance"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:24:45+05:30"
+  },
+  {
+    "id": "onlineradiobox_bz.mood",
+    "name": "mood fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/43268.v7.png",
+    "stream_url": "http://usa7-vn.mixstream.net:8016/;",
+    "website": "http://www.moodfmbelize.com/",
+    "provider": "onlineradiobox",
+    "country": "Belize",
+    "genres": [
+      "pop",
+      "blues",
+      "jazz",
+      "soul",
+      "oldies"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:24:36+05:30"
+  },
+  {
+    "id": "onlineradiobox_bz.more",
+    "name": "More FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/43272.v3.png",
+    "stream_url": "http://node-02.strongradiohost.com/whxq2c729c5tv;stream.nsv;",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Belize",
+    "genres": [
+      "dance",
+      "r'n'b",
+      "pop",
+      "hip-hop",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:24:39+05:30"
+  },
+  {
+    "id": "onlineradiobox_bz.myrefugechristianradio",
+    "name": "My Refuge Christian Radio 93.7FM &amp; 100.5FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/112168.v4.png",
+    "stream_url": "https://xstreamer.galcom.org:8443/MyRefugeChristianRadio",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Belize",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:24:42+05:30"
+  },
+  {
+    "id": "onlineradiobox_bz.plus",
+    "name": "Plus Radio Belize",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/120695.v4.png",
+    "stream_url": "https://stream.zeno.fm/ffw2uyxp3nhtv",
+    "website": "https://zeno.fm/radio/plus-radio-belize/",
+    "provider": "onlineradiobox",
+    "country": "Belize",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:24:43+05:30"
+  },
+  {
+    "id": "onlineradiobox_bz.qeqchilajjalolyuam",
+    "name": "Radio Q&#39;eqchi Laj Jalol Yu&#39;am",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/111977.v1.png",
+    "stream_url": "https://stream.zeno.fm/cnqf0ca3zehvv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Belize",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:24:43+05:30"
+  },
+  {
+    "id": "onlineradiobox_bz.reef",
+    "name": "Reef Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/79690.v21.png",
+    "stream_url": "https://uk25freenew.listen2myradio.com/live.mp3?typeportmount=s1_14069_stream_489839571;",
+    "website": "https://reef.radio12345.com/",
+    "provider": "onlineradiobox",
+    "country": "Belize",
+    "genres": [
+      "classic rock",
+      "alternative",
+      "top40",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:24:37+05:30"
+  },
+  {
+    "id": "onlineradiobox_bz.visionbelize",
+    "name": "Radio Vision Belize",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/82810.v4.png",
+    "stream_url": "https://sonic.radiostreaminglatino.com:10968/;",
+    "website": "http://radiovisionbelize.com/",
+    "provider": "onlineradiobox",
+    "country": "Belize",
+    "genres": [
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:24:36+05:30"
+  },
+  {
+    "id": "onlineradiobox_bz.vogueplaybelize",
+    "name": "Vogue Play | Belize",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/106073.v1.png",
+    "stream_url": "https://stream.zeno.fm/nczcrdxqc18uv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Belize",
+    "genres": [
+      "pop",
+      "top40",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:24:38+05:30"
+  }
+]

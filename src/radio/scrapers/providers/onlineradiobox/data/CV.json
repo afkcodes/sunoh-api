@@ -1,0 +1,284 @@
+[
+  {
+    "id": "onlineradiobox_cv.alfacv",
+    "name": "Rádio Alfa",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/134283.v9.png",
+    "stream_url": "https://stream.zeno.fm/wuh1b9qldsatv",
+    "website": "https://www.radioalfacv.com/",
+    "provider": "onlineradiobox",
+    "country": "Cape Verde",
+    "genres": [
+      "pop",
+      "news",
+      "talk",
+      "country",
+      "sports",
+      "african"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:15:50+05:30"
+  },
+  {
+    "id": "onlineradiobox_cv.antennawebpraia",
+    "name": "Antenna Web Praia",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/134319.v2.png",
+    "stream_url": "https://tinyurl.com/AntennaWebPraia",
+    "website": "https://antennaweb.it/antennaweb-praia/",
+    "provider": "onlineradiobox",
+    "country": "Cape Verde",
+    "genres": [
+      "rock",
+      "pop",
+      "blues",
+      "jazz",
+      "funk",
+      "reggaeton"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:15:52+05:30"
+  },
+  {
+    "id": "onlineradiobox_cv.atlantico",
+    "name": "Radio Atlantico",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/70372.v26.png",
+    "stream_url": "https://stream.cvhosting.uk/listen/radio_atlantico/radio.mp3",
+    "website": "https://www.radioatlantico.net/",
+    "provider": "onlineradiobox",
+    "country": "Cape Verde",
+    "genres": [
+      "top40",
+      "african",
+      "kizomba"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:15:47+05:30"
+  },
+  {
+    "id": "onlineradiobox_cv.cabo",
+    "name": "СaboRadio",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/86428.v7.png",
+    "stream_url": "https://listen.radioking.com/radio/281506/stream/327253",
+    "website": "http://caboradio.fr/",
+    "provider": "onlineradiobox",
+    "country": "Cape Verde",
+    "genres": [
+      "hip-hop",
+      "90s",
+      "african"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:15:45+05:30"
+  },
+  {
+    "id": "onlineradiobox_cv.caboverde",
+    "name": "Radio Caboverde",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/79868.v6.png",
+    "stream_url": "https://stream.zeno.fm/r6hak84eka0uv",
+    "website": "https://www.radioking.com/radio/caboverdenet",
+    "provider": "onlineradiobox",
+    "country": "Cape Verde",
+    "genres": [
+      "classic",
+      "african",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:15:45+05:30"
+  },
+  {
+    "id": "onlineradiobox_cv.caboverde80s90s00s",
+    "name": "Radio Cabo Verde 80s90s00s",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/149031.v6.png",
+    "stream_url": "https://stream.zeno.fm/2ft4d84eka0uv",
+    "website": "https://zeno.fm/radio/web-radio-cabo-verde/",
+    "provider": "onlineradiobox",
+    "country": "Cape Verde",
+    "genres": [
+      "90s",
+      "00s",
+      "80s"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:15:49+05:30"
+  },
+  {
+    "id": "onlineradiobox_cv.caboverdeinternational",
+    "name": "Radio Cabo Verde International",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/41370.v33.png",
+    "stream_url": "http://41.221.203.141:8093/",
+    "website": "http://www.radiocaboverdeinternational.com/",
+    "provider": "onlineradiobox",
+    "country": "Cape Verde",
+    "genres": [
+      "pop",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:15:46+05:30"
+  },
+  {
+    "id": "onlineradiobox_cv.caboverdelive",
+    "name": "Cabo Verde Live",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/126865.v2.png",
+    "stream_url": "https://sonicpanel.oficialserver.com:7214/;?",
+    "website": "https://caboverdeliveinternational.blogspot.com/",
+    "provider": "onlineradiobox",
+    "country": "Cape Verde",
+    "genres": [
+      "pop",
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:15:49+05:30"
+  },
+  {
+    "id": "onlineradiobox_cv.lrcm",
+    "name": "LRCM Radio (Cabo Verde)",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/153105.v1.png",
+    "stream_url": "https://a8.asurahosting.com:8950/capeverde.mp3",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Cape Verde",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:15:51+05:30"
+  },
+  {
+    "id": "onlineradiobox_cv.melodia",
+    "name": "Radio Melodia",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/144391.v1.png",
+    "stream_url": "https://stream.cvhosting.uk/listen/melodia/radio.mp3",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Cape Verde",
+    "genres": [
+      "pop",
+      "sertaneja"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:15:50+05:30"
+  },
+  {
+    "id": "onlineradiobox_cv.praiafm",
+    "name": "Radio Praia FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/41371.v8.png",
+    "stream_url": "https://mpc1.mediacp.eu:8030/stream",
+    "website": "https://praiafm.biz/",
+    "provider": "onlineradiobox",
+    "country": "Cape Verde",
+    "genres": [
+      "pop",
+      "news",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:15:47+05:30"
+  },
+  {
+    "id": "onlineradiobox_cv.rcsm",
+    "name": "RCSM - Radio Comunitaria de Santa Maria",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/99923.v3.png",
+    "stream_url": "https://blueeyecaboverde.com/shoutcast/live.mp3",
+    "website": "https://rcsm.cv/",
+    "provider": "onlineradiobox",
+    "country": "Cape Verde",
+    "genres": [
+      "pop",
+      "african",
+      "community"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:15:48+05:30"
+  },
+  {
+    "id": "onlineradiobox_cv.ribeirabrava",
+    "name": "Radio Ribeira Brava",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/108934.v2.png",
+    "stream_url": "https://sc1.xdevel.com/ribeirabrava",
+    "website": "https://www.ribeirabravafm.com/",
+    "provider": "onlineradiobox",
+    "country": "Cape Verde",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:15:47+05:30"
+  },
+  {
+    "id": "onlineradiobox_cv.rtc",
+    "name": "Radio RTC Cabo Verde",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/63681.v8.png",
+    "stream_url": "https://radios.vpn.sapo.pt/CV/radio7.mp3",
+    "website": "http://www.rtc.cv/index.php",
+    "provider": "onlineradiobox",
+    "country": "Cape Verde",
+    "genres": [
+      "news",
+      "talk",
+      "sports"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:15:46+05:30"
+  },
+  {
+    "id": "onlineradiobox_cv.tvsalone",
+    "name": "Radio Tv Sal One",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/100135.v2.png",
+    "stream_url": "http://41.221.203.141:8093/",
+    "website": "http://www.radiotvsalone.tv/",
+    "provider": "onlineradiobox",
+    "country": "Cape Verde",
+    "genres": [
+      "african"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:15:48+05:30"
+  }
+]

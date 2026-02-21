@@ -1,0 +1,40 @@
+[
+  {
+    "id": "onlineradiobox_nr.antennawebnauru",
+    "name": "Antenna Web Nauru",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/138405.v1.png",
+    "stream_url": "https://tinyurl.com/Antenna-Web-Nauru",
+    "website": "https://antennaweb.it/antenna-web-nauru/",
+    "provider": "onlineradiobox",
+    "country": "Nauru",
+    "genres": [
+      "rock",
+      "pop",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:35:28+05:30"
+  },
+  {
+    "id": "onlineradiobox_nr.beta",
+    "name": "Station Beta",
+    "image": "https://cdn.onlineradiobox.com/img/logo/7/124877.png",
+    "stream_url": "https://stream.zeno.fm/1v82c3voiovtv",
+    "website": "https://beta.co.ke/",
+    "provider": "onlineradiobox",
+    "country": "Nauru",
+    "genres": [
+      "pop",
+      "top40",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:35:29+05:30"
+  }
+]

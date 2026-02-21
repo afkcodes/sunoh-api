@@ -1,0 +1,1196 @@
+[
+  {
+    "id": "onlineradiobox_ee.allthebest",
+    "name": "All The Best Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/140304.v1.png",
+    "stream_url": "https://c4.radioboss.fm:8537/stream",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Estonia",
+    "genres": [
+      "dance",
+      "rock",
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T19:05:23+05:30"
+  },
+  {
+    "id": "onlineradiobox_ee.artekon",
+    "name": "Artekon Raadio",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/73250.v6.png",
+    "stream_url": "https://myradio24.org/5566",
+    "website": "http://www.artekon.eu/raadio.html",
+    "provider": "onlineradiobox",
+    "country": "Estonia",
+    "genres": [
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T19:06:09+05:30"
+  },
+  {
+    "id": "onlineradiobox_ee.azathoth",
+    "name": "Radio Azathoth Revival",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/73246.v9.png",
+    "stream_url": "https://cast4.my-control-panel.com/proxy/aadu/stream",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Estonia",
+    "genres": [
+      "rock",
+      "70s",
+      "60s"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T19:05:36+05:30"
+  },
+  {
+    "id": "onlineradiobox_ee.chat",
+    "name": "Chat Raadio",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/108043.v6.png",
+    "stream_url": "https://puma.streemlion.com:1830/stream",
+    "website": "http://jasva.net/",
+    "provider": "onlineradiobox",
+    "country": "Estonia",
+    "genres": [
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T19:06:13+05:30"
+  },
+  {
+    "id": "onlineradiobox_ee.doubleclap",
+    "name": "Doubleclap Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/92379.v4.png",
+    "stream_url": "https://s3.radio.co/scfd7273b2/listen",
+    "website": "https://www.doubleclap.dance/radio",
+    "provider": "onlineradiobox",
+    "country": "Estonia",
+    "genres": [
+      "dance",
+      "house",
+      "lounge"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T19:05:27+05:30"
+  },
+  {
+    "id": "onlineradiobox_ee.druziee",
+    "name": "drUzi",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/131083.v24.png",
+    "stream_url": "https://druzi.fm:8443/192mp3",
+    "website": "https://druzi.ee/",
+    "provider": "onlineradiobox",
+    "country": "Estonia",
+    "genres": [],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T19:05:29+05:30"
+  },
+  {
+    "id": "onlineradiobox_ee.duorock",
+    "name": "MyHits Rock",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/130058.v6.png",
+    "stream_url": "https://le08.euddn.net/8a8071c99bcaab13ca1a8577a97080377bb28a5d95679353b83a232e0689f9f48fcf2f5f69bdbf46cb28ef0059f5ec5be1da8bcbbd63033b869174a0e66611fa180411e723eda4be7f946051d5393cfc361c45dfa58819e65a104be48271ce7ccc32579c8cd229932e330ed3b67936d44cfb9831",
+    "website": "https://myhits.pleier.ee/myhits-rock",
+    "provider": "onlineradiobox",
+    "country": "Estonia",
+    "genres": [
+      "rock",
+      "alternative"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T19:05:33+05:30"
+  },
+  {
+    "id": "onlineradiobox_ee.elmar",
+    "name": "Raadio Elmar",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/29041.v8.png",
+    "stream_url": "https://router.euddn.net/8103046e16b71d15d692b57c187875c7/elmar.aac",
+    "website": "http://elmar.postimees.ee/",
+    "provider": "onlineradiobox",
+    "country": "Estonia",
+    "genres": [
+      "rock",
+      "pop",
+      "news",
+      "top40",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T19:04:27+05:30"
+  },
+  {
+    "id": "onlineradiobox_ee.er4",
+    "name": "Raadio 4",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/29244.v11.png",
+    "stream_url": "https://icecast.err.ee/raadio4.mp3",
+    "website": "http://r4.err.ee/",
+    "provider": "onlineradiobox",
+    "country": "Estonia",
+    "genres": [
+      "pop",
+      "news",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T19:04:25+05:30"
+  },
+  {
+    "id": "onlineradiobox_ee.eradio",
+    "name": "Є! Радіо",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/134176.v1.png",
+    "stream_url": "https://cast1.asurahosting.com/proxy/northst2/eradio1",
+    "website": "https://eradio.ee/",
+    "provider": "onlineradiobox",
+    "country": "Estonia",
+    "genres": [
+      "dance",
+      "rock",
+      "r'n'b",
+      "pop",
+      "top40",
+      "00s",
+      "soft pop",
+      "10s",
+      "hits",
+      "dance pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T19:05:24+05:30"
+  },
+  {
+    "id": "onlineradiobox_ee.err2",
+    "name": "ERR Raadio 2",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/29099.v4.png",
+    "stream_url": "http://icecast.err.ee/raadio2.mp3",
+    "website": "https://otse.err.ee/k/raadio2",
+    "provider": "onlineradiobox",
+    "country": "Estonia",
+    "genres": [
+      "pop",
+      "top40",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T19:05:27+05:30"
+  },
+  {
+    "id": "onlineradiobox_ee.estonianparty",
+    "name": "Estonian Party Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/84114.v4.png",
+    "stream_url": "http://maggie.torontocast.com:8110/stream",
+    "website": "http://estonianpartyradio.eu/",
+    "provider": "onlineradiobox",
+    "country": "Estonia",
+    "genres": [
+      "dance",
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T19:04:32+05:30"
+  },
+  {
+    "id": "onlineradiobox_ee.freedom",
+    "name": "Raadio FREEДОМ",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/144294.v9.png",
+    "stream_url": "https://radiofm.stream:8443/ee.freedom_sq",
+    "website": "http://www.ee24tv.ee/",
+    "provider": "onlineradiobox",
+    "country": "Estonia",
+    "genres": [
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T19:06:10+05:30"
+  },
+  {
+    "id": "onlineradiobox_ee.happyu",
+    "name": "HappyU Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/73245.v7.png",
+    "stream_url": "https://radio.streemlion.com:2525/stream",
+    "website": "http://www.happyu.ee/",
+    "provider": "onlineradiobox",
+    "country": "Estonia",
+    "genres": [
+      "pop",
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T19:05:30+05:30"
+  },
+  {
+    "id": "onlineradiobox_ee.hero",
+    "name": "Hero Radio (Estonia)",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/147025.v3.png",
+    "stream_url": "https://a2.asurahosting.com:6790/estonia.mp3",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Estonia",
+    "genres": [
+      "news",
+      "gospel",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T19:06:10+05:30"
+  },
+  {
+    "id": "onlineradiobox_ee.hitmixestonia",
+    "name": "HitMix Estonia",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/104519.v2.png",
+    "stream_url": "https://stream.hitmix.ee:8443/HIT_320",
+    "website": "https://hitmix.ee/",
+    "provider": "onlineradiobox",
+    "country": "Estonia",
+    "genres": [
+      "dance",
+      "pop",
+      "oldies",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T19:04:31+05:30"
+  },
+  {
+    "id": "onlineradiobox_ee.hpsbassline",
+    "name": "HPS Bassline",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/152207.v3.png",
+    "stream_url": "https://hpsbassline.myftp.biz:4004/listen/haapsaly_bassline/radio.flac",
+    "website": "https://hpsbassline.myftp.biz/",
+    "provider": "onlineradiobox",
+    "country": "Estonia",
+    "genres": [
+      "drum'n'bass"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T19:06:11+05:30"
+  },
+  {
+    "id": "onlineradiobox_ee.ida",
+    "name": "IDA Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/141714.v2.png",
+    "stream_url": "https://broadcast.idaidaida.net:8000/stream",
+    "website": "https://idaidaida.net/",
+    "provider": "onlineradiobox",
+    "country": "Estonia",
+    "genres": [
+      "electronic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T19:06:09+05:30"
+  },
+  {
+    "id": "onlineradiobox_ee.jumor",
+    "name": "Jumor FM Estonia",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/140865.v3.png",
+    "stream_url": "https://a10.asurahosting.com:7640/radio.mp3",
+    "website": "https://www.jumorfm.ee/",
+    "provider": "onlineradiobox",
+    "country": "Estonia",
+    "genres": [
+      "disco",
+      "pop",
+      "comedy"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T19:04:29+05:30"
+  },
+  {
+    "id": "onlineradiobox_ee.kadihiiumaa",
+    "name": "Raadio Kadi",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/29042.v7.png",
+    "stream_url": "https://edge06.cdn.bitflip.ee:8888/kadi",
+    "website": "http://kadi.ee/",
+    "provider": "onlineradiobox",
+    "country": "Estonia",
+    "genres": [
+      "pop",
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T19:05:31+05:30"
+  },
+  {
+    "id": "onlineradiobox_ee.kagu",
+    "name": "Kaguraadio",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/123681.v4.png",
+    "stream_url": "https://radio.vlevelscdn.net/radio/kaguraadio.stream/playlist.m3u8",
+    "website": "http://www.kaguraadio.ee/",
+    "provider": "onlineradiobox",
+    "country": "Estonia",
+    "genres": [
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T19:04:34+05:30"
+  },
+  {
+    "id": "onlineradiobox_ee.kiss",
+    "name": "Kiss FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/131683.v2.png",
+    "stream_url": "https://stream.skymedia.ee/live/KISS",
+    "website": "https://www.sky.ee/kissfm",
+    "provider": "onlineradiobox",
+    "country": "Estonia",
+    "genres": [
+      "pop",
+      "retro"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T19:04:28+05:30"
+  },
+  {
+    "id": "onlineradiobox_ee.klassika",
+    "name": "Klassikaraadio",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/29084.v5.png",
+    "stream_url": "http://icecast.err.ee/klassikaraadio.mp3",
+    "website": "http://klassikaraadio.err.ee/",
+    "provider": "onlineradiobox",
+    "country": "Estonia",
+    "genres": [
+      "jazz",
+      "classic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T19:05:22+05:30"
+  },
+  {
+    "id": "onlineradiobox_ee.kuku1007",
+    "name": "Raadio Kuku",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/102970.v8.png",
+    "stream_url": "https://router.euddn.net/8103046e16b71d15d692b57c187875c7/kuku.aac",
+    "website": "http://www.kuku.ee/",
+    "provider": "onlineradiobox",
+    "country": "Estonia",
+    "genres": [
+      "pop",
+      "news"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T19:05:25+05:30"
+  },
+  {
+    "id": "onlineradiobox_ee.legendaarne",
+    "name": "Legendaarne Raadio",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/142452.v1.png",
+    "stream_url": "https://stream.skymedia.ee/live/Legendaarne",
+    "website": "https://sky.ee/legendaarne",
+    "provider": "onlineradiobox",
+    "country": "Estonia",
+    "genres": [
+      "rap",
+      "hip-hop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T19:05:28+05:30"
+  },
+  {
+    "id": "onlineradiobox_ee.maximum",
+    "name": "Radio MAXIMUM",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/141582.v6.png",
+    "stream_url": "https://stream.radiomaximum.ee/stream",
+    "website": "https://radiomaximum.ee/",
+    "provider": "onlineradiobox",
+    "country": "Estonia",
+    "genres": [
+      "dance",
+      "rock",
+      "r'n'b",
+      "pop",
+      "club",
+      "top40",
+      "entertainment",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T19:04:25+05:30"
+  },
+  {
+    "id": "onlineradiobox_ee.moodne",
+    "name": "Moodne Raadio",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/144145.v4.png",
+    "stream_url": "https://radiofm.stream:8443/moodne_hq",
+    "website": "https://moodneraadio.ee/",
+    "provider": "onlineradiobox",
+    "country": "Estonia",
+    "genres": [
+      "r'n'b",
+      "lounge",
+      "jazz",
+      "easy listening",
+      "relax",
+      "soul",
+      "romantic",
+      "love songs"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T19:05:34+05:30"
+  },
+  {
+    "id": "onlineradiobox_ee.musicvision",
+    "name": "#URBAN",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/111661.v14.png",
+    "stream_url": "https://s1.vgs.ink/listen/urban/urban.mp3",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Estonia",
+    "genres": [
+      "pop",
+      "rap",
+      "top40",
+      "drum'n'bass"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T19:05:32+05:30"
+  },
+  {
+    "id": "onlineradiobox_ee.myhits",
+    "name": "Radio MyHits",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/73242.v13.png",
+    "stream_url": "https://router.euddn.net/8103046e16b71d15d692b57c187875c7/myhits.aac",
+    "website": "http://www.myhits.ee/",
+    "provider": "onlineradiobox",
+    "country": "Estonia",
+    "genres": [
+      "pop",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T19:04:30+05:30"
+  },
+  {
+    "id": "onlineradiobox_ee.myhitsdance",
+    "name": "MyHits Dance",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/136659.v2.png",
+    "stream_url": "https://router.euddn.net/8103046e16b71d15d692b57c187875c7/md_mhdance.aac",
+    "website": "https://myhits.pleier.ee/myhits-dance",
+    "provider": "onlineradiobox",
+    "country": "Estonia",
+    "genres": [
+      "dance",
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T19:05:23+05:30"
+  },
+  {
+    "id": "onlineradiobox_ee.narodnoe",
+    "name": "Народное Радио",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/29039.v20.png",
+    "stream_url": "https://router.euddn.net/8103046e16b71d15d692b57c187875c7/narodnoe.mp3",
+    "website": "http://narodnoeradio.ee/",
+    "provider": "onlineradiobox",
+    "country": "Estonia",
+    "genres": [
+      "pop",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T19:04:24+05:30"
+  },
+  {
+    "id": "onlineradiobox_ee.nomme",
+    "name": "Nömme Raadio",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/29205.v6.png",
+    "stream_url": "http://149.210.138.12:8000/nommeraadio",
+    "website": "http://www.nommeraadio.ee/",
+    "provider": "onlineradiobox",
+    "country": "Estonia",
+    "genres": [
+      "pop",
+      "news",
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T19:05:31+05:30"
+  },
+  {
+    "id": "onlineradiobox_ee.novoe",
+    "name": "Новое Радио",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/140314.v1.png",
+    "stream_url": "https://c4.radioboss.fm:8538/stream",
+    "website": "https://www.novoeradio.ee/",
+    "provider": "onlineradiobox",
+    "country": "Estonia",
+    "genres": [
+      "dance",
+      "rock",
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T19:05:35+05:30"
+  },
+  {
+    "id": "onlineradiobox_ee.nrjestonia",
+    "name": "NRJ",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/29280.v7.png",
+    "stream_url": "https://stream.skymedia.ee/live/NRJ",
+    "website": "https://sky.ee/tag/nrj/",
+    "provider": "onlineradiobox",
+    "country": "Estonia",
+    "genres": [
+      "pop",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T19:04:23+05:30"
+  },
+  {
+    "id": "onlineradiobox_ee.pere",
+    "name": "Pereraadio Tartu",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/29094.v9.png",
+    "stream_url": "http://bee.pereraadio.ee:8000/;",
+    "website": "http://www.pereraadio.ee/uus/",
+    "provider": "onlineradiobox",
+    "country": "Estonia",
+    "genres": [
+      "talk",
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T19:06:13+05:30"
+  },
+  {
+    "id": "onlineradiobox_ee.postimees",
+    "name": "Postimees Raadio",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/108696.v7.png",
+    "stream_url": "https://router.euddn.net/8103046e16b71d15d692b57c187875c7/postimeesraadio.mp3",
+    "website": "https://www.postimees.ee/section/5634",
+    "provider": "onlineradiobox",
+    "country": "Estonia",
+    "genres": [
+      "pop",
+      "news"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T19:06:12+05:30"
+  },
+  {
+    "id": "onlineradiobox_ee.powerhit",
+    "name": "Power Hit Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/29036.v6.png",
+    "stream_url": "https://ice.leviracloud.eu/phr96-aac",
+    "website": "http://power.tv3.ee/",
+    "provider": "onlineradiobox",
+    "country": "Estonia",
+    "genres": [
+      "dance",
+      "electronic",
+      "pop",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T19:04:29+05:30"
+  },
+  {
+    "id": "onlineradiobox_ee.r2pop",
+    "name": "R2 Pop",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/109723.v3.png",
+    "stream_url": "http://icecast.err.ee:80/r2popkorge.mp3",
+    "website": "https://r2extra.err.ee/r2pop",
+    "provider": "onlineradiobox",
+    "country": "Estonia",
+    "genres": [
+      "pop",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T19:06:11+05:30"
+  },
+  {
+    "id": "onlineradiobox_ee.raadio7",
+    "name": "Raadio 7",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/29077.v5.png",
+    "stream_url": "https://edge05.cdn.bitflip.ee:8888/R7",
+    "website": "http://www.raadio7.ee/",
+    "provider": "onlineradiobox",
+    "country": "Estonia",
+    "genres": [
+      "pop",
+      "talk",
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T19:05:34+05:30"
+  },
+  {
+    "id": "onlineradiobox_ee.raadioduo",
+    "name": "Raadio Duo",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/113199.v1.png",
+    "stream_url": "https://router.euddn.net/8103046e16b71d15d692b57c187875c7/radioduo.aac",
+    "website": "https://raadioduo.pleier.ee/",
+    "provider": "onlineradiobox",
+    "country": "Estonia",
+    "genres": [
+      "pop",
+      "90s",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T19:04:28+05:30"
+  },
+  {
+    "id": "onlineradiobox_ee.radionostalgiya",
+    "name": "RADIO NOSTALGIA",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/98245.v19.png",
+    "stream_url": "https://c16.radioboss.fm:8327/stream",
+    "website": "https://www.radionostalgia.ee/",
+    "provider": "onlineradiobox",
+    "country": "Estonia",
+    "genres": [
+      "rock",
+      "pop",
+      "retro",
+      "90s",
+      "80s",
+      "70s",
+      "oldies",
+      "60s"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T19:04:26+05:30"
+  },
+  {
+    "id": "onlineradiobox_ee.rahva",
+    "name": "Rahvaraadio",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/111149.v2.png",
+    "stream_url": "http://streamer.tt.ee:8000/rahvaraadio",
+    "website": "http://rahvaraadio.ee/",
+    "provider": "onlineradiobox",
+    "country": "Estonia",
+    "genres": [
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T19:05:29+05:30"
+  },
+  {
+    "id": "onlineradiobox_ee.relax",
+    "name": "Relax FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/82993.v26.png",
+    "stream_url": "https://stream.relaxfm.ee/relax",
+    "website": "https://relaxfm.ee/",
+    "provider": "onlineradiobox",
+    "country": "Estonia",
+    "genres": [
+      "pop",
+      "lounge",
+      "jazz",
+      "easy listening",
+      "relax",
+      "new age",
+      "90s",
+      "00s",
+      "80s",
+      "70s",
+      "soft pop",
+      "soft rock",
+      "soundtrack",
+      "instrumental",
+      "adult contemporary",
+      "10s",
+      "romantic",
+      "covers",
+      "love songs",
+      "hits",
+      "balada"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T19:04:22+05:30"
+  },
+  {
+    "id": "onlineradiobox_ee.retro",
+    "name": "Retro FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/29085.v7.png",
+    "stream_url": "https://stream.skymedia.ee/live/RETRO",
+    "website": "https://sky.ee/tag/retrofm/",
+    "provider": "onlineradiobox",
+    "country": "Estonia",
+    "genres": [
+      "pop",
+      "retro",
+      "80s",
+      "oldies",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T19:04:22+05:30"
+  },
+  {
+    "id": "onlineradiobox_ee.ring",
+    "name": "Ring FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/29265.v8.png",
+    "stream_url": "https://sc2.treraadio.ee/ringfm",
+    "website": "http://www.ringfm.ee/",
+    "provider": "onlineradiobox",
+    "country": "Estonia",
+    "genres": [
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T19:05:25+05:30"
+  },
+  {
+    "id": "onlineradiobox_ee.rockfm",
+    "name": "Rock FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/86563.v4.png",
+    "stream_url": "https://stream.skymedia.ee/live/rck",
+    "website": "https://sky.ee/tag/rockfm/",
+    "provider": "onlineradiobox",
+    "country": "Estonia",
+    "genres": [
+      "rock"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T19:04:26+05:30"
+  },
+  {
+    "id": "onlineradiobox_ee.russkoeestonia",
+    "name": "Super Радио",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/29033.v10.png",
+    "stream_url": "https://stream.skymedia.ee/live/RR",
+    "website": "https://super.radio/",
+    "provider": "onlineradiobox",
+    "country": "Estonia",
+    "genres": [
+      "pop",
+      "news",
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T19:04:23+05:30"
+  },
+  {
+    "id": "onlineradiobox_ee.ruut",
+    "name": "RuutFM",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/129916.v3.png",
+    "stream_url": "https://sc2.treraadio.ee/ruutfm",
+    "website": "https://ruutfm.treraadio.ee/",
+    "provider": "onlineradiobox",
+    "country": "Estonia",
+    "genres": [
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T19:06:14+05:30"
+  },
+  {
+    "id": "onlineradiobox_ee.sky",
+    "name": "SKY Радио",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/73248.v9.png",
+    "stream_url": "https://stream.skymedia.ee/live/SKY",
+    "website": "http://www.sky-radio.fm/",
+    "provider": "onlineradiobox",
+    "country": "Estonia",
+    "genres": [
+      "pop",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T19:04:23+05:30"
+  },
+  {
+    "id": "onlineradiobox_ee.skyplus",
+    "name": "Sky Plus",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/29037.v10.png",
+    "stream_url": "https://stream.skymedia.ee/live/SKYPLUS",
+    "website": "https://sky.ee/tag/skyplus/",
+    "provider": "onlineradiobox",
+    "country": "Estonia",
+    "genres": [
+      "pop",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T19:04:28+05:30"
+  },
+  {
+    "id": "onlineradiobox_ee.soovi",
+    "name": "Sooviraadio",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/73251.v5.png",
+    "stream_url": "http://media.uunox.net:8888/;",
+    "website": "http://www.sooviraadio.net/raadio/",
+    "provider": "onlineradiobox",
+    "country": "Estonia",
+    "genres": [
+      "retro",
+      "oldies"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T19:05:24+05:30"
+  },
+  {
+    "id": "onlineradiobox_ee.spin",
+    "name": "Spin FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/29240.v4.png",
+    "stream_url": "http://87.110.219.34:8000/spinmp3",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Estonia",
+    "genres": [
+      "pop",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T19:05:28+05:30"
+  },
+  {
+    "id": "onlineradiobox_ee.star966",
+    "name": "Star FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/29093.v5.png",
+    "stream_url": "https://ice.leviracloud.eu/star96-aac",
+    "website": "http://starfm.tv3.ee/",
+    "provider": "onlineradiobox",
+    "country": "Estonia",
+    "genres": [
+      "pop",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T19:04:30+05:30"
+  },
+  {
+    "id": "onlineradiobox_ee.tallinn",
+    "name": "Raadio Tallinn",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/29080.v3.png",
+    "stream_url": "http://icecast.err.ee/raadiotallinn.mp3",
+    "website": "http://raadiotallinn.err.ee/",
+    "provider": "onlineradiobox",
+    "country": "Estonia",
+    "genres": [
+      "pop",
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T19:04:32+05:30"
+  },
+  {
+    "id": "onlineradiobox_ee.tartufamily",
+    "name": "Tartu Family Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/73244.v6.png",
+    "stream_url": "https://icecast.pereraadio.ee:9000/Semeinoje",
+    "website": "http://radioeli.ru/",
+    "provider": "onlineradiobox",
+    "country": "Estonia",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T19:05:26+05:30"
+  },
+  {
+    "id": "onlineradiobox_ee.top",
+    "name": "Radio Top",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/140303.v2.png",
+    "stream_url": "https://c32.radioboss.fm:8744/stream",
+    "website": "https://www.radiotop.ee/",
+    "provider": "onlineradiobox",
+    "country": "Estonia",
+    "genres": [
+      "dance",
+      "rock",
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T19:05:26+05:30"
+  },
+  {
+    "id": "onlineradiobox_ee.tzgospel",
+    "name": "Tzgospel Estonia",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/128849.v1.png",
+    "stream_url": "https://stream.zeno.fm/xqfdaf7dgfhvv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Estonia",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T19:06:12+05:30"
+  },
+  {
+    "id": "onlineradiobox_ee.vibra",
+    "name": "VibraFM",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/146512.v1.png",
+    "stream_url": "https://a11.asurahosting.com/listen/vibrafm/radio.mp3",
+    "website": "https://vibrafm.ee/",
+    "provider": "onlineradiobox",
+    "country": "Estonia",
+    "genres": [
+      "techno"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T19:06:11+05:30"
+  },
+  {
+    "id": "onlineradiobox_ee.viker",
+    "name": "Vikerraadio",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/29078.v4.png",
+    "stream_url": "http://icecast.err.ee/vikerraadio.mp3",
+    "website": "http://vikerraadio.err.ee/",
+    "provider": "onlineradiobox",
+    "country": "Estonia",
+    "genres": [
+      "pop",
+      "news",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T19:04:31+05:30"
+  },
+  {
+    "id": "onlineradiobox_ee.volna",
+    "name": "Star FM+",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/73249.v8.png",
+    "stream_url": "https://ice.leviracloud.eu/volna96-aac",
+    "website": "https://starfmplus.ee/",
+    "provider": "onlineradiobox",
+    "country": "Estonia",
+    "genres": [
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T19:04:27+05:30"
+  },
+  {
+    "id": "onlineradiobox_ee.webhit",
+    "name": "Hits Radio Estonia",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/85646.v38.png",
+    "stream_url": "https://artemis.streamerr.co:8300/radio.mp3",
+    "website": "http://www.hitsradio.ee/",
+    "provider": "onlineradiobox",
+    "country": "Estonia",
+    "genres": [
+      "dance",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T19:04:33+05:30"
+  },
+  {
+    "id": "onlineradiobox_ee.xfm",
+    "name": "Xfm Estonia",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/154565.v2.png",
+    "stream_url": "https://stream.rcast.net/73328",
+    "website": "https://xfm.ee/",
+    "provider": "onlineradiobox",
+    "country": "Estonia",
+    "genres": [
+      "dance",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T19:06:13+05:30"
+  },
+  {
+    "id": "onlineradiobox_ee.xlxltraxestonia",
+    "name": "Xl Radio - Estonia",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/96591.v8.png",
+    "stream_url": "https://stream.rcast.net/69794",
+    "website": "https://xlradio.ee/",
+    "provider": "onlineradiobox",
+    "country": "Estonia",
+    "genres": [
+      "dance",
+      "pop",
+      "club"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T19:05:23+05:30"
+  }
+]

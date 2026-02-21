@@ -1,0 +1,79 @@
+[
+  {
+    "id": "onlineradiobox_va.antennawebvolainvaticano",
+    "name": "Antenna Web vola in Vaticano",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/135092.v4.png",
+    "stream_url": "https://tinyurl.com/AntennaWebvaticano",
+    "website": "https://antennaweb.it/antennaweb-vaticano/",
+    "provider": "onlineradiobox",
+    "country": "Vatican",
+    "genres": [
+      "rock",
+      "pop",
+      "blues",
+      "jazz",
+      "funk",
+      "reggaeton"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:16:44+05:30"
+  },
+  {
+    "id": "onlineradiobox_va.hero",
+    "name": "Hero Radio (Holy See)",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/147018.v1.png",
+    "stream_url": "https://a2.asurahosting.com:6790/holysee.mp3",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Vatican",
+    "genres": [
+      "news",
+      "gospel",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:16:44+05:30"
+  },
+  {
+    "id": "onlineradiobox_va.tzgospel",
+    "name": "Tzgospel ( Vatican)",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/127688.v1.png",
+    "stream_url": "https://stream.zeno.fm/wc7ttw11uchvv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Vatican",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:16:44+05:30"
+  },
+  {
+    "id": "onlineradiobox_va.vatican",
+    "name": "Vatican News - English",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/120407.v3.png",
+    "stream_url": "https://radio.vaticannews.va/stream-en",
+    "website": "https://www.vaticannews.va/en.html",
+    "provider": "onlineradiobox",
+    "country": "Vatican",
+    "genres": [
+      "news",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:16:43+05:30"
+  }
+]

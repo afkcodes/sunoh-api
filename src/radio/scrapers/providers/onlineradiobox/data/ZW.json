@@ -1,0 +1,251 @@
+[
+  {
+    "id": "onlineradiobox_zw.afrocorner",
+    "name": "Afro Corner Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/144808.v2.png",
+    "stream_url": "https://listen.radioking.com/radio/713324/stream/778943",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Zimbabwe",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:37:35+05:30"
+  },
+  {
+    "id": "onlineradiobox_zw.afrozimradio",
+    "name": "Afro Zim Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/33376.v8.png",
+    "stream_url": "https://stream.zeno.fm/770ps9n09vzuv",
+    "website": "http://www.afrozimradio.com/",
+    "provider": "onlineradiobox",
+    "country": "Zimbabwe",
+    "genres": [
+      "pop",
+      "news",
+      "talk",
+      "folk",
+      "reggae",
+      "arabic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:37:34+05:30"
+  },
+  {
+    "id": "onlineradiobox_zw.antennawebharare",
+    "name": "Antenna Web Harare",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/134856.v1.png",
+    "stream_url": "https://tinyurl.com/AntennaWebHarare",
+    "website": "https://antennaweb.it/antennaweb-harare/",
+    "provider": "onlineradiobox",
+    "country": "Zimbabwe",
+    "genres": [
+      "rock",
+      "pop",
+      "blues",
+      "jazz",
+      "funk",
+      "reggaeton"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:37:37+05:30"
+  },
+  {
+    "id": "onlineradiobox_zw.diamondfmzim",
+    "name": "Diamond FM Zim",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/33460.v5.png",
+    "stream_url": "https://edge.iono.fm/xice/160_medium.aac",
+    "website": "http://diamondfm.co.zw/",
+    "provider": "onlineradiobox",
+    "country": "Zimbabwe",
+    "genres": [
+      "r'n'b",
+      "news",
+      "talk",
+      "reggae",
+      "afropop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:37:31+05:30"
+  },
+  {
+    "id": "onlineradiobox_zw.hero",
+    "name": "Hero Radio (Zimbabwe)",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/139077.v1.png",
+    "stream_url": "https://a2.asurahosting.com:6790/Zimbabwe.mp3",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Zimbabwe",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:37:36+05:30"
+  },
+  {
+    "id": "onlineradiobox_zw.lrcm",
+    "name": "LRCM Radio (Zimbabwe)",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/153041.v1.png",
+    "stream_url": "https://a8.asurahosting.com:8950/zimbabwe.mp3",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Zimbabwe",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:37:36+05:30"
+  },
+  {
+    "id": "onlineradiobox_zw.nehandaradio",
+    "name": "Nehanda Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/33369.v3.png",
+    "stream_url": "https://eu4.fastcast4u.com/proxy/lancguma?mp=/1",
+    "website": "http://nehandaradio.com/",
+    "provider": "onlineradiobox",
+    "country": "Zimbabwe",
+    "genres": [
+      "pop",
+      "news",
+      "talk",
+      "folk",
+      "african"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:37:32+05:30"
+  },
+  {
+    "id": "onlineradiobox_zw.skyzmetro",
+    "name": "Skyz Metro FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/73679.v11.png",
+    "stream_url": "https://stream.zeno.fm/2634b6n4qy8uv",
+    "website": "http://skyzmetroradio.co.zw/",
+    "provider": "onlineradiobox",
+    "country": "Zimbabwe",
+    "genres": [
+      "pop",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:37:33+05:30"
+  },
+  {
+    "id": "onlineradiobox_zw.stationbetaafrica",
+    "name": "Station Beta Africa",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/125175.v1.png",
+    "stream_url": "https://stream.zeno.fm/ugicjp7isuqvv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Zimbabwe",
+    "genres": [
+      "pop",
+      "top40",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:37:36+05:30"
+  },
+  {
+    "id": "onlineradiobox_zw.tzgospel",
+    "name": "Tzgospel (Zimbabwe)",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/127691.v1.png",
+    "stream_url": "https://stream.zeno.fm/u1w1zre1uchvv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Zimbabwe",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:37:37+05:30"
+  },
+  {
+    "id": "onlineradiobox_zw.yafm",
+    "name": "YAFM",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/33485.v6.png",
+    "stream_url": "http://173.212.241.223:8000/;stream.mp3",
+    "website": "http://www.yafm.co.zw/",
+    "provider": "onlineradiobox",
+    "country": "Zimbabwe",
+    "genres": [
+      "pop",
+      "news",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:37:32+05:30"
+  },
+  {
+    "id": "onlineradiobox_zw.zifm",
+    "name": "ZiFM",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/33244.v16.png",
+    "stream_url": "https://edge.iono.fm/xice/134_medium.aac",
+    "website": "https://zeno.fm/zi-fm/",
+    "provider": "onlineradiobox",
+    "country": "Zimbabwe",
+    "genres": [
+      "dance",
+      "pop",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:37:33+05:30"
+  },
+  {
+    "id": "onlineradiobox_zw.zimnetradio1",
+    "name": "zim NET radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/33784.v9.png",
+    "stream_url": "https://zimnetradio.net/mainstream/radio.mp3",
+    "website": "http://www.zimnetradio.net/",
+    "provider": "onlineradiobox",
+    "country": "Zimbabwe",
+    "genres": [
+      "talk",
+      "top40",
+      "community"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:37:34+05:30"
+  }
+]

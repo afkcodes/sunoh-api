@@ -1,0 +1,139 @@
+[
+  {
+    "id": "onlineradiobox_li.antennawebliechtenstein",
+    "name": "Antenna Web Liechtenstein",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/138156.v1.png",
+    "stream_url": "https://tinyurl.com/AntennaWebLiechtenstein",
+    "website": "https://antennaweb.it/antennaweb-liechtenstein/",
+    "provider": "onlineradiobox",
+    "country": "Liechtenstein",
+    "genres": [
+      "rock",
+      "pop",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:47:52+05:30"
+  },
+  {
+    "id": "onlineradiobox_li.antennawebvaduz",
+    "name": "Antenna Web Vaduz",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/131157.v10.png",
+    "stream_url": "https://tinyurl.com/Antenna-Web-Vaduz",
+    "website": "https://antennaweb.it/antennaweb-vaduz/",
+    "provider": "onlineradiobox",
+    "country": "Liechtenstein",
+    "genres": [
+      "rock",
+      "pop",
+      "blues",
+      "jazz",
+      "latin"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:47:51+05:30"
+  },
+  {
+    "id": "onlineradiobox_li.campus",
+    "name": "Campus Radio",
+    "image": "https://cdn.onlineradiobox.com/img/logo/7/115547.png",
+    "stream_url": "https://campusradioli.out.airtime.pro/campusradioli_a",
+    "website": "https://campusradioli.airtime.pro/",
+    "provider": "onlineradiobox",
+    "country": "Liechtenstein",
+    "genres": [
+      "pop",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:47:52+05:30"
+  },
+  {
+    "id": "onlineradiobox_li.firsthitslichtenstein",
+    "name": "FirstHits",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/74299.v5.png",
+    "stream_url": "https://stream.laut.fm/firsthits",
+    "website": "https://firsthits.de.tl/",
+    "provider": "onlineradiobox",
+    "country": "Liechtenstein",
+    "genres": [
+      "pop",
+      "top40",
+      "90s",
+      "00s",
+      "adult contemporary",
+      "10s",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:47:51+05:30"
+  },
+  {
+    "id": "onlineradiobox_li.hero",
+    "name": "Hero Radio (Liechtenstein)",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/147016.v1.png",
+    "stream_url": "https://a2.asurahosting.com:6790/liechtenstein.mp3",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Liechtenstein",
+    "genres": [
+      "news",
+      "gospel",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:47:52+05:30"
+  },
+  {
+    "id": "onlineradiobox_li.radioliechtenstein",
+    "name": "Radio Liechtenstein",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/3522.v9.png",
+    "stream_url": "https://radioliechtenstein.ice.infomaniak.ch/radioliechtenstein-128.mp3",
+    "website": "http://www.radio.li/",
+    "provider": "onlineradiobox",
+    "country": "Liechtenstein",
+    "genres": [
+      "pop",
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:47:50+05:30"
+  },
+  {
+    "id": "onlineradiobox_li.tzgospel",
+    "name": "Tzgospel ( Liechtenstein)",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/127682.v2.png",
+    "stream_url": "https://stream.zeno.fm/s92yr231uchvv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Liechtenstein",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:47:52+05:30"
+  }
+]

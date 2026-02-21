@@ -1,0 +1,509 @@
+[
+  {
+    "id": "onlineradiobox_bi.antennawebgitega",
+    "name": "Antenna Web Gitega",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/134246.v3.png",
+    "stream_url": "https://tinyurl.com/AntennaWebGitega",
+    "website": "https://antennaweb.it/antennaweb-gitega/",
+    "provider": "onlineradiobox",
+    "country": "Burundi",
+    "genres": [
+      "rock",
+      "pop",
+      "blues",
+      "jazz",
+      "funk",
+      "reggaeton"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:10:47+05:30"
+  },
+  {
+    "id": "onlineradiobox_bi.bdusamedia",
+    "name": "Bdusa Media",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/126668.v1.png",
+    "stream_url": "https://stream.zeno.fm/0fpegrf70fctv",
+    "website": "https://bdusamedia.blogspot.com/",
+    "provider": "onlineradiobox",
+    "country": "Burundi",
+    "genres": [
+      "news",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:10:46+05:30"
+  },
+  {
+    "id": "onlineradiobox_bi.black",
+    "name": "Radio TV Homewood Burundi",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/111958.v23.png",
+    "stream_url": "http://uk14freenew.listen2myradio.com:27734/stream",
+    "website": "https://www.homewoodburundi.com/",
+    "provider": "onlineradiobox",
+    "country": "Burundi",
+    "genres": [
+      "news",
+      "talk",
+      "culture"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:10:44+05:30"
+  },
+  {
+    "id": "onlineradiobox_bi.bujafm",
+    "name": "Buja FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/143568.v1.png",
+    "stream_url": "https://bujafmbujumbura-atunwadigital.streamguys1.com/bujafmbujumbura",
+    "website": "https://bujamedia.com/",
+    "provider": "onlineradiobox",
+    "country": "Burundi",
+    "genres": [
+      "sports",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:10:50+05:30"
+  },
+  {
+    "id": "onlineradiobox_bi.eaglesports",
+    "name": "Radio Eagle Sport FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/121436.v12.png",
+    "stream_url": "http://5.189.189.39:8000/eaglesport.mp3",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Burundi",
+    "genres": [
+      "sports"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:11:18+05:30"
+  },
+  {
+    "id": "onlineradiobox_bi.fofe",
+    "name": "Radio Fo-Fe",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/73531.v3.png",
+    "stream_url": "http://cast.thiff.com:8012/stream",
+    "website": "https://www.fondationfemidejabat.com/",
+    "provider": "onlineradiobox",
+    "country": "Burundi",
+    "genres": [
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:11:19+05:30"
+  },
+  {
+    "id": "onlineradiobox_bi.gloriousnewness",
+    "name": "Glorious Newness Radio (burundi)",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/148237.v1.png",
+    "stream_url": "https://a11.asurahosting.com:7360/burundi.mp3",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Burundi",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:10:42+05:30"
+  },
+  {
+    "id": "onlineradiobox_bi.hero",
+    "name": "Hero Radio (burundi)",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/138788.v2.png",
+    "stream_url": "https://a2.asurahosting.com:6790/burundi.mp3",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Burundi",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:10:49+05:30"
+  },
+  {
+    "id": "onlineradiobox_bi.intwali",
+    "name": "Radio Intwali FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/86852.v4.png",
+    "stream_url": "https://stream.zeno.fm/f4btyyc18vzuv",
+    "website": "https://zeno.fm/radio-intwali/",
+    "provider": "onlineradiobox",
+    "country": "Burundi",
+    "genres": [
+      "rock",
+      "classic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:10:49+05:30"
+  },
+  {
+    "id": "onlineradiobox_bi.irebe",
+    "name": "Irebe FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/136305.v3.png",
+    "stream_url": "https://stream.zeno.fm/5wjpe2wxzdeuv",
+    "website": "https://irebefm.com/",
+    "provider": "onlineradiobox",
+    "country": "Burundi",
+    "genres": [
+      "culture"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:10:52+05:30"
+  },
+  {
+    "id": "onlineradiobox_bi.iteka",
+    "name": "Iteka FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/110699.v3.png",
+    "stream_url": "https://stream.zeno.fm/nsmhaykzqf9uv",
+    "website": "https://www.itekamedia.com/",
+    "provider": "onlineradiobox",
+    "country": "Burundi",
+    "genres": [
+      "talk",
+      "entertainment",
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:10:41+05:30"
+  },
+  {
+    "id": "onlineradiobox_bi.izere",
+    "name": "Radio Izere FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/80073.v8.png",
+    "stream_url": "http://5.189.189.39:8000/stream",
+    "website": "http://izerefm.org/",
+    "provider": "onlineradiobox",
+    "country": "Burundi",
+    "genres": [
+      "r'n'b",
+      "jazz",
+      "reggae"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:10:41+05:30"
+  },
+  {
+    "id": "onlineradiobox_bi.lrcm",
+    "name": "LRCM Radio (Burundi)",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/152274.v2.png",
+    "stream_url": "https://a8.asurahosting.com:8950/burundi.mp3",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Burundi",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:10:50+05:30"
+  },
+  {
+    "id": "onlineradiobox_bi.menyalive",
+    "name": "Menya Live",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/139335.v3.png",
+    "stream_url": "https://stream.zeno.fm/fq6c2xsn0c9uv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Burundi",
+    "genres": [
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:11:19+05:30"
+  },
+  {
+    "id": "onlineradiobox_bi.peace",
+    "name": "Radio Peace FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/98997.v1.png",
+    "stream_url": "https://stream.zeno.fm/s0244utefg8uv",
+    "website": "http://www.radiopeacefm.com/",
+    "provider": "onlineradiobox",
+    "country": "Burundi",
+    "genres": [
+      "rock",
+      "classic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:10:44+05:30"
+  },
+  {
+    "id": "onlineradiobox_bi.radioboneshafm",
+    "name": "Radio Bonesha FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/35178.v8.png",
+    "stream_url": "https://streaming.zubahost.com/8002/stream",
+    "website": "https://boneshafm.bi/",
+    "provider": "onlineradiobox",
+    "country": "Burundi",
+    "genres": [
+      "pop",
+      "news",
+      "talk",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:10:43+05:30"
+  },
+  {
+    "id": "onlineradiobox_bi.radioisanganiro",
+    "name": "Radio Isanganiro",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/35222.v4.png",
+    "stream_url": "https://isanganiro.ice.infomaniak.ch/isanganiro-64.mp3",
+    "website": "http://www.isanganiro.org/",
+    "provider": "onlineradiobox",
+    "country": "Burundi",
+    "genres": [
+      "pop",
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:10:38+05:30"
+  },
+  {
+    "id": "onlineradiobox_bi.radiomariaburundi",
+    "name": "Radio Maria",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/35175.v5.png",
+    "stream_url": "https://dreamsiteradiocp2.com/proxy/rmburundi2?mp=/stream",
+    "website": "http://www.radiomaria.bi/",
+    "provider": "onlineradiobox",
+    "country": "Burundi",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:10:40+05:30"
+  },
+  {
+    "id": "onlineradiobox_bi.remeshaamahoro",
+    "name": "Remesha Amahoro FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/128101.v5.png",
+    "stream_url": "http://s2.free-shoutcast.com:18252/stream",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Burundi",
+    "genres": [
+      "community"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:10:47+05:30"
+  },
+  {
+    "id": "onlineradiobox_bi.rfm",
+    "name": "Radio RFM",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/151752.v3.png",
+    "stream_url": "https://stream.zeno.fm/24xqbzqn0c9uv",
+    "website": "https://www.menyamedia.org/",
+    "provider": "onlineradiobox",
+    "country": "Burundi",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:10:51+05:30"
+  },
+  {
+    "id": "onlineradiobox_bi.rfm889",
+    "name": "Radio Télévision Rukaramu",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/87077.v19.png",
+    "stream_url": "https://stream.zeno.fm/q3gxevbrz2quv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Burundi",
+    "genres": [
+      "sports",
+      "culture",
+      "education",
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:10:44+05:30"
+  },
+  {
+    "id": "onlineradiobox_bi.rtbb",
+    "name": "Radio B.A.A MEDIA FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/95407.v6.png",
+    "stream_url": "https://stream.zeno.fm/ud15nzqn0c9uv",
+    "website": "https://www.burundialumni.org/",
+    "provider": "onlineradiobox",
+    "country": "Burundi",
+    "genres": [
+      "news"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:10:46+05:30"
+  },
+  {
+    "id": "onlineradiobox_bi.rtnb",
+    "name": "RTMB Chaine 1",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/35451.v7.png",
+    "stream_url": "http://41.79.226.195:8000/stream-RTNB1",
+    "website": "http://www.rtnb.bi/fr/index.php",
+    "provider": "onlineradiobox",
+    "country": "Burundi",
+    "genres": [
+      "news",
+      "talk",
+      "education",
+      "politics"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:10:44+05:30"
+  },
+  {
+    "id": "onlineradiobox_bi.shimafm",
+    "name": "Radio Shima FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/128293.v5.png",
+    "stream_url": "http://5.189.189.39:8000/shimafm.mp3",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Burundi",
+    "genres": [
+      "pop",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:10:48+05:30"
+  },
+  {
+    "id": "onlineradiobox_bi.televisionrukaramuinternationa",
+    "name": "Radio Television Rukaramu Internationa",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/145604.v1.png",
+    "stream_url": "https://stream.zeno.fm/wbdf30rtxd0uv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Burundi",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:10:51+05:30"
+  },
+  {
+    "id": "onlineradiobox_bi.tzgospel",
+    "name": "Tzgospel Burundi",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/134236.v2.png",
+    "stream_url": "https://stream.zeno.fm/nxdpssc3tchvv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Burundi",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:10:48+05:30"
+  },
+  {
+    "id": "onlineradiobox_bi.umuco",
+    "name": "Radio Umuco FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/124467.v6.png",
+    "stream_url": "http://s2.free-shoutcast.com:18208/stream",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Burundi",
+    "genres": [
+      "community"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:10:45+05:30"
+  },
+  {
+    "id": "onlineradiobox_bi.wana",
+    "name": "ATOCO MEDIA",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/95521.v21.png",
+    "stream_url": "https://stream.zeno.fm/g4x4bb7uxd0uv",
+    "website": "https://zeno.fm/radio/atoco-media/",
+    "provider": "onlineradiobox",
+    "country": "Burundi",
+    "genres": [
+      "news",
+      "sports",
+      "education"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:10:45+05:30"
+  }
+]

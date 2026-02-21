@@ -1,0 +1,1357 @@
+[
+  {
+    "id": "onlineradiobox_pk.100islamabad",
+    "name": "Fm 100 Pakistan",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/67528.v9.png",
+    "stream_url": "https://cast4.servcast.net/proxy/fm100islamabad/stream?ver=614923",
+    "website": "http://fm100pakistan.com/",
+    "provider": "onlineradiobox",
+    "country": "Pakistan",
+    "genres": [
+      "pop",
+      "talk",
+      "folk",
+      "islamic",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:02:43+05:30"
+  },
+  {
+    "id": "onlineradiobox_pk.101",
+    "name": "FM 101",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/25923.v4.png",
+    "stream_url": "https://whmsonic.radio.gov.pk:7008/stream?type=http&nocache=12",
+    "website": "http://www.radio.gov.pk/",
+    "provider": "onlineradiobox",
+    "country": "Pakistan",
+    "genres": [
+      "pop",
+      "news",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:02:41+05:30"
+  },
+  {
+    "id": "onlineradiobox_pk.92nooriabad",
+    "name": "FM 92 Nooriabad",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/67952.v4.png",
+    "stream_url": "http://78.129.190.50:26805/;stream.mp3",
+    "website": "https://fmnooriabad.blogspot.com/",
+    "provider": "onlineradiobox",
+    "country": "Pakistan",
+    "genres": [
+      "news",
+      "folk",
+      "indian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:03:42+05:30"
+  },
+  {
+    "id": "onlineradiobox_pk.aladin",
+    "name": "Aladin Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/85390.v3.png",
+    "stream_url": "https://cc.vmakerhost.com/proxy/magic?mp=/live",
+    "website": "http://aladinradio.com/",
+    "provider": "onlineradiobox",
+    "country": "Pakistan",
+    "genres": [
+      "pop",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:03:43+05:30"
+  },
+  {
+    "id": "onlineradiobox_pk.all4masti",
+    "name": "All4Masti",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/81579.v9.png",
+    "stream_url": "https://stream.zeno.fm/bc1xq9y8u68uv",
+    "website": "https://all4masti.com/",
+    "provider": "onlineradiobox",
+    "country": "Pakistan",
+    "genres": [
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:03:40+05:30"
+  },
+  {
+    "id": "onlineradiobox_pk.allformasti",
+    "name": "AllForMasti",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/117549.v1.png",
+    "stream_url": "https://stream.zeno.fm/bahhkuge5zhvv",
+    "website": "https://allformasti.com/",
+    "provider": "onlineradiobox",
+    "country": "Pakistan",
+    "genres": [
+      "pop",
+      "jazz",
+      "classic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:04:32+05:30"
+  },
+  {
+    "id": "onlineradiobox_pk.awamfm94",
+    "name": "Awam Fm 94 Khushab",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/59105.v18.png",
+    "stream_url": "https://server.mediacast4u.stream/8010/stream",
+    "website": "https://www.awamfm.com/",
+    "provider": "onlineradiobox",
+    "country": "Pakistan",
+    "genres": [
+      "pop",
+      "classic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:02:46+05:30"
+  },
+  {
+    "id": "onlineradiobox_pk.awaz1050",
+    "name": "Radio Awaz",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/67706.v5.png",
+    "stream_url": "https://gujratfm105-awazradionetwork.radioca.st/stream",
+    "website": "http://radioawaz.com.pk/",
+    "provider": "onlineradiobox",
+    "country": "Pakistan",
+    "genres": [
+      "news",
+      "top40",
+      "asian",
+      "education"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:02:53+05:30"
+  },
+  {
+    "id": "onlineradiobox_pk.azadkashmir",
+    "name": "Azad Kashmir Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/81619.v3.png",
+    "stream_url": "https://whmsonic.radio.gov.pk:8074/",
+    "website": "http://www.radio.gov.pk/live-streaming",
+    "provider": "onlineradiobox",
+    "country": "Pakistan",
+    "genres": [
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:04:34+05:30"
+  },
+  {
+    "id": "onlineradiobox_pk.bakwas",
+    "name": "Radio Bakwas",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/79307.v7.png",
+    "stream_url": "https://stream.zeno.fm/9htu0k0vsuquv",
+    "website": "http://radio-bakwas.bravesites.com/",
+    "provider": "onlineradiobox",
+    "country": "Pakistan",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:03:41+05:30"
+  },
+  {
+    "id": "onlineradiobox_pk.champion",
+    "name": "Champion FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/129084.v4.png",
+    "stream_url": "https://stream.zeno.fm/dts3pxsqiqfuv",
+    "website": "https://www.championtoday.news/",
+    "provider": "onlineradiobox",
+    "country": "Pakistan",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:04:43+05:30"
+  },
+  {
+    "id": "onlineradiobox_pk.chiltanfm88",
+    "name": "Chiltan FM 88",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/81587.v2.png",
+    "stream_url": "https://cc.vmakerhost.com/proxy/chiltanfm?mp=/stream",
+    "website": "https://chiltan88fm.com/",
+    "provider": "onlineradiobox",
+    "country": "Pakistan",
+    "genres": [
+      "pop",
+      "talk",
+      "folk",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:04:36+05:30"
+  },
+  {
+    "id": "onlineradiobox_pk.city",
+    "name": "City FM 89",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/26035.v6.png",
+    "stream_url": "https://radio.cityfm89.com/stream",
+    "website": "http://cityfm89.com/",
+    "provider": "onlineradiobox",
+    "country": "Pakistan",
+    "genres": [
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:02:47+05:30"
+  },
+  {
+    "id": "onlineradiobox_pk.dhanak",
+    "name": "Dhanak",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/81586.v5.png",
+    "stream_url": "https://whmsonic.radio.gov.pk:7007/stream?type=http&nocache=12",
+    "website": "http://www.radio.gov.pk/live-streaming",
+    "provider": "onlineradiobox",
+    "country": "Pakistan",
+    "genres": [
+      "rock",
+      "pop",
+      "jazz",
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:04:36+05:30"
+  },
+  {
+    "id": "onlineradiobox_pk.dil",
+    "name": "Dil FM Gujrat",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/26032.v7.png",
+    "stream_url": "http://158.69.26.40:9302/;",
+    "website": "http://www.fmdil.com/",
+    "provider": "onlineradiobox",
+    "country": "Pakistan",
+    "genres": [
+      "pop",
+      "bollywood",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:04:33+05:30"
+  },
+  {
+    "id": "onlineradiobox_pk.dilber94",
+    "name": "Radio Dilber Swabi",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/67590.v8.png",
+    "stream_url": "https://cc.vmakerhost.com/proxy/swabi?mp=/;stream.mp3",
+    "website": "http://www.radiodilber.pk/index.html",
+    "provider": "onlineradiobox",
+    "country": "Pakistan",
+    "genres": [
+      "rock",
+      "indian",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:02:44+05:30"
+  },
+  {
+    "id": "onlineradiobox_pk.djlive",
+    "name": "Djlive",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/136488.v3.png",
+    "stream_url": "https://stream.rcast.net/71089",
+    "website": "https://djlive.tiiny.site/",
+    "provider": "onlineradiobox",
+    "country": "Pakistan",
+    "genres": [
+      "rock",
+      "pop",
+      "classic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:04:39+05:30"
+  },
+  {
+    "id": "onlineradiobox_pk.dostii4ever",
+    "name": "Dostii4ever FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/102165.v2.png",
+    "stream_url": "https://stream.zeno.fm/srioe7d4q8uuv",
+    "website": "https://www.dostii4ever.com/",
+    "provider": "onlineradiobox",
+    "country": "Pakistan",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:04:35+05:30"
+  },
+  {
+    "id": "onlineradiobox_pk.dostiplace",
+    "name": "Dostiplace",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/67876.v12.png",
+    "stream_url": "https://fiverfix.net:9222/;stream.mp3",
+    "website": "http://dostiplace.com/",
+    "provider": "onlineradiobox",
+    "country": "Pakistan",
+    "genres": [
+      "indian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:03:45+05:30"
+  },
+  {
+    "id": "onlineradiobox_pk.dunyanews",
+    "name": "Dunya News",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/81576.v3.png",
+    "stream_url": "https://imob.dunyanews.tv/live/rddaudrgn.sdp/playlist.m3u8",
+    "website": "http://dunyanews.tv/live/",
+    "provider": "onlineradiobox",
+    "country": "Pakistan",
+    "genres": [
+      "news"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:02:41+05:30"
+  },
+  {
+    "id": "onlineradiobox_pk.externalservices",
+    "name": "External Services",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/67471.v13.png",
+    "stream_url": "https://whmsonic.radio.gov.pk:7006/stream",
+    "website": "http://www.radio.gov.pk/",
+    "provider": "onlineradiobox",
+    "country": "Pakistan",
+    "genres": [
+      "news",
+      "talk",
+      "islamic",
+      "culture",
+      "politics"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:03:50+05:30"
+  },
+  {
+    "id": "onlineradiobox_pk.fm91",
+    "name": "Radio1 FM91",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/67727.v5.png",
+    "stream_url": "https://cc.vmakerhost.com/proxy/karachi?mp=/stream",
+    "website": "https://www.fm91.com.pk/",
+    "provider": "onlineradiobox",
+    "country": "Pakistan",
+    "genres": [
+      "pop",
+      "talk",
+      "folk",
+      "islamic",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:03:37+05:30"
+  },
+  {
+    "id": "onlineradiobox_pk.fm93lahore",
+    "name": "FM 93 Lahore",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/67928.v20.png",
+    "stream_url": "https://whmsonic.radio.gov.pk:8088/stream",
+    "website": "http://www.radio.gov.pk/",
+    "provider": "onlineradiobox",
+    "country": "Pakistan",
+    "genres": [
+      "news",
+      "talk",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:03:35+05:30"
+  },
+  {
+    "id": "onlineradiobox_pk.fmworld",
+    "name": "FM World Pakistan",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/81975.v6.png",
+    "stream_url": "https://stream.zeno.fm/tty4gmu30ehvv//;",
+    "website": "https://www.fmworld.pk/",
+    "provider": "onlineradiobox",
+    "country": "Pakistan",
+    "genres": [
+      "news",
+      "asian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:02:51+05:30"
+  },
+  {
+    "id": "onlineradiobox_pk.funcafe",
+    "name": "FunCafe",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/67817.v6.png",
+    "stream_url": "https://radio.fun.cafe/radio/8800/radio.mp3?FunCafe",
+    "website": "http://www.fun.cafe/",
+    "provider": "onlineradiobox",
+    "country": "Pakistan",
+    "genres": [
+      "pop",
+      "indian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:03:37+05:30"
+  },
+  {
+    "id": "onlineradiobox_pk.funnypaki",
+    "name": "FunnyPaki",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/67818.v3.png",
+    "stream_url": "http://radiopaki.funnypaki.com:8886/;",
+    "website": "http://www.funnypaki.com/radio/",
+    "provider": "onlineradiobox",
+    "country": "Pakistan",
+    "genres": [
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:02:52+05:30"
+  },
+  {
+    "id": "onlineradiobox_pk.geonews",
+    "name": "Live Geo News",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/67865.v9.png",
+    "stream_url": "https://jk3lz82elw79-hls-live.5centscdn.com/GEONEWS/3500ba09d0538297440ca620c9dd46bf.sdp/GEONEWS/Backup1/playlist.m3u8",
+    "website": "https://live.geo.tv/radio.php",
+    "provider": "onlineradiobox",
+    "country": "Pakistan",
+    "genres": [
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:02:45+05:30"
+  },
+  {
+    "id": "onlineradiobox_pk.hot",
+    "name": "Hot FM 105",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/25936.v8.png",
+    "stream_url": "http://172.93.237.106:8000/;",
+    "website": "http://www.hotfm.com.pk/home.php",
+    "provider": "onlineradiobox",
+    "country": "Pakistan",
+    "genres": [
+      "pop",
+      "news",
+      "talk",
+      "indian",
+      "sports",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:02:46+05:30"
+  },
+  {
+    "id": "onlineradiobox_pk.hum106",
+    "name": "Hum FM 106",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/96264.v6.png",
+    "stream_url": "https://server.mediacast4u.stream/8002/stream;;",
+    "website": "https://humfm106.com/",
+    "provider": "onlineradiobox",
+    "country": "Pakistan",
+    "genres": [
+      "pop",
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:04:37+05:30"
+  },
+  {
+    "id": "onlineradiobox_pk.islamabad",
+    "name": "Islamabad Station",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/67475.v11.png",
+    "stream_url": "https://whmsonic.radio.gov.pk:7003/stream",
+    "website": "http://www.radio.gov.pk/",
+    "provider": "onlineradiobox",
+    "country": "Pakistan",
+    "genres": [
+      "news",
+      "talk",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:02:48+05:30"
+  },
+  {
+    "id": "onlineradiobox_pk.jeay",
+    "name": "Jeay FM Larkana",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/26064.v6.png",
+    "stream_url": "https://ssl.rockhost.com/proxy/larkana?mp=/stream",
+    "website": "https://jeayfm.com/site/",
+    "provider": "onlineradiobox",
+    "country": "Pakistan",
+    "genres": [
+      "pop",
+      "news",
+      "bollywood"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:03:41+05:30"
+  },
+  {
+    "id": "onlineradiobox_pk.kashmore",
+    "name": "Fm 104 Kashmore",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/124535.v3.png",
+    "stream_url": "http://freeuk22.listen2myradio.com:29618/;",
+    "website": "http://www.fm104kashmore.com/",
+    "provider": "onlineradiobox",
+    "country": "Pakistan",
+    "genres": [
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:04:38+05:30"
+  },
+  {
+    "id": "onlineradiobox_pk.khanewal97",
+    "name": "FM 97 Khanewal",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/67929.v6.png",
+    "stream_url": "https://s7.reliastream.com/proxy/tahash07?mp=/stream;",
+    "website": "http://www.radiojp.pk/",
+    "provider": "onlineradiobox",
+    "country": "Pakistan",
+    "genres": [
+      "pop",
+      "news",
+      "folk",
+      "indian",
+      "sports"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:03:51+05:30"
+  },
+  {
+    "id": "onlineradiobox_pk.kompis",
+    "name": "Kompis FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/90009.v2.png",
+    "stream_url": "https://eu2.fastcast4u.com/proxy/kompisfm?mp=/1",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Pakistan",
+    "genres": [
+      "pop",
+      "bollywood"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:03:49+05:30"
+  },
+  {
+    "id": "onlineradiobox_pk.libertybeats",
+    "name": "Liberty Beats Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/138087.v6.png",
+    "stream_url": "https://cast5.my-control-panel.com/proxy/libertybeats/stream",
+    "website": "https://tunein.radiohost.online/",
+    "provider": "onlineradiobox",
+    "country": "Pakistan",
+    "genres": [
+      "rock",
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:04:40+05:30"
+  },
+  {
+    "id": "onlineradiobox_pk.librafm",
+    "name": "Libra FM Bagh Azad kashmir Pakistan",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/66016.v10.png",
+    "stream_url": "https://stream.streamaudio.de:8000/libra-fm",
+    "website": "https://ajklibra.com/%D8%B1%DB%8C%DA%88%DB%8C%D9%88",
+    "provider": "onlineradiobox",
+    "country": "Pakistan",
+    "genres": [
+      "rock",
+      "blues",
+      "classic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:04:33+05:30"
+  },
+  {
+    "id": "onlineradiobox_pk.lifestyle",
+    "name": "Life Style Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/133674.v2.png",
+    "stream_url": "https://cast6.asurahosting.com/proxy/lifestyleradio/stream",
+    "website": "https://lifestyleradio.online/",
+    "provider": "onlineradiobox",
+    "country": "Pakistan",
+    "genres": [
+      "rock",
+      "pop",
+      "classic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:04:38+05:30"
+  },
+  {
+    "id": "onlineradiobox_pk.loveislam",
+    "name": "Love Islam Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/96114.v6.png",
+    "stream_url": "https://stream.zeno.fm/f9h69cgbu68uv",
+    "website": "http://www.loveislamradio.com/",
+    "provider": "onlineradiobox",
+    "country": "Pakistan",
+    "genres": [
+      "islamic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:02:50+05:30"
+  },
+  {
+    "id": "onlineradiobox_pk.lumhs966",
+    "name": "LUMHS FM 96.6",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/68880.v9.png",
+    "stream_url": "http://s2.free-shoutcast.com:18200/;",
+    "website": "http://www.lumhs.edu.pk/fm/",
+    "provider": "onlineradiobox",
+    "country": "Pakistan",
+    "genres": [
+      "news",
+      "talk",
+      "culture"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:03:42+05:30"
+  },
+  {
+    "id": "onlineradiobox_pk.mast",
+    "name": "Mast FM Lahore",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/26132.v10.png",
+    "stream_url": "https://mast103.com/lahore/",
+    "website": "https://www.mast103.com/",
+    "provider": "onlineradiobox",
+    "country": "Pakistan",
+    "genres": [
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:02:48+05:30"
+  },
+  {
+    "id": "onlineradiobox_pk.mastiexpress",
+    "name": "Radio Masti Express - RMX",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/26056.v5.png",
+    "stream_url": "http://eu8.fastcast4u.com/proxy/itsmajidshabbir?mp=/1",
+    "website": "https://mastiexpress.net/",
+    "provider": "onlineradiobox",
+    "country": "Pakistan",
+    "genres": [
+      "jazz"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:04:45+05:30"
+  },
+  {
+    "id": "onlineradiobox_pk.mirpur107",
+    "name": "Spice FM107",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/67572.v10.png",
+    "stream_url": "https://s5.myradiostream.com/42724/listen.mp3?0.9724205635133212",
+    "website": "https://spicefm107.webnode.co.uk/",
+    "provider": "onlineradiobox",
+    "country": "Pakistan",
+    "genres": [
+      "news",
+      "indian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:02:42+05:30"
+  },
+  {
+    "id": "onlineradiobox_pk.mixchatroom",
+    "name": "Mix Chat Room Online Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/81578.v9.png",
+    "stream_url": "https://ec1.everestcast.host/awamichat",
+    "website": "https://www.mixchatroom.com/",
+    "provider": "onlineradiobox",
+    "country": "Pakistan",
+    "genres": [
+      "pop",
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:03:40+05:30"
+  },
+  {
+    "id": "onlineradiobox_pk.mychatcafe",
+    "name": "mychatcafe",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/101221.v2.png",
+    "stream_url": "https://stream.zeno.fm/8na18w2mcq8uv",
+    "website": "https://mychatcafe.com/",
+    "provider": "onlineradiobox",
+    "country": "Pakistan",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:03:44+05:30"
+  },
+  {
+    "id": "onlineradiobox_pk.ncac",
+    "name": "NCAC",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/67474.v10.png",
+    "stream_url": "https://whmsonic.radio.gov.pk:7004/stream",
+    "website": "http://www.radio.gov.pk/",
+    "provider": "onlineradiobox",
+    "country": "Pakistan",
+    "genres": [
+      "news",
+      "talk",
+      "islamic",
+      "culture",
+      "entertainment",
+      "politics"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:02:53+05:30"
+  },
+  {
+    "id": "onlineradiobox_pk.nhmp",
+    "name": "Road Safety FM 95 NHMP National Highways &amp; Motorway Police",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/96176.v15.png",
+    "stream_url": "http://37.157.242.104:22002/;",
+    "website": "http://nhmp.gov.pk/",
+    "provider": "onlineradiobox",
+    "country": "Pakistan",
+    "genres": [
+      "rock",
+      "pop",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:02:49+05:30"
+  },
+  {
+    "id": "onlineradiobox_pk.outfittersstores",
+    "name": "Outfitters Stores",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/145339.v1.png",
+    "stream_url": "https://listen.radioking.com/radio/684108/stream/748638",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Pakistan",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:04:41+05:30"
+  },
+  {
+    "id": "onlineradiobox_pk.pakfilmi",
+    "name": "Radio Pak Filmi",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/25949.v3.png",
+    "stream_url": "http://74.91.125.187:8214/stream/;",
+    "website": "http://www.pakfilmi.com/",
+    "provider": "onlineradiobox",
+    "country": "Pakistan",
+    "genres": [
+      "classic",
+      "oldies"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:02:45+05:30"
+  },
+  {
+    "id": "onlineradiobox_pk.pakistan",
+    "name": "World Service",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/25900.v18.png",
+    "stream_url": "https://whmsonic.radio.gov.pk:7005/stream",
+    "website": "http://www.radio.gov.pk/",
+    "provider": "onlineradiobox",
+    "country": "Pakistan",
+    "genres": [
+      "news",
+      "talk",
+      "islamic",
+      "politics"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:02:49+05:30"
+  },
+  {
+    "id": "onlineradiobox_pk.pakistanbahawalpur",
+    "name": "Radio Pakistan Bahawalpur",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/96122.v6.png",
+    "stream_url": "https://freeuk4.listen2myradio.com/live.mp3?typeportmount=s1_39538_stream_130319815;stream.nsv;",
+    "website": "https://pbcbwp.webs.com/",
+    "provider": "onlineradiobox",
+    "country": "Pakistan",
+    "genres": [
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:04:36+05:30"
+  },
+  {
+    "id": "onlineradiobox_pk.pakistanichatrooms",
+    "name": "Pakistanichatrooms",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/106856.v2.png",
+    "stream_url": "https://stream.zeno.fm/uh4cw60df18uv",
+    "website": "https://pakistanichatrooms.com.pk/",
+    "provider": "onlineradiobox",
+    "country": "Pakistan",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:03:38+05:30"
+  },
+  {
+    "id": "onlineradiobox_pk.pakistanichatrooms105",
+    "name": "Pakistani Chat Rooms",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/151503.v1.png",
+    "stream_url": "https://radio.pakistanichatrooms.com/listen/funcafe/stream",
+    "website": "https://pakistanichatrooms.com/",
+    "provider": "onlineradiobox",
+    "country": "Pakistan",
+    "genres": [
+      "pop",
+      "bollywood",
+      "hindu"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:04:39+05:30"
+  },
+  {
+    "id": "onlineradiobox_pk.pakistanlahore",
+    "name": "Radio Pakistan Lahore",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/76863.v6.png",
+    "stream_url": "https://radio.gov.pk/images/Radio%20Kashmir%20-%20Stereo%20Out.mp3",
+    "website": "http://www.radio.gov.pk/",
+    "provider": "onlineradiobox",
+    "country": "Pakistan",
+    "genres": [
+      "news",
+      "talk",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:02:43+05:30"
+  },
+  {
+    "id": "onlineradiobox_pk.pakistanlivefam",
+    "name": "Pakistanlivefm",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/67819.v10.png",
+    "stream_url": "https://sonic01.instainternet.com:7012/;?",
+    "website": "https://pakistanlivefm.com/",
+    "provider": "onlineradiobox",
+    "country": "Pakistan",
+    "genres": [
+      "indian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:03:46+05:30"
+  },
+  {
+    "id": "onlineradiobox_pk.pbcplanet94",
+    "name": "Dhanak FM94",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/96181.v6.png",
+    "stream_url": "http://210.56.24.230:8002/;",
+    "website": "https://www.radio.gov.pk/",
+    "provider": "onlineradiobox",
+    "country": "Pakistan",
+    "genres": [
+      "classic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:03:52+05:30"
+  },
+  {
+    "id": "onlineradiobox_pk.peace68",
+    "name": "Peace FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/107704.v1.png",
+    "stream_url": "https://stream.zeno.fm/ry17km30x68uv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Pakistan",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:03:48+05:30"
+  },
+  {
+    "id": "onlineradiobox_pk.power",
+    "name": "Power Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/25941.v10.png",
+    "stream_url": "https://cors-proxy.elfsight.com/http://141.136.42.250:9000/stream.mp3",
+    "website": "https://power99.live/",
+    "provider": "onlineradiobox",
+    "country": "Pakistan",
+    "genres": [
+      "news",
+      "talk",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:02:50+05:30"
+  },
+  {
+    "id": "onlineradiobox_pk.prime92",
+    "name": "Prime FM 92",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/105172.v3.png",
+    "stream_url": "https://stream.zeno.fm/cxm3rzgbckhvv",
+    "website": "http://www.primefm92.com/",
+    "provider": "onlineradiobox",
+    "country": "Pakistan",
+    "genres": [
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:03:52+05:30"
+  },
+  {
+    "id": "onlineradiobox_pk.riphahislamabad",
+    "name": "Riphah FM 102.2",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/67582.v6.png",
+    "stream_url": "http://162.244.80.106:11470/stream/1/",
+    "website": "https://www.riphah.edu.pk/fm-radio/",
+    "provider": "onlineradiobox",
+    "country": "Pakistan",
+    "genres": [
+      "talk",
+      "islamic",
+      "education",
+      "community"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:03:36+05:30"
+  },
+  {
+    "id": "onlineradiobox_pk.rock92",
+    "name": "Radio Rock 92 FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/133589.v3.png",
+    "stream_url": "https://stream.zeno.fm/pjsno4cdel1uv",
+    "website": "https://zeno.fm/radio/fm-92-network/",
+    "provider": "onlineradiobox",
+    "country": "Pakistan",
+    "genres": [
+      "rock",
+      "pop",
+      "jazz",
+      "bollywood",
+      "indian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:04:41+05:30"
+  },
+  {
+    "id": "onlineradiobox_pk.rockcity",
+    "name": "Rock City",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/136707.v21.png",
+    "stream_url": "http://178.33.135.244:2528/stream",
+    "website": "https://sites.google.com/view/smashinguitars/rock-city-radio",
+    "provider": "onlineradiobox",
+    "country": "Pakistan",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:04:44+05:30"
+  },
+  {
+    "id": "onlineradiobox_pk.rose",
+    "name": "Rose FM 90",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/26051.v11.png",
+    "stream_url": "https://stream.zeno.fm/it0dtirqvaluv",
+    "website": "https://rosefm90.com/",
+    "provider": "onlineradiobox",
+    "country": "Pakistan",
+    "genres": [
+      "pop",
+      "bollywood",
+      "top40",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:02:51+05:30"
+  },
+  {
+    "id": "onlineradiobox_pk.samaa",
+    "name": "MERA FM 107.4",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/25929.v14.png",
+    "stream_url": "https://samaalhr107-itelservices.radioca.st/stream",
+    "website": "https://www.merafm.com/",
+    "provider": "onlineradiobox",
+    "country": "Pakistan",
+    "genres": [
+      "pop",
+      "news",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:02:44+05:30"
+  },
+  {
+    "id": "onlineradiobox_pk.sargodha",
+    "name": "Sargodha",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/112879.v5.png",
+    "stream_url": "https://stream.zeno.fm/7d7w85kxpfhvv",
+    "website": "https://sargodha.net/",
+    "provider": "onlineradiobox",
+    "country": "Pakistan",
+    "genres": [
+      "pop",
+      "news"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:03:47+05:30"
+  },
+  {
+    "id": "onlineradiobox_pk.sautulquranchanel",
+    "name": "Saut Ul Quran",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/26138.v16.png",
+    "stream_url": "https://whmsonic.radio.gov.pk:7002/stream?type=http&nocache=12",
+    "website": "http://www.radio.gov.pk/",
+    "provider": "onlineradiobox",
+    "country": "Pakistan",
+    "genres": [
+      "news",
+      "talk",
+      "islamic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:02:40+05:30"
+  },
+  {
+    "id": "onlineradiobox_pk.shamal",
+    "name": "Shamal Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/96115.v4.png",
+    "stream_url": "http://5.9.71.122:8320/;stream.mp3",
+    "website": "http://shamalradio.com/",
+    "provider": "onlineradiobox",
+    "country": "Pakistan",
+    "genres": [
+      "pop",
+      "talk",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:04:46+05:30"
+  },
+  {
+    "id": "onlineradiobox_pk.shopenanime",
+    "name": "Shopen Anime Radio Station",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/118815.v6.png",
+    "stream_url": "https://s97.radiolize.com:8040/radio.mp3",
+    "website": "https://shopen.pk/",
+    "provider": "onlineradiobox",
+    "country": "Pakistan",
+    "genres": [
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:03:46+05:30"
+  },
+  {
+    "id": "onlineradiobox_pk.sindhpolice",
+    "name": "Sindh Police FM 88.6",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/95948.v6.png",
+    "stream_url": "https://sindhpolice-awazradionetwork.radioca.st/stream",
+    "website": "http://sindhpolicefm.com/",
+    "provider": "onlineradiobox",
+    "country": "Pakistan",
+    "genres": [
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:04:44+05:30"
+  },
+  {
+    "id": "onlineradiobox_pk.smile",
+    "name": "Smile Fm 88.6",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/26738.v9.png",
+    "stream_url": "https://cc.vmakerhost.com/proxy/smile?mp=/live",
+    "website": "http://www.smilefm.pk/",
+    "provider": "onlineradiobox",
+    "country": "Pakistan",
+    "genres": [
+      "pop",
+      "news",
+      "talk",
+      "folk",
+      "culture",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:03:44+05:30"
+  },
+  {
+    "id": "onlineradiobox_pk.smiuniversity",
+    "name": "SMI University",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/95944.v3.png",
+    "stream_url": "https://s30.myradiostream.com/28364/listen.mp3",
+    "website": "https://smiu.fm/",
+    "provider": "onlineradiobox",
+    "country": "Pakistan",
+    "genres": [
+      "education"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:04:42+05:30"
+  },
+  {
+    "id": "onlineradiobox_pk.sunourdu",
+    "name": "Suno Pakistan Urdu",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/67537.v6.png",
+    "stream_url": "https://sunofm.anms.pk/URDU",
+    "website": "http://www.sunofm894.com/",
+    "provider": "onlineradiobox",
+    "country": "Pakistan",
+    "genres": [
+      "pop",
+      "news",
+      "culture",
+      "education",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:02:52+05:30"
+  },
+  {
+    "id": "onlineradiobox_pk.swat",
+    "name": "Radio Swat",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/96140.v3.png",
+    "stream_url": "https://freeuk6.listen2myradio.com/live.mp3?typeportmount=s1_32867_stream_847622298",
+    "website": "https://radioswatfm100.radio12345.com/",
+    "provider": "onlineradiobox",
+    "country": "Pakistan",
+    "genres": [
+      "pop",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:03:39+05:30"
+  },
+  {
+    "id": "onlineradiobox_pk.vokfm",
+    "name": "VOK FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/97376.v4.png",
+    "stream_url": "https://cc.vmakerhost.com/proxy/voknetwork?mp=/bagh",
+    "website": "https://vokfm.com.pk/",
+    "provider": "onlineradiobox",
+    "country": "Pakistan",
+    "genres": [
+      "news",
+      "talk",
+      "islamic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:04:43+05:30"
+  }
+]

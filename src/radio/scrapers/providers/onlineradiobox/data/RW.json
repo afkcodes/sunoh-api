@@ -1,0 +1,1603 @@
+[
+  {
+    "id": "onlineradiobox_rw.1mnmix",
+    "name": "Mixxx fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/139333.v7.png",
+    "stream_url": "https://stream.zeno.fm/v6zchonlwpguv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Rwanda",
+    "genres": [
+      "r'n'b",
+      "pop",
+      "afro beat"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:33:46+05:30"
+  },
+  {
+    "id": "onlineradiobox_rw.928authentic",
+    "name": "92.8 Radio O",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/101635.v9.png",
+    "stream_url": "https://stream.zeno.fm/wek79fxvy7zuv",
+    "website": "https://zeno.fm/radio/92-8-radio-o/",
+    "provider": "onlineradiobox",
+    "country": "Rwanda",
+    "genres": [
+      "gospel",
+      "christian rock",
+      "christian contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:33:00+05:30"
+  },
+  {
+    "id": "onlineradiobox_rw.afia",
+    "name": "Radio Afia",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/146437.v1.png",
+    "stream_url": "https://stream.zeno.fm/66aet2uzcruuv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Rwanda",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:34:44+05:30"
+  },
+  {
+    "id": "onlineradiobox_rw.afrokast",
+    "name": "Afrokast Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/135248.v1.png",
+    "stream_url": "https://stream.zeno.fm/ph22u7qdf0ttv",
+    "website": "https://afrokast.com/",
+    "provider": "onlineradiobox",
+    "country": "Rwanda",
+    "genres": [
+      "hip-hop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:34:49+05:30"
+  },
+  {
+    "id": "onlineradiobox_rw.ahupavisual",
+    "name": "Ahupa Visual Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/112134.v3.png",
+    "stream_url": "https://stream.zeno.fm/mptnyfvb7ehvv",
+    "website": "https://ahuparadio.com/",
+    "provider": "onlineradiobox",
+    "country": "Rwanda",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:33:55+05:30"
+  },
+  {
+    "id": "onlineradiobox_rw.angels",
+    "name": "ANGELS Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/107420.v5.png",
+    "stream_url": "https://stream.zeno.fm/z8yz4hfdwg0uv",
+    "website": "https://zeno.fm/radio/angels-radio/",
+    "provider": "onlineradiobox",
+    "country": "Rwanda",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:35:17+05:30"
+  },
+  {
+    "id": "onlineradiobox_rw.antennawebkigali",
+    "name": "Antenna Web Kigali",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/134705.v1.png",
+    "stream_url": "https://tinyurl.com/AntennaWebKigali",
+    "website": "https://antennaweb.it/antennaweb-kigali/",
+    "provider": "onlineradiobox",
+    "country": "Rwanda",
+    "genres": [
+      "rock",
+      "pop",
+      "blues",
+      "jazz",
+      "funk",
+      "reggaeton"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:35:16+05:30"
+  },
+  {
+    "id": "onlineradiobox_rw.bbkigali",
+    "name": "B&amp;B Kigali 89.7FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/143176.v1.png",
+    "stream_url": "https://eu4.fastcast4u.com/proxy/bbkigali?mp=/1",
+    "website": "https://www.bbkigalifm.com/",
+    "provider": "onlineradiobox",
+    "country": "Rwanda",
+    "genres": [
+      "sports"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:32:49+05:30"
+  },
+  {
+    "id": "onlineradiobox_rw.bethel",
+    "name": "Bethel Radio (RW)",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/92304.v11.png",
+    "stream_url": "https://a5.asurahosting.com:7290/Rwanda",
+    "website": "https://bethelradio.co.tz/",
+    "provider": "onlineradiobox",
+    "country": "Rwanda",
+    "genres": [
+      "gospel",
+      "christian contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:33:05+05:30"
+  },
+  {
+    "id": "onlineradiobox_rw.big",
+    "name": "BIG FM KIGALI",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/136095.v3.png",
+    "stream_url": "https://stream.zeno.fm/go62rqbvsjruv",
+    "website": "https://zeno.fm/radio/big-fm-kigali/",
+    "provider": "onlineradiobox",
+    "country": "Rwanda",
+    "genres": [
+      "pop",
+      "talk",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:33:50+05:30"
+  },
+  {
+    "id": "onlineradiobox_rw.bigbase",
+    "name": "Big Base Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/147213.v1.png",
+    "stream_url": "https://stream.zeno.fm/x0jltgjowkkuv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Rwanda",
+    "genres": [
+      "dance",
+      "r'n'b",
+      "jazz",
+      "hip-hop",
+      "soul",
+      "reggae"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:35:20+05:30"
+  },
+  {
+    "id": "onlineradiobox_rw.bigtelevisionnetwork",
+    "name": "The Big Television Network Radio (BTN Radio)",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/96807.v5.png",
+    "stream_url": "https://stream.zeno.fm/0a2rkwhxwd0uv",
+    "website": "https://zeno.fm/radio/big-television-network-radio/",
+    "provider": "onlineradiobox",
+    "country": "Rwanda",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:33:51+05:30"
+  },
+  {
+    "id": "onlineradiobox_rw.biryogo",
+    "name": "Biryogo Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/127293.v3.png",
+    "stream_url": "https://stream.zeno.fm/2s9n4rwjlyuvv",
+    "website": "http://lineup.rw/",
+    "provider": "onlineradiobox",
+    "country": "Rwanda",
+    "genres": [
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:33:49+05:30"
+  },
+  {
+    "id": "onlineradiobox_rw.boisdebene",
+    "name": "Bois d&#39;Ebene",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/85933.v5.png",
+    "stream_url": "https://stream.zeno.fm/utunwpbaptzuv",
+    "website": "https://zeno.fm/bois-debene/",
+    "provider": "onlineradiobox",
+    "country": "Rwanda",
+    "genres": [
+      "rock",
+      "classic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:33:50+05:30"
+  },
+  {
+    "id": "onlineradiobox_rw.brm",
+    "name": "Radio KIME Karongi",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/107211.v9.png",
+    "stream_url": "https://stream.zeno.fm/kxg1skuq638uv",
+    "website": "https://kimelive.com/",
+    "provider": "onlineradiobox",
+    "country": "Rwanda",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:33:48+05:30"
+  },
+  {
+    "id": "onlineradiobox_rw.capital",
+    "name": "103.5 Capital Fm Kigali",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/121244.v8.png",
+    "stream_url": "https://stream.zeno.fm/wmf5p1176juvv",
+    "website": "https://capitalfmkigali.com/",
+    "provider": "onlineradiobox",
+    "country": "Rwanda",
+    "genres": [
+      "top40",
+      "african",
+      "afro beat"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:32:54+05:30"
+  },
+  {
+    "id": "onlineradiobox_rw.classic",
+    "name": "Classic Fm Kigali",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/125792.v3.png",
+    "stream_url": "https://stream.zeno.fm/4yvxkrz7sjpvv",
+    "website": "https://ntwalimukama1.wixsite.com/classicfm",
+    "provider": "onlineradiobox",
+    "country": "Rwanda",
+    "genres": [
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:34:43+05:30"
+  },
+  {
+    "id": "onlineradiobox_rw.cnmstation",
+    "name": "CNM Station",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/101847.v4.png",
+    "stream_url": "https://stream.zeno.fm/ewcnhntrbq8uv",
+    "website": "https://cfnmin.org/",
+    "provider": "onlineradiobox",
+    "country": "Rwanda",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:33:47+05:30"
+  },
+  {
+    "id": "onlineradiobox_rw.dovelife",
+    "name": "Dove Life Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/136762.v3.png",
+    "stream_url": "http://uk21freenew.listen2myradio.com:32470/;",
+    "website": "https://liferadio.rw/",
+    "provider": "onlineradiobox",
+    "country": "Rwanda",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:35:21+05:30"
+  },
+  {
+    "id": "onlineradiobox_rw.dreams",
+    "name": "Dreams Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/112228.v1.png",
+    "stream_url": "https://stream.zeno.fm/necesdv59ehvv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Rwanda",
+    "genres": [
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:35:16+05:30"
+  },
+  {
+    "id": "onlineradiobox_rw.dusabane",
+    "name": "Dusabane Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/103466.v2.png",
+    "stream_url": "https://stream.zeno.fm/dyp3x44fns8uv",
+    "website": "http://www.dusabane.com/",
+    "provider": "onlineradiobox",
+    "country": "Rwanda",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:33:03+05:30"
+  },
+  {
+    "id": "onlineradiobox_rw.energy",
+    "name": "Energy Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/77686.v11.png",
+    "stream_url": "https://eu7.fastcast4u.com/proxy/energy?mp=/1",
+    "website": "http://energy.rw/",
+    "provider": "onlineradiobox",
+    "country": "Rwanda",
+    "genres": [
+      "r'n'b",
+      "pop",
+      "hip-hop",
+      "reggae",
+      "african",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:32:59+05:30"
+  },
+  {
+    "id": "onlineradiobox_rw.fine",
+    "name": "Fine Fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/98231.v9.png",
+    "stream_url": "https://stream.rcast.net/73408",
+    "website": "https://zeno.fm/fine-fm/",
+    "provider": "onlineradiobox",
+    "country": "Rwanda",
+    "genres": [
+      "pop",
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:32:57+05:30"
+  },
+  {
+    "id": "onlineradiobox_rw.flash",
+    "name": "Flash FM Rwanda",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/47494.v11.png",
+    "stream_url": "http://80.241.215.175:7410/;",
+    "website": "https://flash.rw/",
+    "provider": "onlineradiobox",
+    "country": "Rwanda",
+    "genres": [
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:32:52+05:30"
+  },
+  {
+    "id": "onlineradiobox_rw.gendananigihe",
+    "name": "Gendana n&#39;Igihe Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/144350.v1.png",
+    "stream_url": "https://stream.zeno.fm/1ev107turnhvv",
+    "website": "https://zeno.fm/radio/gendana-nigihe-radio/",
+    "provider": "onlineradiobox",
+    "country": "Rwanda",
+    "genres": [
+      "pop",
+      "news",
+      "talk",
+      "folk",
+      "african",
+      "culture",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:35:22+05:30"
+  },
+  {
+    "id": "onlineradiobox_rw.globalvibe",
+    "name": "Eagle Wing Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/142859.v7.png",
+    "stream_url": "https://stream.zeno.fm/lvevqgla7kstv",
+    "website": "http://eaglewingnews.com/",
+    "provider": "onlineradiobox",
+    "country": "Rwanda",
+    "genres": [
+      "r'n'b",
+      "pop",
+      "news",
+      "talk",
+      "hip-hop",
+      "reggae",
+      "gospel",
+      "afro beat"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:34:46+05:30"
+  },
+  {
+    "id": "onlineradiobox_rw.gloriousnewness",
+    "name": "Glorious Newness Radio (rwanda)",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/148236.v1.png",
+    "stream_url": "https://a11.asurahosting.com:7360/rwanda.mp3",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Rwanda",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:34:47+05:30"
+  },
+  {
+    "id": "onlineradiobox_rw.go24",
+    "name": "GO24 RADIO",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/114900.v3.png",
+    "stream_url": "https://stream.zeno.fm/rm4t3ty9rrhvv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Rwanda",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:34:40+05:30"
+  },
+  {
+    "id": "onlineradiobox_rw.herorwanda",
+    "name": "Hero Radio (Rwanda)",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/138748.v4.png",
+    "stream_url": "https://a2.asurahosting.com:6790/rwanda.mp3",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Rwanda",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:34:38+05:30"
+  },
+  {
+    "id": "onlineradiobox_rw.highline",
+    "name": "High Line Fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/139768.v1.png",
+    "stream_url": "https://stream.zeno.fm/rkzws6xemuwuv",
+    "website": "https://zeno.fm/high-line-fm",
+    "provider": "onlineradiobox",
+    "country": "Rwanda",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:34:48+05:30"
+  },
+  {
+    "id": "onlineradiobox_rw.hose",
+    "name": "Hose Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/89591.v2.png",
+    "stream_url": "https://stream.zeno.fm/ys02hune31zuv",
+    "website": "https://zeno.fm/hose-radio/",
+    "provider": "onlineradiobox",
+    "country": "Rwanda",
+    "genres": [
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:33:52+05:30"
+  },
+  {
+    "id": "onlineradiobox_rw.huye",
+    "name": "Radio Huye",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/109026.v8.png",
+    "stream_url": "http://listen.rba.co.rw:5050/;",
+    "website": "https://www.rba.co.rw/",
+    "provider": "onlineradiobox",
+    "country": "Rwanda",
+    "genres": [
+      "pop",
+      "news"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:35:22+05:30"
+  },
+  {
+    "id": "onlineradiobox_rw.ibyiringirobyacu",
+    "name": "Ibyiringiro Byacu Radio/tv",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/132294.v2.png",
+    "stream_url": "https://stream.zeno.fm/zwav88by1ehvv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Rwanda",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:34:39+05:30"
+  },
+  {
+    "id": "onlineradiobox_rw.ijwiryagare",
+    "name": "Radio Ijwi Rya Gare",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/87853.v10.png",
+    "stream_url": "https://stream.rcast.net/73390",
+    "website": "https://zeno.fm/radio/radio-ijwi-rya-gare/",
+    "provider": "onlineradiobox",
+    "country": "Rwanda",
+    "genres": [
+      "pop",
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:32:53+05:30"
+  },
+  {
+    "id": "onlineradiobox_rw.ijwiryubugorozi",
+    "name": "Ijwi ry Ubugorozi",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/145855.v2.png",
+    "stream_url": "https://listen.radioking.com/radio/627886/stream/690256",
+    "website": "https://www.reformationvoice.org/en",
+    "provider": "onlineradiobox",
+    "country": "Rwanda",
+    "genres": [],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:34:43+05:30"
+  },
+  {
+    "id": "onlineradiobox_rw.ikosora",
+    "name": "Ikosora Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/130616.v1.png",
+    "stream_url": "https://stream.zeno.fm/apzbkv76zf9uv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Rwanda",
+    "genres": [
+      "pop",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:35:23+05:30"
+  },
+  {
+    "id": "onlineradiobox_rw.imanzi",
+    "name": "Radio Imanzi 105.1FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/138829.v4.png",
+    "stream_url": "https://sapircast.caster.fm:11954/WSzjc",
+    "website": "https://www.radioimanzi.com/",
+    "provider": "onlineradiobox",
+    "country": "Rwanda",
+    "genres": [
+      "r'n'b",
+      "classic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:34:45+05:30"
+  },
+  {
+    "id": "onlineradiobox_rw.imbaraga",
+    "name": "Imbaraga Internet Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/47499.v4.png",
+    "stream_url": "http://66.55.145.43:7473/stream",
+    "website": "https://www.imbaragaradio.com/",
+    "provider": "onlineradiobox",
+    "country": "Rwanda",
+    "genres": [
+      "pop",
+      "news",
+      "hip-hop",
+      "top40",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:33:04+05:30"
+  },
+  {
+    "id": "onlineradiobox_rw.inezastar",
+    "name": "InezaStar Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/135908.v8.png",
+    "stream_url": "https://stream.zeno.fm/tyjc7tt2ozmvv",
+    "website": "https://inezastarradio.blogspot.com/",
+    "provider": "onlineradiobox",
+    "country": "Rwanda",
+    "genres": [
+      "pop",
+      "news",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:33:48+05:30"
+  },
+  {
+    "id": "onlineradiobox_rw.isangostar",
+    "name": "Radio Isango Star",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/47491.v5.png",
+    "stream_url": "http://80.241.215.175:8000/;",
+    "website": "http://www.isangostar.rw/",
+    "provider": "onlineradiobox",
+    "country": "Rwanda",
+    "genres": [
+      "news",
+      "talk",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:32:53+05:30"
+  },
+  {
+    "id": "onlineradiobox_rw.ishingiro",
+    "name": "RADIO ISHINGIRO 107.5 FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/147573.v4.png",
+    "stream_url": "https://stream.zeno.fm/4t1v3cv9asyuv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Rwanda",
+    "genres": [
+      "news",
+      "talk",
+      "drama"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:34:42+05:30"
+  },
+  {
+    "id": "onlineradiobox_rw.izuba",
+    "name": "Izuba Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/147433.v5.png",
+    "stream_url": "https://stream.zeno.fm/1bw3cmzh2v8uv",
+    "website": "https://izubaradiotv.rw/radio",
+    "provider": "onlineradiobox",
+    "country": "Rwanda",
+    "genres": [
+      "news",
+      "politics"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:33:55+05:30"
+  },
+  {
+    "id": "onlineradiobox_rw.kasuku",
+    "name": "Kasuku Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/136438.v1.png",
+    "stream_url": "https://stream.zeno.fm/is35wivzvfjtv",
+    "website": "https://kasukumedia.com/",
+    "provider": "onlineradiobox",
+    "country": "Rwanda",
+    "genres": [
+      "rock",
+      "pop",
+      "heavy metal",
+      "blues",
+      "jazz",
+      "classic",
+      "hip-hop",
+      "country"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:34:47+05:30"
+  },
+  {
+    "id": "onlineradiobox_rw.key",
+    "name": "94.5 KEY FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/137245.v5.png",
+    "stream_url": "https://stream.zeno.fm/xvdahws8w6rtv",
+    "website": "https://ima.rw/",
+    "provider": "onlineradiobox",
+    "country": "Rwanda",
+    "genres": [
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:34:45+05:30"
+  },
+  {
+    "id": "onlineradiobox_rw.kigaliconnect",
+    "name": "KC Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/141327.v5.png",
+    "stream_url": "https://stream.zeno.fm/tpgvk3y7dp3tv",
+    "website": "https://kigaliconnect.com/",
+    "provider": "onlineradiobox",
+    "country": "Rwanda",
+    "genres": [
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:35:18+05:30"
+  },
+  {
+    "id": "onlineradiobox_rw.kigaligroove",
+    "name": "Kigali Groove Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/139746.v1.png",
+    "stream_url": "https://stream.zeno.fm/q1fyuhh8v0hvv",
+    "website": "https://www.kigalicityguide.com/",
+    "provider": "onlineradiobox",
+    "country": "Rwanda",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:34:39+05:30"
+  },
+  {
+    "id": "onlineradiobox_rw.kigaliyacu",
+    "name": "Kigali yacu",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/105639.v2.png",
+    "stream_url": "https://stream.zeno.fm/1m29g6tg308uv",
+    "website": "https://zeno.fm/kigali-yacu-online-radio/",
+    "provider": "onlineradiobox",
+    "country": "Rwanda",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:33:52+05:30"
+  },
+  {
+    "id": "onlineradiobox_rw.kt",
+    "name": "KT RADIO",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/47649.v5.png",
+    "stream_url": "http://197.243.1.130:8006/k2dlivemp3",
+    "website": "http://www.ktradio.rw/",
+    "provider": "onlineradiobox",
+    "country": "Rwanda",
+    "genres": [
+      "news",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:32:51+05:30"
+  },
+  {
+    "id": "onlineradiobox_rw.kubright",
+    "name": "KU Bright FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/94811.v3.png",
+    "stream_url": "https://stream.zeno.fm/00dfaapsmd0uv",
+    "website": "http://kigaliupdates.com/",
+    "provider": "onlineradiobox",
+    "country": "Rwanda",
+    "genres": [
+      "rock",
+      "classic",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:33:01+05:30"
+  },
+  {
+    "id": "onlineradiobox_rw.livingwordchurch",
+    "name": "Living Word Church Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/113794.v7.png",
+    "stream_url": "https://stream.zeno.fm/r4f2ns42ekhvv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Rwanda",
+    "genres": [
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:33:54+05:30"
+  },
+  {
+    "id": "onlineradiobox_rw.lrcm",
+    "name": "LRCM Radio (Rwanda)",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/152273.v3.png",
+    "stream_url": "https://a8.asurahosting.com:8950/rwanda.mp3",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Rwanda",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:35:17+05:30"
+  },
+  {
+    "id": "onlineradiobox_rw.magic",
+    "name": "Magic FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/47415.v6.png",
+    "stream_url": "http://listen.rba.co.rw:8080/;",
+    "website": "http://www.rba.co.rw/radio/7/Magic-Fm",
+    "provider": "onlineradiobox",
+    "country": "Rwanda",
+    "genres": [
+      "pop",
+      "news",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:32:50+05:30"
+  },
+  {
+    "id": "onlineradiobox_rw.menyatips",
+    "name": "MenyaTips Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/120468.v5.png",
+    "stream_url": "https://stream.zeno.fm/hgezozdttrrvv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Rwanda",
+    "genres": [
+      "news",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:34:40+05:30"
+  },
+  {
+    "id": "onlineradiobox_rw.musanze",
+    "name": "Radio Musanze",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/109025.v6.png",
+    "stream_url": "http://listen.rba.co.rw:5000/;",
+    "website": "https://www.rba.co.rw/",
+    "provider": "onlineradiobox",
+    "country": "Rwanda",
+    "genres": [
+      "pop",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:33:54+05:30"
+  },
+  {
+    "id": "onlineradiobox_rw.nufashwayafasha",
+    "name": "Nufashwa Yafasha Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/82514.v5.png",
+    "stream_url": "https://stream.zeno.fm/b6n0aqzvdhruv",
+    "website": "https://nufashwa-yafasha.blogspot.com/",
+    "provider": "onlineradiobox",
+    "country": "Rwanda",
+    "genres": [
+      "rock",
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:33:05+05:30"
+  },
+  {
+    "id": "onlineradiobox_rw.nyagatare",
+    "name": "Radio Nyagatare",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/109028.v5.png",
+    "stream_url": "http://listen.rba.co.rw:3050/rcnyagatare",
+    "website": "https://www.rba.co.rw/",
+    "provider": "onlineradiobox",
+    "country": "Rwanda",
+    "genres": [
+      "pop",
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:34:38+05:30"
+  },
+  {
+    "id": "onlineradiobox_rw.onlinestation",
+    "name": "Online Radio Station",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/112095.v7.png",
+    "stream_url": "https://stream.zeno.fm/y0px28by1ehvv",
+    "website": "https://onlineservices.co.rw/",
+    "provider": "onlineradiobox",
+    "country": "Rwanda",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:33:49+05:30"
+  },
+  {
+    "id": "onlineradiobox_rw.polo",
+    "name": "Polo Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/82269.v14.png",
+    "stream_url": "https://stream.zeno.fm/mwqqavavdhruv",
+    "website": "https://poloclaude.blogspot.com/",
+    "provider": "onlineradiobox",
+    "country": "Rwanda",
+    "genres": [
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:32:55+05:30"
+  },
+  {
+    "id": "onlineradiobox_rw.power",
+    "name": "104.1 Power Fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/152265.v1.png",
+    "stream_url": "https://stream.casthost.net/listen/vision_radio_ltd1/radio.mp3",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Rwanda",
+    "genres": [
+      "news",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:33:44+05:30"
+  },
+  {
+    "id": "onlineradiobox_rw.radio10",
+    "name": "Radio10",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/47495.v1.png",
+    "stream_url": "https://radio10rwanda-atunwadigital.streamguys1.com/Radio10Rwanda",
+    "website": "https://radiotv10.rw/",
+    "provider": "onlineradiobox",
+    "country": "Rwanda",
+    "genres": [
+      "news",
+      "talk",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:32:51+05:30"
+  },
+  {
+    "id": "onlineradiobox_rw.radio8",
+    "name": "Radio8",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/113552.v4.png",
+    "stream_url": "https://stream.zeno.fm/ke4gmtn6dkhvv",
+    "website": "https://radio8rwanda.wixsite.com/website",
+    "provider": "onlineradiobox",
+    "country": "Rwanda",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:33:43+05:30"
+  },
+  {
+    "id": "onlineradiobox_rw.radiomariarwanda",
+    "name": "Radio Maria",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/47642.v5.png",
+    "stream_url": "http://dreamsiteradiocp2.com:8098/stream/;",
+    "website": "http://www.radiomaria.rw/",
+    "provider": "onlineradiobox",
+    "country": "Rwanda",
+    "genres": [
+      "talk",
+      "christian",
+      "education",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:32:51+05:30"
+  },
+  {
+    "id": "onlineradiobox_rw.richline",
+    "name": "Richline Fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/133418.v4.png",
+    "stream_url": "https://stream.zeno.fm/soo11hurlgxtv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Rwanda",
+    "genres": [
+      "sports",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:34:37+05:30"
+  },
+  {
+    "id": "onlineradiobox_rw.royal",
+    "name": "94.3 ROYAL FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/47648.v6.png",
+    "stream_url": "https://stream.zeno.fm/t68pekw57f8uv",
+    "website": "http://royalfm.rw/",
+    "provider": "onlineradiobox",
+    "country": "Rwanda",
+    "genres": [
+      "pop",
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:32:54+05:30"
+  },
+  {
+    "id": "onlineradiobox_rw.royal943",
+    "name": "Royal Fm 94.3 Kigali",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/149327.v5.png",
+    "stream_url": "https://stream.rcast.net/73260",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Rwanda",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:33:56+05:30"
+  },
+  {
+    "id": "onlineradiobox_rw.rpconline",
+    "name": "RPC Online Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/113177.v4.png",
+    "stream_url": "https://stream.zeno.fm/qvnvs1bqyhhvv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Rwanda",
+    "genres": [
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:35:21+05:30"
+  },
+  {
+    "id": "onlineradiobox_rw.rubavu",
+    "name": "Radio Rubavu",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/47451.v3.png",
+    "stream_url": "http://listen.rba.co.rw:4000/;",
+    "website": "http://www.rba.co.rw/radio/2/Radio-Rubavu",
+    "provider": "onlineradiobox",
+    "country": "Rwanda",
+    "genres": [
+      "pop",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:32:56+05:30"
+  },
+  {
+    "id": "onlineradiobox_rw.rusizi",
+    "name": "Radio Rusizi",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/109027.v7.png",
+    "stream_url": "https://listen.rba.co.rw:8009/rusizi",
+    "website": "https://www.rba.co.rw/",
+    "provider": "onlineradiobox",
+    "country": "Rwanda",
+    "genres": [
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:35:19+05:30"
+  },
+  {
+    "id": "onlineradiobox_rw.rwanda",
+    "name": "Radio Rwanda",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/47373.v6.png",
+    "stream_url": "https://listen.rba.co.rw:8008/rwanda",
+    "website": "http://www.rba.co.rw/radiyo",
+    "provider": "onlineradiobox",
+    "country": "Rwanda",
+    "genres": [
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:32:49+05:30"
+  },
+  {
+    "id": "onlineradiobox_rw.safi",
+    "name": "FABA",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/116590.v5.png",
+    "stream_url": "https://stream.zeno.fm/ccuw6t3hmxhvv",
+    "website": "https://zeno.fm/radio/radio-safi/",
+    "provider": "onlineradiobox",
+    "country": "Rwanda",
+    "genres": [
+      "african"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:35:17+05:30"
+  },
+  {
+    "id": "onlineradiobox_rw.salus",
+    "name": "Radio Salus",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/47500.v8.png",
+    "stream_url": "http://salus.ur.ac.rw:8006/saluslive",
+    "website": "http://www.salus.ur.ac.rw/",
+    "provider": "onlineradiobox",
+    "country": "Rwanda",
+    "genres": [
+      "news",
+      "talk",
+      "sports",
+      "culture",
+      "education",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:32:58+05:30"
+  },
+  {
+    "id": "onlineradiobox_rw.sana",
+    "name": "Sana Radio 98.0 FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/97022.v3.png",
+    "stream_url": "https://stream.zeno.fm/kkqkff8wm7zuv",
+    "website": "https://sanaradio.com/",
+    "provider": "onlineradiobox",
+    "country": "Rwanda",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:33:57+05:30"
+  },
+  {
+    "id": "onlineradiobox_rw.sbngospel",
+    "name": "SBN Gospel",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/140716.v1.png",
+    "stream_url": "https://stream.zeno.fm/yyvcrpnqnujtv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Rwanda",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:34:49+05:30"
+  },
+  {
+    "id": "onlineradiobox_rw.sda",
+    "name": "SDA Radio station",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/112096.v5.png",
+    "stream_url": "https://stream.zeno.fm/tx5ktvnp4ehvv",
+    "website": "https://onlineservices.co.rw/",
+    "provider": "onlineradiobox",
+    "country": "Rwanda",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:33:00+05:30"
+  },
+  {
+    "id": "onlineradiobox_rw.smedia",
+    "name": "JAY RADIO",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/128864.v6.png",
+    "stream_url": "https://stream.zeno.fm/3b89y6uyyuhvv",
+    "website": "http://smedia9.rw/",
+    "provider": "onlineradiobox",
+    "country": "Rwanda",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:34:44+05:30"
+  },
+  {
+    "id": "onlineradiobox_rw.sowing",
+    "name": "URUGERO ONLINE RADIO",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/109479.v7.png",
+    "stream_url": "https://stream.zeno.fm/vy21vv1gvbstv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Rwanda",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:33:42+05:30"
+  },
+  {
+    "id": "onlineradiobox_rw.spark",
+    "name": "Spark Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/83554.v5.png",
+    "stream_url": "https://stream.zeno.fm/39uwzd2e5qruv",
+    "website": "https://zeno.fm/spark-radio",
+    "provider": "onlineradiobox",
+    "country": "Rwanda",
+    "genres": [
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:34:36+05:30"
+  },
+  {
+    "id": "onlineradiobox_rw.thevoiceofhoperwanda",
+    "name": "THE VOICE OF HOPE",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/150093.v1.png",
+    "stream_url": "https://stream.zeno.fm/gdt49nl7eukuv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Rwanda",
+    "genres": [
+      "news",
+      "talk",
+      "african",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:34:36+05:30"
+  },
+  {
+    "id": "onlineradiobox_rw.treasure",
+    "name": "Treasure Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/111319.v4.png",
+    "stream_url": "https://stream.zeno.fm/4hv36c7whchvv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Rwanda",
+    "genres": [
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:33:47+05:30"
+  },
+  {
+    "id": "onlineradiobox_rw.tzgospel",
+    "name": "Tzgospel swahili (Rwanda)",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/121220.v4.png",
+    "stream_url": "https://stream.zeno.fm/q8ya4tegcchvv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Rwanda",
+    "genres": [
+      "news",
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:33:53+05:30"
+  },
+  {
+    "id": "onlineradiobox_rw.ubumenyidaily",
+    "name": "Jebra Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/143409.v5.png",
+    "stream_url": "https://stream.zeno.fm/rmeapnsbp27tv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Rwanda",
+    "genres": [
+      "talk",
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:34:37+05:30"
+  },
+  {
+    "id": "onlineradiobox_rw.ubuvumbuzi",
+    "name": "Ubuvumbuzi Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/124055.v10.png",
+    "stream_url": "https://stream.zeno.fm/xrx74pv20f9uv",
+    "website": "https://ubuvumbuzi.rw/index.php",
+    "provider": "onlineradiobox",
+    "country": "Rwanda",
+    "genres": [
+      "news",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:33:02+05:30"
+  },
+  {
+    "id": "onlineradiobox_rw.umucyo",
+    "name": "Umucyo Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/47492.v6.png",
+    "stream_url": "http://80.241.215.175:4000/;",
+    "website": "http://www.umucyoradio.com/",
+    "provider": "onlineradiobox",
+    "country": "Rwanda",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:32:58+05:30"
+  },
+  {
+    "id": "onlineradiobox_rw.umuhinzimumihigofarmer",
+    "name": "Umuhinzi mu Mihigo-Farmer Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/121387.v3.png",
+    "stream_url": "https://stream.zeno.fm/pdy1nnrx7bhvv",
+    "website": "https://zeno.fm/radio/Umuhinzi-mu-Mihigo-Farmer-Radio/",
+    "provider": "onlineradiobox",
+    "country": "Rwanda",
+    "genres": [
+      "community"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:34:49+05:30"
+  },
+  {
+    "id": "onlineradiobox_rw.umwezi",
+    "name": "Umwezi Radio 95.3 FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/138382.v2.png",
+    "stream_url": "http://80.241.215.175:7480/;",
+    "website": "https://umwezi.rw/",
+    "provider": "onlineradiobox",
+    "country": "Rwanda",
+    "genres": [
+      "sports",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:34:45+05:30"
+  },
+  {
+    "id": "onlineradiobox_rw.urban",
+    "name": "Urban Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/151365.v8.png",
+    "stream_url": "https://fire.doscast.com/8116/stream",
+    "website": "https://urbanradiofm.com/",
+    "provider": "onlineradiobox",
+    "country": "Rwanda",
+    "genres": [
+      "talk",
+      "sports",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:33:51+05:30"
+  },
+  {
+    "id": "onlineradiobox_rw.voice",
+    "name": "VOICE FM",
+    "image": "https://cdn.onlineradiobox.com/img/logo/2/154882.png",
+    "stream_url": "https://stream.rcast.net/73425",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Rwanda",
+    "genres": [
+      "rock",
+      "pop",
+      "chill-out",
+      "r'n'b"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:35:23+05:30"
+  },
+  {
+    "id": "onlineradiobox_rw.voiceofafrica",
+    "name": "94.7 Voice Of Africa FM - Rwanda",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/129063.v1.png",
+    "stream_url": "https://stream.zeno.fm/xaddmq0bilntv",
+    "website": "https://voiceofafrica.rw/",
+    "provider": "onlineradiobox",
+    "country": "Rwanda",
+    "genres": [
+      "islamic",
+      "education"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:33:45+05:30"
+  }
+]

@@ -1,0 +1,6514 @@
+[
+  {
+    "id": "onlineradiobox_ua.103fm",
+    "name": "Житомирська хвиля",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/158.v10.png",
+    "stream_url": "http://radio.nrcu.gov.ua:8000/ur1-zt-aacplus",
+    "website": "http://103fm.com.ua/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "dance",
+      "rock",
+      "r'n'b",
+      "disco",
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:07:30+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.109fmnet",
+    "name": "109FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/150.v9.png",
+    "stream_url": "https://solid48.streamupsolutions.com/proxy/cfujtbgw/109fm",
+    "website": "https://www.109fm.net/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "trance",
+      "house",
+      "techno"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:02:44+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.1izmail",
+    "name": "Перше Ізмаїльське",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/120591.v16.png",
+    "stream_url": "https://myradio24.org/1izmail",
+    "website": "https://1izmail.com/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "house",
+      "lounge",
+      "nu disco",
+      "soul",
+      "chill-out",
+      "funk",
+      "bossa nova"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:05:41+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.20ft",
+    "name": "20ft Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/64200.v3.png",
+    "stream_url": "https://20ft-radio.radiocult.fm/stream",
+    "website": "https://www.20ftradio.net/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "electronic",
+      "dj"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:05:40+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.7rays",
+    "name": "7 Rays Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/70037.v6.png",
+    "stream_url": "https://7rays.stream.laut.fm/7rays",
+    "website": "https://7promeniv.com.ua/radio",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "ambient",
+      "new age",
+      "meditation"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:02:44+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.active",
+    "name": "Radio Active",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/78791.v8.png",
+    "stream_url": "https://online.radio-active.top:8443/main",
+    "website": "https://radio-active.top/home",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "rock",
+      "metal"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:07:33+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.afm",
+    "name": "Radio HIT",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/77136.v4.png",
+    "stream_url": "http://78.154.164.191:18001/4",
+    "website": "http://pulsartv.com.ua/radio-afm/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:08:27+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.aktivnost",
+    "name": "Радио Активность",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/54614.v9.png",
+    "stream_url": "http://78.129.229.113:36749/stream.ogg",
+    "website": "http://afm.in.ua/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "dance",
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:10:21+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.andrewlviv",
+    "name": "ABN Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/2441.v2.png",
+    "stream_url": "http://radio.andrew-lviv.net/abn128",
+    "website": "http://radio.andrew-lviv.net/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "dance",
+      "electronic",
+      "trance",
+      "house",
+      "techno"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:03:37+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.antennawebkyiv",
+    "name": "AW Kiev",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/130264.v6.png",
+    "stream_url": "https://ukraine.radioantennaweb.com/Kyiv",
+    "website": "https://antennaweb.it/aw-kiev/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "pop",
+      "blues",
+      "hard rock",
+      "metal",
+      "jazz",
+      "country",
+      "funk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:10:20+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.aristocrats",
+    "name": "Радио Аристократы",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/172.v2.png",
+    "stream_url": "http://air.aristocrats.fm:8000/live2",
+    "website": "http://aristocrats.fm/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "dance",
+      "electronic",
+      "rock",
+      "disco",
+      "pop",
+      "blues",
+      "lounge",
+      "jazz",
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:02:39+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.armyfm",
+    "name": "Армія FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/51356.v10.png",
+    "stream_url": "https://icecast.armyfm.com.ua:8443/ArmyFM_320",
+    "website": "http://www.armyfm.com.ua/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "pop",
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:01:38+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.avers",
+    "name": "Аверс FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/105500.v12.png",
+    "stream_url": "https://avers.pp.ua/hls_radio/efir.m3u8",
+    "website": "https://www.volynnews.com/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:02:37+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.avrora",
+    "name": "Радіо Аврора",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/150399.v1.png",
+    "stream_url": "https://stream.brandradionetworks.com/avrora",
+    "website": "https://corporate.avrora.ua/pages/na-yiyi-osnovi/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "dance",
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:11:17+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.avtohvylia",
+    "name": "Автохвиля",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/147680.v2.png",
+    "stream_url": "https://cast.mediaonline.net.ua/avtoradio320",
+    "website": "https://avtohvylia.com/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "dance",
+      "pop",
+      "news",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:11:13+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.avtoradio",
+    "name": "Авторадіо Україна",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/15.v17.png",
+    "stream_url": "https://cast.mediaonline.net.ua/avtoradio320",
+    "website": "https://www.avtoradio.ua/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "rock",
+      "disco",
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:59:22+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.ax",
+    "name": "AX Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/143940.v3.png",
+    "stream_url": "https://fpsnew1.listen2myradio.com:2199/listen.php?ip=82.145.63.6&port=8880&type=s2&mount=1",
+    "website": "https://axradio.net/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "dance",
+      "electronic",
+      "trance",
+      "house",
+      "pop",
+      "classic rock"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:11:14+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.babamisha",
+    "name": "Baba Misha Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/125351.v3.png",
+    "stream_url": "http://radio.ukraudio.com:8000/babamisha.aac",
+    "website": "https://babamisha.com/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "pop",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:04:40+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.background",
+    "name": "RadioBackground",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/102267.v4.png",
+    "stream_url": "https://myradio24.org/84802",
+    "website": "http://bgr.pp.ua/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "dance",
+      "pop",
+      "club"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:02:38+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.balakuchiyrock",
+    "name": "Балакучий Рок",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/139656.v2.png",
+    "stream_url": "https://radio.thx8te.kh.ua/listen/chatty_rock/radio.mp3",
+    "website": "https://radio.thx8te.kh.ua/public/chatty_rock",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "rock",
+      "metal",
+      "punk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:12:06+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.balta",
+    "name": "Радіо Балта",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/136679.v2.png",
+    "stream_url": "https://podilske.com:8013/online",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "dance",
+      "pop",
+      "news",
+      "talk",
+      "retro"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:07:42+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.bar",
+    "name": "Бар FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/134725.v3.png",
+    "stream_url": "http://176.105.207.222:8000/barfm_live320",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "dance",
+      "rock",
+      "disco",
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:08:33+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.bayraktar",
+    "name": "Радіо БАЙРАКТАР",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/113507.v13.png",
+    "stream_url": "https://online.radiobayraktar.ua/RadioBayraktar",
+    "website": "https://www.radiobayraktar.ua/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "pop",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:00:23+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.bessarab",
+    "name": "Бессарабия FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/116543.v3.png",
+    "stream_url": "https://myradio24.org/bessarab",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:06:37+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.bestfm",
+    "name": "Radio Best FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/128572.v2.png",
+    "stream_url": "https://radio.bestfm.ua/bestfm",
+    "website": "https://bestfm.ua/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "pop",
+      "top40",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:04:40+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.bibi",
+    "name": "Weradio",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/96827.v5.png",
+    "stream_url": "https://stream.zeno.fm/c1789prqga0uv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "dance",
+      "trance",
+      "90s",
+      "00s",
+      "80s",
+      "oldies",
+      "dj",
+      "10s",
+      "dance pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:09:25+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.bibliowave",
+    "name": "BiblioWave - музика для читання",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/101440.v3.png",
+    "stream_url": "http://62.122.205.35:8000/radio.mp3",
+    "website": "http://bibliowave.if.ua/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "talk",
+      "relax",
+      "chill-out"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:10:18+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.black",
+    "name": "Radio Black",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/141366.v3.png",
+    "stream_url": "https://tavr.tvstitch.com/RadioBlack",
+    "website": "https://www.radioblack.ua/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:06:43+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.blitsua",
+    "name": "Бліц-FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/82891.v6.png",
+    "stream_url": "https://stream.blits-fm.ua/stream320",
+    "website": "https://blits-fm.ua/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:03:43+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.blysk",
+    "name": "С4 (Blysk) FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/82784.v2.png",
+    "stream_url": "https://radio.c4.com.ua:8443/320",
+    "website": "http://blysk.com.ua/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "pop",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:05:46+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.boguslav",
+    "name": "Богуслав-FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/68355.v23.png",
+    "stream_url": "https://complex.in.ua/b128",
+    "website": "https://boguslav.media/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "rock",
+      "pop",
+      "folk",
+      "retro",
+      "ethnic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:01:44+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.bombeat",
+    "name": "Radio Bombeat",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/129162.v6.png",
+    "stream_url": "http://stream.globalic.com.ua:1080/stream",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "rap",
+      "hip-hop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:07:38+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.borzna",
+    "name": "РАДІО БОРЗНА",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/88499.v40.png",
+    "stream_url": "http://82.145.41.50:6312/;",
+    "website": "https://borznaradio.wordpress.com/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:09:26+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.brokenbeats",
+    "name": "Brokenbeats",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/119029.v1.png",
+    "stream_url": "https://brokenbeats.net/stream/aac",
+    "website": "https://brokenbeats.net/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "drum'n'bass"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:05:39+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.bug",
+    "name": "Радіо Буг",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/140913.v8.png",
+    "stream_url": "https://radio.bug.fm:8000/radioBug",
+    "website": "https://bug.fm/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "electronic",
+      "house",
+      "rock",
+      "r'n'b",
+      "disco",
+      "pop",
+      "blues",
+      "techno",
+      "jazz",
+      "folk",
+      "classic",
+      "hip-hop",
+      "indie",
+      "soul",
+      "alternative"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:11:09+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.bukwave",
+    "name": "Буковинська Хвиля",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/64873.v10.png",
+    "stream_url": "https://100.cv.ua:8443/play",
+    "website": "http://www.100fm.cv.ua/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "pop",
+      "news",
+      "talk",
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:06:36+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.bumblebeefm",
+    "name": "BumbleBee",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/185.v5.png",
+    "stream_url": "https://live.bfm.net.ua:8000/radio",
+    "website": "https://bfm.net.ua/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "dance",
+      "rock",
+      "r'n'b",
+      "disco",
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:00:35+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.business.fm",
+    "name": "Magic Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/10.v12.png",
+    "stream_url": "https://cast.brg.ua/business_main_public_mp3_hq",
+    "website": "https://brg.ua/magic-radio/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "disco",
+      "pop",
+      "blues"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:59:23+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.businessradio",
+    "name": "Бізнес Радіо",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/144382.v2.png",
+    "stream_url": "https://cast.brg.ua/businessradio_main_public_mp3_hq",
+    "website": "https://brg.ua/business-radio/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "pop",
+      "talk",
+      "business",
+      "entertainment",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:03:38+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.buske",
+    "name": "Буське радіо",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/76203.v10.png",
+    "stream_url": "https://complex.in.ua/buskfm",
+    "website": "http://www.buskeradio.in.ua/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "rock",
+      "folk",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:03:43+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.canalblagodat",
+    "name": "Радіо Канал Благодаті",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/66992.v5.png",
+    "stream_url": "http://noasrv.caster.fm:10001/live",
+    "website": "https://www.kanalblagodati.org/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "rock",
+      "pop",
+      "jazz",
+      "classic",
+      "hip-hop",
+      "christian",
+      "instrumental",
+      "christian contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:04:48+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.cappajoe",
+    "name": "Radio Cappajoe - Monkey Dance",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/140319.v10.png",
+    "stream_url": "https://stream.wolfmusicradio.com:8010/Monkey_Dance.mp3",
+    "website": "https://radio.cappajoe.com/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "disco",
+      "deep house",
+      "drum'n'bass"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:06:40+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.cappajoeflamingosoul",
+    "name": "Radio Cappajoe - Flamingo Soul",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/140322.v8.png",
+    "stream_url": "https://stream.wolfmusicradio.com:8020/radio.mp3",
+    "website": "https://radio.cappajoe.com/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "lounge",
+      "chill-out"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:07:36+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.cappajoerihnosense",
+    "name": "Radio Cappajoe - Rihno Sense",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/140321.v7.png",
+    "stream_url": "https://stream.wolfmusicradio.com:8040/radio.mp3",
+    "website": "https://radio.cappajoe.com/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "rock"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:09:21+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.champion",
+    "name": "Радіо Чемпіон",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/139677.v3.png",
+    "stream_url": "https://stream.radio.co/sb2e65a7e8/listen",
+    "website": "https://championradio.net/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "talk",
+      "sports"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:06:34+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.chansonrivne",
+    "name": "Радіо Шансон Рівне",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/103820.v11.png",
+    "stream_url": "https://stream.zeno.fm/wffk2n3s3ehvv",
+    "website": "http://shanson.ua/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "dance",
+      "pop",
+      "chanson",
+      "romantic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:05:44+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.chervonograd",
+    "name": "Червоноград ФМ",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/115427.v2.png",
+    "stream_url": "https://radio.groza.ua:8443/neoradio",
+    "website": "https://chervonograd.fm/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "pop",
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:07:34+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.christianlive",
+    "name": "Christian Live",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/87867.v3.png",
+    "stream_url": "http://strsrv.mirvokrugnas.in.ua:8017/live",
+    "website": "https://mirvokrugnas.in.ua/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "christian",
+      "soft rock"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:10:14+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.citrus",
+    "name": "Радіо Цитрус",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/149144.v2.png",
+    "stream_url": "http://stream.brandradionetworks.com:8000/citrus",
+    "website": "https://www.ctrs.com.ua/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "dance",
+      "electronic",
+      "pop",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:11:59+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.city",
+    "name": "Radio City",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/97121.v3.png",
+    "stream_url": "https://cdn10.live-tv.od.ua:8083/cityfm/128k/icecast.audio",
+    "website": "http://radio-city.od.ua/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "dance",
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:08:31+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.cityua",
+    "name": "Radio City UA",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/73860.v2.png",
+    "stream_url": "http://radio.d4ua.com:8800/radio",
+    "website": "http://radiocity.com.ua/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:04:45+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.classicradio",
+    "name": "Classic Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/90820.v10.png",
+    "stream_url": "https://online.classicradio.ua/ClassicRadio",
+    "website": "https://www.classicradio.ua/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "classic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:03:42+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.classicrock",
+    "name": "ROCK FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/89862.v40.png",
+    "stream_url": "https://stream.classicrock.com.ua:8000/live",
+    "website": "https://classicrock.com.ua/radio",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "rock",
+      "classic rock",
+      "hard rock",
+      "metal"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:02:48+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.coma",
+    "name": "Coma.fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/71856.v23.png",
+    "stream_url": "https://stream.radio.co/s4360dbc20/listen",
+    "website": "http://coma.fm/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "blues",
+      "jazz",
+      "country",
+      "rockabilly"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:03:39+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.dani",
+    "name": "Дани FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/75674.v6.png",
+    "stream_url": "http://91.204.133.21:8000/stream",
+    "website": "https://dani-info.com/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "dance",
+      "rock",
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:03:45+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.dim",
+    "name": "Радіодім Рівне",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/115704.v6.png",
+    "stream_url": "https://stream.zeno.fm/m7tw0rc5kuhvv",
+    "website": "https://radiodim.rv.ua/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "pop",
+      "news"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:09:18+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.disco",
+    "name": "Disco Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/127495.v2.png",
+    "stream_url": "https://stream.zeno.fm/hvxqsct29x1tv",
+    "website": "https://discoradio.com.ua/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "dance",
+      "disco",
+      "retro",
+      "90s",
+      "80s"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:02:46+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.dj.fm",
+    "name": "DJFM",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/9.v21.png",
+    "stream_url": "https://cast.brg.ua/djfm_main_public_mp3_hq",
+    "website": "https://djfm.ua/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "electronic",
+      "house",
+      "pop",
+      "techno"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:59:16+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.dobre",
+    "name": "Добре Pадіо 105.4 FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/77121.v10.png",
+    "stream_url": "http://193.110.19.240:8000/DobreRadio",
+    "website": "https://trostyanets.info/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "pop",
+      "news"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:07:31+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.dogfm",
+    "name": "DogFM",
+    "image": "https://cdn.onlineradiobox.com/img/logo/3/147393.png",
+    "stream_url": "https://azurahosting.xtvmedia.pp.ua/listen/dogfm/DogFM.mp3",
+    "website": "https://www.dogfm.com.ua/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:04:37+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.dolcevita",
+    "name": "Женское радио &#34;Dolce Vita&#34;",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/108695.v1.png",
+    "stream_url": "https://c32.radioboss.fm:18516/stream",
+    "website": "https://radiodolce.com.ua/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "dance",
+      "disco",
+      "pop",
+      "deep house",
+      "hip-hop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:05:37+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.dream",
+    "name": "Dream Radio Station",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/83214.v9.png",
+    "stream_url": "https://m.dreamradiostation.ru:8000/drfm",
+    "website": "https://dreamradio.com.ua/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:09:28+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.dreams",
+    "name": "Dreams Одесса",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/131784.v4.png",
+    "stream_url": "https://myradio24.org/dreams",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "dance",
+      "electronic",
+      "rock",
+      "disco",
+      "pop",
+      "blues",
+      "jazz",
+      "rap",
+      "hip-hop",
+      "chill-out",
+      "chanson",
+      "instrumental",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:05:36+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.duzhefm",
+    "name": "Дуже радіо-104,3",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/74778.v12.png",
+    "stream_url": "http://194.44.52.60:7444/duzhe",
+    "website": "http://www.duzhe.fm/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "r'n'b",
+      "pop",
+      "talk",
+      "reggaeton"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:02:45+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.dxfm",
+    "name": "DXFM",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/117717.v5.png",
+    "stream_url": "https://stream.dxfmradio.com/air",
+    "website": "http://www.dxfmradio.com/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "dance",
+      "electronic",
+      "pop",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:09:18+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.dzvony",
+    "name": "Радіо Дзвони",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/355.v14.png",
+    "stream_url": "https://stream.radiojar.com/amxp793bsbuvv",
+    "website": "https://dzvony.org.ua/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:00:16+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.ease",
+    "name": "EaseFM",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/124470.v15.png",
+    "stream_url": "https://stream.zeno.fm/hfd2rp0hr0hvv",
+    "website": "https://easefm.com/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:11:08+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.egoisty",
+    "name": "Radio EgoЇсти",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/48239.v1.png",
+    "stream_url": "https://stream.mjoy.ua:8443/radio-egoisty",
+    "website": "http://mjoy.ua/radio/egoisty/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "rock",
+      "alternative",
+      "punk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:03:38+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.ekoradio",
+    "name": "ЕкоРадіо",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/92.v4.png",
+    "stream_url": "http://134.249.140.134:8000/;",
+    "website": "http://ekoradio.com.ua/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:05:34+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.ekspres",
+    "name": "Експрес радіо",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/114945.v4.png",
+    "stream_url": "https://us3freenew.listen2myradio.com/live.mp3?typeportmount=s1_33817_stream_135572357;",
+    "website": "https://express.radio12345.com/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "dance",
+      "disco",
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:11:12+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.emigrant",
+    "name": "Емігрантське радіо",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/76493.v5.png",
+    "stream_url": "http://stream.emradio.com.ua:8000/appradio",
+    "website": "https://emradio.com.ua/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "rock",
+      "pop",
+      "news",
+      "talk",
+      "folk",
+      "culture",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:07:33+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.eradio",
+    "name": "Є!Радіо",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/429.v7.png",
+    "stream_url": "https://cast1.asurahosting.com/proxy/northst2/eradio1",
+    "website": "http://eradio.ee/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "dance",
+      "rock",
+      "r'n'b",
+      "pop",
+      "top40",
+      "00s",
+      "soft pop",
+      "10s",
+      "hits",
+      "dance pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:00:29+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.europaplas",
+    "name": "Europa Plus Kyiv",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/66293.v18.png",
+    "stream_url": "https://s5.radioforge.com:7908/live",
+    "website": "https://europaplus.kiev.ua/online/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "top40",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:00:32+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.europaplusdp",
+    "name": "Европа Плюс Днепр",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/11884.v21.png",
+    "stream_url": "http://212.115.224.146:8000/evropa",
+    "website": "http://europaplus.dp.ua/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "top40",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:01:38+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.fainemisto",
+    "name": "Тернопільська  хвиля",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/91314.v2.png",
+    "stream_url": "https://onair.lviv.fm:8443/ternopil.fm",
+    "website": "https://ternopil.fm/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "dance",
+      "pop",
+      "news",
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:02:38+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.fayne",
+    "name": "Радіо ЛофіКО",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/75258.v59.png",
+    "stream_url": "https://myradio24.org/49731",
+    "website": "https://radiolofiko.v.ua/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "lounge",
+      "chill-out"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:02:46+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.fekichitaretro",
+    "name": "Radio Paris fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/94729.v11.png",
+    "stream_url": "https://stream.zeno.fm/sd0ra0t06qzuv",
+    "website": "http://parizh-fm.mozello.ru/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "oldies"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:05:35+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.fekichitaromantik",
+    "name": "Radio Felichita - Romantic",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/94077.v5.png",
+    "stream_url": "https://stream.zeno.fm/xqvzfefnbd0uv",
+    "website": "http://felichita-kiev.mozello.ru/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:11:16+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.firstukrainianhardcore",
+    "name": "First Ukrainian Hardcore Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/110711.v1.png",
+    "stream_url": "https://stream.m4u-radio.com.ua:4065/stream",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:09:24+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.flash",
+    "name": "Flash Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/87354.v12.png",
+    "stream_url": "https://tavr.tvstitch.com/FlashRadio",
+    "website": "https://www.flashradio.ua/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "dance",
+      "electronic",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:01:50+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.flyfm",
+    "name": "Radio FLYFM",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/71872.v2.png",
+    "stream_url": "http://flyfm.net:8000/flyfmhd",
+    "website": "http://flyfm.net/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "dance",
+      "pop",
+      "90s",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:03:45+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.format",
+    "name": "Формат FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/100220.v2.png",
+    "stream_url": "https://radioformat.pp.ua/radio1",
+    "website": "https://format.fm/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "dance",
+      "disco",
+      "pop",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:09:17+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.freedomalert",
+    "name": "Sluhai",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/108658.v87.png",
+    "stream_url": "https://streams.radio.co/s0d4b9dea0/listen",
+    "website": "https://sluh.ai/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "electronic",
+      "house",
+      "techno",
+      "ambient",
+      "jungle",
+      "breakbeat"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:05:45+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.freeradio",
+    "name": "Вільне радіо",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/74006.v4.png",
+    "stream_url": "https://radio.freeradio.com.ua/stream.mp3",
+    "website": "https://freeradio.com.ua/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "pop",
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:05:44+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.freeukraine",
+    "name": "Радіо Вільної України",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/73896.v1.png",
+    "stream_url": "https://stream.zenolive.com/vn4r1hp339duv",
+    "website": "http://rfu.in.ua/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "rock",
+      "pop",
+      "indie",
+      "alternative"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:07:29+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.freshfm",
+    "name": "Fresh FM Stryi",
+    "image": "https://cdn.onlineradiobox.com/img/logo/8/138878.png",
+    "stream_url": "http://193.53.83.3:8000/fresh-fm_ogg",
+    "website": "https://freshfm.ua/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "pop",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:12:01+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.freshrock",
+    "name": "Fresh Rock",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/46875.v2.png",
+    "stream_url": "https://stream.freshrock.net/128.mp3",
+    "website": "http://freshrock.net/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "rock",
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:06:33+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.galychyna.fm",
+    "name": "FM Галичина",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/58.v10.png",
+    "stream_url": "https://stream320.galychyna.fm/WebSite",
+    "website": "http://www.galychyna.fm/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:00:24+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.garmoniamira",
+    "name": "Гармония мира",
+    "image": "https://cdn.onlineradiobox.com/img/logo/5/91935.png",
+    "stream_url": "https://garmonia-stream.fakel.com.ua/1",
+    "website": "https://garmoniamira.com/radio/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:06:32+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.gmg",
+    "name": "GMG Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/78933.v6.png",
+    "stream_url": "https://s3.radio.co/s61213333a/listen",
+    "website": "https://gmgradioua.com/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "r'n'b",
+      "rap",
+      "hip-hop",
+      "african"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:10:19+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.gold",
+    "name": "Radio Gold",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/92020.v9.png",
+    "stream_url": "https://tavr.tvstitch.com/RadioGold",
+    "website": "https://www.flashradio.ua/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:00:29+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.goldfm",
+    "name": "Gold _ FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/123121.v5.png",
+    "stream_url": "https://myradio24.org/parish",
+    "website": "https://myradio24.com/parish",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "dance",
+      "disco",
+      "retro",
+      "chanson"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:11:17+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.golosstriya",
+    "name": "Радіо Голос Стрия - Cтрий 90,0 фм",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/126269.v2.png",
+    "stream_url": "http://complex.in.ua:80/struy",
+    "website": "https://golosstryia.in.ua/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:11:20+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.gonivolive",
+    "name": "Gonivo Live",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/114503.v8.png",
+    "stream_url": "https://stream.gonivo.com.ua/radio/8000/radioplayer",
+    "website": "https://gonivo.com.ua/radio",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "dance",
+      "electronic",
+      "house",
+      "indie"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:08:31+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.gorod1052",
+    "name": "Радіо &#34;Мегаполіс&#34;",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/67618.v9.png",
+    "stream_url": "https://cast.megapolis.fm/listen/kryvyi_rih/radio.mp3",
+    "website": "https://www.megapolis.fm/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "pop",
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:04:41+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.gradleva",
+    "name": "Радіо ГРАД ЛЕВА",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/68991.v8.png",
+    "stream_url": "https://c2.radioboss.fm:18472/stream",
+    "website": "http://radiogradleva.online/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:06:43+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.greenmandarin",
+    "name": "Green Mandarin",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/112360.v1.png",
+    "stream_url": "http://stream.gmradio.com.ua:80/gm_radio_192",
+    "website": "https://gmradio.com.ua/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "dance",
+      "pop",
+      "club"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:08:27+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.guliay",
+    "name": "Гуляй Радіо",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/83156.v15.png",
+    "stream_url": "https://tavr.tvstitch.com/GuliayRadio",
+    "website": "https://www.guliayradio.ua/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "pop",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:00:36+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.happyradio",
+    "name": "Happy Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/336.v70.png",
+    "stream_url": "https://stream.zeno.fm/nkeaps48xg0uv",
+    "website": "https://www.happyradio.fm/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "dance",
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:00:30+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.hero",
+    "name": "Hero Radio (Ukraine)",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/146980.v1.png",
+    "stream_url": "https://a2.asurahosting.com:6790/ukraine.mp3",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "news",
+      "gospel",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:12:06+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.heroicstrike",
+    "name": "Heroic Strike Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/96486.v2.png",
+    "stream_url": "https://heroic-strike-radio.co.ua/sstream",
+    "website": "https://heroic-strike-radio.co.ua/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "dubstep",
+      "games music"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:10:19+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.hi",
+    "name": "Radio Hi",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/100603.v4.png",
+    "stream_url": "https://greeksonic.alphaserver.gr/8010/stream",
+    "website": "https://sites.google.com/view/radio-hi/1",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:11:20+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.highbeam",
+    "name": "High Beam Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/153259.v2.png",
+    "stream_url": "https://myradio24.org/highbeam",
+    "website": "https://high-beam-radio.site/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "heavy metal",
+      "classic rock",
+      "hard rock",
+      "alternative rock",
+      "progressive rock"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:12:03+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.hit.fm",
+    "name": "Хіт FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/3.v40.png",
+    "stream_url": "https://online.hitfm.ua/HitFM",
+    "website": "https://www.hitfm.ua/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "dance",
+      "rock",
+      "r'n'b",
+      "disco",
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:59:11+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.hits1",
+    "name": "Hits 1 Київ",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/151911.v3.png",
+    "stream_url": "https://stream.hd1.hits1radio.com/?kiev",
+    "website": "https://www.hits1.com/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "dance",
+      "electronic",
+      "pop",
+      "top40",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:11:10+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.holosfm",
+    "name": "Holos.fm • Ukrainian Internet Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/37184.v8.png",
+    "stream_url": "http://holos.fm:8000/holos",
+    "website": "http://holos.fm/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "rock",
+      "news",
+      "talk",
+      "folk",
+      "ethnic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:04:41+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.hope",
+    "name": "Голос надії",
+    "image": "https://cdn.onlineradiobox.com/img/logo/2/129862.png",
+    "stream_url": "https://s4.radio.co/s052c88338/listen",
+    "website": "https://radio.hope.ua/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "talk",
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:06:35+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.hristadelfiane",
+    "name": "Христадельфиане",
+    "image": "https://cdn.onlineradiobox.com/img/logo/9/74089.png",
+    "stream_url": "http://media.hostz.org:8000/rbc_ru.mp3",
+    "website": "http://www.hristadelfiane.org/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "talk",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:10:23+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.hromadskeradio",
+    "name": "Громадське радіо",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/67861.v2.png",
+    "stream_url": "https://hromadske.radio/radio_https_upstream",
+    "website": "https://hromadskeradio.org/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:01:36+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.hutsulradio",
+    "name": "Гуцульське радіо",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/150700.v1.png",
+    "stream_url": "https://stream320.galychyna.fm/HutsulFM_RP",
+    "website": "https://hutsul.radio.fm/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "pop",
+      "news",
+      "talk",
+      "entertainment",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:11:19+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.hviljagir",
+    "name": "Хвиля Гір",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/97790.v11.png",
+    "stream_url": "http://dale.inet.kim:8123/live",
+    "website": "http://www.radiohg.com.ua/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "dance",
+      "rock",
+      "r'n'b",
+      "disco",
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:06:42+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.hypefm",
+    "name": "Хайп Радио",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/85522.v2.png",
+    "stream_url": "https://myradio24.org/hyperadio",
+    "website": "http://hype.radio.fm/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "dance",
+      "trance",
+      "pop",
+      "lounge",
+      "deep house"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:04:43+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.ieltsingspeakingtestsimulator",
+    "name": "IELTSing Speaking Test Simulator",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/128396.v5.png",
+    "stream_url": "http://radio.ieltsing.com:8000/stream.ogg",
+    "website": "https://ieltsing.com/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "talk",
+      "education"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:12:05+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.indieua",
+    "name": "Радіо Інді.UA",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/90819.v10.png",
+    "stream_url": "https://tavr.tvstitch.com/RadioIndieUA",
+    "website": "https://www.radioindie.ua/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "rock",
+      "r'n'b",
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:06:31+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.instrumentalorchestralhits",
+    "name": "Instrumental &amp; Orchestral Hits",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/111300.v1.png",
+    "stream_url": "https://instrumental-orchestral-hits.stream.laut.fm/instrumental-orchestral-hits",
+    "website": "https://psyholistic.top/radio",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "instrumental"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:01:46+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.islandiya",
+    "name": "Радіо Ісландія",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/93208.v3.png",
+    "stream_url": "https://s3.radio.co/sa3e464c40/listen",
+    "website": "http://islndradio.com/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "classic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:08:25+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.izyum",
+    "name": "Радіо - Ізюм",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/75473.v5.png",
+    "stream_url": "http://93.183.216.155:8000/live",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "rock",
+      "disco",
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:04:47+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.jazz",
+    "name": "Radio Jazz",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/84452.v15.png",
+    "stream_url": "https://online.radiojazz.ua/RadioJazz",
+    "website": "https://www.radiojazz.ua/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "jazz"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:00:36+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.kafetantsuyushchikhogney",
+    "name": "Кафе танцующих огней",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/128327.v2.png",
+    "stream_url": "https://myradio24.org/slasefm",
+    "website": "https://myradio24.com/slasefm",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "dance",
+      "disco",
+      "retro",
+      "90s",
+      "00s",
+      "80s",
+      "chanson",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:11:11+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.kalushfm",
+    "name": "Калуш FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/435.v3.png",
+    "stream_url": "http://195.182.22.130:8000/Streamogg",
+    "website": "http://kalushfm.com.ua/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:03:46+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.karamelka",
+    "name": "Дитяче радіо Карамелька",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/152658.v3.png",
+    "stream_url": "http://radio.ukraudio.com:8000/channel5.aac",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "children"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:11:18+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.keksfm",
+    "name": "KEXXX FM Kyiv",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/57900.v37.png",
+    "stream_url": "https://myradio24.org/82192",
+    "website": "http://keksfm.kiev.ua/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "dance",
+      "electronic",
+      "trance",
+      "house",
+      "downtempo",
+      "deep house"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:00:19+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.khartiya",
+    "name": "Радіо Хартія",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/152483.v1.png",
+    "stream_url": "https://a9.asurahosting.com/listen/radio_khartia/radio.mp3",
+    "website": "https://radiokhartia.com/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "pop",
+      "news",
+      "talk",
+      "folk",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:10:10+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.kidsonline",
+    "name": "Radiokids.online",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/74964.v5.png",
+    "stream_url": "https://samcloud.spacial.com/api/listen?sid=90544&rid=164144&f=aac,any&br=64000,any&m=sc",
+    "website": "http://radiokids.online/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "relax",
+      "classic",
+      "children"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:06:40+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.kievfm",
+    "name": "Київ FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/64954.v16.png",
+    "stream_url": "https://cdn.vsnw.net:8943/kyiv_fm_128k",
+    "website": "https://radio.kyiv24.news/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "dance",
+      "rock",
+      "pop",
+      "news",
+      "top40",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:01:48+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.kiss.fm",
+    "name": "Kiss FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/1.v56.png",
+    "stream_url": "https://online.kissfm.ua/KissFM",
+    "website": "https://www.kissfm.ua/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "dance",
+      "electronic",
+      "trance",
+      "house",
+      "dubstep",
+      "drum'n'bass"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:59:11+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.kmusicmegahit",
+    "name": "Radio KMusic MEGAHIT",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/130203.v2.png",
+    "stream_url": "https://stream.zeno.fm/znxobui4izduv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "dance",
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:05:41+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.konkurent",
+    "name": "Радіо Конкурент",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/148386.v1.png",
+    "stream_url": "https://sportradio.com.ua:8000/radiokonkurent",
+    "website": "https://konkurent.ua/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "pop",
+      "news",
+      "talk",
+      "sports",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:12:02+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.korostenfm",
+    "name": "Коростень ФМ 107.5",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/153637.v1.png",
+    "stream_url": "https://radio.korostenmedia.news/stream",
+    "website": "https://korostenmedia.news/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "pop",
+      "news",
+      "talk",
+      "entertainment",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:07:39+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.kotelva",
+    "name": "Котельва FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/75323.v4.png",
+    "stream_url": "http://kotelva.pp.ua:2020/live",
+    "website": "https://www.kotelvainfo.pp.ua/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:08:34+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.kpopradio",
+    "name": "K-POP Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/147470.v3.png",
+    "stream_url": "https://tavr.tvstitch.com/KpopRadio",
+    "website": "https://www.kpopradio.com.ua/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "k-pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:07:37+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.krainafm",
+    "name": "Країна ФМ",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/40026.v5.png",
+    "stream_url": "https://live2.radioec.com.ua/kiev128s.mp3",
+    "website": "http://krainafm.com.ua/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "rock",
+      "pop",
+      "talk",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:00:18+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.kredenscafe",
+    "name": "Kredens Cafe Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/24707.v1.png",
+    "stream_url": "https://stream.mjoy.ua:8443/kredens-cafe-radio_mp3",
+    "website": "https://mjoy.ua/radios/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "pop",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:01:37+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.kristal",
+    "name": "Radio KMusic",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/92864.v14.png",
+    "stream_url": "https://stream.zeno.fm/z9x8zy7747zuv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "dance",
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:07:34+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.kruchi",
+    "name": "Радіо &#34;Кручі&#34;",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/74452.v4.png",
+    "stream_url": "http://krucha.ddns.net:8000/",
+    "website": "http://kruchi.kaniv.net/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "electronic",
+      "rock",
+      "blues",
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:10:22+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.kryvbasfm",
+    "name": "Радіо Кривбас",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/148572.v1.png",
+    "stream_url": "https://onair.kryvbas.fm/RadioKryvbas",
+    "website": "https://www.kryvbas.fm/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "pop",
+      "news",
+      "weather",
+      "entertainment",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:11:10+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.kuresh",
+    "name": "Радіо &#34;Куреш&#34;",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/75944.v6.png",
+    "stream_url": "http://88.99.244.175:8002/kuresh1",
+    "website": "https://kuresh.info/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "folk",
+      "culture",
+      "politics"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:10:23+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.kyivstartophits",
+    "name": "Радіо Київстар. Top Hits",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/135923.v2.png",
+    "stream_url": "https://radio.kyivstar.ua/stream/tophits/master.m3u8",
+    "website": "https://radio.kyivstar.ua/tophits",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "dance",
+      "rock",
+      "pop",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:08:25+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.lada",
+    "name": "Lada.FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/70357.v6.png",
+    "stream_url": "http://lada.fm:8000/radio1",
+    "website": "http://lada.fm/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "pop",
+      "news"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:09:20+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.liberland",
+    "name": "Liberland FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/77550.v3.png",
+    "stream_url": "https://liberlandfm.s02.radio-tochka.com:4415/stream",
+    "website": "http://liberland.fm/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "pop",
+      "relax",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:07:40+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.lightonangeltone",
+    "name": "Light On: Angel Tone",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/154188.v3.png",
+    "stream_url": "http://212.84.160.3:5964/;",
+    "website": "https://lightcard.github.io/lightonangeltone.github.io/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "talk",
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:12:10+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.liqui",
+    "name": "Liqui Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/87978.v9.png",
+    "stream_url": "https://stream.zeno.fm/ug59eq099yzuv",
+    "website": "https://liquiradio.com/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "drum'n'bass"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:01:41+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.lis",
+    "name": "LisFm",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/79991.v14.png",
+    "stream_url": "https://globalic.stream:1970/stream",
+    "website": "https://lisfm.net.ua/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "trance",
+      "disco"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:08:26+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.loungefm.com.ua",
+    "name": "Lounge Fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/108.v11.png",
+    "stream_url": "https://cast.mediaonline.net.ua/loungefm320",
+    "website": "http://loungefm.com.ua/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "lounge",
+      "downtempo",
+      "chill-out"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:59:17+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.luga",
+    "name": "Lugaradio",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/64876.v15.png",
+    "stream_url": "https://radiopotok2.online/http://91.200.41.23:8000/192.mp3",
+    "website": "http://lradio.in/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "trance",
+      "house"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:04:40+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.luther",
+    "name": "VDVO",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/74207.v32.png",
+    "stream_url": "https://stream.zeno.fm/swzfd3a9dchvv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "dance",
+      "r'n'b",
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:05:38+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.luxfm",
+    "name": "Люкс ФМ",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/161.v14.png",
+    "stream_url": "https://streamvideo.luxnet.ua/lux/smil:lux.stream.smil/playlist.m3u8",
+    "website": "http://lux.fm/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "dance",
+      "r'n'b",
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:59:14+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.lwr",
+    "name": "Львівська хвиля",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/53.v9.png",
+    "stream_url": "https://onair.lviv.fm:8443/lviv.fm",
+    "website": "http://lviv.fm/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:59:15+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.m4u",
+    "name": "M4U Radio Ukraine",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/95966.v22.png",
+    "stream_url": "https://stream.m4u.live:8005/stream",
+    "website": "https://m4u-radio.net/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "dance",
+      "electronic",
+      "house",
+      "techno",
+      "progressive house",
+      "deep house",
+      "electro house",
+      "club",
+      "dj"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:04:42+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.mad",
+    "name": "Mad FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/128119.v9.png",
+    "stream_url": "https://stream.mad-fm.com:1055/stream",
+    "website": "https://mad-fm.com/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "dance",
+      "rock",
+      "pop",
+      "rap",
+      "hip-hop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:09:17+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.magnit",
+    "name": "Радіо Магніт",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/73401.v7.png",
+    "stream_url": "http://176.67.8.31:8000/stream",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "dance",
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:01:50+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.magnolia",
+    "name": "Магнолия",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/428.v1.png",
+    "stream_url": "http://109.68.47.66:8080/stream128",
+    "website": "https://magnolia-tv.com/radio",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "pop",
+      "news"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:06:32+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.mamaodessa",
+    "name": "Одесса Мама",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/426.v2.png",
+    "stream_url": "http://online.odessa.fm:8000/stream",
+    "website": "http://www.mama.odessa.fm/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "pop",
+      "news",
+      "folk",
+      "chanson"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:01:46+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.maximum",
+    "name": "Радіо Максимум",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/66.v7.png",
+    "stream_url": "https://streamvideo.luxnet.ua/maximum/smil:maximum.stream.smil/playlist.m3u8",
+    "website": "https://maximum.fm/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "pop",
+      "news"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:59:19+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.melodeon",
+    "name": "Радіо Melodeon",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/116175.v9.png",
+    "stream_url": "https://icecast.xtvmedia.pp.ua/melodeon.mp3",
+    "website": "https://play.xtvmedia.pp.ua/player/Melodeon/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "classic",
+      "retro",
+      "oldies",
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:08:25+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.melodiya",
+    "name": "Мелодія FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/26.v39.png",
+    "stream_url": "https://online.melodiafm.ua/MelodiaFM",
+    "website": "https://www.melodiafm.ua/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:59:14+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.meydanfm",
+    "name": "Meydan FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/46366.v4.png",
+    "stream_url": "http://stream.meydan.fm:8800/meydanhigh.mp3",
+    "website": "http://meydan.fm/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "pop",
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:03:44+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.mfm",
+    "name": "MFM Station",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/8.v4.png",
+    "stream_url": "https://radio.mfm.ua/online128",
+    "website": "http://www.mfm.ua/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "dance",
+      "pop",
+      "dance pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:59:23+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.mgreatest",
+    "name": "Greatest Songs Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/24704.v1.png",
+    "stream_url": "https://stream.mjoy.ua:8443/radio-great",
+    "website": "https://mjoy.ua/radios/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "pop",
+      "top40",
+      "oldies"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:01:47+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.miami",
+    "name": "Radio Miami",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/76181.v5.png",
+    "stream_url": "http://62.80.190.247:8001/NRK128",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "r'n'b",
+      "hip-hop",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:02:42+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.minatrix",
+    "name": "Minatrix.FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/89535.v4.png",
+    "stream_url": "https://minatrix.fm/stream/",
+    "website": "https://minatrix.fm/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "dance",
+      "electronic",
+      "trance",
+      "house",
+      "dubstep",
+      "techno",
+      "progressive house",
+      "deep house",
+      "electro house",
+      "club",
+      "drum'n'bass",
+      "dj",
+      "mash-up"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:07:29+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.mist",
+    "name": "РадіоMIST",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/154207.v3.png",
+    "stream_url": "https://a7.asurahosting.com:8340/radio.mp3",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "rock",
+      "pop",
+      "rap",
+      "indie"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:10:13+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.misto",
+    "name": "Misto FM Deep",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/74333.v16.png",
+    "stream_url": "https://stream.mistofm.com/listen/misto_fm_deep/radio.mp3",
+    "website": "https://mistofm.com/deep",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "deep house",
+      "easy listening",
+      "relax",
+      "chill-out"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:00:32+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.mistonadbugom",
+    "name": "Місто над Бугом",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/82785.v8.png",
+    "stream_url": "https://stream.mistonadbugom.com.ua/radiomistonadbugom",
+    "website": "http://radio-mb.net.ua/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "pop",
+      "talk",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:04:45+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.mix",
+    "name": "mix-fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/69243.v14.png",
+    "stream_url": "http://vtsu.org.ua:8000/vtsu-dance",
+    "website": "http://mixfm.com.ua/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "dance",
+      "house"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:02:41+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.morelounge",
+    "name": "MORE Lounge",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/66537.v13.png",
+    "stream_url": "https://cast.more.fm:8444/lounge",
+    "website": "http://more.fm/lounge/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "lounge"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:03:42+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.mousse",
+    "name": "Mousse Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/24703.v1.png",
+    "stream_url": "https://stream.mjoy.ua:8443/radio-mousse",
+    "website": "https://mjoy.ua/radios/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "lounge",
+      "jazz",
+      "chill-out"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:01:45+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.moyasemya",
+    "name": "Шлягер Одесса",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/81674.v53.png",
+    "stream_url": "https://myradio24.org/96203",
+    "website": "https://myradio24.com/ru/table/96203",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "trance",
+      "chanson",
+      "drum'n'bass"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:04:37+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.musichistory",
+    "name": "Music History Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/84152.v14.png",
+    "stream_url": "http://91.107.125.87:1040/stream",
+    "website": "https://musichistory.at.ua/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "dance",
+      "rock",
+      "pop",
+      "retro"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:06:33+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.musicradio",
+    "name": "Music Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/150021.v3.png",
+    "stream_url": "https://tavr.tvstitch.com/MusicRadio",
+    "website": "https://www.musicradio.ua/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "rock",
+      "pop",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:06:41+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.muzikalniiray",
+    "name": "Радио Музыкальный Рай",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/110466.v23.png",
+    "stream_url": "https://myradio24.org/96203",
+    "website": "https://chat.radio-paradise.de/html",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "dance",
+      "rock",
+      "pop",
+      "chanson"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:04:42+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.muzo",
+    "name": "Radio Muzon4ik",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/71240.v13.png",
+    "stream_url": "https://stream.zenolive.com/y1ckzttu1ceuv",
+    "website": "http://radiomuzon4ik.pp.ua/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:08:29+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.muzvar",
+    "name": "МУЗВАР",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/143926.v6.png",
+    "stream_url": "https://radiofm.stream:8443/muzvar_sq",
+    "website": "https://nashi.tv/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:12:08+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.myzukrainy",
+    "name": "Ми з України",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/113034.v6.png",
+    "stream_url": "https://stream4.nadaje.com:9889/lux64",
+    "website": "https://myzukrainy.com/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "rock",
+      "pop",
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:02:47+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.nadvirna",
+    "name": "Радіо Надвірна 107.3 Fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/117432.v2.png",
+    "stream_url": "http://195.114.96.114:7878/",
+    "website": "https://nadvirna-fm.webnode.com.ua/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "pop",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:11:13+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.nakypilo",
+    "name": "Радіо Накипіло",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/125808.v4.png",
+    "stream_url": "https://radiostream.nakypilo.ua/full",
+    "website": "https://radio.nakypilo.ua/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "pop",
+      "culture",
+      "education",
+      "entertainment",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:08:30+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.narodnoefm",
+    "name": "Народное Радио",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/354.v6.png",
+    "stream_url": "http://62.80.190.247:8001/NaRadiO128",
+    "website": "http://narodnoe.fm/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "dance",
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:03:43+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.nashe.radio",
+    "name": "Наше Радіо",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/24.v31.png",
+    "stream_url": "https://online.nasheradio.ua/NasheRadio",
+    "website": "https://www.nasheradio.ua/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:59:20+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.newday1006",
+    "name": "NewDay FM 100.6",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/105693.v2.png",
+    "stream_url": "http://178.93.125.230:8000/newday.mp3",
+    "website": "http://www.newday.org.ua/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "dance",
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:03:47+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.nezalezhnist",
+    "name": "Radio Nezalezhnist",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/107900.v1.png",
+    "stream_url": "http://82.207.109.117:8000/;",
+    "website": "http://radio-n.com/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "news"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:09:23+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.nikvesti",
+    "name": "NIKVESTI.FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/66629.v2.png",
+    "stream_url": "http://nikvesti.fm:8000/live",
+    "website": "http://nikvesti.fm/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "rock",
+      "pop",
+      "lounge",
+      "jazz",
+      "downtempo",
+      "chill-out"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:09:17+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.nisaja",
+    "name": "Радио Нисая",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/152657.v1.png",
+    "stream_url": "http://radio.ukraudio.com:8000/channel2",
+    "website": "https://www.nisaja.media/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "chill-out"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:12:07+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.nostalgie",
+    "name": "Radio Nostalgie",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/64952.v9.png",
+    "stream_url": "https://streamvideo.luxnet.ua/nostalgi/nostalgi.stream/playlist.m3u8",
+    "website": "http://nostalgie.kiev.ua/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "dance",
+      "disco",
+      "pop",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:00:17+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.nostalgiodessa",
+    "name": "Nostalgie Odessa",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/121052.v13.png",
+    "stream_url": "https://giss.tv:666/00001.mp3",
+    "website": "https://odessaonlineradio.blogspot.com/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "rock",
+      "disco",
+      "pop",
+      "blues",
+      "chill-out",
+      "retro",
+      "instrumental"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:05:44+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.novaline",
+    "name": "NovaLine-radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/109684.v14.png",
+    "stream_url": "https://stream.novaline.fm/Novaline_128",
+    "website": "https://novaline.fm/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "dance",
+      "pop",
+      "club",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:03:41+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.novezhyttya",
+    "name": "Радiо Нове Життя",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/140400.v1.png",
+    "stream_url": "https://online.novezhitya.net:8000/nlradio_ua-hi.aac",
+    "website": "https://novezhitya.net/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:11:15+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.noviyden",
+    "name": "Новий День 101,9 FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/109792.v5.png",
+    "stream_url": "https://stream.zeno.fm/5burvqocukruv",
+    "website": "https://1019.kr.ua/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "rock",
+      "pop",
+      "top40",
+      "retro",
+      "90s",
+      "00s",
+      "oldies",
+      "hits",
+      "dance pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:01:43+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.nrj",
+    "name": "NRJ",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/18.v12.png",
+    "stream_url": "https://cast.mediaonline.net.ua/nrj320",
+    "website": "http://nrj.ua/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "dance",
+      "disco",
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:59:15+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.nv",
+    "name": "Радіо НВ",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/29.v14.png",
+    "stream_url": "https://online-radio.nv.ua/radionv.mp3",
+    "website": "https://radio.nv.ua/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:59:17+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.obozrevateloboz",
+    "name": "Radio Обозреватель - Радио Обоз",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/62819.v13.png",
+    "stream_url": "https://radio-stream-2.obozrevatel.com/radio.oboz128.mp3",
+    "website": "http://radio.obozrevatel.com/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "pop",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:04:39+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.odessa",
+    "name": "Всемирное Одесское радио",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/81036.v16.png",
+    "stream_url": "https://myradio24.org/odesradio",
+    "website": "https://odessaradio.org/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "disco",
+      "pop",
+      "blues",
+      "retro",
+      "italian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:01:40+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.okeanlyubvi",
+    "name": "Exclusive Music",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/128363.v9.png",
+    "stream_url": "https://myradio24.org/89476",
+    "website": "https://islandofhope.ucoz.org/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "disco",
+      "retro",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:10:20+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.oldperiscope",
+    "name": "Old Periscope Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/112077.v2.png",
+    "stream_url": "https://complex.in.ua/oldper",
+    "website": "https://oldprsradio.com/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "rock",
+      "blues",
+      "hard rock",
+      "indie",
+      "soul",
+      "soft rock",
+      "alternative rock",
+      "indie rock",
+      "folk rock",
+      "active rock"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:07:35+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.one92",
+    "name": "One FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/106946.v1.png",
+    "stream_url": "http://195.60.174.201:5555/320.mp3",
+    "website": "http://1fm.cn.ua/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "dance",
+      "house",
+      "club"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:11:09+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.opishnja",
+    "name": "Опішня ФМ",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/148364.v4.png",
+    "stream_url": "https://cast108372.customer.uar.net/opishnia320",
+    "website": "https://opishnya-gromada.gov.ua/opishnya-fm-14-44-12-26-05-2025/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "rock",
+      "pop",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:07:34+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.oradio",
+    "name": "ORadio",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/165.v6.png",
+    "stream_url": "https://myradio24.org/9209",
+    "website": "http://oradio.in.ua/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "rock",
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:02:43+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.orange",
+    "name": "Orange Radio Ukraine",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/35223.v12.png",
+    "stream_url": "https://stream.zeno.fm/5ez2dnpgixktv",
+    "website": "https://ofm.pp.ua/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "dance",
+      "pop",
+      "top40",
+      "adult contemporary",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:02:48+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.oreshki",
+    "name": "ОРЕШКИ.FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/68066.v2.png",
+    "stream_url": "https://195.78.93.22:8000/oreshki",
+    "website": "https://oreshki.neocities.org/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "dance",
+      "pop",
+      "talk",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:08:26+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.palerojal",
+    "name": "Радио Пале-Рояль",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/96061.v8.png",
+    "stream_url": "https://globalic.stream:1155/stream",
+    "website": "https://paleroyal33.wixsite.com/pale",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "chanson"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:06:38+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.paradise",
+    "name": "RMP Music COM LTD",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/148797.v7.png",
+    "stream_url": "https://radio-paradise.de:1050/stream",
+    "website": "https://site.radio-paradise.de/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "dance",
+      "house",
+      "techno",
+      "drum'n'bass"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:11:18+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.partyhit",
+    "name": "Party Hit Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/111249.v8.png",
+    "stream_url": "http://partyhitradio.com:8000/;",
+    "website": "http://partyhitradio.com/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:10:15+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.pershe",
+    "name": "Радіо Перше",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/112616.v4.png",
+    "stream_url": "https://live.radio1.com.ua/liveradio",
+    "website": "https://radio1.com.ua/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "pop",
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:07:37+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.pershelibertarianske",
+    "name": "Перше Лібертаріанське",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/105588.v3.png",
+    "stream_url": "https://stream.zeno.fm/swyh8kws108uv",
+    "website": "https://510.ua/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "talk",
+      "business",
+      "politics"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:08:28+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.pershemiske",
+    "name": "Перше міське радіо",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/78637.v5.png",
+    "stream_url": "https://live.1tv.od.ua/radio/stream/icecast.audio",
+    "website": "http://1tv.od.ua/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "pop",
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:05:43+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.pershiymynicipalnii",
+    "name": "Перший Муніципальний Інтернет-радіоканал",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/94527.v4.png",
+    "stream_url": "http://online.sokal.lviv.ua:8000/novydvir256.mp3",
+    "website": "https://1mp.in.ua/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "pop",
+      "news"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:08:36+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.pershykanal",
+    "name": "UA: Українське радіо",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/124.v20.png",
+    "stream_url": "https://radio2.ukr.radio/ur1-mp3-m",
+    "website": "https://ukr.radio/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:59:23+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.pervoyeradiofm1",
+    "name": "Перше радіо FM1",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/144055.v1.png",
+    "stream_url": "http://195.138.81.134:8000/radio1-256",
+    "website": "https://grad.ua/pershe-radio-fm1.html",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "pop",
+      "blues",
+      "jazz"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:11:19+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.pihotafm",
+    "name": "РАДІОПІХОТА",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/151336.v1.png",
+    "stream_url": "https://online.pihota.fm/listen/radio/128",
+    "website": "https://pihota.fm/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "pop",
+      "news",
+      "ethnic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:08:35+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.pleasuremusic",
+    "name": "Pleasure music station",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/120229.v5.png",
+    "stream_url": "http://listen.teploe.net:8100/pleasure",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "lounge",
+      "relax",
+      "chill-out",
+      "oldies"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:10:12+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.podilske",
+    "name": "Подільське радіо",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/95639.v17.png",
+    "stream_url": "https://podilske.com:8013/p-radio",
+    "website": "https://podilske.com/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "dance",
+      "pop",
+      "news",
+      "talk",
+      "retro"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:04:43+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.polis",
+    "name": "Радіо Polis",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/148256.v4.png",
+    "stream_url": "http://88.150.230.110:18067/;",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "dance",
+      "rock",
+      "pop",
+      "alternative",
+      "90s",
+      "00s",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:07:40+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.postup",
+    "name": "Радіо Поступ (Самбір)",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/131041.v2.png",
+    "stream_url": "https://cast108372.customer.uar.net/wtest",
+    "website": "https://www.radiopostup.com/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "pop",
+      "retro"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:11:59+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.power104",
+    "name": "PowerFM",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/71843.v11.png",
+    "stream_url": "https://cast.brg.ua/powerfm_main_public_mp3_hq",
+    "website": "https://www.powerfm.ua/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "pop",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:59:21+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.pravoslavtv",
+    "name": "Православ ТВ",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/71703.v1.png",
+    "stream_url": "http://live.pravoslav.tv:8000/stream.mp3",
+    "website": "http://www.pravoslav.tv/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "talk",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:06:42+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.prischepkin",
+    "name": "Radio Прищепкін TOP40 UA",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/96364.v19.png",
+    "stream_url": "https://aac.prischepkin.com:8443/radio",
+    "website": "https://top40.ua/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "electronic",
+      "rock",
+      "pop",
+      "rap",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:06:39+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.promin",
+    "name": "Радіо Промінь",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/125.v13.png",
+    "stream_url": "https://radio.ukr.radio/ur2-mp3-m",
+    "website": "https://ukr.radio/radio-promin",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "pop",
+      "jazz",
+      "news",
+      "talk",
+      "classic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:00:34+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.prostofm",
+    "name": "Просто Радио",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/1088.v20.png",
+    "stream_url": "http://85.238.113.60:8000/PRK128",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "rock",
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:00:26+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.pryamiy",
+    "name": "Прямий FM",
+    "image": "https://cdn.onlineradiobox.com/img/logo/4/133334.png",
+    "stream_url": "https://cast.mediaonline.net.ua/prmfm320",
+    "website": "https://prm.fm/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "talk",
+      "deep house",
+      "indie"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:06:40+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.pulsfm",
+    "name": "Радио Пульс FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/59661.v3.png",
+    "stream_url": "http://94.179.129.2:8000/live320",
+    "website": "http://pulsfm.lg.ua/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "rock",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:08:29+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.pulyny",
+    "name": "Mix Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/92807.v11.png",
+    "stream_url": "https://c38.radioboss.fm:8243/mixradio",
+    "website": "https://mixradio.com.ua/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "dance",
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:10:11+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.pulzus921",
+    "name": "Pulzus FM - Радіо Пульс ФМ",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/79365.v12.png",
+    "stream_url": "https://pulzusfm.eu/sionelo",
+    "website": "http://www.pulzusfm.eu/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "dance",
+      "disco",
+      "pop",
+      "news",
+      "talk",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:04:42+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.qmall",
+    "name": "Qmall FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/126663.v3.png",
+    "stream_url": "https://icecast.qmallfm.com/stream",
+    "website": "https://www.qmallfm.com/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "dance",
+      "r'n'b",
+      "pop",
+      "hip-hop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:10:11+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.radekhiv",
+    "name": "Радіо Радехів",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/76572.v5.png",
+    "stream_url": "http://194.44.230.64:8000/liveradio.mp3",
+    "website": "http://radekhiv.if.ua/radio/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "talk",
+      "children",
+      "culture",
+      "education",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:08:23+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.radiant",
+    "name": "RadioRadiant UA",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/154875.v1.png",
+    "stream_url": "https://stream.radioradiant.pp.ua/listen/radioradiant_ua/radio.mp3",
+    "website": "https://radioradiant.pp.ua/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "dance",
+      "pop",
+      "rock",
+      "electronic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:09:27+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.radio",
+    "name": "Х-Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/134472.v36.png",
+    "stream_url": "https://giss.tv:666/xradio_channel.ogg",
+    "website": "https://xradio.live/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "dance",
+      "electronic",
+      "house",
+      "techno",
+      "drum'n'bass"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:01:44+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.radio.roks",
+    "name": "Radio ROKS",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/5.v34.png",
+    "stream_url": "https://online.radioroks.ua/RadioROKS",
+    "website": "https://www.radioroks.ua/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "rock",
+      "heavy metal",
+      "classic rock",
+      "blues",
+      "hard rock",
+      "rock'n'roll",
+      "metal"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:59:12+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.radio1",
+    "name": "Радіо 1",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/107762.v3.png",
+    "stream_url": "http://185.96.188.24:8000/live",
+    "website": "https://uagit.tv/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "pop",
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:10:24+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.radio10",
+    "name": "Радіо 10",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/60539.v3.png",
+    "stream_url": "https://stream.chv.ua:8443/acc.mp3",
+    "website": "http://radio10.ua/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "rock",
+      "r'n'b",
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:04:38+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.radio7",
+    "name": "Радіо 7",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/101417.v3.png",
+    "stream_url": "https://media2.streambrothers.com:8034/stream",
+    "website": "https://radio7.com.ua/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "pop",
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:12:04+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.radioatwork",
+    "name": "Radio At Work",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/24705.v1.png",
+    "stream_url": "http://stream.mjoy.ua:8000/radio-412",
+    "website": "https://mjoy.ua/radios/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "rock",
+      "pop",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:01:47+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.radioec",
+    "name": "Радио ЕС",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/189.v1.png",
+    "stream_url": "http://185.65.245.34:8000/kiev",
+    "website": "http://radioec.com.ua/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "rock",
+      "pop",
+      "news"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:04:44+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.radioexinternetstation",
+    "name": "RadioEx EDM",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/21202.v9.png",
+    "stream_url": "https://globalic.stream:1535/stream",
+    "website": "http://radioex.in.ua/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "dance",
+      "electronic",
+      "trance"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:02:41+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.radiofolclormoldovenesc",
+    "name": "Radio Folclor Moldovenesc (Cernăuți)",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/83561.v21.png",
+    "stream_url": "https://ssl.radios.show/8144/stream",
+    "website": "https://costiceni.blogspot.com/p/radio-folclor-moldovenesc.html",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "folk",
+      "ethnic",
+      "instrumental"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:04:45+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.radiohub",
+    "name": "RADIOHUB",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/132776.v1.png",
+    "stream_url": "https://myradio24.org/radiohub",
+    "website": "https://radiohub.fun/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "rock",
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:10:13+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.radioitaliana",
+    "name": "Radio Italiana",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/92021.v7.png",
+    "stream_url": "https://tavr.tvstitch.com/RadioItaliana",
+    "website": "https://www.radioitaliana.com.ua/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:03:36+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.radiolampa",
+    "name": "Радіо Лампа",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/122368.v6.png",
+    "stream_url": "https://cast.gossdhosting.com/listen/radio_lampa/radio.mp3",
+    "website": "http://radiolampa.com.ua/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "blues",
+      "rock'n'roll",
+      "country"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:07:42+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.radiolla",
+    "name": "Radiolla",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/77528.v21.png",
+    "stream_url": "http://radiolla.com/",
+    "website": "http://radiolla.com/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "downtempo",
+      "easy listening"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:11:17+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.radiom",
+    "name": "Radio M",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/59660.v8.png",
+    "stream_url": "https://live.radiom.ua/stream",
+    "website": "https://radiom.ua/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "pop",
+      "news",
+      "talk",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:09:20+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.radiomaria",
+    "name": "Радіо Марія",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/356.v2.png",
+    "stream_url": "http://91.203.4.121:8000/stream160",
+    "website": "http://radiomaria.org.ua/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:00:33+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.radiopyatnica",
+    "name": "Радіо П&#39;ятниця",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/382.v14.png",
+    "stream_url": "https://cast.mediaonline.net.ua/radiopyatnica320",
+    "website": "https://radiopyatnica.com.ua/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:59:18+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.radiorelax.com.ua",
+    "name": "Радіо Relax",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/27.v37.png",
+    "stream_url": "https://online.radiorelax.ua/RadioRelax",
+    "website": "https://www.radiorelax.ua/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "rock",
+      "pop",
+      "lounge",
+      "acid jazz",
+      "jazz"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:59:13+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.radioshanson",
+    "name": "Radio Shanson",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/144248.v2.png",
+    "stream_url": "https://cast.brg.ua/newshanson_main_public_mp3_hq",
+    "website": "https://brg.ua/radio-shanson/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "news",
+      "talk",
+      "chanson",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:09:23+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.radioshansonplus",
+    "name": "&#34;Шансон Плюс&#34;",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/143750.v2.png",
+    "stream_url": "https://radio.radioshansonplus.com:8055/radio",
+    "website": "http://radioshansonplus.com/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "pop",
+      "chanson",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:09:27+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.radioshlager",
+    "name": "Радио Шлягер",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/69874.v3.png",
+    "stream_url": "http://62.80.190.246:8000/sh128",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:05:36+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.radioterra",
+    "name": "Радіо Терра",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/383.v30.png",
+    "stream_url": "http://94.124.167.212:8000/terra",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:01:48+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.radiotrek",
+    "name": "Радіо Трек",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/68.v5.png",
+    "stream_url": "http://online2.radiotrek.rv.ua:8000/AAC+_64",
+    "website": "http://www.radiotrek.rv.ua/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "pop",
+      "news"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:00:37+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.raynadvoih",
+    "name": "Radio Felichita Рай на двоих",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/92467.v8.png",
+    "stream_url": "https://stream.zeno.fm/sb0v1ne2w7zuv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "pop",
+      "retro",
+      "chanson"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:05:37+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.real",
+    "name": "RealRadio",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/113232.v6.png",
+    "stream_url": "https://stream.zeno.fm/4g1c51124hhvv",
+    "website": "https://zeno.fm/radio/therealradio",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "pop",
+      "90s",
+      "70s",
+      "60s",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:08:28+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.record",
+    "name": "Рекорд ФМ 105.2",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/152843.v1.png",
+    "stream_url": "https://a13.asurahosting.com/listen/record_fm_105.2/radio.mp3",
+    "website": "https://recordfm.com.ua/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "dance",
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:11:12+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.recordukraine",
+    "name": "Радіо Рекорд Україна",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/106481.v51.png",
+    "stream_url": "https://online.radiorecord.com.ua/rr_320",
+    "website": "https://www.radiorecord.com.ua/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "dance",
+      "electronic",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:00:20+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.refm",
+    "name": "REFM Україна",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/150351.v2.png",
+    "stream_url": "https://6ff3ac8b-neptune-cdn-external-cdn31-live-cluster-asia-cfd8-prd.taurermediaserver.xyz/listen/refm_ua/REFM",
+    "website": "https://refm.com.ua/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "dance",
+      "electronic",
+      "disco",
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:09:19+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.relife",
+    "name": "ReLIFE FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/109991.v2.png",
+    "stream_url": "http://relife.media/radio",
+    "website": "http://relife.media/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "dance",
+      "pop",
+      "news"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:05:40+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.respect",
+    "name": "Радіо Респект",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/85095.v17.png",
+    "stream_url": "https://myradio24.org/95451",
+    "website": "http://radiorespect.com.ua/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "dance",
+      "electronic",
+      "house",
+      "r'n'b",
+      "pop",
+      "latin"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:02:46+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.retro.fm",
+    "name": "Ретро FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/17.v2.png",
+    "stream_url": "https://cast.radiogroup.com.ua/retro",
+    "website": "http://www.retro.ua/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "dance",
+      "disco",
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:00:28+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.rizdvyane",
+    "name": "Різдвяне Радіо",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/153370.v3.png",
+    "stream_url": "https://stream.mjoy.ua:8443/radio-mousse?cache=1768905883901",
+    "website": "https://theheartofwine.com/radio/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "relax",
+      "christmas"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:10:14+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.rmix",
+    "name": "Informator FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/352.v10.png",
+    "stream_url": "https://main.inf.fm:8101/;",
+    "website": "https://informator.fm/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "top40",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:59:24+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.rock",
+    "name": "РокРадіо UA",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/37171.v21.png",
+    "stream_url": "https://rockradioua.online:8433/rock_dodatok_256",
+    "website": "https://rockradioua.online/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "rock"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:00:34+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.rockomlet",
+    "name": "Рок-Омлет",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/59112.v11.png",
+    "stream_url": "https://radio.rock-omlet.com/live",
+    "website": "https://rock-omlet.com/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "rock",
+      "blues",
+      "metal",
+      "punk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:03:41+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.rockportal",
+    "name": "Радио РОК ПОРТАЛ",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/115482.v4.png",
+    "stream_url": "http://stream.radio-shlyager.biz.ua:4050/stream",
+    "website": "http://stream.radio-shlyager.biz.ua/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "rock"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:11:11+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.rodynne",
+    "name": "Родинне радіо",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/67240.v5.png",
+    "stream_url": "http://radio.ukraudio.com:8000/channel1.aac",
+    "website": "http://www.rodynne-radio.com/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:03:36+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.ruh",
+    "name": "РУХ",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/131504.v8.png",
+    "stream_url": "https://a1.asurahosting.com/listen/rukh/radio.mp3",
+    "website": "https://rukh.live/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "indie",
+      "alternative",
+      "punk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:07:41+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.rzk",
+    "name": "RzK",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/57.v2.png",
+    "stream_url": "https://stream.mjoy.ua:8443/radio-z-kryjivky",
+    "website": "https://mjoy.ua/radio/rzk/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "rock",
+      "alternative",
+      "punk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:01:42+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.safjembeatschannel",
+    "name": "SaFJEM beats channel",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/134430.v3.png",
+    "stream_url": "https://myradio24.org/beats",
+    "website": "https://safjem.com/beats.html",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "jazz",
+      "hip-hop",
+      "funk",
+      "smooth jazz",
+      "instrumental"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:08:24+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.sanremomus",
+    "name": "Radio Felichita Ukrein",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/85237.v47.png",
+    "stream_url": "https://stream.zeno.fm/mbx1q0e2ctzuv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "pop",
+      "italian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:04:44+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.sequence",
+    "name": "Sequence Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/57217.v9.png",
+    "stream_url": "https://stream.sequence.com.ua/srs128",
+    "website": "https://sequence.com.ua/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "dance",
+      "electronic",
+      "trance",
+      "house",
+      "dubstep",
+      "progressive trance",
+      "drum'n'bass"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:06:41+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.sfera",
+    "name": "Сфера-ФМ",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/139826.v3.png",
+    "stream_url": "https://cdn-br2.live-tv.cloud/sferarvFM/64k/icecast.audio",
+    "website": "https://sfera-tv.com.ua/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:09:21+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.sferamusic",
+    "name": "Radio &#34;Sfera Music&#34;",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/85070.v5.png",
+    "stream_url": "https://radio.radioshansonplus.com:8005/radio",
+    "website": "https://radiosferamusic.com/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "dance",
+      "rock",
+      "disco"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:10:12+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.shans",
+    "name": "Радіо ШАНС",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/78970.v2.png",
+    "stream_url": "http://195.182.22.130:8000/shans_kalush",
+    "website": "http://radioshans.com.ua/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "pop",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:08:32+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.shanson",
+    "name": "Шлягер FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/12.v21.png",
+    "stream_url": "https://cast.brg.ua/shanson_main_public_mp3_hq",
+    "website": "https://shlager.fm/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:59:22+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.sidfm",
+    "name": "СіД FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/96002.v1.png",
+    "stream_url": "http://stream.simya.lutsk.ua:8000/sid_fm_96",
+    "website": "http://radio.simya.com.ua/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "dance",
+      "rock",
+      "pop",
+      "alternative"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:08:35+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.silpo",
+    "name": "Радіо «Сільпо»",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/128065.v9.png",
+    "stream_url": "https://stream.radio.silpo.ua/silpo",
+    "website": "https://radio.silpo.ua/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "rock",
+      "pop",
+      "lounge",
+      "hip-hop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:07:36+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.skovoroda",
+    "name": "Radio SKOVORODA",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/10806.v10.png",
+    "stream_url": "https://stream.radioskovoroda.com/radioskovoroda",
+    "website": "http://radioskovoroda.com/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "rock",
+      "pop",
+      "deep house",
+      "indie",
+      "alternative",
+      "indie rock"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:00:24+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.smartzeros",
+    "name": "Smart Zeros",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/128191.v4.png",
+    "stream_url": "https://s61.radiolize.com/radio/8000/radio.mp3",
+    "website": "https://smart2000s.com/cool-songs-for-2000-theme-party/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "dance",
+      "trance",
+      "house",
+      "rock",
+      "pop",
+      "hip-hop",
+      "00s"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:09:29+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.sok1047",
+    "name": "Sok FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/82783.v5.png",
+    "stream_url": "https://online-sokfm.pp.ua:8443/SokFM_128",
+    "website": "https://nordbess-news.cv.ua/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "pop",
+      "news",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:09:16+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.sokalfm",
+    "name": "Радіо Сокаль",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/419.v3.png",
+    "stream_url": "http://online.sokal.lviv.ua:8000/sokalfm96.mp3",
+    "website": "http://www.sokalfm.com/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "pop",
+      "news"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:01:40+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.spiritdevelop",
+    "name": "SpiritDevelopRadio",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/149317.v1.png",
+    "stream_url": "https://fast.citrus3.com:2020/stream/spiritdevelopradio",
+    "website": "https://spirit-develop.org/%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:12:03+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.sportua",
+    "name": "Radio Sport",
+    "image": "https://cdn.onlineradiobox.com/img/logo/2/45452.png",
+    "stream_url": "http://151.80.97.38/proxy/radiosport?mp=/stream",
+    "website": "http://radiosport.ua/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "talk",
+      "sports"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:06:34+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.sprotyv",
+    "name": "Radio Sprotyv",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/122563.v3.png",
+    "stream_url": "https://listen.radioking.com/radio/528787/stream/587251",
+    "website": "https://www.radiosprotyv.com/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "pop",
+      "news"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:10:17+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.starfm",
+    "name": "Star FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/83654.v15.png",
+    "stream_url": "http://165.22.205.224:8000/live",
+    "website": "https://starfm.com.ua/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "dance",
+      "electronic",
+      "trance",
+      "house",
+      "dubstep",
+      "deep house",
+      "club"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:01:48+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.stilnoe.fm",
+    "name": "Перець FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/54.v19.png",
+    "stream_url": "https://radio.perec.fm/radio-stilnoe",
+    "website": "https://perec.fm/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "dance",
+      "rock",
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:59:21+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.stryifm",
+    "name": "Стрий FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/390.v6.png",
+    "stream_url": "http://193.53.83.13:8000/stryi-fm_mp3",
+    "website": "http://fm.stryi.com/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "pop",
+      "news"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:01:39+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.style",
+    "name": "Style FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/87160.v6.png",
+    "stream_url": "https://myradio24.org/station",
+    "website": "https://fm.co.ua/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "electronic",
+      "lounge",
+      "deep house",
+      "nu disco",
+      "vocal",
+      "soul",
+      "chill-out"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:04:39+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.sumdu",
+    "name": "Радіо СумДУ",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/85706.v2.png",
+    "stream_url": "http://radio.sumdu.edu.ua:8000/main",
+    "website": "http://open.sumdu.edu.ua/test/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "dance",
+      "rock",
+      "r'n'b",
+      "disco",
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:10:22+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.sunua",
+    "name": "SUN FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/79869.v32.png",
+    "stream_url": "https://ec5.yesstreaming.net:2225/stream",
+    "website": "https://sunfm.ua/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "dance",
+      "pop",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:59:24+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.svezhak",
+    "name": "Свежак",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/117381.v5.png",
+    "stream_url": "https://myradio24.org/78532",
+    "website": "https://myradio24.com/ru/table/78532",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:03:39+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.svit",
+    "name": "Світ FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/150398.v1.png",
+    "stream_url": "http://195.234.148.52:8000/stream.mp3",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:12:09+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.svitanok",
+    "name": "Радіо &#34;Світанок&#34;",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/115899.v1.png",
+    "stream_url": "https://radiosvitanok.org.ua/proxy.php",
+    "website": "http://www.radiosvitanok.org.ua/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:08:33+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.svitleradioemmanuel",
+    "name": "Світле радіо &#34;Еммануїл&#34;",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/60331.v11.png",
+    "stream_url": "https://online.svitle.org/hls/svitle/aac_hifi.m3u8",
+    "website": "https://svitle.org/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "talk",
+      "classic",
+      "gospel",
+      "instrumental",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:02:43+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.svityaz",
+    "name": "Радіо Світязь",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/148144.v7.png",
+    "stream_url": "http://95.47.200.183:8000/;",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "pop",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:12:05+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.svobodafm",
+    "name": "SVOBODA.FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/37193.v15.png",
+    "stream_url": "https://listen.radioking.com/radio/623869/stream/685978",
+    "website": "http://svoboda.fm/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "pop",
+      "news",
+      "talk",
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:06:37+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.syaivo",
+    "name": "Radio Syaivo",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/64871.v4.png",
+    "stream_url": "http://stream.ntktv.ua:8000/syaivo.mp3",
+    "website": "http://syaivo.fm/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "pop",
+      "talk",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:05:38+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.tank",
+    "name": "Радіо Такт",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/45454.v8.png",
+    "stream_url": "https://radiotakt.com.ua/radiotakt.m3u",
+    "website": "http://radiotakt.com.ua/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "rock",
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:03:40+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.terenfm",
+    "name": "Teren FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/150961.v4.png",
+    "stream_url": "https://online.teren.fm/teren_320",
+    "website": "https://teren.fm/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "pop",
+      "folk",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:11:16+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.tim",
+    "name": "TIM-FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/132488.v3.png",
+    "stream_url": "https://tim-fm.tim.ua/cheaac",
+    "website": "https://timfm.online/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:09:25+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.tochka",
+    "name": "Радіоточка",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/129503.v3.png",
+    "stream_url": "https://radio2.ukr.radio/ur5-mp3",
+    "website": "https://ukr.radio/news.html?newsID=102099",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "pop",
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:02:40+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.topradio",
+    "name": "TopRadio",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/87938.v8.png",
+    "stream_url": "https://stream.topradio.in.ua/topradio.mp3",
+    "website": "https://topradio.fm/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "pop",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:02:40+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.tranceisstar",
+    "name": "TRANCE IS STAR RADIO",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/184.v13.png",
+    "stream_url": "https://myradio24.org/tisradio",
+    "website": "https://tranceisstar.pp.ua/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "trance",
+      "techno",
+      "ambient",
+      "progressive house",
+      "deep house",
+      "chill-out"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:59:17+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.tranceuphoria",
+    "name": "TrancEuphoria",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/145.v5.png",
+    "stream_url": "https://radiokrug.ru/radio/tranceuphoria/icecast.audio",
+    "website": "http://www.teuphoria.com/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "trance",
+      "psy trance",
+      "progressive house",
+      "progressive trance"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:02:47+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.tretykanal",
+    "name": "Радіо Культура",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/126.v19.png",
+    "stream_url": "https://radio.ukr.radio/ur3-mp3-m",
+    "website": "https://ukr.radio/channel.html?channelID=3",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:01:49+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.trklemberg",
+    "name": "TRK Lemberg",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/110240.v8.png",
+    "stream_url": "http://212.84.160.3:4627/;",
+    "website": "https://linktr.ee/trklembergtv",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "rock",
+      "pop",
+      "club"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:09:25+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.trkrai",
+    "name": "Радіо РАІ",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/384.v5.png",
+    "stream_url": "https://radio.rai.ua:9000/rai",
+    "website": "http://trkrai.com/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "news",
+      "talk",
+      "folk",
+      "culture",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:03:46+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.tryzubfm",
+    "name": "Тризуб ФМ",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/59659.v10.png",
+    "stream_url": "http://217.24.172.159:8000/radio.mp3",
+    "website": "http://trizub-fm.online/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "pop",
+      "talk",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:02:39+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.tunemo",
+    "name": "TunemoFM",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/139689.v4.png",
+    "stream_url": "https://myradio24.org/tunemofm",
+    "website": "https://tunemofm.net/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "dance",
+      "electronic",
+      "house"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:05:36+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.tyasmin",
+    "name": "Радіо Тясмин",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/73825.v3.png",
+    "stream_url": "http://176.67.0.149:8275/live",
+    "website": "http://smilamedia.org.ua/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "rock",
+      "pop",
+      "news",
+      "talk",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:05:42+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.uaestrada",
+    "name": "Радіо Українська Пісня",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/74352.v7.png",
+    "stream_url": "https://myradio24.org/50904",
+    "website": "http://radio.uaestrada.org/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "folk",
+      "retro",
+      "90s",
+      "80s",
+      "70s",
+      "oldies",
+      "60s",
+      "50s",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:00:28+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.uafm",
+    "name": "UAFM",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/86.v3.png",
+    "stream_url": "https://stream.uafm.in.ua/uafm",
+    "website": "http://uafm.org/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "dance",
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:00:25+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.ukhradio",
+    "name": "УХ радіо",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/91315.v3.png",
+    "stream_url": "http://193.169.80.7:8001/efir",
+    "website": "http://uhradio.ua/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "pop",
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:03:44+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.ukrnr",
+    "name": "Українське народне радіо",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/110256.v3.png",
+    "stream_url": "https://icecast.xtvmedia.pp.ua/UKRNR.mp3",
+    "website": "http://xtvplay.pp.ua/player/UKRNR/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:05:46+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.umpako",
+    "name": "Умпако Радио",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/51344.v2.png",
+    "stream_url": "https://umpako.com/stream",
+    "website": "http://umpako.com/radio.php",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "dubstep",
+      "pop",
+      "ambient",
+      "chill-out",
+      "alternative"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:10:16+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.una",
+    "name": "Радіо УНА",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/88559.v2.png",
+    "stream_url": "http://91.218.214.3:8000/una",
+    "website": "http://www.radio-una.com.ua/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "pop",
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:08:27+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.usr",
+    "name": "Urban Space Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/24702.v3.png",
+    "stream_url": "https://stream.urbanspaceradio.com:8443/urban-space-radio",
+    "website": "http://urbanspaceradio.com/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "indie",
+      "alternative"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:02:45+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.versiya",
+    "name": "Версія ФМ",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/25238.v5.png",
+    "stream_url": "http://213.174.8.35:8002/;",
+    "website": "http://versiyafm.com/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:05:39+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.veshok",
+    "name": "Veshok Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/150672.v2.png",
+    "stream_url": "https://radio.veshok.com:8443/veshokradio",
+    "website": "https://veshok.com/radio",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "dance",
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:09:19+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.vezha",
+    "name": "Radio Vezha",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/64870.v7.png",
+    "stream_url": "https://myradio24.org/69829",
+    "website": "http://www.vezha.org/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "rock",
+      "pop",
+      "talk",
+      "classic",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:03:44+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.vgolos",
+    "name": "Вголос FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/192.v6.png",
+    "stream_url": "https://cast108372.customer.uar.net/vgolos64",
+    "website": "http://vgolos.com.ua/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "rock",
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:02:36+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.vilne",
+    "name": "Вільне Радіо  Жовква",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/84163.v4.png",
+    "stream_url": "https://complex.in.ua/live",
+    "website": "https://www.vilneradio.com.ua/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "pop",
+      "lounge",
+      "ethnic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:07:38+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.vilnekotelva",
+    "name": "Вільне радіо Котельва",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/114612.v14.png",
+    "stream_url": "https://globalic.stream:1575/stream",
+    "website": "https://radiokotelva.github.io/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "house",
+      "disco",
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:07:35+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.vo",
+    "name": "RadiVo",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/154982.v1.png",
+    "stream_url": "https://radivo.thx8te.kh.ua/listen/radivo/radio.mp3",
+    "website": "https://radivo.thx8te.kh.ua/public/radivo",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "rock",
+      "pop",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:11:58+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.voicehorodyshche",
+    "name": "Улюблене радіо",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/92915.v22.png",
+    "stream_url": "https://myradio24.org/ulyublene",
+    "website": "https://24media.com.ua/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "pop",
+      "talk",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:03:47+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.voskresinja",
+    "name": "Радіо Воскресіння",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/68954.v3.png",
+    "stream_url": "http://178.20.157.165:8000/live",
+    "website": "http://reradio.com.ua/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "electronic",
+      "lounge",
+      "jazz",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:07:31+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.vsru",
+    "name": "Radio Ukraine International",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/127.v15.png",
+    "stream_url": "https://radio2.ukr.radio/ur4-mp3-m",
+    "website": "https://ukr.radio/radio-ukraine-international",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "news",
+      "talk",
+      "culture"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:03:39+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.vtsu",
+    "name": "Radio VTSU",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/66330.v9.png",
+    "stream_url": "http://vtsu.org.ua:8000/vtsu-pop",
+    "website": "http://vtsu.org.ua/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "dance",
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:06:36+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.wanda",
+    "name": "Радіо Ванда FM Україна",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/71029.v55.png",
+    "stream_url": "https://icecast.xtvmedia.pp.ua/radiowandafm_hq.mp3",
+    "website": "https://radiowandafm.pp.ua/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "dance",
+      "rock",
+      "r'n'b",
+      "disco",
+      "pop",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:04:46+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.weukraine",
+    "name": "Радіо Ми Україна",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/143346.v1.png",
+    "stream_url": "https://cast.mediaonline.net.ua/wau320",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "pop",
+      "talk",
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:04:38+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.wolfmusicdeephouse",
+    "name": "Wolf Music Deep House Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/74820.v18.png",
+    "stream_url": "https://stream.wolfmusicradio.com:8000/Wolf_Music/radio.mp3",
+    "website": "http://wolfmusicradio.com/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "downtempo",
+      "deep house",
+      "nu disco"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:59:24+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.xon",
+    "name": "Радіо X.ON",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/143350.v3.png",
+    "stream_url": "https://audio.x-on.com.ua:8443/x-on-mp3-320.mp3",
+    "website": "https://x-on.com.ua/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "news",
+      "talk",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:07:41+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.yalta",
+    "name": "Радио Ялта FM ",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/24220.v1.png",
+    "stream_url": "http://yaltafm.no-ip.info:8000/online",
+    "website": "http://www.yaltafmradio.ru/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "rock",
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:09:28+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.yantarnefm",
+    "name": "YantarneFM",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/115898.v4.png",
+    "stream_url": "https://complex.in.ua/yantarne",
+    "website": "https://yantarne.fm/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "pop",
+      "folk",
+      "ethnic",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:06:32+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.yaskrave",
+    "name": "Yaskrave Radio FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/64874.v16.png",
+    "stream_url": "http://vobu.com.ua:8000/yaskrave-192",
+    "website": "http://www.yaskraveradio.fm/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "rock",
+      "r'n'b",
+      "pop",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:06:35+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.yavir",
+    "name": "Явір.FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/120520.v3.png",
+    "stream_url": "https://complex.in.ua/Yavir",
+    "website": "https://yavir.fm/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:04:46+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.yesfm",
+    "name": "Yes FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/116948.v6.png",
+    "stream_url": "https://stream.classicrock.com.ua:8000/yesfm",
+    "website": "https://yesfm.com.ua/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "rock",
+      "pop",
+      "retro"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:10:18+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.zakarpattya",
+    "name": "Закарпаття FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/427.v13.png",
+    "stream_url": "http://195.234.148.51:8000/;stream.mp3?39",
+    "website": "http://zakarpattyafm.com.ua/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:00:21+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.zeusphonk",
+    "name": "Zeus Phonk",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/154223.v2.png",
+    "stream_url": "https://radio.nitro-server.uk/listen/zeusphonk/radio.mp3",
+    "website": "https://zeus.foo.ng/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "hip-hop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:11:15+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.zfm",
+    "name": "Захід FM+",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/119097.v1.png",
+    "stream_url": "https://radio.zfm.com.ua:8443/zfm",
+    "website": "https://zfm.com.ua/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "pop",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:01:45+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.zhydachiv",
+    "name": "Жидачів FM",
+    "image": "https://cdn.onlineradiobox.com/img/logo/5/135645.png",
+    "stream_url": "https://complex.in.ua/zhudachiv",
+    "website": "https://complex-media.in.ua/zhydachiv.html",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "pop",
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:10:15+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.zolochiv",
+    "name": "Радіо СМАК",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/68374.v30.png",
+    "stream_url": "https://ipradio.net:8443/radiosmak",
+    "website": "http://smakfm.com/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "rock",
+      "pop",
+      "lounge"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:02:42+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.zolochivfm",
+    "name": "Золочів ФМ",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/128138.v5.png",
+    "stream_url": "https://ipradio.net:8443/zolochiv",
+    "website": "https://zolochiv.fm/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "dance",
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:09:22+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.zpolus",
+    "name": "Західний полюс",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/434.v4.png",
+    "stream_url": "https://online.z-polus.info/hq",
+    "website": "http://z-polus.info/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:01:42+05:30"
+  },
+  {
+    "id": "onlineradiobox_ua.zradio",
+    "name": "Radio 106.1 FM (Zhytomyr)",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/91465.v3.png",
+    "stream_url": "http://109.251.190.11:8888/live",
+    "website": "http://z-radio.ltd.ua/",
+    "provider": "onlineradiobox",
+    "country": "Ukraine",
+    "genres": [
+      "pop",
+      "chanson"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:05:45+05:30"
+  }
+]

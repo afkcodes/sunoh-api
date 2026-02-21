@@ -1,0 +1,3126 @@
+[
+  {
+    "id": "onlineradiobox_il.101fm",
+    "name": "101FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/11399.v5.png",
+    "stream_url": "https://radio.streamgates.net/stream/101fm",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Israel",
+    "genres": [
+      "pop",
+      "top40",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:16:07+05:30"
+  },
+  {
+    "id": "onlineradiobox_il.102fm",
+    "name": "Radio 102FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/10899.v5.png",
+    "stream_url": "https://102.livecdn.biz/102fm_aac",
+    "website": "http://www.102fm.co.il/",
+    "provider": "onlineradiobox",
+    "country": "Israel",
+    "genres": [
+      "dance",
+      "pop",
+      "talk",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:14:24+05:30"
+  },
+  {
+    "id": "onlineradiobox_il.5radio",
+    "name": "5 Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/119284.v2.png",
+    "stream_url": "https://rgelive.akamaized.net/hls/live/2043150/radio5/playlist.m3u8",
+    "website": "https://radio.sport5.co.il/",
+    "provider": "onlineradiobox",
+    "country": "Israel",
+    "genres": [
+      "sports"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:16:06+05:30"
+  },
+  {
+    "id": "onlineradiobox_il.69fm",
+    "name": "Radio 69FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/118730.v3.png",
+    "stream_url": "https://live.ecast.co.il:8030/live",
+    "website": "https://69fm.co.il/",
+    "provider": "onlineradiobox",
+    "country": "Israel",
+    "genres": [
+      "90s",
+      "80s"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:18:12+05:30"
+  },
+  {
+    "id": "onlineradiobox_il.770jerusalem",
+    "name": "Radio 770 Jerusalem",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/145769.v3.png",
+    "stream_url": "https://listen.radioking.com/radio/321044/stream/368747",
+    "website": "https://hassidout.org/radio-hassidout/",
+    "provider": "onlineradiobox",
+    "country": "Israel",
+    "genres": [],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:16:08+05:30"
+  },
+  {
+    "id": "onlineradiobox_il.90fm",
+    "name": "Radio 90 FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/10919.v8.png",
+    "stream_url": "https://radio.streamgates.net/stream/90fm",
+    "website": "http://www.90fm.co.il/",
+    "provider": "onlineradiobox",
+    "country": "Israel",
+    "genres": [
+      "news",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:16:21+05:30"
+  },
+  {
+    "id": "onlineradiobox_il.adomediafm",
+    "name": "Radio Adomedia FM",
+    "image": "https://cdn.onlineradiobox.com/img/logo/1/118461.png",
+    "stream_url": "https://liveradio.co.il/adomedeiafm",
+    "website": "https://adomedia.co.il/25/",
+    "provider": "onlineradiobox",
+    "country": "Israel",
+    "genres": [
+      "pop",
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:19:33+05:30"
+  },
+  {
+    "id": "onlineradiobox_il.afula",
+    "name": "Radio Afula",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/118772.v2.png",
+    "stream_url": "https://radio.streamgates.net/stream/afula",
+    "website": "https://radio-online.co.il/radio-afula/",
+    "provider": "onlineradiobox",
+    "country": "Israel",
+    "genres": [
+      "pop",
+      "news",
+      "sports",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:17:07+05:30"
+  },
+  {
+    "id": "onlineradiobox_il.agape",
+    "name": "Radio Agape",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/10916.v6.png",
+    "stream_url": "https://s3.radio.co/s43b65d791/listen",
+    "website": "http://www.agape.fm/",
+    "provider": "onlineradiobox",
+    "country": "Israel",
+    "genres": [
+      "talk",
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:14:15+05:30"
+  },
+  {
+    "id": "onlineradiobox_il.alhaga",
+    "name": "Radio Al HaGal רדיו על הגל",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/118345.v2.png",
+    "stream_url": "https://icecast.live/listen/neurimfm/neurimfm",
+    "website": "https://radio.neurim.org.il/",
+    "provider": "onlineradiobox",
+    "country": "Israel",
+    "genres": [
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:19:42+05:30"
+  },
+  {
+    "id": "onlineradiobox_il.angelika",
+    "name": "Radio Angelika",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/119004.v2.png",
+    "stream_url": "https://live.ecast.co.il:8024/stream",
+    "website": "https://radioangelika.com/",
+    "provider": "onlineradiobox",
+    "country": "Israel",
+    "genres": [
+      "greek"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:18:58+05:30"
+  },
+  {
+    "id": "onlineradiobox_il.antennawebtelaviv",
+    "name": "Antenna Web Tel Aviv",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/131808.v1.png",
+    "stream_url": "https://tinyurl.com/Antenna-Web-Tel-Aviv",
+    "website": "https://antennaweb.it/antennaweb-tel-aviv/",
+    "provider": "onlineradiobox",
+    "country": "Israel",
+    "genres": [
+      "rock",
+      "pop",
+      "blues",
+      "jazz",
+      "funk",
+      "latin"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:17:15+05:30"
+  },
+  {
+    "id": "onlineradiobox_il.arie",
+    "name": "רדיו המזרח 106 FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/75342.v20.png",
+    "stream_url": "https://liveradio.co.il:9089/;",
+    "website": "http://radiohamizrah.co.il/",
+    "provider": "onlineradiobox",
+    "country": "Israel",
+    "genres": [
+      "pop",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:16:19+05:30"
+  },
+  {
+    "id": "onlineradiobox_il.arutzsheva",
+    "name": "Arutz Sheva Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/11490.v5.png",
+    "stream_url": "https://a7.org/media/a7live",
+    "website": "https://www.israelnationalnews.com/tags/Israel_National_Radio",
+    "provider": "onlineradiobox",
+    "country": "Israel",
+    "genres": [
+      "news",
+      "talk",
+      "jewish"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:15:17+05:30"
+  },
+  {
+    "id": "onlineradiobox_il.avavaabyamatichon",
+    "name": "Radio Avava Abyam Atichon",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/148910.v6.png",
+    "stream_url": "http://liveradio.co.il:9080/;",
+    "website": "https://love-bayamhatichon.co.il/",
+    "provider": "onlineradiobox",
+    "country": "Israel",
+    "genres": [
+      "pop",
+      "folk",
+      "entertainment",
+      "jewish",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:18:47+05:30"
+  },
+  {
+    "id": "onlineradiobox_il.avivmedia",
+    "name": "AvivMedia",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/51948.v10.png",
+    "stream_url": "http://equinox.shoutca.st:8127/;",
+    "website": "https://www.avivmedia.com/",
+    "provider": "onlineradiobox",
+    "country": "Israel",
+    "genres": [
+      "electronic",
+      "trance"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:15:23+05:30"
+  },
+  {
+    "id": "onlineradiobox_il.azori",
+    "name": "Radio Azori",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/118750.v2.png",
+    "stream_url": "https://live.ecast.co.il/stream/69fm/azori",
+    "website": "https://radio-azori.co.il/",
+    "provider": "onlineradiobox",
+    "country": "Israel",
+    "genres": [
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:19:36+05:30"
+  },
+  {
+    "id": "onlineradiobox_il.beat",
+    "name": "Beat Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/11156.v2.png",
+    "stream_url": "http://live.radio-beat.com/stream1",
+    "website": "http://www.radio-beat.com/",
+    "provider": "onlineradiobox",
+    "country": "Israel",
+    "genres": [
+      "dance",
+      "pop",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:15:23+05:30"
+  },
+  {
+    "id": "onlineradiobox_il.best1064",
+    "name": "Лучшее радио",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/108408.v5.png",
+    "stream_url": "https://servidor35-5.brlogic.com:7080/live?source=9156",
+    "website": "https://radio1064.co.il/",
+    "provider": "onlineradiobox",
+    "country": "Israel",
+    "genres": [
+      "pop",
+      "news",
+      "talk",
+      "entertainment",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:14:18+05:30"
+  },
+  {
+    "id": "onlineradiobox_il.better",
+    "name": "Better Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/118604.v7.png",
+    "stream_url": "https://radio.betteradio.live/listen/better_radio/live",
+    "website": "https://betteradio.live/",
+    "provider": "onlineradiobox",
+    "country": "Israel",
+    "genres": [
+      "dance",
+      "electronic",
+      "house",
+      "dubstep",
+      "techno",
+      "psy trance"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:17:13+05:30"
+  },
+  {
+    "id": "onlineradiobox_il.bluegreece",
+    "name": "Blue Greece",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/72999.v11.png",
+    "stream_url": "https://icecast.live/proxy/livegreece/livegreece_aac",
+    "website": "http://leylotyavan.co.il/",
+    "provider": "onlineradiobox",
+    "country": "Israel",
+    "genres": [
+      "greek"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:15:17+05:30"
+  },
+  {
+    "id": "onlineradiobox_il.breslev",
+    "name": "Radio Breslev",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/10864.v9.png",
+    "stream_url": "https://stream.radiobreslev.co.il/live",
+    "website": "http://www.radiobreslev.co.il/",
+    "provider": "onlineradiobox",
+    "country": "Israel",
+    "genres": [
+      "news",
+      "talk",
+      "judaism"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:14:27+05:30"
+  },
+  {
+    "id": "onlineradiobox_il.breslevforyou",
+    "name": "ברסלב פוריו: דעת רבנו",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/154153.v2.png",
+    "stream_url": "https://cast.breslevforyou.co.il/listen/radiobreslev/radio.mp3",
+    "website": "https://breslevforyou.co.il/",
+    "provider": "onlineradiobox",
+    "country": "Israel",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:19:34+05:30"
+  },
+  {
+    "id": "onlineradiobox_il.breslov",
+    "name": "Radio Breslov Karmiel",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/11033.v11.png",
+    "stream_url": "https://securestreams6.autopo.st:2294/mp3",
+    "website": "http://www.breslevcarmiel.com/",
+    "provider": "onlineradiobox",
+    "country": "Israel",
+    "genres": [
+      "gospel",
+      "judaism"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:17:01+05:30"
+  },
+  {
+    "id": "onlineradiobox_il.brizerisrael",
+    "name": "Radio Brizer Israel",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/141793.v2.png",
+    "stream_url": "https://sweb.co.il:8888/stream",
+    "website": "https://radio-brizer.co.il/",
+    "provider": "onlineradiobox",
+    "country": "Israel",
+    "genres": [
+      "pop",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:18:49+05:30"
+  },
+  {
+    "id": "onlineradiobox_il.bukharian",
+    "name": "Radio B.B Bukharian Jewish Music",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/10789.v6.png",
+    "stream_url": "https://liveradio.co.il:1100/;?type=http&nocache=1641830637",
+    "website": "http://bbvostok.com/",
+    "provider": "onlineradiobox",
+    "country": "Israel",
+    "genres": [
+      "folk",
+      "jewish"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:15:08+05:30"
+  },
+  {
+    "id": "onlineradiobox_il.caucasus",
+    "name": "Soul of the Caucasus",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/11396.v12.png",
+    "stream_url": "http://45.88.76.52:8000/live",
+    "website": "http://www.kavkazportal.com/index.php",
+    "provider": "onlineradiobox",
+    "country": "Israel",
+    "genres": [
+      "folk",
+      "russian",
+      "caucasian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:15:13+05:30"
+  },
+  {
+    "id": "onlineradiobox_il.daniel",
+    "name": "Radio Daniel",
+    "image": "https://cdn.onlineradiobox.com/img/logo/5/113065.png",
+    "stream_url": "https://stream.zeno.fm/qbtz9ty10f9uv",
+    "website": "https://radiodanielfm.blogspot.com/",
+    "provider": "onlineradiobox",
+    "country": "Israel",
+    "genres": [
+      "comedy"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:17:18+05:30"
+  },
+  {
+    "id": "onlineradiobox_il.darom",
+    "name": "Radio Darom",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/118752.v1.png",
+    "stream_url": "https://cdn.cybercdn.live/Darom_97FM/Live/icecast.audio",
+    "website": "https://www.radiodarom.co.il/",
+    "provider": "onlineradiobox",
+    "country": "Israel",
+    "genres": [
+      "pop",
+      "news",
+      "sports"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:19:39+05:30"
+  },
+  {
+    "id": "onlineradiobox_il.delovoyeradio",
+    "name": "Israeli voice radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/100223.v8.png",
+    "stream_url": "https://icecast.live/ivr",
+    "website": "https://www.israelivoiceradio.co.il/",
+    "provider": "onlineradiobox",
+    "country": "Israel",
+    "genres": [
+      "rock",
+      "pop",
+      "talk",
+      "90s",
+      "80s",
+      "70s",
+      "oldies",
+      "business",
+      "entertainment",
+      "jewish",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:18:03+05:30"
+  },
+  {
+    "id": "onlineradiobox_il.doomnation",
+    "name": "Doomnation Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/139984.v1.png",
+    "stream_url": "https://s2.voscast.com:11123/stream",
+    "website": "http://www.doomnationradio.com/",
+    "provider": "onlineradiobox",
+    "country": "Israel",
+    "genres": [
+      "heavy metal",
+      "metal",
+      "death metal",
+      "power metal"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:16:07+05:30"
+  },
+  {
+    "id": "onlineradiobox_il.dudifm",
+    "name": "Radio Dudi FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/118537.v2.png",
+    "stream_url": "https://live.ecast.co.il/stream/dudifm",
+    "website": "https://www.dudi-fm.co.il/",
+    "provider": "onlineradiobox",
+    "country": "Israel",
+    "genres": [
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:19:37+05:30"
+  },
+  {
+    "id": "onlineradiobox_il.eco",
+    "name": "Eco99FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/10866.v8.png",
+    "stream_url": "https://eco01.livecdn.biz/ecolive/99fm_aac/icecast.audio",
+    "website": "http://eco99fm.maariv.co.il/",
+    "provider": "onlineradiobox",
+    "country": "Israel",
+    "genres": [
+      "pop",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:14:25+05:30"
+  },
+  {
+    "id": "onlineradiobox_il.efilog",
+    "name": "רדיו אפי-לוג ע&#34;ש אפי מליק",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/119287.v4.png",
+    "stream_url": "https://liveradio.co.il/radioefilog/;",
+    "website": "https://radio-efi-log.co.il/",
+    "provider": "onlineradiobox",
+    "country": "Israel",
+    "genres": [
+      "pop",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:18:00+05:30"
+  },
+  {
+    "id": "onlineradiobox_il.eilat102fm",
+    "name": "FM 102",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/11405.v8.png",
+    "stream_url": "https://cdn.cybercdn.live/Eilat_Radio/Live/icecast.audio",
+    "website": "https://www.fm102.co.il/",
+    "provider": "onlineradiobox",
+    "country": "Israel",
+    "genres": [
+      "pop",
+      "top40",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:15:13+05:30"
+  },
+  {
+    "id": "onlineradiobox_il.elhi",
+    "name": "Radio EL-HI",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/78781.v2.png",
+    "stream_url": "https://a4.radioheart.ru:9002/RH6003",
+    "website": "https://el-hi.com/",
+    "provider": "onlineradiobox",
+    "country": "Israel",
+    "genres": [
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:15:08+05:30"
+  },
+  {
+    "id": "onlineradiobox_il.eretzhagolan",
+    "name": "Radio Eretz HaGolan",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/118453.v1.png",
+    "stream_url": "https://radio.streamgates.net/stream/eretzgolan",
+    "website": "https://www.golanradio.com/",
+    "provider": "onlineradiobox",
+    "country": "Israel",
+    "genres": [
+      "pop",
+      "news"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:18:46+05:30"
+  },
+  {
+    "id": "onlineradiobox_il.eshel",
+    "name": "Eshel",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/11008.v4.png",
+    "stream_url": "http://stream.eshelnet.com/xstream",
+    "website": "http://www.eshelnet.com/",
+    "provider": "onlineradiobox",
+    "country": "Israel",
+    "genres": [
+      "pop",
+      "news",
+      "talk",
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:18:47+05:30"
+  },
+  {
+    "id": "onlineradiobox_il.eurodancechannel",
+    "name": "Eurodance channel",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/129553.v1.png",
+    "stream_url": "http://eu10.fastcast4u.com:13610/;",
+    "website": "https://gabizilbert.wixsite.com/eurodancechannel",
+    "provider": "onlineradiobox",
+    "country": "Israel",
+    "genres": [
+      "dance"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:19:02+05:30"
+  },
+  {
+    "id": "onlineradiobox_il.fix2525",
+    "name": "RadioFix2525",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/112669.v5.png",
+    "stream_url": "http://live3.rcast.net:9202/;",
+    "website": "http://radiofix2525.co.il/",
+    "provider": "onlineradiobox",
+    "country": "Israel",
+    "genres": [
+      "80s",
+      "70s",
+      "oldies",
+      "60s",
+      "50s",
+      "comedy"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:17:55+05:30"
+  },
+  {
+    "id": "onlineradiobox_il.freefmlkisraelsinhala",
+    "name": "freefm.lk - Israel Sinhala Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/125977.v1.png",
+    "stream_url": "https://stream.zeno.fm/safpyxcy2ebtv",
+    "website": "https://freefm.lk/il",
+    "provider": "onlineradiobox",
+    "country": "Israel",
+    "genres": [
+      "pop",
+      "news",
+      "talk",
+      "classic",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:17:02+05:30"
+  },
+  {
+    "id": "onlineradiobox_il.funmusic",
+    "name": "Radio Musikef 69FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/10869.v10.png",
+    "stream_url": "https://a2.asurahosting.com:6290/radio.mp3",
+    "website": "https://www.radio69fm.com/",
+    "provider": "onlineradiobox",
+    "country": "Israel",
+    "genres": [
+      "pop",
+      "lounge",
+      "90s",
+      "80s",
+      "oldies"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:17:19+05:30"
+  },
+  {
+    "id": "onlineradiobox_il.galeizahal",
+    "name": "Galei Zahal",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/73000.v5.png",
+    "stream_url": "https://glzwizzlv.bynetcdn.com/glz_mp3",
+    "website": "https://glz.co.il/",
+    "provider": "onlineradiobox",
+    "country": "Israel",
+    "genres": [
+      "news"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:14:14+05:30"
+  },
+  {
+    "id": "onlineradiobox_il.galeyashqelonet",
+    "name": "Radio Galey Ashqelonet",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/118452.v2.png",
+    "stream_url": "https://s4.radio.co/s6765540c3/listen",
+    "website": "https://www.ashqelon.net/",
+    "provider": "onlineradiobox",
+    "country": "Israel",
+    "genres": [
+      "pop",
+      "news"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:18:01+05:30"
+  },
+  {
+    "id": "onlineradiobox_il.galeyhaymtihon",
+    "name": "רדיו גלי הים התיכון",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/76741.v15.png",
+    "stream_url": "http://178.33.135.244:21399/;",
+    "website": "https://www.2all.co.il/web/Sites18/galeihayamhatichon",
+    "provider": "onlineradiobox",
+    "country": "Israel",
+    "genres": [
+      "arabic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:16:13+05:30"
+  },
+  {
+    "id": "onlineradiobox_il.galeyisrael",
+    "name": "Radio Galey Israel",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/118774.v1.png",
+    "stream_url": "https://cdn.cybercdn.live/Galei_Israel/Live/icecast.audio",
+    "website": "https://www.gly.co.il/",
+    "provider": "onlineradiobox",
+    "country": "Israel",
+    "genres": [
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:15:10+05:30"
+  },
+  {
+    "id": "onlineradiobox_il.galgalatz",
+    "name": "GalGalatz",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/10567.v13.png",
+    "stream_url": "https://glzwizzlv.bynetcdn.com/glglz_mp3",
+    "website": "https://glz.co.il/%D7%92%D7%9C%D7%92%D7%9C%D7%A6",
+    "provider": "onlineradiobox",
+    "country": "Israel",
+    "genres": [
+      "rock",
+      "pop",
+      "folk",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:14:14+05:30"
+  },
+  {
+    "id": "onlineradiobox_il.galgalimbareshet",
+    "name": "Radio Galgalim BaReshet",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/118495.v1.png",
+    "stream_url": "https://x3.mediacast.co.il/liveradio/gradio/icecast.audio",
+    "website": "https://gradio.co.il/",
+    "provider": "onlineradiobox",
+    "country": "Israel",
+    "genres": [
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:18:58+05:30"
+  },
+  {
+    "id": "onlineradiobox_il.galim",
+    "name": "Kol Galim",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/11150.v4.png",
+    "stream_url": "https://live.ecast.co.il/stream/galimlive",
+    "website": "http://www.kol-galim.co.il/",
+    "provider": "onlineradiobox",
+    "country": "Israel",
+    "genres": [
+      "rock",
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:17:03+05:30"
+  },
+  {
+    "id": "onlineradiobox_il.gospelvsetidimension",
+    "name": "רדיו גוספל ברשת מימד",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/128375.v1.png",
+    "stream_url": "https://stream2.svrdedicado.org/8326/stream",
+    "website": "https://radiogospelrededimensaoisrael.blogspot.com/",
+    "provider": "onlineradiobox",
+    "country": "Israel",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:18:54+05:30"
+  },
+  {
+    "id": "onlineradiobox_il.hamedina",
+    "name": "Radio Lev Hamedina",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/10792.v13.png",
+    "stream_url": "https://cdn.cybercdn.live/Lev_Hamedina/Audio/icecast.audio",
+    "website": "https://www.91fm.co.il/",
+    "provider": "onlineradiobox",
+    "country": "Israel",
+    "genres": [
+      "folk",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:15:06+05:30"
+  },
+  {
+    "id": "onlineradiobox_il.hamesh",
+    "name": "Radio Hamesh",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/11433.v7.png",
+    "stream_url": "http://995.livecdn.biz:8000/995fm?",
+    "website": "http://995.co.il/",
+    "provider": "onlineradiobox",
+    "country": "Israel",
+    "genres": [
+      "folk",
+      "jewish"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:15:06+05:30"
+  },
+  {
+    "id": "onlineradiobox_il.hatahana",
+    "name": "Radio HaTahana",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/118849.v2.png",
+    "stream_url": "https://cdn.cybercdn.live/Hatahana_1015/Live_Audio/icecast.audio?1663924962014",
+    "website": "http://hatahana.co.il/",
+    "provider": "onlineradiobox",
+    "country": "Israel",
+    "genres": [
+      "pop",
+      "talk",
+      "oldies"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:17:56+05:30"
+  },
+  {
+    "id": "onlineradiobox_il.hereat",
+    "name": "Here Bet",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/73040.v12.png",
+    "stream_url": "http://kanapi.media.kan.org.il/Redirector/ipbc/kan-bet/ice-live",
+    "website": "http://www.kan.org.il/live/radio.aspx?stationId=3",
+    "provider": "onlineradiobox",
+    "country": "Israel",
+    "genres": [
+      "news",
+      "politics"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:14:16+05:30"
+  },
+  {
+    "id": "onlineradiobox_il.hevratiharishon",
+    "name": "Radio Hevrati HaRishon",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/118731.v2.png",
+    "stream_url": "https://live.ecast.co.il/stream/hevrati",
+    "website": "https://radiohevrati.co.il/",
+    "provider": "onlineradiobox",
+    "country": "Israel",
+    "genres": [
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:19:35+05:30"
+  },
+  {
+    "id": "onlineradiobox_il.hitradio",
+    "name": "Hit Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/91780.v8.png",
+    "stream_url": "http://s3.free-shoutcast.com:18240/;",
+    "website": "https://www.hitradio.co.il/",
+    "provider": "onlineradiobox",
+    "country": "Israel",
+    "genres": [
+      "pop",
+      "folk",
+      "entertainment",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:17:17+05:30"
+  },
+  {
+    "id": "onlineradiobox_il.hits1",
+    "name": "Hits 1 Tel-Aviv",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/152206.v5.png",
+    "stream_url": "https://stream.hd1.hits1radio.com/?tel-aviv",
+    "website": "https://www.hits1radio.com/",
+    "provider": "onlineradiobox",
+    "country": "Israel",
+    "genres": [
+      "dance",
+      "electronic",
+      "pop",
+      "top40",
+      "latin",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:18:53+05:30"
+  },
+  {
+    "id": "onlineradiobox_il.hofeilat",
+    "name": "Radio Hof Eilat",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/118809.v1.png",
+    "stream_url": "https://ec1.yesstreaming.net:3815/stream?ver=724210",
+    "website": "https://www.radiohofeilat.co.il/",
+    "provider": "onlineradiobox",
+    "country": "Israel",
+    "genres": [
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:17:10+05:30"
+  },
+  {
+    "id": "onlineradiobox_il.holmimmizmizrahit",
+    "name": "רדיו חולמים מזרחית",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/148923.v2.png",
+    "stream_url": "https://liveradio.co.il:9070/index.html/;",
+    "website": "https://www.holmimmizrahit.co.il/",
+    "provider": "onlineradiobox",
+    "country": "Israel",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:18:11+05:30"
+  },
+  {
+    "id": "onlineradiobox_il.holmimyamtichoni",
+    "name": "Radio Holmim Yamtichoni",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/132693.v6.png",
+    "stream_url": "http://82.145.63.6:5523/;",
+    "website": "https://www.radioholmimyamtichoni.co.il/index123456.html",
+    "provider": "onlineradiobox",
+    "country": "Israel",
+    "genres": [
+      "pop",
+      "arabic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:18:57+05:30"
+  },
+  {
+    "id": "onlineradiobox_il.idcradio",
+    "name": "Kol HaUniversita",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/11001.v6.png",
+    "stream_url": "https://1062onair.runi.ac.il/idc123.mp3",
+    "website": "http://1062fm.co.il/",
+    "provider": "onlineradiobox",
+    "country": "Israel",
+    "genres": [
+      "pop",
+      "talk",
+      "alternative"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:18:05+05:30"
+  },
+  {
+    "id": "onlineradiobox_il.israel1",
+    "name": "Radio Israel 1",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/10663.v6.png",
+    "stream_url": "https://live.ecast.co.il/stream4/8025",
+    "website": "https://israelone.co.il/",
+    "provider": "onlineradiobox",
+    "country": "Israel",
+    "genres": [
+      "folk",
+      "jewish"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:14:25+05:30"
+  },
+  {
+    "id": "onlineradiobox_il.ivri6",
+    "name": "Ivri 6",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/105092.v4.png",
+    "stream_url": "https://streaming.radio.co/sa06221901/listen",
+    "website": "https://ivri6.net/",
+    "provider": "onlineradiobox",
+    "country": "Israel",
+    "genres": [
+      "rock",
+      "pop",
+      "folk",
+      "oldies",
+      "jewish"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:17:12+05:30"
+  },
+  {
+    "id": "onlineradiobox_il.jerusalem101",
+    "name": "Jerusalem FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/73038.v8.png",
+    "stream_url": "https://radio.streamgates.net/stream/101fm",
+    "website": "https://www.jerusalemnet.co.il/",
+    "provider": "onlineradiobox",
+    "country": "Israel",
+    "genres": [
+      "pop",
+      "news",
+      "top40",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:17:02+05:30"
+  },
+  {
+    "id": "onlineradiobox_il.jewishmusic",
+    "name": "רדיו המוזיקה היהודית",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/125990.v1.png",
+    "stream_url": "https://listen.radioking.com/radio/468242/stream/524405",
+    "website": "https://www.radiojewishmusic.com/",
+    "provider": "onlineradiobox",
+    "country": "Israel",
+    "genres": [
+      "jewish"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:18:08+05:30"
+  },
+  {
+    "id": "onlineradiobox_il.jointradio",
+    "name": "Joint Radio Reggae",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/10888.v13.png",
+    "stream_url": "https://jointil.com/stream-reggae",
+    "website": "https://www.jointil.com/",
+    "provider": "onlineradiobox",
+    "country": "Israel",
+    "genres": [
+      "dance",
+      "dubstep",
+      "roots",
+      "reggae"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:14:19+05:30"
+  },
+  {
+    "id": "onlineradiobox_il.kabbalah",
+    "name": "Kabbalah TV",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/11406.v4.png",
+    "stream_url": "https://edge2.uk.kab.tv/rtplive/tv66-heb-medium.stream/playlist.m3u8",
+    "website": "http://www.kab.tv/",
+    "provider": "onlineradiobox",
+    "country": "Israel",
+    "genres": [
+      "talk",
+      "education",
+      "jewish"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:15:20+05:30"
+  },
+  {
+    "id": "onlineradiobox_il.kahollavan",
+    "name": "רדיו כחול לבן",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/105876.v7.png",
+    "stream_url": "https://radiokahollavan.com/stream",
+    "website": "https://www.radiokahollavan.co.il/",
+    "provider": "onlineradiobox",
+    "country": "Israel",
+    "genres": [
+      "talk",
+      "folk",
+      "top40",
+      "judaism"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:16:17+05:30"
+  },
+  {
+    "id": "onlineradiobox_il.kanhebrew",
+    "name": "Kan Radio Hebrew",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/64154.v5.png",
+    "stream_url": "http://136.243.139.25/ipbc_IPBCmakantvLVMRepeat/_definst_/smil:IPBCmakantvLVM.smil/playlist.m3u8?",
+    "website": "http://www.makan.org.il/live/tv.aspx?stationId=3",
+    "provider": "onlineradiobox",
+    "country": "Israel",
+    "genres": [
+      "pop",
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:17:06+05:30"
+  },
+  {
+    "id": "onlineradiobox_il.katzrin",
+    "name": "Radio Katzrin",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/118491.v2.png",
+    "stream_url": "http://cp16.cdnwz.net/katzrin",
+    "website": "https://www.matnaskazrin.co.il/",
+    "provider": "onlineradiobox",
+    "country": "Israel",
+    "genres": [
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:18:55+05:30"
+  },
+  {
+    "id": "onlineradiobox_il.keazvmizrchit",
+    "name": "Radio keazvmizrchit (רדיו קצב מזרחית)",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/126642.v17.png",
+    "stream_url": "https://liveradio.co.il/radio_i",
+    "website": "https://ketzev-mizrahit.co.il/",
+    "provider": "onlineradiobox",
+    "country": "Israel",
+    "genres": [
+      "dance",
+      "folk",
+      "jewish"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:17:12+05:30"
+  },
+  {
+    "id": "onlineradiobox_il.kesem",
+    "name": "Radio Kesem",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/118490.v1.png",
+    "stream_url": "https://cdn.cybercdn.live/Kessem_Radio/live/icecast.audio",
+    "website": "https://www.hit.ac.il/sites/kesem106FM",
+    "provider": "onlineradiobox",
+    "country": "Israel",
+    "genres": [
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:19:35+05:30"
+  },
+  {
+    "id": "onlineradiobox_il.ketzevyamtichoni",
+    "name": "Mediterranean Rhythm Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/76356.v37.png",
+    "stream_url": "https://liveradio.co.il:1040/;",
+    "website": "http://ketzev-yamtichoni.co.il/",
+    "provider": "onlineradiobox",
+    "country": "Israel",
+    "genres": [
+      "dance",
+      "pop",
+      "folk",
+      "arabic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:16:12+05:30"
+  },
+  {
+    "id": "onlineradiobox_il.kezo",
+    "name": "Radio Kezo",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/148442.v1.png",
+    "stream_url": "https://listen.radioking.com/radio/563816/stream/623522",
+    "website": "https://radiokezo.com/",
+    "provider": "onlineradiobox",
+    "country": "Israel",
+    "genres": [
+      "dance",
+      "rock",
+      "lounge",
+      "ambient",
+      "club"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:19:03+05:30"
+  },
+  {
+    "id": "onlineradiobox_il.kissmiddleeast",
+    "name": "Kiss FM Middle East",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/11400.v4.png",
+    "stream_url": "https://streaming.starterfm.com/listen/kissfm/starter48",
+    "website": "http://www.kissfmmiddleeast.com/",
+    "provider": "onlineradiobox",
+    "country": "Israel",
+    "genres": [
+      "pop",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:16:22+05:30"
+  },
+  {
+    "id": "onlineradiobox_il.kolamerkaz",
+    "name": "Radio kolamerkaz",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/150778.v4.png",
+    "stream_url": "http://eu4.fastcast4u.com:60520/;",
+    "website": "https://www.radiokolhamerkaz.co.il/",
+    "provider": "onlineradiobox",
+    "country": "Israel",
+    "genres": [
+      "pop",
+      "folk",
+      "greek",
+      "arabic",
+      "jewish",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:18:51+05:30"
+  },
+  {
+    "id": "onlineradiobox_il.kolbarama",
+    "name": "Kol-Barama",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/11402.v5.png",
+    "stream_url": "https://cdn.cybercdn.live/Kol_Barama/Live_Audio/icecast.audio",
+    "website": "http://www.kol-barama.co.il/",
+    "provider": "onlineradiobox",
+    "country": "Israel",
+    "genres": [
+      "talk",
+      "jewish"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:14:19+05:30"
+  },
+  {
+    "id": "onlineradiobox_il.kolchai",
+    "name": "Radio Kol-Chai",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/10791.v4.png",
+    "stream_url": "https://live.kcm.fm/live-new",
+    "website": "http://www.93fm.co.il/",
+    "provider": "onlineradiobox",
+    "country": "Israel",
+    "genres": [
+      "news",
+      "talk",
+      "folk",
+      "judaism"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:14:16+05:30"
+  },
+  {
+    "id": "onlineradiobox_il.kolchaimusic",
+    "name": "Radio Kol-Chai Music",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/95531.v6.png",
+    "stream_url": "https://live.kcm.fm/livemusic",
+    "website": "https://kcm.fm/",
+    "provider": "onlineradiobox",
+    "country": "Israel",
+    "genres": [
+      "news",
+      "talk",
+      "folk",
+      "judaism"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:14:28+05:30"
+  },
+  {
+    "id": "onlineradiobox_il.koldimona",
+    "name": "Radio Kol Dimona",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/118454.v1.png",
+    "stream_url": "http://62.219.136.74/128",
+    "website": "http://rd106.co.il/",
+    "provider": "onlineradiobox",
+    "country": "Israel",
+    "genres": [
+      "pop",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:17:56+05:30"
+  },
+  {
+    "id": "onlineradiobox_il.kolgalim",
+    "name": "Radio KOL GALIM",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/73148.v4.png",
+    "stream_url": "https://live.ecast.co.il/stream/galimlive/;",
+    "website": "http://www.kolgalim.co.il/",
+    "provider": "onlineradiobox",
+    "country": "Israel",
+    "genres": [
+      "pop",
+      "news"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:16:18+05:30"
+  },
+  {
+    "id": "onlineradiobox_il.kolgat",
+    "name": "Radio Kol Gat",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/118842.v1.png",
+    "stream_url": "https://icecast.live/proxy/kolgat/kolgat",
+    "website": "https://kolgat.co.il/",
+    "provider": "onlineradiobox",
+    "country": "Israel",
+    "genres": [
+      "sports",
+      "education"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:19:39+05:30"
+  },
+  {
+    "id": "onlineradiobox_il.kolhaemet",
+    "name": "Kol Haemet",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/11153.v6.png",
+    "stream_url": "https://stream.kolhaemet.co.il/live",
+    "website": "http://www.kolhaemet.co.il/",
+    "provider": "onlineradiobox",
+    "country": "Israel",
+    "genres": [
+      "talk",
+      "education",
+      "jewish"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:16:19+05:30"
+  },
+  {
+    "id": "onlineradiobox_il.kolhagalil",
+    "name": "Radio Kol Hagalil Haelion",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/10893.v6.png",
+    "stream_url": "https://radio.streamgates.net/stream/galil",
+    "website": "http://www.1053fm.co/",
+    "provider": "onlineradiobox",
+    "country": "Israel",
+    "genres": [
+      "pop",
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:17:10+05:30"
+  },
+  {
+    "id": "onlineradiobox_il.kolhagolan",
+    "name": "Radio Kol HaGolan",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/118458.v1.png",
+    "stream_url": "https://liveradio.co.il:9010/;?type=http&nocache=54",
+    "website": "https://kolhagolan.co.il/",
+    "provider": "onlineradiobox",
+    "country": "Israel",
+    "genres": [
+      "pop",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:18:59+05:30"
+  },
+  {
+    "id": "onlineradiobox_il.kolhakinneret",
+    "name": "Radio Kol HaKinneret",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/118808.v1.png",
+    "stream_url": "https://radio.streamgates.net/stream/kinneret",
+    "website": "https://www.kinneret.ac.il/%D7%A1%D7%98%D7%95%D7%93%D7%A0%D7%98%D7%99%D7%9D/%D7%A8%D7%93%D7%99%D7%95-%D7%A7%D7%95%D7%9C-%D7%94%D7%9B%D7%A0%D7%A8%D7%AA/",
+    "provider": "onlineradiobox",
+    "country": "Israel",
+    "genres": [
+      "pop",
+      "education",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:18:53+05:30"
+  },
+  {
+    "id": "onlineradiobox_il.kolhalev",
+    "name": "Radio Kol Halev",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/118729.v1.png",
+    "stream_url": "https://us1.streamingpulse.com/ssl/KolHalev",
+    "website": "http://www.kolhalev.com/",
+    "provider": "onlineradiobox",
+    "country": "Israel",
+    "genres": [
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:18:52+05:30"
+  },
+  {
+    "id": "onlineradiobox_il.kolhanegev",
+    "name": "Radio Kol HaNegev",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/118773.v1.png",
+    "stream_url": "http://ice.sapir.ac.il:8000/stream.mp3",
+    "website": "https://kolhanegev.sapir.ac.il/",
+    "provider": "onlineradiobox",
+    "country": "Israel",
+    "genres": [
+      "talk",
+      "education",
+      "community"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:18:56+05:30"
+  },
+  {
+    "id": "onlineradiobox_il.kolhashfela1036fm",
+    "name": "Radio kol Hashfela 1036FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/82450.v5.png",
+    "stream_url": "https://radio.streamgates.net/stream/1036kh",
+    "website": "https://www.1036kh.com/",
+    "provider": "onlineradiobox",
+    "country": "Israel",
+    "genres": [
+      "pop",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:15:20+05:30"
+  },
+  {
+    "id": "onlineradiobox_il.kolhatzafon",
+    "name": "Radio Kol HaTzafon",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/118844.v2.png",
+    "stream_url": "https://live.ecast.co.il/stream/khz",
+    "website": "http://kolhatzafon.cf/",
+    "provider": "onlineradiobox",
+    "country": "Israel",
+    "genres": [
+      "pop",
+      "greek"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:18:06+05:30"
+  },
+  {
+    "id": "onlineradiobox_il.kolnesher",
+    "name": "Radio Kol Nesher",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/118492.v3.png",
+    "stream_url": "https://radio.kolnesher.co.il:7777/;",
+    "website": "http://kolnesher.co.il/",
+    "provider": "onlineradiobox",
+    "country": "Israel",
+    "genres": [
+      "pop",
+      "news"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:19:34+05:30"
+  },
+  {
+    "id": "onlineradiobox_il.kolnestziona",
+    "name": "Radio Kol Nes Tziona",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/118600.v1.png",
+    "stream_url": "http://kolness.livecast.co.il/liveness/",
+    "website": "https://www.nzc.org.il/%D7%A8%D7%93%D7%99%D7%95-%D7%A7%D7%95%D7%9C-%D7%A0%D7%A1-%D7%A6%D7%99%D7%95%D7%A0%D7%94-106fm/",
+    "provider": "onlineradiobox",
+    "country": "Israel",
+    "genres": [
+      "pop",
+      "talk",
+      "oldies",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:19:42+05:30"
+  },
+  {
+    "id": "onlineradiobox_il.kolnetanya",
+    "name": "Radio Kol Netanya",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/118493.v1.png",
+    "stream_url": "https://radio.streamgates.net/stream/netanya",
+    "website": "https://www.netanya.ac.il/",
+    "provider": "onlineradiobox",
+    "country": "Israel",
+    "genres": [
+      "pop",
+      "news",
+      "sports"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:19:41+05:30"
+  },
+  {
+    "id": "onlineradiobox_il.kolramathasharon",
+    "name": "רדיו קליק לים התיכון",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/73154.v7.png",
+    "stream_url": "https://icecast.live/yamfm",
+    "website": "http://www.yamfm.co.il/",
+    "provider": "onlineradiobox",
+    "country": "Israel",
+    "genres": [
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:16:17+05:30"
+  },
+  {
+    "id": "onlineradiobox_il.kolramla",
+    "name": "Radio Kol Ramla",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/118775.v2.png",
+    "stream_url": "https://liveradio.co.il:7000/;",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Israel",
+    "genres": [
+      "news",
+      "sports",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:17:16+05:30"
+  },
+  {
+    "id": "onlineradiobox_il.kolrega",
+    "name": "Kol Rega",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/10868.v6.png",
+    "stream_url": "https://cdn.cybercdn.live/Kol_Rega/Live_Audio/icecast.audio",
+    "website": "http://www.96fm.co.il/",
+    "provider": "onlineradiobox",
+    "country": "Israel",
+    "genres": [
+      "pop",
+      "news",
+      "talk",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:15:11+05:30"
+  },
+  {
+    "id": "onlineradiobox_il.kolrishonim",
+    "name": "Radio Kol Rishonim",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/118847.v2.png",
+    "stream_url": "https://live.ecast.co.il:8018/stream0.9733871393243012",
+    "website": "https://www.106-2.co.il/",
+    "provider": "onlineradiobox",
+    "country": "Israel",
+    "genres": [
+      "pop",
+      "education"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:17:09+05:30"
+  },
+  {
+    "id": "onlineradiobox_il.kolyizrael",
+    "name": "Radio Kol Yizrael",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/11386.v4.png",
+    "stream_url": "https://radio.streamgates.net/stream/yezreel",
+    "website": "https://www.yvc.ac.il/",
+    "provider": "onlineradiobox",
+    "country": "Israel",
+    "genres": [
+      "electronic",
+      "rock",
+      "indie",
+      "alternative"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:19:00+05:30"
+  },
+  {
+    "id": "onlineradiobox_il.krayot",
+    "name": "Krayot FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/108856.v3.png",
+    "stream_url": "https://live.ecast.co.il/stream/krayotfm/;",
+    "website": "http://www.krayot-fm.co.il/",
+    "provider": "onlineradiobox",
+    "country": "Israel",
+    "genres": [
+      "pop",
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:17:14+05:30"
+  },
+  {
+    "id": "onlineradiobox_il.kzradio",
+    "name": "kzradio",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/11141.v3.png",
+    "stream_url": "https://kzradio.mediacast.co.il/kzradio_live/kzradio/icecast.audio",
+    "website": "http://kzradio.net/",
+    "provider": "onlineradiobox",
+    "country": "Israel",
+    "genres": [
+      "electronic",
+      "rock",
+      "metal",
+      "indie",
+      "alternative rock"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:17:04+05:30"
+  },
+  {
+    "id": "onlineradiobox_il.lelohafsaka",
+    "name": "Radio Lelo Hafsaka",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/10790.v6.png",
+    "stream_url": "https://cdn.cybercdn.live/103FM/Live/icecast.audio",
+    "website": "http://103fm.maariv.co.il/",
+    "provider": "onlineradiobox",
+    "country": "Israel",
+    "genres": [
+      "pop",
+      "news",
+      "folk",
+      "alternative",
+      "sports"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:14:15+05:30"
+  },
+  {
+    "id": "onlineradiobox_il.lovelygreek",
+    "name": "lovely greek radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/10872.v21.png",
+    "stream_url": "https://liveradio.co.il/lovely_greek",
+    "website": "http://2all.co.il/web/Sites/greekmusic/",
+    "provider": "onlineradiobox",
+    "country": "Israel",
+    "genres": [
+      "folk",
+      "greek"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:14:26+05:30"
+  },
+  {
+    "id": "onlineradiobox_il.mahothahaim",
+    "name": "Radio Mahut HaHaim",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/118494.v3.png",
+    "stream_url": "https://eol-live.cdnwiz.com/eol/eolsite/icecast.audio",
+    "website": "https://radio.eol.co.il/",
+    "provider": "onlineradiobox",
+    "country": "Israel",
+    "genres": [
+      "pop",
+      "business",
+      "culture"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:19:37+05:30"
+  },
+  {
+    "id": "onlineradiobox_il.makanradio",
+    "name": "Makan Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/80569.v3.png",
+    "stream_url": "https://kanliveicy.media.kan.org.il/icy/makan_mp3?providername=tunein",
+    "website": "https://www.makan.org.il/",
+    "provider": "onlineradiobox",
+    "country": "Israel",
+    "genres": [
+      "news",
+      "talk",
+      "folk",
+      "ethnic",
+      "sports",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:14:22+05:30"
+  },
+  {
+    "id": "onlineradiobox_il.mania",
+    "name": "Radio Mania",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/118536.v1.png",
+    "stream_url": "https://cast.ereznet.co.il/radio/8030/radio.mp3",
+    "website": "https://www.radio-mania.co.il/",
+    "provider": "onlineradiobox",
+    "country": "Israel",
+    "genres": [
+      "oldies"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:15:19+05:30"
+  },
+  {
+    "id": "onlineradiobox_il.martit",
+    "name": "Radio Martit",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/75453.v9.png",
+    "stream_url": "https://liveradio.co.il/wet/stream",
+    "website": "http://radio-martit-m-b.co.il/",
+    "provider": "onlineradiobox",
+    "country": "Israel",
+    "genres": [
+      "love songs",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:16:20+05:30"
+  },
+  {
+    "id": "onlineradiobox_il.mauntkarmel",
+    "name": "Radio Har Carmel",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/144413.v4.png",
+    "stream_url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SAM04AAC608_SC?dist=onlineradiobox",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Israel",
+    "genres": [
+      "rock",
+      "pop",
+      "easy listening",
+      "oldies"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:17:57+05:30"
+  },
+  {
+    "id": "onlineradiobox_il.maxximixxunderground",
+    "name": "Maxximixx Underground",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/103590.v23.png",
+    "stream_url": "https://maxximixx-server.com:5019/stream",
+    "website": "https://maxximixx.com/",
+    "provider": "onlineradiobox",
+    "country": "Israel",
+    "genres": [
+      "electronic",
+      "house",
+      "techno",
+      "deep house",
+      "dj"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:15:11+05:30"
+  },
+  {
+    "id": "onlineradiobox_il.menta",
+    "name": "Radio Menta",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/71453.v3.png",
+    "stream_url": "https://menta-fm.co.il/radio/",
+    "website": "http://www.menta-fm.co.il/",
+    "provider": "onlineradiobox",
+    "country": "Israel",
+    "genres": [],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:16:09+05:30"
+  },
+  {
+    "id": "onlineradiobox_il.metsiothebrewstation",
+    "name": "Radio Metsiot - Hebrew Station",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/118540.v2.png",
+    "stream_url": "https://carina.streamerr.co/stream/metsiot2",
+    "website": "https://metsiot.com/",
+    "provider": "onlineradiobox",
+    "country": "Israel",
+    "genres": [
+      "oldies"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:16:09+05:30"
+  },
+  {
+    "id": "onlineradiobox_il.mevaser",
+    "name": "Radio Mevaser Tov",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/10871.v8.png",
+    "stream_url": "https://liveradio.co.il/chasidi",
+    "website": "http://www.770tv.org/",
+    "provider": "onlineradiobox",
+    "country": "Israel",
+    "genres": [
+      "folk",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:16:15+05:30"
+  },
+  {
+    "id": "onlineradiobox_il.mizrahithachadasha",
+    "name": "Radio Mizrahit HaChadasha",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/119002.v1.png",
+    "stream_url": "https://rdm.mediacast.co.il:7777/radiom",
+    "website": "http://radiom.co.il/",
+    "provider": "onlineradiobox",
+    "country": "Israel",
+    "genres": [
+      "pop",
+      "oldies"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:16:10+05:30"
+  },
+  {
+    "id": "onlineradiobox_il.mizrahitorginal",
+    "name": "Mizrahit Orginal",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/77263.v30.png",
+    "stream_url": "https://liveradio.co.il:9040/;",
+    "website": "https://mizrahitorginal.blogspot.com/",
+    "provider": "onlineradiobox",
+    "country": "Israel",
+    "genres": [
+      "pop",
+      "arabic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:15:22+05:30"
+  },
+  {
+    "id": "onlineradiobox_il.morphmixtapes",
+    "name": "Morphmixtapes Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/136725.v1.png",
+    "stream_url": "https://s91.radiolize.com:8030/radio.mp3",
+    "website": "https://morphmixtapes.com/",
+    "provider": "onlineradiobox",
+    "country": "Israel",
+    "genres": [
+      "pop",
+      "indie",
+      "eclectic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:19:01+05:30"
+  },
+  {
+    "id": "onlineradiobox_il.mtscopus",
+    "name": "Mt. Scopus Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/10902.v3.png",
+    "stream_url": "http://msradio.huji.ac.il/wwwroot/basics/48Kmancreation.mp3",
+    "website": "http://msradio.huji.ac.il/",
+    "provider": "onlineradiobox",
+    "country": "Israel",
+    "genres": [
+      "jazz",
+      "talk",
+      "oldies"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:18:48+05:30"
+  },
+  {
+    "id": "onlineradiobox_il.mundialgospeljeruzalem",
+    "name": "Radio Mundial Gospel Jeruzalem",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/104959.v5.png",
+    "stream_url": "https://stream.zeno.fm/9xars3kx298uv",
+    "website": "https://zeno.fm/radio-mundial-gospel-jerusalemxu6mk3kx298uv",
+    "provider": "onlineradiobox",
+    "country": "Israel",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:18:55+05:30"
+  },
+  {
+    "id": "onlineradiobox_il.myrzik",
+    "name": "Мурзик Радио",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/123824.v1.png",
+    "stream_url": "http://murzikradio.ru:1040/stream",
+    "website": "https://murzikradio.ru/",
+    "provider": "onlineradiobox",
+    "country": "Israel",
+    "genres": [
+      "jazz",
+      "hip-hop",
+      "soul",
+      "reggae"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:16:06+05:30"
+  },
+  {
+    "id": "onlineradiobox_il.nahariya",
+    "name": "Radio Nahariya",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/117829.v3.png",
+    "stream_url": "https://cast.radionahariya.com:8443/main.mp3",
+    "website": "https://www.radionahariya.com/",
+    "provider": "onlineradiobox",
+    "country": "Israel",
+    "genres": [
+      "rock",
+      "pop",
+      "news",
+      "talk",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:15:07+05:30"
+  },
+  {
+    "id": "onlineradiobox_il.neto",
+    "name": "Radio Neto",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/118016.v1.png",
+    "stream_url": "https://live.ecast.co.il/stream/radioneto1",
+    "website": "https://radio-idan.co.il/",
+    "provider": "onlineradiobox",
+    "country": "Israel",
+    "genres": [
+      "pop",
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:17:59+05:30"
+  },
+  {
+    "id": "onlineradiobox_il.newstalk",
+    "name": "Israel News Talk Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/11456.v9.png",
+    "stream_url": "https://dfw.audio-stream.com/proxy/israelne?mp=/live_live",
+    "website": "http://israelnewstalkradio.com/",
+    "provider": "onlineradiobox",
+    "country": "Israel",
+    "genres": [
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:14:20+05:30"
+  },
+  {
+    "id": "onlineradiobox_il.newwave",
+    "name": "רדיו הגל החדש",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/82268.v11.png",
+    "stream_url": "https://live.itech.host/radio02",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Israel",
+    "genres": [
+      "pop",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:16:14+05:30"
+  },
+  {
+    "id": "onlineradiobox_il.niceman",
+    "name": "Niceman Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/75709.v4.png",
+    "stream_url": "https://myradio24.org/25715",
+    "website": "https://niceman087.wixsite.com/nicemanradio",
+    "provider": "onlineradiobox",
+    "country": "Israel",
+    "genres": [
+      "pop",
+      "retro",
+      "90s",
+      "80s",
+      "70s",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:15:10+05:30"
+  },
+  {
+    "id": "onlineradiobox_il.noshmim",
+    "name": "Noshmim Mizrahit",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/11389.v6.png",
+    "stream_url": "https://mzr.mediacast.co.il/mzradio",
+    "website": "http://www.mizrahit.co/",
+    "provider": "onlineradiobox",
+    "country": "Israel",
+    "genres": [
+      "pop",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:14:13+05:30"
+  },
+  {
+    "id": "onlineradiobox_il.noshmimmizrahit",
+    "name": "Radio Noshmim Mizrahit",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/10865.v10.png",
+    "stream_url": "https://rs.mizrahit.fm:7777/arabellavie",
+    "website": "http://www.mizrahit.fm/",
+    "provider": "onlineradiobox",
+    "country": "Israel",
+    "genres": [
+      "folk",
+      "jewish"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:14:23+05:30"
+  },
+  {
+    "id": "onlineradiobox_il.nostalgia",
+    "name": "Radio Nostalgia",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/119104.v6.png",
+    "stream_url": "http://194.213.4.197:8000/;stream/1",
+    "website": "http://www.nostal.co.il/",
+    "provider": "onlineradiobox",
+    "country": "Israel",
+    "genres": [
+      "oldies"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:19:03+05:30"
+  },
+  {
+    "id": "onlineradiobox_il.oranim",
+    "name": "Radio Oranim",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/11143.v2.png",
+    "stream_url": "http://oranim.cdnwz.net/oranim",
+    "website": "http://www.oranim.ac.il/",
+    "provider": "onlineradiobox",
+    "country": "Israel",
+    "genres": [
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:19:38+05:30"
+  },
+  {
+    "id": "onlineradiobox_il.orenu",
+    "name": "Radio Orenu",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/10863.v7.png",
+    "stream_url": "https://myradio24.org/orenu",
+    "website": "http://orenu.co.il/",
+    "provider": "onlineradiobox",
+    "country": "Israel",
+    "genres": [
+      "instrumental",
+      "judaism"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:14:25+05:30"
+  },
+  {
+    "id": "onlineradiobox_il.paristelavivmusic",
+    "name": "ParisTelAvivMusicWebRadioStation",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/144483.v3.png",
+    "stream_url": "https://listen.radioking.com/radio/37085/stream/73406",
+    "website": "http://paristelavivmusic.wixsite.com/paristelavivmusic",
+    "provider": "onlineradiobox",
+    "country": "Israel",
+    "genres": [
+      "classic rock",
+      "soul",
+      "funk",
+      "smooth jazz",
+      "african"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:18:04+05:30"
+  },
+  {
+    "id": "onlineradiobox_il.parovoz",
+    "name": "Radio Parovoz",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/108319.v7.png",
+    "stream_url": "https://myradio24.org/57790",
+    "website": "https://radio-parovoz.com/",
+    "provider": "onlineradiobox",
+    "country": "Israel",
+    "genres": [
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:16:16+05:30"
+  },
+  {
+    "id": "onlineradiobox_il.pervoe",
+    "name": "Первое радио",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/72998.v14.png",
+    "stream_url": "https://cdn.cybercdn.live/Pervoia/Audio/icecast.audio",
+    "website": "http://www.891fm.co.il/",
+    "provider": "onlineradiobox",
+    "country": "Israel",
+    "genres": [
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:14:13+05:30"
+  },
+  {
+    "id": "onlineradiobox_il.plus",
+    "name": "Radio Plus רדיו פלוס",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/118733.v1.png",
+    "stream_url": "https://s3.yesstreaming.net:17049/stream",
+    "website": "https://www.radioplus.co.il/",
+    "provider": "onlineradiobox",
+    "country": "Israel",
+    "genres": [
+      "90s",
+      "80s"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:15:21+05:30"
+  },
+  {
+    "id": "onlineradiobox_il.podkrishey",
+    "name": "Радио Под крышей",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/73151.v5.png",
+    "stream_url": "http://93.190.141.15:7022/stream",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Israel",
+    "genres": [
+      "rock",
+      "jazz"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:16:11+05:30"
+  },
+  {
+    "id": "onlineradiobox_il.qualita",
+    "name": "Radio Qualita",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/118602.v1.png",
+    "stream_url": "https://listen.radioking.com/radio/345145/stream/393862",
+    "website": "https://www.studioqualita.com/",
+    "provider": "onlineradiobox",
+    "country": "Israel",
+    "genres": [
+      "news",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:18:50+05:30"
+  },
+  {
+    "id": "onlineradiobox_il.radio2000",
+    "name": "Radio 2000",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/10911.v8.png",
+    "stream_url": "https://cdn.cybercdn.live/Radio2000/MP3/icecast.audio",
+    "website": "http://www.radio2000.co.il/",
+    "provider": "onlineradiobox",
+    "country": "Israel",
+    "genres": [
+      "talk",
+      "gospel",
+      "judaism"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:15:14+05:30"
+  },
+  {
+    "id": "onlineradiobox_il.radio5",
+    "name": "RADIO 5",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/11470.v13.png",
+    "stream_url": "https://liveradio.co.il:8070/stream",
+    "website": "http://www.radio5.co.il/",
+    "provider": "onlineradiobox",
+    "country": "Israel",
+    "genres": [
+      "pop",
+      "folk",
+      "entertainment",
+      "jewish"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:15:15+05:30"
+  },
+  {
+    "id": "onlineradiobox_il.radiohaifa",
+    "name": "Radio Haifa",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/10804.v5.png",
+    "stream_url": "https://1075.livecdn.biz/radiohaifa",
+    "website": "http://1075.fm/",
+    "provider": "onlineradiobox",
+    "country": "Israel",
+    "genres": [
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:15:18+05:30"
+  },
+  {
+    "id": "onlineradiobox_il.radiokolmerkzit",
+    "name": "Radio Kol HaMerkaz",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/100756.v17.png",
+    "stream_url": "https://liveradio.co.il:8090/;",
+    "website": "http://radiokolhamerkaz.blogspot.com/",
+    "provider": "onlineradiobox",
+    "country": "Israel",
+    "genres": [
+      "dance",
+      "trance",
+      "pop",
+      "90s",
+      "80s",
+      "70s"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:17:57+05:30"
+  },
+  {
+    "id": "onlineradiobox_il.radioleavayamatihon",
+    "name": "רדיו לב הים התיכון",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/151049.v1.png",
+    "stream_url": "https://liveradio.co.il:8060/index.html/;",
+    "website": "https://radiolevhayamhatichon.co.il/",
+    "provider": "onlineradiobox",
+    "country": "Israel",
+    "genres": [
+      "pop",
+      "folk",
+      "entertainment",
+      "jewish"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:18:51+05:30"
+  },
+  {
+    "id": "onlineradiobox_il.radius",
+    "name": "100FM Radius",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/10813.v11.png",
+    "stream_url": "https://cdn.cybercdn.live/Radios_100FM/Audio/icecast.audio",
+    "website": "http://www.100fm.co.il/",
+    "provider": "onlineradiobox",
+    "country": "Israel",
+    "genres": [
+      "pop",
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:14:21+05:30"
+  },
+  {
+    "id": "onlineradiobox_il.rakmusica",
+    "name": "Rak Musica",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/131874.v4.png",
+    "stream_url": "https://listen.radioking.com/radio/605821/stream/667249",
+    "website": "https://radiorakmusica.free.site.pro/",
+    "provider": "onlineradiobox",
+    "country": "Israel",
+    "genres": [
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:16:13+05:30"
+  },
+  {
+    "id": "onlineradiobox_il.ramathasharon",
+    "name": "Kol Ramat Hasharon",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/11429.v3.png",
+    "stream_url": "https://radio.streamgates.net/stream/1036",
+    "website": "http://www.1036fm.co.il/",
+    "provider": "onlineradiobox",
+    "country": "Israel",
+    "genres": [
+      "electronic",
+      "pop",
+      "news",
+      "sports"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:17:16+05:30"
+  },
+  {
+    "id": "onlineradiobox_il.ran",
+    "name": "Radio Ran  راديو اسرائيل ران",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/118539.v2.png",
+    "stream_url": "http://185.80.220.12:8047/live",
+    "website": "http://www.radioran.co.il/",
+    "provider": "onlineradiobox",
+    "country": "Israel",
+    "genres": [
+      "persian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:19:00+05:30"
+  },
+  {
+    "id": "onlineradiobox_il.rcsp",
+    "name": "RCSP Studio",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/148463.v2.png",
+    "stream_url": "https://listen.radio-cloud-sound-processor.tech:8020/with-process",
+    "website": "https://www.radio-cloud-sound-processor.tech/",
+    "provider": "onlineradiobox",
+    "country": "Israel",
+    "genres": [
+      "dance",
+      "electronic",
+      "pop",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:18:02+05:30"
+  },
+  {
+    "id": "onlineradiobox_il.sahar",
+    "name": "Radio Sahar",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/83116.v6.png",
+    "stream_url": "https://live.ecast.co.il/stream/sahar/stream",
+    "website": "http://radiosahar.co.il/",
+    "provider": "onlineradiobox",
+    "country": "Israel",
+    "genres": [
+      "talk",
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:17:08+05:30"
+  },
+  {
+    "id": "onlineradiobox_il.savta",
+    "name": "Radio Savta",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/118734.v1.png",
+    "stream_url": "https://broadcast.radiosavta.com:8000/radio.mp3",
+    "website": "https://www.radiosavta.com/",
+    "provider": "onlineradiobox",
+    "country": "Israel",
+    "genres": [
+      "reggae"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:18:11+05:30"
+  },
+  {
+    "id": "onlineradiobox_il.setareh",
+    "name": "Radio Setareh  رادیو ستاره",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/118538.v1.png",
+    "stream_url": "http://s2.free-shoutcast.com/stream/18256",
+    "website": "http://www.radiosetareh.com/",
+    "provider": "onlineradiobox",
+    "country": "Israel",
+    "genres": [
+      "persian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:19:40+05:30"
+  },
+  {
+    "id": "onlineradiobox_il.sol",
+    "name": "Radio Sol",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/11394.v12.png",
+    "stream_url": "https://radio.streamgates.net/stream/sol",
+    "website": "http://www.radiosol.co.il/",
+    "provider": "onlineradiobox",
+    "country": "Israel",
+    "genres": [
+      "rock",
+      "blues",
+      "metal",
+      "jazz",
+      "news"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:17:04+05:30"
+  },
+  {
+    "id": "onlineradiobox_il.star33",
+    "name": "Star 33 Radiostation",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/146637.v5.png",
+    "stream_url": "https://online.star33radio.com:1125/stream",
+    "website": "https://online.star33radio.com/",
+    "provider": "onlineradiobox",
+    "country": "Israel",
+    "genres": [
+      "dance",
+      "electronic",
+      "trance",
+      "house",
+      "pop",
+      "techno",
+      "club",
+      "drum'n'bass"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:19:36+05:30"
+  },
+  {
+    "id": "onlineradiobox_il.teenbuzz",
+    "name": "Teenbuzz Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/91537.v3.png",
+    "stream_url": "https://streaming.broadcast.radio/teenbuzzradio",
+    "website": "http://www.teenbuzz.co/",
+    "provider": "onlineradiobox",
+    "country": "Israel",
+    "genres": [
+      "pop",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:17:05+05:30"
+  },
+  {
+    "id": "onlineradiobox_il.tfsoisrael",
+    "name": "TFSO-Israel",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/145862.v1.png",
+    "stream_url": "https://listen.radioking.com/radio/627604/stream/689965",
+    "website": "https://tfsoisrael.com/",
+    "provider": "onlineradiobox",
+    "country": "Israel",
+    "genres": [
+      "house",
+      "deep house",
+      "electro house"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:17:54+05:30"
+  },
+  {
+    "id": "onlineradiobox_il.toker",
+    "name": "Toker FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/10811.v7.png",
+    "stream_url": "https://broadcast.adpronet.com/radio/6060/radio.mp3",
+    "website": "http://www.toker.fm/",
+    "provider": "onlineradiobox",
+    "country": "Israel",
+    "genres": [
+      "folk",
+      "jewish"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:14:17+05:30"
+  },
+  {
+    "id": "onlineradiobox_il.tripolomusica",
+    "name": "tripolomusica",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/147951.v1.png",
+    "stream_url": "https://stream.zeno.fm/batyrnra9kbuv",
+    "website": "https://mytripolomusica.online/",
+    "provider": "onlineradiobox",
+    "country": "Israel",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:18:04+05:30"
+  },
+  {
+    "id": "onlineradiobox_il.tshuva",
+    "name": "TSHUVAfm",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/11398.v22.png",
+    "stream_url": "https://stream.zeno.fm/0n5wzu13cpeuv",
+    "website": "http://www.tshuvafm.com/",
+    "provider": "onlineradiobox",
+    "country": "Israel",
+    "genres": [
+      "talk",
+      "gospel",
+      "judaism",
+      "jewish"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:15:09+05:30"
+  },
+  {
+    "id": "onlineradiobox_il.tzafon",
+    "name": "Radio Tzafon",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/118810.v1.png",
+    "stream_url": "https://radio.streamgates.net/stream/1045fm",
+    "website": "https://1045fm.maariv.co.il/",
+    "provider": "onlineradiobox",
+    "country": "Israel",
+    "genres": [
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:17:59+05:30"
+  },
+  {
+    "id": "onlineradiobox_il.tzgospel",
+    "name": "Tzgospel Israel",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/132759.v4.png",
+    "stream_url": "https://stream.zeno.fm/rh1e6wqgzchvv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Israel",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:18:10+05:30"
+  },
+  {
+    "id": "onlineradiobox_il.tzlileyturkia",
+    "name": "Radio Tzliley Turkia",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/118595.v3.png",
+    "stream_url": "https://live.ecast.co.il/stream/turkanos",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Israel",
+    "genres": [
+      "pop",
+      "turkish"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:18:09+05:30"
+  },
+  {
+    "id": "onlineradiobox_il.up2dance",
+    "name": "Up2Dance Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/82697.v12.png",
+    "stream_url": "https://icecast.live/up2dance",
+    "website": "https://up2dance.com/",
+    "provider": "onlineradiobox",
+    "country": "Israel",
+    "genres": [
+      "dance",
+      "electronic",
+      "house",
+      "90s",
+      "00s",
+      "10s"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:14:16+05:30"
+  },
+  {
+    "id": "onlineradiobox_il.voiceofhopemiddleeast",
+    "name": "Voice of Hope - Middle East",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/69909.v3.png",
+    "stream_url": "https://streamdb6web.securenetsystems.net/v5/VOH",
+    "website": "http://www.voiceofhope.com/",
+    "provider": "onlineradiobox",
+    "country": "Israel",
+    "genres": [
+      "christian",
+      "arabic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:18:05+05:30"
+  },
+  {
+    "id": "onlineradiobox_il.voiceofthefamily",
+    "name": "רדיו קול המשפחה",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/119078.v1.png",
+    "stream_url": "https://sh1.secured.co.il/proxy/ynrcollege/stream",
+    "website": "https://www.radio-family.org.il/",
+    "provider": "onlineradiobox",
+    "country": "Israel",
+    "genres": [
+      "folk",
+      "education"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:17:58+05:30"
+  },
+  {
+    "id": "onlineradiobox_il.waio",
+    "name": "We Are Israel Online - WAIO",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/10786.v4.png",
+    "stream_url": "http://stream0.radiostyle.ru:8000/trumpet",
+    "website": "https://trumpetofsalvation.org/",
+    "provider": "onlineradiobox",
+    "country": "Israel",
+    "genres": [
+      "folk",
+      "christian",
+      "culture"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:15:12+05:30"
+  },
+  {
+    "id": "onlineradiobox_il.webisarelgospel",
+    "name": "Web Radio Isarel Gospel",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/105310.v3.png",
+    "stream_url": "https://stream.zeno.fm/esu1efrd898uv",
+    "website": "https://zeno.fm/web-radio-israel-gospel",
+    "provider": "onlineradiobox",
+    "country": "Israel",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:18:07+05:30"
+  },
+  {
+    "id": "onlineradiobox_il.winmusik",
+    "name": "Win Musik Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/147390.v1.png",
+    "stream_url": "https://listen.radioking.com/radio/729179/stream/795257",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Israel",
+    "genres": [
+      "rap"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:19:40+05:30"
+  },
+  {
+    "id": "onlineradiobox_il.yaboos",
+    "name": "Yaboos FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/79842.v8.png",
+    "stream_url": "https://stream.yaboos.fm/live",
+    "website": "http://www.yaboos.fm/",
+    "provider": "onlineradiobox",
+    "country": "Israel",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:16:16+05:30"
+  },
+  {
+    "id": "onlineradiobox_il.yasoo",
+    "name": "Radio Yasoo",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/10807.v3.png",
+    "stream_url": "http://radio-yasoo.ath.cx:7500/;stream.nsv&type=mp3",
+    "website": "http://www.radio-yasoo.com/wscraft/",
+    "provider": "onlineradiobox",
+    "country": "Israel",
+    "genres": [
+      "folk",
+      "greek"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:14:27+05:30"
+  },
+  {
+    "id": "onlineradiobox_il.yeshua",
+    "name": "Yeshua Messianic Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/11390.v8.png",
+    "stream_url": "http://dc3.serverse.com:1120/;?type=http&nocache",
+    "website": "http://holylanguage.com/",
+    "provider": "onlineradiobox",
+    "country": "Israel",
+    "genres": [
+      "talk",
+      "gospel",
+      "jewish"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:16:08+05:30"
+  },
+  {
+    "id": "onlineradiobox_il.yiddish24",
+    "name": "Radio Yiddish 24",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/119074.v1.png",
+    "stream_url": "https://music.yiddish24.com:5001/1",
+    "website": "https://www.yiddish24.com/",
+    "provider": "onlineradiobox",
+    "country": "Israel",
+    "genres": [
+      "pop",
+      "news",
+      "politics"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:17:11+05:30"
+  },
+  {
+    "id": "onlineradiobox_il.ynet",
+    "name": "Ynet Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/118597.v1.png",
+    "stream_url": "https://yradio.livecdn.biz/ynet-live",
+    "website": "https://www.ynet.co.il/radio",
+    "provider": "onlineradiobox",
+    "country": "Israel",
+    "genres": [
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:17:19+05:30"
+  }
+]

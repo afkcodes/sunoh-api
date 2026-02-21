@@ -1,0 +1,1070 @@
+[
+  {
+    "id": "onlineradiobox_lv.alisapluslv",
+    "name": "Alise Plus",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/29402.v7.png",
+    "stream_url": "http://fm2inet.aliseplus.lv:8000/",
+    "website": "http://www.aliseplus.lv/",
+    "provider": "onlineradiobox",
+    "country": "Latvia",
+    "genres": [
+      "pop",
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:52:59+05:30"
+  },
+  {
+    "id": "onlineradiobox_lv.autoradioriga",
+    "name": "Авторадио 103.2 FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/152227.v4.png",
+    "stream_url": "https://live.relaxfm.lv/03",
+    "website": "https://www.avtoradio.lv/",
+    "provider": "onlineradiobox",
+    "country": "Latvia",
+    "genres": [
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:53:49+05:30"
+  },
+  {
+    "id": "onlineradiobox_lv.baltkom",
+    "name": "Radio Melodija",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/29673.v6.png",
+    "stream_url": "https://live.relaxfm.lv/08",
+    "website": "https://radiomelodija.lv/",
+    "provider": "onlineradiobox",
+    "country": "Latvia",
+    "genres": [
+      "pop",
+      "jazz",
+      "news",
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:52:53+05:30"
+  },
+  {
+    "id": "onlineradiobox_lv.capital",
+    "name": "Relax FM Latvija",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/29430.v9.png",
+    "stream_url": "https://live.relaxfm.lv/02",
+    "website": "https://relaxfm.lv/",
+    "provider": "onlineradiobox",
+    "country": "Latvia",
+    "genres": [
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:52:51+05:30"
+  },
+  {
+    "id": "onlineradiobox_lv.dancestation",
+    "name": "Dance Station Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/148922.v3.png",
+    "stream_url": "https://myradio24.org/97045",
+    "website": "https://www.dsradio.lv/",
+    "provider": "onlineradiobox",
+    "country": "Latvia",
+    "genres": [
+      "trance",
+      "house",
+      "drum'n'bass",
+      "breakbeat"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:54:31+05:30"
+  },
+  {
+    "id": "onlineradiobox_lv.druzilv",
+    "name": "drUzi.lv",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/132065.v8.png",
+    "stream_url": "https://druzi.fm:8443/256aac",
+    "website": "http://druzi.ee/",
+    "provider": "onlineradiobox",
+    "country": "Latvia",
+    "genres": [],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:54:04+05:30"
+  },
+  {
+    "id": "onlineradiobox_lv.energyhitmusic",
+    "name": "Radio Energy - Hit Music Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/85673.v4.png",
+    "stream_url": "http://radioenergy.lv:8000/;stream.mp3",
+    "website": "http://www.radioenergy.lv/",
+    "provider": "onlineradiobox",
+    "country": "Latvia",
+    "genres": [
+      "pop",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:53:00+05:30"
+  },
+  {
+    "id": "onlineradiobox_lv.energyrussian",
+    "name": "Radio Energy - Russian Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/29429.v4.png",
+    "stream_url": "http://radioenergy.lv:9000/;stream.mp3",
+    "website": "http://www.radioenergy.lv/",
+    "provider": "onlineradiobox",
+    "country": "Latvia",
+    "genres": [
+      "pop",
+      "top40",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:52:54+05:30"
+  },
+  {
+    "id": "onlineradiobox_lv.europeanhit",
+    "name": "European Hit Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/29406.v8.png",
+    "stream_url": "https://stream2.superfm.lv:8000/ehr.aac",
+    "website": "https://www.ehrhiti.lv/",
+    "provider": "onlineradiobox",
+    "country": "Latvia",
+    "genres": [
+      "pop",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:52:55+05:30"
+  },
+  {
+    "id": "onlineradiobox_lv.flashsound",
+    "name": "Flash Sound (LV) radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/118814.v2.png",
+    "stream_url": "https://myradio24.org/65462",
+    "website": "https://svnagel72.wixsite.com/flashsoundradio",
+    "provider": "onlineradiobox",
+    "country": "Latvia",
+    "genres": [
+      "dance",
+      "house",
+      "techno",
+      "lounge",
+      "ambient",
+      "rap"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:53:50+05:30"
+  },
+  {
+    "id": "onlineradiobox_lv.fredfilm",
+    "name": "FRED FILM RADIO",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/46851.v8.png",
+    "stream_url": "https://s10.webradio-hosting.com/proxy/fredradiolv/stream/;",
+    "website": "http://www.fred.fm/lv/",
+    "provider": "onlineradiobox",
+    "country": "Latvia",
+    "genres": [
+      "news",
+      "talk",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:54:31+05:30"
+  },
+  {
+    "id": "onlineradiobox_lv.hero",
+    "name": "Hero Radio (Latvia)",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/147006.v2.png",
+    "stream_url": "https://a2.asurahosting.com:6790/latvia.mp3",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Latvia",
+    "genres": [
+      "news",
+      "gospel",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:54:06+05:30"
+  },
+  {
+    "id": "onlineradiobox_lv.hmr",
+    "name": "HMR In Motion",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/143020.v6.png",
+    "stream_url": "https://stream.zeno.fm/gaqllg8gkftuv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Latvia",
+    "genres": [
+      "dance",
+      "house"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:54:01+05:30"
+  },
+  {
+    "id": "onlineradiobox_lv.inside",
+    "name": "InsideFM Русское",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/124680.v5.png",
+    "stream_url": "https://stream.insidefm.eu/listen/insidefm/nonstop",
+    "website": "https://insidefm.eu/",
+    "provider": "onlineradiobox",
+    "country": "Latvia",
+    "genres": [
+      "dance",
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:53:02+05:30"
+  },
+  {
+    "id": "onlineradiobox_lv.jukebox",
+    "name": "HMR Deluxe",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/132347.v11.png",
+    "stream_url": "https://stream.zeno.fm/rw1qqkuoxidvv",
+    "website": "https://radiobox.mozello.lv/",
+    "provider": "onlineradiobox",
+    "country": "Latvia",
+    "genres": [
+      "dance",
+      "rock",
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:53:54+05:30"
+  },
+  {
+    "id": "onlineradiobox_lv.kiss",
+    "name": "Kiss fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/134347.v1.png",
+    "stream_url": "https://radio.powerfm.lv:8115/stream",
+    "website": "https://tiesraide.lv/kissfm/",
+    "provider": "onlineradiobox",
+    "country": "Latvia",
+    "genres": [
+      "trance",
+      "deep house"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:54:03+05:30"
+  },
+  {
+    "id": "onlineradiobox_lv.kurzemes",
+    "name": "Kurzemes Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/29405.v6.png",
+    "stream_url": "http://31.170.16.6:8000/;?",
+    "website": "http://www.kurzemesradio.lv/",
+    "provider": "onlineradiobox",
+    "country": "Latvia",
+    "genres": [
+      "rock",
+      "pop",
+      "news",
+      "90s",
+      "80s",
+      "70s"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:53:58+05:30"
+  },
+  {
+    "id": "onlineradiobox_lv.laroccae",
+    "name": "Larocca E-Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/29421.v6.png",
+    "stream_url": "https://radio.powerfm.lv:1045/stream",
+    "website": "https://www.larocca.lv/radio/",
+    "provider": "onlineradiobox",
+    "country": "Latvia",
+    "genres": [
+      "electronic",
+      "house",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:53:51+05:30"
+  },
+  {
+    "id": "onlineradiobox_lv.latgolysradeja",
+    "name": "Latgolys Radeja",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/29525.v3.png",
+    "stream_url": "http://195.13.253.51:8000/128_mp3",
+    "website": "http://www.radiolg.lv/",
+    "provider": "onlineradiobox",
+    "country": "Latvia",
+    "genres": [
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:53:01+05:30"
+  },
+  {
+    "id": "onlineradiobox_lv.latvijaskristigais",
+    "name": "Latvijas Kristigais Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/29499.v6.png",
+    "stream_url": "https://radio.lkr.lv/;",
+    "website": "http://lkr.lv/",
+    "provider": "onlineradiobox",
+    "country": "Latvia",
+    "genres": [
+      "talk",
+      "christian",
+      "children"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:53:56+05:30"
+  },
+  {
+    "id": "onlineradiobox_lv.latvijaslr1",
+    "name": "Latvijas Radio - LR1",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/29414.v5.png",
+    "stream_url": "https://wlrz.latvijasradio.lv/liveALR1/mp4:LR1/playlist.m3u8",
+    "website": "http://lr1.lsm.lv/lv/lr1/",
+    "provider": "onlineradiobox",
+    "country": "Latvia",
+    "genres": [
+      "folk",
+      "children"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:52:58+05:30"
+  },
+  {
+    "id": "onlineradiobox_lv.latvijaslr2",
+    "name": "Latvijas Radio - LR2",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/29407.v7.png",
+    "stream_url": "https://muste.latvijasradio.lv/shoutcast/mp4:lr2a.stream/playlist.m3u8",
+    "website": "http://lr2.lsm.lv/lv/lr2/",
+    "provider": "onlineradiobox",
+    "country": "Latvia",
+    "genres": [
+      "news",
+      "talk",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:52:56+05:30"
+  },
+  {
+    "id": "onlineradiobox_lv.latvijaslr3klasika",
+    "name": "Latvijas Radio - LR3",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/29413.v4.png",
+    "stream_url": "https://wlrz.latvijasradio.lv/liveALR3/mp4:klasika/playlist.m3u8",
+    "website": "http://klasika.lsm.lv/lv/lr3/",
+    "provider": "onlineradiobox",
+    "country": "Latvia",
+    "genres": [
+      "jazz",
+      "classic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:53:55+05:30"
+  },
+  {
+    "id": "onlineradiobox_lv.latvijaslr5",
+    "name": "Latvijas Radio - LR5",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/29415.v5.png",
+    "stream_url": "https://muste.latvijasradio.lv/pieci/mp4:k2/playlist.m3u8",
+    "website": "http://lr5.lsm.lv/lv/lr5/",
+    "provider": "onlineradiobox",
+    "country": "Latvia",
+    "genres": [
+      "pop",
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:53:02+05:30"
+  },
+  {
+    "id": "onlineradiobox_lv.latvijaslr6naba",
+    "name": "Latvijas Radio - LR6 Naba",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/29417.v4.png",
+    "stream_url": "https://muste.latvijasradio.lv/shoutcast/mp4:naba.stream/playlist.m3u8",
+    "website": "https://naba.lsm.lv/lv/naba/",
+    "provider": "onlineradiobox",
+    "country": "Latvia",
+    "genres": [
+      "rock",
+      "pop",
+      "jazz",
+      "alternative rock"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:53:53+05:30"
+  },
+  {
+    "id": "onlineradiobox_lv.lounge995",
+    "name": "Lounge FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/29670.v14.png",
+    "stream_url": "https://stream.loungefm.lv:8443/lounge",
+    "website": "https://loungefm.lv/",
+    "provider": "onlineradiobox",
+    "country": "Latvia",
+    "genres": [
+      "blues",
+      "funk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:52:50+05:30"
+  },
+  {
+    "id": "onlineradiobox_lv.ludza",
+    "name": "LudzaFM",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/119782.v42.png",
+    "stream_url": "https://stream.zeno.fm/jdthajltx9xtv",
+    "website": "https://myradio24.com/ludzafm",
+    "provider": "onlineradiobox",
+    "country": "Latvia",
+    "genres": [
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:54:02+05:30"
+  },
+  {
+    "id": "onlineradiobox_lv.madarutroksnis",
+    "name": "Madaru Troksnis",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/130227.v1.png",
+    "stream_url": "https://stream.zeno.fm/3ftphcacm2ruv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Latvia",
+    "genres": [
+      "dance",
+      "rock",
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:53:57+05:30"
+  },
+  {
+    "id": "onlineradiobox_lv.marijalatvija",
+    "name": "Radio Marija Latvija",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/29904.v4.png",
+    "stream_url": "https://dreamsiteradiocp2.com/proxy/rmlatvia2?mp=/stream",
+    "website": "http://www.rml.lv/",
+    "provider": "onlineradiobox",
+    "country": "Latvia",
+    "genres": [
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:53:48+05:30"
+  },
+  {
+    "id": "onlineradiobox_lv.mix1027",
+    "name": "Mix FM 102.7",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/29527.v6.png",
+    "stream_url": "https://live.relaxfm.lv/07",
+    "website": "https://mixfm.lv/",
+    "provider": "onlineradiobox",
+    "country": "Latvia",
+    "genres": [
+      "dance",
+      "pop",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:52:57+05:30"
+  },
+  {
+    "id": "onlineradiobox_lv.morskoipriboi",
+    "name": "Морской Прибой",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/97033.v2.png",
+    "stream_url": "https://stream.zeno.fm/u8sak2yf2k0uv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Latvia",
+    "genres": [
+      "rock",
+      "pop",
+      "chanson"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:53:59+05:30"
+  },
+  {
+    "id": "onlineradiobox_lv.nemiers",
+    "name": "Radio Nemiers",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/141307.v3.png",
+    "stream_url": "https://stream.radionemiers.com/nmrs/playlist.m3u8",
+    "website": "https://radionemiers.com/",
+    "provider": "onlineradiobox",
+    "country": "Latvia",
+    "genres": [
+      "christian",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:54:03+05:30"
+  },
+  {
+    "id": "onlineradiobox_lv.njoylatvia",
+    "name": "Njoy Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/147110.v3.png",
+    "stream_url": "https://live.njoyradio.lv/02",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Latvia",
+    "genres": [
+      "pop",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:54:31+05:30"
+  },
+  {
+    "id": "onlineradiobox_lv.nordicbeat",
+    "name": "Nordic Chillout Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/80359.v16.png",
+    "stream_url": "https://listen.radioking.com/radio/672094/stream/736255",
+    "website": "https://nordichilloutradio.com/",
+    "provider": "onlineradiobox",
+    "country": "Latvia",
+    "genres": [
+      "electronic",
+      "lounge",
+      "ambient",
+      "chill-out",
+      "instrumental",
+      "chill-house"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:52:52+05:30"
+  },
+  {
+    "id": "onlineradiobox_lv.normundsastra",
+    "name": "Нормунд Астра",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/152479.v1.png",
+    "stream_url": "https://listen.radioking.com/radio/779841/stream/847436",
+    "website": "https://normundsastra.com/",
+    "provider": "onlineradiobox",
+    "country": "Latvia",
+    "genres": [
+      "culture"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:54:30+05:30"
+  },
+  {
+    "id": "onlineradiobox_lv.nzrintrigue",
+    "name": "NZRadioIntrigue",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/122486.v5.png",
+    "stream_url": "https://myradio24.org/nzr13015",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Latvia",
+    "genres": [
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:54:06+05:30"
+  },
+  {
+    "id": "onlineradiobox_lv.omh",
+    "name": "OMH - Our Music History Since 1980",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/80536.v7.png",
+    "stream_url": "https://stream.rcast.net/63684",
+    "website": "http://omh.sytes.net/",
+    "provider": "onlineradiobox",
+    "country": "Latvia",
+    "genres": [
+      "rock",
+      "pop",
+      "top40",
+      "90s",
+      "00s",
+      "80s",
+      "10s"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:53:52+05:30"
+  },
+  {
+    "id": "onlineradiobox_lv.oneriga",
+    "name": "Radio One",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/106644.v3.png",
+    "stream_url": "https://radioone.lv/01",
+    "website": "https://radioone.lv/",
+    "provider": "onlineradiobox",
+    "country": "Latvia",
+    "genres": [
+      "pop",
+      "oldies",
+      "adult contemporary",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:53:03+05:30"
+  },
+  {
+    "id": "onlineradiobox_lv.pik100",
+    "name": "Radio Pik 100 FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/29424.v8.png",
+    "stream_url": "http://91.90.255.85:8000/01",
+    "website": "http://www.pik.lv/",
+    "provider": "onlineradiobox",
+    "country": "Latvia",
+    "genres": [
+      "pop",
+      "news",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:52:58+05:30"
+  },
+  {
+    "id": "onlineradiobox_lv.power",
+    "name": "Power Fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/131705.v3.png",
+    "stream_url": "https://radio.powerfm.lv:8075/stream",
+    "website": "https://powerfm.lv/",
+    "provider": "onlineradiobox",
+    "country": "Latvia",
+    "genres": [
+      "pop",
+      "80s"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:53:56+05:30"
+  },
+  {
+    "id": "onlineradiobox_lv.radio9",
+    "name": "Radio 9 Chillax FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/114256.v6.png",
+    "stream_url": "https://streams.chillaxfm.lv/chillaxfm",
+    "website": "https://skontotev.lv/ru/radio-9",
+    "provider": "onlineradiobox",
+    "country": "Latvia",
+    "genres": [
+      "pop",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:53:00+05:30"
+  },
+  {
+    "id": "onlineradiobox_lv.retrofm",
+    "name": "Retro FM Latvija",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/72010.v4.png",
+    "stream_url": "https://live.retrofm.lv/retrofmlatvia",
+    "website": "https://retrofm.lv/",
+    "provider": "onlineradiobox",
+    "country": "Latvia",
+    "genres": [
+      "retro",
+      "oldies",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:52:50+05:30"
+  },
+  {
+    "id": "onlineradiobox_lv.rigalife",
+    "name": "Riga.life",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/149080.v1.png",
+    "stream_url": "https://listen.radioking.com/radio/742981/stream/809503",
+    "website": "https://riga.life/",
+    "provider": "onlineradiobox",
+    "country": "Latvia",
+    "genres": [
+      "culture",
+      "love songs"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:54:05+05:30"
+  },
+  {
+    "id": "onlineradiobox_lv.roks886",
+    "name": "Radio Roks",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/152226.v2.png",
+    "stream_url": "https://live.relaxfm.lv/06",
+    "website": "https://radioroks.lv/",
+    "provider": "onlineradiobox",
+    "country": "Latvia",
+    "genres": [
+      "rock",
+      "classic rock"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:54:00+05:30"
+  },
+  {
+    "id": "onlineradiobox_lv.skonto",
+    "name": "Radio Skonto",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/29320.v9.png",
+    "stream_url": "https://stream.radioskonto.lv:8443/stereo",
+    "website": "https://radioskonto.lv/ru/",
+    "provider": "onlineradiobox",
+    "country": "Latvia",
+    "genres": [
+      "pop",
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:52:53+05:30"
+  },
+  {
+    "id": "onlineradiobox_lv.skontojuniors",
+    "name": "Radio Skonto Juniors",
+    "image": "https://cdn.onlineradiobox.com/img/logo/7/152257.png",
+    "stream_url": "https://streams.radioskonto.lv:8443/skonto-juniors",
+    "website": "https://radioskonto.lv/ru/",
+    "provider": "onlineradiobox",
+    "country": "Latvia",
+    "genres": [
+      "pop",
+      "children",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:54:32+05:30"
+  },
+  {
+    "id": "onlineradiobox_lv.starfmlatvia",
+    "name": "Radio Star FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/141404.v2.png",
+    "stream_url": "https://live.advailo.com/audio/mp3/icecast.audio",
+    "website": "https://starfm.tv3.lv/",
+    "provider": "onlineradiobox",
+    "country": "Latvia",
+    "genres": [
+      "dance",
+      "pop",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:53:59+05:30"
+  },
+  {
+    "id": "onlineradiobox_lv.station2000",
+    "name": "Станция 2000",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/132073.v14.png",
+    "stream_url": "http://uk2freenew.listen2myradio.com:6286/stream",
+    "website": "https://sssttttaaation.radio12345.com/",
+    "provider": "onlineradiobox",
+    "country": "Latvia",
+    "genres": [
+      "pop",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:54:01+05:30"
+  },
+  {
+    "id": "onlineradiobox_lv.swh",
+    "name": "Radio SWH",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/29504.v7.png",
+    "stream_url": "https://live.radioswh.lv:8443/swhmp3",
+    "website": "http://www.radioswh.lv/",
+    "provider": "onlineradiobox",
+    "country": "Latvia",
+    "genres": [
+      "pop",
+      "news",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:52:54+05:30"
+  },
+  {
+    "id": "onlineradiobox_lv.talsi",
+    "name": "Talsi Lounge Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/76511.v6.png",
+    "stream_url": "http://kuums.lv:5555/?type=http&nocache=170",
+    "website": "http://radio.kuums.lv/",
+    "provider": "onlineradiobox",
+    "country": "Latvia",
+    "genres": [
+      "lounge",
+      "chill-out"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:52:59+05:30"
+  },
+  {
+    "id": "onlineradiobox_lv.tev",
+    "name": "Radio TEV",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/29906.v6.png",
+    "stream_url": "https://stream.radiotev.lv:8443/radiov",
+    "website": "https://radiotev.lv/",
+    "provider": "onlineradiobox",
+    "country": "Latvia",
+    "genres": [
+      "pop",
+      "news",
+      "folk",
+      "entertainment",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:53:50+05:30"
+  },
+  {
+    "id": "onlineradiobox_lv.tliglatvian",
+    "name": "True Life in God Radio Latvian",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/29523.v17.png",
+    "stream_url": "https://stream.tligradio.org/listen/latvian/radio.mp3",
+    "website": "http://www.tligradio.org/lv",
+    "provider": "onlineradiobox",
+    "country": "Latvia",
+    "genres": [
+      "talk",
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:54:30+05:30"
+  },
+  {
+    "id": "onlineradiobox_lv.top",
+    "name": "TOP radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/29426.v7.png",
+    "stream_url": "https://topradio.live.advailo.com/topradio/mp3/icecast.audio",
+    "website": "https://www.topradio.lv/",
+    "provider": "onlineradiobox",
+    "country": "Latvia",
+    "genres": [
+      "pop",
+      "top40",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:52:49+05:30"
+  },
+  {
+    "id": "onlineradiobox_lv.tzgospel",
+    "name": "Tzgospel Latvia",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/128598.v1.png",
+    "stream_url": "https://stream.zeno.fm/r6fy5xaegfhvv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Latvia",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:54:32+05:30"
+  },
+  {
+    "id": "onlineradiobox_lv.xofm",
+    "name": "XO FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/71999.v3.png",
+    "stream_url": "https://live.xo.fm/xofm128",
+    "website": "http://xo.fm/",
+    "provider": "onlineradiobox",
+    "country": "Latvia",
+    "genres": [
+      "blues",
+      "jazz"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:52:51+05:30"
+  },
+  {
+    "id": "onlineradiobox_lv.xradio",
+    "name": "Xradio",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/69985.v19.png",
+    "stream_url": "https://radio.xradio.vip/stream",
+    "website": "https://xradio.vip/",
+    "provider": "onlineradiobox",
+    "country": "Latvia",
+    "genres": [
+      "dance",
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:52:57+05:30"
+  },
+  {
+    "id": "onlineradiobox_lv.yourcity",
+    "name": "Your City Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/100047.v4.png",
+    "stream_url": "https://c28.radioboss.fm:18234/stream",
+    "website": "http://www.yourcityradio.com/",
+    "provider": "onlineradiobox",
+    "country": "Latvia",
+    "genres": [
+      "house",
+      "pop",
+      "lounge",
+      "indie",
+      "chill-out"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:52:59+05:30"
+  }
+]

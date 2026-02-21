@@ -1,0 +1,4279 @@
+[
+  {
+    "id": "onlineradiobox_lk.abchirufm",
+    "name": "ABC - Hiru FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/30987.v5.png",
+    "stream_url": "https://radio.lotustechnologieslk.net:2020/stream/hirufmgarden",
+    "website": "http://www.hirufm.lk/",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "pop",
+      "news",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:49:33+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.abcshaa",
+    "name": "ABC Shaa",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/31072.v7.png",
+    "stream_url": "https://radio.lotustechnologieslk.net:2020/stream/shaafmgarden",
+    "website": "http://www.shaafm.lk/",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "pop",
+      "news",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:48:36+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.abeywardanabalasooriya",
+    "name": "Abeywardana Balasooriya",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/86119.v6.png",
+    "stream_url": "https://stream.zeno.fm/99xmszg0wwzuv",
+    "website": "https://zeno.fm/radio/abeywardanabalasooriya/",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:54:30+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.agaramfm",
+    "name": "Agaram FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/119662.v2.png",
+    "stream_url": "https://stream.zeno.fm/ynuoddjfosluv",
+    "website": "https://www.agaramradio.com/",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:57:15+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.aggraliveshow",
+    "name": "Aggra Live Show",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/111006.v2.png",
+    "stream_url": "https://stream.zeno.fm/ww3udznpachvv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "pop",
+      "hip-hop",
+      "reggae"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:52:41+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.ajithariyarathna",
+    "name": "Ajith Ariyarathna",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/86118.v4.png",
+    "stream_url": "https://stream.zeno.fm/w7f5kuh0wwzuv",
+    "website": "https://zeno.fm/radio/ajithariyarathna/",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:56:36+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.ajithbandara",
+    "name": "Ajith Bandara",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/86431.v3.png",
+    "stream_url": "https://stream.zeno.fm/zebkgb36ztzuv",
+    "website": "https://zeno.fm/radio/ajithbandara/",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:53:37+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.ajithperera",
+    "name": "Ajith Perera",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/86511.v2.png",
+    "stream_url": "https://stream.zeno.fm/k57r6cq01tzuv",
+    "website": "https://zeno.fm/radio/ajithperera/",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:54:32+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.alaifm",
+    "name": "Alai FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/31792.v2.png",
+    "stream_url": "https://stream.zeno.fm/teokcbwphtevv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:55:29+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.amalperera",
+    "name": "Amal Perera",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/86432.v3.png",
+    "stream_url": "https://stream.zeno.fm/8r26u456ztzuv",
+    "website": "https://zeno.fm/radio/amalperera/",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:56:26+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.amarasiripeiris",
+    "name": "Amarasiri Peiris",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/86151.v6.png",
+    "stream_url": "https://stream.zeno.fm/dzepva2qvtzuv",
+    "website": "https://zeno.fm/radio/amarasiripeiris/",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:57:16+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.amenfm",
+    "name": "Amen FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/119979.v1.png",
+    "stream_url": "https://stream.zeno.fm/lhrhfqasphwuv",
+    "website": "https://mfgroupsl.wixsite.com/site/amen-fm",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:55:33+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.amilanadeeshani",
+    "name": "Amila Nadeeshani",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/86433.v3.png",
+    "stream_url": "https://stream.zeno.fm/npack4c7ztzuv",
+    "website": "https://zeno.fm/radio/amilanadeeshani/",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:54:37+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.amilaperera",
+    "name": "Amila Perera",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/86486.v3.png",
+    "stream_url": "https://stream.zeno.fm/uz7ya5n50tzuv",
+    "website": "https://zeno.fm/radio/amilaperera/",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:52:43+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.amithwalpola",
+    "name": "Amith Walpola",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/86485.v3.png",
+    "stream_url": "https://stream.zeno.fm/n21w8vp50tzuv",
+    "website": "https://zeno.fm/radio/amithwalpola/",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:55:36+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.angelinegunathilake",
+    "name": "Angeline Gunathilake",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/86484.v3.png",
+    "stream_url": "https://stream.zeno.fm/e6vfx0q50tzuv",
+    "website": "https://zeno.fm/radio/angelinegunathilake/",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:55:30+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.annesleymalewana",
+    "name": "Annesley Malewana",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/86487.v2.png",
+    "stream_url": "https://stream.zeno.fm/dg6cd0v50tzuv",
+    "website": "https://zeno.fm/radio/annesleymalewana/",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:52:50+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.antonjones",
+    "name": "Anton Jones",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/86274.v4.png",
+    "stream_url": "https://stream.zeno.fm/83c42z9gxtzuv",
+    "website": "https://zeno.fm/radio/antonjones/",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:53:34+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.antonrodrigo",
+    "name": "Anton Rodrigo",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/86483.v2.png",
+    "stream_url": "https://stream.zeno.fm/z2wx3ax50tzuv",
+    "website": "https://zeno.fm/radio/antonrodrigo/",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:55:26+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.anurata",
+    "name": "Anurata Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/140687.v1.png",
+    "stream_url": "https://stream.zeno.fm/bljlfuijqe1uv",
+    "website": "https://anurata.com/",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "pop",
+      "news",
+      "talk",
+      "classic",
+      "hip-hop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:56:33+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.apidubai",
+    "name": "Api Dubai",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/125113.v5.png",
+    "stream_url": "https://stream.zeno.fm/bzatbm3txhhvv",
+    "website": "https://www.apidubai.live/",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "folk",
+      "arabic",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:57:16+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.appuchi",
+    "name": "Appuchi Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/92456.v8.png",
+    "stream_url": "https://stream.zeno.fm/fg2a42pdt7zuv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:56:25+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.arnukaglobal",
+    "name": "Arnuka Global Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/120594.v6.png",
+    "stream_url": "https://arnuka-global-radio.stream.laut.fm/arnuka-global-radio",
+    "website": "http://arnuka-global.com/",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "rock",
+      "pop",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:50:42+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.asankapriyamanthapeiris",
+    "name": "Asanka Priyamantha Peiris",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/86213.v2.png",
+    "stream_url": "https://stream.zeno.fm/k5ar0huhwtzuv",
+    "website": "https://zeno.fm/radio/asankapriyamanthapeiris/",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:57:13+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.ashanfernando",
+    "name": "Ashan Fernando",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/86413.v3.png",
+    "stream_url": "https://stream.zeno.fm/6w4mz12bztzuv",
+    "website": "https://zeno.fm/radio/ashanfernando/",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:56:27+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.asimithuweb",
+    "name": "Asimithu Web",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/31962.v3.png",
+    "stream_url": "https://s3.voscast.com:8855/stream",
+    "website": "http://www.asimithu.lk/",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "talk",
+      "folk",
+      "culture"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:49:37+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.athavan",
+    "name": "Athavan Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/95147.v15.png",
+    "stream_url": "https://stream.zeno.fm/6bidobihq1luv",
+    "website": "https://athavanradio.com/",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "tamil"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:49:40+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.athmaliyanage",
+    "name": "Athma Liyanage",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/86117.v4.png",
+    "stream_url": "https://stream.zeno.fm/n9qa8g0sutzuv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:52:46+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.athugala",
+    "name": "Athugala Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/115085.v2.png",
+    "stream_url": "https://stream.zeno.fm/72e48vnezrhvv",
+    "website": "https://sites.google.com/view/athugalaradio",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "pop",
+      "classic",
+      "hip-hop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:51:47+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.athulasrigamage",
+    "name": "Athula Sri Gamage",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/86270.v3.png",
+    "stream_url": "https://stream.zeno.fm/104zsf0nwtzuv",
+    "website": "https://zeno.fm/radio/athulasrigamage/",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:56:31+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.bachisusan",
+    "name": "Bachi Susan",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/86482.v2.png",
+    "stream_url": "https://stream.zeno.fm/4dcc1by50tzuv",
+    "website": "https://zeno.fm/radio/bachisusan/",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:54:34+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.bandaraathauda",
+    "name": "Bandara Athauda",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/86412.v3.png",
+    "stream_url": "https://stream.zeno.fm/wgpyur8bztzuv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:57:19+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.bathiyaandsanthush",
+    "name": "Bathiya and Santhush",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/86205.v1.png",
+    "stream_url": "https://stream.zeno.fm/0vakfqwhwtzuv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:51:46+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.bathusha",
+    "name": "Bathusha Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/31963.v12.png",
+    "stream_url": "http://eu10.fastcast4u.com:14550/stream",
+    "website": "http://bathusha.lk/",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "talk",
+      "islamic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:49:37+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.beatfm",
+    "name": "Beat FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/31761.v2.png",
+    "stream_url": "http://38.96.148.28:8186/;",
+    "website": "http://beatfm.lk/",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:53:46+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.beats",
+    "name": "beats RADIO",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/136228.v3.png",
+    "stream_url": "https://stream.zeno.fm/rcwgs7b776lvv",
+    "website": "https://hdprime.wixsite.com/beatsradio",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "jazz",
+      "hip-hop",
+      "drum'n'bass"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:51:43+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.bee",
+    "name": "Bee Fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/104793.v7.png",
+    "stream_url": "https://stream.zeno.fm/xwueh52exy8uv",
+    "website": "https://zeno.fm/radio/beefmlive/",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:50:41+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.beefm",
+    "name": "Bee FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/116183.v6.png",
+    "stream_url": "https://stream.zeno.fm/b5z4bwe91rhvv",
+    "website": "https://www.beefm.lk/",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "pop",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:54:36+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.bestcoastfm",
+    "name": "Bestcoast FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/31964.v2.png",
+    "stream_url": "https://streams.radio.co/sea5dddd6b/listen",
+    "website": "https://bestcoast.fm/",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "pop",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:49:45+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.centigradz",
+    "name": "Centigradz",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/86504.v2.png",
+    "stream_url": "https://stream.zeno.fm/45qy30511tzuv",
+    "website": "https://zeno.fm/centigradz/",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:51:48+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.chamararanawaka",
+    "name": "Chamara Ranawaka",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/86510.v2.png",
+    "stream_url": "https://stream.zeno.fm/e5fma0r01tzuv",
+    "website": "https://zeno.fm/radio/chamararanawaka/",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:54:42+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.chamaraweerasinghe",
+    "name": "Chamara Weerasinghe",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/86179.v5.png",
+    "stream_url": "https://stream.zeno.fm/zhga2fgsvtzuv",
+    "website": "https://zeno.fm/radio/chamaraweerasinghe/",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:51:40+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.chamikasirimanna",
+    "name": "Chamika Sirimanna",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/86537.v2.png",
+    "stream_url": "https://stream.zeno.fm/pc03up7y2tzuv",
+    "website": "https://zeno.fm/radio/chamikasirimanna/",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:54:30+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.champakalhari",
+    "name": "Champa Kalhari",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/86503.v4.png",
+    "stream_url": "https://stream.zeno.fm/neftnmc21tzuv",
+    "website": "https://zeno.fm/radio/champakalhari/",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:52:51+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.chandanaliyanaarachchi",
+    "name": "Chandana Liyanaarachchi",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/86267.v2.png",
+    "stream_url": "https://stream.zeno.fm/mbeegz1nwtzuv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:55:31+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.chandrakumarakandanarachchi",
+    "name": "Chandra Kumara Kandanarachchi",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/86262.v1.png",
+    "stream_url": "https://stream.zeno.fm/c86v62bgxtzuv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:56:32+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.chandralekhaperera",
+    "name": "Chandralekha Perera",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/86212.v1.png",
+    "stream_url": "https://stream.zeno.fm/9r6u5uthwtzuv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:53:41+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.chandrasenahettiarachchi",
+    "name": "Chandrasena Hettiarachchi",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/86176.v2.png",
+    "stream_url": "https://stream.zeno.fm/na162kqsvtzuv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:53:35+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.chandrikasiriwardena",
+    "name": "Chandrika Siriwardena",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/86443.v3.png",
+    "stream_url": "https://stream.zeno.fm/u9dcany9ztzuv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:54:33+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.charithapriyadarshanipeiris",
+    "name": "Charitha Priyadarshani Peiris",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/86442.v3.png",
+    "stream_url": "https://stream.zeno.fm/rw8h3st9ztzuv",
+    "website": "https://zeno.fm/radio/charithapriyadarshanipeiris/",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:55:40+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.childrenstories",
+    "name": "ළමා කතා Lama Katha",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/94915.v1.png",
+    "stream_url": "https://stream.zeno.fm/297unpdnnd0uv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "children"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:50:52+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.cityfm",
+    "name": "City FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/31013.v3.png",
+    "stream_url": "http://220.247.227.20:8000/citystream",
+    "website": "http://www.slbc.lk/",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "pop",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:53:36+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.clarencewijewardena",
+    "name": "Clarence Wijewardena",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/86544.v2.png",
+    "stream_url": "https://stream.zeno.fm/stzw665w2tzuv",
+    "website": "https://zeno.fm/radio/clarencewijewardena/",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:51:41+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.classiconline",
+    "name": "Classic Radio Online",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/72085.v13.png",
+    "stream_url": "https://cp11.serverse.com/proxy/classic?mp=/stream",
+    "website": "https://trn.lk/classicradio",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "folk",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:48:41+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.colombo",
+    "name": "Radio Colombo",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/115105.v2.png",
+    "stream_url": "https://stream.zeno.fm/brxx04y4srhvv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "r'n'b",
+      "pop",
+      "rap",
+      "hip-hop",
+      "country",
+      "alternative",
+      "top40",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:50:50+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.coolradiolive",
+    "name": "Cool Radio Live",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/86672.v2.png",
+    "stream_url": "https://stream.zeno.fm/kvaey7nq5tzuv",
+    "website": "https://coolradiolive.blogspot.com/",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:48:45+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.crisrilanka",
+    "name": "CRI Sri Lanka",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/32305.v4.png",
+    "stream_url": "http://46.105.126.68:14898/listen.mp3",
+    "website": "http://crisrilanka.com/",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "news",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:50:43+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.dahamgagana",
+    "name": "Daham Gagana",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/32307.v2.png",
+    "stream_url": "https://cp12.serverse.com/proxy/fdcpgwaf?mp=/stream",
+    "website": "http://dahamgagana.com/",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "talk",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:52:49+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.damithasanka",
+    "name": "Damith Asanka",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/86389.v4.png",
+    "stream_url": "https://stream.zeno.fm/7zmk1rc9ytzuv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:56:31+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.damsabaguwanhanda",
+    "name": "DAM SABA GUWAN HANDA",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/31767.v1.png",
+    "stream_url": "http://s6.voscast.com:8112/;",
+    "website": "http://www.waharaka.com/",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "news",
+      "talk",
+      "buddhist"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:54:35+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.danapalaudawaththa",
+    "name": "Danapala Udawaththa",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/86265.v1.png",
+    "stream_url": "https://stream.zeno.fm/0xu6m69fxtzuv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "pop",
+      "soul"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:53:34+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.dayanwitharana",
+    "name": "Dayan Witharana",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/86268.v2.png",
+    "stream_url": "https://stream.zeno.fm/8n06nn7nwtzuv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:54:31+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.dayarathnaperera",
+    "name": "Dayarathna Perera",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/86507.v2.png",
+    "stream_url": "https://stream.zeno.fm/dfxng2t01tzuv",
+    "website": "https://zeno.fm/radio/dayarathnaperera/",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:56:35+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.dayarathnaranathunga",
+    "name": "Dayarathna Ranathunga",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/86177.v2.png",
+    "stream_url": "https://stream.zeno.fm/e1xureksvtzuv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:56:30+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.deepalsilva",
+    "name": "Deepal Silva",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/86410.v3.png",
+    "stream_url": "https://stream.zeno.fm/9yr0mwkcztzuv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:53:32+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.deepikapriyadharshani",
+    "name": "Deepika Priyadharshani",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/86506.v2.png",
+    "stream_url": "https://stream.zeno.fm/ymzdp8201tzuv",
+    "website": "https://zeno.fm/radio/deepikapriyadharshani/",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:54:34+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.dhuruvan",
+    "name": "Dhuruvan",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/149410.v1.png",
+    "stream_url": "https://stream.zeno.fm/9s7mw85te48uv",
+    "website": "https://www.radio.dhuruvan.com/",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "tamil",
+      "romantic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:56:36+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.dimankawellalage",
+    "name": "Dimanka Wellalage",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/86411.v2.png",
+    "stream_url": "https://stream.zeno.fm/bgt7zdacztzuv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:55:35+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.djshifansc",
+    "name": "Dj Shifan Sc",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/95405.v6.png",
+    "stream_url": "https://stream.zeno.fm/8vw9hec3kwzuv",
+    "website": "https://www.djshifan.com/",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "folk",
+      "entertainment",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:57:17+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.donsherman",
+    "name": "Don Sherman",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/88116.v2.png",
+    "stream_url": "https://stream.zeno.fm/e1ppkz702yzuv",
+    "website": "https://zeno.fm/radio/donsherman/",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:53:42+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.edwardjayakody",
+    "name": "Edward Jayakody",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/86172.v1.png",
+    "stream_url": "https://stream.zeno.fm/p6f82uesvtzuv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:51:49+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.efm",
+    "name": "E FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/31166.v2.png",
+    "stream_url": "http://207.148.74.192:7860/stream.mp3",
+    "website": "http://efm.lk/",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "r'n'b",
+      "pop",
+      "top40",
+      "oldies"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:48:46+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.ever",
+    "name": "Ever Fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/134891.v3.png",
+    "stream_url": "https://stream.zeno.fm/xtereyhnqc9uv",
+    "website": "https://everfm.live/",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:50:47+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.felixanton",
+    "name": "Felix Anton",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/86505.v2.png",
+    "stream_url": "https://stream.zeno.fm/bb79p6a11tzuv",
+    "website": "https://zeno.fm/radio/felixanton/",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:56:34+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.fmrythem",
+    "name": "HITZ fm 24",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/129804.v27.png",
+    "stream_url": "https://ec6.yesstreaming.net:4245/stream",
+    "website": "https://radiovbn.com/",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "dance",
+      "electronic",
+      "pop",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:48:43+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.foxfm",
+    "name": "Fox FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/31967.v9.png",
+    "stream_url": "https://cp11.serverse.com/proxy/foxfm/stream/;stream.mp3",
+    "website": "http://www.fox914.com/",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "rock",
+      "pop",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:48:42+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.freefmlk",
+    "name": "freefm.lk - Sri Lanka Sinhala Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/76151.v9.png",
+    "stream_url": "https://stream.zeno.fm/jwm8nars09tvv",
+    "website": "https://freefm.lk/lk",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "pop",
+      "news",
+      "talk",
+      "classic",
+      "hip-hop",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:48:47+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.freesrilanka",
+    "name": "Youth one radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/128939.v23.png",
+    "stream_url": "https://ec6.yesstreaming.net:1235/stream",
+    "website": "https://radiovbn.com/",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "dance",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:48:42+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.gold",
+    "name": "Radio Gold",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/115784.v17.png",
+    "stream_url": "https://cp11.serverse.com/proxy/radiogold/stream",
+    "website": "https://trn.lk/radiogold",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "oldies"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:49:45+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.goldenmaple",
+    "name": "ගෝල්ඩන් මේපල් වෙබ් රේඩියෝ",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/90816.v7.png",
+    "stream_url": "http://s46.myradiostream.com:11156/listen.mp3",
+    "website": "http://goldenmaple.lk/",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "90s",
+      "80s",
+      "70s"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:50:45+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.goldfm",
+    "name": "Gold FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/30991.v3.png",
+    "stream_url": "https://radio.lotustechnologieslk.net:8000/;",
+    "website": "http://www.goldfm.lk/",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "80s",
+      "70s",
+      "oldies",
+      "60s"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:48:38+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.gratienananda",
+    "name": "Gratien Ananda",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/86518.v4.png",
+    "stream_url": "https://stream.zeno.fm/0k511d831tzuv",
+    "website": "https://zeno.fm/radio/gratienananda/",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:57:13+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.gumnada",
+    "name": "Gumnada",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/86430.v3.png",
+    "stream_url": "https://stream.zeno.fm/e7ztn80wttzuv",
+    "website": "https://zeno.fm/radio/gumnada/",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:56:30+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.guwanaradio",
+    "name": "Guwana Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/86737.v3.png",
+    "stream_url": "https://stream.zeno.fm/16g46x6xetzuv",
+    "website": "https://zeno.fm/guwana-radio/",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:49:39+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.guwanatagee",
+    "name": "Guwanata Gee",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/86388.v4.png",
+    "stream_url": "https://stream.zeno.fm/nb21k3uaztzuv",
+    "website": "https://guwanatagee.blogspot.com/",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:55:29+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.guwanviduliwedagedara",
+    "name": "ගුවන්විදුලි වෙද ගෙදර - Guwanviduli Weda Gedara",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/96224.v4.png",
+    "stream_url": "https://stream.zeno.fm/rr10kcctdg0uv",
+    "website": "https://sites.google.com/view/wedagedara",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:55:32+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.gypsies",
+    "name": "Gypsies",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/86543.v2.png",
+    "stream_url": "https://stream.zeno.fm/eepm348w2tzuv",
+    "website": "https://zeno.fm/gypsies/",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:56:28+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.heart",
+    "name": "FM Heart",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/93497.v13.png",
+    "stream_url": "https://cast3.my-control-panel.com/proxy/fmheartn/stream",
+    "website": "https://fmheart.lk/",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "pop",
+      "top40",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:49:35+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.henrycaldera",
+    "name": "Henry Caldera",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/86264.v1.png",
+    "stream_url": "https://stream.zeno.fm/7bu2hyagxtzuv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:53:33+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.homeshakthifm",
+    "name": "Home Shakthi Fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/31970.v6.png",
+    "stream_url": "https://cloudcast.pvtwebs.com/proxy/rajahrav?mp=/live&1692622157540",
+    "website": "https://homeshakthifm.com/",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "pop",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:53:38+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.hrjothipala",
+    "name": "H R Jothipala",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/86137.v2.png",
+    "stream_url": "https://stream.zeno.fm/mfycm4mpvtzuv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:52:44+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.hudha",
+    "name": "Hudha FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/127547.v8.png",
+    "stream_url": "https://ec3.yesstreaming.net:2615/stream",
+    "website": "https://radiohudha.blogspot.com/",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "talk",
+      "islamic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:57:14+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.idikada",
+    "name": "Idikada",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/105721.v2.png",
+    "stream_url": "https://stream.zeno.fm/t4ubc90kmy8uv",
+    "website": "https://www.idikada.com/",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "classic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:51:41+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.importfm",
+    "name": "Import FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/31972.v3.png",
+    "stream_url": "http://176.31.107.8:8355/stream",
+    "website": "http://www.importmirror.com/",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "pop",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:56:29+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.indrajithdolamulla",
+    "name": "Indrajith Dolamulla",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/86542.v2.png",
+    "stream_url": "https://stream.zeno.fm/mkfh0vvx2tzuv",
+    "website": "https://zeno.fm/radio/indrajithdolamulla/",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:55:38+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.indranibogoda",
+    "name": "Indrani Bogoda",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/86541.v2.png",
+    "stream_url": "https://stream.zeno.fm/hyrxdh3x2tzuv",
+    "website": "https://zeno.fm/radio/indranibogoda/",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:55:32+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.indraniperera",
+    "name": "Indrani Perera",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/86204.v2.png",
+    "stream_url": "https://stream.zeno.fm/38k27q4hwtzuv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "indian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:52:48+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.indusara",
+    "name": "Radioeka",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/104715.v28.png",
+    "stream_url": "https://halo.streamerr.co/listen/radioeka/radio.mp3",
+    "website": "https://www.radioeka.lk/",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "news",
+      "children",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:51:49+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.indusararadio",
+    "name": "Indusara Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/118222.v9.png",
+    "stream_url": "https://stream.zeno.fm/n86me57rzv8uv",
+    "website": "https://www.radioeka.lk/",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:53:43+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.isai",
+    "name": "Isai FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/89886.v3.png",
+    "stream_url": "https://stream.zeno.fm/7b78sdv2x1zuv",
+    "website": "http://www.isaifmlive.com/",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "tamil"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:55:31+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.islam24fm",
+    "name": "Islam24 FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/31777.v6.png",
+    "stream_url": "http://s1.voscast.com:8778/;",
+    "website": "https://www.kalmunaitoday.com/",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "islamic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:49:42+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.jagathwickramasinghe",
+    "name": "Jagath Wickramasinghe",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/86540.v2.png",
+    "stream_url": "https://stream.zeno.fm/sr3hskay2tzuv",
+    "website": "https://zeno.fm/radio/jagathwickramasinghe/",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:54:31+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.jaliyaranathunga",
+    "name": "Jaliya Ranathunga",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/86539.v2.png",
+    "stream_url": "https://stream.zeno.fm/am3mrafy2tzuv",
+    "website": "https://zeno.fm/radio/jaliyaranathunga/",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:54:42+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.jayasri",
+    "name": "Jaya Sri",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/86545.v1.png",
+    "stream_url": "https://stream.zeno.fm/aaz4d10y2tzuv",
+    "website": "https://zeno.fm/jaya-sri/",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:52:46+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.jmmedia",
+    "name": "Jm Media",
+    "image": "https://cdn.onlineradiobox.com/img/logo/1/32291.png",
+    "stream_url": "http://37.59.28.208:8327/stream?hash=1462294598403.mp3?type=.mp3/;stream.mp3",
+    "website": "http://jmmedia.lk/",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:56:30+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.jollyseeya",
+    "name": "Jolly Seeya",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/86538.v2.png",
+    "stream_url": "https://stream.zeno.fm/tzwy656y2tzuv",
+    "website": "https://zeno.fm/radio/jollyseeya/",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:55:30+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.juderogans",
+    "name": "Jude Rogans",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/86175.v2.png",
+    "stream_url": "https://stream.zeno.fm/1n6b87rsvtzuv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:57:17+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.kanduratalive",
+    "name": "Kandurata FM Live",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/95678.v2.png",
+    "stream_url": "https://stream.zeno.fm/ncrf3ma43d0uv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:51:45+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.karunarathnadivulgane",
+    "name": "Karunarathna Divulgane",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/86147.v2.png",
+    "stream_url": "https://stream.zenolive.com/x4xd3c9qvtzuv.aac",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:55:27+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.kasunkalhara",
+    "name": "Kasun Kalhara",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/86266.v3.png",
+    "stream_url": "https://stream.zeno.fm/8fnr291nwtzuv",
+    "website": "https://zeno.fm/radio/kasunkalhara/",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:54:29+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.king",
+    "name": "King fm tamil",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/131737.v2.png",
+    "stream_url": "https://stream.zeno.fm/c3t0zfhxrkxvv",
+    "website": "https://www.kingfmtamil.com/",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "tamil"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:53:37+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.kissfm",
+    "name": "Kiss FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/31754.v3.png",
+    "stream_url": "https://srv02.onlineradio.voaplus.com/kissfm",
+    "website": "http://kissfm.lk/",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "pop",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:48:39+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.krushifm",
+    "name": "Krushi FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/31977.v6.png",
+    "stream_url": "https://radioserver.krushiradio.lk:8000/radio.mp3",
+    "website": "https://www.krushiradio.lk/",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "news",
+      "talk",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:52:49+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.laaiqa",
+    "name": "Laaiqa FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/139284.v1.png",
+    "stream_url": "https://stream.zeno.fm/9aetdkytbplvv",
+    "website": "https://laaiqa.lk/",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "islamic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:51:46+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.lakhandaclassic",
+    "name": "LakhandaClassic",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/125719.v2.png",
+    "stream_url": "https://dc2.serverse.com:8018/stream",
+    "website": "https://lakhandaclassic.lk/",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:53:44+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.lakhandafm",
+    "name": "Lakhanda",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/31169.v2.png",
+    "stream_url": "https://cp12.serverse.com/proxy/itnfm?mp=/stream",
+    "website": "https://www.lakhandaradio.lk/",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "news",
+      "talk",
+      "asian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:49:34+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.laksara",
+    "name": "Laksara Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/101384.v10.png",
+    "stream_url": "https://dc2.serverse.com:8046/stream",
+    "website": "https://www.laksara.com/",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "classic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:50:46+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.lalithponnamperuma",
+    "name": "Lalith Ponnamperuma",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/86536.v2.png",
+    "stream_url": "https://stream.zeno.fm/bdcdsv8y2tzuv",
+    "website": "https://zeno.fm/radio/lalithponnamperuma/",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:53:44+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.lankae",
+    "name": "Lanka E Fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/95766.v1.png",
+    "stream_url": "https://stream.zeno.fm/31hushvxwd0uv",
+    "website": "http://www.lankaenews.lk/",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "news"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:54:33+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.lankasrifm",
+    "name": "Lankasri FM",
+    "image": "https://cdn.onlineradiobox.com/img/logo/8/31008.png",
+    "stream_url": "http://media1.lankasri.fm:8032/stream",
+    "website": "http://www.lankasri.fm/",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "news",
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:49:46+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.legendsfm",
+    "name": "Legends 96.6 FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/32309.v4.png",
+    "stream_url": "https://mbc.thestreamtech.com:8585/",
+    "website": "http://legends966.com/",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "pop",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:48:40+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.lets",
+    "name": "LETs FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/143630.v8.png",
+    "stream_url": "https://stream.zeno.fm/ntm7vows6xltv",
+    "website": "https://letsfm.godaddysites.com/",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "dance",
+      "pop",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:51:50+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.lion",
+    "name": "Lion FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/89303.v15.png",
+    "stream_url": "https://stream.zenolive.com/zq6tn92g8yzuv",
+    "website": "https://www.lionfm.online/",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "dance",
+      "electronic",
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:48:45+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.live",
+    "name": "LiveFM",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/72081.v11.png",
+    "stream_url": "https://cp11.serverse.com/proxy/livefm/stream",
+    "website": "https://trn.lk/livefm",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "pop",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:48:43+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.liveshow",
+    "name": "Live Show Sri Lanka",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/112970.v3.png",
+    "stream_url": "https://stream.zeno.fm/45kn3upzuhhvv",
+    "website": "https://sites.google.com/view/live-show-sri-lanka",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "pop",
+      "news",
+      "rap",
+      "hip-hop",
+      "reggae"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:52:39+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.lord",
+    "name": "Lord Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/78695.v13.png",
+    "stream_url": "https://lordsradio.radioca.st/;",
+    "website": "https://www.lordtv.tv/lord-radio",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "tamil"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:50:49+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.makkal",
+    "name": "MakkalFm",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/133504.v1.png",
+    "stream_url": "https://stream.zeno.fm/ssxa8e66s83vv",
+    "website": "http://zeno.fm/makkalfm",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "islamic",
+      "education"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:55:26+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.malaiyahan",
+    "name": "Malaiyahan FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/95484.v5.png",
+    "stream_url": "https://stream.zeno.fm/wep34grhqd0uv",
+    "website": "https://zeno.fm/radio/malaiyahan/",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "talk",
+      "tamil"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:49:43+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.malanibulathsinhala",
+    "name": "Malani Bulathsinhala",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/86203.v1.png",
+    "stream_url": "https://stream.zeno.fm/3zhq504hwtzuv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:52:48+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.markfm",
+    "name": "Mark FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/118623.v1.png",
+    "stream_url": "https://stream.zeno.fm/28b20q2fps8uv",
+    "website": "http://www.zeno.fm/markfm",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "pop",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:52:44+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.mathaya",
+    "name": "Mathaya Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/86783.v2.png",
+    "stream_url": "https://stream.zeno.fm/p2vp54eg8tzuv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:56:27+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.mdnsrilanka",
+    "name": "MDN Radio Sri Lanka",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/107644.v4.png",
+    "stream_url": "https://eu2.fastcast4u.com/proxy/mapere00?mp=/1",
+    "website": "https://mdnradio.com/",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "rock",
+      "60s"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:55:30+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.mervinperera",
+    "name": "Mervin Perera",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/86146.v3.png",
+    "stream_url": "https://stream.zenolive.com/2pwz609qvtzuv.aac",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:51:46+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.miltonmallawarachchi",
+    "name": "Milton Mallawarachchi",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/86149.v2.png",
+    "stream_url": "https://stream.zeno.fm/4we4ng3qvtzuv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:50:52+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.mind",
+    "name": "APayy Mint",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/94147.v8.png",
+    "stream_url": "https://cp11.serverse.com/proxy/fashion?mp=/stream:",
+    "website": "https://trn.lk/",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:57:18+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.moon",
+    "name": "Moon FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/87901.v2.png",
+    "stream_url": "https://stream.zeno.fm/7wbtm27c9mzuv",
+    "website": "http://www.moonfm.tk/",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "education",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:51:47+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.muslimvanoli",
+    "name": "Muslim Vanoli",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/109415.v5.png",
+    "stream_url": "https://stream.muslimvanoli.com:1035/stream",
+    "website": "https://www.muslimvanoli.com/",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "islamic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:48:46+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.muthu",
+    "name": "Muthu FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/150616.v1.png",
+    "stream_url": "https://stream.zeno.fm/vqkqafu3kawvv",
+    "website": "https://muthufm.lk/",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "90s",
+      "80s"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:57:12+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.nandamalini",
+    "name": "Nanda Malini",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/86211.v1.png",
+    "stream_url": "https://stream.zeno.fm/2hygf9shwtzuv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:54:28+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.nbc",
+    "name": "Radio NBC",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/147558.v1.png",
+    "stream_url": "https://servidor13.brlogic.com:7096/live",
+    "website": "https://radionbc91.webradiosite.com/",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:52:50+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.nethfm",
+    "name": "NETH FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/31003.v7.png",
+    "stream_url": "https://cp11.serverse.com/proxy/nethfm/stream",
+    "website": "http://www.nethfm.com/",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "news",
+      "children",
+      "entertainment",
+      "lifestyle"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:48:44+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.nidahas",
+    "name": "Nidahas FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/100300.v3.png",
+    "stream_url": "https://stream.zeno.fm/q7u07dmk9k8uv",
+    "website": "https://zeno.fm/radio/nidahasfm/",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "country"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:51:42+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.niroshavirajini",
+    "name": "Nirosha Virajini",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/86210.v1.png",
+    "stream_url": "https://stream.zeno.fm/2reu72thwtzuv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:57:17+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.northeastj",
+    "name": "தமிழீழ வானொலி (North East Radio)",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/106385.v5.png",
+    "stream_url": "https://stream.zeno.fm/y26tykxsn18uv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:52:45+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.now",
+    "name": "Hela Nada Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/137448.v11.png",
+    "stream_url": "https://stream.zeno.fm/9ndoyrsujwpvv",
+    "website": "https://helanada.godaddysites.com/",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "90s",
+      "80s",
+      "70s",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:49:38+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.nutpam",
+    "name": "Nutpam FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/83492.v2.png",
+    "stream_url": "https://stream.zeno.fm/6n3s2gfguqruv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "talk",
+      "tamil"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:53:46+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.nuwaraeliya",
+    "name": "Nuwara Eliya Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/113372.v1.png",
+    "stream_url": "https://stream.zeno.fm/uq4d7e9r7hhvv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:50:44+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.onthefloor",
+    "name": "Radio on the Floor",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/94148.v2.png",
+    "stream_url": "https://cp11.serverse.com/proxy/livefm?mp=/stream",
+    "website": "https://livefm.lk/",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "hip-hop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:52:46+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.paranigee",
+    "name": "Parani Gee Radio 40&#39;s to 80&#39;s",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/87824.v3.png",
+    "stream_url": "https://stream.zeno.fm/18wvhnvmd18uv",
+    "website": "http://www.paranigee.com/",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "60s"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:50:51+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.pasiya",
+    "name": "Pasiya Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/105638.v5.png",
+    "stream_url": "https://node21.radio.pasiyaprogramming.com/radio/8000/radio.mp3",
+    "website": "https://pasiyaprogramming.com/",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "80s",
+      "70s"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:55:34+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.payhitz",
+    "name": "APayy Radio Hitz",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/104273.v12.png",
+    "stream_url": "https://cp11.serverse.com/proxy/dinamina?mp=/stream",
+    "website": "https://trn.lk/",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:51:42+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.payradioclassic",
+    "name": "APayy Radio Sunera",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/104327.v9.png",
+    "stream_url": "https://cp11.serverse.com/proxy/kirula/stream",
+    "website": "https://trn.lk/",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "80s"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:54:41+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.pirith",
+    "name": "Pirith",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/86429.v3.png",
+    "stream_url": "https://stream.zeno.fm/7ex6ft05ztzuv",
+    "website": "https://zeno.fm/radio/pirith/",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:50:44+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.plus",
+    "name": "Radio Plus Sri Lanka ජාත්‍යන්තර සිංහල නාලිකාව",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/78313.v14.png",
+    "stream_url": "https://altair.streamerr.co/stream/8036",
+    "website": "http://www.radioplus.lk/",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "classic",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:50:45+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.pothikaifm",
+    "name": "Pothikai FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/116954.v5.png",
+    "stream_url": "https://mars.streamerr.co/8274/stream",
+    "website": "https://pothikai.fm/",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "pop",
+      "news",
+      "ethnic",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:50:50+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.priyasuriyasena",
+    "name": "Priya Suriyasena",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/86148.v4.png",
+    "stream_url": "https://stream.zenolive.com/z2v2uh8qvtzuv.aac",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:52:41+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.psonline",
+    "name": "PS Online Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/116597.v6.png",
+    "stream_url": "https://stream.zeno.fm/x1qckpv7bxhvv",
+    "website": "https://zeno.fm/radio/psonlineradio/",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:49:43+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.pulmoddai",
+    "name": "Pulmoddai Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/99466.v4.png",
+    "stream_url": "https://stream.zeno.fm/0k3c1ta2kg8uv",
+    "website": "https://zeno.fm/radio/pulmoddai-radio/",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "tamil"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:53:43+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.punnagai",
+    "name": "Punnagai Radio Tamil",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/88638.v11.png",
+    "stream_url": "https://onair.punnagairadio.com/8146/stream",
+    "website": "http://www.punnagairadio.com/",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "bollywood",
+      "tamil",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:50:46+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.punsirisoysa",
+    "name": "Punsiri Soysa",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/86209.v1.png",
+    "stream_url": "https://stream.zeno.fm/32ac54rhwtzuv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:55:37+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.radiosrilanka",
+    "name": "Radio Sri Lanka",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/31103.v1.png",
+    "stream_url": "http://220.247.227.20:8000/RSLstream",
+    "website": "http://www.slbc.lk/",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "pop",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:50:48+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.rajaratasevayalive",
+    "name": "Rajarata Sevaya Live",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/95675.v7.png",
+    "stream_url": "http://220.247.227.20:8000/rajaratastream",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:50:48+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.rangiri",
+    "name": "Rangiri Sri Lanka",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/32295.v3.png",
+    "stream_url": "https://stream.zeno.fm/hwafmr3f4p8uv",
+    "website": "http://www.rangiri.com/",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "talk",
+      "buddhist"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:49:39+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.ransara",
+    "name": "Ransara Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/32278.v2.png",
+    "stream_url": "https://stream.zeno.fm/gb419u722yzuv",
+    "website": "https://zeno.fm/radio/ransara-radio/",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "pop",
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:54:28+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.rasa",
+    "name": "Rasa fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/143736.v10.png",
+    "stream_url": "https://sonic01.instainternet.com/8084/stream",
+    "website": "https://rasafm.godaddysites.com/",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "dance",
+      "pop",
+      "classic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:50:51+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.rayyanfm",
+    "name": "Rayyan FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/129673.v1.png",
+    "stream_url": "https://ec3.yesstreaming.net:2775/stream",
+    "website": "https://rayyanfm.blogspot.com/",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "news",
+      "talk",
+      "islamic",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:56:26+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.redfm",
+    "name": "Red FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/31794.v4.png",
+    "stream_url": "http://redfm.lk/",
+    "website": "http://redfm.lk/",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "dance",
+      "electronic",
+      "pop",
+      "hip-hop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:50:45+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.redrosefm",
+    "name": "Red Rose Fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/64717.v8.png",
+    "stream_url": "https://onair.punnagairadio.com/8146/stream;;",
+    "website": "http://www.redrosefm.com/",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "pop",
+      "talk",
+      "tamil",
+      "entertainment",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:51:48+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.relakstamil",
+    "name": "Relaks Radio Tamil",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/131902.v4.png",
+    "stream_url": "https://s3.voscast.com:10885/live",
+    "website": "https://relaksmedia.com/tamil/",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "90s",
+      "80s",
+      "60s",
+      "tamil"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:54:34+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.rhythmfm",
+    "name": "Rhythm FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/30989.v5.png",
+    "stream_url": "https://dc02.onlineradio.voaplus.com/rhythmfm",
+    "website": "https://rhythmfm.lk/",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "pop",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:49:43+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.rkfm",
+    "name": "RK FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/145645.v2.png",
+    "stream_url": "https://listen.radioking.com/radio/652564/stream/716110",
+    "website": "https://rktvradio.com/",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "entertainment",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:55:28+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.ruhunusevayalive",
+    "name": "Ruhunu Sevaya Live",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/95679.v2.png",
+    "stream_url": "https://stream.zeno.fm/4b459vb43d0uv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:49:36+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.rupaindumathi",
+    "name": "Rupa Indumathi",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/86481.v3.png",
+    "stream_url": "https://stream.zeno.fm/cdme6eu60tzuv",
+    "website": "https://zeno.fm/radio/rupaindumathi/",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:53:34+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.ruwanhettiarachchi",
+    "name": "Ruwan Hettiarachchi",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/86173.v2.png",
+    "stream_url": "https://stream.zeno.fm/qv4p785rvtzuv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:56:28+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.sabaragamuva",
+    "name": "සබරගමුව RADIO",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/147325.v1.png",
+    "stream_url": "https://centova32.instainternet.com/proxy/ddtradio?mp=/stream",
+    "website": "https://sites.google.com/view/radiosabaragamuwa/home-page",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "rock",
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:54:40+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.sadisa",
+    "name": "FM Sadisa",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/137069.v3.png",
+    "stream_url": "https://stream.zeno.fm/wihjwtcis1ouv",
+    "website": "https://sites.google.com/view/sadisafm",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "education"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:53:35+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.sanathnandasiri",
+    "name": "Sanath Nandasiri",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/86174.v1.png",
+    "stream_url": "https://stream.zeno.fm/ezw0yfssvtzuv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:54:38+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.saru",
+    "name": "Saru FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/116422.v5.png",
+    "stream_url": "https://live.sarufm.com:8443/listen/saru_fm/radio.mp3",
+    "website": "https://sarufm.com/",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "classic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:54:31+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.saththamfm",
+    "name": "Saththam FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/32279.v7.png",
+    "stream_url": "https://stream.zeno.fm/en88gp6mkxhvv",
+    "website": "http://www.saththamfm.com/",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "comedy"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:53:45+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.sethfm",
+    "name": "Seth FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/32296.v15.png",
+    "stream_url": "https://listen.radioking.com/radio/384487/stream/435781",
+    "website": "http://sethfm.lk/",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "news",
+      "talk",
+      "sports"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:48:39+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.shakthifm",
+    "name": "Shakthi FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/30609.v6.png",
+    "stream_url": "https://mbc.thestreamtech.com:8086/index.html/stream",
+    "website": "http://shakthifm.com/",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "indian",
+      "soundtrack",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:48:37+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.shashikanisansala",
+    "name": "Shashika Nisansala",
+    "image": "https://cdn.onlineradiobox.com/img/logo/8/86208.png",
+    "stream_url": "https://stream.zeno.fm/0wmnz9thwtzuv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:52:42+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.shine",
+    "name": "Shine",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/32281.v8.png",
+    "stream_url": "https://cast5.asurahosting.com/proxy/ncmedian/stream",
+    "website": "http://www.shineradio.lk/",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "pop",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:57:12+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.sinha",
+    "name": "Sinha FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/129114.v1.png",
+    "stream_url": "https://stream.zeno.fm/ryzghf5jg5yuv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:55:39+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.sinhalacommercialservice",
+    "name": "Sinhala Commercial Service",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/31099.v5.png",
+    "stream_url": "http://220.247.227.6:8000/Scomstream",
+    "website": "http://www.slbc.lk/",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:49:39+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.sinhalanationalservice",
+    "name": "Sinhala National Service",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/31096.v6.png",
+    "stream_url": "http://220.247.227.6:8000/Snsstream",
+    "website": "http://www.slbc.lk/",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:56:29+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.sinhaswara",
+    "name": "Sinha Swara Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/138994.v3.png",
+    "stream_url": "https://stream.zeno.fm/ntm7vows6xltv",
+    "website": "https://sinhaswararadio.godaddysites.com/",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "dance",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:50:47+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.sirasa",
+    "name": "Sirasa",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/31004.v5.png",
+    "stream_url": "https://mbc.thestreamtech.com:8087/index.html",
+    "website": "http://sirasafm.lk/",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "news",
+      "talk",
+      "folk",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:48:38+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.sirilaka",
+    "name": "Sirilaka Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/107472.v9.png",
+    "stream_url": "https://servidor16.brlogic.com:7084/live",
+    "website": "https://www.sirilakaradio.com/",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "tamil"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:50:46+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.sisilasa",
+    "name": "Sisilasa Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/132927.v3.png",
+    "stream_url": "https://stream.zeno.fm/cm6qyejyrkfuv",
+    "website": "https://msnnetworks.godaddysites.com/",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:52:47+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.sithafm",
+    "name": "Sitha FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/32297.v3.png",
+    "stream_url": "http://sitha.caster.fm/",
+    "website": "http://www.sithafm.lk/",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "classic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:51:44+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.siwhele",
+    "name": "Susanda Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/72371.v13.png",
+    "stream_url": "https://susandamedia.radioca.st/stream",
+    "website": "https://susandamedia.com/",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:53:45+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.siyane",
+    "name": "Siyane Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/89210.v2.png",
+    "stream_url": "https://stream.zeno.fm/ct2mbna8azzuv.mp3",
+    "website": "http://www.siyanenews.com/",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "pop",
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:54:29+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.siyathafm",
+    "name": "Siyatha FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/31766.v4.png",
+    "stream_url": "https://srv01.onlineradio.voaplus.com/siyathafm",
+    "website": "http://siyathafm.lk/",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:48:37+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.skyco",
+    "name": "Sky Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/101033.v24.png",
+    "stream_url": "https://cp11.serverse.com/proxy/skyradio/stream",
+    "website": "https://trn.lk/skyradio/",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "dance",
+      "pop",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:49:36+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.somasirimadagedara",
+    "name": "Somasiri Madagedara",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/86387.v3.png",
+    "stream_url": "https://stream.zeno.fm/guwnbdrbztzuv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:57:15+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.somathilakajayamaha",
+    "name": "Somathilaka Jayamaha",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/86207.v2.png",
+    "stream_url": "https://stream.zeno.fm/eq8g2tshwtzuv",
+    "website": "https://zeno.fm/radio/somathilakajayamaha/",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:57:14+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.sooriyanfm",
+    "name": "Sooriyan FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/30610.v10.png",
+    "stream_url": "https://radio.lotustechnologieslk.net:2020/stream/sooriyanfmgarden",
+    "website": "http://www.sooriyanfm.lk/",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "pop",
+      "news",
+      "talk",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:48:35+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.starfm",
+    "name": "Star FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/31774.v14.png",
+    "stream_url": "https://stream.starfm.lk:12025/stream",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "news",
+      "talk",
+      "tamil"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:49:40+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.sujathaaththanayaka",
+    "name": "Sujatha Aththanayaka",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/86444.v3.png",
+    "stream_url": "https://stream.zeno.fm/hc4xga78ztzuv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:56:32+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.sunfm",
+    "name": "Sun FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/31077.v6.png",
+    "stream_url": "https://radio.lotustechnologieslk.net:2020/stream/sunfmgarden",
+    "website": "http://www.sunfm.lk/",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "house",
+      "rock",
+      "techno",
+      "funk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:48:35+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.suniledirisinghe",
+    "name": "Sunil Edirisinghe",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/86171.v3.png",
+    "stream_url": "https://stream.zeno.fm/48u8qcesvtzuv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:56:33+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.suprememusic",
+    "name": "Supreme Music",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/128980.v1.png",
+    "stream_url": "https://stream.zeno.fm/mifsb80n7a3vv",
+    "website": "https://suprememusic.lk/",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "classic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:54:32+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.surendraperera",
+    "name": "Surendra Perera",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/86439.v3.png",
+    "stream_url": "https://stream.zeno.fm/1938nr58ztzuv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:51:51+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.swadeshiyasevayalive",
+    "name": "Swadeshiya Sevaya Live",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/95674.v6.png",
+    "stream_url": "https://stream.zeno.fm/yrmzpgy33d0uv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:48:41+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.swarnalathakaweeshwara",
+    "name": "Swarnalatha Kaweeshwara",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/86409.v6.png",
+    "stream_url": "https://stream.zeno.fm/27sa0ppcztzuv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:55:27+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.tamilnationalservice",
+    "name": "Tamil National Service",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/31111.v4.png",
+    "stream_url": "http://220.247.227.6:8000/Tnsstream",
+    "website": "http://www.slbc.lk/",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "tamil"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:51:50+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.tamilnews",
+    "name": "Sun Tamil Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/119766.v3.png",
+    "stream_url": "https://stream.zeno.fm/sn0sd672exhvv",
+    "website": "https://www.tamilnewsno1.cf/",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "tamil"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:50:49+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.tamilsflashfm",
+    "name": "Tamils Flash FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/31164.v5.png",
+    "stream_url": "https://stream.zeno.fm/4su4xk97gwzuv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "talk",
+      "folk",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:50:42+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.techdeiyo",
+    "name": "Fm Tech Deiyo",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/114384.v2.png",
+    "stream_url": "https://stream.zeno.fm/w736rp8dz38uv",
+    "website": "https://fm.techdeiyo.com/",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "pop",
+      "talk",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:49:44+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.tharu",
+    "name": "Tharu FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/127425.v5.png",
+    "stream_url": "https://stream.starfm.lk:12265/stream",
+    "website": "https://tharufm.blogspot.com/",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "rock",
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:51:44+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.thebuddhist",
+    "name": "The Buddhist",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/31789.v13.png",
+    "stream_url": "http://91.121.205.70:4220/;",
+    "website": "http://www.thebuddhist.tv/",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:53:46+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.thendralfm",
+    "name": "Thendral FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/31107.v3.png",
+    "stream_url": "http://220.247.227.20:8000/Threndralstream",
+    "website": "http://www.slbc.lk/",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "80s",
+      "tamil",
+      "entertainment",
+      "love songs"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:51:39+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.thirai",
+    "name": "Thirai FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/93951.v5.png",
+    "stream_url": "https://stream.zeno.fm/nwmuzqy4ya0uv",
+    "website": "https://zeno.fm/radio/thirai-fm/",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "tamil"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:52:47+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.tmjayarathna",
+    "name": "T M Jayarathna",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/86206.v2.png",
+    "stream_url": "https://stream.zeno.fm/91ku1wrhwtzuv",
+    "website": "https://zeno.fm/radio/tmjayarathna/",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:52:43+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.tnl",
+    "name": "TNL Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/31154.v9.png",
+    "stream_url": "http://live.tnlrn.com:8010/live.mp3",
+    "website": "https://www.tnlradio.com/",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "rock",
+      "pop",
+      "alternative"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:48:43+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.tradio",
+    "name": "t-Radio by Dilmah",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/88858.v6.png",
+    "stream_url": "https://streamer.radio.co/s431bd530c/low",
+    "website": "https://www.tearadio.com/",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "90s",
+      "80s",
+      "oldies",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:54:32+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.trend",
+    "name": "Radio Trend",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/149266.v2.png",
+    "stream_url": "https://stream.zeno.fm/0vues85fuhgvv",
+    "website": "https://zeno.fm/radio/radio-trend-arbf/",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "dance",
+      "pop",
+      "classic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:53:44+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.ultrafm",
+    "name": "Ultra FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/119217.v2.png",
+    "stream_url": "https://stream.zeno.fm/f2560wp9dchvv",
+    "website": "https://ultrafm.lk/",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:52:47+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.upalikannangara",
+    "name": "Upali Kannangara",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/86263.v1.png",
+    "stream_url": "https://stream.zeno.fm/05pqhhbgxtzuv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:53:33+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.uradio",
+    "name": "U Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/123396.v2.png",
+    "stream_url": "https://stream.zeno.fm/b4gjsjllh1zvv",
+    "website": "https://uradio24.000webhostapp.com/",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "pop",
+      "k-pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:56:25+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.uritamil",
+    "name": "தமிழ் Tamil Twitter Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/74182.v19.png",
+    "stream_url": "https://stream.zeno.fm/u8nt64f6sfeuv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "classic",
+      "tamil",
+      "romantic",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:50:43+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.uva",
+    "name": "Uva Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/115046.v3.png",
+    "stream_url": "https://stream.zeno.fm/5v44mtdrxrhvv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "classic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:51:45+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.vaanamfm",
+    "name": "Vaanam FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/75970.v5.png",
+    "stream_url": "https://stream.vaanamfm.com/listen/vaanam_fm/radio.mp3",
+    "website": "http://www.vaanamfm.com/",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "tamil"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:49:42+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.vibe",
+    "name": "Vibe Radio.lk",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/139352.v4.png",
+    "stream_url": "https://centova32.instainternet.com/proxy/viberadio1?mp=/1",
+    "website": "https://viberadio.lk/",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:56:25+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.victorrathnayake",
+    "name": "Victor Rathnayake",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/86150.v2.png",
+    "stream_url": "https://stream.zeno.fm/2dtg902qvtzuv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:53:40+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.vijayakumaranatunga",
+    "name": "Vijaya Kumaranatunga",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/86269.v1.png",
+    "stream_url": "https://stream.zeno.fm/p7kp187nwtzuv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:57:18+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.virajperera",
+    "name": "Viraj Perera",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/86145.v3.png",
+    "stream_url": "https://stream.zeno.fm/9r7ke3brvtzuv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:55:33+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.warna",
+    "name": "Warna FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/144276.v2.png",
+    "stream_url": "https://stream.zeno.fm/1f8wzsj8tk3tv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "classic",
+      "90s",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:52:39+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.wayambahanda",
+    "name": "Wayamba Handa",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/132940.v3.png",
+    "stream_url": "http://220.247.234.207:8000/wayambastream?fbclid=IwAR1IaIGOEunbw4h2TokSv4e71kA9X9b0Cc-CWHKpSbOTb_tynKO77j-f0LY",
+    "website": "http://www.slbc.lk/",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "news"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:55:26+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.wayambalive",
+    "name": "Wayamba Radio Live",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/95677.v7.png",
+    "stream_url": "https://www.liveradio.es/http://220.247.234.207:8000/wayambastream",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:57:11+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.wdamaradewa",
+    "name": "W.D.Amaradewa",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/86152.v2.png",
+    "stream_url": "https://stream.zeno.fm/nzmyrhzqvtzuv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:57:15+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.wide",
+    "name": "WIDE Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/138345.v7.png",
+    "stream_url": "https://stream.zeno.fm/qbgyarwufzwuv.mp3",
+    "website": "https://wideradio.godaddysites.com/",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "rock",
+      "alternative",
+      "90s"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:49:41+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.wowco",
+    "name": "WoW Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/100967.v25.png",
+    "stream_url": "https://cp11.serverse.com/proxy/wowradio/stream",
+    "website": "https://radiotrn.com/",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "dance",
+      "pop",
+      "classic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:49:34+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.yaalfm",
+    "name": "Yaal Fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/31113.v4.png",
+    "stream_url": "http://220.247.227.6:8000/Yaalstream",
+    "website": "http://www.slbc.lk/",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:49:44+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.yaka",
+    "name": "NYSCO RADIO",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/118223.v12.png",
+    "stream_url": "http://vm105.streamerr.co:8000/main",
+    "website": "https://www.radioeka.lk/",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:55:40+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.yesfm",
+    "name": "Yes FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/31769.v7.png",
+    "stream_url": "https://mbc.thestreamtech.com:7056/index.html/stream",
+    "website": "http://www.yesfmonline.com/",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "pop",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:48:40+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.yfm",
+    "name": "Y FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/31753.v6.png",
+    "stream_url": "https://mbc.thestreamtech.com:7032/index.html",
+    "website": "http://yfm.lk/",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "pop",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:48:35+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.your",
+    "name": "Your Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/121163.v7.png",
+    "stream_url": "https://stream.zeno.fm/smbyj6zbnigvv",
+    "website": "https://zeno.fm/radio/your-radio-sukw/",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "r'n'b",
+      "hip-hop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:52:40+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.zainonlinefm",
+    "name": "zain online fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/114419.v5.png",
+    "stream_url": "https://stream.zeno.fm/kregdewc5nhvv",
+    "website": "https://zainonlinefm.blogspot.com/",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "pop",
+      "news"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:56:29+05:30"
+  },
+  {
+    "id": "onlineradiobox_lk.zionfm",
+    "name": "Zion FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/31960.v2.png",
+    "stream_url": "http://188.165.212.154:8449/;",
+    "website": "https://zionchurch.lk/",
+    "provider": "onlineradiobox",
+    "country": "Sri Lanka",
+    "genres": [
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:51:45+05:30"
+  }
+]

@@ -1,0 +1,674 @@
+[
+  {
+    "id": "onlineradiobox_iq.albilad",
+    "name": "Radio Al-Bilad",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/31959.v6.png",
+    "stream_url": "https://streamer.radio.co/sb38bf6e66/listen",
+    "website": "http://www.albilad.org/",
+    "provider": "onlineradiobox",
+    "country": "Iraq",
+    "genres": [
+      "talk",
+      "islamic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:20:33+05:30"
+  },
+  {
+    "id": "onlineradiobox_iq.almirbad",
+    "name": "Al-Mirbad",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/32101.v12.png",
+    "stream_url": "https://mixlr.com/almirbad",
+    "website": "https://www.almirbad.com/",
+    "provider": "onlineradiobox",
+    "country": "Iraq",
+    "genres": [
+      "news",
+      "talk",
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:21:13+05:30"
+  },
+  {
+    "id": "onlineradiobox_iq.alrasheedradio",
+    "name": "Al Rasheed Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/31906.v6.png",
+    "stream_url": "http://alrasheedmedia.com:9998/;",
+    "website": "http://radio.alrasheedmedia.com/",
+    "provider": "onlineradiobox",
+    "country": "Iraq",
+    "genres": [
+      "pop",
+      "news",
+      "talk",
+      "folk",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:20:31+05:30"
+  },
+  {
+    "id": "onlineradiobox_iq.alsalam",
+    "name": "Radio Al-Salam",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/76226.v6.png",
+    "stream_url": "http://178.32.146.187:5117/stream",
+    "website": "http://radioalsalam.com/",
+    "provider": "onlineradiobox",
+    "country": "Iraq",
+    "genres": [
+      "talk",
+      "arabic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:20:35+05:30"
+  },
+  {
+    "id": "onlineradiobox_iq.alseraj",
+    "name": "Alseraj Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/146444.v1.png",
+    "stream_url": "https://eu4.fastcast4u.com/proxy/aabdul00?mp=/1",
+    "website": "https://www.alserajradio.com/",
+    "provider": "onlineradiobox",
+    "country": "Iraq",
+    "genres": [
+      "arabic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:20:39+05:30"
+  },
+  {
+    "id": "onlineradiobox_iq.ashur",
+    "name": "Radio Ashur",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/149432.v3.png",
+    "stream_url": "https://eu7.fastcast4u.com/proxy/radioashur?mp=/1",
+    "website": "https://radioashur.goodbarber.app/",
+    "provider": "onlineradiobox",
+    "country": "Iraq",
+    "genres": [
+      "culture"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:21:09+05:30"
+  },
+  {
+    "id": "onlineradiobox_iq.babylonfm",
+    "name": "Babylon FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/31910.v8.png",
+    "stream_url": "https://eu7.fastcast4u.com/proxy/babylonarabia?mp=/1",
+    "website": "https://babylonfm.net/",
+    "provider": "onlineradiobox",
+    "country": "Iraq",
+    "genres": [
+      "pop",
+      "news",
+      "talk",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:20:30+05:30"
+  },
+  {
+    "id": "onlineradiobox_iq.bbcarabic",
+    "name": "BBC Arabic",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/32181.v3.png",
+    "stream_url": "https://www.bbc.com/arabic",
+    "website": "http://www.bbc.com/arabic",
+    "provider": "onlineradiobox",
+    "country": "Iraq",
+    "genres": [
+      "pop",
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:20:31+05:30"
+  },
+  {
+    "id": "onlineradiobox_iq.dengikurdsat",
+    "name": "Dengi Kurdsat",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/32155.v7.png",
+    "stream_url": "http://uk3.internet-radio.com:8011/;",
+    "website": "http://www.kurdsat.tv/",
+    "provider": "onlineradiobox",
+    "country": "Iraq",
+    "genres": [
+      "pop",
+      "news",
+      "folk",
+      "arabic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:20:29+05:30"
+  },
+  {
+    "id": "onlineradiobox_iq.duhok",
+    "name": "Radio Duhok",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/151176.v1.png",
+    "stream_url": "https://stream.zeno.fm/kfrrct64hoxuv",
+    "website": "https://radioduhok.com/",
+    "provider": "onlineradiobox",
+    "country": "Iraq",
+    "genres": [
+      "pop",
+      "news",
+      "talk",
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:21:13+05:30"
+  },
+  {
+    "id": "onlineradiobox_iq.hawadijlah",
+    "name": "Hawa Dijlah Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/124829.v7.png",
+    "stream_url": "https://listen.radioking.com/radio/96766/stream/136030",
+    "website": "https://www.dijlah.tv/",
+    "provider": "onlineradiobox",
+    "country": "Iraq",
+    "genres": [
+      "house",
+      "blues",
+      "classic",
+      "country",
+      "romantic",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:20:33+05:30"
+  },
+  {
+    "id": "onlineradiobox_iq.hawlermusic",
+    "name": "Quran In Kurdish",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/74587.v6.png",
+    "stream_url": "https://strw3.openstream.co/2388",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Iraq",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:20:35+05:30"
+  },
+  {
+    "id": "onlineradiobox_iq.hits1",
+    "name": "Hits 1 Bagdad",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/152203.v5.png",
+    "stream_url": "https://stream.hd1.hits1radio.com/?bagdad",
+    "website": "https://www.hits1radio.com/",
+    "provider": "onlineradiobox",
+    "country": "Iraq",
+    "genres": [
+      "dance",
+      "electronic",
+      "pop",
+      "top40",
+      "latin",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:21:12+05:30"
+  },
+  {
+    "id": "onlineradiobox_iq.kirkuk",
+    "name": "Kirkuk FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/137576.v3.png",
+    "stream_url": "https://video1.getstreamhosting.com:8154/stream",
+    "website": "https://www.kirkuktv.net/KU/Radio",
+    "provider": "onlineradiobox",
+    "country": "Iraq",
+    "genres": [
+      "80s",
+      "70s",
+      "oldies",
+      "60s",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:21:12+05:30"
+  },
+  {
+    "id": "onlineradiobox_iq.kurdextra",
+    "name": "Extra",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/74589.v66.png",
+    "stream_url": "http://157.90.181.156:9301/extra.mp3",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Iraq",
+    "genres": [],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:20:37+05:30"
+  },
+  {
+    "id": "onlineradiobox_iq.kurdistan24",
+    "name": "Kurdistan24",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/85569.v6.png",
+    "stream_url": "https://streams.radiomast.io/04b1ce4c-24f2-4172-b756-065832ef78bf?referer=onlineradiobox",
+    "website": "https://www.kurdistan24.net/",
+    "provider": "onlineradiobox",
+    "country": "Iraq",
+    "genres": [
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:20:38+05:30"
+  },
+  {
+    "id": "onlineradiobox_iq.leboulevard",
+    "name": "Le Boulevard Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/102652.v2.png",
+    "stream_url": "https://eu10.fastcast4u.com/leboulevardradio",
+    "website": "https://www.leboulevarderbil.com/",
+    "provider": "onlineradiobox",
+    "country": "Iraq",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:21:14+05:30"
+  },
+  {
+    "id": "onlineradiobox_iq.m",
+    "name": "M Radio 105.5 FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/73168.v8.png",
+    "stream_url": "https://usa13.fastcast4u.com/proxy/mradio02?mp=/1",
+    "website": "https://www.mradioiraq.com/",
+    "provider": "onlineradiobox",
+    "country": "Iraq",
+    "genres": [
+      "pop",
+      "top40",
+      "arabic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:20:34+05:30"
+  },
+  {
+    "id": "onlineradiobox_iq.mcd",
+    "name": "Monte Carlo Doualiya FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/31898.v4.png",
+    "stream_url": "https://montecarlodoualiya128k.ice.infomaniak.ch/mc-doualiya.mp3",
+    "website": "http://www.mc-doualiya.com/",
+    "provider": "onlineradiobox",
+    "country": "Iraq",
+    "genres": [
+      "news",
+      "talk",
+      "arabic",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:20:30+05:30"
+  },
+  {
+    "id": "onlineradiobox_iq.mix",
+    "name": "Mix fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/128177.v4.png",
+    "stream_url": "https://c2.radioboss.fm:18184/stream",
+    "website": "https://mixfm.live/#voice_bank",
+    "provider": "onlineradiobox",
+    "country": "Iraq",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:20:34+05:30"
+  },
+  {
+    "id": "onlineradiobox_iq.nawa",
+    "name": "ڕادیۆ نەوا",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/31747.v6.png",
+    "stream_url": "https://www.radionawa.com/Live.aspx",
+    "website": "https://www.radionawa.com/Ku/",
+    "provider": "onlineradiobox",
+    "country": "Iraq",
+    "genres": [
+      "pop",
+      "news",
+      "talk",
+      "chill-out"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:21:10+05:30"
+  },
+  {
+    "id": "onlineradiobox_iq.newliferadio",
+    "name": "New Life Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/32496.v4.png",
+    "stream_url": "https://s2.radio.co/sd3c7f8539/listen",
+    "website": "http://www.laii.org/",
+    "provider": "onlineradiobox",
+    "country": "Iraq",
+    "genres": [
+      "talk",
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:20:40+05:30"
+  },
+  {
+    "id": "onlineradiobox_iq.nrtnaliafm",
+    "name": "NRT TV - Nalia FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/31890.v7.png",
+    "stream_url": "http://162.244.80.52:7014/stream",
+    "website": "http://www.nrttv.com/",
+    "provider": "onlineradiobox",
+    "country": "Iraq",
+    "genres": [
+      "pop",
+      "news",
+      "talk",
+      "folk",
+      "arabic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:20:37+05:30"
+  },
+  {
+    "id": "onlineradiobox_iq.oneiraq",
+    "name": "Radio One Iraq",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/73163.v7.png",
+    "stream_url": "https://s2.radio.co/s03d947c9d/listen",
+    "website": "http://www.radio1iraq.fm/",
+    "provider": "onlineradiobox",
+    "country": "Iraq",
+    "genres": [
+      "easy listening",
+      "romantic",
+      "love songs"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:20:39+05:30"
+  },
+  {
+    "id": "onlineradiobox_iq.parzink",
+    "name": "Parzink",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/143153.v4.png",
+    "stream_url": "https://a1.asurahosting.com/listen/parzink/radio.mp3",
+    "website": "https://parzink.org/",
+    "provider": "onlineradiobox",
+    "country": "Iraq",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:21:11+05:30"
+  },
+  {
+    "id": "onlineradiobox_iq.radiosawairaq",
+    "name": "Radio Sawa Iraq",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/32160.v5.png",
+    "stream_url": "https://stream.radiojar.com/t9h51xwr92quv",
+    "website": "http://www.radiosawa.com/",
+    "provider": "onlineradiobox",
+    "country": "Iraq",
+    "genres": [
+      "dance",
+      "pop",
+      "news",
+      "folk",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:20:32+05:30"
+  },
+  {
+    "id": "onlineradiobox_iq.rawan",
+    "name": "Rawan FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/121804.v1.png",
+    "stream_url": "https://rawan-fm.live:8000/radio.mp3",
+    "website": "https://rawan-fm.com/",
+    "provider": "onlineradiobox",
+    "country": "Iraq",
+    "genres": [
+      "arabic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:21:10+05:30"
+  },
+  {
+    "id": "onlineradiobox_iq.shafaq",
+    "name": "Radio Shafaq",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/102709.v1.png",
+    "stream_url": "https://radio.shafaq.com/radio",
+    "website": "https://www.shafaq.com/ar",
+    "provider": "onlineradiobox",
+    "country": "Iraq",
+    "genres": [
+      "arabic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:20:32+05:30"
+  },
+  {
+    "id": "onlineradiobox_iq.shexan",
+    "name": "Shexan Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/153415.v2.png",
+    "stream_url": "https://stream.zeno.fm/qkccj1qluwjtv",
+    "website": "https://shexanmedia.net/",
+    "provider": "onlineradiobox",
+    "country": "Iraq",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:21:14+05:30"
+  },
+  {
+    "id": "onlineradiobox_iq.starkurdish",
+    "name": "Ava fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/73390.v51.png",
+    "stream_url": "https://strw1.openstream.co/2478",
+    "website": "http://www.sm-news.com/p/starfm.html",
+    "provider": "onlineradiobox",
+    "country": "Iraq",
+    "genres": [
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:20:36+05:30"
+  },
+  {
+    "id": "onlineradiobox_iq.starnews",
+    "name": "Radio Quran Karem",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/74586.v9.png",
+    "stream_url": "http://135.125.64.246/2478",
+    "website": "http://www.sm-news.com/",
+    "provider": "onlineradiobox",
+    "country": "Iraq",
+    "genres": [
+      "news"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:20:42+05:30"
+  },
+  {
+    "id": "onlineradiobox_iq.sumerfm",
+    "name": "Sumer FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/32161.v6.png",
+    "stream_url": "https://l3.itworkscdn.net/itwaudio/9012/stream",
+    "website": "http://www.sumerfm.com/listen-live",
+    "provider": "onlineradiobox",
+    "country": "Iraq",
+    "genres": [
+      "dance",
+      "pop",
+      "folk",
+      "arabic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:20:29+05:30"
+  },
+  {
+    "id": "onlineradiobox_iq.tzgospelswahili",
+    "name": "Tzgospel (iraq)",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/119742.v5.png",
+    "stream_url": "https://stream.zeno.fm/22gru5ba7ehvv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Iraq",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:21:11+05:30"
+  },
+  {
+    "id": "onlineradiobox_iq.vinradio",
+    "name": "Vin Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/31947.v2.png",
+    "stream_url": "https://fmvin.out.airtime.pro/fmvin_a",
+    "website": "http://vintv.net/",
+    "provider": "onlineradiobox",
+    "country": "Iraq",
+    "genres": [
+      "pop",
+      "news",
+      "talk",
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:20:38+05:30"
+  },
+  {
+    "id": "onlineradiobox_iq.waar",
+    "name": "Waar Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/142910.v4.png",
+    "stream_url": "https://c2.radioboss.fm/stream/564",
+    "website": "https://www.waarmedia.com/live-radio",
+    "provider": "onlineradiobox",
+    "country": "Iraq",
+    "genres": [
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:20:41+05:30"
+  },
+  {
+    "id": "onlineradiobox_iq.x",
+    "name": "XFM",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/73167.v11.png",
+    "stream_url": "https://stream.xfm.iq:1057/;",
+    "website": "https://xfm.iq/",
+    "provider": "onlineradiobox",
+    "country": "Iraq",
+    "genres": [
+      "pop",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:20:35+05:30"
+  }
+]

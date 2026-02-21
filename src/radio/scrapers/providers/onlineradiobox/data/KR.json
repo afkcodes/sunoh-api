@@ -1,0 +1,489 @@
+[
+  {
+    "id": "onlineradiobox_kr.bbsfm",
+    "name": "BBS FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/29517.v7.png",
+    "stream_url": "http://bbslive.clouducs.com:1935/bbsradio-mlive/livestream/playlist.m3u8",
+    "website": "http://www.bbsi.co.kr/",
+    "provider": "onlineradiobox",
+    "country": "South Korea",
+    "genres": [
+      "talk",
+      "folk",
+      "buddhist"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:43:34+05:30"
+  },
+  {
+    "id": "onlineradiobox_kr.cbsfm",
+    "name": "CBS 표준FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/31751.v4.png",
+    "stream_url": "https://m-aac.cbs.co.kr/mweb_cbs939/_definst_/cbs939.stream/playlist.m3u8",
+    "website": "http://www.cbs.co.kr/radio/",
+    "provider": "onlineradiobox",
+    "country": "South Korea",
+    "genres": [
+      "news",
+      "talk",
+      "christian",
+      "korean",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:43:25+05:30"
+  },
+  {
+    "id": "onlineradiobox_kr.defensefm",
+    "name": "국방FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/30506.v2.png",
+    "stream_url": "http://www.dema.mil.kr/web/fm/onair.do",
+    "website": "http://radio.dema.mil.kr/web/fm/main.do",
+    "provider": "onlineradiobox",
+    "country": "South Korea",
+    "genres": [
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:43:36+05:30"
+  },
+  {
+    "id": "onlineradiobox_kr.ebs",
+    "name": "EBS",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/29894.v5.png",
+    "stream_url": "http://new_iradio.ebs.co.kr/iradio/iradiolive_m4a/playlist.m3u8",
+    "website": "http://www.ebs.co.kr/radio/home",
+    "provider": "onlineradiobox",
+    "country": "South Korea",
+    "genres": [
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:43:32+05:30"
+  },
+  {
+    "id": "onlineradiobox_kr.fredfilm",
+    "name": "FRED FILM RADIO",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/46846.v4.png",
+    "stream_url": "https://s10.webradio-hosting.com/proxy/fredradiokr/stream/;",
+    "website": "http://www.fred.fm/kr/",
+    "provider": "onlineradiobox",
+    "country": "South Korea",
+    "genres": [
+      "news",
+      "talk",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:43:31+05:30"
+  },
+  {
+    "id": "onlineradiobox_kr.free",
+    "name": "Free FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/97169.v8.png",
+    "stream_url": "https://rocafmadrid.radioca.st/stream",
+    "website": "http://www.freefmradio.net/",
+    "provider": "onlineradiobox",
+    "country": "South Korea",
+    "genres": [
+      "pop",
+      "90s",
+      "00s",
+      "80s",
+      "70s",
+      "60s"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:43:28+05:30"
+  },
+  {
+    "id": "onlineradiobox_kr.freefmlkkoreasouthsinhala",
+    "name": "freefm.lk - Korea South Sinhala Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/126049.v2.png",
+    "stream_url": "https://stream.zeno.fm/tghzpiblktzvv",
+    "website": "https://freefm.lk/kr",
+    "provider": "onlineradiobox",
+    "country": "South Korea",
+    "genres": [
+      "pop",
+      "news",
+      "talk",
+      "classic",
+      "k-pop",
+      "top40",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:43:24+05:30"
+  },
+  {
+    "id": "onlineradiobox_kr.gfngwangjuenglishstation",
+    "name": "GFN Gwangju English Station",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/30884.v3.png",
+    "stream_url": "http://www.gfn.or.kr/live.php",
+    "website": "http://www.gfn.or.kr/",
+    "provider": "onlineradiobox",
+    "country": "South Korea",
+    "genres": [
+      "pop",
+      "news",
+      "talk",
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:43:38+05:30"
+  },
+  {
+    "id": "onlineradiobox_kr.gugakfm",
+    "name": "Gugak FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/29519.v9.png",
+    "stream_url": "https://mgugaklive.nowcdn.co.kr/gugakradio/gugakradio.stream/playlist.m3u8",
+    "website": "https://new.igbf.kr/",
+    "provider": "onlineradiobox",
+    "country": "South Korea",
+    "genres": [
+      "pop",
+      "news",
+      "folk",
+      "culture",
+      "korean"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:43:30+05:30"
+  },
+  {
+    "id": "onlineradiobox_kr.happyday",
+    "name": "Happyday Newage Radio EZ",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/28715.v2.png",
+    "stream_url": "http://newage.kr:8000",
+    "website": "http://inewage.com/?ckattempt=3",
+    "provider": "onlineradiobox",
+    "country": "South Korea",
+    "genres": [
+      "jazz",
+      "classic",
+      "instrumental"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:43:26+05:30"
+  },
+  {
+    "id": "onlineradiobox_kr.jazzbreak",
+    "name": "Jazz Break",
+    "image": "https://cdn.onlineradiobox.com/img/logo/8/29518.png",
+    "stream_url": "http://c8.inlive.co.kr:2790/;",
+    "website": "http://jazzbreak.inlive.co.kr/",
+    "provider": "onlineradiobox",
+    "country": "South Korea",
+    "genres": [
+      "blues",
+      "jazz"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:43:29+05:30"
+  },
+  {
+    "id": "onlineradiobox_kr.kbs1",
+    "name": "KBS - 1Radio ",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/29758.v2.png",
+    "stream_url": "http://onair.kbs.co.kr/index.html?sname=onair&stype=live&ch_code=21&ch_type=radioList",
+    "website": "http://radio.kbs.co.kr/",
+    "provider": "onlineradiobox",
+    "country": "South Korea",
+    "genres": [
+      "news",
+      "talk",
+      "sports",
+      "culture",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:43:37+05:30"
+  },
+  {
+    "id": "onlineradiobox_kr.kpopmusic",
+    "name": "Kpop Music",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/134195.v9.png",
+    "stream_url": "https://stream.zeno.fm/r0tbse9jnbptv",
+    "website": "https://zeno.fm/radio/kpop-music-ueuu/",
+    "provider": "onlineradiobox",
+    "country": "South Korea",
+    "genres": [
+      "pop",
+      "classic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:43:30+05:30"
+  },
+  {
+    "id": "onlineradiobox_kr.mapofm",
+    "name": "MapoFM",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/28999.v5.png",
+    "stream_url": "http://115.85.182.39/mapofm",
+    "website": "http://mapofm.net/",
+    "provider": "onlineradiobox",
+    "country": "South Korea",
+    "genres": [
+      "pop",
+      "news",
+      "talk",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:43:29+05:30"
+  },
+  {
+    "id": "onlineradiobox_kr.mbc",
+    "name": "MBC 라디오",
+    "image": "https://cdn.onlineradiobox.com/img/logo/9/30889.png",
+    "stream_url": "http://mini.imbc.com/v2/index.html?src=http://mini.imbc.com/&ref=http://www.imbc.com/broad/radio/index.html#./datas/pagedata_home.js;stream.nsv;stream.nsv;",
+    "website": "http://mini.imbc.com/v2/index.html?ref=https%3A%2F%2Ft.co%2FAhd7S0DuqE&src=http%3A%2F%2Fmini.imbc.com%2F#./datas/pagedata_home.js",
+    "provider": "onlineradiobox",
+    "country": "South Korea",
+    "genres": [
+      "pop",
+      "news",
+      "talk",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:43:35+05:30"
+  },
+  {
+    "id": "onlineradiobox_kr.mmlr",
+    "name": "MMLR FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/130151.v3.png",
+    "stream_url": "https://stream.zeno.fm/2h4b2x5bpy8uv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "South Korea",
+    "genres": [
+      "pop",
+      "news",
+      "talk",
+      "k-pop",
+      "japanese",
+      "korean"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:43:35+05:30"
+  },
+  {
+    "id": "onlineradiobox_kr.moonmusickpop",
+    "name": "Moon Music 4K",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/100260.v18.png",
+    "stream_url": "https://stream.zeno.fm/nkb20ze9t18uv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "South Korea",
+    "genres": [
+      "pop",
+      "k-pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:43:23+05:30"
+  },
+  {
+    "id": "onlineradiobox_kr.pbcradio",
+    "name": "PBC Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/30326.v10.png",
+    "stream_url": "http://onair2.cpbc.co.kr:1935/live/Instreamer.stream_aac/playlist.m3u8",
+    "website": "http://web.pbc.co.kr/radio",
+    "provider": "onlineradiobox",
+    "country": "South Korea",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:43:34+05:30"
+  },
+  {
+    "id": "onlineradiobox_kr.sbsfm",
+    "name": "SBS 파워FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/29522.v4.png",
+    "stream_url": "http://gorealra.esy.es/",
+    "website": "http://w3.sbs.co.kr/radio/main.do",
+    "provider": "onlineradiobox",
+    "country": "South Korea",
+    "genres": [
+      "pop",
+      "news",
+      "talk",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:43:37+05:30"
+  },
+  {
+    "id": "onlineradiobox_kr.seoulcommunityradio",
+    "name": "Seoul Community Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/30520.v5.png",
+    "stream_url": "http://188.166.198.223/radio/8000/radio.mp3",
+    "website": "http://www.seoulcommunityradio.com/",
+    "provider": "onlineradiobox",
+    "country": "South Korea",
+    "genres": [
+      "dance",
+      "electronic",
+      "eclectic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:43:33+05:30"
+  },
+  {
+    "id": "onlineradiobox_kr.tbcdreamfm",
+    "name": "TBC Dream FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/29279.v2.png",
+    "stream_url": "http://www.tbc.co.kr/tbc_player/tbc_iplayer.html?code=tbc_fm",
+    "website": "http://www.tbc.co.kr/tbc_fm/fm_main14.html",
+    "provider": "onlineradiobox",
+    "country": "South Korea",
+    "genres": [
+      "pop",
+      "news",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:43:36+05:30"
+  },
+  {
+    "id": "onlineradiobox_kr.tbsefm",
+    "name": "TBS eFM",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/29877.v18.png",
+    "stream_url": "https://cdnefm.tbs.seoul.kr/tbs/_definst_/tbs_efm_web_360.smil/playlist.m3u8",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "South Korea",
+    "genres": [
+      "pop",
+      "news",
+      "talk",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:43:27+05:30"
+  },
+  {
+    "id": "onlineradiobox_kr.theplugk-pop",
+    "name": "The plug | k-pop",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/144209.v1.png",
+    "stream_url": "https://kpop-jakeradiomasterserver.radioca.st/stream",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "South Korea",
+    "genres": [
+      "k-pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:43:33+05:30"
+  },
+  {
+    "id": "onlineradiobox_kr.tzgospelsouthkorea",
+    "name": "Tzgospel South Korea",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/132767.v2.png",
+    "stream_url": "https://stream.zeno.fm/v48m6vkgzchvv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "South Korea",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:43:34+05:30"
+  },
+  {
+    "id": "onlineradiobox_kr.ytnnewsfm",
+    "name": "YTN News FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/29893.v1.png",
+    "stream_url": "https://radio.ytn.co.kr/_comm/fmlive.php",
+    "website": "http://radio.ytn.co.kr/",
+    "provider": "onlineradiobox",
+    "country": "South Korea",
+    "genres": [
+      "pop",
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:43:32+05:30"
+  }
+]

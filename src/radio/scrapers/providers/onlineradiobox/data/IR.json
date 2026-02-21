@@ -1,0 +1,643 @@
+[
+  {
+    "id": "onlineradiobox_ir.ahlulbayttv",
+    "name": "Ahlulbayt TV",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/31563.v4.png",
+    "stream_url": "http://109.123.126.14:1935/live/livestream1.sdp/playlist.m3u8",
+    "website": "http://ahlulbayt.tv/",
+    "provider": "onlineradiobox",
+    "country": "Iran",
+    "genres": [
+      "talk",
+      "islamic",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:22:37+05:30"
+  },
+  {
+    "id": "onlineradiobox_ir.ava935",
+    "name": "IRIB Radio Ava",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/84842.v5.png",
+    "stream_url": "http://s2.cdn1.iranseda.ir:1935/liveedge/radio-avaa/playlist.m3u8",
+    "website": "http://radioava.ir/",
+    "provider": "onlineradiobox",
+    "country": "Iran",
+    "genres": [
+      "pop",
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:22:01+05:30"
+  },
+  {
+    "id": "onlineradiobox_ir.darbast",
+    "name": "Radio Darbast",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/107013.v8.png",
+    "stream_url": "http://live.radiodarbast.com:8443/stream.mp3",
+    "website": "http://radiodarbast.com/",
+    "provider": "onlineradiobox",
+    "country": "Iran",
+    "genres": [
+      "pop",
+      "oldies"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:22:06+05:30"
+  },
+  {
+    "id": "onlineradiobox_ir.eghtesad",
+    "name": "IRIB Radio Eghtesad",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/84854.v9.png",
+    "stream_url": "http://s2.cdn1.iranseda.ir:1935/liveedge/radio-eghtesad/playlist.m3u8",
+    "website": "http://radioeghtesad.irib.ir/",
+    "provider": "onlineradiobox",
+    "country": "Iran",
+    "genres": [
+      "news"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:22:40+05:30"
+  },
+  {
+    "id": "onlineradiobox_ir.eram",
+    "name": "Radio Eram",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/31574.v4.png",
+    "stream_url": "https://audio.radioeram.com/",
+    "website": "http://radioeram.com/",
+    "provider": "onlineradiobox",
+    "country": "Iran",
+    "genres": [
+      "dance",
+      "pop",
+      "oldies",
+      "arabic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:21:58+05:30"
+  },
+  {
+    "id": "onlineradiobox_ir.farda",
+    "name": "Radio Farda",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/17550.v8.png",
+    "stream_url": "https://stream.radiojar.com/cp13r2cpn3quv",
+    "website": "http://www.radiofarda.com/",
+    "provider": "onlineradiobox",
+    "country": "Iran",
+    "genres": [
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:21:57+05:30"
+  },
+  {
+    "id": "onlineradiobox_ir.goftego",
+    "name": "IRIB Radio Goftego",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/84858.v7.png",
+    "stream_url": "http://s2.cdn3.iranseda.ir:1935/liveedge/radio-goftego/playlist.m3u8",
+    "website": "http://radiogoftogoo.ir/",
+    "provider": "onlineradiobox",
+    "country": "Iran",
+    "genres": [
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:22:38+05:30"
+  },
+  {
+    "id": "onlineradiobox_ir.iran",
+    "name": "IRIB Radio Iran",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/84851.v5.png",
+    "stream_url": "http://s1.cdn1.iranseda.ir:1935/liveedge/radio-iran/playlist.m3u8",
+    "website": "http://radioiran.ir/",
+    "provider": "onlineradiobox",
+    "country": "Iran",
+    "genres": [
+      "talk",
+      "islamic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:22:03+05:30"
+  },
+  {
+    "id": "onlineradiobox_ir.iraninternational",
+    "name": "Radio Iran International",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/83762.v3.png",
+    "stream_url": "https://radio.iraninternational.app/iintl_c",
+    "website": "https://iranintl.com/",
+    "provider": "onlineradiobox",
+    "country": "Iran",
+    "genres": [
+      "news",
+      "talk",
+      "sports"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:21:57+05:30"
+  },
+  {
+    "id": "onlineradiobox_ir.iribarabic",
+    "name": "IRIB Radio Arabic",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/84901.v5.png",
+    "stream_url": "http://s2.cdn1.iranseda.ir:1935/liveedge/radio-tehran/playlist.m3u8",
+    "website": "http://radiotehran.ir/",
+    "provider": "onlineradiobox",
+    "country": "Iran",
+    "genres": [
+      "news",
+      "talk",
+      "arabic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:22:07+05:30"
+  },
+  {
+    "id": "onlineradiobox_ir.iribenglish",
+    "name": "IRIB Radio English",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/84902.v3.png",
+    "stream_url": "http://s1.cdn1.iranseda.ir:1935/liveedge/radio-english/playlist.m3u8?",
+    "website": "http://radiotehran.ir/",
+    "provider": "onlineradiobox",
+    "country": "Iran",
+    "genres": [
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:22:06+05:30"
+  },
+  {
+    "id": "onlineradiobox_ir.iribfarhang",
+    "name": "IRIB Radio Farhang",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/31562.v5.png",
+    "stream_url": "http://s0.cdn1.iranseda.ir:1935/liveedge/radio-farhang/playlist.m3u8",
+    "website": "http://radiofarhang.ir/",
+    "provider": "onlineradiobox",
+    "country": "Iran",
+    "genres": [
+      "news",
+      "talk",
+      "folk",
+      "culture",
+      "education"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:22:04+05:30"
+  },
+  {
+    "id": "onlineradiobox_ir.iribwestazerbaijan",
+    "name": "IRIB Radio West Azerbaijan",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/84909.v3.png",
+    "stream_url": "http://altcdn.iranseda.ir:1935/channel-live/smil:r-azgharbi/playlist.m3u8",
+    "website": "http://radio.iranseda.ir/radiolist/?VALID=TRUE",
+    "provider": "onlineradiobox",
+    "country": "Iran",
+    "genres": [
+      "talk",
+      "children",
+      "community"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:22:09+05:30"
+  },
+  {
+    "id": "onlineradiobox_ir.javan",
+    "name": "IRIB Radio Javan",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/84843.v3.png",
+    "stream_url": "http://s1.cdn1.iranseda.ir:1935/liveedge/radio-javan/playlist.m3u8",
+    "website": "http://radiojavan.ir/",
+    "provider": "onlineradiobox",
+    "country": "Iran",
+    "genres": [
+      "pop",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:22:02+05:30"
+  },
+  {
+    "id": "onlineradiobox_ir.maaref",
+    "name": "IRIB Radio Maaref",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/84857.v6.png",
+    "stream_url": "https://s2.cdn1.iranseda.ir/liveedge/radio-maaref/playlist.m3u8",
+    "website": "http://radiomaaref.ir/",
+    "provider": "onlineradiobox",
+    "country": "Iran",
+    "genres": [
+      "talk",
+      "community"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:22:00+05:30"
+  },
+  {
+    "id": "onlineradiobox_ir.mojahed",
+    "name": "Radio Mojahed",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/74929.v5.png",
+    "stream_url": "https://s2.radio.co/s830691c74/listen",
+    "website": "https://radio.mojahedin.org/",
+    "provider": "onlineradiobox",
+    "country": "Iran",
+    "genres": [
+      "news",
+      "politics"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:22:05+05:30"
+  },
+  {
+    "id": "onlineradiobox_ir.mokashefeh",
+    "name": "Radio Mokashefeh",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/135560.v6.png",
+    "stream_url": "https://s2.radio.co/sbe3f44c5d/listen",
+    "website": "https://mokashefeh.com/",
+    "provider": "onlineradiobox",
+    "country": "Iran",
+    "genres": [
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:22:00+05:30"
+  },
+  {
+    "id": "onlineradiobox_ir.namayesh",
+    "name": "IRIB Radio Namayesh",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/84856.v6.png",
+    "stream_url": "http://s3.cdn1.iranseda.ir:1935/liveedge/radio-namayesh/media_w2071815829_98604.aac",
+    "website": "http://radionamayesh.ir/",
+    "provider": "onlineradiobox",
+    "country": "Iran",
+    "genres": [
+      "pop",
+      "news"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:22:39+05:30"
+  },
+  {
+    "id": "onlineradiobox_ir.navahang",
+    "name": "Radio Navahang",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/81080.v5.png",
+    "stream_url": "https://navairan.com/;stream.mp3",
+    "website": "https://www.navahang.com/",
+    "provider": "onlineradiobox",
+    "country": "Iran",
+    "genres": [
+      "pop",
+      "folk",
+      "oldies",
+      "iranian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:21:58+05:30"
+  },
+  {
+    "id": "onlineradiobox_ir.parstodayenglish",
+    "name": "ParsToday Radio English",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/85618.v5.png",
+    "stream_url": "https://live4.presstv.ir/irib/irib8/playlist.m3u8",
+    "website": "https://parstoday.ir/en",
+    "provider": "onlineradiobox",
+    "country": "Iran",
+    "genres": [
+      "news",
+      "talk",
+      "politics"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:22:10+05:30"
+  },
+  {
+    "id": "onlineradiobox_ir.persianradio",
+    "name": "Persian Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/154535.v2.png",
+    "stream_url": "https://s4.radio.co/sec18725e1/listen",
+    "website": "https://persianworldradio.com/",
+    "provider": "onlineradiobox",
+    "country": "Iran",
+    "genres": [
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:22:41+05:30"
+  },
+  {
+    "id": "onlineradiobox_ir.persianrap",
+    "name": "Persian Rap Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/85235.v6.png",
+    "stream_url": "https://stream.zeno.fm/ak8z3nnzq8rvv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Iran",
+    "genres": [
+      "rap",
+      "hip-hop",
+      "persian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:22:03+05:30"
+  },
+  {
+    "id": "onlineradiobox_ir.quran",
+    "name": "IRIB Radio Quran",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/84845.v3.png",
+    "stream_url": "http://s1.cdn1.iranseda.ir:1935/liveedge/radio-quran/playlist.m3u8",
+    "website": "http://radioquran.ir/",
+    "provider": "onlineradiobox",
+    "country": "Iran",
+    "genres": [
+      "talk",
+      "islamic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:22:05+05:30"
+  },
+  {
+    "id": "onlineradiobox_ir.radioali",
+    "name": "Radio AvazFarsi",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/31498.v7.png",
+    "stream_url": "https://radio.avazfarsi.com:8000/radio.mp3",
+    "website": "https://www.avazfarsi.com/",
+    "provider": "onlineradiobox",
+    "country": "Iran",
+    "genres": [
+      "pop",
+      "persian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:21:59+05:30"
+  },
+  {
+    "id": "onlineradiobox_ir.radiodarvish",
+    "name": "Radio Darvish",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/31371.v1.png",
+    "stream_url": "https://radiodarvish.radio12345.com/",
+    "website": "http://radiodarvish.com/",
+    "provider": "onlineradiobox",
+    "country": "Iran",
+    "genres": [
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:22:08+05:30"
+  },
+  {
+    "id": "onlineradiobox_ir.radiopayam",
+    "name": "Radio Payam",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/31328.v4.png",
+    "stream_url": "http://s1.cdn1.iranseda.ir:1935/liveedge/radio-payam/playlist.m3u8",
+    "website": "http://www.radiopayam.ir/",
+    "provider": "onlineradiobox",
+    "country": "Iran",
+    "genres": [
+      "pop",
+      "news",
+      "talk",
+      "folk",
+      "islamic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:21:59+05:30"
+  },
+  {
+    "id": "onlineradiobox_ir.russkoe",
+    "name": "Russkoe Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/82354.v9.png",
+    "stream_url": "https://stream.zeno.fm/43q0ey00phruv",
+    "website": "https://radio.xtv-media.ml/rusradio/",
+    "provider": "onlineradiobox",
+    "country": "Iran",
+    "genres": [
+      "russian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:22:09+05:30"
+  },
+  {
+    "id": "onlineradiobox_ir.saba",
+    "name": "IRIB Radio Saba",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/84846.v5.png",
+    "stream_url": "http://s1.cdn1.iranseda.ir:1935/liveedge/radio-saba/playlist.m3u8",
+    "website": "http://radiosaba.ir/",
+    "provider": "onlineradiobox",
+    "country": "Iran",
+    "genres": [
+      "pop",
+      "comedy"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:22:37+05:30"
+  },
+  {
+    "id": "onlineradiobox_ir.salamat",
+    "name": "IRIB Radio Salamat",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/84847.v5.png",
+    "stream_url": "http://s0.cdn1.iranseda.ir:1935/liveedge/radio-salamat/playlist.m3u8",
+    "website": "http://radiosalamat.ir/",
+    "provider": "onlineradiobox",
+    "country": "Iran",
+    "genres": [
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:22:41+05:30"
+  },
+  {
+    "id": "onlineradiobox_ir.talavat",
+    "name": "IRIB Radio Talavat",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/84900.v3.png",
+    "stream_url": "http://s1.cdn1.iranseda.ir:1935/liveedge/radio-tartil/playlist.m3u8",
+    "website": "http://radio.iranseda.ir/radiolist/?VALID=TRUE",
+    "provider": "onlineradiobox",
+    "country": "Iran",
+    "genres": [
+      "talk",
+      "islamic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:22:35+05:30"
+  },
+  {
+    "id": "onlineradiobox_ir.tehran",
+    "name": "IRIB Radio Tehran",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/84844.v10.png",
+    "stream_url": "http://s1.cdn1.iranseda.ir:1935/liveedge/radio-tehran/playlist.m3u8",
+    "website": "http://radiotehran.ir/",
+    "provider": "onlineradiobox",
+    "country": "Iran",
+    "genres": [
+      "news",
+      "talk",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:22:08+05:30"
+  },
+  {
+    "id": "onlineradiobox_ir.tzgospel",
+    "name": "Tzgospel (iran)",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/119738.v5.png",
+    "stream_url": "https://stream.zeno.fm/pwbr04ca7ehvv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Iran",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:22:36+05:30"
+  },
+  {
+    "id": "onlineradiobox_ir.varzesh",
+    "name": "IRIB Radio Varzesh",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/84855.v5.png",
+    "stream_url": "http://s0.cdn1.iranseda.ir:1935/liveedge/radio-varzesh/playlist.m3u8",
+    "website": "http://radiovarzesh.ir/",
+    "provider": "onlineradiobox",
+    "country": "Iran",
+    "genres": [
+      "news",
+      "sports"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:22:35+05:30"
+  },
+  {
+    "id": "onlineradiobox_ir.ziarat",
+    "name": "IRIB Radio Ziarat",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/84849.v4.png",
+    "stream_url": "http://s1.cdn1.iranseda.ir:1935/liveedge/radio-ziarat/playlist.m3u8",
+    "website": "http://ziarat.seda.ir/",
+    "provider": "onlineradiobox",
+    "country": "Iran",
+    "genres": [
+      "islamic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:22:11+05:30"
+  },
+  {
+    "id": "onlineradiobox_ir.zza",
+    "name": "RadioZZA",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/146282.v1.png",
+    "stream_url": "https://listen.radioking.com/radio/526993/stream/585379",
+    "website": "https://radiozza.com/",
+    "provider": "onlineradiobox",
+    "country": "Iran",
+    "genres": [
+      "pop",
+      "news",
+      "politics"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:22:10+05:30"
+  }
+]

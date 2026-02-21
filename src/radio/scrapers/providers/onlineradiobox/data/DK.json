@@ -1,0 +1,4520 @@
+[
+  {
+    "id": "onlineradiobox_dk.00shits",
+    "name": "00&#39;s Hits",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/96816.v3.png",
+    "stream_url": "https://live-bauerdk.sharp-stream.com/DK_HQ_RP07.aac",
+    "website": "https://radioplay.dk/00s-hits/",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "00s"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:26:19+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.100hitsclassics",
+    "name": "100% Hits &amp; classics",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/152287.v1.png",
+    "stream_url": "https://s3.free-shoutcast.com/stream/18124",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "pop",
+      "90s",
+      "00s",
+      "80s",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:32:53+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.100premium",
+    "name": "Radio 100 - Premium",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/130466.v1.png",
+    "stream_url": "https://live-bauerdk.sharp-stream.com/radio100-premium_96.aac",
+    "website": "https://radioplay.dk/",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "pop",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:32:55+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.10fm",
+    "name": "Radio 10FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/48409.v3.png",
+    "stream_url": "https://stream.radio10fm.dk/stream",
+    "website": "https://www.radio10fm.dk/",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "pop",
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:31:48+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.10shits",
+    "name": "10&#39;s Hits",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/96845.v3.png",
+    "stream_url": "https://live-bauerdk.sharp-stream.com/DK_HQ_RP13.aac",
+    "website": "https://radioplay.dk/10s-hits",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "10s"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:28:31+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.24syv",
+    "name": "24syv",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/45255.v4.png",
+    "stream_url": "https://stream.radioloud.dk/loud128",
+    "website": "https://www.24syv.dk/",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "pop",
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:34:46+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.70erhits",
+    "name": "70er Hits",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/130220.v3.png",
+    "stream_url": "https://live-bauerdk.sharp-stream.com/RP37_premium_96.aac",
+    "website": "https://radioplay.dk/",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "70s"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:28:25+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.80shits",
+    "name": "80&#39;s Hits",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/96817.v4.png",
+    "stream_url": "https://live-bauerdk.sharp-stream.com/DK_HQ_RP04.aac",
+    "website": "https://radioplay.dk/80s-hits",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "80s"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:26:15+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.90shits",
+    "name": "90&#39;s Hits",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/96846.v3.png",
+    "stream_url": "https://live-bauerdk.sharp-stream.com/DK_HQ_RP06.aac",
+    "website": "https://radioplay.dk/90s-hits",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "90s"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:27:25+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.ahenfo",
+    "name": "Ahenfo Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/48426.v6.png",
+    "stream_url": "https://s35.myradiostream.com/4702/;",
+    "website": "https://ahenforadiodk.com/",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "pop",
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:33:48+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.alborz",
+    "name": "Radio Alborz",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/48545.v1.png",
+    "stream_url": "http://live.indvandrerradio.dk:8000/;stream.mp3",
+    "website": "http://fa.iraninfo.dk/",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "news",
+      "talk",
+      "folk",
+      "culture"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:30:34+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.alfa",
+    "name": "Radio Alfa Østjylland",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/10632.v4.png",
+    "stream_url": "https://radioserver.dk/alfa",
+    "website": "http://www.radioalfa.dk/",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "rock",
+      "pop",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:27:23+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.allsound",
+    "name": "Radio Bøgh",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/119594.v24.png",
+    "stream_url": "https://s3.radio.co/s93dd7ed12/listen",
+    "website": "https://xn--radiobgh-b5a.dk/",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "90s",
+      "00s",
+      "80s",
+      "70s",
+      "oldies",
+      "60s",
+      "20s",
+      "10s",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:30:39+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.allsoundworship",
+    "name": "AllSoundFM Worship",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/119595.v4.png",
+    "stream_url": "https://s4.radio.co/s90cf3ad53/listen",
+    "website": "https://allsoundfm.dk/worship/",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "rock",
+      "pop",
+      "gospel",
+      "love songs"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:34:51+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.als",
+    "name": "Radio Als",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/142454.v2.png",
+    "stream_url": "https://stream.maxpop.dk/radioals",
+    "website": "https://radioals.dk/",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "disco",
+      "pop",
+      "90s",
+      "80s",
+      "70s",
+      "funk",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:34:49+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.anrfromaalborg",
+    "name": "ANR Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/11063.v3.png",
+    "stream_url": "https://stream.anr.dk/anr",
+    "website": "http://anr.dk/",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "rock",
+      "hard rock",
+      "metal"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:28:30+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.antenadenmark",
+    "name": "Radio Antena Denmark",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/76178.v4.png",
+    "stream_url": "http://s38.myradiostream.com:8598/.mp3",
+    "website": "http://www.antena.dk/",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "albanian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:28:25+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.archive80s",
+    "name": "Archive 80s",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/134997.v1.png",
+    "stream_url": "http://bitsmitter.com:8006/archive80s",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "rock",
+      "disco",
+      "pop",
+      "80s",
+      "funk",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:33:50+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.aurapop",
+    "name": "Aura Pop",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/132091.v3.png",
+    "stream_url": "https://c6.radioboss.fm:8023/autodj",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "pop",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:27:23+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.backintime",
+    "name": "Back in Time",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/151163.v1.png",
+    "stream_url": "http://studiojpserver.eu:1040/autodj.mp3",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "disco",
+      "pop",
+      "90s",
+      "80s",
+      "70s",
+      "funk",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:32:51+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.bass",
+    "name": "BassFM",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/130039.v1.png",
+    "stream_url": "https://lyt.bassfm.dk/bassfm320",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "dance",
+      "house",
+      "pop",
+      "techno",
+      "club"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:31:53+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.beone",
+    "name": "Be One Radio - Denmark",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/133310.v2.png",
+    "stream_url": "http://live.radiostudio.be:8000/beone",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "pop",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:33:53+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.bittersweetdk",
+    "name": "Bitter Sweet Music DK",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/80147.v9.png",
+    "stream_url": "http://91.121.236.34:8520/dk",
+    "website": "http://www.bittersweetmusic.ro/",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "chill-out"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:27:28+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.boybandsforever",
+    "name": "Boybands Forever",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/130269.v1.png",
+    "stream_url": "https://live-bauerdk.sharp-stream.com/RP10_premium_96.aac",
+    "website": "https://radioplay.dk/",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "pop",
+      "90s",
+      "00s"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:29:29+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.classic80srock",
+    "name": "Classic 80s Rock",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/130260.v4.png",
+    "stream_url": "https://live-bauerdk.sharp-stream.com/RP32_premium_96.aac",
+    "website": "https://radioplay.dk/",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "rock",
+      "80s"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:27:21+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.classicpop",
+    "name": "Classic Pop",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/116843.v3.png",
+    "stream_url": "https://stream.classicpop.dk/stream",
+    "website": "https://classicpop.dk/",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "pop",
+      "80s",
+      "70s"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:27:27+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.classicrock",
+    "name": "Classic Rock",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/84697.v5.png",
+    "stream_url": "http://stream.wlmm.dk/classicrockkbhmp3",
+    "website": "http://www.classicrock.dk/station/kbh",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "rock"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:27:26+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.classicvestjylland",
+    "name": "Classic FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/48312.v6.png",
+    "stream_url": "https://webradio.classicfm.dk/classicstruer",
+    "website": "http://www.classicfm.dk/",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "talk",
+      "oldies",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:27:20+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.clubdk",
+    "name": "ClubFM.dk",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/97027.v9.png",
+    "stream_url": "https://lyt.til.clubfm.dk:8443/CFM320",
+    "website": "https://www.clubfm.dk/",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "dance",
+      "top40",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:30:42+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.cocktail",
+    "name": "Cocktail Web Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/153578.v1.png",
+    "stream_url": "http://music.cocktailwebradio.com:1070/stream",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "disco",
+      "pop",
+      "funk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:34:48+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.cool",
+    "name": "Cool Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/129247.v2.png",
+    "stream_url": "https://uk5.internet-radio.com/proxy/coolradio?mp=/stream:8030",
+    "website": "https://coolradio.nu/",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "pop",
+      "90s",
+      "80s",
+      "70s",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:29:33+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.corona",
+    "name": "Radio Corona",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/120150.v3.png",
+    "stream_url": "https://s3.radio.co/sc85a422ba/listen",
+    "website": "https://www.radio-corona.dk/",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "pop",
+      "country",
+      "80s",
+      "70s",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:33:52+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.cyberpower",
+    "name": "Cyber Power Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/133222.v1.png",
+    "stream_url": "https://ec3.yesstreaming.net:2890/stream",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "disco",
+      "pop",
+      "90s",
+      "00s",
+      "80s",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:32:52+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.d2r",
+    "name": "Den2Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/45389.v3.png",
+    "stream_url": "http://81.7.160.152:8010/d2r.mp3",
+    "website": "http://den2radio.dk/",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "jazz",
+      "classic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:33:50+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.dance100",
+    "name": "DANCE100",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/48533.v17.png",
+    "stream_url": "https://s31.myradiostream.com:20625/stream",
+    "website": "https://dance100.dk/",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "dance",
+      "electronic",
+      "trance"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:26:22+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.danske80er",
+    "name": "Danske 80&#39;er Hits",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/96819.v3.png",
+    "stream_url": "https://live-bauerdk.sharp-stream.com/DK_HQ_RP05.aac",
+    "website": "https://radioplay.dk/danske-80er-hits/",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "80s",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:27:22+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.danskjul",
+    "name": "Dansk Jul",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/96847.v4.png",
+    "stream_url": "https://live-bauerdk.sharp-stream.com/DK_HQ_RP02.aac",
+    "website": "https://radioplay.dk/dansk-jul/",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:33:52+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.dansktopfavoritter",
+    "name": "Dansktop Favoritter",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/131212.v1.png",
+    "stream_url": "https://live-bauerdk.sharp-stream.com/RP38_premium_96.aac",
+    "website": "https://www.radioplay.dk/",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "folk",
+      "90s",
+      "80s",
+      "70s"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:29:32+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.deirtoopk",
+    "name": "Radio Deir Toopk",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/151773.v1.png",
+    "stream_url": "https://c18.radioboss.fm:8759/stream",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:33:55+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.dennisweekendmix",
+    "name": "Dennis&#39; Weekendmix",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/131319.v1.png",
+    "stream_url": "https://live-bauerdk.sharp-stream.com/RP27_premium_96.aac",
+    "website": "https://www.radioplay.dk/",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "pop",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:29:30+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.dentunge",
+    "name": "Den Tunge Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/48380.v4.png",
+    "stream_url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SAM08AAC276.aac?dist=onlineradiobox",
+    "website": "http://www.dentungeradio.dk/",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "hard rock"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:30:44+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.destorstefilmklassikere",
+    "name": "De Største Filmklassikere",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/131418.v1.png",
+    "stream_url": "https://live-bauerdk.sharp-stream.com/RP20_premium_96.aac",
+    "website": "https://www.radioplay.dk/",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "pop",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:32:45+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.detrigtigefaaborg",
+    "name": "Det Rigtige Faaborg",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/61688.v4.png",
+    "stream_url": "https://stream.probroadcast.dk/detrigtigefaaborgmp3",
+    "website": "https://www.detrigtigefaaborg.dk/",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:27:26+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.djursland",
+    "name": "Radio Djursland",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/129244.v4.png",
+    "stream_url": "https://netradio.djurslandskanalen.dk/djurs192",
+    "website": "https://www.radiodjursland.dk/",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "pop",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:29:32+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.dk4",
+    "name": "Radio DK4 Dansktop",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/65733.v15.png",
+    "stream_url": "https://netradio.classicfm.dk/dansktop",
+    "website": "https://www.dk4.dk/",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "retro",
+      "children",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:26:17+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.dobrevibracije",
+    "name": "Radio Dobre Vibracije",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/66852.v2.png",
+    "stream_url": "http://81.7.160.152:8010/live",
+    "website": "http://dobrevibracije.dk/",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "rock",
+      "pop",
+      "hip-hop",
+      "funk",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:32:48+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.drnyheder",
+    "name": "DR Nyheder",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/45394.v3.png",
+    "stream_url": "http://live-icy.gss.dr.dk:8000/A/A02L.mp3",
+    "website": "http://www.dr.dk/nyheder",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "news",
+      "talk",
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:30:43+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.drp1",
+    "name": "DR P1",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/11250.v13.png",
+    "stream_url": "https://drliveradio.akamaized.net/hls/live/2022411/p1/masterab.m3u8",
+    "website": "https://www.dr.dk/radio/p1",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:26:16+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.drp2",
+    "name": "DR P2",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/11255.v3.png",
+    "stream_url": "http://live-icy.gss.dr.dk:8000/A/A04L.mp3",
+    "website": "https://www.dr.dk/radio/p2/",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "talk",
+      "classic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:29:29+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.drp3",
+    "name": "DR P3",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/11205.v5.png",
+    "stream_url": "http://live-icy.gss.dr.dk/A/A05L.mp3",
+    "website": "https://www.dr.dk/radio/p3",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "pop",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:27:22+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.drp4kobenhavn",
+    "name": "DR P4",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/11060.v4.png",
+    "stream_url": "http://live-icy.gss.dr.dk:8000/A/A08L.mp3",
+    "website": "https://www.dr.dk/radio/p4kbh",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "pop",
+      "news",
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:27:19+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.drp5",
+    "name": "DR P5",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/11257.v3.png",
+    "stream_url": "http://live-icy.gss.dr.dk/A/A25L.mp3",
+    "website": "https://www.dr.dk/radio/p5",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "news",
+      "talk",
+      "folk",
+      "classic",
+      "country",
+      "oldies"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:26:21+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.drp6beat",
+    "name": "DR P6 Beat",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/45390.v3.png",
+    "stream_url": "http://live-icy.gss.dr.dk:8000/A/A29H.mp3",
+    "website": "https://www.dr.dk/radio/p6beat",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "pop",
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:27:24+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.e2dk",
+    "name": "E2 Radio DK",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/141485.v1.png",
+    "stream_url": "https://ekila1.pro-fhi.net:2140/stream",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "pop",
+      "90s",
+      "00s",
+      "80s",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:35:29+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.epicdenmark",
+    "name": "Radio Epic Denmark",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/122125.v3.png",
+    "stream_url": "https://play.radioepic.dk/radio/8000/live",
+    "website": "https://radioepic.dk/",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "dance",
+      "rock",
+      "pop",
+      "jazz"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:34:44+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.europa",
+    "name": "Europa Radio - Danmark",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/151586.v1.png",
+    "stream_url": "https://edge66.streamonkey.net/fho-europaradio/stream/mp3?dk",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "disco",
+      "pop",
+      "90s",
+      "00s",
+      "80s",
+      "70s",
+      "funk",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:32:54+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.faaborg",
+    "name": "Radio Faaborg",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/129243.v4.png",
+    "stream_url": "http://185.156.96.217:10022/detrigtigefaaborgaac",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "pop",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:32:46+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.faaborgclassic",
+    "name": "Radio Faaborg Classic 24/7",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/108554.v6.png",
+    "stream_url": "https://solid41.streamupsolutions.com/proxy/wrchdupm?mp=/;type=mp3",
+    "website": "https://www.radiofaaborg.online/",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "90s",
+      "80s",
+      "70s",
+      "60s"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:30:42+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.flode",
+    "name": "Radio Fløde",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/142476.v1.png",
+    "stream_url": "https://radio2.digidi.net/listen/radio_flode/radio.mp3",
+    "website": "https://digidi.net/RadioFlDe",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "disco",
+      "pop",
+      "90s",
+      "80s",
+      "70s",
+      "funk",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:31:48+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.fluxi",
+    "name": "FluXiRadio",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/133311.v1.png",
+    "stream_url": "http://130.61.223.48:8000/aac",
+    "website": "http://www.fluxiradio.com/",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "pop",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:31:51+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.fm95",
+    "name": "Radio ALR",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/12458.v19.png",
+    "stream_url": "https://streamer.radio.co/s6a9beb92e/listen",
+    "website": "http://www.radioalr.dk/",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "adult contemporary",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:29:28+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.folkets",
+    "name": "Folkets Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/48562.v2.png",
+    "stream_url": "https://folketsradio.out.airtime.pro/folketsradio_a",
+    "website": "http://www.folketsradio.dk/",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "news",
+      "talk",
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:33:49+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.frederiksberg",
+    "name": "Frederiksberg Lokalradio",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/128166.v2.png",
+    "stream_url": "https://c14.radioboss.fm:18228/autodj",
+    "website": "https://radio977.dk/",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "disco",
+      "pop",
+      "90s",
+      "00s",
+      "80s",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:32:44+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.fredfilm",
+    "name": "FRED FILM RADIO",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/46852.v4.png",
+    "stream_url": "https://s10.webradio-hosting.com/proxy/fredradiodk/stream/;",
+    "website": "http://www.fred.fm/dk/",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "news",
+      "talk",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:32:47+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.free",
+    "name": "Free FM World - Denmark",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/132394.v5.png",
+    "stream_url": "https://rocafmadrid.radioca.st/dk",
+    "website": "http://www.freefmradio.net/",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "disco",
+      "pop",
+      "90s",
+      "00s",
+      "80s",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:35:24+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.freebraziminecraft",
+    "name": "Radio Free Brazi - Minecraft",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/134264.v3.png",
+    "stream_url": "http://rfb.brazi.net:8000/rfb.ogg",
+    "website": "https://brazi.net/",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "disco",
+      "pop",
+      "90s",
+      "00s",
+      "80s",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:34:49+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.friborn",
+    "name": "Fri-born",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/48399.v2.png",
+    "stream_url": "https://s2.radio.co/s8367afdd8/listen",
+    "website": "https://fri-born.dk/",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "talk",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:31:49+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.funkyvibes",
+    "name": "Funky Vibes FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/91609.v2.png",
+    "stream_url": "https://s4.radio.co/s4902de73b/listen",
+    "website": "https://www.funkyvibes.net/",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "disco",
+      "soul",
+      "funk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:27:27+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.funny",
+    "name": "Funny Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/126948.v7.png",
+    "stream_url": "https://my3.radiolize.com:8030/radio.mp3",
+    "website": "https://radiostoholm.wixsite.com/funny-radio",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "dance",
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:34:47+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.globusguld",
+    "name": "Globus Guld",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/12635.v8.png",
+    "stream_url": "https://stream.probroadcast.dk/guldmidt",
+    "website": "http://globusguld.dk/",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "pop",
+      "news",
+      "talk",
+      "top40",
+      "sports"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:27:20+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.gonovaidogndrift",
+    "name": "GO&#39;NOVA i døgndrift",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/131211.v1.png",
+    "stream_url": "https://live-bauerdk.sharp-stream.com/RP21_premium_96.aac",
+    "website": "https://www.radioplay.dk/",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "pop",
+      "top40",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:31:49+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.harmoni",
+    "name": "Radio Harmoni",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/130890.v2.png",
+    "stream_url": "https://stream.vinylhits.dk/harmonimp3",
+    "website": "https://radioharmoni.dk/",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "disco",
+      "pop",
+      "90s",
+      "00s",
+      "80s",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:34:47+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.headfm",
+    "name": "Head FM.net",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/92137.v3.png",
+    "stream_url": "https://443-1.reliastream.com/35/stream",
+    "website": "https://headfm.net/",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "dance",
+      "house",
+      "techno"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:31:47+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.heartbeats",
+    "name": "Heartbeats Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/48400.v3.png",
+    "stream_url": "https://streaming02.zfast.co.uk/proxy/heartbea?mp=/stream",
+    "website": "https://heartbeats.dk/",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "electronic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:33:55+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.helliganden",
+    "name": "Radio Helligånden",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/148533.v3.png",
+    "stream_url": "https://c40.radioboss.fm:8035/stream",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:32:53+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.helsingor",
+    "name": "Radio Helsingør",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/48412.v2.png",
+    "stream_url": "https://stream.radiohelsingor.dk/rh",
+    "website": "http://radiohelsingor.dk/",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "news",
+      "talk",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:29:30+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.hero",
+    "name": "Hero Radio (Denmark)",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/147029.v2.png",
+    "stream_url": "https://a2.asurahosting.com:6790/denmark.mp3",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "news",
+      "gospel",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:34:42+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.hitdk",
+    "name": "Hit Radio DK",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/98082.v10.png",
+    "stream_url": "https://cast5.asurahosting.com/proxy/iradioje/stream",
+    "website": "https://hitradio.dk/",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "dance",
+      "r'n'b",
+      "pop",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:28:26+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.hits1danmark",
+    "name": "Hits 1 Danmark",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/150521.v6.png",
+    "stream_url": "https://hits1-audiomediaradio.radioca.st/hits1?dk",
+    "website": "https://www.hits1radio.com/",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "dance",
+      "electronic",
+      "pop",
+      "top40",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:32:54+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.holbaekradio",
+    "name": "Holbæk Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/120303.v3.png",
+    "stream_url": "https://stream.radiojar.com/t70n46q7608uv",
+    "website": "https://holbaekradio.com/",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "disco",
+      "pop",
+      "jazz",
+      "80s",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:30:44+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.horsensgarage",
+    "name": "Horsens Garage Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/131678.v4.png",
+    "stream_url": "https://horsens-garage.rocks/demoer/231121-Andreas%20Ma%CC%8Anes%C3%B8n.mp3",
+    "website": "https://horsens-garage.rocks/",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "rock"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:33:51+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.hot",
+    "name": "Hotfm",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/148610.v1.png",
+    "stream_url": "http://11559.cloudrad.io:9218/;",
+    "website": "https://www.radiosnr.dk/",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:28:28+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.hvidovrenaerradio",
+    "name": "Hvidovre Nærradio",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/126057.v4.png",
+    "stream_url": "https://stream.probroadcast.dk/hnrmp3",
+    "website": "https://www.h-n-r.dk/index.html",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "pop",
+      "90s",
+      "80s",
+      "70s",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:34:50+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.indieparty",
+    "name": "Indie Party",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/139516.v5.png",
+    "stream_url": "https://video2.getstreamhosting.com:8230/stream",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "rock",
+      "disco",
+      "pop",
+      "90s",
+      "00s",
+      "80s",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:30:38+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.italosound",
+    "name": "Italo Sound Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/48402.v9.png",
+    "stream_url": "https://icecast.italosound.com/italosound",
+    "website": "https://italosound.com/",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "dance",
+      "italian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:26:20+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.jukeboxnonstopmusic",
+    "name": "Jukebox - Nonstop Music",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/132797.v3.png",
+    "stream_url": "https://kreuzbergswiss.spcast.eu/stream",
+    "website": "http://kreuzbergswiss.spcast.eu/",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "disco",
+      "pop",
+      "90s",
+      "00s",
+      "80s",
+      "70s",
+      "funk",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:31:47+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.kolding",
+    "name": "Radio Kolding",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/118769.v2.png",
+    "stream_url": "https://s4.radio.co/sf3f766dec/listen",
+    "website": "https://fm1038.dk/",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "disco",
+      "pop",
+      "90s",
+      "00s",
+      "80s",
+      "70s",
+      "60s",
+      "funk",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:29:33+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.lasalsadeltrendelsabor",
+    "name": "La Salsa Del Tren Del Sabor",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/10944.v3.png",
+    "stream_url": "https://pstnet5.shoutcastnet.com:50384/stream",
+    "website": "https://eltrendelsabor.blogspot.com/",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "salsa",
+      "bolero",
+      "latin jazz",
+      "charanga"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:26:15+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.legends",
+    "name": "Legends Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/141338.v2.png",
+    "stream_url": "https://stream.rcast.net/62295",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "rock",
+      "pop",
+      "80s",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:35:31+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.lokalsporttonder",
+    "name": "Lokal Sport Tønder",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/148534.v1.png",
+    "stream_url": "https://c26.radioboss.fm:8735/stream",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "talk",
+      "sports"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:30:35+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.lostinthe80s",
+    "name": "Lost in the 80s",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/132854.v1.png",
+    "stream_url": "https://ec2.yesstreaming.net:2840/stream",
+    "website": "https://lostinthe80s.com/",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "disco",
+      "pop",
+      "80s",
+      "funk",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:31:52+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.lumi",
+    "name": "LUMI Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/48563.v2.png",
+    "stream_url": "http://stream.lumiradio.dk:8000/radio.mp3",
+    "website": "https://lumiradio.dk/",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:33:52+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.maelkebotten",
+    "name": "Radio Mælkebøtten",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/48555.v3.png",
+    "stream_url": "https://stream.rcast.net/68445",
+    "website": "http://www.radiomb.dk/",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "pop",
+      "news",
+      "talk",
+      "instrumental"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:29:34+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.mars",
+    "name": "Radio Mars",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/136468.v1.png",
+    "stream_url": "https://radio2.digidi.net/listen/mars/radio_mid.mp3",
+    "website": "https://digidi.net/RadioMars",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "pop",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:34:52+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.maxpop",
+    "name": "Max Pop",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/154347.v1.png",
+    "stream_url": "https://stream.maxpop.dk/stream",
+    "website": "https://maxpop.dk/",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "pop",
+      "80s",
+      "70s",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:33:48+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.meditation",
+    "name": "Meditation",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/130270.v3.png",
+    "stream_url": "https://live-bauerdk.sharp-stream.com/RP12_premium_96.aac",
+    "website": "https://radioplay.dk/",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "pop",
+      "relax"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:26:21+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.metallicaandimaiden",
+    "name": "Metallica &amp; Iron Maiden ONLY",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/48540.v3.png",
+    "stream_url": "http://46.4.184.212:8000/stream",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "rock",
+      "metal"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:26:12+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.mfk",
+    "name": "Radio MFK",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/80997.v27.png",
+    "stream_url": "https://stream1.radiomfk.dk/radiomfk",
+    "website": "http://www.radiomfk.dk/",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "top40",
+      "90s",
+      "80s"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:29:32+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.midtfjordradio",
+    "name": "MIDTFJORD RADIO",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/11987.v5.png",
+    "stream_url": "http://stream.midtfjordradio.dk/netradio",
+    "website": "http://www.midtfjordradio.dk/",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "rock",
+      "folk",
+      "country",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:26:22+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.mix",
+    "name": "Mix FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/118973.v1.png",
+    "stream_url": "https://netradio.mixfm.dk/stream",
+    "website": "https://www.mixfm.dk/",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "pop",
+      "90s",
+      "00s",
+      "80s",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:28:26+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.mix7",
+    "name": "Mix 7",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/96849.v4.png",
+    "stream_url": "https://live-bauerdk.sharp-stream.com/Mix7.mp3",
+    "website": "https://radioplay.dk/mix/afspiller/",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "pop",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:29:31+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.mjazz",
+    "name": "M Jazz",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/147441.v1.png",
+    "stream_url": "https://fra-pioneer01.dedicateware.com:1465/stream",
+    "website": "https://mjazzradio.com/home-04/",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "jazz"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:31:50+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.mountainstream",
+    "name": "Mountain Stream",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/131552.v4.png",
+    "stream_url": "http://s6.voscast.com:9738/stream",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "rock",
+      "pop",
+      "country",
+      "90s",
+      "80s",
+      "70s",
+      "oldies",
+      "60s",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:34:51+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.musicfordreams",
+    "name": "Music for Dreams Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/128809.v1.png",
+    "stream_url": "https://s2.radio.co/s0f2948883/listen",
+    "website": "https://musicfordreams.dk/?v=dd65ef9a5579",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "disco",
+      "pop",
+      "funk",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:28:27+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.musicmaster",
+    "name": "Music Master",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/136768.v1.png",
+    "stream_url": "http://s3.voscast.com:10458/stream",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "disco",
+      "pop",
+      "90s",
+      "00s",
+      "80s",
+      "70s",
+      "funk",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:32:48+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.musicnation",
+    "name": "Music Nation Danmark",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/135559.v5.png",
+    "stream_url": "https://s3.voscast.com:11561/misc",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "disco",
+      "pop",
+      "90s",
+      "00s",
+      "80s",
+      "70s",
+      "funk",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:31:52+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.musicnationextra",
+    "name": "Music Nation - Autodj",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/146626.v9.png",
+    "stream_url": "https://stream.laut.fm/autodj",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "pop",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:34:48+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.myrock",
+    "name": "myROCK",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/11692.v3.png",
+    "stream_url": "https://live-bauerdk.sharp-stream.com/myrock_dk_mp3",
+    "website": "https://radioplay.dk/myrock/",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "rock"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:26:15+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.narkorsor",
+    "name": "Nærradio Korsør",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/112418.v13.png",
+    "stream_url": "https://listen.radioking.com/radio/639226/stream/702199",
+    "website": "https://xn--nrradiokorsr-6cb6x.dk/",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:34:45+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.ncf",
+    "name": "NCF Mix",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/122481.v1.png",
+    "stream_url": "https://stream.ncfradio.com/listen/mix/mix.mp3",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "disco",
+      "pop",
+      "80s",
+      "funk",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:31:49+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.nmradio",
+    "name": "NMRadio",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/11720.v3.png",
+    "stream_url": "http://5.56.158.246:8000/stream",
+    "website": "http://www.nmradio.dk/",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "islamic",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:31:53+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.nmserver",
+    "name": "NM Server",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/128780.v1.png",
+    "stream_url": "https://nm-server.stream.laut.fm/nm-server",
+    "website": "https://laut.fm/nm-server",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "pop",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:30:39+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.nord",
+    "name": "Radio Nord",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/118626.v3.png",
+    "stream_url": "https://netradio.radionord.dk:8443/NordVend",
+    "website": "https://www.radionord.dk/",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "pop",
+      "80s",
+      "70s",
+      "60s"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:28:26+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.nordiclodge",
+    "name": "Nordic Lodge Copenhagen",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/11784.v14.png",
+    "stream_url": "https://radio.streemlion.com:1160/stream",
+    "website": "https://www.nordiclodgeradio.com/",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "electronic",
+      "downtempo",
+      "relax"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:26:14+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.nordsjllandskristneradio",
+    "name": "Nordsjællands Kristne Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/12324.v2.png",
+    "stream_url": "http://studie.hkr.dk:8000/;",
+    "website": "http://www.nkradio.dk/",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "talk",
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:32:55+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.norearadio",
+    "name": "Norea Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/11760.v3.png",
+    "stream_url": "http://radio.norea.dk:8080/;",
+    "website": "https://norea.dk/",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "talk",
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:33:53+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.northernsounds",
+    "name": "Northernsounds",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/121189.v3.png",
+    "stream_url": "https://northernsounds.stream.laut.fm/northernsounds",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "rock",
+      "pop",
+      "funk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:30:46+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.nova",
+    "name": "NOVA FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/11191.v7.png",
+    "stream_url": "https://live-bauerdk.sharp-stream.com/nova_dk_mp3",
+    "website": "https://radioplay.dk/nova/",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "rock",
+      "r'n'b",
+      "pop",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:26:18+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.nrj1079",
+    "name": "Radio NRJ",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/100132.v1.png",
+    "stream_url": "http://stream.rcs.revma.com/vf65su7pshruv",
+    "website": "http://www.nrj.dk/",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "dance",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:30:37+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.nstvedlokalradio",
+    "name": "Naestved Lokalradio",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/11958.v3.png",
+    "stream_url": "https://solid67.streamupsolutions.com/proxy/wcwmpntf?mp=/stream",
+    "website": "http://xn--nstvedlokalradio-uob.dk/index.php",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "pop",
+      "news",
+      "politics"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:35:23+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.oest",
+    "name": "Oest FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/48407.v3.png",
+    "stream_url": "https://stream.probroadcast.dk/oestfmmp3",
+    "website": "http://oestfm.dk/",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "pop",
+      "news",
+      "talk",
+      "90s",
+      "80s",
+      "70s"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:29:28+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.onlinehits",
+    "name": "Minradio - HIT",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/131740.v18.png",
+    "stream_url": "http://11429.cloudrad.io:9162/live",
+    "website": "https://minradio.dk/",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "pop",
+      "90s",
+      "00s",
+      "80s",
+      "70s",
+      "funk",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:35:27+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.onlineradio",
+    "name": "Online Radio - Jukebox",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/131499.v10.png",
+    "stream_url": "http://s1.citrus3.com:18158/stream",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "pop",
+      "70s",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:33:53+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.p8jazz-dr",
+    "name": "DR P8 JAZZ",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/11311.v8.png",
+    "stream_url": "https://drliveradio1.akamaized.net/hls/live/2097651/p8jazz/playlist-320000.m3u8",
+    "website": "http://www.dr.dk/p8jazz",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "blues",
+      "jazz"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:26:21+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.party",
+    "name": "Partyradio",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/83479.v13.png",
+    "stream_url": "https://ams-pioneer02.dedicateware.com:2455/stream",
+    "website": "https://www.partyradio.dk/",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "dance",
+      "electronic",
+      "disco",
+      "pop",
+      "rock'n'roll"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:28:32+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.partyfm",
+    "name": "PartyFM",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/12423.v2.png",
+    "stream_url": "https://stream1.partyfm.dk/Party128web",
+    "website": "https://www.partyfm.dk/",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "trance",
+      "house",
+      "dubstep"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:26:16+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.partyshaker",
+    "name": "Partyshaker.dk",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/131037.v5.png",
+    "stream_url": "https://az13.yesstreaming.net:8350/radio.mp3",
+    "website": "https://partyshaker.dk/",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "dance",
+      "pop",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:34:47+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.pegasus",
+    "name": "Pegasus Radio - Denmark",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/133934.v1.png",
+    "stream_url": "http://pegasus.nucast.co.uk:18092/stream",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "pop",
+      "90s",
+      "00s",
+      "80s",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:31:52+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.planetrock",
+    "name": "Planet Rock DK",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/131365.v1.png",
+    "stream_url": "https://live-bauerdk.sharp-stream.com/planetrockdk-premium_96.aac",
+    "website": "https://www.radioplay.dk/",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "rock"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:33:55+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.playsoft",
+    "name": "Radio Soft",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/71599.v4.png",
+    "stream_url": "https://live-bauerdk.sharp-stream.com/radiosoft_dk_mp3",
+    "website": "https://radioplay.dk/radio-soft/",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "pop",
+      "talk",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:26:19+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.pop100",
+    "name": "POP100 - Star music",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/126342.v13.png",
+    "stream_url": "https://ec4.yesstreaming.net:1310/stream",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "pop",
+      "90s",
+      "80s",
+      "70s",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:30:41+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.pop90er",
+    "name": "Pop FM 90er",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/147062.v3.png",
+    "stream_url": "https://live-bauerdk.sharp-stream.com/popfm90_prem_aac",
+    "website": "https://radioplay.dk/",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "pop",
+      "90s",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:30:43+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.popfm",
+    "name": "Pop FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/11715.v5.png",
+    "stream_url": "https://live-bauerdk.sharp-stream.com/popfm_dk_mp3",
+    "website": "https://radioplay.dk/pop-fm/",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "pop",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:28:30+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.popmusik",
+    "name": "Pop Musik Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/120515.v2.png",
+    "stream_url": "https://stream.zeno.fm/kuzbge06qy8uv",
+    "website": "https://zeno.fm/radio/pop-musik-radio/",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "pop",
+      "90s",
+      "80s",
+      "70s"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:29:36+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.popparty",
+    "name": "Pop Party",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/152770.v1.png",
+    "stream_url": "https://005902.stream.laut.fm/005902",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "pop",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:31:53+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.poppremium",
+    "name": "Pop FM - Premium",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/130495.v1.png",
+    "stream_url": "https://live-bauerdk.sharp-stream.com/popfm-premium_96.aac",
+    "website": "https://radioplay.dk/",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "pop",
+      "90s",
+      "00s",
+      "80s",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:34:44+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.pradio",
+    "name": "P.Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/153565.v2.png",
+    "stream_url": "https://media2.streambrothers.com:8170/stream",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "pop",
+      "90s",
+      "80s",
+      "70s",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:33:56+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.pulz",
+    "name": "Pulz FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/48316.v4.png",
+    "stream_url": "http://netradio.skala.fm/pulz",
+    "website": "https://skala.fm/",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "talk",
+      "oldies",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:30:39+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.radio100",
+    "name": "Radio 100",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/10772.v5.png",
+    "stream_url": "https://live-bauerdk.sharp-stream.com/radio100_dk_mp3",
+    "website": "https://radioplay.dk/radio-100/",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "rock",
+      "pop",
+      "top40",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:27:25+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.radio4",
+    "name": "Radio 4",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/88044.v2.png",
+    "stream_url": "https://netradio.radio4.dk/radio4",
+    "website": "https://www.radio4.dk/",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:29:31+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.radio8740",
+    "name": "Radio 8740 - Italo Disco",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/128395.v4.png",
+    "stream_url": "https://stream.zeno.fm/2bkgkq98f6wvv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "pop",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:34:50+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.radio9220",
+    "name": "Radio 9220",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/120148.v2.png",
+    "stream_url": "http://stream.supergeek.dk:8000/9220192",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "pop",
+      "80s",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:33:50+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.radioaapkiawaz",
+    "name": "Radio Aap ki Awaz",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/11057.v5.png",
+    "stream_url": "http://162.244.80.106:11332/stream",
+    "website": "http://aapkiawaz.dk/",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "pop",
+      "news",
+      "talk",
+      "politics"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:29:35+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.radioabc",
+    "name": "Radio ABC",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/10814.v2.png",
+    "stream_url": "https://radioserver.dk/abc",
+    "website": "https://radioabc.dk/",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "r'n'b",
+      "pop",
+      "hip-hop",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:28:24+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.radioballerup",
+    "name": "902FM - Det Nye Radio Ballerup",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/12327.v10.png",
+    "stream_url": "https://s25.myradiostream.com/:15246/;",
+    "website": "http://www.902fm.com/",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "pop",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:27:26+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.radioboost",
+    "name": "Radio Boost",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/12329.v3.png",
+    "stream_url": "https://rbx2.hnux.com/http://149.202.22.75:8066/;",
+    "website": "https://www.radioboost.dk/",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "electronic",
+      "house",
+      "dubstep",
+      "pop",
+      "rap"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:27:23+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.radiodalen",
+    "name": "Radio Ådalen",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/12800.v4.png",
+    "stream_url": "http://stream.radiosolutions.dk/radioaadalen",
+    "website": "https://radioaadalen.dk/",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "pop",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:29:34+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.radiodexter",
+    "name": "Radio Dexter",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/149832.v2.png",
+    "stream_url": "https://stream-14.aiir.com/2wk6lwqi4aevv",
+    "website": "https://www.radio-dexter.dk/",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "pop",
+      "90s",
+      "00s",
+      "80s",
+      "70s",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:31:51+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.radiodiablo",
+    "name": "Radio Diablo",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/11213.v9.png",
+    "stream_url": "https://radio1.jfmtech.dk/diablo.aac",
+    "website": "http://www.radiodiablo.dk/",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "pop",
+      "news",
+      "sports"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:28:31+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.radiofolk",
+    "name": "Radio Folk",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/79131.v3.png",
+    "stream_url": "https://stream.radiojar.com/fqt2y0ds97zuv",
+    "website": "https://radiofolk.dk/",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:29:30+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.radiofreja",
+    "name": "Radio Freja",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/68866.v28.png",
+    "stream_url": "https://solid67.streamupsolutions.com/proxy/ingjmhed?mp=/stream",
+    "website": "https://www.radiofreja.dk/",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "pop",
+      "90s",
+      "00s",
+      "80s",
+      "70s",
+      "soft pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:26:17+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.radioglobus",
+    "name": "Radio Globus",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/10931.v8.png",
+    "stream_url": "https://stream.probroadcast.dk/radioglobus",
+    "website": "http://radioglobus.dk/",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "pop",
+      "news",
+      "sports"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:27:25+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.radiogofm",
+    "name": "Radio go!FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/12218.v3.png",
+    "stream_url": "https://radioserver.dk/gofm",
+    "website": "http://gofm.dk/",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "pop",
+      "news",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:28:29+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.radiohalsns",
+    "name": "Radio Halsnæs",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/12375.v4.png",
+    "stream_url": "http://halsstream.spdns.de/;",
+    "website": "http://www.radiohalsnaes.dk/",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "pop",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:29:34+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.radiohappydk",
+    "name": "Radio Happy DK",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/45347.v7.png",
+    "stream_url": "https://streaming.radio.co/sd9d980ff0/listen",
+    "website": "https://radiohappy.dk/",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "pop",
+      "top40",
+      "80s"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:29:29+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.radiohsr",
+    "name": "Radio 40 Plus",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/11533.v8.png",
+    "stream_url": "http://stream.radiosolutions.dk/radio40plus",
+    "website": "https://radio40plus.dk/",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "pop",
+      "news",
+      "90s",
+      "80s",
+      "60s",
+      "50s"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:29:35+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.radiohumleborg",
+    "name": "Radio Humleborg",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/11694.v3.png",
+    "stream_url": "http://ca6.rcast.net:4058/;stream.mp3",
+    "website": "https://humleborg.dk/",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "blues",
+      "jazz",
+      "talk",
+      "top40",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:31:54+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.radioiringkbing",
+    "name": "Radio i Ringkøbing",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/12426.v2.png",
+    "stream_url": "http://netradio.radioringkobing.dk:8000/;",
+    "website": "http://www.radioringkobing.dk/",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "r'n'b",
+      "pop",
+      "rap",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:29:30+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.radiojazz",
+    "name": "Radio Jazz",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/10680.v5.png",
+    "stream_url": "https://radiojazzcopenhagen.out.airtime.pro/radiojazzcopenhagen_a",
+    "website": "http://www.radiojazz.dk/",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "blues",
+      "acid jazz",
+      "jazz",
+      "easy listening",
+      "smooth jazz"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:26:14+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.radioklassisk",
+    "name": "Radio Klassisk",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/11723.v3.png",
+    "stream_url": "https://live-bauerdk.sharp-stream.com/radioklassisk_dk_mp3",
+    "website": "https://radioplay.dk/radio-klassisk/",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "classic",
+      "opera"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:28:28+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.radioklitholm",
+    "name": "Radio Klitholm",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/11842.v3.png",
+    "stream_url": "http://stream.radioklitholm.dk:8000/stream",
+    "website": "http://radioklitholm.dk/",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "rock",
+      "pop",
+      "classic",
+      "country"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:30:46+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.radiokultur",
+    "name": "Radio Kultur",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/12376.v6.png",
+    "stream_url": "http://198.7.62.157:8278/;",
+    "website": "https://www.radiokultur.dk/",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "pop",
+      "folk",
+      "arabic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:30:36+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.radiolimfjord",
+    "name": "Radio Limfjord",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/11751.v2.png",
+    "stream_url": "http://media.limfjordnetradio.dk/limfjord128",
+    "website": "http://radiolimfjord.dk/",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "rock",
+      "pop",
+      "news",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:26:20+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.radiomarlab",
+    "name": "Radio Marlab",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/69981.v10.png",
+    "stream_url": "https://marlab.radioca.st/stream",
+    "website": "http://www.marlab.dk/",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "rock",
+      "metal"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:29:34+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.radiomidt",
+    "name": "Radio Midtsjælland",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/120344.v4.png",
+    "stream_url": "http://player.radiomidt.dk/broadwave.mp3",
+    "website": "https://www.radiomidt.dk/",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "disco",
+      "pop",
+      "90s",
+      "80s",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:30:42+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.radiommidtjylland",
+    "name": "Radio M",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/12882.v3.png",
+    "stream_url": "https://radioserver.dk/radiom",
+    "website": "http://www.radiom.dk/",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "rock",
+      "pop",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:27:24+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.radiomojngold",
+    "name": "Radiomojn-gold.dk",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/145110.v3.png",
+    "stream_url": "https://listen.radioking.com/radio/698273/stream/763235",
+    "website": "https://www.radiomojn-gold.dk/",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:33:54+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.radionordjyske",
+    "name": "Radio NORDJYSKE",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/11829.v2.png",
+    "stream_url": "https://stream.anr.dk/nordjyske",
+    "website": "http://nordjyske.dk/radio",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "rock",
+      "pop",
+      "news",
+      "talk",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:29:35+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.radioodsherred",
+    "name": "Radio Odsherred",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/11600.v4.png",
+    "stream_url": "http://87.104.40.139:88/broadwave.mp3",
+    "website": "http://www.radioodsherred.dk/",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "rock",
+      "pop",
+      "top40",
+      "balada"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:32:53+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.radioplayback",
+    "name": "Radio Playback",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/11489.v2.png",
+    "stream_url": "https://stream02.radioplayback.dk/stream",
+    "website": "https://radioplayback.dk/",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "rock",
+      "disco",
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:31:47+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.radiosilkeborg",
+    "name": "Radio Silkeborg",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/12697.v4.png",
+    "stream_url": "https://radioserver.dk/silkeborg",
+    "website": "http://radiosilkeborg.dk/",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "pop",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:28:28+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.radioslr",
+    "name": "Radio SLR Slagelse",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/11746.v16.png",
+    "stream_url": "https://stream.probroadcast.dk/slagelsemp3",
+    "website": "http://radioslr.dk/",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "pop",
+      "90s",
+      "00s",
+      "80s"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:26:20+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.radiosydhavoserne",
+    "name": "Radio SydhavsØerne",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/12563.v7.png",
+    "stream_url": "https://radio1.jfmtech.dk/sydhavfalster",
+    "website": "https://www.sydhavsradio.dk/",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "pop",
+      "news",
+      "talk",
+      "top40",
+      "80s"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:28:31+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.radioti",
+    "name": "Radioti",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/45395.v1.png",
+    "stream_url": "http://195.215.168.146:9200/;&type=mp3",
+    "website": "http://radioti.dk/",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "pop",
+      "top40",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:35:26+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.radioviborg",
+    "name": "Radio Viborg",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/12215.v4.png",
+    "stream_url": "https://netradio.radioviborg.dk/vib11d",
+    "website": "https://radioviborg.dk/",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "pop",
+      "news",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:27:28+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.radiovictoria",
+    "name": "Radio Victoria",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/12792.v3.png",
+    "stream_url": "https://stream.probroadcast.dk/victoria",
+    "website": "http://radiovictoria.dk/",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "pop",
+      "news",
+      "talk",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:28:27+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.raketten",
+    "name": "Radio Raketten",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/149174.v1.png",
+    "stream_url": "https://listen.radioking.com/radio/744793/stream/811348",
+    "website": "https://radioraketten.transistor.fm/",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "pop",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:34:52+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.randomrare",
+    "name": "Online Radio - Random &amp; Rare",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/131781.v2.png",
+    "stream_url": "http://rocket.streamradio.fr:18092/stream",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "disco",
+      "pop",
+      "soul",
+      "90s",
+      "80s",
+      "70s",
+      "60s",
+      "funk",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:35:30+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.rbclassics",
+    "name": "R&amp;B Classics",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/130301.v1.png",
+    "stream_url": "https://live-bauerdk.sharp-stream.com/RP33_premium_96.aac",
+    "website": "https://radioplay.dk/",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "pop",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:26:18+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.rbmodern",
+    "name": "R&amp;B Modern",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/131250.v1.png",
+    "stream_url": "https://live-bauerdk.sharp-stream.com/DK_HQ_RP34.aac",
+    "website": "https://radioplay.dk/",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "r'n'b",
+      "hip-hop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:32:52+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.reservatet",
+    "name": "Reservatet",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/144201.v1.png",
+    "stream_url": "https://s4.radio.co/sff6953a97/listen",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "dance",
+      "pop",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:35:25+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.retrodk",
+    "name": "Radio Retro DK",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/83614.v4.png",
+    "stream_url": "http://10336.cloudrad.io:9010/live",
+    "website": "http://radioretro.dk/",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "90s",
+      "00s",
+      "80s",
+      "70s"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:30:41+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.retroradio",
+    "name": "Retro Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/11831.v2.png",
+    "stream_url": "https://streammp3.retro-radio.dk/retro-mp3",
+    "website": "http://www.retro-radio.dk/",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "80s",
+      "70s",
+      "oldies",
+      "60s"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:26:13+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.retroroadtrip",
+    "name": "Retro Roadtrip",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/150460.v3.png",
+    "stream_url": "http://mediacp-europe.myautodj.com:8004/stream",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "rock",
+      "pop",
+      "90s",
+      "80s",
+      "70s",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:32:50+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.rise",
+    "name": "Rise FM Denmark",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/48424.v5.png",
+    "stream_url": "http://stream.risefm.org:8023/stream",
+    "website": "https://www.risefm.org/",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "dance",
+      "trance",
+      "house",
+      "pop",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:28:31+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.rock",
+    "name": "Rockradio",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/134129.v2.png",
+    "stream_url": "https://stream.rcs.revma.com/4dug9tcr58hvv",
+    "website": "https://rockradio.dk/",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "rock"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:31:54+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.rockkanalen",
+    "name": "Rockkanalen",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/12387.v2.png",
+    "stream_url": "https://stream.kanalplus.fm/kp128",
+    "website": "http://www.rockkanalen.com/",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "rock"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:28:30+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.rollo",
+    "name": "Radio Rollo",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/48366.v5.png",
+    "stream_url": "http://stream.radiosolutions.dk/rollo?hash=1650478358746.mp3",
+    "website": "http://www.radiorollo.dk/",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:35:24+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.rot",
+    "name": "Radio RoT",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/149278.v2.png",
+    "stream_url": "https://radiorot.ovh:8000/radio.mp3",
+    "website": "https://rotorrent.ro/",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "dance",
+      "electronic",
+      "rock",
+      "pop",
+      "chill-out",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:30:45+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.skagafm",
+    "name": "Skaga FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/11488.v9.png",
+    "stream_url": "https://stream.probroadcast.dk/skagafm",
+    "website": "https://skagafm.dk/",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:30:40+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.skalafm",
+    "name": "Skala FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/10819.v7.png",
+    "stream_url": "https://webradio.skala.fm/kolding",
+    "website": "https://skala.fm/",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "pop",
+      "news",
+      "talk",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:28:29+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.skive",
+    "name": "Radio Skive",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/45259.v4.png",
+    "stream_url": "https://radioserver.dk/skive",
+    "website": "http://www.radioskive.dk/",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "pop",
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:27:25+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.sm",
+    "name": "Radio SM",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/151997.v1.png",
+    "stream_url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SP_R5111149.aac?dist=onlineradiobox",
+    "website": "https://radiosm.online/",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "disco",
+      "pop",
+      "90s",
+      "80s",
+      "70s",
+      "funk",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:35:27+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.smashmusik",
+    "name": "Smash Musik Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/140206.v2.png",
+    "stream_url": "https://stream.zeno.fm/wnzrtywxh0utv",
+    "website": "https://zeno.fm/radio/Smash-musik-radio/",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "pop",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:32:50+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.snr",
+    "name": "Radio S.N.R",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/112463.v1.png",
+    "stream_url": "http://10420.cloudrad.io:9070/;",
+    "website": "https://www.radiosnr.dk/",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:33:54+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.snrhits",
+    "name": "SNR Hits",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/149847.v1.png",
+    "stream_url": "http://16130.cloudrad.io:9244/;",
+    "website": "https://radio-skanderborg-guld.webnode.dk/",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:33:55+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.snrpop",
+    "name": "Radio SNR Pop",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/124197.v4.png",
+    "stream_url": "http://15127.cloudrad.io:9464/;",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:34:43+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.solofm",
+    "name": "Solo FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/11603.v4.png",
+    "stream_url": "https://radioserver.dk/solo",
+    "website": "http://www.radiosolo.dk/",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "pop",
+      "news",
+      "folk",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:27:27+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.sommerhits",
+    "name": "Sommerhits",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/137476.v1.png",
+    "stream_url": "https://live-bauerdk.sharp-stream.com/RP02_premium_96.aac",
+    "website": "https://www.radioplay.dk/",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "pop",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:32:45+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.sonderjylland",
+    "name": "Radio Sønderjylland",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/125171.v1.png",
+    "stream_url": "http://stream.wlmm.dk/syddanmark",
+    "website": "https://radiosoenderjylland.dk/",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "disco",
+      "pop",
+      "80s",
+      "oldies",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:33:49+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.star",
+    "name": "Star Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/130927.v6.png",
+    "stream_url": "http://nas.kennethlundsgaard.dk:8000/;",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "pop",
+      "90s",
+      "80s",
+      "70s",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:34:50+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.stinesen",
+    "name": "Radio Stinesen",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/118027.v8.png",
+    "stream_url": "https://st1.stinesen.dk/StineM320",
+    "website": "https://stinesen.dk/",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "90s",
+      "00s",
+      "80s",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:28:27+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.stoholm",
+    "name": "Radio Stoholm",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/91531.v7.png",
+    "stream_url": "https://melissa.sissa.dk:8443/RSM320",
+    "website": "https://www.radiostoholm.com/",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "club"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:33:51+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.strax",
+    "name": "Femern FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/118023.v7.png",
+    "stream_url": "https://cast1.asurahosting.com/proxy/femernfm/stream",
+    "website": "https://www.femernfm.dk/",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "disco",
+      "pop",
+      "soul",
+      "90s",
+      "80s",
+      "70s",
+      "60s",
+      "funk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:29:33+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.thecoffeeshop",
+    "name": "The Coffee Shop",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/96835.v3.png",
+    "stream_url": "https://live-bauerdk.sharp-stream.com/DK_HQ_RP10.aac",
+    "website": "https://radioplay.dk/coffee-shop",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "easy listening"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:30:43+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.thelake",
+    "name": "The Lake Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/48557.v5.png",
+    "stream_url": "http://hyades.shoutca.st:8627/;",
+    "website": "http://thelakeradio.com/",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "alternative",
+      "eclectic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:28:29+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.theorderofpaladinknights",
+    "name": "The Order Of Paladin Knights",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/146483.v1.png",
+    "stream_url": "https://listen.radioking.com/radio/717074/stream/782765",
+    "website": "https://the-order-of-paladin-knights.dk/",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:30:40+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.thevoice",
+    "name": "The Voice",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/11832.v2.png",
+    "stream_url": "https://live-bauerdk.sharp-stream.com/thevoice_dk_mp3",
+    "website": "https://radioplay.dk/the-voice/",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "rock",
+      "pop",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:27:19+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.thevoicekpop",
+    "name": "The Voice K-Pop",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/139470.v1.png",
+    "stream_url": "https://live-bauerdk.sharp-stream.com/RP36_premium_96.aac",
+    "website": "https://radioplay.dk/the-voice-k-pop/",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "pop",
+      "k-pop",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:28:26+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.tigerfm",
+    "name": "Tiger FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/11487.v1.png",
+    "stream_url": "http://85.202.67.163:8001/stream.mp3",
+    "website": "http://www.tigerfm.dk/",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "pop",
+      "metal"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:32:49+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.tnt",
+    "name": "TNT Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/133877.v2.png",
+    "stream_url": "https://usa18.fastcast4u.com/proxy/tanderse2?mp=/1",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "pop",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:31:51+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.tzgospel",
+    "name": "Tzgospel ( Denmark)",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/127676.v2.png",
+    "stream_url": "https://stream.zeno.fm/x9dz3k01uchvv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:32:49+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.ucbmedia",
+    "name": "UCB MEDIA",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/48425.v3.png",
+    "stream_url": "https://s2.radio.co/s6f04f551c/listen",
+    "website": "http://www.ucb.dk/",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:34:46+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.umlando",
+    "name": "Umlando Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/143883.v1.png",
+    "stream_url": "https://a2.asurahosting.com:6520/radio.mp3",
+    "website": "http://www.umlando.dk/",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "talk",
+      "classic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:34:49+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.universitetsradioen",
+    "name": "Universitetsradioen",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/12389.v4.png",
+    "stream_url": "https://uniradio.out.airtime.pro/uniradio_a",
+    "website": "https://www.uniradioen.dk/",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "rock",
+      "pop",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:31:50+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.vagner",
+    "name": "432Hz.dk Danmark Vågner Radio - Royalty Free Music",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/121775.v14.png",
+    "stream_url": "https://radio.danmarkvaagner.dk:8000/radio.mp3",
+    "website": "https://432hz.dk/",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "dance",
+      "electronic",
+      "rock",
+      "pop",
+      "spiritual",
+      "community"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:33:51+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.valentines",
+    "name": "Valentines Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/132724.v1.png",
+    "stream_url": "https://live-bauerdk.sharp-stream.com/RP18_premium_96.aac",
+    "website": "https://www.radioplay.dk/",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "pop",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:34:52+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.varietyhot",
+    "name": "Variety Hot",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/152101.v1.png",
+    "stream_url": "http://uk1.internet-radio.com:8060/;",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "pop",
+      "90s",
+      "00s",
+      "80s",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:32:54+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.vendsysselfm",
+    "name": "Vendsyssel FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/124675.v6.png",
+    "stream_url": "https://voksenradio.dk/vendsysselfm/",
+    "website": "https://www.vendsysselfm.dk/",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "pop",
+      "news",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:30:45+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.vesterbro",
+    "name": "Radio Vesterbro",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/45369.v2.png",
+    "stream_url": "https://sonic.mediacp.eu/8030/stream",
+    "website": "http://radiovesterbro.dk/",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "pop",
+      "news",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:35:28+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.vibes",
+    "name": "Radio Vibes",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/147760.v1.png",
+    "stream_url": "https://player.radiovibes.dk/radiovibes",
+    "website": "https://radiovibes.dk/",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "pop",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:32:52+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.vielsker",
+    "name": "Vi Elsker",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/147085.v1.png",
+    "stream_url": "https://netradio.skala.fm/vielsker",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "pop",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:32:51+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.vinyl",
+    "name": "Radio Vinyl",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/96860.v4.png",
+    "stream_url": "https://live-bauerdk.sharp-stream.com/Vinyl_dk.mp3",
+    "website": "https://radioplay.dk/radiovinyl/",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "60s"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:26:21+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.vinylhits",
+    "name": "Vinylhits",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/117902.v2.png",
+    "stream_url": "https://stream.vinylhits.dk/vinylmp3",
+    "website": "https://vinylhits.dk/",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "pop",
+      "90s",
+      "80s",
+      "70s"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:28:32+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.viponeworld",
+    "name": "VIPradio One World",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/132356.v3.png",
+    "stream_url": "https://usa6.fastcast4u.com/proxy/vipradio_one?mp=/1",
+    "website": "https://www.morevipradio.com/one-world/",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "disco",
+      "pop",
+      "90s",
+      "00s",
+      "80s",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:30:41+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.vivadk",
+    "name": "Radio Viva DK",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/148607.v1.png",
+    "stream_url": "https://vivaradio.live/listen/live/radio.mp3",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "pop",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:33:54+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.vlrvejle",
+    "name": "Radio VLR",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/11531.v8.png",
+    "stream_url": "https://netradio.vlr.dk/vlr9b",
+    "website": "http://vlr.dk/",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "rock",
+      "pop",
+      "news",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:26:22+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.voxinternational",
+    "name": "Vox Radio International - Danmark",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/133037.v1.png",
+    "stream_url": "https://quincy.torontocast.com:2640/stream",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "pop",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:34:48+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.webfmdk",
+    "name": "WEB fm dk",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/12700.v2.png",
+    "stream_url": "https://stream1.webfm.dk/Web192",
+    "website": "http://www.webfm.dk/",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "pop",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:32:52+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.weekend",
+    "name": "Radio Weekend",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/131176.v1.png",
+    "stream_url": "https://usa2.fastcast4u.com/proxy/rolars00?mp=/1",
+    "website": "https://radioweekend.dk/",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "disco",
+      "pop",
+      "90s",
+      "00s",
+      "80s",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:34:45+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.wls",
+    "name": "Radio WLS - DK",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/141324.v1.png",
+    "stream_url": "http://stream.radiowls.net:8268/stream",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "pop",
+      "90s",
+      "80s",
+      "70s",
+      "funk",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:31:54+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.worldmusic",
+    "name": "World Music Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/87222.v7.png",
+    "stream_url": "https://radioserver.dk/wmr.aac",
+    "website": "http://www.wmr.radio/",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "pop",
+      "90s",
+      "80s"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:27:21+05:30"
+  },
+  {
+    "id": "onlineradiobox_dk.xers",
+    "name": "XERS Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/139699.v1.png",
+    "stream_url": "https://cheetah.streemlion.com:3940/stream",
+    "website": "https://www.xers-radio.com/",
+    "provider": "onlineradiobox",
+    "country": "Denmark",
+    "genres": [
+      "disco",
+      "pop",
+      "90s",
+      "00s",
+      "80s",
+      "70s",
+      "funk",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:33:56+05:30"
+  }
+]

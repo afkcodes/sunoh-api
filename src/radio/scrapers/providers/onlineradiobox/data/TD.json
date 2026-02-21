@@ -1,0 +1,111 @@
+[
+  {
+    "id": "onlineradiobox_td.antennawebndjamena",
+    "name": "Antenna Web N&#39;Djamena",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/134320.v2.png",
+    "stream_url": "https://tinyurl.com/AntennaWebCiad",
+    "website": "https://antennaweb.it/antennaweb-ndjamena/",
+    "provider": "onlineradiobox",
+    "country": "Chad",
+    "genres": [
+      "rock",
+      "pop",
+      "blues",
+      "jazz",
+      "funk",
+      "reggaeton"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:49:42+05:30"
+  },
+  {
+    "id": "onlineradiobox_td.gnchad",
+    "name": "Gn Radio Chad",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/150085.v1.png",
+    "stream_url": "https://a11.asurahosting.com:7360/chad.mp3",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Chad",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:49:43+05:30"
+  },
+  {
+    "id": "onlineradiobox_td.hero",
+    "name": "Hero Radio (Chad)",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/139027.v1.png",
+    "stream_url": "https://a2.asurahosting.com:6790/chad.mp3",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Chad",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:49:44+05:30"
+  },
+  {
+    "id": "onlineradiobox_td.lrcm",
+    "name": "LRCM Radio (Chad)",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/153038.v2.png",
+    "stream_url": "https://a8.asurahosting.com:8950/chad.mp3",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Chad",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:49:43+05:30"
+  },
+  {
+    "id": "onlineradiobox_td.manarafm",
+    "name": "Manara FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/146489.v1.png",
+    "stream_url": "https://listen.radioking.com/radio/716657/stream/782342",
+    "website": "https://manara.td/",
+    "provider": "onlineradiobox",
+    "country": "Chad",
+    "genres": [
+      "news",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:49:44+05:30"
+  },
+  {
+    "id": "onlineradiobox_td.voafrenchchad",
+    "name": "VOA French Chad",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/42436.v5.png",
+    "stream_url": "http://voa-7.ng.akacast.akamaistream.net/7/977/322019/v1/ibb.akacast.akamaistream.net/voa-7",
+    "website": "http://www.voaafrique.com/",
+    "provider": "onlineradiobox",
+    "country": "Chad",
+    "genres": [
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:49:42+05:30"
+  }
+]

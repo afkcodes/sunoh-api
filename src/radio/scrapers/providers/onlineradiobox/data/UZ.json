@@ -1,0 +1,314 @@
+[
+  {
+    "id": "onlineradiobox_uz.alo",
+    "name": "РАДИО &#34;Аъло ФМ&#34;",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/43391.v2.png",
+    "stream_url": "http://tabassum.uz:9000/alo_low",
+    "website": "http://tabassum.uz/",
+    "provider": "onlineradiobox",
+    "country": "Uzbekistan",
+    "genres": [
+      "folk",
+      "comedy"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:16:19+05:30"
+  },
+  {
+    "id": "onlineradiobox_uz.dushanbenavo",
+    "name": "DUSHANBE NAVO",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/85515.v16.png",
+    "stream_url": "https://myradio24.org/6917",
+    "website": "https://dushanbenavo.uz/radio-dushanbe-navo/",
+    "provider": "onlineradiobox",
+    "country": "Uzbekistan",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:16:24+05:30"
+  },
+  {
+    "id": "onlineradiobox_uz.grande",
+    "name": "Радио  Гранд FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/43394.v5.png",
+    "stream_url": "https://str1.tvcom.uz/RADIO-GRAND/shoutcast",
+    "website": "http://www.grand.uz/",
+    "provider": "onlineradiobox",
+    "country": "Uzbekistan",
+    "genres": [
+      "pop",
+      "top40",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:16:23+05:30"
+  },
+  {
+    "id": "onlineradiobox_uz.markaz",
+    "name": "Radio Markaz Online",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/143489.v1.png",
+    "stream_url": "http://mediamarkaz.com:8000/radiomarkaz",
+    "website": "http://mediamarkaz.com/",
+    "provider": "onlineradiobox",
+    "country": "Uzbekistan",
+    "genres": [
+      "comedy"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:16:26+05:30"
+  },
+  {
+    "id": "onlineradiobox_uz.maxima1054",
+    "name": "RADIO MAXIMA",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/72544.v5.png",
+    "stream_url": "https://classicfm.uz:8444/maxima.ogg",
+    "website": "http://maxima.uz/",
+    "provider": "onlineradiobox",
+    "country": "Uzbekistan",
+    "genres": [
+      "pop",
+      "talk",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:16:21+05:30"
+  },
+  {
+    "id": "onlineradiobox_uz.navroz",
+    "name": "Navroz FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/43385.v7.png",
+    "stream_url": "http://navruzfm.uz:9000/navruz_low",
+    "website": "http://www.navruzfm.uz/",
+    "provider": "onlineradiobox",
+    "country": "Uzbekistan",
+    "genres": [
+      "pop",
+      "news",
+      "talk",
+      "business"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:16:21+05:30"
+  },
+  {
+    "id": "onlineradiobox_uz.nokisfm",
+    "name": "No&#39;kis FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/133362.v2.png",
+    "stream_url": "http://185.196.214.70:8000/live",
+    "website": "http://nukusfm.uz/",
+    "provider": "onlineradiobox",
+    "country": "Uzbekistan",
+    "genres": [
+      "pop",
+      "folk",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:16:27+05:30"
+  },
+  {
+    "id": "onlineradiobox_uz.nostalgie",
+    "name": "Nostalgie FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/150474.v2.png",
+    "stream_url": "https://classicfm.uz:8444/nostalgie.ogg",
+    "website": "https://maxima.uz/index6.html",
+    "provider": "onlineradiobox",
+    "country": "Uzbekistan",
+    "genres": [
+      "retro",
+      "oldies"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:16:23+05:30"
+  },
+  {
+    "id": "onlineradiobox_uz.oriatdono",
+    "name": "РАДИО &#34;Ориат Доно&#34;",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/43389.v7.png",
+    "stream_url": "http://www.oriatdono.uz/",
+    "website": "http://www.oriatdono.uz/",
+    "provider": "onlineradiobox",
+    "country": "Uzbekistan",
+    "genres": [
+      "pop",
+      "news",
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:16:24+05:30"
+  },
+  {
+    "id": "onlineradiobox_uz.ozbegimtaronasi",
+    "name": "Radio O&#39;zbegim Taronasi",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/43384.v5.png",
+    "stream_url": "https://fm101.uz:9943/fm101_low.aac",
+    "website": "http://fm101.uz/",
+    "provider": "onlineradiobox",
+    "country": "Uzbekistan",
+    "genres": [
+      "pop",
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:16:20+05:30"
+  },
+  {
+    "id": "onlineradiobox_uz.pinkunicorn",
+    "name": "Pink Unicorn Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/125343.v1.png",
+    "stream_url": "https://myradio24.org/unicorn",
+    "website": "https://pinkunicornrec.wixsite.com/home",
+    "provider": "onlineradiobox",
+    "country": "Uzbekistan",
+    "genres": [
+      "hard rock"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:16:24+05:30"
+  },
+  {
+    "id": "onlineradiobox_uz.qalbimnavosi",
+    "name": "Qalbim Navosi",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/81214.v14.png",
+    "stream_url": "https://live.qalbimnavosi.uz/qalbimnavosi",
+    "website": "http://qalbimnavosi.uz/",
+    "provider": "onlineradiobox",
+    "country": "Uzbekistan",
+    "genres": [
+      "pop",
+      "top40",
+      "romantic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:16:20+05:30"
+  },
+  {
+    "id": "onlineradiobox_uz.retro",
+    "name": "Retro FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/150473.v1.png",
+    "stream_url": "https://classicfm.uz:8444/retrofm.ogg",
+    "website": "https://retrofm.uz/",
+    "provider": "onlineradiobox",
+    "country": "Uzbekistan",
+    "genres": [
+      "90s",
+      "80s",
+      "70s",
+      "60s"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:16:26+05:30"
+  },
+  {
+    "id": "onlineradiobox_uz.sezam",
+    "name": "Sezam FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/103761.v6.png",
+    "stream_url": "https://stream.zeno.fm/70r1uhccrchvv",
+    "website": "http://sezamfm.com/",
+    "provider": "onlineradiobox",
+    "country": "Uzbekistan",
+    "genres": [
+      "pop",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:16:22+05:30"
+  },
+  {
+    "id": "onlineradiobox_uz.temp",
+    "name": "Temp FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/147683.v2.png",
+    "stream_url": "https://tempradio-live.uz/streamaac",
+    "website": "https://temp.fm/",
+    "provider": "onlineradiobox",
+    "country": "Uzbekistan",
+    "genres": [
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:16:25+05:30"
+  },
+  {
+    "id": "onlineradiobox_uz.timsol",
+    "name": "Timsol Online Radiosi",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/132069.v7.png",
+    "stream_url": "https://stream.zeno.fm/cqtrku1o8bbuv",
+    "website": "https://timsolfm.uz/",
+    "provider": "onlineradiobox",
+    "country": "Uzbekistan",
+    "genres": [
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:16:25+05:30"
+  },
+  {
+    "id": "onlineradiobox_uz.uzbek",
+    "name": "РАДИО &#34;Uzbek.FM&#34;",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/43392.v4.png",
+    "stream_url": "http://yayin.turkhosted.com:7034/;",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Uzbekistan",
+    "genres": [
+      "pop",
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:16:22+05:30"
+  }
+]

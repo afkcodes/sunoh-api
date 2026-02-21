@@ -1,0 +1,221 @@
+[
+  {
+    "id": "onlineradiobox_bw.antennawebgaborone",
+    "name": "Antenna Web Gaborone",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/134247.v3.png",
+    "stream_url": "https://tinyurl.com/AntennaWebGaborone",
+    "website": "https://antennaweb.it/antennaweb-gaborone/",
+    "provider": "onlineradiobox",
+    "country": "Botswana",
+    "genres": [
+      "rock",
+      "pop",
+      "blues",
+      "jazz",
+      "funk",
+      "reggaeton"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:23:47+05:30"
+  },
+  {
+    "id": "onlineradiobox_bw.gabz",
+    "name": "Gabz FM",
+    "image": "https://cdn.onlineradiobox.com/img/logo/0/29470.png",
+    "stream_url": "http://fmt01.egihosting.com:17721/;",
+    "website": "http://www.gabzfm.com/",
+    "provider": "onlineradiobox",
+    "country": "Botswana",
+    "genres": [
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:23:46+05:30"
+  },
+  {
+    "id": "onlineradiobox_bw.hero",
+    "name": "Hero Radio (Botswana)",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/139071.v1.png",
+    "stream_url": "https://a2.asurahosting.com:6790/botswana.mp3",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Botswana",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:23:52+05:30"
+  },
+  {
+    "id": "onlineradiobox_bw.jazzysoul",
+    "name": "JazzySoul Radio Nata",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/73373.v14.png",
+    "stream_url": "https://az13.yesstreaming.net:8360/radio.mp3",
+    "website": "https://jazzysoulradio.wixsite.com/djjazzypete",
+    "provider": "onlineradiobox",
+    "country": "Botswana",
+    "genres": [
+      "r'n'b",
+      "jazz",
+      "soul",
+      "african"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:23:46+05:30"
+  },
+  {
+    "id": "onlineradiobox_bw.lrcm",
+    "name": "LRCM Radio (Botswana)",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/153063.v2.png",
+    "stream_url": "https://a8.asurahosting.com:8950/botswana.mp3",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Botswana",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:23:51+05:30"
+  },
+  {
+    "id": "onlineradiobox_bw.mambokadzidream",
+    "name": "Mambokadzi DreamRadio",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/142475.v1.png",
+    "stream_url": "https://cast3.asurahosting.com/proxy/dreamradio/stream.mp3",
+    "website": "https://www.mambokadzidreamradio.com/",
+    "provider": "onlineradiobox",
+    "country": "Botswana",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:23:47+05:30"
+  },
+  {
+    "id": "onlineradiobox_bw.moagisharp",
+    "name": "Moagi Sharp FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/147430.v3.png",
+    "stream_url": "https://listen.radioking.com/radio/725168/stream/791126",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Botswana",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:23:49+05:30"
+  },
+  {
+    "id": "onlineradiobox_bw.soheavenly",
+    "name": "SoHeavenly Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/124213.v4.png",
+    "stream_url": "https://s4.radio.co/s5454327ce/listen",
+    "website": "https://www.soheavenlyradio.com/",
+    "provider": "onlineradiobox",
+    "country": "Botswana",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:23:50+05:30"
+  },
+  {
+    "id": "onlineradiobox_bw.thecross",
+    "name": "The Cross FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/89191.v11.png",
+    "stream_url": "https://stream.radiojar.com/pwd30v5rv98uv",
+    "website": "https://thecrosstsn.com/",
+    "provider": "onlineradiobox",
+    "country": "Botswana",
+    "genres": [
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:23:53+05:30"
+  },
+  {
+    "id": "onlineradiobox_bw.tzgospelswahili",
+    "name": "Tzgospel Swahili (Botswana)",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/119047.v5.png",
+    "stream_url": "https://stream.zeno.fm/uwatum93tchvv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Botswana",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:23:50+05:30"
+  },
+  {
+    "id": "onlineradiobox_bw.yarona",
+    "name": "Yarona FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/29474.v4.png",
+    "stream_url": "http://capeant.antfarm.co.za:8000/yarona",
+    "website": "http://www.yaronafm.co.bw/",
+    "provider": "onlineradiobox",
+    "country": "Botswana",
+    "genres": [
+      "rock",
+      "pop",
+      "hip-hop",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:23:45+05:30"
+  },
+  {
+    "id": "onlineradiobox_bw.zananylive",
+    "name": "Zanany Live",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/110209.v8.png",
+    "stream_url": "https://stream.radiojar.com/1x0nma462znwv",
+    "website": "https://zanany.com/",
+    "provider": "onlineradiobox",
+    "country": "Botswana",
+    "genres": [
+      "r'n'b",
+      "pop",
+      "hip-hop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:23:48+05:30"
+  }
+]

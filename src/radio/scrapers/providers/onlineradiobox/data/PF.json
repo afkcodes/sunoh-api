@@ -1,0 +1,278 @@
+[
+  {
+    "id": "onlineradiobox_pf.236radio",
+    "name": "23.6 Radio Tahiti",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/153170.v6.png",
+    "stream_url": "https://uksoutha.streaming.broadcast.radio/236-radio-tahiti",
+    "website": "https://236radio.com/",
+    "provider": "onlineradiobox",
+    "country": "French Polynesia",
+    "genres": [
+      "pop",
+      "rap",
+      "hip-hop",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:43:53+05:30"
+  },
+  {
+    "id": "onlineradiobox_pf.antennawebpapeete",
+    "name": "Antenna Web Papeete",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/138390.v2.png",
+    "stream_url": "https://tinyurl.com/Antenna-Web-Papeete",
+    "website": "https://antennaweb.it/antenna-web-papeete/",
+    "provider": "onlineradiobox",
+    "country": "French Polynesia",
+    "genres": [
+      "rock",
+      "pop",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:44:00+05:30"
+  },
+  {
+    "id": "onlineradiobox_pf.api",
+    "name": "API FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/145703.v1.png",
+    "stream_url": "https://listen.radioking.com/radio/397657/stream/449626",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "French Polynesia",
+    "genres": [
+      "pop",
+      "news"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:44:00+05:30"
+  },
+  {
+    "id": "onlineradiobox_pf.beta",
+    "name": "Station Beta",
+    "image": "https://cdn.onlineradiobox.com/img/logo/8/124868.png",
+    "stream_url": "https://stream.zeno.fm/yaloqrl3w2fuv",
+    "website": "https://beta.co.ke/",
+    "provider": "onlineradiobox",
+    "country": "French Polynesia",
+    "genres": [
+      "pop",
+      "top40",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:43:58+05:30"
+  },
+  {
+    "id": "onlineradiobox_pf.hits1",
+    "name": "Hits 1 Tahiti",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/92878.v20.png",
+    "stream_url": "https://stream.hd1.hits1radio.com/?15",
+    "website": "https://www.hits1radio.com/",
+    "provider": "onlineradiobox",
+    "country": "French Polynesia",
+    "genres": [
+      "dance",
+      "electronic",
+      "pop",
+      "club",
+      "top40",
+      "latin",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:43:55+05:30"
+  },
+  {
+    "id": "onlineradiobox_pf.lvdl",
+    "name": "Radio LVDL",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/151350.v7.png",
+    "stream_url": "https://listen.radioking.com/radio/3318/stream/63163",
+    "website": "https://lvdl.pf/",
+    "provider": "onlineradiobox",
+    "country": "French Polynesia",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:43:59+05:30"
+  },
+  {
+    "id": "onlineradiobox_pf.marevareva",
+    "name": "Marevareva Radio Tahiti",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/146306.v4.png",
+    "stream_url": "https://listen.radioking.com/radio/459392/stream/514604",
+    "website": "https://www.marevarevaradio-tahiti.com/",
+    "provider": "onlineradiobox",
+    "country": "French Polynesia",
+    "genres": [
+      "pop",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:44:01+05:30"
+  },
+  {
+    "id": "onlineradiobox_pf.nrjtahiti",
+    "name": "NRJ Tahiti",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/145704.v2.png",
+    "stream_url": "https://listen.radioking.com/radio/397660/stream/449635",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "French Polynesia",
+    "genres": [
+      "pop",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:43:57+05:30"
+  },
+  {
+    "id": "onlineradiobox_pf.paofai",
+    "name": "Radio PAOFAI",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/151485.v1.png",
+    "stream_url": "http://uk23freenew.listen2myradio.com:22305/stream",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "French Polynesia",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:43:53+05:30"
+  },
+  {
+    "id": "onlineradiobox_pf.polynesie1ere",
+    "name": "Polynésie 1ère",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/13335.v7.png",
+    "stream_url": "https://polynesie.ice.infomaniak.ch/polynesie-128.mp3",
+    "website": "http://la1ere.francetvinfo.fr/polynesie/radio",
+    "provider": "onlineradiobox",
+    "country": "French Polynesia",
+    "genres": [
+      "r'n'b",
+      "pop",
+      "news",
+      "talk",
+      "rap",
+      "hip-hop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:43:53+05:30"
+  },
+  {
+    "id": "onlineradiobox_pf.radio1",
+    "name": "Radio 1",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/43904.v5.png",
+    "stream_url": "https://live.radio1.pf:8443/radio1",
+    "website": "https://www.radio1.pf/jeu-bruce-springsteen-a-auckland/",
+    "provider": "onlineradiobox",
+    "country": "French Polynesia",
+    "genres": [
+      "pop",
+      "news",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:43:55+05:30"
+  },
+  {
+    "id": "onlineradiobox_pf.skylegend",
+    "name": "Skylegend",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/55446.v14.png",
+    "stream_url": "http://173.212.250.212:8200/stream",
+    "website": "https://www.skylegend2024.fr/",
+    "provider": "onlineradiobox",
+    "country": "French Polynesia",
+    "genres": [
+      "dance",
+      "house",
+      "rock",
+      "pop",
+      "90s",
+      "80s",
+      "oldies"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:43:54+05:30"
+  },
+  {
+    "id": "onlineradiobox_pf.tahiticoco",
+    "name": "Tahiti Coco Web",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/145163.v6.png",
+    "stream_url": "https://listen.radioking.com/radio/694694/stream/759533",
+    "website": "https://www.mauisoundtahiti.com/tahiticocoweb",
+    "provider": "onlineradiobox",
+    "country": "French Polynesia",
+    "genres": [
+      "electronic",
+      "rock",
+      "news",
+      "reggae"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:43:56+05:30"
+  },
+  {
+    "id": "onlineradiobox_pf.tiare",
+    "name": "Tiare FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/43905.v7.png",
+    "stream_url": "https://live.tiarefm.pf:8443/tiarefm?ver=982991",
+    "website": "https://www.tiarefm.pf/",
+    "provider": "onlineradiobox",
+    "country": "French Polynesia",
+    "genres": [
+      "dance",
+      "pop",
+      "news",
+      "folk",
+      "reggae"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:43:52+05:30"
+  }
+]

@@ -1,0 +1,397 @@
+[
+  {
+    "id": "onlineradiobox_jo.alanbattest",
+    "name": "alanbat test Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/145356.v2.png",
+    "stream_url": "https://listen.radioking.com/radio/669520/stream/733570",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Jordan",
+    "genres": [
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:31:06+05:30"
+  },
+  {
+    "id": "onlineradiobox_jo.alrasheedfm",
+    "name": "Al Rasheed FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/43612.v1.png",
+    "stream_url": "http://alrasheedfm.in/;",
+    "website": "http://www.alrasheedfm.com/",
+    "provider": "onlineradiobox",
+    "country": "Jordan",
+    "genres": [
+      "dance",
+      "pop",
+      "folk",
+      "arabic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:31:04+05:30"
+  },
+  {
+    "id": "onlineradiobox_jo.ammannet",
+    "name": "Radio Al-Balad 92.5 راديو البلد",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/43514.v2.png",
+    "stream_url": "http://s3.voscast.com:8964/;stream1653312509934/1",
+    "website": "http://ar.ammannet.net/",
+    "provider": "onlineradiobox",
+    "country": "Jordan",
+    "genres": [
+      "pop",
+      "news",
+      "folk",
+      "oldies",
+      "turkish"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:31:00+05:30"
+  },
+  {
+    "id": "onlineradiobox_jo.balad924",
+    "name": "Balad 92.4 fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/82920.v2.png",
+    "stream_url": "https://live.ammannet.net/",
+    "website": "https://ammannet.net/",
+    "provider": "onlineradiobox",
+    "country": "Jordan",
+    "genres": [],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:31:08+05:30"
+  },
+  {
+    "id": "onlineradiobox_jo.beat",
+    "name": "Beat FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/43440.v4.png",
+    "stream_url": "https://securestreams2.autopo.st:1242/live",
+    "website": "http://www.mybeat.fm/",
+    "provider": "onlineradiobox",
+    "country": "Jordan",
+    "genres": [
+      "dance",
+      "r'n'b",
+      "pop",
+      "hip-hop",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:30:56+05:30"
+  },
+  {
+    "id": "onlineradiobox_jo.dahab",
+    "name": "Radio Dahab",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/63055.v9.png",
+    "stream_url": "https://dahab.ice.infomaniak.ch/dahab-192.mp3",
+    "website": "http://www.radiodahab.com/",
+    "provider": "onlineradiobox",
+    "country": "Jordan",
+    "genres": [
+      "talk",
+      "classic",
+      "arabic",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:30:55+05:30"
+  },
+  {
+    "id": "onlineradiobox_jo.fannjordan",
+    "name": "Radio Fann-Jordan",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/43531.v11.png",
+    "stream_url": "http://82.212.85.195:8101/;",
+    "website": "http://www.radiofann.com/en",
+    "provider": "onlineradiobox",
+    "country": "Jordan",
+    "genres": [
+      "arabic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:31:02+05:30"
+  },
+  {
+    "id": "onlineradiobox_jo.hala",
+    "name": "Radio Hala",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/49590.v7.png",
+    "stream_url": "https://hala-alrayamedia.radioca.st/;",
+    "website": "http://www.hala.jo/",
+    "provider": "onlineradiobox",
+    "country": "Jordan",
+    "genres": [
+      "pop",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:30:57+05:30"
+  },
+  {
+    "id": "onlineradiobox_jo.hayat",
+    "name": "Hayat FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/43464.v5.png",
+    "stream_url": "https://samson.streamerr.co:8081/hayatfm/index.m3u8",
+    "website": "http://www.hayat.fm/ar/Default.aspx",
+    "provider": "onlineradiobox",
+    "country": "Jordan",
+    "genres": [
+      "talk",
+      "islamic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:30:59+05:30"
+  },
+  {
+    "id": "onlineradiobox_jo.husna",
+    "name": "Husna FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/95730.v11.png",
+    "stream_url": "http://s2.voscast.com:10444/stream",
+    "website": "http://www.husna.fm/",
+    "provider": "onlineradiobox",
+    "country": "Jordan",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:31:03+05:30"
+  },
+  {
+    "id": "onlineradiobox_jo.jordansattv",
+    "name": "Jordan Sat TV",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/43515.v4.png",
+    "stream_url": "http://stream.joinvisions.net:1935/live/en/playlist.m3u8",
+    "website": "http://www.jrtv.jo/?lang=ar",
+    "provider": "onlineradiobox",
+    "country": "Jordan",
+    "genres": [
+      "news",
+      "talk",
+      "sports",
+      "politics"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:31:06+05:30"
+  },
+  {
+    "id": "onlineradiobox_jo.jufm",
+    "name": "JU Fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/67155.v7.png",
+    "stream_url": "http://jufmstreaming.ju.edu.jo/;",
+    "website": "http://jufm.ju.edu.jo/Home.aspx",
+    "provider": "onlineradiobox",
+    "country": "Jordan",
+    "genres": [
+      "news",
+      "arabic",
+      "culture",
+      "education"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:30:58+05:30"
+  },
+  {
+    "id": "onlineradiobox_jo.mazaj",
+    "name": "Mazaj FM - مزاج اف ام",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/43386.v10.png",
+    "stream_url": "https://mazajfm.ice.infomaniak.ch/mazajfm-192.mp3",
+    "website": "http://www.mazaj.fm/",
+    "provider": "onlineradiobox",
+    "country": "Jordan",
+    "genres": [
+      "pop",
+      "news",
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:30:55+05:30"
+  },
+  {
+    "id": "onlineradiobox_jo.mood92",
+    "name": "Mood 92",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/43439.v4.png",
+    "stream_url": "https://securestreams2.autopo.st:1241/live",
+    "website": "http://www.mood.fm/",
+    "provider": "onlineradiobox",
+    "country": "Jordan",
+    "genres": [
+      "rock",
+      "pop",
+      "top40",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:30:56+05:30"
+  },
+  {
+    "id": "onlineradiobox_jo.play",
+    "name": "Play FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/43438.v15.png",
+    "stream_url": "https://play995.radioca.st//stream",
+    "website": "http://play.jo/",
+    "provider": "onlineradiobox",
+    "country": "Jordan",
+    "genres": [
+      "dance",
+      "r'n'b",
+      "pop",
+      "news",
+      "hip-hop",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:30:57+05:30"
+  },
+  {
+    "id": "onlineradiobox_jo.rabeealqloub",
+    "name": "Rabee Al Qloub",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/43567.v4.png",
+    "stream_url": "http://radio-ssl.com:8006/stream",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Jordan",
+    "genres": [
+      "talk",
+      "islamic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:30:59+05:30"
+  },
+  {
+    "id": "onlineradiobox_jo.radiosawajordan",
+    "name": "Radio Sawa Jordan",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/43657.v5.png",
+    "stream_url": "https://stream.radiojar.com/whbvyphna3quv",
+    "website": "http://www.radiosawa.com/",
+    "provider": "onlineradiobox",
+    "country": "Jordan",
+    "genres": [
+      "dance",
+      "r'n'b",
+      "pop",
+      "news",
+      "talk",
+      "hip-hop",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:31:01+05:30"
+  },
+  {
+    "id": "onlineradiobox_jo.rotana",
+    "name": "Rotana FM Jordan",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/43283.v17.png",
+    "stream_url": "http://82.212.85.198:8101/;",
+    "website": "http://www.rotanaradio.jo/index.php",
+    "provider": "onlineradiobox",
+    "country": "Jordan",
+    "genres": [
+      "arabic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:31:03+05:30"
+  },
+  {
+    "id": "onlineradiobox_jo.rotanatarab",
+    "name": "Rotana Tarab",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/64028.v10.png",
+    "stream_url": "http://82.212.85.196:8101/;",
+    "website": "http://www.rotanaradio.jo/",
+    "provider": "onlineradiobox",
+    "country": "Jordan",
+    "genres": [
+      "arabic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:30:54+05:30"
+  },
+  {
+    "id": "onlineradiobox_jo.tareqalnassermusic",
+    "name": "Tareq Al Nasser Music",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/152975.v1.png",
+    "stream_url": "https://listen.radioking.com/radio/782726/stream/850381",
+    "website": "https://tareqalnasser.com/",
+    "provider": "onlineradiobox",
+    "country": "Jordan",
+    "genres": [
+      "romantic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:31:07+05:30"
+  },
+  {
+    "id": "onlineradiobox_jo.tzgospelswahili",
+    "name": "Tzgospel swahili (Jordan)",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/119741.v4.png",
+    "stream_url": "https://stream.zeno.fm/c69xzeba7ehvv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Jordan",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:31:05+05:30"
+  }
+]

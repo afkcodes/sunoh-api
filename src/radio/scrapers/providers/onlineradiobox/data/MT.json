@@ -1,0 +1,810 @@
+[
+  {
+    "id": "onlineradiobox_mt.africanmediaassociation",
+    "name": "African Media Association Malta Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/121604.v4.png",
+    "stream_url": "https://stream.zeno.fm/bg2zy31banzuv",
+    "website": "http://www.africanmediamalta.com/",
+    "provider": "onlineradiobox",
+    "country": "Malta",
+    "genres": [
+      "pop",
+      "african"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:04:36+05:30"
+  },
+  {
+    "id": "onlineradiobox_mt.allrockradio",
+    "name": "All Rock Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/9028.v6.png",
+    "stream_url": "http://s6.reliastream.com:8296/;",
+    "website": "http://www.allrockmalta.com/",
+    "provider": "onlineradiobox",
+    "country": "Malta",
+    "genres": [
+      "rock",
+      "classic rock",
+      "metal",
+      "alternative rock",
+      "indie rock"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:03:51+05:30"
+  },
+  {
+    "id": "onlineradiobox_mt.antennaweb",
+    "name": "Antenna Web La Valletta",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/129320.v11.png",
+    "stream_url": "https://malta.radioantennaweb.com/LaValletta",
+    "website": "https://antennaweb.it/antennaweb-la-valletta/",
+    "provider": "onlineradiobox",
+    "country": "Malta",
+    "genres": [
+      "rock",
+      "pop",
+      "blues",
+      "jazz",
+      "funk",
+      "latin"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:04:01+05:30"
+  },
+  {
+    "id": "onlineradiobox_mt.antennawebghajnsielem",
+    "name": "Antenna Web Għajnsielem",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/135762.v3.png",
+    "stream_url": "https://malta.radioantennaweb.com/Ghajnsielem",
+    "website": "https://antennaweb.it/antennaweb-ghajnsielem/",
+    "provider": "onlineradiobox",
+    "country": "Malta",
+    "genres": [
+      "rock",
+      "pop",
+      "blues",
+      "jazz",
+      "funk",
+      "reggaeton"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:03:59+05:30"
+  },
+  {
+    "id": "onlineradiobox_mt.awmalta",
+    "name": "AW Malta",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/150509.v1.png",
+    "stream_url": "https://malta.radioantennaweb.com/Valletta",
+    "website": "https://antennaweb.it/awmalta/",
+    "provider": "onlineradiobox",
+    "country": "Malta",
+    "genres": [
+      "rock",
+      "pop",
+      "blues",
+      "hard rock",
+      "metal",
+      "jazz",
+      "country",
+      "funk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:04:37+05:30"
+  },
+  {
+    "id": "onlineradiobox_mt.bayradio",
+    "name": "Bay Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/8685.v8.png",
+    "stream_url": "https://stream.v3.network/proxy/897bay/stream.mp3?_=1",
+    "website": "http://www.bay.com.mt/",
+    "provider": "onlineradiobox",
+    "country": "Malta",
+    "genres": [
+      "pop",
+      "news",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:03:47+05:30"
+  },
+  {
+    "id": "onlineradiobox_mt.bkr",
+    "name": "BKR",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/124548.v3.png",
+    "stream_url": "https://s3.voscast.com:10893/stream",
+    "website": "http://www.bkr.mt/",
+    "provider": "onlineradiobox",
+    "country": "Malta",
+    "genres": [
+      "talk",
+      "variety",
+      "community"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:04:39+05:30"
+  },
+  {
+    "id": "onlineradiobox_mt.buzzfm",
+    "name": "Buzz FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/119779.v2.png",
+    "stream_url": "https://stream.zeno.fm/vxnpgfkqhi8uv",
+    "website": "https://zeno.fm/radio/buzz-fm-srf9/",
+    "provider": "onlineradiobox",
+    "country": "Malta",
+    "genres": [
+      "classic rock",
+      "80s"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:04:02+05:30"
+  },
+  {
+    "id": "onlineradiobox_mt.calypsoten18",
+    "name": "Calypso Radio 101.8",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/8743.v8.png",
+    "stream_url": "https://s4.radio.co/sf3aa4c25a/listen",
+    "website": "http://www.calypsoradio.com/",
+    "provider": "onlineradiobox",
+    "country": "Malta",
+    "genres": [
+      "90s",
+      "80s",
+      "70s"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:03:49+05:30"
+  },
+  {
+    "id": "onlineradiobox_mt.campus",
+    "name": "Campus FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/113311.v6.png",
+    "stream_url": "https://campusfm.radioca.st/campusfm_live",
+    "website": "https://campusfm.um.edu.mt/",
+    "provider": "onlineradiobox",
+    "country": "Malta",
+    "genres": [
+      "talk",
+      "education"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:03:57+05:30"
+  },
+  {
+    "id": "onlineradiobox_mt.city98",
+    "name": "Radio City 98 FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/121934.v6.png",
+    "stream_url": "http://freeuk18.listen2myradio.com:28250/;",
+    "website": "https://radiocity98fm.radiostream321.com/",
+    "provider": "onlineradiobox",
+    "country": "Malta",
+    "genres": [
+      "community"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:04:41+05:30"
+  },
+  {
+    "id": "onlineradiobox_mt.comedyrock",
+    "name": "Comedy Rock Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/8708.v7.png",
+    "stream_url": "https://s9.voscast.com:9189/stream.ogg",
+    "website": "http://www.comedy-rock.com/",
+    "provider": "onlineradiobox",
+    "country": "Malta",
+    "genres": [
+      "classic rock",
+      "comedy"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:03:56+05:30"
+  },
+  {
+    "id": "onlineradiobox_mt.energy",
+    "name": "Energy radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/50384.v2.png",
+    "stream_url": "http://37.187.93.104:8812/;",
+    "website": "http://www.energywebradio.net/",
+    "provider": "onlineradiobox",
+    "country": "Malta",
+    "genres": [
+      "rock",
+      "pop",
+      "soul"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:03:59+05:30"
+  },
+  {
+    "id": "onlineradiobox_mt.fantasymalta",
+    "name": "Fantasy Radio Malta",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/117895.v8.png",
+    "stream_url": "https://stream.zeno.fm/3fec5ry0w0hvv",
+    "website": "https://fantasyradiomalta.wixsite.com/fantasy-radio-malta",
+    "provider": "onlineradiobox",
+    "country": "Malta",
+    "genres": [
+      "pop",
+      "80s",
+      "oldies",
+      "italian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:04:38+05:30"
+  },
+  {
+    "id": "onlineradiobox_mt.hero",
+    "name": "Hero Radio (Malta)",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/147011.v1.png",
+    "stream_url": "https://a2.asurahosting.com:6790/malta.mp3",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Malta",
+    "genres": [
+      "news",
+      "gospel",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:04:41+05:30"
+  },
+  {
+    "id": "onlineradiobox_mt.hits1",
+    "name": "Hits 1 Malta",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/152416.v4.png",
+    "stream_url": "https://hits1-audiomediaradio.radioca.st/hits1?malta",
+    "website": "https://www.hits1radio.com/",
+    "provider": "onlineradiobox",
+    "country": "Malta",
+    "genres": [
+      "dance",
+      "electronic",
+      "pop",
+      "top40",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:04:40+05:30"
+  },
+  {
+    "id": "onlineradiobox_mt.lehenil-beltgorgjana",
+    "name": "Lehen il-Belt Gorgjana",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/121935.v2.png",
+    "stream_url": "http://s37.myradiostream.com:9088/listen.mp3",
+    "website": "https://beltgorgjana.webs.com/listen-live-2",
+    "provider": "onlineradiobox",
+    "country": "Malta",
+    "genres": [
+      "community"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:04:42+05:30"
+  },
+  {
+    "id": "onlineradiobox_mt.likeone",
+    "name": "Like One Malta",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/121700.v3.png",
+    "stream_url": "https://likeradiostream.com/likeoneuk",
+    "website": "https://likemedia.group/radio/",
+    "provider": "onlineradiobox",
+    "country": "Malta",
+    "genres": [
+      "pop",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:04:38+05:30"
+  },
+  {
+    "id": "onlineradiobox_mt.livinglifeinmalta",
+    "name": "Living Life In Malta Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/121663.v4.png",
+    "stream_url": "https://s1.voscast.com:10237/stream",
+    "website": "https://www.livinglifeinmalta.com/radio",
+    "provider": "onlineradiobox",
+    "country": "Malta",
+    "genres": [
+      "90s",
+      "80s",
+      "70s",
+      "oldies",
+      "60s"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:04:03+05:30"
+  },
+  {
+    "id": "onlineradiobox_mt.magicmalta",
+    "name": "Magic Malta Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/7992.v11.png",
+    "stream_url": "https://tvmi.mt/live/5",
+    "website": "https://www.tvm.com.mt/mt/radju",
+    "provider": "onlineradiobox",
+    "country": "Malta",
+    "genres": [
+      "rock",
+      "pop",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:03:50+05:30"
+  },
+  {
+    "id": "onlineradiobox_mt.malta2",
+    "name": "Radju Malta 2",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/77651.v6.png",
+    "stream_url": "http://s11.myradiostream.com:4954/;",
+    "website": "https://www.tvm.com.mt/mt/radju",
+    "provider": "onlineradiobox",
+    "country": "Malta",
+    "genres": [
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:04:37+05:30"
+  },
+  {
+    "id": "onlineradiobox_mt.maltasunshine",
+    "name": "Malta Sunshine Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/82967.v32.png",
+    "stream_url": "https://stream.zeno.fm/14gzk46p7yzuv",
+    "website": "https://maltasunshineradio.wixsite.com/valletta",
+    "provider": "onlineradiobox",
+    "country": "Malta",
+    "genres": [
+      "90s",
+      "00s",
+      "80s",
+      "70s",
+      "60s"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:03:58+05:30"
+  },
+  {
+    "id": "onlineradiobox_mt.maltinbiss",
+    "name": "Maltin Biss",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/121992.v1.png",
+    "stream_url": "https://s4.voscast.com:8837/default",
+    "website": "https://maltinbiss.mt/",
+    "provider": "onlineradiobox",
+    "country": "Malta",
+    "genres": [
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:03:55+05:30"
+  },
+  {
+    "id": "onlineradiobox_mt.mediterranea",
+    "name": "Mediterranea Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/136862.v2.png",
+    "stream_url": "https://stream2.xdevel.com/audio6s194-49/stream/icecast.audio",
+    "website": "https://www.mediterranearadio.it/",
+    "provider": "onlineradiobox",
+    "country": "Malta",
+    "genres": [
+      "dance",
+      "electronic",
+      "house"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:04:37+05:30"
+  },
+  {
+    "id": "onlineradiobox_mt.mics",
+    "name": "Mics Radio 93.3 Fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/121658.v4.png",
+    "stream_url": "http://micsradio.ddns.net:90/;",
+    "website": "http://micsradiomalta.com/",
+    "provider": "onlineradiobox",
+    "country": "Malta",
+    "genres": [
+      "pop",
+      "community"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:04:40+05:30"
+  },
+  {
+    "id": "onlineradiobox_mt.oneradio",
+    "name": "ONE Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/7987.v5.png",
+    "stream_url": "https://s10.voscast.com:8203/stream",
+    "website": "http://one.com.mt/",
+    "provider": "onlineradiobox",
+    "country": "Malta",
+    "genres": [
+      "rock",
+      "pop",
+      "folk",
+      "country"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:03:46+05:30"
+  },
+  {
+    "id": "onlineradiobox_mt.patata",
+    "name": "RADIO Patata",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/48664.v13.png",
+    "stream_url": "https://radiopatata.stream.laut.fm/radiopatata",
+    "website": "https://www.patataradio.com/",
+    "provider": "onlineradiobox",
+    "country": "Malta",
+    "genres": [
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:03:56+05:30"
+  },
+  {
+    "id": "onlineradiobox_mt.pure",
+    "name": "Pure Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/98518.v6.png",
+    "stream_url": "http://65.109.97.137:8010/stream",
+    "website": "http://pureradio.mt/",
+    "provider": "onlineradiobox",
+    "country": "Malta",
+    "genres": [
+      "dance",
+      "electronic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:04:00+05:30"
+  },
+  {
+    "id": "onlineradiobox_mt.radio101",
+    "name": "NET FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/7989.v6.png",
+    "stream_url": "https://s2.voscast.com:11393/default",
+    "website": "http://netfm.com.mt/",
+    "provider": "onlineradiobox",
+    "country": "Malta",
+    "genres": [
+      "90s",
+      "00s",
+      "80s",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:03:46+05:30"
+  },
+  {
+    "id": "onlineradiobox_mt.radiogalaxy",
+    "name": "Radio 105",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/8690.v13.png",
+    "stream_url": "https://radio105-radio105network.radioca.st/;",
+    "website": "http://radio105.mt/",
+    "provider": "onlineradiobox",
+    "country": "Malta",
+    "genres": [
+      "pop",
+      "top40",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:03:54+05:30"
+  },
+  {
+    "id": "onlineradiobox_mt.radiomalta",
+    "name": "Radju Malta",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/7990.v7.png",
+    "stream_url": "https://s38.myradiostream.com:6982/;",
+    "website": "https://www.tvm.com.mt/mt/radju",
+    "provider": "onlineradiobox",
+    "country": "Malta",
+    "genres": [
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:03:48+05:30"
+  },
+  {
+    "id": "onlineradiobox_mt.radiomaria",
+    "name": "Radju Marija Malta",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/8686.v24.png",
+    "stream_url": "https://dreamsiteradiocp2.com/proxy/rmmalta2?mp=/stream",
+    "website": "http://www.radjumarija.org/",
+    "provider": "onlineradiobox",
+    "country": "Malta",
+    "genres": [
+      "talk",
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:03:53+05:30"
+  },
+  {
+    "id": "onlineradiobox_mt.radjughazziela",
+    "name": "Radju Ghazziela",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/121933.v4.png",
+    "stream_url": "http://freeuk23.listen2myradio.com:27074/;",
+    "website": "https://radjughazziela.radiostream123.com/",
+    "provider": "onlineradiobox",
+    "country": "Malta",
+    "genres": [
+      "community"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:04:39+05:30"
+  },
+  {
+    "id": "onlineradiobox_mt.radjulehenil-belt",
+    "name": "Radju Lehen il-Belt",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/9045.v5.png",
+    "stream_url": "https://az.wannastream.com/radio/8010/radjulehenil-beltvictoria?1585159351",
+    "website": "http://www.lbv104.com/",
+    "provider": "onlineradiobox",
+    "country": "Malta",
+    "genres": [
+      "talk",
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:04:43+05:30"
+  },
+  {
+    "id": "onlineradiobox_mt.radjuluminaria",
+    "name": "Radju Luminaria",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/8707.v8.png",
+    "stream_url": "https://az.wannastream.com/radio/8000/radjuluminaria",
+    "website": "http://www.radjuluminaria.com/",
+    "provider": "onlineradiobox",
+    "country": "Malta",
+    "genres": [
+      "talk",
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:03:55+05:30"
+  },
+  {
+    "id": "onlineradiobox_mt.radjuxeberras",
+    "name": "Radju Xeb-er-ras",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/121696.v2.png",
+    "stream_url": "http://freeuk28.listen2myradio.com:20034/;",
+    "website": "https://xeberras.radiostream321.com/",
+    "provider": "onlineradiobox",
+    "country": "Malta",
+    "genres": [
+      "community"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:04:42+05:30"
+  },
+  {
+    "id": "onlineradiobox_mt.rtk",
+    "name": "RTK Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/8687.v8.png",
+    "stream_url": "https://s2.radio.co/s955b1ced9/listen",
+    "website": "http://rtk.com.mt/mt/",
+    "provider": "onlineradiobox",
+    "country": "Malta",
+    "genres": [
+      "talk",
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:03:52+05:30"
+  },
+  {
+    "id": "onlineradiobox_mt.smash",
+    "name": "Smash Radio 104.6FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/121659.v4.png",
+    "stream_url": "http://freeuk24.listen2myradio.com:3691/;",
+    "website": "https://smashmalta.com/",
+    "provider": "onlineradiobox",
+    "country": "Malta",
+    "genres": [
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:04:40+05:30"
+  },
+  {
+    "id": "onlineradiobox_mt.smoothmalta",
+    "name": "Lite Radio Malta",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/108916.v11.png",
+    "stream_url": "http://s3.voscast.com:9258/default",
+    "website": "https://www.lite.mt/",
+    "provider": "onlineradiobox",
+    "country": "Malta",
+    "genres": [
+      "easy listening",
+      "relax"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:03:50+05:30"
+  },
+  {
+    "id": "onlineradiobox_mt.thebreezemalta",
+    "name": "The Breeze Malta",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/120386.v3.png",
+    "stream_url": "https://s1.voscast.com:11085/default",
+    "website": "https://smooth.com.mt/breeze/",
+    "provider": "onlineradiobox",
+    "country": "Malta",
+    "genres": [
+      "easy listening",
+      "relax"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:03:52+05:30"
+  },
+  {
+    "id": "onlineradiobox_mt.toxic8radio",
+    "name": "Toxic8 Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/73480.v2.png",
+    "stream_url": "http://5.9.17.142:8042/;",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Malta",
+    "genres": [
+      "top40",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:04:36+05:30"
+  },
+  {
+    "id": "onlineradiobox_mt.vibefm",
+    "name": "Vibe FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/9029.v8.png",
+    "stream_url": "https://vibefm.radioca.st/vibe_live",
+    "website": "https://www.vibe.mt/",
+    "provider": "onlineradiobox",
+    "country": "Malta",
+    "genres": [
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:03:51+05:30"
+  },
+  {
+    "id": "onlineradiobox_mt.yougo",
+    "name": "YouGo Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/146104.v3.png",
+    "stream_url": "https://listen.radioking.com/radio/425008/stream/478492",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Malta",
+    "genres": [
+      "classic rock",
+      "80s",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:04:38+05:30"
+  }
+]

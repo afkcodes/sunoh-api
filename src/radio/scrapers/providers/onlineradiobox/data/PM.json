@@ -1,0 +1,64 @@
+[
+  {
+    "id": "onlineradiobox_pm.archipel",
+    "name": "Radio Archipel Fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/74483.v5.png",
+    "stream_url": "https://radioarchipelfm.ice.infomaniak.ch/radioarchipelfm-64.mp3",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "St. Pierre and Miquelon",
+    "genres": [
+      "dance",
+      "rock",
+      "pop",
+      "country"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:08:05+05:30"
+  },
+  {
+    "id": "onlineradiobox_pm.atlantique",
+    "name": "Radio Atlantique",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/49733.v13.png",
+    "stream_url": "https://s7.voscast.com:10433/stream",
+    "website": "https://www.radioatlantique.com/",
+    "provider": "onlineradiobox",
+    "country": "St. Pierre and Miquelon",
+    "genres": [
+      "rock",
+      "pop",
+      "news",
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:08:06+05:30"
+  },
+  {
+    "id": "onlineradiobox_pm.spm1ere",
+    "name": "Saint-Pierre et Miquelon 1ère",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/13336.v5.png",
+    "stream_url": "https://saint-pierreetmiquelon.ice.infomaniak.ch/saint-pierreetmiquelon-128.mp3",
+    "website": "http://la1ere.francetvinfo.fr/saintpierremiquelon/radio",
+    "provider": "onlineradiobox",
+    "country": "St. Pierre and Miquelon",
+    "genres": [
+      "r'n'b",
+      "pop",
+      "news",
+      "talk",
+      "rap",
+      "hip-hop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:08:06+05:30"
+  }
+]

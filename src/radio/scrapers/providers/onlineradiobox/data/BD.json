@@ -1,0 +1,697 @@
+[
+  {
+    "id": "onlineradiobox_bd.audioplaybangla",
+    "name": "Radio Theater Bangla",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/128930.v4.png",
+    "stream_url": "https://stream.zeno.fm/hrawdb5yx8ovv",
+    "website": "https://zeno.fm/radio/radiotheater/",
+    "provider": "onlineradiobox",
+    "country": "Bangladesh",
+    "genres": [
+      "talk",
+      "comedy",
+      "drama"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:02:56+05:30"
+  },
+  {
+    "id": "onlineradiobox_bd.banglawadio",
+    "name": "Bangla Wadio",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/29304.v4.png",
+    "stream_url": "http://192.144.82.200:9334/;",
+    "website": "http://www.banglawadio.com/",
+    "provider": "onlineradiobox",
+    "country": "Bangladesh",
+    "genres": [
+      "pop",
+      "indian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:02:22+05:30"
+  },
+  {
+    "id": "onlineradiobox_bd.betar",
+    "name": "Bangladesh Betar",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/29420.v10.png",
+    "stream_url": "https://stream.zeno.fm/8sn7cac604zuv",
+    "website": "http://www.betar.gov.bd/",
+    "provider": "onlineradiobox",
+    "country": "Bangladesh",
+    "genres": [
+      "pop",
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:02:12+05:30"
+  },
+  {
+    "id": "onlineradiobox_bd.bhumi",
+    "name": "Radio Bhumi",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/29432.v11.png",
+    "stream_url": "https://stream.zeno.fm/ybf1umk1k18uv",
+    "website": "http://www.radiobhumi.fm/",
+    "provider": "onlineradiobox",
+    "country": "Bangladesh",
+    "genres": [
+      "pop",
+      "news",
+      "top40",
+      "sports"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:02:12+05:30"
+  },
+  {
+    "id": "onlineradiobox_bd.bushra",
+    "name": "Radio Bushra",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/89664.v5.png",
+    "stream_url": "https://stream.zeno.fm/mzuka1fdxzzuv",
+    "website": "https://radiobushra.blogspot.com/",
+    "provider": "onlineradiobox",
+    "country": "Bangladesh",
+    "genres": [
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:02:16+05:30"
+  },
+  {
+    "id": "onlineradiobox_bd.capital",
+    "name": "Radio Capital",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/29215.v8.png",
+    "stream_url": "http://str.radiocapital.fm:8000/stream",
+    "website": "http://www.radiocapital.fm/#!/page_SPLASH",
+    "provider": "onlineradiobox",
+    "country": "Bangladesh",
+    "genres": [
+      "pop",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:02:21+05:30"
+  },
+  {
+    "id": "onlineradiobox_bd.carnival95",
+    "name": "Radio Carnival",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/107028.v4.png",
+    "stream_url": "https://cast1.my-control-panel.com//proxy/radio12?mp=/stream",
+    "website": "https://www.radiocarnivalbd.com/",
+    "provider": "onlineradiobox",
+    "country": "Bangladesh",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:02:23+05:30"
+  },
+  {
+    "id": "onlineradiobox_bd.colours",
+    "name": "ColoursFM",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/93744.v3.png",
+    "stream_url": "http://45.64.135.88:8000/stream1",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Bangladesh",
+    "genres": [
+      "talk",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:03:02+05:30"
+  },
+  {
+    "id": "onlineradiobox_bd.dawahbangla",
+    "name": "Radio Dawah Bangla",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/131266.v1.png",
+    "stream_url": "https://stream.zeno.fm/rzkykmse9zcuv",
+    "website": "https://radiodawah.wapka.club/",
+    "provider": "onlineradiobox",
+    "country": "Bangladesh",
+    "genres": [
+      "islamic",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:02:20+05:30"
+  },
+  {
+    "id": "onlineradiobox_bd.dhaka",
+    "name": "Dhaka FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/29210.v6.png",
+    "stream_url": "http://118.179.219.244:8000/;",
+    "website": "http://www.dhakafm904.com/",
+    "provider": "onlineradiobox",
+    "country": "Bangladesh",
+    "genres": [
+      "pop",
+      "talk",
+      "culture"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:02:14+05:30"
+  },
+  {
+    "id": "onlineradiobox_bd.dhoni",
+    "name": "Radio Dhoni",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/29431.v5.png",
+    "stream_url": "http://103.148.172.30:1020/;stream.mp3",
+    "website": "http://radiodhoni.fm/",
+    "provider": "onlineradiobox",
+    "country": "Bangladesh",
+    "genres": [
+      "pop",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:03:03+05:30"
+  },
+  {
+    "id": "onlineradiobox_bd.ekattor",
+    "name": "Radio Ekattor",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/29315.v10.png",
+    "stream_url": "http://192.144.82.200:9302/;stream/1;",
+    "website": "http://ekattor.fm/",
+    "provider": "onlineradiobox",
+    "country": "Bangladesh",
+    "genres": [
+      "pop",
+      "folk",
+      "culture"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:02:18+05:30"
+  },
+  {
+    "id": "onlineradiobox_bd.fmmoon",
+    "name": "FM moon",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/87290.v13.png",
+    "stream_url": "http://usa3.fastcast4u.com:1104/;",
+    "website": "http://www.fmmoon.com/",
+    "provider": "onlineradiobox",
+    "country": "Bangladesh",
+    "genres": [
+      "easy listening",
+      "classic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:02:59+05:30"
+  },
+  {
+    "id": "onlineradiobox_bd.fnfbangla",
+    "name": "FnF.FM Bangla",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/29375.v9.png",
+    "stream_url": "http://eu6.fastcast4u.com:5099/;stream",
+    "website": "http://bn.fnf.fm/",
+    "provider": "onlineradiobox",
+    "country": "Bangladesh",
+    "genres": [
+      "pop",
+      "folk",
+      "classic",
+      "bollywood"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:02:17+05:30"
+  },
+  {
+    "id": "onlineradiobox_bd.foorti",
+    "name": "Radio Foorti",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/29309.v8.png",
+    "stream_url": "http://119.148.23.88:1021/;stream/1",
+    "website": "http://www.radiofoorti.fm/",
+    "provider": "onlineradiobox",
+    "country": "Bangladesh",
+    "genres": [
+      "pop",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:02:14+05:30"
+  },
+  {
+    "id": "onlineradiobox_bd.goongoon",
+    "name": "Radio GoonGoon",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/29317.v9.png",
+    "stream_url": "https://audio.streamcast.xyz/radio/8000/radio.mp3?",
+    "website": "http://www.radiogoongoon.com/",
+    "provider": "onlineradiobox",
+    "country": "Bangladesh",
+    "genres": [
+      "folk",
+      "asian",
+      "culture"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:02:17+05:30"
+  },
+  {
+    "id": "onlineradiobox_bd.hamza",
+    "name": "Radio Hamza",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/128916.v2.png",
+    "stream_url": "https://stream.zeno.fm/lohedguhtkttv",
+    "website": "https://radiohamza.tumblr.com/",
+    "provider": "onlineradiobox",
+    "country": "Bangladesh",
+    "genres": [
+      "hindu"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:03:01+05:30"
+  },
+  {
+    "id": "onlineradiobox_bd.hemelmusic",
+    "name": "Hemel Music",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/109854.v2.png",
+    "stream_url": "https://stream.zeno.fm/s4f64yu82c9uv",
+    "website": "https://zeno.fm/radio/hemel-music/",
+    "provider": "onlineradiobox",
+    "country": "Bangladesh",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:02:16+05:30"
+  },
+  {
+    "id": "onlineradiobox_bd.iwi",
+    "name": "iWiFM",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/29303.v2.png",
+    "stream_url": "http://94.23.23.97:29270/;",
+    "website": "http://myradiostream.com/station/flashplayer.php?p=29270&s=s2",
+    "provider": "onlineradiobox",
+    "country": "Bangladesh",
+    "genres": [
+      "folk",
+      "bollywood",
+      "indian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:02:19+05:30"
+  },
+  {
+    "id": "onlineradiobox_bd.jago944",
+    "name": "Jago FM 94.4",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/84057.v6.png",
+    "stream_url": "http://139.59.86.99:12496/stream",
+    "website": "http://jago.fm/",
+    "provider": "onlineradiobox",
+    "country": "Bangladesh",
+    "genres": [
+      "pop",
+      "entertainment",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:02:13+05:30"
+  },
+  {
+    "id": "onlineradiobox_bd.jamuna",
+    "name": "Radio jamuna fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/140128.v1.png",
+    "stream_url": "https://stream.zeno.fm/pcmmlmkpvmmvv",
+    "website": "https://radiojamunafm.blogspot.com/",
+    "provider": "onlineradiobox",
+    "country": "Bangladesh",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:02:59+05:30"
+  },
+  {
+    "id": "onlineradiobox_bd.jkkniu",
+    "name": "Radio JKKNIU",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/132850.v6.png",
+    "stream_url": "https://stream.zeno.fm/risgdzpf1cxtv",
+    "website": "https://jkkniu.edu.bd/",
+    "provider": "onlineradiobox",
+    "country": "Bangladesh",
+    "genres": [
+      "rock",
+      "pop",
+      "talk",
+      "education"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:03:04+05:30"
+  },
+  {
+    "id": "onlineradiobox_bd.mahananda988",
+    "name": "Radio Mahananda 98.8 FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/117503.v3.png",
+    "stream_url": "https://streaming.radiomahananda.fm/proxy/radiomahananda/stream",
+    "website": "https://radiomahananda.fm/",
+    "provider": "onlineradiobox",
+    "country": "Bangladesh",
+    "genres": [
+      "pop",
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:02:15+05:30"
+  },
+  {
+    "id": "onlineradiobox_bd.padma",
+    "name": "Radio Padma",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/29437.v8.png",
+    "stream_url": "https://radiopadmabd.radioca.st/radiopadma",
+    "website": "https://radiopadma.com/",
+    "provider": "onlineradiobox",
+    "country": "Bangladesh",
+    "genres": [
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:02:21+05:30"
+  },
+  {
+    "id": "onlineradiobox_bd.peoples",
+    "name": "Peoples Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/29428.v7.png",
+    "stream_url": "http://s3.myradiostream.com:14498/;",
+    "website": "http://www.peoplesradio.fm/",
+    "provider": "onlineradiobox",
+    "country": "Bangladesh",
+    "genres": [
+      "pop",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:02:18+05:30"
+  },
+  {
+    "id": "onlineradiobox_bd.provat",
+    "name": "Provat Fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/129140.v1.png",
+    "stream_url": "https://stream.zeno.fm/nlv7ffoe39yvv",
+    "website": "https://provatfm.rf.gd/",
+    "provider": "onlineradiobox",
+    "country": "Bangladesh",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:02:58+05:30"
+  },
+  {
+    "id": "onlineradiobox_bd.purbakantho",
+    "name": "Radio Purbakantho",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/90397.v6.png",
+    "stream_url": "https://stream.zeno.fm/r8sntxcw81zuv",
+    "website": "https://radiopurbakantho.blogspot.com/",
+    "provider": "onlineradiobox",
+    "country": "Bangladesh",
+    "genres": [
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:02:19+05:30"
+  },
+  {
+    "id": "onlineradiobox_bd.rajshahi",
+    "name": "Rajshahi FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/139728.v3.png",
+    "stream_url": "https://stream.zeno.fm/nxfshdayjrdvv",
+    "website": "https://rajshahifm.netlify.app/",
+    "provider": "onlineradiobox",
+    "country": "Bangladesh",
+    "genres": [
+      "rock"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:03:00+05:30"
+  },
+  {
+    "id": "onlineradiobox_bd.shadhin",
+    "name": "Radio Shadhin",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/29211.v5.png",
+    "stream_url": "https://stream.zeno.fm/eabgu655puquv",
+    "website": "http://radioshadhin.fm/",
+    "provider": "onlineradiobox",
+    "country": "Bangladesh",
+    "genres": [
+      "pop",
+      "news",
+      "talk",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:02:21+05:30"
+  },
+  {
+    "id": "onlineradiobox_bd.sondhi",
+    "name": "Radio Sondhi",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/127082.v1.png",
+    "stream_url": "https://stream.zeno.fm/4k1vwiexedzvv",
+    "website": "https://radiosondhi.online/",
+    "provider": "onlineradiobox",
+    "country": "Bangladesh",
+    "genres": [
+      "talk",
+      "easy listening"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:02:57+05:30"
+  },
+  {
+    "id": "onlineradiobox_bd.spice964",
+    "name": "Spice FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/73208.v8.png",
+    "stream_url": "https://stream.spicefmbd.com/stream.m3u8",
+    "website": "https://spicefmbd.com/",
+    "provider": "onlineradiobox",
+    "country": "Bangladesh",
+    "genres": [
+      "pop",
+      "folk",
+      "indian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:02:20+05:30"
+  },
+  {
+    "id": "onlineradiobox_bd.swapno",
+    "name": "Radio Swapno",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/150036.v1.png",
+    "stream_url": "https://stream.zeno.fm/gkglgycoyczuv",
+    "website": "https://radioswapno.com/",
+    "provider": "onlineradiobox",
+    "country": "Bangladesh",
+    "genres": [
+      "comedy"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:03:03+05:30"
+  },
+  {
+    "id": "onlineradiobox_bd.teestaflow",
+    "name": "Teesta Flow Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/143398.v1.png",
+    "stream_url": "https://stream.zeno.fm/upaj1sodvdkvv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Bangladesh",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:03:02+05:30"
+  },
+  {
+    "id": "onlineradiobox_bd.today",
+    "name": "Radio Today",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/29209.v9.png",
+    "stream_url": "https://stream.zeno.fm/0zha3rfq02quv",
+    "website": "http://www.radiotodaybd.fm/",
+    "provider": "onlineradiobox",
+    "country": "Bangladesh",
+    "genres": [
+      "pop",
+      "news",
+      "sports"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:02:13+05:30"
+  },
+  {
+    "id": "onlineradiobox_bd.tzgospel",
+    "name": "Tzgospel Bangladesh",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/129019.v2.png",
+    "stream_url": "https://stream.zeno.fm/w7zvq9kvcfhvv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Bangladesh",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:02:57+05:30"
+  },
+  {
+    "id": "onlineradiobox_bd.ullash",
+    "name": "Radio Ullash",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/106499.v1.png",
+    "stream_url": "https://stream.zeno.fm/gpgkgp9mp18uv.mp3",
+    "website": "https://radioullash.com/",
+    "provider": "onlineradiobox",
+    "country": "Bangladesh",
+    "genres": [
+      "rock",
+      "pop",
+      "arabic",
+      "hindu"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:02:23+05:30"
+  },
+  {
+    "id": "onlineradiobox_bd.uttorbangobetar",
+    "name": "Uttorbango Betar",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/84136.v5.png",
+    "stream_url": "https://stream.zeno.fm/spqbxkqxdf9uv",
+    "website": "https://sites.google.com/view/ubradio/",
+    "provider": "onlineradiobox",
+    "country": "Bangladesh",
+    "genres": [
+      "pop",
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:02:19+05:30"
+  },
+  {
+    "id": "onlineradiobox_bd.vividvoice",
+    "name": "Radio Vivid Voice",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/128699.v2.png",
+    "stream_url": "https://stream.zeno.fm/xuin6ocdc2juv",
+    "website": "https://radiovv.wapka.club/",
+    "provider": "onlineradiobox",
+    "country": "Bangladesh",
+    "genres": [
+      "rock",
+      "pop",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:02:20+05:30"
+  }
+]

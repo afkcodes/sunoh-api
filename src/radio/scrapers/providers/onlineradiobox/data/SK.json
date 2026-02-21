@@ -1,0 +1,1423 @@
+[
+  {
+    "id": "onlineradiobox_sk.7",
+    "name": "Radio 7",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/26701.v7.png",
+    "stream_url": "https://play.radio7.sk/128",
+    "website": "http://www.radio7.sk/",
+    "provider": "onlineradiobox",
+    "country": "Slovakia",
+    "genres": [
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:43:26+05:30"
+  },
+  {
+    "id": "onlineradiobox_sk.80s90sdance",
+    "name": "80s 90s Dance Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/124685.v6.png",
+    "stream_url": "https://stream.zeno.fm/9vqrmoduiistv",
+    "website": "https://zeno.fm/radio/80s-90s-dance-radio/",
+    "provider": "onlineradiobox",
+    "country": "Slovakia",
+    "genres": [
+      "90s",
+      "80s"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:42:16+05:30"
+  },
+  {
+    "id": "onlineradiobox_sk.80s90sparty",
+    "name": "80s 90s Party Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/140026.v4.png",
+    "stream_url": "https://stream.zeno.fm/bdh16ndn6s8uv",
+    "website": "https://zeno.fm/radio/80s-90s-party-mix-radio/",
+    "provider": "onlineradiobox",
+    "country": "Slovakia",
+    "genres": [
+      "retro",
+      "90s",
+      "80s"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:44:12+05:30"
+  },
+  {
+    "id": "onlineradiobox_sk.897",
+    "name": "897 DANCE Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/27370.v20.png",
+    "stream_url": "http://c34.radioboss.fm:8106/stream",
+    "website": "https://www.897radio.online/",
+    "provider": "onlineradiobox",
+    "country": "Slovakia",
+    "genres": [
+      "dance"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:42:13+05:30"
+  },
+  {
+    "id": "onlineradiobox_sk.aetter",
+    "name": "Rádio Aetter",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/100553.v8.png",
+    "stream_url": "https://stream.aetter.sk/aetter",
+    "website": "https://aetter.sk/",
+    "provider": "onlineradiobox",
+    "country": "Slovakia",
+    "genres": [
+      "dance",
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:44:12+05:30"
+  },
+  {
+    "id": "onlineradiobox_sk.aiwolrd",
+    "name": "Airadio.wolrd",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/144890.v5.png",
+    "stream_url": "https://listen.radioking.com/radio/709946/stream/775490",
+    "website": "https://www.veriante.com/airadio-world/",
+    "provider": "onlineradiobox",
+    "country": "Slovakia",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:44:49+05:30"
+  },
+  {
+    "id": "onlineradiobox_sk.aligator",
+    "name": "Top Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/26705.v14.png",
+    "stream_url": "https://solid1.streamupsolutions.com/proxy/vhhggmih/stream",
+    "website": "https://www.radiotop.sk/",
+    "provider": "onlineradiobox",
+    "country": "Slovakia",
+    "genres": [
+      "rock",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:43:22+05:30"
+  },
+  {
+    "id": "onlineradiobox_sk.bb",
+    "name": "BB FM rádio",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/99976.v5.png",
+    "stream_url": "http://stream.bbfm.sk/bbfm128.mp3",
+    "website": "https://www.bbfm.sk/",
+    "provider": "onlineradiobox",
+    "country": "Slovakia",
+    "genres": [
+      "pop",
+      "adult contemporary",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:44:23+05:30"
+  },
+  {
+    "id": "onlineradiobox_sk.best",
+    "name": "Best FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/26692.v2.png",
+    "stream_url": "https://stream3.bestfm.sk:8000/160.aac",
+    "website": "http://www.bestfm.sk/",
+    "provider": "onlineradiobox",
+    "country": "Slovakia",
+    "genres": [
+      "retro"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:42:15+05:30"
+  },
+  {
+    "id": "onlineradiobox_sk.beta",
+    "name": "Rádio BETA",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/26560.v6.png",
+    "stream_url": "http://109.71.67.102:8000/beta_live_low.mp3",
+    "website": "http://www.beta.sk/",
+    "provider": "onlineradiobox",
+    "country": "Slovakia",
+    "genres": [
+      "pop",
+      "hip-hop",
+      "top40",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:43:15+05:30"
+  },
+  {
+    "id": "onlineradiobox_sk.bibliask",
+    "name": "Radio Biblia SK",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/102704.v2.png",
+    "stream_url": "http://radiobiblia.online:8000/stream.ogg",
+    "website": "https://www.radiobiblia.online/",
+    "provider": "onlineradiobox",
+    "country": "Slovakia",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:44:25+05:30"
+  },
+  {
+    "id": "onlineradiobox_sk.classicrock",
+    "name": "Classic Rock Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/110986.v2.png",
+    "stream_url": "https://stream.zeno.fm/gvz5q869n98uv",
+    "website": "https://zeno.fm/radio/classic-rock-radio/",
+    "provider": "onlineradiobox",
+    "country": "Slovakia",
+    "genres": [
+      "classic rock"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:42:20+05:30"
+  },
+  {
+    "id": "onlineradiobox_sk.country",
+    "name": "CountryRadio.sk",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/146955.v1.png",
+    "stream_url": "https://listen.radioking.com/radio/725774/stream/791750",
+    "website": "https://countryradio.sk/",
+    "provider": "onlineradiobox",
+    "country": "Slovakia",
+    "genres": [
+      "country"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:44:16+05:30"
+  },
+  {
+    "id": "onlineradiobox_sk.demomusic",
+    "name": "Demomusic Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/100572.v2.png",
+    "stream_url": "https://stream.radia.sk:9001/demomusic-387",
+    "website": "http://demomusicradio.com/",
+    "provider": "onlineradiobox",
+    "country": "Slovakia",
+    "genres": [
+      "folk",
+      "ethnic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:44:24+05:30"
+  },
+  {
+    "id": "onlineradiobox_sk.dobre",
+    "name": "Dobré rádio",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/111503.v5.png",
+    "stream_url": "https://stream.dobreradio.sk/dobreradio.mp3",
+    "website": "https://www.dobreradio.sk/",
+    "provider": "onlineradiobox",
+    "country": "Slovakia",
+    "genres": [
+      "pop",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:43:24+05:30"
+  },
+  {
+    "id": "onlineradiobox_sk.dychovka",
+    "name": "Rádio Dychovka",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/98395.v11.png",
+    "stream_url": "https://stream.zeno.fm/0rfe16umv98uv",
+    "website": "https://www.radiodychovka.sk/",
+    "provider": "onlineradiobox",
+    "country": "Slovakia",
+    "genres": [
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:43:12+05:30"
+  },
+  {
+    "id": "onlineradiobox_sk.europa2",
+    "name": "Europa 2",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/26693.v6.png",
+    "stream_url": "https://stream.bauermedia.sk/europa2.mp3",
+    "website": "https://www.europa2.sk/",
+    "provider": "onlineradiobox",
+    "country": "Slovakia",
+    "genres": [
+      "pop",
+      "top40",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:42:10+05:30"
+  },
+  {
+    "id": "onlineradiobox_sk.europaplusslovensko",
+    "name": "Rádio Europa Plus Slovensko",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/150041.v4.png",
+    "stream_url": "https://listen.radioking.com/radio/763382/stream/830438",
+    "website": "https://www.radioeuropaplusradioslobensko.ip-ddns.com/",
+    "provider": "onlineradiobox",
+    "country": "Slovakia",
+    "genres": [
+      "90s",
+      "00s",
+      "80s",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:44:22+05:30"
+  },
+  {
+    "id": "onlineradiobox_sk.expres",
+    "name": "Radio Expres",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/26686.v5.png",
+    "stream_url": "https://stream.expres.sk/128.mp3",
+    "website": "https://www.expres.sk/",
+    "provider": "onlineradiobox",
+    "country": "Slovakia",
+    "genres": [
+      "dance",
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:42:08+05:30"
+  },
+  {
+    "id": "onlineradiobox_sk.fredfilm",
+    "name": "FRED FILM RADIO",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/46857.v5.png",
+    "stream_url": "https://s10.webradio-hosting.com/proxy/fredradiosk/stream/;",
+    "website": "http://www.fred.fm/",
+    "provider": "onlineradiobox",
+    "country": "Slovakia",
+    "genres": [
+      "news",
+      "talk",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:44:29+05:30"
+  },
+  {
+    "id": "onlineradiobox_sk.freshsk",
+    "name": "FRESH rádio",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/98388.v6.png",
+    "stream_url": "https://icecast2.radionet.sk/freshradio.sk",
+    "website": "https://www.freshradio.sk/",
+    "provider": "onlineradiobox",
+    "country": "Slovakia",
+    "genres": [
+      "pop",
+      "top40",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:43:23+05:30"
+  },
+  {
+    "id": "onlineradiobox_sk.frontinus",
+    "name": "Frontinus Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/26888.v3.png",
+    "stream_url": "http://stream.frontinus.sk:8000/frontinus64.mp3",
+    "website": "http://www.frontinus.sk/",
+    "provider": "onlineradiobox",
+    "country": "Slovakia",
+    "genres": [
+      "folk",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:43:13+05:30"
+  },
+  {
+    "id": "onlineradiobox_sk.fun",
+    "name": "Fun Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/26558.v7.png",
+    "stream_url": "http://stream.funradio.sk:8000/fun128.mp3",
+    "website": "http://www.funradio.sk/",
+    "provider": "onlineradiobox",
+    "country": "Slovakia",
+    "genres": [
+      "pop",
+      "top40",
+      "90s"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:42:12+05:30"
+  },
+  {
+    "id": "onlineradiobox_sk.hitslovakia",
+    "name": "HITRADIO SLOVAKIA",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/100097.v19.png",
+    "stream_url": "https://stream.laut.fm/hitradioslovakia",
+    "website": "https://www.hitradioslovakia.com/",
+    "provider": "onlineradiobox",
+    "country": "Slovakia",
+    "genres": [
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:43:10+05:30"
+  },
+  {
+    "id": "onlineradiobox_sk.hop",
+    "name": "Retro Dance Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/85544.v19.png",
+    "stream_url": "https://radio.retrodanceradio.com/radio/8000/128",
+    "website": "http://retrodanceradio.com/",
+    "provider": "onlineradiobox",
+    "country": "Slovakia",
+    "genres": [
+      "dance",
+      "electronic",
+      "rock",
+      "pop",
+      "hip-hop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:43:17+05:30"
+  },
+  {
+    "id": "onlineradiobox_sk.infovojna",
+    "name": "Info Vojna",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/85720.v10.png",
+    "stream_url": "http://stream1.infovojna.com:8002/live",
+    "website": "https://www.infovojna.com/live",
+    "provider": "onlineradiobox",
+    "country": "Slovakia",
+    "genres": [
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:42:13+05:30"
+  },
+  {
+    "id": "onlineradiobox_sk.irock",
+    "name": "Rádio iRock",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/108928.v8.png",
+    "stream_url": "https://radioserver.online:9927/irockHQ.mp3",
+    "website": "https://www.irock.sk/",
+    "provider": "onlineradiobox",
+    "country": "Slovakia",
+    "genres": [
+      "rock'n'roll",
+      "metal",
+      "punk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:43:16+05:30"
+  },
+  {
+    "id": "onlineradiobox_sk.jankohrasko",
+    "name": "Janko Hrasko",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/26906.v2.png",
+    "stream_url": "http://78.24.9.110:31088/;",
+    "website": "http://www.jankohrasko.sk/",
+    "provider": "onlineradiobox",
+    "country": "Slovakia",
+    "genres": [
+      "folk",
+      "ethnic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:43:11+05:30"
+  },
+  {
+    "id": "onlineradiobox_sk.jemnmeldie",
+    "name": "Rádio Melody",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/26694.v10.png",
+    "stream_url": "https://stream.bauermedia.sk/melody-hi.mp3",
+    "website": "https://www.radiomelody.sk/",
+    "provider": "onlineradiobox",
+    "country": "Slovakia",
+    "genres": [
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:42:09+05:30"
+  },
+  {
+    "id": "onlineradiobox_sk.kiks",
+    "name": "Radio KIKS",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/101138.v3.png",
+    "stream_url": "https://online.radiokiks.sk:8000/kiks_hq.mp3",
+    "website": "http://radiokiks.sk/",
+    "provider": "onlineradiobox",
+    "country": "Slovakia",
+    "genres": [
+      "90s",
+      "00s",
+      "80s"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:43:16+05:30"
+  },
+  {
+    "id": "onlineradiobox_sk.kiksbig80s",
+    "name": "Radio KIKS - BIG 80s",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/137366.v4.png",
+    "stream_url": "https://online.radiokiks.sk:8000/kiks_big80s.mp3",
+    "website": "http://radiokiks.sk/",
+    "provider": "onlineradiobox",
+    "country": "Slovakia",
+    "genres": [
+      "dance",
+      "pop",
+      "80s"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:44:13+05:30"
+  },
+  {
+    "id": "onlineradiobox_sk.kiksbig90s",
+    "name": "Radio KIKS - BIG 90s",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/137367.v2.png",
+    "stream_url": "https://online.radiokiks.sk:8000/kiks_big90s.mp3",
+    "website": "http://radiokiks.sk/",
+    "provider": "onlineradiobox",
+    "country": "Slovakia",
+    "genres": [
+      "dance",
+      "pop",
+      "90s"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:44:20+05:30"
+  },
+  {
+    "id": "onlineradiobox_sk.kiksrock",
+    "name": "Rádio Kiks Rock",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/110471.v5.png",
+    "stream_url": "https://online.radiokiks.sk:8000/kiks_rock.mp3",
+    "website": "http://radiokiks.sk/",
+    "provider": "onlineradiobox",
+    "country": "Slovakia",
+    "genres": [
+      "rock"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:43:21+05:30"
+  },
+  {
+    "id": "onlineradiobox_sk.klub",
+    "name": "Rádio Klub",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/149228.v29.png",
+    "stream_url": "https://listen.radioking.com/radio/823331/stream/892396",
+    "website": "https://www.radioklub.ip-ddns.com/",
+    "provider": "onlineradiobox",
+    "country": "Slovakia",
+    "genres": [
+      "90s",
+      "00s",
+      "80s",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:44:19+05:30"
+  },
+  {
+    "id": "onlineradiobox_sk.kosice",
+    "name": "Radio Kosice",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/26643.v2.png",
+    "stream_url": "http://stream.ecce.sk:8000/radiokosice-128.mp3",
+    "website": "http://www.radiokosice.sk/",
+    "provider": "onlineradiobox",
+    "country": "Slovakia",
+    "genres": [
+      "pop",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:42:20+05:30"
+  },
+  {
+    "id": "onlineradiobox_sk.logossk",
+    "name": "Rádio Logos",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/101130.v2.png",
+    "stream_url": "https://radio.wanderingsheep.net/radio/8120/live.mp3",
+    "website": "http://www.radiologos.sk/",
+    "provider": "onlineradiobox",
+    "country": "Slovakia",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:43:29+05:30"
+  },
+  {
+    "id": "onlineradiobox_sk.lumen",
+    "name": "Radio Lumen",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/26883.v4.png",
+    "stream_url": "http://audio.lumen.sk:8000/live128.mp3",
+    "website": "http://www.lumen.sk/",
+    "provider": "onlineradiobox",
+    "country": "Slovakia",
+    "genres": [
+      "christian",
+      "children"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:43:22+05:30"
+  },
+  {
+    "id": "onlineradiobox_sk.maria",
+    "name": "Mária Rádió",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/98255.v3.png",
+    "stream_url": "https://dreamsiteradiocp5.com/proxy/rmslo?mp=/stream",
+    "website": "https://mariaradio.sk/",
+    "provider": "onlineradiobox",
+    "country": "Slovakia",
+    "genres": [
+      "talk",
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:43:30+05:30"
+  },
+  {
+    "id": "onlineradiobox_sk.metalscenanet",
+    "name": "METALSCENA netRADIO",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/145421.v3.png",
+    "stream_url": "https://listen.radioking.com/radio/263218/stream/308365",
+    "website": "https://www.metalscena.sk/",
+    "provider": "onlineradiobox",
+    "country": "Slovakia",
+    "genres": [
+      "heavy metal"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:44:48+05:30"
+  },
+  {
+    "id": "onlineradiobox_sk.mixing",
+    "name": "Mixing of Particulate Solids Radio 1",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/26911.v17.png",
+    "stream_url": "https://streaming.live365.com/a39774",
+    "website": "http://www.mops-radio.org/",
+    "provider": "onlineradiobox",
+    "country": "Slovakia",
+    "genres": [
+      "news",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:44:26+05:30"
+  },
+  {
+    "id": "onlineradiobox_sk.musiccz",
+    "name": "Rádio Music CZ",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/137221.v8.png",
+    "stream_url": "https://mpc1.mediacp.eu/stream/radiomusiccz2",
+    "website": "https://radiomusiccz.framer.website/",
+    "provider": "onlineradiobox",
+    "country": "Slovakia",
+    "genres": [
+      "disco",
+      "pop",
+      "talk",
+      "90s",
+      "80s",
+      "70s",
+      "oldies",
+      "weather"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:44:15+05:30"
+  },
+  {
+    "id": "onlineradiobox_sk.nadjazerom",
+    "name": "Rádio nad Jazerom",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/150394.v1.png",
+    "stream_url": "https://bluesman.radioca.st/stream",
+    "website": "https://www.radionadjazerom.sk/",
+    "provider": "onlineradiobox",
+    "country": "Slovakia",
+    "genres": [
+      "rock",
+      "pop",
+      "blues",
+      "jazz"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:44:49+05:30"
+  },
+  {
+    "id": "onlineradiobox_sk.newmodel",
+    "name": "New Model Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/71903.v6.png",
+    "stream_url": "https://live-fsn1-hez.mixcloud.com/hls/10E247A7D25/1721359099/jOxZmd_RrCasdGSm8GzPhQ/631d24c1-ad89-40fd-8e74-0776b7e6f596/master.m3u8",
+    "website": "http://www.newmodelradio.sk/",
+    "provider": "onlineradiobox",
+    "country": "Slovakia",
+    "genres": [
+      "pop",
+      "talk",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:44:22+05:30"
+  },
+  {
+    "id": "onlineradiobox_sk.numberstation",
+    "name": "Numberstation",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/128555.v4.png",
+    "stream_url": "https://home3-ice.nezbednik.eu.org:2000/numberstation.mp3",
+    "website": "https://home.nezbednik.eu.org:2000/_legacy-services/Numberstation/",
+    "provider": "onlineradiobox",
+    "country": "Slovakia",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:44:29+05:30"
+  },
+  {
+    "id": "onlineradiobox_sk.parada",
+    "name": "Rádio Paráda",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/97011.v8.png",
+    "stream_url": "https://extra.mediacp.eu/stream/RadioParada,o.z.",
+    "website": "https://www.radioparada.sk/",
+    "provider": "onlineradiobox",
+    "country": "Slovakia",
+    "genres": [
+      "rock",
+      "pop",
+      "folk",
+      "hip-hop",
+      "oldies"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:44:14+05:30"
+  },
+  {
+    "id": "onlineradiobox_sk.partymix",
+    "name": "80s 90s Party Mix Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/110952.v2.png",
+    "stream_url": "https://stream.zeno.fm/b4wkbpdn6s8uv",
+    "website": "https://zeno.fm/radio/80s-90s-party-mix-radio/",
+    "provider": "onlineradiobox",
+    "country": "Slovakia",
+    "genres": [
+      "90s",
+      "80s"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:42:17+05:30"
+  },
+  {
+    "id": "onlineradiobox_sk.partymixradio",
+    "name": "Party Mix Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/149118.v2.png",
+    "stream_url": "https://stream.zeno.fm/ykgwdefezs8uv",
+    "website": "https://zeno.fm/radio/party-mixh9pxdefezs8uv/",
+    "provider": "onlineradiobox",
+    "country": "Slovakia",
+    "genres": [
+      "dance"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:44:48+05:30"
+  },
+  {
+    "id": "onlineradiobox_sk.piestany",
+    "name": "Radio Piestany",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/26727.v3.png",
+    "stream_url": "http://live.radiopiestany.sk:8000/live.mp3",
+    "website": "http://www.radiopiestany.sk/",
+    "provider": "onlineradiobox",
+    "country": "Slovakia",
+    "genres": [
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:44:49+05:30"
+  },
+  {
+    "id": "onlineradiobox_sk.radiobela",
+    "name": "RadioBela",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/103932.v8.png",
+    "stream_url": "http://65.109.81.84:8855/live",
+    "website": "https://www.radiobela.zanet.sk/",
+    "provider": "onlineradiobox",
+    "country": "Slovakia",
+    "genres": [
+      "rock"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:44:17+05:30"
+  },
+  {
+    "id": "onlineradiobox_sk.radiometropolitan",
+    "name": "Rádio Metropolitan",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/149475.v1.png",
+    "stream_url": "https://mpc2.mediacp.eu:8214/stream",
+    "website": "https://beatzone.eu/radiometropolitan",
+    "provider": "onlineradiobox",
+    "country": "Slovakia",
+    "genres": [
+      "rock",
+      "disco",
+      "pop",
+      "folk",
+      "country",
+      "90s",
+      "80s",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:42:21+05:30"
+  },
+  {
+    "id": "onlineradiobox_sk.radiomisiacik",
+    "name": "Rádio Mišiačik",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/141168.v5.png",
+    "stream_url": "https://stream.zeno.fm/q0aelrin1urvv",
+    "website": "https://www.radiomisiacik.eu/",
+    "provider": "onlineradiobox",
+    "country": "Slovakia",
+    "genres": [
+      "pop",
+      "oldies",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:44:28+05:30"
+  },
+  {
+    "id": "onlineradiobox_sk.radiozabava",
+    "name": "Radio Zabava",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/124750.v6.png",
+    "stream_url": "https://stream.zeno.fm/h07g40cx1nhvv",
+    "website": "https://zeno.fm/radio/radio-zabavaqd3c00cx1nhvv/",
+    "provider": "onlineradiobox",
+    "country": "Slovakia",
+    "genres": [
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:42:22+05:30"
+  },
+  {
+    "id": "onlineradiobox_sk.rdiox",
+    "name": "Rádio X",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/142904.v1.png",
+    "stream_url": "https://stream.radiox.sk:8443/radiox_256.mp3",
+    "website": "https://radiox.sk/",
+    "provider": "onlineradiobox",
+    "country": "Slovakia",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:44:27+05:30"
+  },
+  {
+    "id": "onlineradiobox_sk.rebecafm",
+    "name": "Rádio Rebeca",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/100389.v6.png",
+    "stream_url": "https://mpc2.mediacp.eu:8200/rebecaweb",
+    "website": "https://rebeca.sk/",
+    "provider": "onlineradiobox",
+    "country": "Slovakia",
+    "genres": [
+      "rock",
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:44:14+05:30"
+  },
+  {
+    "id": "onlineradiobox_sk.rock",
+    "name": "Radio ROCK",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/119605.v1.png",
+    "stream_url": "https://stream.bauermedia.sk/rock-hi.mp3",
+    "website": "https://radiorock.sk/",
+    "provider": "onlineradiobox",
+    "country": "Slovakia",
+    "genres": [
+      "rock"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:42:11+05:30"
+  },
+  {
+    "id": "onlineradiobox_sk.romper",
+    "name": "Radio Romper",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/129654.v8.png",
+    "stream_url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SAM05AAC415.aac?dist=onlineradiobox",
+    "website": "https://www.radio-romper.sk/",
+    "provider": "onlineradiobox",
+    "country": "Slovakia",
+    "genres": [
+      "dance",
+      "rock",
+      "pop",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:43:26+05:30"
+  },
+  {
+    "id": "onlineradiobox_sk.rti",
+    "name": "Radio Tatras International",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/26908.v1.png",
+    "stream_url": "http://s32.myradiostream.com:10486/;",
+    "website": "http://www.rti.fm/rti-live/",
+    "provider": "onlineradiobox",
+    "country": "Slovakia",
+    "genres": [
+      "pop",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:44:21+05:30"
+  },
+  {
+    "id": "onlineradiobox_sk.rtvs",
+    "name": "RTVS Radio FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/26538.v5.png",
+    "stream_url": "https://icecast.stv.livebox.sk/fm_128.mp3",
+    "website": "http://fm.rtvs.sk/",
+    "provider": "onlineradiobox",
+    "country": "Slovakia",
+    "genres": [
+      "alternative",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:42:19+05:30"
+  },
+  {
+    "id": "onlineradiobox_sk.rtvslitera",
+    "name": "RTVS Litera",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/26540.v5.png",
+    "stream_url": "https://icecast.stv.livebox.sk/litera_128.mp3",
+    "website": "http://litera.rtvs.sk/",
+    "provider": "onlineradiobox",
+    "country": "Slovakia",
+    "genres": [
+      "talk",
+      "culture"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:42:18+05:30"
+  },
+  {
+    "id": "onlineradiobox_sk.rtvsrdevin",
+    "name": "RTVS R Devin",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/26544.v4.png",
+    "stream_url": "https://icecast.stv.livebox.sk/devin_128.mp3",
+    "website": "http://devin.rtvs.sk/",
+    "provider": "onlineradiobox",
+    "country": "Slovakia",
+    "genres": [
+      "jazz",
+      "folk",
+      "classic",
+      "alternative",
+      "chanson",
+      "classic jazz"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:43:14+05:30"
+  },
+  {
+    "id": "onlineradiobox_sk.rtvsrjunior",
+    "name": "RTVS R Junior",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/26548.v3.png",
+    "stream_url": "https://icecast.stv.livebox.sk/junior_128.mp3",
+    "website": "http://junior.rtvs.sk/",
+    "provider": "onlineradiobox",
+    "country": "Slovakia",
+    "genres": [
+      "talk",
+      "folk",
+      "children"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:42:23+05:30"
+  },
+  {
+    "id": "onlineradiobox_sk.rtvsrklasika",
+    "name": "RTVS R Pyramída",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/26553.v5.png",
+    "stream_url": "https://icecast.stv.livebox.sk/klasika_128.mp3",
+    "website": "https://pyramida.rtvs.sk/",
+    "provider": "onlineradiobox",
+    "country": "Slovakia",
+    "genres": [
+      "classic",
+      "opera",
+      "symphonic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:43:19+05:30"
+  },
+  {
+    "id": "onlineradiobox_sk.rtvsrslovakiaint",
+    "name": "RTVS R Slovakia Int",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/26550.v4.png",
+    "stream_url": "https://icecast.stv.livebox.sk/rsi_128.mp3",
+    "website": "http://rsi.rtvs.sk/",
+    "provider": "onlineradiobox",
+    "country": "Slovakia",
+    "genres": [
+      "news",
+      "talk",
+      "politics"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:43:18+05:30"
+  },
+  {
+    "id": "onlineradiobox_sk.rtvsrslovensko",
+    "name": "RTVS Rádio Slovensko",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/26536.v7.png",
+    "stream_url": "https://icecast.stv.livebox.sk/slovensko_128.mp3",
+    "website": "http://slovensko.rtvs.sk/",
+    "provider": "onlineradiobox",
+    "country": "Slovakia",
+    "genres": [
+      "news",
+      "talk",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:42:07+05:30"
+  },
+  {
+    "id": "onlineradiobox_sk.rusyn",
+    "name": "Rusyn.fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/100705.v3.png",
+    "stream_url": "https://stream.rusyn.fm/rusyny.mp3",
+    "website": "https://www.rusyn.fm/",
+    "provider": "onlineradiobox",
+    "country": "Slovakia",
+    "genres": [
+      "talk",
+      "folk",
+      "culture"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:43:12+05:30"
+  },
+  {
+    "id": "onlineradiobox_sk.sebastian",
+    "name": "Rádio Sebastian",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/152323.v2.png",
+    "stream_url": "https://listen.radioking.com/radio/778937/stream/846494",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Slovakia",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:44:26+05:30"
+  },
+  {
+    "id": "onlineradiobox_sk.sirava",
+    "name": "Rádio Šírava",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/100327.v11.png",
+    "stream_url": "https://stream.sepia.sk:8000/radiosirava.mp3",
+    "website": "https://radiosirava.sk/",
+    "provider": "onlineradiobox",
+    "country": "Slovakia",
+    "genres": [
+      "pop",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:42:26+05:30"
+  },
+  {
+    "id": "onlineradiobox_sk.sity",
+    "name": "Radio Sity",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/26708.v8.png",
+    "stream_url": "https://radiosity.online:8000/aac",
+    "website": "http://www.radiosity.sk/",
+    "provider": "onlineradiobox",
+    "country": "Slovakia",
+    "genres": [
+      "pop",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:42:24+05:30"
+  },
+  {
+    "id": "onlineradiobox_sk.sky",
+    "name": "SKY Rádio",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/100820.v5.png",
+    "stream_url": "http://stream.skyradio.sk:8000/sky128",
+    "website": "http://skyradio.sk/",
+    "provider": "onlineradiobox",
+    "country": "Slovakia",
+    "genres": [
+      "pop",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:43:29+05:30"
+  },
+  {
+    "id": "onlineradiobox_sk.slobodnyvysielac",
+    "name": "Slobodny Vysielac",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/26918.v5.png",
+    "stream_url": "https://vysielanie.online/radio/8010/aac",
+    "website": "https://slobodnyvysielac.sk/",
+    "provider": "onlineradiobox",
+    "country": "Slovakia",
+    "genres": [
+      "rock",
+      "alternative",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:42:12+05:30"
+  },
+  {
+    "id": "onlineradiobox_sk.sro",
+    "name": "Rádio Regina Západ",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/26554.v6.png",
+    "stream_url": "https://icecast.stv.livebox.sk/regina-ba_128.mp3",
+    "website": "http://reginazapad.rtvs.sk/",
+    "provider": "onlineradiobox",
+    "country": "Slovakia",
+    "genres": [
+      "news",
+      "talk",
+      "folk",
+      "ethnic",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:42:21+05:30"
+  },
+  {
+    "id": "onlineradiobox_sk.trnavske",
+    "name": "Trnavské rádio",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/100552.v9.png",
+    "stream_url": "https://solid33.streamupsolutions.com/proxy/mujdmamw/trnavske",
+    "website": "https://www.trnavskeradio.sk/",
+    "provider": "onlineradiobox",
+    "country": "Slovakia",
+    "genres": [
+      "dance",
+      "pop",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:42:23+05:30"
+  },
+  {
+    "id": "onlineradiobox_sk.viva",
+    "name": "Rádio Viva",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/26711.v2.png",
+    "stream_url": "http://stream.sepia.sk:8000/viva128.mp3",
+    "website": "http://vivametropol.sk/",
+    "provider": "onlineradiobox",
+    "country": "Slovakia",
+    "genres": [
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:42:25+05:30"
+  },
+  {
+    "id": "onlineradiobox_sk.vlna",
+    "name": "Rádio Vlna",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/78954.v7.png",
+    "stream_url": "https://stream.radiovlna.sk/vlna-hi.mp3",
+    "website": "https://www.radiovlna.sk/",
+    "provider": "onlineradiobox",
+    "country": "Slovakia",
+    "genres": [
+      "news",
+      "60s"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:42:07+05:30"
+  },
+  {
+    "id": "onlineradiobox_sk.wow",
+    "name": "Radio WOW",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/26724.v14.png",
+    "stream_url": "https://radioserver.online:9816/radiowow",
+    "website": "http://www.radiowow.sk/",
+    "provider": "onlineradiobox",
+    "country": "Slovakia",
+    "genres": [
+      "pop",
+      "top40",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:43:27+05:30"
+  },
+  {
+    "id": "onlineradiobox_sk.yes",
+    "name": "Rádio Topoľčany",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/26681.v6.png",
+    "stream_url": "http://80.242.44.249:8000/;",
+    "website": "https://www.radiotopolcany.sk/",
+    "provider": "onlineradiobox",
+    "country": "Slovakia",
+    "genres": [
+      "dance",
+      "rock",
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:44:18+05:30"
+  },
+  {
+    "id": "onlineradiobox_sk.zahoracke",
+    "name": "Záhorácke rádio",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/26684.v6.png",
+    "stream_url": "http://live.zahorackeradio.sk:8000/zr128.mp3",
+    "website": "http://www.zahorackeradio.sk/",
+    "provider": "onlineradiobox",
+    "country": "Slovakia",
+    "genres": [
+      "pop",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:43:28+05:30"
+  }
+]

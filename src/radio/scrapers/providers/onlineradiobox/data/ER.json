@@ -1,0 +1,41 @@
+[
+  {
+    "id": "onlineradiobox_er.antennawebmassaua",
+    "name": "Antenna Web Massaua",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/134158.v4.png",
+    "stream_url": "https://tinyurl.com/AntennaWebEritrea",
+    "website": "https://antennaweb.it/antennaweb-massaua/",
+    "provider": "onlineradiobox",
+    "country": "Eritrea",
+    "genres": [
+      "rock",
+      "pop",
+      "blues",
+      "jazz",
+      "funk",
+      "reggaeton"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T19:08:56+05:30"
+  },
+  {
+    "id": "onlineradiobox_er.hero",
+    "name": "Hero Radio (Eritrea)",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/139073.v1.png",
+    "stream_url": "https://a2.asurahosting.com:6790/eritrea.mp3",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Eritrea",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T19:08:57+05:30"
+  }
+]

@@ -1,0 +1,1228 @@
+[
+  {
+    "id": "onlineradiobox_md.1001jurnalfm",
+    "name": "Jurnal FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/931.v8.png",
+    "stream_url": "https://audio.jurnalfm.md/stream/3/",
+    "website": "http://www.jurnalfm.md/",
+    "provider": "onlineradiobox",
+    "country": "Moldova",
+    "genres": [
+      "pop",
+      "news",
+      "talk",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:56:13+05:30"
+  },
+  {
+    "id": "onlineradiobox_md.1037rusradiomold",
+    "name": "Любимое Радио",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/936.v12.png",
+    "stream_url": "https://ruradio.md/ruradio",
+    "website": "http://ruradio.md/",
+    "provider": "onlineradiobox",
+    "country": "Moldova",
+    "genres": [
+      "pop",
+      "talk",
+      "oldies",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:56:20+05:30"
+  },
+  {
+    "id": "onlineradiobox_md.880muzfm",
+    "name": "MUZ FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/935.v20.png",
+    "stream_url": "https://live.muzfm.md/muzfm",
+    "website": "http://www.muzfm.md/",
+    "provider": "onlineradiobox",
+    "country": "Moldova",
+    "genres": [
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:56:09+05:30"
+  },
+  {
+    "id": "onlineradiobox_md.ainostri",
+    "name": "Radio Ai Noștri",
+    "image": "https://cdn.onlineradiobox.com/img/logo/5/134305.png",
+    "stream_url": "https://s5.radio.co/sfd9f42d1d/listen",
+    "website": "https://ainostri.com/",
+    "provider": "onlineradiobox",
+    "country": "Moldova",
+    "genres": [
+      "pop",
+      "talk",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:56:20+05:30"
+  },
+  {
+    "id": "onlineradiobox_md.aquarelle",
+    "name": "Radio Aquarelle",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/60715.v11.png",
+    "stream_url": "https://www.radio.md/stream/aquarellefm",
+    "website": "http://www.aquarellefm.md/",
+    "provider": "onlineradiobox",
+    "country": "Moldova",
+    "genres": [
+      "pop",
+      "talk",
+      "russian",
+      "90s",
+      "80s",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:57:15+05:30"
+  },
+  {
+    "id": "onlineradiobox_md.auto",
+    "name": "Авторадио Молдова",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/83754.v4.png",
+    "stream_url": "https://streams.radiozum.md/listen/autoradio/autoradio",
+    "website": "http://auto-radio.md/",
+    "provider": "onlineradiobox",
+    "country": "Moldova",
+    "genres": [
+      "pop",
+      "talk",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:56:14+05:30"
+  },
+  {
+    "id": "onlineradiobox_md.bomba",
+    "name": "Radio Bomba",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/154766.v2.png",
+    "stream_url": "https://c42.radioboss.fm:8062/stream",
+    "website": "https://radio.bomba.md/ru",
+    "provider": "onlineradiobox",
+    "country": "Moldova",
+    "genres": [
+      "pop",
+      "hits",
+      "dance"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:58:00+05:30"
+  },
+  {
+    "id": "onlineradiobox_md.cafemoldova",
+    "name": "Radio Cafe Moldova",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/142695.v1.png",
+    "stream_url": "https://play.radiocafe.md:7000/radio.mp3",
+    "website": "http://www.radiocafe.md/",
+    "provider": "onlineradiobox",
+    "country": "Moldova",
+    "genres": [
+      "love songs"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:57:48+05:30"
+  },
+  {
+    "id": "onlineradiobox_md.cityfm",
+    "name": "CITY FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/143579.v24.png",
+    "stream_url": "https://live.cityfm.md:8001/cityfm",
+    "website": "https://cityfm.md/",
+    "provider": "onlineradiobox",
+    "country": "Moldova",
+    "genres": [
+      "pop",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:56:13+05:30"
+  },
+  {
+    "id": "onlineradiobox_md.dancefm",
+    "name": "DANCE FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/126257.v4.png",
+    "stream_url": "https://stream.mmgmoldova.md:8443/dancefm",
+    "website": "http://dancefm.md/",
+    "provider": "onlineradiobox",
+    "country": "Moldova",
+    "genres": [
+      "dance",
+      "electronic",
+      "pop",
+      "dj"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:56:08+05:30"
+  },
+  {
+    "id": "onlineradiobox_md.dar",
+    "name": "Radio Dar Moldova",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/126440.v5.png",
+    "stream_url": "https://www.radio.md/stream/radiodar",
+    "website": "http://radiodar.md/",
+    "provider": "onlineradiobox",
+    "country": "Moldova",
+    "genres": [
+      "pop",
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:56:18+05:30"
+  },
+  {
+    "id": "onlineradiobox_md.deepnovadeephouse",
+    "name": "DeepNova Deep House",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/148353.v1.png",
+    "stream_url": "https://a8.asurahosting.com:8820/radio.mp3",
+    "website": "https://deepnovaradio.com/",
+    "provider": "onlineradiobox",
+    "country": "Moldova",
+    "genres": [
+      "deep house"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:57:13+05:30"
+  },
+  {
+    "id": "onlineradiobox_md.drivefm",
+    "name": "Drive FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/116539.v5.png",
+    "stream_url": "https://www.radio.md/stream/drivefm",
+    "website": "http://drivefm.md/",
+    "provider": "onlineradiobox",
+    "country": "Moldova",
+    "genres": [
+      "top40",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:56:21+05:30"
+  },
+  {
+    "id": "onlineradiobox_md.ecofm",
+    "name": "Eco FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/1023.v21.png",
+    "stream_url": "https://astreaming.ecofm.md:8443/ecoFM",
+    "website": "http://www.ecofm.md/",
+    "provider": "onlineradiobox",
+    "country": "Moldova",
+    "genres": [
+      "rock",
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:57:12+05:30"
+  },
+  {
+    "id": "onlineradiobox_md.europaplusmoldova",
+    "name": "Europa Plus Moldova",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/92308.v7.png",
+    "stream_url": "http://217.26.167.180:8081/broadwave.mp3?src=1&kbps=128",
+    "website": "http://europaplus.md/",
+    "provider": "onlineradiobox",
+    "country": "Moldova",
+    "genres": [
+      "pop",
+      "top40",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:57:15+05:30"
+  },
+  {
+    "id": "onlineradiobox_md.foculdinvatra",
+    "name": "Focul din Vatră",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/147439.v6.png",
+    "stream_url": "https://aiciascult.eu/radio",
+    "website": "https://aiciascult.eu/",
+    "provider": "onlineradiobox",
+    "country": "Moldova",
+    "genres": [
+      "dance",
+      "pop",
+      "entertainment",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:57:54+05:30"
+  },
+  {
+    "id": "onlineradiobox_md.fresh",
+    "name": "Radio Fresh MD",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/118463.v4.png",
+    "stream_url": "https://stream.zeno.fm/ttofovumhg1vv",
+    "website": "https://radiofreshmd.online/",
+    "provider": "onlineradiobox",
+    "country": "Moldova",
+    "genres": [
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:57:16+05:30"
+  },
+  {
+    "id": "onlineradiobox_md.grt",
+    "name": "GRT FM (GAGAUZRADIOSU)",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/109569.v13.png",
+    "stream_url": "https://old.grt.md/radio",
+    "website": "http://grt.md/radio",
+    "provider": "onlineradiobox",
+    "country": "Moldova",
+    "genres": [
+      "pop",
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:57:16+05:30"
+  },
+  {
+    "id": "onlineradiobox_md.halizgagauz",
+    "name": "Haliz Gagauz Radiosu",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/148538.v1.png",
+    "stream_url": "https://halizgagauz.s02.radio-tochka.com:8025/radio",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Moldova",
+    "genres": [
+      "pop",
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:58:00+05:30"
+  },
+  {
+    "id": "onlineradiobox_md.hero",
+    "name": "Hero Radio (Moldova)",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/147000.v1.png",
+    "stream_url": "https://a2.asurahosting.com:6790/moldova.mp3",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Moldova",
+    "genres": [
+      "news",
+      "gospel",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:57:17+05:30"
+  },
+  {
+    "id": "onlineradiobox_md.hitfm",
+    "name": "HIT FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/360.v24.png",
+    "stream_url": "https://stream.dixi.md:9443/HitFM",
+    "website": "https://hitfm.md/",
+    "provider": "onlineradiobox",
+    "country": "Moldova",
+    "genres": [
+      "dance",
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:56:07+05:30"
+  },
+  {
+    "id": "onlineradiobox_md.imago",
+    "name": "Imago FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/153602.v1.png",
+    "stream_url": "https://radio.imago.fm:8007/_a",
+    "website": "https://imago.fm/",
+    "provider": "onlineradiobox",
+    "country": "Moldova",
+    "genres": [
+      "pop",
+      "jazz",
+      "eclectic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:57:57+05:30"
+  },
+  {
+    "id": "onlineradiobox_md.interfm",
+    "name": "Интер FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/126633.v9.png",
+    "stream_url": "https://inter-fm.com/hlsstream/stream.m3u8",
+    "website": "https://inter-fm.com/",
+    "provider": "onlineradiobox",
+    "country": "Moldova",
+    "genres": [
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:57:16+05:30"
+  },
+  {
+    "id": "onlineradiobox_md.love916",
+    "name": "LOVE RADIO",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/125173.v10.png",
+    "stream_url": "https://stream.mmgmoldova.md:8443/lovefm",
+    "website": "https://www.loveradio.md/",
+    "provider": "onlineradiobox",
+    "country": "Moldova",
+    "genres": [
+      "pop",
+      "dance",
+      "hits",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:56:08+05:30"
+  },
+  {
+    "id": "onlineradiobox_md.maestrofm",
+    "name": "Maestro FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/950.v8.png",
+    "stream_url": "https://maestrofm.md/maestro",
+    "website": "http://www.maestrofm.md/",
+    "provider": "onlineradiobox",
+    "country": "Moldova",
+    "genres": [
+      "chill-out"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:56:19+05:30"
+  },
+  {
+    "id": "onlineradiobox_md.manele",
+    "name": "FM Radio Manele",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/126694.v2.png",
+    "stream_url": "http://213.141.131.10:8000/manele",
+    "website": "https://www.tvron.net/radio/radio-manele",
+    "provider": "onlineradiobox",
+    "country": "Moldova",
+    "genres": [
+      "folk",
+      "ethnic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:57:14+05:30"
+  },
+  {
+    "id": "onlineradiobox_md.masterclass",
+    "name": "Master Class FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/128574.v4.png",
+    "stream_url": "https://myradio24.org/master1",
+    "website": "https://masterclassfm.md/",
+    "provider": "onlineradiobox",
+    "country": "Moldova",
+    "genres": [
+      "dance",
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:57:48+05:30"
+  },
+  {
+    "id": "onlineradiobox_md.megahit",
+    "name": "Mega HIT",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/116540.v3.png",
+    "stream_url": "https://radiomegahit.md/megahit",
+    "website": "http://radiomegahit.md/",
+    "provider": "onlineradiobox",
+    "country": "Moldova",
+    "genres": [
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:57:15+05:30"
+  },
+  {
+    "id": "onlineradiobox_md.megapolis",
+    "name": "Megapolis FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/88728.v8.png",
+    "stream_url": "https://megapolisfm.md:8443/886",
+    "website": "https://www.megapolisfm.md/",
+    "provider": "onlineradiobox",
+    "country": "Moldova",
+    "genres": [
+      "dance",
+      "house",
+      "disco",
+      "pop",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:56:15+05:30"
+  },
+  {
+    "id": "onlineradiobox_md.miculsamaritean",
+    "name": "Radio Micul Samaritean",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/34749.v3.png",
+    "stream_url": "https://s5.radio.co/sfff7b7e97/listen",
+    "website": "http://miculsamaritean.com/",
+    "provider": "onlineradiobox",
+    "country": "Moldova",
+    "genres": [
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:57:04+05:30"
+  },
+  {
+    "id": "onlineradiobox_md.musiq",
+    "name": "MUSI-Q",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/131244.v3.png",
+    "stream_url": "https://lk.castnow.ru:8100/mykomon-320.mp3",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Moldova",
+    "genres": [
+      "rock",
+      "pop",
+      "oldies"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:57:50+05:30"
+  },
+  {
+    "id": "onlineradiobox_md.noroc",
+    "name": "Radio Noroc",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/1020.v10.png",
+    "stream_url": "https://stream.noroc.tv/radionoroc_128",
+    "website": "http://www.radionoroc.md/",
+    "provider": "onlineradiobox",
+    "country": "Moldova",
+    "genres": [
+      "pop",
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:56:12+05:30"
+  },
+  {
+    "id": "onlineradiobox_md.novoeradiomd",
+    "name": "Новое Радио",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/66878.v9.png",
+    "stream_url": "https://stream.newradio.md/stream",
+    "website": "http://www.newradio.md/",
+    "provider": "onlineradiobox",
+    "country": "Moldova",
+    "genres": [
+      "pop",
+      "talk",
+      "russian",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:56:18+05:30"
+  },
+  {
+    "id": "onlineradiobox_md.om",
+    "name": "OM Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/70725.v13.png",
+    "stream_url": "https://www.radio.md/stream/omradio",
+    "website": "http://azblog.me/radio",
+    "provider": "onlineradiobox",
+    "country": "Moldova",
+    "genres": [
+      "trance",
+      "house",
+      "ambient",
+      "psy trance",
+      "chill-out",
+      "instrumental"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:57:07+05:30"
+  },
+  {
+    "id": "onlineradiobox_md.one",
+    "name": "Radio ONE",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/84427.v7.png",
+    "stream_url": "https://radio1.md/r1",
+    "website": "http://radio1.md/",
+    "provider": "onlineradiobox",
+    "country": "Moldova",
+    "genres": [
+      "rock"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:57:10+05:30"
+  },
+  {
+    "id": "onlineradiobox_md.orhei",
+    "name": "Radio Orhei FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/83896.v19.png",
+    "stream_url": "https://radio.tvc.md/stream/",
+    "website": "https://orheifm.live/",
+    "provider": "onlineradiobox",
+    "country": "Moldova",
+    "genres": [
+      "pop",
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:57:08+05:30"
+  },
+  {
+    "id": "onlineradiobox_md.plai",
+    "name": "Radio Plai",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/73188.v8.png",
+    "stream_url": "https://stream.radioplai.md/live",
+    "website": "http://www.radioplai.md/",
+    "provider": "onlineradiobox",
+    "country": "Moldova",
+    "genres": [
+      "pop",
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:56:10+05:30"
+  },
+  {
+    "id": "onlineradiobox_md.prodj",
+    "name": "PRO Dj Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/79545.v7.png",
+    "stream_url": "https://live.prodjradio.net:8065/radio",
+    "website": "http://www.prodjradio.net/",
+    "provider": "onlineradiobox",
+    "country": "Moldova",
+    "genres": [
+      "dance",
+      "house",
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:56:21+05:30"
+  },
+  {
+    "id": "onlineradiobox_md.publika",
+    "name": "Publika FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/138272.v8.png",
+    "stream_url": "https://publikafm.md/publikafm",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Moldova",
+    "genres": [
+      "classic",
+      "soundtrack"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:57:51+05:30"
+  },
+  {
+    "id": "onlineradiobox_md.rad1tiras",
+    "name": "Радио 1 Тирасполь",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/1045.v8.png",
+    "stream_url": "https://radio.pgtrk.com:8443/stream",
+    "website": "http://radio.pgtrk.com/",
+    "provider": "onlineradiobox",
+    "country": "Moldova",
+    "genres": [
+      "pop",
+      "news",
+      "talk",
+      "folk",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:57:09+05:30"
+  },
+  {
+    "id": "onlineradiobox_md.radio21",
+    "name": "Radio 21",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/140214.v3.png",
+    "stream_url": "http://217.26.167.180:8083/Radio21.mp3",
+    "website": "http://www.radio21.md/",
+    "provider": "onlineradiobox",
+    "country": "Moldova",
+    "genres": [
+      "dance",
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:57:54+05:30"
+  },
+  {
+    "id": "onlineradiobox_md.radio71052",
+    "name": "Radio 7",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/958.v14.png",
+    "stream_url": "https://radio7.md/stream/mountr7.mp3",
+    "website": "http://www.radio7.md/",
+    "provider": "onlineradiobox",
+    "country": "Moldova",
+    "genres": [
+      "rock",
+      "pop",
+      "90s",
+      "80s",
+      "70s",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:57:10+05:30"
+  },
+  {
+    "id": "onlineradiobox_md.radiobeat",
+    "name": "Radio BEAT",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/1043.v10.png",
+    "stream_url": "https://ssl.omegahost.ro/9998/stream",
+    "website": "http://radiobeat.md/",
+    "provider": "onlineradiobox",
+    "country": "Moldova",
+    "genres": [
+      "r'n'b",
+      "pop",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:56:22+05:30"
+  },
+  {
+    "id": "onlineradiobox_md.radiochisinau",
+    "name": "Radio Chișinău",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/951.v23.png",
+    "stream_url": "https://www.radio.md/stream/radiochisinau",
+    "website": "https://m.radiochisinau.md/",
+    "provider": "onlineradiobox",
+    "country": "Moldova",
+    "genres": [
+      "news",
+      "talk",
+      "culture"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:57:50+05:30"
+  },
+  {
+    "id": "onlineradiobox_md.radiokiss",
+    "name": "Kiss FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/1038.v15.png",
+    "stream_url": "https://dc.digi.live.kissfm.ro/kissfm.chisinau",
+    "website": "http://www.kissfm.md/",
+    "provider": "onlineradiobox",
+    "country": "Moldova",
+    "genres": [
+      "pop",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:56:11+05:30"
+  },
+  {
+    "id": "onlineradiobox_md.radiologos",
+    "name": "Radio Logos",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/1044.v11.png",
+    "stream_url": "http://asculta.logos.md:10000/live",
+    "website": "http://radio.logos.md/",
+    "provider": "onlineradiobox",
+    "country": "Moldova",
+    "genres": [
+      "talk",
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:57:13+05:30"
+  },
+  {
+    "id": "onlineradiobox_md.radiomoldova",
+    "name": "Radio Moldova",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/938.v14.png",
+    "stream_url": "https://www.radio.md/stream/radiomoldovanews",
+    "website": "https://radiomoldova.md/",
+    "provider": "onlineradiobox",
+    "country": "Moldova",
+    "genres": [
+      "news",
+      "talk",
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:56:18+05:30"
+  },
+  {
+    "id": "onlineradiobox_md.radiorecordmoldova",
+    "name": "RECORD",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/106673.v46.png",
+    "stream_url": "https://air.radiorecord.md/RecordMD",
+    "website": "https://www.radiorecord.md/",
+    "provider": "onlineradiobox",
+    "country": "Moldova",
+    "genres": [
+      "dance",
+      "pop",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:56:07+05:30"
+  },
+  {
+    "id": "onlineradiobox_md.radiozum",
+    "name": "Radio ZUM",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/1040.v14.png",
+    "stream_url": "https://streams.radiozum.md/listen/zum1/ZUM1",
+    "website": "http://www.radiozum.md/",
+    "provider": "onlineradiobox",
+    "country": "Moldova",
+    "genres": [
+      "dance",
+      "pop",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:56:15+05:30"
+  },
+  {
+    "id": "onlineradiobox_md.realitatea",
+    "name": "Realitatea FM Chișinău",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/153554.v1.png",
+    "stream_url": "https://radio.realitatea.group/realitatea",
+    "website": "https://realitatea.group/realitatea-fm/",
+    "provider": "onlineradiobox",
+    "country": "Moldova",
+    "genres": [
+      "pop",
+      "oldies"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:57:58+05:30"
+  },
+  {
+    "id": "onlineradiobox_md.record80s",
+    "name": "RECORD 80&#39;S",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/128797.v9.png",
+    "stream_url": "https://air.radiorecord.md/record80.aacp",
+    "website": "https://www.radiorecord.md/",
+    "provider": "onlineradiobox",
+    "country": "Moldova",
+    "genres": [
+      "retro",
+      "80s"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:57:04+05:30"
+  },
+  {
+    "id": "onlineradiobox_md.recordbighits",
+    "name": "RECORD Big Hits",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/130444.v2.png",
+    "stream_url": "https://air.radiorecord.md/bighits.aacp",
+    "website": "https://www.radiorecord.md/",
+    "provider": "onlineradiobox",
+    "country": "Moldova",
+    "genres": [
+      "pop",
+      "top40",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:57:06+05:30"
+  },
+  {
+    "id": "onlineradiobox_md.recordrock",
+    "name": "RECORD ROCK",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/123166.v10.png",
+    "stream_url": "https://air.radiorecord.md/rock.aacp",
+    "website": "http://radiorecord.md/",
+    "provider": "onlineradiobox",
+    "country": "Moldova",
+    "genres": [
+      "rock"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:57:05+05:30"
+  },
+  {
+    "id": "onlineradiobox_md.relaxmoldova",
+    "name": "RADIO RELAX MOLDOVA",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/116538.v1.png",
+    "stream_url": "https://stream.dixi.md:9443/RadioRelax",
+    "website": "https://www.radiorelax.md/",
+    "provider": "onlineradiobox",
+    "country": "Moldova",
+    "genres": [
+      "relax",
+      "chill-out"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:56:17+05:30"
+  },
+  {
+    "id": "onlineradiobox_md.retro",
+    "name": "Ретро FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/92305.v8.png",
+    "stream_url": "https://efir.retrofm.md:8000/retro",
+    "website": "http://retrofm.md/",
+    "provider": "onlineradiobox",
+    "country": "Moldova",
+    "genres": [
+      "retro"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:56:16+05:30"
+  },
+  {
+    "id": "onlineradiobox_md.retrofmmoldova",
+    "name": "Radio Retro FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/131563.v2.png",
+    "stream_url": "https://radio5.dixi.md/listen/station3/radio_retro128.aac",
+    "website": "https://radioplayer.md/",
+    "provider": "onlineradiobox",
+    "country": "Moldova",
+    "genres": [
+      "retro"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:57:11+05:30"
+  },
+  {
+    "id": "onlineradiobox_md.rfimoldova",
+    "name": "RFI Republica Moldova",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/131352.v1.png",
+    "stream_url": "https://asculta.radiorfi.ro/live.aac",
+    "website": "https://www.rfi.ro/r-moldova",
+    "provider": "onlineradiobox",
+    "country": "Moldova",
+    "genres": [
+      "news",
+      "talk",
+      "sports",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:57:53+05:30"
+  },
+  {
+    "id": "onlineradiobox_md.roksmoldova",
+    "name": "RADIO ROKS MOLDOVA",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/126439.v10.png",
+    "stream_url": "https://stream.dixi.md:9443/Roks",
+    "website": "https://www.radioroks.md/",
+    "provider": "onlineradiobox",
+    "country": "Moldova",
+    "genres": [
+      "rock"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:57:05+05:30"
+  },
+  {
+    "id": "onlineradiobox_md.smilefm",
+    "name": "Smile FM Moldova",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/131697.v1.png",
+    "stream_url": "http://92.115.104.212:8002/;",
+    "website": "https://smilefm.md/vezi/muzica/",
+    "provider": "onlineradiobox",
+    "country": "Moldova",
+    "genres": [
+      "pop",
+      "talk",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:57:08+05:30"
+  },
+  {
+    "id": "onlineradiobox_md.studentus",
+    "name": "Radio Studentus",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/68179.v7.png",
+    "stream_url": "https://rlive.studentus.md/live",
+    "website": "http://radio.studentus.md/",
+    "provider": "onlineradiobox",
+    "country": "Moldova",
+    "genres": [
+      "pop",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:56:11+05:30"
+  },
+  {
+    "id": "onlineradiobox_md.vibefm",
+    "name": "Vibe FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/153436.v1.png",
+    "stream_url": "https://stream.radio.co/s6a544f6c9/listen",
+    "website": "https://www.vibefm.md/",
+    "provider": "onlineradiobox",
+    "country": "Moldova",
+    "genres": [
+      "dance",
+      "electronic",
+      "club",
+      "dj",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:57:56+05:30"
+  },
+  {
+    "id": "onlineradiobox_md.voceabasarabiei",
+    "name": "Radio Vocea Basarabiei",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/1039.v3.png",
+    "stream_url": "https://stream.noroc.tv/radiovb_aac",
+    "website": "https://voceabasarabiei.md/live-radio",
+    "provider": "onlineradiobox",
+    "country": "Moldova",
+    "genres": [
+      "folk",
+      "ethnic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:57:12+05:30"
+  },
+  {
+    "id": "onlineradiobox_md.voceasperantei",
+    "name": "Radio Vocea Sperantei",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/116541.v3.png",
+    "stream_url": "https://air.rvs.md:8443/rvsmoldova",
+    "website": "https://rvs.md/",
+    "provider": "onlineradiobox",
+    "country": "Moldova",
+    "genres": [
+      "talk",
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:57:52+05:30"
+  },
+  {
+    "id": "onlineradiobox_md.xtream",
+    "name": "xTream Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/127317.v3.png",
+    "stream_url": "https://stream.zeno.fm/z35nzzcnuqruv",
+    "website": "https://zeno.fm/radio/xtream-radio/",
+    "provider": "onlineradiobox",
+    "country": "Moldova",
+    "genres": [
+      "house"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:57:49+05:30"
+  },
+  {
+    "id": "onlineradiobox_md.xtreamdance",
+    "name": "xTream Dance",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/133133.v4.png",
+    "stream_url": "https://radio-srv1.11one.ru/xradio.mp3",
+    "website": "http://xradio.ovh/public/xtream_dance",
+    "provider": "onlineradiobox",
+    "country": "Moldova",
+    "genres": [
+      "dance",
+      "trance",
+      "techno"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:57:58+05:30"
+  },
+  {
+    "id": "onlineradiobox_md.zdobsizdub",
+    "name": "Zdob si Zdub Радио",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/127484.v7.png",
+    "stream_url": "https://stream02.pcradio.biz/Zdob_si_Zdub-med",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Moldova",
+    "genres": [
+      "rock"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:57:17+05:30"
+  }
+]

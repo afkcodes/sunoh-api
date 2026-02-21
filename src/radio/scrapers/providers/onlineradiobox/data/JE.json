@@ -1,0 +1,62 @@
+[
+  {
+    "id": "onlineradiobox_je.awsainthelier",
+    "name": "AW Saint Helier",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/149866.v4.png",
+    "stream_url": "https://jersey.radioantennaweb.com/SaintHelier",
+    "website": "https://antennaweb.it/aw-saint-helier/",
+    "provider": "onlineradiobox",
+    "country": "Jersey",
+    "genres": [
+      "pop",
+      "blues",
+      "hard rock",
+      "metal",
+      "jazz",
+      "country",
+      "funk",
+      "death metal"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:26:34+05:30"
+  },
+  {
+    "id": "onlineradiobox_je.soko",
+    "name": "Radio Soko",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/145827.v2.png",
+    "stream_url": "https://listen.radioking.com/radio/355270/stream/404545",
+    "website": "https://radio591105927.wordpress.com/",
+    "provider": "onlineradiobox",
+    "country": "Jersey",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:26:33+05:30"
+  },
+  {
+    "id": "onlineradiobox_je.soleil",
+    "name": "Soleil Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/115923.v2.png",
+    "stream_url": "https://stream.rcs.revma.com/sa3ccwa9yy8uv",
+    "website": "https://www.soleilradio.com/",
+    "provider": "onlineradiobox",
+    "country": "Jersey",
+    "genres": [
+      "pop",
+      "relax",
+      "oldies"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:26:32+05:30"
+  }
+]

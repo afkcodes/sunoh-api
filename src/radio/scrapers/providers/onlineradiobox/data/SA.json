@@ -1,0 +1,692 @@
+[
+  {
+    "id": "onlineradiobox_sa.1018artys",
+    "name": "101.8 Artys Fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/111985.v1.png",
+    "stream_url": "https://stream.zeno.fm/754f5ent9bhvv",
+    "website": "https://ahilboy89ah.wixsite.com/artysfm",
+    "provider": "onlineradiobox",
+    "country": "Saudi Arabia",
+    "genres": [
+      "rock",
+      "love songs"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:36:46+05:30"
+  },
+  {
+    "id": "onlineradiobox_sa.1064musicjamofw",
+    "name": "106.4 Musicjamofw",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/114145.v3.png",
+    "stream_url": "https://ecast.myautodj.com/musicjamofw",
+    "website": "https://hivionnapugad.wixsite.com/musicjamofwfm",
+    "provider": "onlineradiobox",
+    "country": "Saudi Arabia",
+    "genres": [
+      "rock",
+      "reggae",
+      "love songs"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:36:44+05:30"
+  },
+  {
+    "id": "onlineradiobox_sa.1227wildlovers",
+    "name": "122.7 Wildlovers Fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/99942.v9.png",
+    "stream_url": "https://sonic.whitelabelservers.co.uk/6254/stream.mp3",
+    "website": "https://122.7wildlovers.com/",
+    "provider": "onlineradiobox",
+    "country": "Saudi Arabia",
+    "genres": [
+      "pop",
+      "reggae"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:36:14+05:30"
+  },
+  {
+    "id": "onlineradiobox_sa.143mineandblueforever",
+    "name": "D&#39; JAM RADIO FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/111093.v2.png",
+    "stream_url": "https://stream.zeno.fm/n1q5f0bsuf9uv",
+    "website": "https://djwildmine.wixsite.com/website",
+    "provider": "onlineradiobox",
+    "country": "Saudi Arabia",
+    "genres": [
+      "rock",
+      "reggae",
+      "love songs"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:36:10+05:30"
+  },
+  {
+    "id": "onlineradiobox_sa.947tropangkasangga",
+    "name": "94.7 Tropang Kasangga Fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/116525.v5.png",
+    "stream_url": "https://stream.zeno.fm/2m4822mxfxhvv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Saudi Arabia",
+    "genres": [
+      "disco",
+      "pop",
+      "reggae",
+      "love songs"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:36:49+05:30"
+  },
+  {
+    "id": "onlineradiobox_sa.alifalif",
+    "name": "Alif Alif FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/29532.v4.png",
+    "stream_url": "https://alifalifjobs.com/radio/8000/AlifAlifLive.mp3",
+    "website": "http://www.alifaliffm.com/",
+    "provider": "onlineradiobox",
+    "country": "Saudi Arabia",
+    "genres": [
+      "pop",
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:36:03+05:30"
+  },
+  {
+    "id": "onlineradiobox_sa.aljazeraquran",
+    "name": "Aljazera quran",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/102880.v5.png",
+    "stream_url": "https://strw1.openstream.co/2388",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Saudi Arabia",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:36:00+05:30"
+  },
+  {
+    "id": "onlineradiobox_sa.alsharqmaeblumbirgh",
+    "name": "Radio Asharq",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/125376.v6.png",
+    "stream_url": "https://svs.itworkscdn.net/asharqradioalive/asharqradioa/playlist.m3u8",
+    "website": "https://www.asharqbusiness.com/radio",
+    "provider": "onlineradiobox",
+    "country": "Saudi Arabia",
+    "genres": [
+      "business"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:36:06+05:30"
+  },
+  {
+    "id": "onlineradiobox_sa.bestfriend",
+    "name": "Bestfriend FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/29766.v3.png",
+    "stream_url": "https://stream.zeno.fm/aqjyy8xcampuv",
+    "website": "http://www.bestfriendfm.com/",
+    "provider": "onlineradiobox",
+    "country": "Saudi Arabia",
+    "genres": [
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:36:06+05:30"
+  },
+  {
+    "id": "onlineradiobox_sa.dimension",
+    "name": "23.12 Dimension fm radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/111923.v4.png",
+    "stream_url": "https://cast.jomarhost.com/listen/23.12_dimension_fm_radio/radio.mp3",
+    "website": "https://2312dimensionfmradio.weebly.com/",
+    "provider": "onlineradiobox",
+    "country": "Saudi Arabia",
+    "genres": [
+      "r'n'b",
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:36:15+05:30"
+  },
+  {
+    "id": "onlineradiobox_sa.favradio",
+    "name": "Favradio",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/29767.v9.png",
+    "stream_url": "http://stream.hornhost.com:8109/;stream.mp3",
+    "website": "http://www.favradiofm.com/",
+    "provider": "onlineradiobox",
+    "country": "Saudi Arabia",
+    "genres": [
+      "pop",
+      "top40",
+      "filipino"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:36:09+05:30"
+  },
+  {
+    "id": "onlineradiobox_sa.holyquran",
+    "name": "اذاعة القرأن الكريم",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/29652.v2.png",
+    "stream_url": "https://stream.radiojar.com/0tpy1h0kxtzuv",
+    "website": "http://quran.sr.sa/%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3%D9%8A%D8%A9",
+    "provider": "onlineradiobox",
+    "country": "Saudi Arabia",
+    "genres": [
+      "news",
+      "talk",
+      "islamic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:36:11+05:30"
+  },
+  {
+    "id": "onlineradiobox_sa.ictunes",
+    "name": "ICTunes",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/29940.v3.png",
+    "stream_url": "http://mediaserver2.islamicity.com:8000/ictunes",
+    "website": "http://www.islamicity.com/multimedia/radio/",
+    "provider": "onlineradiobox",
+    "country": "Saudi Arabia",
+    "genres": [
+      "pop",
+      "islamic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:36:10+05:30"
+  },
+  {
+    "id": "onlineradiobox_sa.knpinfotechriyadh",
+    "name": "KNP INFOTECH Riyadh",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/131046.v1.png",
+    "stream_url": "https://radio.111google.com/stream/5/",
+    "website": "http://www.knpinfotech.co.in/",
+    "provider": "onlineradiobox",
+    "country": "Saudi Arabia",
+    "genres": [
+      "indian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:36:44+05:30"
+  },
+  {
+    "id": "onlineradiobox_sa.ksaquranmakkah",
+    "name": "KSA Quran Makkah",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/29935.v3.png",
+    "stream_url": "http://mediaserver2.islamicity.com:8000/SaudiTVArabic",
+    "website": "http://www.islamicity.com/multimedia/radio/",
+    "provider": "onlineradiobox",
+    "country": "Saudi Arabia",
+    "genres": [
+      "islamic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:36:01+05:30"
+  },
+  {
+    "id": "onlineradiobox_sa.ksasunnahmadinah",
+    "name": "KSA Sunnah Madinah",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/29939.v3.png",
+    "stream_url": "http://mediaserver2.islamicity.com:8000/SaudiTVEnglish",
+    "website": "http://www.islamicity.com/multimedia/radio/",
+    "provider": "onlineradiobox",
+    "country": "Saudi Arabia",
+    "genres": [
+      "islamic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:36:05+05:30"
+  },
+  {
+    "id": "onlineradiobox_sa.marites",
+    "name": "101.69 Marites Fm Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/111942.v3.png",
+    "stream_url": "https://ny.mysonicserver.com/8044/stream",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Saudi Arabia",
+    "genres": [
+      "disco",
+      "love songs"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:36:13+05:30"
+  },
+  {
+    "id": "onlineradiobox_sa.mbc",
+    "name": "MBC FM",
+    "image": "https://cdn.onlineradiobox.com/img/logo/1/30001.png",
+    "stream_url": "http://www.mbc.net/ar/mbc-fm.html#",
+    "website": "http://www.mbc.net/ar/mbc-fm.html",
+    "provider": "onlineradiobox",
+    "country": "Saudi Arabia",
+    "genres": [
+      "talk",
+      "classic",
+      "arabic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:36:46+05:30"
+  },
+  {
+    "id": "onlineradiobox_sa.mbcloudfm",
+    "name": "Mbc Loud FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/151989.v2.png",
+    "stream_url": "https://d2lfa0y84k5bwn.cloudfront.net/out/v1/86dd4506a70c4d7fb35e2ab50296d9a3/index_8.m3u8",
+    "website": "https://mbcloud.fm/",
+    "provider": "onlineradiobox",
+    "country": "Saudi Arabia",
+    "genres": [
+      "dance",
+      "electronic",
+      "house",
+      "dj",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:36:47+05:30"
+  },
+  {
+    "id": "onlineradiobox_sa.miraathalanbiyya",
+    "name": "Miraath Al Anbiyya",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/29675.v2.png",
+    "stream_url": "http://miraath.ddns.net:7000/autodj",
+    "website": "http://miraath.net/",
+    "provider": "onlineradiobox",
+    "country": "Saudi Arabia",
+    "genres": [
+      "talk",
+      "islamic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:36:09+05:30"
+  },
+  {
+    "id": "onlineradiobox_sa.miraathsdeutsch",
+    "name": "Miraath&#39;s Deutsch Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/29678.v5.png",
+    "stream_url": "https://radio.al7eah.net/8032/stream",
+    "website": "http://miraath.de/radio",
+    "provider": "onlineradiobox",
+    "country": "Saudi Arabia",
+    "genres": [
+      "talk",
+      "islamic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:36:45+05:30"
+  },
+  {
+    "id": "onlineradiobox_sa.miraathsenglish",
+    "name": "Miraath&#39;s English Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/29677.v3.png",
+    "stream_url": "http://radio.miraath.net:7010/stream?1483556222217",
+    "website": "http://miraath.net/",
+    "provider": "onlineradiobox",
+    "country": "Saudi Arabia",
+    "genres": [
+      "pop",
+      "talk",
+      "islamic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:36:44+05:30"
+  },
+  {
+    "id": "onlineradiobox_sa.miraathsholyquraan",
+    "name": "Miraath&#39;s Holy Quraan Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/29531.v7.png",
+    "stream_url": "https://radio.al7eah.net/8010/stream",
+    "website": "http://miraath.net/",
+    "provider": "onlineradiobox",
+    "country": "Saudi Arabia",
+    "genres": [
+      "talk",
+      "islamic",
+      "arabic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:36:02+05:30"
+  },
+  {
+    "id": "onlineradiobox_sa.mix",
+    "name": "Mix FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/29663.v4.png",
+    "stream_url": "https://s1.voscast.com:11377/live.mp3",
+    "website": "http://www.mixfm-sa.com/v10/#!/home/",
+    "provider": "onlineradiobox",
+    "country": "Saudi Arabia",
+    "genres": [
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:36:01+05:30"
+  },
+  {
+    "id": "onlineradiobox_sa.mixlovers",
+    "name": "104.2 MIXLOVERS FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/114485.v4.png",
+    "stream_url": "https://stream.zeno.fm/vzw6cam19nhvv",
+    "website": "https://zeno.fm/radio/104-2-mixlovers-fm/",
+    "provider": "onlineradiobox",
+    "country": "Saudi Arabia",
+    "genres": [
+      "disco"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:36:16+05:30"
+  },
+  {
+    "id": "onlineradiobox_sa.ofwcool",
+    "name": "84.7 Bee Cool Fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/111094.v4.png",
+    "stream_url": "https://ny.mysonicserver.com/8054/stream",
+    "website": "https://boyetoscuro5.wixsite.com/my-site",
+    "provider": "onlineradiobox",
+    "country": "Saudi Arabia",
+    "genres": [
+      "rock",
+      "disco",
+      "love songs"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:36:13+05:30"
+  },
+  {
+    "id": "onlineradiobox_sa.ololdesserto",
+    "name": "69.9 OL OL DESSERTO FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/115981.v6.png",
+    "stream_url": "https://stream.zeno.fm/gkxde584wuhvv",
+    "website": "https://zeno.fm/radio/69-9-ol-ol-desserto-fm/",
+    "provider": "onlineradiobox",
+    "country": "Saudi Arabia",
+    "genres": [
+      "disco",
+      "pop",
+      "reggae",
+      "love songs"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:36:49+05:30"
+  },
+  {
+    "id": "onlineradiobox_sa.quran",
+    "name": "Quran Channel",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/29942.v2.png",
+    "stream_url": "http://mediaserver2.islamicity.com:8000/QuranRadio",
+    "website": "http://www.islamicity.com/multimedia/radio/",
+    "provider": "onlineradiobox",
+    "country": "Saudi Arabia",
+    "genres": [],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:36:07+05:30"
+  },
+  {
+    "id": "onlineradiobox_sa.rdg",
+    "name": "rdg البرازيل",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/128405.v1.png",
+    "stream_url": "https://stream2.svrdedicado.org/8354/stream",
+    "website": "https://rdgline.blogspot.com/",
+    "provider": "onlineradiobox",
+    "country": "Saudi Arabia",
+    "genres": [
+      "eclectic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:36:47+05:30"
+  },
+  {
+    "id": "onlineradiobox_sa.rotana",
+    "name": "rotana online",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/149319.v1.png",
+    "stream_url": "https://stream3.svrdedicado.org/8180/stream",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Saudi Arabia",
+    "genres": [
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:36:45+05:30"
+  },
+  {
+    "id": "onlineradiobox_sa.sabeelalanbiyya",
+    "name": "Sabeel Al Anbiyya",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/83351.v12.png",
+    "stream_url": "https://radio.hhost.host/8044/stream",
+    "website": "https://www.aldafiri.com/",
+    "provider": "onlineradiobox",
+    "country": "Saudi Arabia",
+    "genres": [
+      "islamic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:36:08+05:30"
+  },
+  {
+    "id": "onlineradiobox_sa.sixsisternewly",
+    "name": "Six sister newly fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/114532.v6.png",
+    "stream_url": "https://stream.zeno.fm/te61rbf68nhvv",
+    "website": "https://zeno.fm/radio/six-sister-newly-fm/",
+    "provider": "onlineradiobox",
+    "country": "Saudi Arabia",
+    "genres": [
+      "love songs"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:36:10+05:30"
+  },
+  {
+    "id": "onlineradiobox_sa.skyabc",
+    "name": "Sky ABC Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/144835.v4.png",
+    "stream_url": "https://listen.radioking.com/radio/711134/stream/776696",
+    "website": "https://www.skyabcradio.com/",
+    "provider": "onlineradiobox",
+    "country": "Saudi Arabia",
+    "genres": [
+      "blues",
+      "classic",
+      "country",
+      "opera",
+      "acoustic",
+      "baroque"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:36:48+05:30"
+  },
+  {
+    "id": "onlineradiobox_sa.sunna",
+    "name": "إذاعة السنة",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/29996.v6.png",
+    "stream_url": "http://andromeda.shoutca.st:8189/stream",
+    "website": "http://www.radiosunna.com/",
+    "provider": "onlineradiobox",
+    "country": "Saudi Arabia",
+    "genres": [
+      "talk",
+      "islamic",
+      "arabic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:36:04+05:30"
+  },
+  {
+    "id": "onlineradiobox_sa.twinnie",
+    "name": "14.4 Twinnie Fm Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/111502.v5.png",
+    "stream_url": "https://mars.streamerr.co/8060/stream",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Saudi Arabia",
+    "genres": [
+      "rock",
+      "disco",
+      "love songs"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:36:08+05:30"
+  },
+  {
+    "id": "onlineradiobox_sa.tzgospel",
+    "name": "Tzgospel ( saudi Arabia)",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/127715.v2.png",
+    "stream_url": "https://stream.zeno.fm/g1dk92bgzchvv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Saudi Arabia",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:36:16+05:30"
+  },
+  {
+    "id": "onlineradiobox_sa.tzgospelsaudia",
+    "name": "Tzgospel Saudia",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/132768.v1.png",
+    "stream_url": "https://stream.zeno.fm/eq3be3bgzchvv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Saudi Arabia",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:36:50+05:30"
+  },
+  {
+    "id": "onlineradiobox_sa.ufm",
+    "name": "UFM Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/29931.v2.png",
+    "stream_url": "http://stream.ufmradio.com:8000/;",
+    "website": "http://ufmradio.com/",
+    "provider": "onlineradiobox",
+    "country": "Saudi Arabia",
+    "genres": [
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:36:12+05:30"
+  }
+]

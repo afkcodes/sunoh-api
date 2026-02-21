@@ -1,0 +1,419 @@
+[
+  {
+    "id": "onlineradiobox_cm.antennawebyaounde",
+    "name": "Antenna Web Yaoundé",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/134318.v3.png",
+    "stream_url": "https://tinyurl.com/AntennaWebYaounde",
+    "website": "https://antennaweb.it/antennaweb-yaounde/",
+    "provider": "onlineradiobox",
+    "country": "Cameroon",
+    "genres": [
+      "rock",
+      "pop",
+      "blues",
+      "jazz",
+      "funk",
+      "reggaeton"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:46:30+05:30"
+  },
+  {
+    "id": "onlineradiobox_cm.brightstarstudios",
+    "name": "Brightstar Studios",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/9219.v5.png",
+    "stream_url": "https://s17.ssl-stream.com/proxy/brightstar?mp=/stream",
+    "website": "https://www.brightstarstudios.org/",
+    "provider": "onlineradiobox",
+    "country": "Cameroon",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:46:22+05:30"
+  },
+  {
+    "id": "onlineradiobox_cm.citiesradio993",
+    "name": "Cities Radio 99.3 FM",
+    "image": "https://cdn.onlineradiobox.com/img/logo/7/131547.png",
+    "stream_url": "http://51.195.138.236:8000/citiesradio.mp3",
+    "website": "https://citiesradio.info/",
+    "provider": "onlineradiobox",
+    "country": "Cameroon",
+    "genres": [
+      "african"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:46:26+05:30"
+  },
+  {
+    "id": "onlineradiobox_cm.easykribi",
+    "name": "EASY RADIO KRIBI",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/121128.v1.png",
+    "stream_url": "https://listen.radioking.com/radio/534455/stream/592967",
+    "website": "https://link.radioking.com/easy-radio6",
+    "provider": "onlineradiobox",
+    "country": "Cameroon",
+    "genres": [
+      "dance",
+      "electronic",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:46:23+05:30"
+  },
+  {
+    "id": "onlineradiobox_cm.gncameroon",
+    "name": "Gn Radio Cameroon",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/150080.v1.png",
+    "stream_url": "https://a11.asurahosting.com:7360/cameroon.mp3",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Cameroon",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:46:34+05:30"
+  },
+  {
+    "id": "onlineradiobox_cm.godsloveline",
+    "name": "God&#39;s Love Line (GL Radio)",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/145715.v2.png",
+    "stream_url": "https://listen.radioking.com/radio/246430/stream/290635",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Cameroon",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:46:28+05:30"
+  },
+  {
+    "id": "onlineradiobox_cm.gomusicmedia",
+    "name": "GO MUSIC MEDIA",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/146206.v2.png",
+    "stream_url": "https://listen.radioking.com/radio/547376/stream/606551",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Cameroon",
+    "genres": [
+      "african",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:46:34+05:30"
+  },
+  {
+    "id": "onlineradiobox_cm.hausafulani",
+    "name": "Hausafulani Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/147364.v1.png",
+    "stream_url": "https://listen.radioking.com/radio/729200/stream/795278",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Cameroon",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:46:26+05:30"
+  },
+  {
+    "id": "onlineradiobox_cm.hero",
+    "name": "Hero Radio (Cameroon)",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/139070.v2.png",
+    "stream_url": "https://a2.asurahosting.com:6790/Cameroon.mp3",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Cameroon",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:46:31+05:30"
+  },
+  {
+    "id": "onlineradiobox_cm.ictuniversity",
+    "name": "ICT University Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/122017.v4.png",
+    "stream_url": "https://icturadio.radioca.st/;",
+    "website": "https://media.ictuniversity.edu.cm/",
+    "provider": "onlineradiobox",
+    "country": "Cameroon",
+    "genres": [
+      "education",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:46:24+05:30"
+  },
+  {
+    "id": "onlineradiobox_cm.inchristnetwork",
+    "name": "In Christ Network Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/145842.v1.png",
+    "stream_url": "https://listen.radioking.com/radio/630331/stream/692824",
+    "website": "https://www.gospelofchristministries.org/",
+    "provider": "onlineradiobox",
+    "country": "Cameroon",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:46:33+05:30"
+  },
+  {
+    "id": "onlineradiobox_cm.lpa",
+    "name": "LPA Webradio",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/154940.v1.png",
+    "stream_url": "https://listen.radioking.com/radio/820431/stream/889416",
+    "website": "https://www.laplumedelaigle.com/",
+    "provider": "onlineradiobox",
+    "country": "Cameroon",
+    "genres": [
+      "politics",
+      "sports"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:46:34+05:30"
+  },
+  {
+    "id": "onlineradiobox_cm.lrcm",
+    "name": "LRCM Radio (Сameroon)",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/153001.v2.png",
+    "stream_url": "https://a8.asurahosting.com:8950/cameroon.mp3",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Cameroon",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:46:30+05:30"
+  },
+  {
+    "id": "onlineradiobox_cm.roots",
+    "name": "Roots Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/145207.v6.png",
+    "stream_url": "https://ecmanager2.pro-fhi.net:1515/stream",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Cameroon",
+    "genres": [
+      "african"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:46:29+05:30"
+  },
+  {
+    "id": "onlineradiobox_cm.rush",
+    "name": "Rush FM Bamenda",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/113908.v2.png",
+    "stream_url": "https://stream.zeno.fm/8ggdk1wbtc9uv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Cameroon",
+    "genres": [
+      "sports"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:46:22+05:30"
+  },
+  {
+    "id": "onlineradiobox_cm.ryf",
+    "name": "RYF Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/146204.v4.png",
+    "stream_url": "https://listen.radioking.com/radio/445556/stream/500072",
+    "website": "https://ryfradio.com/",
+    "provider": "onlineradiobox",
+    "country": "Cameroon",
+    "genres": [
+      "african",
+      "culture",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:46:27+05:30"
+  },
+  {
+    "id": "onlineradiobox_cm.siantoubafang905",
+    "name": "RADIO SIANTOU STATION DE BAFANG 90.5",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/62514.v13.png",
+    "stream_url": "https://uk21freenew.listen2myradio.com/live.mp3?typeportmount=s1_11094_stream_301820828;",
+    "website": "https://radiosiantoubafang.radio12345.com/",
+    "provider": "onlineradiobox",
+    "country": "Cameroon",
+    "genres": [
+      "pop",
+      "news",
+      "talk",
+      "sports"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:46:23+05:30"
+  },
+  {
+    "id": "onlineradiobox_cm.skyone",
+    "name": "Sky One Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/9221.v7.png",
+    "stream_url": "https://uk18freenew.listen2myradio.com/live.mp3?typeportmount=s1_34193_stream_447853895;",
+    "website": "http://skyonestation.com/",
+    "provider": "onlineradiobox",
+    "country": "Cameroon",
+    "genres": [
+      "pop",
+      "news",
+      "talk",
+      "folk",
+      "african"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:46:25+05:30"
+  },
+  {
+    "id": "onlineradiobox_cm.thevoicefm",
+    "name": "The Voice FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/64153.v15.png",
+    "stream_url": "https://stream.zeno.fm/aapwzw6h5bruv",
+    "website": "https://zeno.fm/radio/thevoicefmbafang/",
+    "provider": "onlineradiobox",
+    "country": "Cameroon",
+    "genres": [
+      "pop",
+      "news",
+      "comedy",
+      "entertainment",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:46:24+05:30"
+  },
+  {
+    "id": "onlineradiobox_cm.tiemenisiantou",
+    "name": "Radio Tiemeni Siantou",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/9171.v8.png",
+    "stream_url": "https://stream.zeno.fm/gper1b4xc6quv",
+    "website": "https://zeno.fm/radio/radiosiantoubafang/",
+    "provider": "onlineradiobox",
+    "country": "Cameroon",
+    "genres": [
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:46:25+05:30"
+  },
+  {
+    "id": "onlineradiobox_cm.tzgospel",
+    "name": "Tzgospel ( Cameron)",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/127675.v1.png",
+    "stream_url": "https://stream.zeno.fm/kurdy9q1uchvv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Cameroon",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:46:32+05:30"
+  },
+  {
+    "id": "onlineradiobox_cm.voiceofthecross",
+    "name": "Radio Voice of the Cross (RVC) - Koume",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/145453.v2.png",
+    "stream_url": "https://listen.radioking.com/radio/232150/stream/275935",
+    "website": "https://cmfiradio.org/",
+    "provider": "onlineradiobox",
+    "country": "Cameroon",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:46:31+05:30"
+  },
+  {
+    "id": "onlineradiobox_cm.volum3",
+    "name": "Volum&#39;3",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/145648.v2.png",
+    "stream_url": "https://listen.radioking.com/radio/651205/stream/714685",
+    "website": "https://volum3media.com/",
+    "provider": "onlineradiobox",
+    "country": "Cameroon",
+    "genres": [
+      "african",
+      "culture",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:46:32+05:30"
+  }
+]

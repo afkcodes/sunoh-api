@@ -1,0 +1,43 @@
+[
+  {
+    "id": "onlineradiobox_fk.antennaweb",
+    "name": "Antenna Web Port Stanley",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/133442.v2.png",
+    "stream_url": "http://tinyurl.com/AntennaWebPort-Stanley",
+    "website": "https://antennaweb.it/antennaweb-port-stanley/",
+    "provider": "onlineradiobox",
+    "country": "Falkland Islands",
+    "genres": [
+      "rock",
+      "pop",
+      "blues",
+      "jazz",
+      "funk",
+      "reggaeton"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T19:25:27+05:30"
+  },
+  {
+    "id": "onlineradiobox_fk.bfbs",
+    "name": "BFBS Falkland Islands",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/47098.v14.png",
+    "stream_url": "https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs6.aac",
+    "website": "https://radio.bfbs.com/stations/bfbs-falklands",
+    "provider": "onlineradiobox",
+    "country": "Falkland Islands",
+    "genres": [
+      "pop",
+      "talk",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T19:25:27+05:30"
+  }
+]

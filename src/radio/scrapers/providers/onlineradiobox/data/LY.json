@@ -1,0 +1,335 @@
+[
+  {
+    "id": "onlineradiobox_ly.aleman",
+    "name": "alemanfm99.9",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/143596.v7.png",
+    "stream_url": "http://uk14freenew.listen2myradio.com:19462/;",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Libya",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:54:10+05:30"
+  },
+  {
+    "id": "onlineradiobox_ly.alrasmiya934",
+    "name": "Al Rasmiya FM 93.3",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/97788.v22.png",
+    "stream_url": "http://uk7freenew.listen2myradio.com:32322/stream",
+    "website": "https://www.alrasmia.ly/",
+    "provider": "onlineradiobox",
+    "country": "Libya",
+    "genres": [
+      "news",
+      "talk",
+      "folk",
+      "arabic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:54:02+05:30"
+  },
+  {
+    "id": "onlineradiobox_ly.alshoroq",
+    "name": "Alshoroq FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/118524.v6.png",
+    "stream_url": "https://cast2.my-control-panel.com/proxy/alwasaei/stream",
+    "website": "https://alshoroqfm.com/",
+    "provider": "onlineradiobox",
+    "country": "Libya",
+    "genres": [
+      "pop",
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:54:12+05:30"
+  },
+  {
+    "id": "onlineradiobox_ly.alsooq",
+    "name": "Radio Alsooq",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/98705.v2.png",
+    "stream_url": "https://edge.mixlr.com/channel/gzhqs",
+    "website": "http://www.radioalsooq.com/",
+    "provider": "onlineradiobox",
+    "country": "Libya",
+    "genres": [
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:54:07+05:30"
+  },
+  {
+    "id": "onlineradiobox_ly.alwasat",
+    "name": "Radio Alwasat",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/45642.v4.png",
+    "stream_url": "https://s4.radio.co/s7868d49d5/listen",
+    "website": "http://alwasat.ly/",
+    "provider": "onlineradiobox",
+    "country": "Libya",
+    "genres": [
+      "news",
+      "talk",
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:54:04+05:30"
+  },
+  {
+    "id": "onlineradiobox_ly.antennawebtripoli",
+    "name": "Antenna Web Tripoli",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/134587.v3.png",
+    "stream_url": "https://libya.radioantennaweb.com/Tripoli",
+    "website": "https://antennaweb.it/antennaweb-tripoli/",
+    "provider": "onlineradiobox",
+    "country": "Libya",
+    "genres": [
+      "rock",
+      "pop",
+      "blues",
+      "jazz",
+      "funk",
+      "reggaeton"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:54:03+05:30"
+  },
+  {
+    "id": "onlineradiobox_ly.awbengasi",
+    "name": "AW Bengasi",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/151071.v1.png",
+    "stream_url": "https://libya.radioantennaweb.com/Bengasi",
+    "website": "https://antennaweb.it/aw-bengasi/",
+    "provider": "onlineradiobox",
+    "country": "Libya",
+    "genres": [
+      "rock",
+      "pop",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:54:11+05:30"
+  },
+  {
+    "id": "onlineradiobox_ly.fununtripoli",
+    "name": "صحيفة فنون طرابلس",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/130524.v1.png",
+    "stream_url": "https://stream.zeno.fm/z9wfrdpmgg0uv",
+    "website": "https://fununtripoli.com/",
+    "provider": "onlineradiobox",
+    "country": "Libya",
+    "genres": [
+      "folk",
+      "arabic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:54:04+05:30"
+  },
+  {
+    "id": "onlineradiobox_ly.halasabratha",
+    "name": "Hala Sabratha",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/100275.v2.png",
+    "stream_url": "https://stream.zeno.fm/1dy2395z3k8uv",
+    "website": "https://zeno.fm/hala-sabratha",
+    "provider": "onlineradiobox",
+    "country": "Libya",
+    "genres": [
+      "arabic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:54:01+05:30"
+  },
+  {
+    "id": "onlineradiobox_ly.hero",
+    "name": "Hero Radio (Libya)",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/139025.v1.png",
+    "stream_url": "https://a2.asurahosting.com:6790/libya.mp3",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Libya",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:54:11+05:30"
+  },
+  {
+    "id": "onlineradiobox_ly.kitabbsunnahenglish",
+    "name": "Kitabb Sunnah English",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/75730.v2.png",
+    "stream_url": "http://162.244.80.52:6656/stream",
+    "website": "http://www.kwsfm.ly/",
+    "provider": "onlineradiobox",
+    "country": "Libya",
+    "genres": [
+      "islamic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:54:02+05:30"
+  },
+  {
+    "id": "onlineradiobox_ly.libyanahits",
+    "name": "Libyana Hits",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/45641.v6.png",
+    "stream_url": "http://proxima.shoutca.st:8946/stream.mp3",
+    "website": "http://www.libyanahits.fm/",
+    "provider": "onlineradiobox",
+    "country": "Libya",
+    "genres": [
+      "pop",
+      "news",
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:54:00+05:30"
+  },
+  {
+    "id": "onlineradiobox_ly.lrcm",
+    "name": "LRCM Radio (Libia)",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/153046.v1.png",
+    "stream_url": "https://a8.asurahosting.com:8950/libya.mp3",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Libya",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:54:08+05:30"
+  },
+  {
+    "id": "onlineradiobox_ly.musicon",
+    "name": "Music On",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/148781.v1.png",
+    "stream_url": "https://stream.zeno.fm/qr81y8cyd5zuv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Libya",
+    "genres": [
+      "dance",
+      "r'n'b",
+      "pop",
+      "hip-hop",
+      "reggae",
+      "afro beat"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:54:07+05:30"
+  },
+  {
+    "id": "onlineradiobox_ly.nouraleman",
+    "name": "Radio Nour Aleman",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/133558.v3.png",
+    "stream_url": "https://stream.zeno.fm/r6eprdta6nhvv",
+    "website": "https://radionouraleman.com/ar/",
+    "provider": "onlineradiobox",
+    "country": "Libya",
+    "genres": [
+      "talk",
+      "islamic",
+      "culture"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:54:06+05:30"
+  },
+  {
+    "id": "onlineradiobox_ly.sawa",
+    "name": "Radio Sawa",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/45644.v5.png",
+    "stream_url": "https://mbnv-audio-ingest.akamaized.net/hls/live/2038905/MBNV_SAWA_LEVANT_AUDIO_HLS/merge.m3u8",
+    "website": "http://www.radiosawa.com/",
+    "provider": "onlineradiobox",
+    "country": "Libya",
+    "genres": [
+      "pop",
+      "news",
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:54:05+05:30"
+  },
+  {
+    "id": "onlineradiobox_ly.thesalafway",
+    "name": "The Salaf Way FM 100.3",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/87523.v8.png",
+    "stream_url": "https://airtime.salafwayfm.ly/",
+    "website": "http://www.salafwayfm.ly/",
+    "provider": "onlineradiobox",
+    "country": "Libya",
+    "genres": [
+      "islamic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:54:06+05:30"
+  },
+  {
+    "id": "onlineradiobox_ly.tzgospel",
+    "name": "Tzgospel libya",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/128847.v2.png",
+    "stream_url": "https://stream.zeno.fm/6qatn6s00ehvv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Libya",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:54:09+05:30"
+  }
+]

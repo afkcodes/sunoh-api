@@ -1,0 +1,197 @@
+[
+  {
+    "id": "onlineradiobox_mm.antennawebbirmania",
+    "name": "Antenna Web Birmania",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/138170.v1.png",
+    "stream_url": "https://tinyurl.com/Antenna-Web-Birmania",
+    "website": "https://antennaweb.it/antenna-web-birmania/",
+    "provider": "onlineradiobox",
+    "country": "Myanmar",
+    "genres": [
+      "rock",
+      "pop",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:01:19+05:30"
+  },
+  {
+    "id": "onlineradiobox_mm.bluegrass",
+    "name": "Bluegrass Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/145385.v1.png",
+    "stream_url": "https://listen.radioking.com/radio/681745/stream/746185",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Myanmar",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:01:17+05:30"
+  },
+  {
+    "id": "onlineradiobox_mm.cherryfm",
+    "name": "Cherry FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/32673.v19.png",
+    "stream_url": "http://150.95.80.54:8000/stream/89/;",
+    "website": "http://cherryfmmym.com/",
+    "provider": "onlineradiobox",
+    "country": "Myanmar",
+    "genres": [
+      "rock",
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:01:14+05:30"
+  },
+  {
+    "id": "onlineradiobox_mm.dwgburmese",
+    "name": "DWG Radio Burmese",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/65734.v7.png",
+    "stream_url": "https://server32349.streamplus.de/;?type=http&nocache=227",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Myanmar",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:01:18+05:30"
+  },
+  {
+    "id": "onlineradiobox_mm.miradio",
+    "name": "MIRadio",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/72004.v8.png",
+    "stream_url": "http://laylio.radioactive.sg/?p=5846a51bb1c7f88c9621b37ffe0271c9",
+    "website": "http://www.miradio.com.mm/content/contact-us",
+    "provider": "onlineradiobox",
+    "country": "Myanmar",
+    "genres": [
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:01:15+05:30"
+  },
+  {
+    "id": "onlineradiobox_mm.myanmar",
+    "name": "Myanmar Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/147291.v40.png",
+    "stream_url": "https://stream.zeno.fm/pxn7p5cbm48uv",
+    "website": "http://upanna.on-air.fm/free",
+    "provider": "onlineradiobox",
+    "country": "Myanmar",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:01:19+05:30"
+  },
+  {
+    "id": "onlineradiobox_mm.nichijoushuffle",
+    "name": "Nichijou Shuffle",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/114340.v5.png",
+    "stream_url": "https://stream.zeno.fm/tncreqmcwnhvv",
+    "website": "https://zeno.fm/radio/nichijou-shuffle/",
+    "provider": "onlineradiobox",
+    "country": "Myanmar",
+    "genres": [
+      "talk",
+      "anime",
+      "japanese"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:01:16+05:30"
+  },
+  {
+    "id": "onlineradiobox_mm.padamyarfm",
+    "name": "Padamyar FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/32534.v5.png",
+    "stream_url": "https://stream.zeno.fm/og9btsnj00tuv",
+    "website": "http://padamyarfm.com/",
+    "provider": "onlineradiobox",
+    "country": "Myanmar",
+    "genres": [
+      "pop",
+      "news",
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:01:14+05:30"
+  },
+  {
+    "id": "onlineradiobox_mm.shwehinnthar",
+    "name": "SHWE HINN THAR",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/144349.v27.png",
+    "stream_url": "https://stream.zeno.fm/nv7i41tz04mtv",
+    "website": "https://radio.upanna.com/",
+    "provider": "onlineradiobox",
+    "country": "Myanmar",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:01:15+05:30"
+  },
+  {
+    "id": "onlineradiobox_mm.thazin",
+    "name": "Thazin FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/72007.v17.png",
+    "stream_url": "http://212.84.160.3:9232/;",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Myanmar",
+    "genres": [
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:01:15+05:30"
+  },
+  {
+    "id": "onlineradiobox_mm.thazinindigenous",
+    "name": "Thazin Indigenous Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/128994.v6.png",
+    "stream_url": "https://fpsnew2.listen2myradio.com:2199/listen.php?ip=212.84.160.3&port=9238&type=s1",
+    "website": "https://thazinindigenousradio.listen2myshow.com/",
+    "provider": "onlineradiobox",
+    "country": "Myanmar",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:01:19+05:30"
+  }
+]

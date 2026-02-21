@@ -1,0 +1,2184 @@
+[
+  {
+    "id": "onlineradiobox_zm.3fm",
+    "name": "3 FM 97.3",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/133687.v9.png",
+    "stream_url": "https://stream.zeno.fm/ptcaabvnp62tv",
+    "website": "https://zeno.fm/radio/3fm-zambia-97-3/",
+    "provider": "onlineradiobox",
+    "country": "Zambia",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:36:15+05:30"
+  },
+  {
+    "id": "onlineradiobox_zm.5fmzambia",
+    "name": "5fm Radio Zambia",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/89363.v4.png",
+    "stream_url": "http://ca9.rcast.net:8014/;stream.mp3?",
+    "website": "http://www.5fm.co.zm/",
+    "provider": "onlineradiobox",
+    "country": "Zambia",
+    "genres": [
+      "pop",
+      "folk",
+      "african",
+      "adult contemporary",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:33:18+05:30"
+  },
+  {
+    "id": "onlineradiobox_zm.945metrosports",
+    "name": "945 Metro Sports",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/147917.v5.png",
+    "stream_url": "https://s24.myradiostream.com:15422/listen.mp3",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Zambia",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:35:20+05:30"
+  },
+  {
+    "id": "onlineradiobox_zm.afrozam",
+    "name": "Afrozam Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/104892.v2.png",
+    "stream_url": "https://stream.zeno.fm/yandf6mhsuhvv",
+    "website": "https://zamplaylist.com/",
+    "provider": "onlineradiobox",
+    "country": "Zambia",
+    "genres": [
+      "hip-hop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:35:17+05:30"
+  },
+  {
+    "id": "onlineradiobox_zm.anointedvoice",
+    "name": "Anointed Voice FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/135965.v1.png",
+    "stream_url": "https://stream.zeno.fm/xiih9uyj16jvv",
+    "website": "http://anointed-voice-fm.infinityfreeapp.com/",
+    "provider": "onlineradiobox",
+    "country": "Zambia",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:35:07+05:30"
+  },
+  {
+    "id": "onlineradiobox_zm.antennaweblusaka",
+    "name": "Antenna Web Lusaka",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/134855.v1.png",
+    "stream_url": "https://tinyurl.com/AntennaWebLusaka",
+    "website": "https://antennaweb.it/antennaweb-lusaka/",
+    "provider": "onlineradiobox",
+    "country": "Zambia",
+    "genres": [
+      "rock",
+      "pop",
+      "blues",
+      "jazz",
+      "funk",
+      "reggaeton"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:35:22+05:30"
+  },
+  {
+    "id": "onlineradiobox_zm.bola",
+    "name": "Bola radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/152399.v1.png",
+    "stream_url": "http://s9.myradiostream.com:47470/listen.mp3",
+    "website": "https://www.bolabet.co.zm/",
+    "provider": "onlineradiobox",
+    "country": "Zambia",
+    "genres": [
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:35:23+05:30"
+  },
+  {
+    "id": "onlineradiobox_zm.breeze",
+    "name": "Breeze FM Zambia",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/88516.v4.png",
+    "stream_url": "http://178.netromedia.com:8000/BreezeFM",
+    "website": "http://breezefmchipata.com/",
+    "provider": "onlineradiobox",
+    "country": "Zambia",
+    "genres": [
+      "pop",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:34:13+05:30"
+  },
+  {
+    "id": "onlineradiobox_zm.business",
+    "name": "Business Radio Zambia",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/154014.v1.png",
+    "stream_url": "https://businessradiozambia.out.airtime.pro/businessradiozambia_a",
+    "website": "https://businessradiozambia.com/",
+    "provider": "onlineradiobox",
+    "country": "Zambia",
+    "genres": [
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:36:15+05:30"
+  },
+  {
+    "id": "onlineradiobox_zm.byta",
+    "name": "Byta FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/149855.v4.png",
+    "stream_url": "https://s13.myradiostream.com/38946/listen.mp3",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Zambia",
+    "genres": [
+      "new age"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:33:24+05:30"
+  },
+  {
+    "id": "onlineradiobox_zm.capital",
+    "name": "capital fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/152905.v1.png",
+    "stream_url": "https://s5.myradiostream.com/44648/listen.mp3",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Zambia",
+    "genres": [
+      "r'n'b",
+      "classic",
+      "hip-hop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:34:17+05:30"
+  },
+  {
+    "id": "onlineradiobox_zm.capitalsouthafrica",
+    "name": "Capital Radio South Africa",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/144836.v2.png",
+    "stream_url": "https://listen.radioking.com/radio/711008/stream/776564",
+    "website": "https://capitalradiosa.com/",
+    "provider": "onlineradiobox",
+    "country": "Zambia",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:36:06+05:30"
+  },
+  {
+    "id": "onlineradiobox_zm.chikumpaushi",
+    "name": "Chikumpaushi Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/143641.v2.png",
+    "stream_url": "https://stream.zeno.fm/m0tup8oxxrauv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Zambia",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:36:13+05:30"
+  },
+  {
+    "id": "onlineradiobox_zm.chikuni",
+    "name": "CHIKUNI RADIO",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/47722.v4.png",
+    "stream_url": "https://chikunir.radioca.st/live",
+    "website": "https://www.chikuniradiozm.org/",
+    "provider": "onlineradiobox",
+    "country": "Zambia",
+    "genres": [
+      "talk",
+      "christian",
+      "education"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:33:13+05:30"
+  },
+  {
+    "id": "onlineradiobox_zm.chimfwembe",
+    "name": "Chimfwembe Fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/141344.v1.png",
+    "stream_url": "https://stream.zeno.fm/welaq7p7d1buv",
+    "website": "http://chimfwembefm.infy.uk/?i=1",
+    "provider": "onlineradiobox",
+    "country": "Zambia",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:36:56+05:30"
+  },
+  {
+    "id": "onlineradiobox_zm.chomamaanu",
+    "name": "Choma Maanu Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/96725.v9.png",
+    "stream_url": "http://s26.myradiostream.com:22860/listen.mp3",
+    "website": "https://www.chomamaanu.com/",
+    "provider": "onlineradiobox",
+    "country": "Zambia",
+    "genres": [
+      "r'n'b",
+      "jazz",
+      "reggae"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:35:12+05:30"
+  },
+  {
+    "id": "onlineradiobox_zm.christiannation",
+    "name": "Christian Nation FM 106.5",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/147564.v2.png",
+    "stream_url": "https://stream.zeno.fm/dcvyegbhys6uv",
+    "website": "https://www.christiannationfm.org/",
+    "provider": "onlineradiobox",
+    "country": "Zambia",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:36:04+05:30"
+  },
+  {
+    "id": "onlineradiobox_zm.christianvoice",
+    "name": "Radio Christian Voice",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/47747.v8.png",
+    "stream_url": "https://streaming.shoutcast.com/rcv",
+    "website": "https://rcv.co.zm/",
+    "provider": "onlineradiobox",
+    "country": "Zambia",
+    "genres": [
+      "talk",
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:33:13+05:30"
+  },
+  {
+    "id": "onlineradiobox_zm.christisnotdeviedgospeloutreach",
+    "name": "Christ is Not Devied Gospel Outreach Radio Online",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/140377.v1.png",
+    "stream_url": "https://stream.zeno.fm/hlezllky8hxvv",
+    "website": "https://zeno.fm/radio/christ-is-not-devied-gospel-outreach-radio-online/",
+    "provider": "onlineradiobox",
+    "country": "Zambia",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:36:07+05:30"
+  },
+  {
+    "id": "onlineradiobox_zm.classicwoods989",
+    "name": "Classic Woods 98.9 FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/117565.v1.png",
+    "stream_url": "https://stream.zeno.fm/hkg9a439g0hvv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Zambia",
+    "genres": [
+      "pop",
+      "news",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:36:14+05:30"
+  },
+  {
+    "id": "onlineradiobox_zm.cloud",
+    "name": "Cloud FM Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/111732.v3.png",
+    "stream_url": "http://170.187.167.180:8000/radio.mp3",
+    "website": "https://www.cloudfmradio.com/",
+    "provider": "onlineradiobox",
+    "country": "Zambia",
+    "genres": [
+      "r'n'b",
+      "pop",
+      "soul",
+      "reggae",
+      "adult contemporary",
+      "romantic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:34:18+05:30"
+  },
+  {
+    "id": "onlineradiobox_zm.cloudzambia",
+    "name": "Cloud Fm Zambia",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/146567.v3.png",
+    "stream_url": "http://s26.myradiostream.com:22680/;",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Zambia",
+    "genres": [
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:35:06+05:30"
+  },
+  {
+    "id": "onlineradiobox_zm.culture",
+    "name": "Culture Radio 105.7FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/137992.v3.png",
+    "stream_url": "https://ec4.yesstreaming.net:1555/stream",
+    "website": "https://iamcatholiczambia.com/",
+    "provider": "onlineradiobox",
+    "country": "Zambia",
+    "genres": [
+      "r'n'b",
+      "jazz",
+      "folk",
+      "african"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:36:12+05:30"
+  },
+  {
+    "id": "onlineradiobox_zm.dctalk",
+    "name": "DC Talk Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/78478.v10.png",
+    "stream_url": "http://s11.myradiostream.com:23670/stream/23670/;",
+    "website": "https://www.dctalkradio.co.zm/",
+    "provider": "onlineradiobox",
+    "country": "Zambia",
+    "genres": [
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:34:11+05:30"
+  },
+  {
+    "id": "onlineradiobox_zm.eastsidehits",
+    "name": "Hits Radio ZM",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/100655.v16.png",
+    "stream_url": "https://stream.zeno.fm/irq7hesdk0muv",
+    "website": "https://hitsfmzambia.wixsite.com/hitsradio",
+    "provider": "onlineradiobox",
+    "country": "Zambia",
+    "genres": [
+      "r'n'b",
+      "pop",
+      "blues",
+      "hip-hop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:33:23+05:30"
+  },
+  {
+    "id": "onlineradiobox_zm.ekot",
+    "name": "Ekot Radio 97.9 Fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/150812.v3.png",
+    "stream_url": "http://s28.myradiostream.com:30162/;",
+    "website": "http://ekotradiozm.com-listen.live/free-account-from-myradiostream.com/",
+    "provider": "onlineradiobox",
+    "country": "Zambia",
+    "genres": [
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:36:21+05:30"
+  },
+  {
+    "id": "onlineradiobox_zm.essential",
+    "name": "Essential Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/145006.v1.png",
+    "stream_url": "https://listen.radioking.com/radio/701660/stream/766967",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Zambia",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:36:09+05:30"
+  },
+  {
+    "id": "onlineradiobox_zm.flava",
+    "name": "FLAVA FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/47725.v2.png",
+    "stream_url": "http://s2.voscast.com:9304/;",
+    "website": "http://www.flavafm.co.zm/",
+    "provider": "onlineradiobox",
+    "country": "Zambia",
+    "genres": [
+      "r'n'b",
+      "soul",
+      "adult contemporary",
+      "romantic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:33:15+05:30"
+  },
+  {
+    "id": "onlineradiobox_zm.giftsandblessings",
+    "name": "Gifts and Blessings Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/116725.v3.png",
+    "stream_url": "https://stream.zeno.fm/xbk5qep537zuv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Zambia",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:36:55+05:30"
+  },
+  {
+    "id": "onlineradiobox_zm.gnzambia",
+    "name": "Gn Radio Zambia",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/150084.v1.png",
+    "stream_url": "https://a11.asurahosting.com:7360/zambia.mp3",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Zambia",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:35:24+05:30"
+  },
+  {
+    "id": "onlineradiobox_zm.godcity",
+    "name": "GodCity Radio - Mpulungu",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/151885.v4.png",
+    "stream_url": "http://s40.myradiostream.com:24026/listen.mp3",
+    "website": "https://godcityradio.com/",
+    "provider": "onlineradiobox",
+    "country": "Zambia",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:36:20+05:30"
+  },
+  {
+    "id": "onlineradiobox_zm.grace",
+    "name": "Grace Fm Zambia",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/110145.v2.png",
+    "stream_url": "https://stream.zeno.fm/n16bhtfm698uv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Zambia",
+    "genres": [
+      "education",
+      "christian rock"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:36:13+05:30"
+  },
+  {
+    "id": "onlineradiobox_zm.greatblessings",
+    "name": "Great Blessings FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/135775.v1.png",
+    "stream_url": "https://stream.zeno.fm/c2wi7bdqsn1tv",
+    "website": "http://rain-chimfwembe-tv.infinityfreeapp.com/",
+    "provider": "onlineradiobox",
+    "country": "Zambia",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:35:25+05:30"
+  },
+  {
+    "id": "onlineradiobox_zm.harmony",
+    "name": "Harmony FM Zambia",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/141727.v3.png",
+    "stream_url": "https://stream.zeno.fm/efrqan8mpqcuv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Zambia",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:36:55+05:30"
+  },
+  {
+    "id": "onlineradiobox_zm.hdgc",
+    "name": "HDGC Online Radio Home of Champion",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/150816.v1.png",
+    "stream_url": "https://stream.zeno.fm/yi5xcstblmxtv",
+    "website": "https://zeno.fm/radio/hdgc-online-radio-home-of-champion/",
+    "provider": "onlineradiobox",
+    "country": "Zambia",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:35:14+05:30"
+  },
+  {
+    "id": "onlineradiobox_zm.her",
+    "name": "Her Fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/143414.v1.png",
+    "stream_url": "https://stream.zeno.fm/djxcrsdbv6puv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Zambia",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:35:18+05:30"
+  },
+  {
+    "id": "onlineradiobox_zm.hero",
+    "name": "Hero Radio (Zambia)",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/139076.v1.png",
+    "stream_url": "https://a2.asurahosting.com:6790/zambia.mp3",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Zambia",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:36:57+05:30"
+  },
+  {
+    "id": "onlineradiobox_zm.hone",
+    "name": "Hone FM 94.1",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/146641.v1.png",
+    "stream_url": "https://s5.radio.co/sd5df7c98b/listen",
+    "website": "https://www.evelynhone.ac.zm/",
+    "provider": "onlineradiobox",
+    "country": "Zambia",
+    "genres": [
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:34:21+05:30"
+  },
+  {
+    "id": "onlineradiobox_zm.hope",
+    "name": "Hope Fm Zambia",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/111885.v4.png",
+    "stream_url": "https://carina.streamerr.co:8078/stream",
+    "website": "http://hopefm.org.zm/",
+    "provider": "onlineradiobox",
+    "country": "Zambia",
+    "genres": [
+      "christian",
+      "african",
+      "community"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:33:25+05:30"
+  },
+  {
+    "id": "onlineradiobox_zm.hot",
+    "name": "HOT FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/47723.v5.png",
+    "stream_url": "http://s2.yesstreaming.net:7091/stream",
+    "website": "http://www.hot877.com/",
+    "provider": "onlineradiobox",
+    "country": "Zambia",
+    "genres": [
+      "pop",
+      "top40",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:33:12+05:30"
+  },
+  {
+    "id": "onlineradiobox_zm.hype1073",
+    "name": "Hype FM 107.3 FM Zambia",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/123948.v3.png",
+    "stream_url": "https://stream.zeno.fm/dupvt1fgcewvv",
+    "website": "https://hypefmzambia.com/",
+    "provider": "onlineradiobox",
+    "country": "Zambia",
+    "genres": [
+      "news"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:34:21+05:30"
+  },
+  {
+    "id": "onlineradiobox_zm.iamcatholiczambia",
+    "name": "I Am Catholic Zambia (Online radio)",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/111227.v3.png",
+    "stream_url": "https://ec4.yesstreaming.net:2015/stream",
+    "website": "https://iamcatholiczambia.com/",
+    "provider": "onlineradiobox",
+    "country": "Zambia",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:34:08+05:30"
+  },
+  {
+    "id": "onlineradiobox_zm.imimbo",
+    "name": "Imimbo FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/116572.v4.png",
+    "stream_url": "https://stream.zeno.fm/k2ryd9apkxhvv",
+    "website": "https://zeno.fm/radio/imimbo-fm/",
+    "provider": "onlineradiobox",
+    "country": "Zambia",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:35:08+05:30"
+  },
+  {
+    "id": "onlineradiobox_zm.inwit",
+    "name": "Inwit online radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/150555.v1.png",
+    "stream_url": "https://s5.radio.co/sa26cd672c/listen",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Zambia",
+    "genres": [
+      "r'n'b",
+      "hip-hop",
+      "soul",
+      "afro beat"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:36:58+05:30"
+  },
+  {
+    "id": "onlineradiobox_zm.iso",
+    "name": "Iso Fm Radio Station",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/143147.v1.png",
+    "stream_url": "https://stream.zeno.fm/8zqfh7x20a0uv",
+    "website": "https://isofmradio.home.blog/",
+    "provider": "onlineradiobox",
+    "country": "Zambia",
+    "genres": [
+      "electronic",
+      "r'n'b",
+      "pop",
+      "hip-hop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:36:52+05:30"
+  },
+  {
+    "id": "onlineradiobox_zm.isunga",
+    "name": "Isunga Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/148989.v6.png",
+    "stream_url": "https://s33.myradiostream.com/18378/listen.mp3",
+    "website": "https://isungaradio.com/",
+    "provider": "onlineradiobox",
+    "country": "Zambia",
+    "genres": [
+      "r'n'b",
+      "hip-hop",
+      "reggae"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:37:00+05:30"
+  },
+  {
+    "id": "onlineradiobox_zm.itt",
+    "name": "ITT Radio 90.9 FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/115330.v9.png",
+    "stream_url": "http://s2.myradiostream.com:8938/;",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Zambia",
+    "genres": [
+      "r'n'b",
+      "pop",
+      "oldies"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:34:09+05:30"
+  },
+  {
+    "id": "onlineradiobox_zm.iwave",
+    "name": "iWave FM Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/88818.v6.png",
+    "stream_url": "https://s47.myradiostream.com/9934/listen.mp3",
+    "website": "http://www.iwavefm.com/",
+    "provider": "onlineradiobox",
+    "country": "Zambia",
+    "genres": [
+      "r'n'b",
+      "hip-hop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:33:21+05:30"
+  },
+  {
+    "id": "onlineradiobox_zm.joy",
+    "name": "Joy FM Zambia",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/123163.v9.png",
+    "stream_url": "https://s40.myradiostream.com/22890/listen.mp3",
+    "website": "https://www.joyfmzambia.blogspot.com/",
+    "provider": "onlineradiobox",
+    "country": "Zambia",
+    "genres": [
+      "news",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:34:14+05:30"
+  },
+  {
+    "id": "onlineradiobox_zm.k955",
+    "name": "K-FM 95.5",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/99894.v5.png",
+    "stream_url": "https://stream.zeno.fm/xbv76qzxuk8uv",
+    "website": "https://etuniz.com/",
+    "provider": "onlineradiobox",
+    "country": "Zambia",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:34:10+05:30"
+  },
+  {
+    "id": "onlineradiobox_zm.kanele977",
+    "name": "Kanele 97.7 FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/106371.v16.png",
+    "stream_url": "https://stream.zeno.fm/idfa3ojzorstv",
+    "website": "https://zeno.fm/radio/kanele-97-7-fm",
+    "provider": "onlineradiobox",
+    "country": "Zambia",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:33:20+05:30"
+  },
+  {
+    "id": "onlineradiobox_zm.kasama",
+    "name": "Kasama Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/127718.v2.png",
+    "stream_url": "https://stream.zeno.fm/n1p3a2urh98uv",
+    "website": "https://djvybzmusic.com/",
+    "provider": "onlineradiobox",
+    "country": "Zambia",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:36:08+05:30"
+  },
+  {
+    "id": "onlineradiobox_zm.katete",
+    "name": "Katete FM Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/144513.v2.png",
+    "stream_url": "https://play.streamafrica.net/katete",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Zambia",
+    "genres": [
+      "news",
+      "talk",
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:36:07+05:30"
+  },
+  {
+    "id": "onlineradiobox_zm.keembe",
+    "name": "Keembe FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/153456.v1.png",
+    "stream_url": "https://s5.myradiostream.com/44682/listen.mp3",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Zambia",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:34:19+05:30"
+  },
+  {
+    "id": "onlineradiobox_zm.kluvgospel",
+    "name": "SHILOH FM ( AKA K-LUV GOSPEL FM)",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/125840.v5.png",
+    "stream_url": "https://kluvgospelfm.out.airtime.pro/kluvgospelfm_b",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Zambia",
+    "genres": [
+      "talk",
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:36:53+05:30"
+  },
+  {
+    "id": "onlineradiobox_zm.komboni",
+    "name": "Komboni Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/103337.v24.png",
+    "stream_url": "http://41.72.106.138/broadwave.mp3?src=1&rate=1&ref=",
+    "website": "http://kombonipobo.com/",
+    "provider": "onlineradiobox",
+    "country": "Zambia",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:34:14+05:30"
+  },
+  {
+    "id": "onlineradiobox_zm.kruze",
+    "name": "KRUZE RADIO",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/122271.v8.png",
+    "stream_url": "https://stream.zeno.fm/wirhot5a8f0tv",
+    "website": "https://zeno.fm/radio/kruze-fm-official/",
+    "provider": "onlineradiobox",
+    "country": "Zambia",
+    "genres": [
+      "news",
+      "talk",
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:35:16+05:30"
+  },
+  {
+    "id": "onlineradiobox_zm.kwithu",
+    "name": "KWITHU FM 93.3",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/137850.v1.png",
+    "stream_url": "https://s9.yesstreaming.net:8013/kwithu",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Zambia",
+    "genres": [
+      "rock",
+      "r'n'b",
+      "pop",
+      "jazz",
+      "folk",
+      "classic",
+      "rap",
+      "hip-hop",
+      "soul",
+      "country",
+      "reggae",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:36:58+05:30"
+  },
+  {
+    "id": "onlineradiobox_zm.laka",
+    "name": "Laka FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/128571.v5.png",
+    "stream_url": "https://stream.zeno.fm/zgvj3sab3hztv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Zambia",
+    "genres": [
+      "news",
+      "education",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:33:26+05:30"
+  },
+  {
+    "id": "onlineradiobox_zm.live",
+    "name": "Zakwa Arts Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/141396.v10.png",
+    "stream_url": "https://stream.zeno.fm/yi1mrvuordqvv",
+    "website": "https://zeno.fm/radio/zakwa-arts-radio/",
+    "provider": "onlineradiobox",
+    "country": "Zambia",
+    "genres": [
+      "news",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:35:24+05:30"
+  },
+  {
+    "id": "onlineradiobox_zm.live973",
+    "name": "Live Radio 97.3 Fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/102645.v2.png",
+    "stream_url": "https://stream.zeno.fm/0w833z1xd5zuv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Zambia",
+    "genres": [
+      "r'n'b",
+      "hip-hop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:34:18+05:30"
+  },
+  {
+    "id": "onlineradiobox_zm.lrcm",
+    "name": "LRCM Radio (Zambia)",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/153037.v2.png",
+    "stream_url": "https://a8.asurahosting.com:8950/zambia.mp3",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Zambia",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:36:06+05:30"
+  },
+  {
+    "id": "onlineradiobox_zm.lusaka977",
+    "name": "Lusaka Radio 97.7FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/127549.v73.png",
+    "stream_url": "https://c26.radioboss.fm:8763/stream",
+    "website": "https://www.lusakaradio977.com/",
+    "provider": "onlineradiobox",
+    "country": "Zambia",
+    "genres": [
+      "news",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:34:16+05:30"
+  },
+  {
+    "id": "onlineradiobox_zm.luswepo",
+    "name": "Radio Luswepo",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/150821.v1.png",
+    "stream_url": "http://s34.myradiostream.com:17322/;",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Zambia",
+    "genres": [
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:36:19+05:30"
+  },
+  {
+    "id": "onlineradiobox_zm.maite",
+    "name": "Maite Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/125473.v2.png",
+    "stream_url": "https://stream.zeno.fm/vgxdljgyufxuv",
+    "website": "https://zeno.fm/radio/maite-radio/",
+    "provider": "onlineradiobox",
+    "country": "Zambia",
+    "genres": [
+      "news",
+      "sports"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:36:12+05:30"
+  },
+  {
+    "id": "onlineradiobox_zm.mano893",
+    "name": "Radio Mano 89.3fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/140299.v1.png",
+    "stream_url": "https://stream.zeno.fm/ykxzsne4zkvuv",
+    "website": "https://zeno.fm/radio/radio-mano-89-3fm/",
+    "provider": "onlineradiobox",
+    "country": "Zambia",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:35:09+05:30"
+  },
+  {
+    "id": "onlineradiobox_zm.maria",
+    "name": "Radio Maria",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/98260.v4.png",
+    "stream_url": "https://dreamsiteradiocp5.com/proxy/zambialusaka?mp=/stream?ver=604926",
+    "website": "https://www.radiomaria.co.zm/",
+    "provider": "onlineradiobox",
+    "country": "Zambia",
+    "genres": [
+      "talk",
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:33:19+05:30"
+  },
+  {
+    "id": "onlineradiobox_zm.matero",
+    "name": "Matero Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/120834.v4.png",
+    "stream_url": "https://stream.zeno.fm/8ad6degwy7zuv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Zambia",
+    "genres": [
+      "news",
+      "entertainment",
+      "community"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:34:10+05:30"
+  },
+  {
+    "id": "onlineradiobox_zm.megarock",
+    "name": "Megarock Fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/110344.v1.png",
+    "stream_url": "https://stream.zeno.fm/3t4x1nxtff9uv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Zambia",
+    "genres": [
+      "r'n'b",
+      "pop",
+      "hip-hop",
+      "african",
+      "business",
+      "culture",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:34:15+05:30"
+  },
+  {
+    "id": "onlineradiobox_zm.mlchristian",
+    "name": "Ml Christian Radio Online Zambia",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/148807.v1.png",
+    "stream_url": "https://stream.zeno.fm/nixumzhllgfuv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Zambia",
+    "genres": [
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:36:18+05:30"
+  },
+  {
+    "id": "onlineradiobox_zm.mphangwe",
+    "name": "Mphangwe FM radio 88.9",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/128097.v2.png",
+    "stream_url": "https://ec4.yesstreaming.net:1925/stream",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Zambia",
+    "genres": [
+      "r'n'b",
+      "jazz",
+      "folk",
+      "adult contemporary",
+      "entertainment",
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:33:28+05:30"
+  },
+  {
+    "id": "onlineradiobox_zm.mpongwe",
+    "name": "Radio Mpongwe",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/125277.v3.png",
+    "stream_url": "https://stream.zeno.fm/q7mcbk2s3a0uv",
+    "website": "https://zeno.fm/radio/radio-mpongwe-99-5-fm/",
+    "provider": "onlineradiobox",
+    "country": "Zambia",
+    "genres": [
+      "pop",
+      "african"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:34:20+05:30"
+  },
+  {
+    "id": "onlineradiobox_zm.mundu",
+    "name": "Mundu Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/152115.v4.png",
+    "stream_url": "http://uk19freenew.listen2myradio.com:38511/;",
+    "website": "https://munduradio.radiostream123.com/",
+    "provider": "onlineradiobox",
+    "country": "Zambia",
+    "genres": [
+      "culture",
+      "education"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:36:59+05:30"
+  },
+  {
+    "id": "onlineradiobox_zm.mwami",
+    "name": "Mwami fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/102152.v1.png",
+    "stream_url": "https://stream.zeno.fm/63ae8ksgns8uv",
+    "website": "https://mwamifm.com/",
+    "provider": "onlineradiobox",
+    "country": "Zambia",
+    "genres": [
+      "news",
+      "sports",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:35:19+05:30"
+  },
+  {
+    "id": "onlineradiobox_zm.mwandicommunity",
+    "name": "Mwandi Community Radio Station",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/152190.v1.png",
+    "stream_url": "https://c30.radioboss.fm:9050/stream",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Zambia",
+    "genres": [
+      "news"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:36:11+05:30"
+  },
+  {
+    "id": "onlineradiobox_zm.mwansabombwe",
+    "name": "ISUNGA FM RADIO 92.7",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/149316.v4.png",
+    "stream_url": "https://stream.zeno.fm/kzw0ht7klwbvv",
+    "website": "https://zeno.fm/radio/isunga-fm-radio-92-7/",
+    "provider": "onlineradiobox",
+    "country": "Zambia",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:33:15+05:30"
+  },
+  {
+    "id": "onlineradiobox_zm.oblate",
+    "name": "Oblate Radio Liseli",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/112072.v1.png",
+    "stream_url": "https://node.stream-africa.com:8443/OblateRadioLiseli",
+    "website": "https://www.omiusa.org/",
+    "provider": "onlineradiobox",
+    "country": "Zambia",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:35:10+05:30"
+  },
+  {
+    "id": "onlineradiobox_zm.onelove",
+    "name": "One Love Radio Mansa",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/150539.v1.png",
+    "stream_url": "https://eu8.fastcast4u.com/proxy/onelovemansa?mp=/1",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Zambia",
+    "genres": [
+      "talk",
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:35:21+05:30"
+  },
+  {
+    "id": "onlineradiobox_zm.panafrican961",
+    "name": "Pan African Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/96145.v5.png",
+    "stream_url": "https://s29.myradiostream.com/19620/listen.mp3",
+    "website": "https://panafrikaradio.blogspot.com/",
+    "provider": "onlineradiobox",
+    "country": "Zambia",
+    "genres": [
+      "news",
+      "education",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:36:10+05:30"
+  },
+  {
+    "id": "onlineradiobox_zm.panda",
+    "name": "Panda fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/143278.v1.png",
+    "stream_url": "https://stream.zeno.fm/17vmi8zjtt3vv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Zambia",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:34:12+05:30"
+  },
+  {
+    "id": "onlineradiobox_zm.parliament",
+    "name": "Parliament Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/47744.v4.png",
+    "stream_url": "http://streamer.parliament.gov.zm:8063/;",
+    "website": "http://www.parliament.org/",
+    "provider": "onlineradiobox",
+    "country": "Zambia",
+    "genres": [
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:33:20+05:30"
+  },
+  {
+    "id": "onlineradiobox_zm.peopos",
+    "name": "Peopos Radio 101.7 FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/121385.v4.png",
+    "stream_url": "https://stream.zeno.fm/frcw13ktp0hvv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Zambia",
+    "genres": [
+      "news",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:35:13+05:30"
+  },
+  {
+    "id": "onlineradiobox_zm.phoenix",
+    "name": "Radio Phoenix",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/47745.v3.png",
+    "stream_url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_PHOENIXAAC_SC?dist=onlineradiobox",
+    "website": "http://www.radiophoenixzambia.co.zm/",
+    "provider": "onlineradiobox",
+    "country": "Zambia",
+    "genres": [
+      "african",
+      "romantic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:33:12+05:30"
+  },
+  {
+    "id": "onlineradiobox_zm.pice",
+    "name": "Pice Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/89354.v3.png",
+    "stream_url": "https://stream.zeno.fm/83nnq9ntgzzuv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Zambia",
+    "genres": [
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:34:20+05:30"
+  },
+  {
+    "id": "onlineradiobox_zm.platinum",
+    "name": "Platinum Radio 99.7 Fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/140893.v3.png",
+    "stream_url": "https://stream.zeno.fm/bjltduumvpouv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Zambia",
+    "genres": [
+      "oldies"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:36:56+05:30"
+  },
+  {
+    "id": "onlineradiobox_zm.poeticjuice",
+    "name": "Poetic Juice FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/89445.v1.png",
+    "stream_url": "https://stream.zeno.fm/51107ezabzzuv",
+    "website": "https://zeno.fm/poetic-juice-fm/",
+    "provider": "onlineradiobox",
+    "country": "Zambia",
+    "genres": [
+      "news",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:35:08+05:30"
+  },
+  {
+    "id": "onlineradiobox_zm.powerfm",
+    "name": "Power FM Lusaka",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/93253.v4.png",
+    "stream_url": "http://41.60.195.11:8000/stream.ogg",
+    "website": "http://www.powerfmzambia.com/",
+    "provider": "onlineradiobox",
+    "country": "Zambia",
+    "genres": [
+      "news",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:33:25+05:30"
+  },
+  {
+    "id": "onlineradiobox_zm.princesavior",
+    "name": "Princesavior",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/153929.v3.png",
+    "stream_url": "https://listen.radioking.com/radio/810541/stream/879366",
+    "website": "http://princesavior-online-radio367.websiteradio.co/",
+    "provider": "onlineradiobox",
+    "country": "Zambia",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:37:01+05:30"
+  },
+  {
+    "id": "onlineradiobox_zm.qzambia",
+    "name": "Q FM Zambia",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/87961.v8.png",
+    "stream_url": "https://s3.myradiostream.com:7620/listen.mp3",
+    "website": "http://www.qfmzambia.com/",
+    "provider": "onlineradiobox",
+    "country": "Zambia",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:33:14+05:30"
+  },
+  {
+    "id": "onlineradiobox_zm.rainmusic",
+    "name": "Rain Music Fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/132317.v1.png",
+    "stream_url": "https://stream.zeno.fm/cgfzwaagzojtv",
+    "website": "https://dev-rainmusicz.pantheonsite.io/",
+    "provider": "onlineradiobox",
+    "country": "Zambia",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:36:52+05:30"
+  },
+  {
+    "id": "onlineradiobox_zm.roan",
+    "name": "Roan FM 106.5",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/131904.v6.png",
+    "stream_url": "https://stream.zeno.fm/11oh8aft9gzvv",
+    "website": "https://roanfm.net/",
+    "provider": "onlineradiobox",
+    "country": "Zambia",
+    "genres": [
+      "r'n'b",
+      "hip-hop",
+      "afro beat"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:37:02+05:30"
+  },
+  {
+    "id": "onlineradiobox_zm.rock",
+    "name": "965 Rock FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/47727.v12.png",
+    "stream_url": "http://broadcast.shoutcheap.com:8702/stream",
+    "website": "http://www.965rockfm.com/",
+    "provider": "onlineradiobox",
+    "country": "Zambia",
+    "genres": [
+      "dance",
+      "r'n'b",
+      "pop",
+      "hip-hop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:33:14+05:30"
+  },
+  {
+    "id": "onlineradiobox_zm.rooster",
+    "name": "Rooster FM 91.3 MHz",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/138078.v1.png",
+    "stream_url": "https://ec4.yesstreaming.net:2525/stream",
+    "website": "https://iamcatholiczambia.com/",
+    "provider": "onlineradiobox",
+    "country": "Zambia",
+    "genres": [
+      "r'n'b",
+      "jazz",
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:36:14+05:30"
+  },
+  {
+    "id": "onlineradiobox_zm.roots",
+    "name": "Roots FM 101.3",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/126118.v1.png",
+    "stream_url": "https://stream.zeno.fm/s7d1prkfbxhvv",
+    "website": "http://rootsfm.com.zm/live-radio/",
+    "provider": "onlineradiobox",
+    "country": "Zambia",
+    "genres": [
+      "culture",
+      "education",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:33:18+05:30"
+  },
+  {
+    "id": "onlineradiobox_zm.rovert",
+    "name": "Rovert Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/120258.v4.png",
+    "stream_url": "https://streaming.relevantmediaservices.com:8004/stream",
+    "website": "https://rovertradio.com/",
+    "provider": "onlineradiobox",
+    "country": "Zambia",
+    "genres": [
+      "rock",
+      "r'n'b",
+      "pop",
+      "blues",
+      "hip-hop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:36:54+05:30"
+  },
+  {
+    "id": "onlineradiobox_zm.sky",
+    "name": "Sky FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/148381.v1.png",
+    "stream_url": "https://stream.zeno.fm/7s554b67schvv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Zambia",
+    "genres": [
+      "news",
+      "community"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:35:12+05:30"
+  },
+  {
+    "id": "onlineradiobox_zm.smbmusic",
+    "name": "S.M.B MUSIC RADIO",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/133906.v2.png",
+    "stream_url": "https://stream.zeno.fm/lyo8ib0tzxbtv",
+    "website": "https://zeno.fm/radio/s-m-b-music-radio/",
+    "provider": "onlineradiobox",
+    "country": "Zambia",
+    "genres": [
+      "deep house",
+      "hip-hop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:35:16+05:30"
+  },
+  {
+    "id": "onlineradiobox_zm.smooth901",
+    "name": "Smooth 90.1fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/96692.v1.png",
+    "stream_url": "https://s25.myradiostream.com/15172/listen.mp3",
+    "website": "https://www.smoothfmzambia.org/",
+    "provider": "onlineradiobox",
+    "country": "Zambia",
+    "genres": [
+      "pop",
+      "news",
+      "children",
+      "sports",
+      "culture",
+      "education",
+      "politics"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:33:16+05:30"
+  },
+  {
+    "id": "onlineradiobox_zm.smyn",
+    "name": "Smyn Online Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/145099.v1.png",
+    "stream_url": "https://listen.radioking.com/radio/699659/stream/764672",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Zambia",
+    "genres": [
+      "african"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:36:53+05:30"
+  },
+  {
+    "id": "onlineradiobox_zm.spicezambia",
+    "name": "Spice FM Zambia",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/103929.v5.png",
+    "stream_url": "http://live.rcast.net:8768/;",
+    "website": "https://spicefmzambia.wixsite.com/spicefm/",
+    "provider": "onlineradiobox",
+    "country": "Zambia",
+    "genres": [
+      "r'n'b",
+      "blues",
+      "jazz",
+      "soul",
+      "country",
+      "oldies",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:34:13+05:30"
+  },
+  {
+    "id": "onlineradiobox_zm.stationbetaafrica",
+    "name": "Station Beta Africa",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/125178.v1.png",
+    "stream_url": "https://stream.zeno.fm/poon7aazretuv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Zambia",
+    "genres": [
+      "pop",
+      "top40",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:36:54+05:30"
+  },
+  {
+    "id": "onlineradiobox_zm.thabigg",
+    "name": "thaBIGGRADIO",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/96656.v3.png",
+    "stream_url": "https://stream.zeno.fm/c17yxm6rrg0uv",
+    "website": "https://biggjako.com/",
+    "provider": "onlineradiobox",
+    "country": "Zambia",
+    "genres": [
+      "hip-hop",
+      "african",
+      "afro beat"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:34:12+05:30"
+  },
+  {
+    "id": "onlineradiobox_zm.tuta",
+    "name": "Tuta Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/114377.v3.png",
+    "stream_url": "https://s11.myradiostream.com/24282/listen.mp3",
+    "website": "https://tutaradio.com/",
+    "provider": "onlineradiobox",
+    "country": "Zambia",
+    "genres": [
+      "rock",
+      "r'n'b",
+      "pop",
+      "jazz",
+      "african"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:34:12+05:30"
+  },
+  {
+    "id": "onlineradiobox_zm.tzgospel",
+    "name": "Tzgospel Radio (Zambia)",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/119036.v4.png",
+    "stream_url": "https://stream.zeno.fm/xr5c0n95schvv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Zambia",
+    "genres": [
+      "news",
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:35:11+05:30"
+  },
+  {
+    "id": "onlineradiobox_zm.urban1007",
+    "name": "Energy Fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/105720.v16.png",
+    "stream_url": "https://stream.zeno.fm/eevbnhqc1k8uv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Zambia",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:36:16+05:30"
+  },
+  {
+    "id": "onlineradiobox_zm.urbanzambia",
+    "name": "Urban Fm zambia",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/142890.v2.png",
+    "stream_url": "https://stream.zeno.fm/b9angvotehftv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Zambia",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:35:26+05:30"
+  },
+  {
+    "id": "onlineradiobox_zm.utuntu",
+    "name": "Utuntu FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/91400.v11.png",
+    "stream_url": "https://stream.zeno.fm/h55brcsmhzzuv",
+    "website": "https://zeno.fm/utuntu-fm/",
+    "provider": "onlineradiobox",
+    "country": "Zambia",
+    "genres": [
+      "christian",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:34:09+05:30"
+  },
+  {
+    "id": "onlineradiobox_zm.voiceofhope",
+    "name": "VOICE OF HOPE",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/47713.v8.png",
+    "stream_url": "http://184.154.43.106:8030/stream",
+    "website": "http://www.voiceofhope.com/",
+    "provider": "onlineradiobox",
+    "country": "Zambia",
+    "genres": [
+      "rock",
+      "jazz",
+      "christian",
+      "swing",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:34:10+05:30"
+  },
+  {
+    "id": "onlineradiobox_zm.voiceofkalomo",
+    "name": "Voice of Kalomo Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/107272.v13.png",
+    "stream_url": "http://s28.myradiostream.com:30152/;",
+    "website": "https://zeno.fm/radio/voice-of-kalomo-fm-ixtc",
+    "provider": "onlineradiobox",
+    "country": "Zambia",
+    "genres": [
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:34:19+05:30"
+  },
+  {
+    "id": "onlineradiobox_zm.vybzmusic",
+    "name": "Vybz Music Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/108647.v3.png",
+    "stream_url": "https://stream.zeno.fm/wg3ygb1nw98uv",
+    "website": "https://djvybzmusic.com/",
+    "provider": "onlineradiobox",
+    "country": "Zambia",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:33:22+05:30"
+  },
+  {
+    "id": "onlineradiobox_zm.wave",
+    "name": "Wave FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/87918.v6.png",
+    "stream_url": "https://s23.myradiostream.com/:17458/listen.mp3",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Zambia",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:33:17+05:30"
+  },
+  {
+    "id": "onlineradiobox_zm.why",
+    "name": "Why Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/144714.v2.png",
+    "stream_url": "https://stream.zeno.fm/ptkcf439g0hvv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Zambia",
+    "genres": [
+      "news",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:36:17+05:30"
+  },
+  {
+    "id": "onlineradiobox_zm.wkkb",
+    "name": "WKKB FM Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/144798.v3.png",
+    "stream_url": "https://listen.radioking.com/radio/714548/stream/780191",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Zambia",
+    "genres": [
+      "blues",
+      "smooth jazz"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:36:05+05:30"
+  },
+  {
+    "id": "onlineradiobox_zm.yangeni",
+    "name": "Radio Yangeni 98.7",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/108114.v1.png",
+    "stream_url": "https://stream.zeno.fm/8bg66s5fc78uv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Zambia",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:33:27+05:30"
+  },
+  {
+    "id": "onlineradiobox_zm.yar897",
+    "name": "YAR FM 89.7",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/108321.v4.png",
+    "stream_url": "https://stream.zeno.fm/vfkk2o41inzuv",
+    "website": "https://www.yarfm.com/",
+    "provider": "onlineradiobox",
+    "country": "Zambia",
+    "genres": [
+      "rock",
+      "r'n'b",
+      "pop",
+      "reggae"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:33:16+05:30"
+  },
+  {
+    "id": "onlineradiobox_zm.zamcare",
+    "name": "Zamcare Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/151896.v1.png",
+    "stream_url": "http://uk5freenew.listen2myradio.com:34256/;",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Zambia",
+    "genres": [
+      "news",
+      "talk",
+      "education",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:37:02+05:30"
+  },
+  {
+    "id": "onlineradiobox_zm.zed365",
+    "name": "Zed 365 Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/131626.v1.png",
+    "stream_url": "https://stream.zeno.fm/7wlks3yk2ogtv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Zambia",
+    "genres": [
+      "education",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:37:00+05:30"
+  },
+  {
+    "id": "onlineradiobox_zm.zedhouse",
+    "name": "Zedhouse Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/107331.v1.png",
+    "stream_url": "https://s16.myradiostream.com/15744/listen.mp3",
+    "website": "https://zedhousezambia.com/",
+    "provider": "onlineradiobox",
+    "country": "Zambia",
+    "genres": [
+      "rock",
+      "r'n'b",
+      "jazz",
+      "afropop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:35:18+05:30"
+  },
+  {
+    "id": "onlineradiobox_zm.zi",
+    "name": "Zi Fm Stereo",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/153247.v1.png",
+    "stream_url": "https://s2.radio.co/sb9631a4a4/listen",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Zambia",
+    "genres": [
+      "r'n'b",
+      "talk",
+      "hip-hop",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:36:09+05:30"
+  }
+]

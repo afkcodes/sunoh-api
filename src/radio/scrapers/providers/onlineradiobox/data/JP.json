@@ -1,0 +1,4365 @@
+[
+  {
+    "id": "onlineradiobox_jp.abcradio",
+    "name": "ABC Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/67893.v2.png",
+    "stream_url": "https://radiko.jp/#!/live/ABC",
+    "website": "http://abc1008.com/",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:39:19+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.afntheeagle",
+    "name": "AFN The Eagle",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/67512.v5.png",
+    "stream_url": "https://playerservices.streamtheworld.com/api/livestream-redirect/AFNP_TKOAAC.aac?dist=onlineradiobox",
+    "website": "https://pacific.afn.mil/",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:33:19+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.aichi",
+    "name": "@FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/68279.v6.png",
+    "stream_url": "https://radiko.jp/#!/live/FMAICHI",
+    "website": "http://fma.co.jp/",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "dance",
+      "pop",
+      "news"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:37:34+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.airg",
+    "name": "Air G",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/68064.v1.png",
+    "stream_url": "https://radiko.jp/#!/live/AIR-G",
+    "website": "http://www.air-g.co.jp/",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "pop",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:39:13+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.airtesshi",
+    "name": "Air Tesshi",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/67733.v6.png",
+    "stream_url": "https://www.jcbasimul.com/?radio=airてっし",
+    "website": "http://www.nayoro.fm/",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "jazz",
+      "news",
+      "talk",
+      "easy listening"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:34:17+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.animenforadio",
+    "name": "AnimeNfo Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/12922.v3.png",
+    "stream_url": "http://158.69.9.92:443/;",
+    "website": "https://www.animenfo.com//radio/",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "trance",
+      "house",
+      "j-pop",
+      "anime"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:32:04+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.antennawebtokyo",
+    "name": "Antenna Web Tokyo",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/131686.v2.png",
+    "stream_url": "https://tinyurl.com/Antenna-Web-Tokyo",
+    "website": "https://antennaweb.it/antennaweb-Tokyo/",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "rock",
+      "pop",
+      "blues",
+      "jazz",
+      "funk",
+      "latin"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:37:26+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.applewave",
+    "name": "FM APPLE WAVE",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/69680.v5.png",
+    "stream_url": "https://musicbird.leanstream.co/JCB004-MP3",
+    "website": "http://www.applewave.co.jp/",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "pop",
+      "talk",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:37:21+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.ashiya",
+    "name": "Ashiya Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/111519.v1.png",
+    "stream_url": "https://s3.radio.co/sc8d895604/listen",
+    "website": "https://www.ashiya.radio/",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "jazz",
+      "j-pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:33:21+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.asiadreamradio",
+    "name": "J-Pop Powerplay",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/12930.v9.png",
+    "stream_url": "https://kathy.torontocast.com:3560/;",
+    "website": "http://www.asiadreamradio.com/",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "j-pop",
+      "japanese"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:31:57+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.bamboda",
+    "name": "Bamboda Radio Tokyo",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/144876.v3.png",
+    "stream_url": "https://radio.huntoola.com/hls/bamboda_radio_tokyo/live.m3u8",
+    "website": "https://bamboda.com/",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:40:07+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.bananafm",
+    "name": "Banana FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/67744.v3.png",
+    "stream_url": "https://877.fm/player/",
+    "website": "http://877.fm/",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:32:02+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.baribari",
+    "name": "FM Radio Baribari",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/67932.v4.png",
+    "stream_url": "https://musicbird.leanstream.co/JCB076-MP3",
+    "website": "http://www.baribari789.com/",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "pop",
+      "jazz",
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:36:24+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.bay",
+    "name": "Bay FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/69685.v3.png",
+    "stream_url": "https://radiko.jp/#!/live/BAYFM78",
+    "website": "http://www.bayfm.co.jp/",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "rock",
+      "talk",
+      "japanese"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:39:11+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.bibleisjapanese",
+    "name": "Bible.is - Japanese Contemporary Bible Non-Drama",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/94165.v2.png",
+    "stream_url": "http://radio.bible.is:8000/JPNJCBN1DA",
+    "website": "http://www.bible.is/radio/JPNJCBN1DA",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:35:32+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.bingo",
+    "name": "Radio Bingo",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/67975.v2.png",
+    "stream_url": "https://musicbird.leanstream.co/JCB078-MP3",
+    "website": "http://fm777.co.jp/pc/",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "news",
+      "talk",
+      "j-pop",
+      "japanese",
+      "community"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:37:24+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.bittersweetmusicjp",
+    "name": "Bitter Sweet Music JP",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/83054.v9.png",
+    "stream_url": "http://91.121.236.34:8520/jp",
+    "website": "http://www.bittersweetmusic.ro/",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "chill-out"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:32:12+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.blueshonan",
+    "name": "FM Blue Shonan",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/68284.v2.png",
+    "stream_url": "https://musicbird.leanstream.co/JCB015-MP3",
+    "website": "http://www.yokosukafm.com/",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "news",
+      "talk",
+      "japanese",
+      "community"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:37:27+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.bsnradio",
+    "name": "BSN Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/67915.v1.png",
+    "stream_url": "http://radiko.jp/player/player.html#BSN",
+    "website": "http://www.ohbsn.com/",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:39:17+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.cbc",
+    "name": "CBC Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/68278.v1.png",
+    "stream_url": "https://radiko.jp/#!/live/CBC",
+    "website": "https://hicbc.com/radio/",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "news",
+      "talk",
+      "sports"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:38:27+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.chiru.no",
+    "name": "chiru.no",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/13140.v5.png",
+    "stream_url": "https://chiru.no/stream.flac",
+    "website": "https://chiru.no/",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "anime",
+      "games music"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:33:11+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.christmas15asiadream",
+    "name": "Jazz Sakura - asia DREAM radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/13165.v14.png",
+    "stream_url": "https://kathy.torontocast.com:3330/;",
+    "website": "http://www.asiadreamradio.com/",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "jazz",
+      "japanese"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:31:58+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.chupea",
+    "name": "FM Chupea",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/67942.v2.png",
+    "stream_url": "https://musicbird.leanstream.co/JCB082-MP3",
+    "website": "http://chupea.fm/",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "pop",
+      "news",
+      "talk",
+      "classic",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:35:19+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.coastfm",
+    "name": "COAST-FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/67789.v3.png",
+    "stream_url": "https://musicbird.leanstream.co/JCB042-MP3",
+    "website": "http://www.coast-fm.com/",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "news",
+      "talk",
+      "community"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:35:17+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.comeonfm",
+    "name": "COME ON! FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/67737.v1.png",
+    "stream_url": "https://musicbird.leanstream.co/JCB084-MP3",
+    "website": "http://www.c-fm.co.jp/",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "news",
+      "talk",
+      "j-pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:37:24+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.daigo",
+    "name": "FM Daigo",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/67807.v8.png",
+    "stream_url": "https://www.jcbasimul.com/radio/758/",
+    "website": "http://www.town.daigo.ibaraki.jp/page/page000779.html",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "pop",
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:37:32+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.datafruits",
+    "name": "Data Fruits FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/101861.v2.png",
+    "stream_url": "https://streampusher-relay.club/datafruits.mp3",
+    "website": "https://datafruits.fm/",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "dance",
+      "electronic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:35:15+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.digitalstereoweb",
+    "name": "Digital Stereo Web",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/107490.v2.png",
+    "stream_url": "https://stream.zeno.fm/3h64f9hwp68uv",
+    "website": "https://zeno.fm/cristadigital-stereo-web/",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:36:33+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.dreams",
+    "name": "Dreams FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/69094.v2.png",
+    "stream_url": "https://musicbird.leanstream.co/JCB093-MP3",
+    "website": "http://www.dreamsfm.co.jp/",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "pop",
+      "talk",
+      "japanese"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:37:31+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.eradio",
+    "name": "FM Shiga e-radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/67796.v5.png",
+    "stream_url": "https://radiko.jp/#!/live/E-RADIO",
+    "website": "https://www.e-radio.co.jp/",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "news",
+      "talk",
+      "community"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:39:12+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.fieisemcristotoquio",
+    "name": "Radio Fieis Em Cristo",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/105030.v2.png",
+    "stream_url": "https://ssl.pnstream.com:7756/;",
+    "website": "https://adonaium05.wixsite.com/radiofieistoqui",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:38:22+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.fkmpop",
+    "name": "Studio FKM",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/82328.v6.png",
+    "stream_url": "https://stream.zeno.fm/e3artdmnkkhvv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "dance",
+      "electronic",
+      "rock",
+      "r'n'b",
+      "pop",
+      "deep house",
+      "soul"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:36:33+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.fm791",
+    "name": "FM 791",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/71119.v3.png",
+    "stream_url": "https://musicbird.leanstream.co/JCB091-MP3",
+    "website": "http://fm791.jp/",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "pop",
+      "news",
+      "talk",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:36:28+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.fm802",
+    "name": "FM 802",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/67894.v2.png",
+    "stream_url": "https://radiko.jp/#!/live/802",
+    "website": "http://funky802.com/",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "rock",
+      "pop",
+      "talk",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:40:12+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.fm814",
+    "name": "FM814",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/68034.v2.png",
+    "stream_url": "https://musicbird.leanstream.co/JCB074-MP3",
+    "website": "http://www.fm814.co.jp/",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "news",
+      "talk",
+      "community"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:37:32+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.fm845",
+    "name": "FM 845",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/71118.v4.png",
+    "stream_url": "https://musicbird.leanstream.co/JCB104-MP3",
+    "website": "http://www.fm-845.com/",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:32:01+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.fmazur",
+    "name": "FM Azur",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/71160.v2.png",
+    "stream_url": "https://musicbird-hls.leanstream.co/musicbird/JCB106.stream/playlist.m3u8",
+    "website": "http://www.fmazur.jp/",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:34:21+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.fmchao",
+    "name": "FM Chao",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/67897.v2.png",
+    "stream_url": "https://musicbird.leanstream.co/JCB067-MP3",
+    "website": "http://792.jp/",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "news",
+      "talk",
+      "community"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:36:34+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.fmchappy",
+    "name": "FM Chappy",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/67889.v3.png",
+    "stream_url": "https://www.jcbasimul.com/radio/767/",
+    "website": "http://fmchappy.jp/",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "news",
+      "talk",
+      "japanese",
+      "community"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:32:14+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.fmcocolo",
+    "name": "FM Cocolo",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/67895.v2.png",
+    "stream_url": "http://radiko.jp/player/player.html#CCL",
+    "website": "http://cocolo.jp/",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "pop",
+      "talk",
+      "top40",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:38:17+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.fmedogawa",
+    "name": "FM Edogawa",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/67754.v3.png",
+    "stream_url": "https://www.jcbasimul.com/radio/764/",
+    "website": "http://www.fm843.co.jp/",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:32:09+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.fmfujigoko",
+    "name": "FM Fujigoko",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/67736.v3.png",
+    "stream_url": "https://musicbird.leanstream.co/JCB027-MP3",
+    "website": "http://www.fm2255.jp/",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:33:14+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.fmfujiyama",
+    "name": "FM Fujiyama",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/67735.v2.png",
+    "stream_url": "https://musicbird.leanstream.co/JCB026-MP3",
+    "website": "http://fujiyama776.jp/",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:34:22+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.fmgojo",
+    "name": "FM Gojo",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/68035.v2.png",
+    "stream_url": "https://musicbird.leanstream.co/JCB097-MP3",
+    "website": "http://shousuien.or.jp/fm_gojo/",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "pop",
+      "news",
+      "talk",
+      "top40",
+      "community"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:36:26+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.fmhanako",
+    "name": "FM Hanako",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/67896.v3.png",
+    "stream_url": "https://www.jcbasimul.com/radio/821/",
+    "website": "http://fmhanako.jp/",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "news",
+      "talk",
+      "japanese",
+      "community"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:32:07+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.fmharo",
+    "name": "FM Haro!",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/67793.v2.png",
+    "stream_url": "https://musicbird.leanstream.co/JCB034-MP3",
+    "website": "http://www.fmharo.co.jp/",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "news",
+      "talk",
+      "community"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:34:16+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.fmhi",
+    "name": "FM Hi!",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/67782.v2.png",
+    "stream_url": "https://musicbird.leanstream.co/JCB040-MP3",
+    "website": "http://www.fmhi.co.jp/",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "news",
+      "talk",
+      "j-pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:36:35+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.fmis",
+    "name": "FM IS",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/67788.v2.png",
+    "stream_url": "https://musicbird.leanstream.co/JCB035-MP3",
+    "website": "http://fmis.jp/",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "news",
+      "talk",
+      "community"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:34:22+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.fmishikawa",
+    "name": "FM Ishikawa",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/68252.v3.png",
+    "stream_url": "https://radiko.jp/#!/live/HELLOFIVE",
+    "website": "https://hellofive.jp/",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "pop",
+      "talk",
+      "top40",
+      "japanese"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:39:20+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.fmiwanuma",
+    "name": "FM Iwanuma",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/68480.v3.png",
+    "stream_url": "https://musicbird.leanstream.co/JCB011-MP3",
+    "website": "http://www.fm779.com/",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "pop",
+      "news",
+      "talk",
+      "japanese",
+      "hits",
+      "community"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:37:22+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.fmiwate",
+    "name": "FM Iwate",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/68266.v2.png",
+    "stream_url": "http://www.fmii.co.jp/2007/livecamera.htm",
+    "website": "http://www.fmii.co.jp/",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "pop",
+      "japanese"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:40:17+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.fmj",
+    "name": "FM-J",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/67941.v3.png",
+    "stream_url": "https://musicbird.leanstream.co/JCB095-MP3",
+    "website": "http://www.fmj761.com/",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "news",
+      "talk",
+      "japanese"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:35:23+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.fmk",
+    "name": "FMK",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/68460.v1.png",
+    "stream_url": "https://radiko.jp/#!/live/FMK",
+    "website": "http://www.fmk.fm/",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "news",
+      "talk",
+      "japanese",
+      "community"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:39:14+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.fmkaratsu",
+    "name": "FM Karatsu",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/67891.v2.png",
+    "stream_url": "https://musicbird.leanstream.co/JCB092-MP3",
+    "website": "http://www.fmkaratsu.com/",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "pop",
+      "talk",
+      "hits",
+      "community"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:36:31+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.fmkento",
+    "name": "FM Kento",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/67944.v2.png",
+    "stream_url": "https://musicbird.leanstream.co/JCB094-MP3",
+    "website": "http://fmkento.com/",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "r'n'b",
+      "pop",
+      "talk",
+      "hip-hop",
+      "soul",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:34:23+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.fmkofu",
+    "name": "FM Kofu",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/67734.v2.png",
+    "stream_url": "https://musicbird.leanstream.co/JCB025-MP3",
+    "website": "http://www.fm-kofu.co.jp/",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "pop",
+      "news",
+      "talk",
+      "folk",
+      "j-pop",
+      "japanese"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:34:11+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.fmkurashiki",
+    "name": "FM Kurashiki",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/67906.v2.png",
+    "stream_url": "https://musicbird.leanstream.co/JCB080-MP3",
+    "website": "http://www.fmkurashiki.com/",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "jazz",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:35:14+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.fmkusatsu",
+    "name": "FM Kusatsu",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/67804.v5.png",
+    "stream_url": "https://www.jcbasimul.com/?radio=fm785",
+    "website": "http://www.fm785.jp/",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "pop",
+      "talk",
+      "j-pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:35:29+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.fmkyoto",
+    "name": "FM Kyoto",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/68475.v1.png",
+    "stream_url": "https://radiko.jp/#!/live/ALPHA-STATION",
+    "website": "http://fm-kyoto.jp/",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "news",
+      "talk",
+      "japanese",
+      "community"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:39:21+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.fmmie",
+    "name": "Radio 3 FM MIE",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/68478.v3.png",
+    "stream_url": "https://radiko.jp/#!/live/FMMIE",
+    "website": "http://www.fmmie.jp/",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "news",
+      "talk",
+      "japanese",
+      "hits",
+      "community"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:39:15+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.fmnack5",
+    "name": "FM Nack 5",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/67888.v1.png",
+    "stream_url": "https://radiko.jp/#!/live/NACK5",
+    "website": "http://www.nack5.co.jp/",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "rock",
+      "talk",
+      "japanese"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:39:20+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.fmnagano",
+    "name": "FM Nagano",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/68298.v2.png",
+    "stream_url": "https://radiko.jp/#!/live/FMN",
+    "website": "http://www.fmnagano.co.jp/",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "rock"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:38:12+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.fmnagaoka",
+    "name": "FM Nagaoka",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/67950.v2.png",
+    "stream_url": "https://musicbird.leanstream.co/JCB053-MP3",
+    "website": "http://www.fmnagaoka.com/",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "news",
+      "talk",
+      "j-pop",
+      "community"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:36:23+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.fmniigata",
+    "name": "FM Niigata",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/67951.v4.png",
+    "stream_url": "https://radiko.jp/#!/live/FMNIIGATA",
+    "website": "http://www.fmniigata.com/",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "pop",
+      "news",
+      "talk",
+      "top40",
+      "adult contemporary",
+      "japanese"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:40:16+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.fmnishi-tokyo",
+    "name": "FM Nishi-Tokyo",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/67756.v3.png",
+    "stream_url": "https://fmplapla.com/fmnishitokyo/",
+    "website": "http://842fm.west-tokyo.co.jp/",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:32:13+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.fmodawara",
+    "name": "FM Odawara",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/68283.v2.png",
+    "stream_url": "https://musicbird.leanstream.co/JCB017-MP3",
+    "website": "https://fm-odawara.com/",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "news",
+      "talk",
+      "japanese",
+      "community"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:33:12+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.fmoita",
+    "name": "FM Oita",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/67911.v2.png",
+    "stream_url": "http://radiko.jp/player/player.html#FM_OITA",
+    "website": "http://www.fmoita.co.jp/",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "news",
+      "talk",
+      "j-pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:40:05+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.fmone",
+    "name": "FM One",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/68268.v2.png",
+    "stream_url": "https://musicbird.leanstream.co/JCB005-MP3",
+    "website": "http://fm-one.net/",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "news",
+      "talk",
+      "japanese"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:34:20+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.fmonomichi",
+    "name": "FM Onomichi",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/67974.v2.png",
+    "stream_url": "https://musicbird.leanstream.co/JCB081-MP3",
+    "website": "http://www.fmo.co.jp/",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "news",
+      "talk",
+      "japanese",
+      "community"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:37:33+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.fmosaka",
+    "name": "FM Osaka",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/67900.v1.png",
+    "stream_url": "http://radiko.jp/player/player.html#FMO",
+    "website": "http://fmosaka.net/",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "news",
+      "talk",
+      "japanese"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:38:26+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.fmport",
+    "name": "FM Port",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/67946.v1.png",
+    "stream_url": "http://radiko.jp/player/player.html#FMPORT",
+    "website": "http://www.fmport.com/",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "japanese"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:38:25+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.fmshimada",
+    "name": "FM Shimada",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/67783.v2.png",
+    "stream_url": "https://musicbird.leanstream.co/JCB036-MP3",
+    "website": "http://www.gsky765.jp/",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "talk",
+      "japanese",
+      "community"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:37:31+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.fmshimizu",
+    "name": "FM Shimizu",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/67790.v3.png",
+    "stream_url": "https://musicbird.leanstream.co/JCB039-MP3",
+    "website": "http://www.mrn-pal.com/",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "news",
+      "talk",
+      "community"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:35:29+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.fmshunan",
+    "name": "FM Shu-nan",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/67738.v4.png",
+    "stream_url": "https://www.jcbasimul.com/radio/855/",
+    "website": "http://www.fms784.co.jp/",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:34:25+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.fmtonami",
+    "name": "FM Tonami",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/67746.v3.png",
+    "stream_url": "https://musicbird.leanstream.co/JCB059-MP3",
+    "website": "http://www.fmtonami.jp/",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "pop",
+      "news",
+      "talk",
+      "japanese"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:40:20+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.fmtoyama",
+    "name": "FM Toyama",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/67745.v3.png",
+    "stream_url": "https://radiko.jp/#!/live/FMTOYAMA",
+    "website": "http://www.fmtoyama.co.jp/",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "pop",
+      "news",
+      "talk",
+      "j-pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:39:24+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.fmtsuyama",
+    "name": "FM Tsuyama",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/67907.v2.png",
+    "stream_url": "http://onair.fm-tsuyama.jp:1080/fmtsuyama_live.ogg",
+    "website": "http://www.fm-tsuyama.jp/",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "pop",
+      "news",
+      "talk",
+      "classic",
+      "japanese"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:33:20+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.fmyokohama",
+    "name": "FM Yokohama",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/68288.v1.png",
+    "stream_url": "https://radiko.jp/#!/live/YFM",
+    "website": "http://www.fmyokohama.co.jp/",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "pop",
+      "talk",
+      "japanese"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:40:20+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.fmyukiguni",
+    "name": "FM Yukiguni",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/67948.v3.png",
+    "stream_url": "https://musicbird.leanstream.co/JCB054-MP3",
+    "website": "http://www.fm762.jp/",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:34:21+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.fredfilm",
+    "name": "FRED FILM RADIO",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/46847.v6.png",
+    "stream_url": "https://s10.webradio-hosting.com/proxy/fredradiojp/stream/;",
+    "website": "http://www.fred.fm/jp/",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "news",
+      "talk",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:32:10+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.free",
+    "name": "Free Fm Japan",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/79635.v9.png",
+    "stream_url": "https://rocafmadrid.radioca.st/stream",
+    "website": "http://www.freefmradio.net/",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "pop",
+      "90s",
+      "00s",
+      "80s",
+      "70s",
+      "60s"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:32:13+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.freebird",
+    "name": "Freebird Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/81539.v5.png",
+    "stream_url": "http://freebird.ddns.net:8010/;",
+    "website": "http://www.freebirdradio.net/acr/",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "rock",
+      "classic rock"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:35:25+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.friendship",
+    "name": "Friendship Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/94731.v2.png",
+    "stream_url": "http://198.7.59.28:8028/stream",
+    "website": "http://friendshipradio.net/",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:37:33+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.fujisangogofm",
+    "name": "Fujisan GOGO FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/67792.v3.png",
+    "stream_url": "https://www.jcbasimul.com/radio/803/",
+    "website": "http://www.863.fm/",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "pop",
+      "talk",
+      "j-pop",
+      "top40",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:34:16+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.fukuoka",
+    "name": "FM Fukuoka",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/70197.v2.png",
+    "stream_url": "https://radiko.jp/#!/live/FMFUKUOKA",
+    "website": "http://fmfukuoka.co.jp/",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "pop",
+      "talk",
+      "japanese"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:38:23+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.fukuro",
+    "name": "Fukuro FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/71084.v3.png",
+    "stream_url": "https://musicbird.leanstream.co/JCB100-MP3",
+    "website": "http://296.fm/",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "pop",
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:33:14+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.futuregroove",
+    "name": "Future Groove FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/87844.v4.png",
+    "stream_url": "https://streamer.radio.co/s4b3dafa6d/listen",
+    "website": "https://www.futuregroovefm.com/",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "dance",
+      "electronic",
+      "trance",
+      "house",
+      "dubstep",
+      "progressive house",
+      "deep house",
+      "electro house",
+      "club",
+      "progressive trance",
+      "dj"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:32:03+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.gaiya",
+    "name": "FM Gaiya",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/67806.v4.png",
+    "stream_url": "https://musicbird.leanstream.co/JCB077-MP3?args=tunein_02",
+    "website": "http://www.gaiya769.jp/",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "pop",
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:35:18+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.gunma",
+    "name": "FM Gunma",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/70215.v2.png",
+    "stream_url": "https://radiko.jp/#!/live/FMGUNMA",
+    "website": "http://www.fmgunma.com/",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "pop",
+      "news",
+      "talk",
+      "sports",
+      "japanese"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:40:18+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.hafm",
+    "name": "H@! FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/68481.v3.png",
+    "stream_url": "https://musicbird.leanstream.co/JCB012-MP3",
+    "website": "http://hat-fm.net/",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "pop",
+      "news",
+      "talk",
+      "j-pop",
+      "top40",
+      "japanese",
+      "community"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:36:27+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.hana",
+    "name": "FM Hana",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/68058.v2.png",
+    "stream_url": "https://musicbird.leanstream.co/JCB001-MP3",
+    "website": "http://www.fmhana.jp/index.html",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "news",
+      "talk",
+      "japanese",
+      "community"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:36:35+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.happy",
+    "name": "Happy FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/68248.v2.png",
+    "stream_url": "https://musicbird.leanstream.co/JCB070-MP3",
+    "website": "http://www.itami.fm/",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "news",
+      "talk",
+      "japanese",
+      "community"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:35:30+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.happyhardcore",
+    "name": "HappyHardcore.com radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/85721.v7.png",
+    "stream_url": "https://u9.happyhardcore.com/",
+    "website": "https://happyhardcore.com/",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "dance",
+      "techno"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:33:08+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.harborradio",
+    "name": "Harbor Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/67739.v2.png",
+    "stream_url": "https://musicbird.leanstream.co/JCB009-MP3",
+    "website": "http://www.sakatafm.com/",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "pop",
+      "talk",
+      "j-pop",
+      "japanese"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:34:27+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.harborstation",
+    "name": "Harbor Station",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/13309.v2.png",
+    "stream_url": "http://211.11.77.51:8000/;stream.nsv/;",
+    "website": "http://www.harbor779.com/",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "pop",
+      "news",
+      "talk",
+      "j-pop",
+      "top40",
+      "weather"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:35:14+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.hardraveradio.jp",
+    "name": "Hardrave Radio.jp",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/13151.v1.png",
+    "stream_url": "http://www.hardrave-radio.jp:8000/stream/12/;",
+    "website": "http://www.hardrave-radio.jp/",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:36:36+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.hassuru",
+    "name": "Hassuru FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/68065.v3.png",
+    "stream_url": "https://www.jcbasimul.com/?radio=発するｆｍ",
+    "website": "http://fm840.com/",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "pop",
+      "news",
+      "talk",
+      "japanese",
+      "community"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:33:06+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.hatsukaichi",
+    "name": "FM HATSUKAICHI",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/67940.v2.png",
+    "stream_url": "https://musicbird.leanstream.co/JCB083-MP3",
+    "website": "http://www.fm761.jp/",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "pop",
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:37:22+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.hbc",
+    "name": "HBC Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/68060.v1.png",
+    "stream_url": "https://radiko.jp/#!/live/HBC",
+    "website": "http://www.hbc.co.jp/radio/",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "news",
+      "talk",
+      "japanese"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:40:34+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.higashihiroshima",
+    "name": "FM Higashi Hiroshima",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/67943.v2.png",
+    "stream_url": "https://musicbird.leanstream.co/JCB087-MP3",
+    "website": "http://fmhigashi.jp/",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "pop",
+      "news",
+      "talk",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:34:24+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.hiroshima",
+    "name": "Hiroshima FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/67945.v2.png",
+    "stream_url": "http://radiko.jp/player/player.html#HFM",
+    "website": "http://hfm.jp/",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "pop",
+      "news",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:40:19+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.hits",
+    "name": "Hits FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/67927.v4.png",
+    "stream_url": "https://musicbird.leanstream.co/JCB045-MP3",
+    "website": "http://www.hidanet.ne.jp/~hitsfm/",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "pop",
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:38:19+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.hitsujikairadio",
+    "name": "Hitsujikai Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/13310.v3.png",
+    "stream_url": "https://streaming.radio.co/se4a8e6a93/listen",
+    "website": "http://www.hitsujikai-radio.com/",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "talk",
+      "classic",
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:34:19+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.ibc",
+    "name": "IBC Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/68265.v2.png",
+    "stream_url": "https://radiko.jp/#!/live/IBC",
+    "website": "http://www.ibc.co.jp/",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "news",
+      "talk",
+      "japanese",
+      "community"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:39:17+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.ibsibaraki",
+    "name": "IBS Ibaraki",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/68245.v3.png",
+    "stream_url": "https://radiko.jp/#!/live/IBS",
+    "website": "http://www.ibs-radio.com/",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "news",
+      "talk",
+      "sports",
+      "japanese"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:37:34+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.icprmjapan",
+    "name": "ICPRM RADIO Japan",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/73657.v6.png",
+    "stream_url": "https://stream.zeno.fm/y7bffdd1q0quv",
+    "website": "http://icprmradiostation.weebly.com/",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:40:14+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.iidafm",
+    "name": "Iida FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/68300.v2.png",
+    "stream_url": "https://musicbird.leanstream.co/JCB056-MP3",
+    "website": "http://www.iida.fm/",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "pop",
+      "news",
+      "talk",
+      "classic",
+      "japanese"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:36:23+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.ikaru",
+    "name": "FM Ikaru",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/68472.v2.png",
+    "stream_url": "https://musicbird.leanstream.co/JCB064-MP3",
+    "website": "http://www.fmikaru.jp/",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "news",
+      "talk",
+      "japanese",
+      "hits",
+      "community"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:33:15+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.inabee",
+    "name": "Inabe FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/67936.v4.png",
+    "stream_url": "https://musicbird.leanstream.co/JCB050-MP3",
+    "website": "http://fm861.com/",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "pop",
+      "talk",
+      "japanese"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:37:25+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.iwave",
+    "name": "I-wave",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/71103.v7.png",
+    "stream_url": "https://www.jcbasimul.com/?radio=i-wavｅ",
+    "website": "http://iwave765.com/",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "pop",
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:33:21+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.j1",
+    "name": "J1 HITS",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/75874.v9.png",
+    "stream_url": "http://jenny.torontocast.com:8056/;",
+    "website": "https://j1fm.tokyo/",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "pop",
+      "japanese"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:31:59+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.japanimradio",
+    "name": "Japanimradio Fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/68447.v304.png",
+    "stream_url": "https://play.radioking.io/japanimradio-fm5",
+    "website": "https://japanimradio-fm5.page.radio/",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "japanese"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:31:58+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.jazzabe",
+    "name": "Jazz Abe Radio Online",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/82846.v2.png",
+    "stream_url": "https://stream.zeno.fm/wp604zw8m0quv",
+    "website": "https://zeno.fm/radio/jazzaberadioonline/",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "pop",
+      "jazz",
+      "80s"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:37:23+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.jpoptunner",
+    "name": "j pop tunner",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/149274.v2.png",
+    "stream_url": "https://stream3.svrdedicado.org/8064/stream",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "latin",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:39:18+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.jradionetjapanesechristian",
+    "name": "JRadio.net - Japanese Christian Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/94733.v2.png",
+    "stream_url": "http://music.jradio.net:8001/listen",
+    "website": "http://www.jradio.net/",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:35:16+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.jside",
+    "name": "J-side Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/122090.v2.png",
+    "stream_url": "https://stream.zeno.fm/y08gn0dbwetuv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:36:32+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.jsidechill",
+    "name": "J-side Radio Chill",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/122219.v2.png",
+    "stream_url": "https://stream.zeno.fm/gh0tatii7kitv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:38:17+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.kahoku",
+    "name": "FM Kahoku",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/13267.v7.png",
+    "stream_url": "https://radio.kahoku.net:8443/;",
+    "website": "http://fm.kahoku.net/",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "pop",
+      "jazz",
+      "news",
+      "talk",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:32:14+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.kaidenpa567",
+    "name": "Kaidenpa567",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/119801.v3.png",
+    "stream_url": "https://s2.free-shoutcast.com/stream/18016",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "japanese"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:40:13+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.kamakura",
+    "name": "Kamakura FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/68339.v4.png",
+    "stream_url": "https://www.jcbasimul.com/radio/768/",
+    "website": "http://www.kamakurafm.co.jp/",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "news",
+      "talk",
+      "japanese",
+      "community"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:34:20+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.kanazawa",
+    "name": "Radio Kanazawa",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/68253.v4.png",
+    "stream_url": "https://www.jcbasimul.com/radio/812/?mode=1",
+    "website": "http://www.radiokanazawa.co.jp/",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "news",
+      "talk",
+      "japanese",
+      "community"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:33:06+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.kansai",
+    "name": "Radio Kansai",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/68249.v3.png",
+    "stream_url": "https://radiko.jp/#!/live/CRK",
+    "website": "http://jocr.jp/",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "news",
+      "talk",
+      "sports",
+      "japanese"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:40:19+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.kappa",
+    "name": "Kappa FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/68462.v3.png",
+    "stream_url": "https://www.jcbasimul.com/fmyatsushiro",
+    "website": "http://www.kappafm.com/",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "news",
+      "talk",
+      "sports",
+      "japanese"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:36:21+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.kashima",
+    "name": "FM Kashima",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/68243.v4.png",
+    "stream_url": "https://www.jcbasimul.com/radio/756/",
+    "website": "http://www.767fm.com/",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "news",
+      "talk",
+      "japanese",
+      "community"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:34:18+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.kazusa",
+    "name": "Kazusa FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/71081.v3.png",
+    "stream_url": "https://musicbird.leanstream.co/JCB021-MP3",
+    "website": "http://www.kazusafm.net/",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:36:29+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.kbc",
+    "name": "KBC Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/70199.v2.png",
+    "stream_url": "https://radiko.jp/#!/live/KBC",
+    "website": "http://www.kbc.co.jp/radio/",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "news",
+      "talk",
+      "sports"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:38:28+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.kbskyoto",
+    "name": "KBS Kyoto Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/68476.v1.png",
+    "stream_url": "https://radiko.jp/#!/live/KBS",
+    "website": "http://www.kbs-kyoto.co.jp/",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "news",
+      "talk",
+      "japanese",
+      "community"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:38:21+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.kimotsukifm",
+    "name": "FM Kimotsuki",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/68280.v5.png",
+    "stream_url": "http://adachisystem.net:8000/0033FM",
+    "website": "http://www.0033fm.net/",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "news",
+      "talk",
+      "j-pop",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:35:15+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.kitakatacity",
+    "name": "Kitakata City FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/68957.v8.png",
+    "stream_url": "https://musicbird.leanstream.co/JCB013-MP3",
+    "website": "http://www.fm-kitakata.co.jp/",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "pop",
+      "news",
+      "talk",
+      "japanese"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:34:19+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.kmix",
+    "name": "K-MIX",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/67784.v2.png",
+    "stream_url": "https://radiko.jp/#!/live/K-MIX",
+    "website": "http://www.k-mix.co.jp/",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "pop",
+      "talk",
+      "j-pop",
+      "japanese"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:40:08+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.knb",
+    "name": "KNB Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/67749.v1.png",
+    "stream_url": "https://radiko.jp/#!/live/KNB",
+    "website": "http://www.knb.ne.jp/radio/",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "pop",
+      "news",
+      "talk",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:38:20+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.komatsu",
+    "name": "Radio Komatsu",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/68254.v2.png",
+    "stream_url": "https://musicbird.leanstream.co/JCB062-MP3",
+    "website": "http://www.radiokomatsu.co.jp/",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "news",
+      "talk",
+      "adult contemporary",
+      "japanese",
+      "community"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:36:20+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.lcv",
+    "name": "LCV FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/67938.v3.png",
+    "stream_url": "https://musicbird.leanstream.co/JCB055-MP3",
+    "website": "http://lcvfm769.jp/",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "pop",
+      "talk",
+      "japanese"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:38:23+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.mabuhayjapanworldwide",
+    "name": "Mabuhay Radio Japan - Worldwide",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/130805.v1.png",
+    "stream_url": "https://bnthosting.online/listen/mabuhay_radio_japan_-_worldwide/radio.mp3",
+    "website": "https://www.mabuhayradiojapanworldwide.com/",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "news"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:40:15+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.maizuru",
+    "name": "FM Maizuru",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/67901.v7.png",
+    "stream_url": "https://www.jcbasimul.com/?radio=fmまいづる",
+    "website": "http://775maizuru.jp/",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "pop",
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:37:25+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.mbcfurupuri",
+    "name": "MBC Furu Puri",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/68277.v1.png",
+    "stream_url": "https://radiko.jp/#!/live/MBC",
+    "website": "http://www.mbc.co.jp/",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "pop",
+      "news",
+      "talk",
+      "japanese"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:38:16+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.mbsradio",
+    "name": "MBS Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/67898.v1.png",
+    "stream_url": "https://radiko.jp/#!/live/MBS",
+    "website": "http://www.mbs1179.com/",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "pop",
+      "talk",
+      "top40",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:39:16+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.megamix",
+    "name": "Radio Mega Mix - Japan",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/142241.v1.png",
+    "stream_url": "https://cc6.streammaximum.com/proxy/radiomegamix/autodj",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "pop",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:40:16+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.minoh",
+    "name": "Minoh FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/71114.v5.png",
+    "stream_url": "https://musicbird.leanstream.co/JCB102-MP3",
+    "website": "http://fm.minoh.net/",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "pop",
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:34:26+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.moeru",
+    "name": "FM Moeru",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/68063.v1.png",
+    "stream_url": "https://musicbird.leanstream.co/JCB002-MP3",
+    "website": "http://www.moeru.fm/",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "news",
+      "talk",
+      "japanese",
+      "community"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:36:34+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.moonmission",
+    "name": "Moon Mission",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/67494.v2.png",
+    "stream_url": "http://uk5.internet-radio.com:8306/;",
+    "website": "http://moonmission.jp/",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "dance",
+      "electronic",
+      "trance",
+      "house",
+      "techno",
+      "japanese"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:32:06+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.mro",
+    "name": "MRO Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/68250.v1.png",
+    "stream_url": "https://radiko.jp/#!/live/MRO",
+    "website": "https://www.mro.co.jp/radio/",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "pop",
+      "japanese"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:38:18+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.mrt",
+    "name": "MRT Miyazaki",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/68482.v1.png",
+    "stream_url": "https://radiko.jp/#!/live/MRT",
+    "website": "http://mrt.jp/radio/",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "news",
+      "talk",
+      "japanese",
+      "community"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:39:24+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.mundialgospeljapao",
+    "name": "Radio Mundial Gospel Japao",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/104976.v4.png",
+    "stream_url": "https://stream.zeno.fm/2hpav0m4198uv",
+    "website": "https://zeno.fm/radio-mundial-gospel-japao",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:37:27+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.musashinofm",
+    "name": "Musashino FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/67779.v3.png",
+    "stream_url": "https://musicbird.leanstream.co/JCB032-MP3",
+    "website": "http://www.musashino-fm.co.jp/",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "jazz",
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:32:08+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.n1",
+    "name": "FM-N1",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/68251.v4.png",
+    "stream_url": "http://fmn1.jp/stream/stream.swf",
+    "website": "http://www.fmn1.jp/",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "news",
+      "talk",
+      "japanese",
+      "community"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:40:11+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.nabari",
+    "name": "FM Nabari",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/68477.v3.png",
+    "stream_url": "https://musicbird.leanstream.co/JCB051-MP3",
+    "website": "http://www.advanscope.jp/fm/index.html",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "news",
+      "talk",
+      "japanese",
+      "community"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:35:31+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.nanami",
+    "name": "FM Nanami",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/69677.v6.png",
+    "stream_url": "https://musicbird.leanstream.co/JCB049-MP3",
+    "website": "http://www.clovernet.co.jp/nanami/index.html",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "pop",
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:35:26+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.nanami773",
+    "name": "Radio Nanami",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/71102.v5.png",
+    "stream_url": "https://www.jcbasimul.com/?radio=nanami-2",
+    "website": "http://www.fm773.co.jp/",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:39:23+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.nanao",
+    "name": "Radio Nanao",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/68255.v3.png",
+    "stream_url": "https://www.jcbasimul.com/",
+    "website": "http://www.radionanao.co.jp/",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "news",
+      "talk",
+      "japanese",
+      "community"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:33:16+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.naradotfm",
+    "name": "Nara Dot FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/68036.v2.png",
+    "stream_url": "https://musicbird.leanstream.co/JCB073-MP3",
+    "website": "http://narafm.jp/",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "pop",
+      "news",
+      "talk",
+      "adult contemporary",
+      "community"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:35:25+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.narita",
+    "name": "Radio NARITA",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/70194.v2.png",
+    "stream_url": "https://musicbird.leanstream.co/JCB022-MP3",
+    "website": "http://narita.fm/",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "talk",
+      "community"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:33:09+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.nbcnagasakiradio",
+    "name": "NBC Nagasaki Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/68038.v3.png",
+    "stream_url": "https://radiko.jp/#!/live/NBC",
+    "website": "https://www.nbc-nagasaki.co.jp/",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:38:13+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.ncvokitamago",
+    "name": "FM NCV Okitama GO!",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/67740.v2.png",
+    "stream_url": "https://musicbird.leanstream.co/JCB007-MP3",
+    "website": "http://fm834.jp/",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "pop",
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:36:28+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.nhkradio1",
+    "name": "NHK Radio 1",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/67774.v2.png",
+    "stream_url": "https://nhkradioakr1-i.akamaihd.net/hls/live/511633/1-r1/1-r1-01.m3u8",
+    "website": "http://www.nhk.or.jp/radio/",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "talk",
+      "education"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:33:09+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.nhkradiofm",
+    "name": "NHK Radio FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/67759.v1.png",
+    "stream_url": "https://nhkradioakfm-i.akamaihd.net/hls/live/512290/1-fm/1-fm-01.m3u8",
+    "website": "http://www.nhk.or.jp/radio/",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "talk",
+      "education"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:33:12+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.niihama",
+    "name": "Niihama FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/67905.v6.png",
+    "stream_url": "https://musicbird.leanstream.co/JCB099-MP3",
+    "website": "https://www.hellonew-niihama.jp/",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "pop",
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:37:19+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.nipponbroadcastingsystem",
+    "name": "Nippon Broadcasting System",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/67778.v1.png",
+    "stream_url": "https://radiko.jp/#!/live/LFR",
+    "website": "http://www.1242.com/",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:38:12+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.nipponcultural",
+    "name": "Nippon Cultural Broadcasting",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/67780.v1.png",
+    "stream_url": "https://radiko.jp/#!/live/QRR",
+    "website": "http://www.joqr.co.jp/",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "talk",
+      "folk",
+      "japanese"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:39:09+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.noasfm",
+    "name": "NOAS FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/67909.v2.png",
+    "stream_url": "https://musicbird.leanstream.co/JCB089-MP3",
+    "website": "http://www.789.fm/",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "news",
+      "talk",
+      "j-pop",
+      "community"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:37:28+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.obcradioosaka",
+    "name": "OBC Radio Osaka",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/67902.v1.png",
+    "stream_url": "http://radiko.jp/player/player.html#OBC",
+    "website": "http://www.obc1314.co.jp/",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "talk",
+      "japanese"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:39:24+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.obsradio",
+    "name": "OBS Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/67910.v1.png",
+    "stream_url": "http://radiko.jp/player/player.html#OBS",
+    "website": "http://www.e-obs.com/radio/",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:39:19+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.ojiisanradiookinawa",
+    "name": "Papa Ray Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/124800.v4.png",
+    "stream_url": "https://listen.radioking.com/radio/464162/stream/519548",
+    "website": "https://link.radioking.com/paparay-radio-okinawa1",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "blues",
+      "smooth jazz"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:38:15+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.orandaradio",
+    "name": "Oranda Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/67741.v2.png",
+    "stream_url": "https://musicbird.leanstream.co/JCB008-MP3",
+    "website": "http://oranda-radio.jp/",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:35:31+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.oze",
+    "name": "FM OZE",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/70211.v5.png",
+    "stream_url": "http://www.fm-oze.co.jp/simul/player.html",
+    "website": "http://www.fm-oze.co.jp/",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "news",
+      "talk",
+      "japanese"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:35:22+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.paparay",
+    "name": "Papa Ray Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/153839.v1.png",
+    "stream_url": "https://listen.radioking.com/radio/809006/stream/877801",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "blues",
+      "country",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:39:08+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.pipi",
+    "name": "FM PiPi",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/70201.v2.png",
+    "stream_url": "https://musicbird.leanstream.co/JCB043-MP3",
+    "website": "http://www.fmpipi.co.jp/",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "talk",
+      "community"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:37:29+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.poco",
+    "name": "FM Poco",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/68956.v4.png",
+    "stream_url": "https://musicbird.leanstream.co/JCB010-MP3",
+    "website": "http://www.fm-poco.co.jp/",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "pop",
+      "lounge",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:35:26+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.radioagatt",
+    "name": "Radio Agatt",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/67949.v3.png",
+    "stream_url": "http://www.agatt769.co.jp/",
+    "website": "http://www.agatt769.co.jp/",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "talk",
+      "j-pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:38:27+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.radioberry",
+    "name": "Radio Berry",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/67781.v1.png",
+    "stream_url": "https://radiko.jp/#!/live/RADIOBERRY",
+    "website": "http://www.berry.co.jp/",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "pop",
+      "j-pop",
+      "japanese"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:38:14+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.radiobss",
+    "name": "Radio BSS",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/67752.v1.png",
+    "stream_url": "https://radiko.jp/#!/live/BSS",
+    "website": "http://bss.jp/radio/",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "pop",
+      "talk",
+      "j-pop",
+      "japanese"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:40:10+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.radioeigekaiindies",
+    "name": "Radio Eigekai Indies",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/13174.v7.png",
+    "stream_url": "https://stream.radiojar.com/66zgtscuc1duv",
+    "website": "http://www.radio-eigekai.com/",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "rock",
+      "metal",
+      "techno",
+      "indie",
+      "j-pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:32:11+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.radiof",
+    "name": "Radio-f",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/67791.v3.png",
+    "stream_url": "https://musicbird.leanstream.co/JCB041-MP3",
+    "website": "http://radio-f.jp/",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "pop",
+      "talk",
+      "j-pop",
+      "japanese"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:35:31+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.radiohayama",
+    "name": "Radio Hayama",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/13170.v3.png",
+    "stream_url": "http://208.115.220.38:8073/;",
+    "website": "http://www.radiohayama.com/",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "pop",
+      "jazz",
+      "alternative"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:33:18+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.radiokishiwada",
+    "name": "Radio Kishiwada",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/12937.v4.png",
+    "stream_url": "http://61.89.201.27:8000/radikishi.mp3",
+    "website": "http://www.radiokishiwada.jp/",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "pop",
+      "news",
+      "talk",
+      "classic",
+      "ethnic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:31:59+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.radiomomo",
+    "name": "Radio MOMO",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/67908.v2.png",
+    "stream_url": "https://musicbird.leanstream.co/JCB079-MP3",
+    "website": "http://www.fm790.co.jp/",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "news",
+      "talk",
+      "classic",
+      "oldies",
+      "japanese"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:33:17+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.radiomonster",
+    "name": "Radio Monster",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/67742.v2.png",
+    "stream_url": "https://musicbird.leanstream.co/JCB006-MP3",
+    "website": "http://www.fm762.co.jp/",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "pop",
+      "news",
+      "talk",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:36:20+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.radionippon",
+    "name": "Radio Nippon",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/68336.v1.png",
+    "stream_url": "https://radiko.jp/#!/live/JORF",
+    "website": "http://www.jorf.co.jp/",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "news",
+      "talk",
+      "sports",
+      "japanese"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:39:23+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.radiotakaoka",
+    "name": "Radio Takaoka",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/67750.v2.png",
+    "stream_url": "https://musicbird.leanstream.co/JCB058-MP3",
+    "website": "http://www.radiotakaoka.co.jp/",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:36:25+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.rbcradio",
+    "name": "RBC Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/67904.v1.png",
+    "stream_url": "http://radiko.jp/player/player.html#RBC",
+    "website": "http://www.rbc.co.jp/",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "news",
+      "talk",
+      "sports"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:40:16+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.rcc",
+    "name": "RCC Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/67976.v1.png",
+    "stream_url": "http://radiko.jp/player/player.html#RCC",
+    "website": "http://www.1350.jp/",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "pop",
+      "talk",
+      "top40",
+      "japanese"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:40:09+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.rcv",
+    "name": "RCVFM",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/99276.v4.png",
+    "stream_url": "https://stream.rcvfm.fr:8000/rcv32k.aac",
+    "website": "https://www.rcvfm.com/",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:35:23+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.retropcgamemusicradio",
+    "name": "Retro PC GAME Music Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/12947.v1.png",
+    "stream_url": "http://gyusyabu.ddo.jp:8000/;",
+    "website": "http://gyusyabu.ddo.jp/MP3/MP3.html",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "electronic",
+      "anime",
+      "games music"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:33:05+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.rkb",
+    "name": "RKB Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/70200.v3.png",
+    "stream_url": "https://radiko.jp/#!/live/RKB",
+    "website": "https://rkbr.jp/",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "news",
+      "talk",
+      "japanese"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:39:10+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.rkk",
+    "name": "RKK Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/68461.v1.png",
+    "stream_url": "https://radiko.jp/?_=CN#!/live/RKK",
+    "website": "http://rkk.jp/",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "news",
+      "talk",
+      "japanese",
+      "community"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:40:07+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.rnbradio",
+    "name": "RNB Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/67890.v1.png",
+    "stream_url": "https://radiko.jp/#!/live/RNB",
+    "website": "http://www.rnb.co.jp/",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "pop",
+      "talk",
+      "j-pop",
+      "top40",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:40:17+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.sakura",
+    "name": "Sakura FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/68246.v2.png",
+    "stream_url": "https://musicbird.leanstream.co/JCB072-MP3",
+    "website": "http://sakura-fm.co.jp/",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "news",
+      "talk",
+      "japanese",
+      "community"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:33:21+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.sanq",
+    "name": "Radio SANQ",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/69678.v6.png",
+    "stream_url": "https://www.jcbasimul.com/?radio=radio-sanq",
+    "website": "http://845.fm/",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "jazz",
+      "news",
+      "talk",
+      "classic",
+      "japanese"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:34:14+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.sbcradio",
+    "name": "SBC Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/68299.v2.png",
+    "stream_url": "https://radiko.jp/#!/live/SBC",
+    "website": "http://sbc21.co.jp/",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "pop",
+      "talk",
+      "j-pop",
+      "japanese"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:39:22+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.seebittv",
+    "name": "Seebit TV",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/68247.v1.png",
+    "stream_url": "http://www.broadcast-neo.tv/seebit/index_studio-neo.html",
+    "website": "http://www.seebit.tv/",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "news",
+      "talk",
+      "sports",
+      "japanese"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:38:28+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.shiga",
+    "name": "Radio Shiga",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/114774.v5.png",
+    "stream_url": "https://sv10.hdradios.net:21920/;",
+    "website": "https://wp.radioshiga.com/",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "pop",
+      "jazz",
+      "bossa nova"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:36:35+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.shonanbeach",
+    "name": "Shonan Beach FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/67939.v7.png",
+    "stream_url": "https://shonanbeachfm.out.airtime.pro/shonanbeachfm_a",
+    "website": "http://www.beachfm.co.jp/",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "jazz",
+      "oldies",
+      "adult contemporary",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:32:02+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.shonanmagicwave",
+    "name": "Shonan Magic Wave",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/68333.v3.png",
+    "stream_url": "https://musicbird.leanstream.co/JCB018-MP3",
+    "website": "http://fm-smw.jp/",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "pop",
+      "news",
+      "talk",
+      "sports",
+      "japanese"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:36:22+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.shonannapasa",
+    "name": "Shonan Napasa FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/68321.v2.png",
+    "stream_url": "https://musicbird.leanstream.co/JCB014-MP3",
+    "website": "http://www.fmshonan783.co.jp/",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "news",
+      "talk",
+      "adult contemporary",
+      "japanese",
+      "community"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:37:30+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.sigmamusic",
+    "name": "Sigma Music",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/136704.v1.png",
+    "stream_url": "https://rsigma.sytes.net:8000/radio.mp3",
+    "website": "https://radio.sigmamusic.net/",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "rock",
+      "pop",
+      "reggaeton"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:38:15+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.soundupstationnfrs",
+    "name": "Sound Up Station Nfrs",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/110331.v7.png",
+    "stream_url": "https://stream.rcast.net/70945",
+    "website": "https://www.nfrsradio.com/",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "talk",
+      "indie",
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:35:20+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.stantsiyaperedachitensinolestnitsa",
+    "name": "てんしのはしご発信局",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/146195.v2.png",
+    "stream_url": "https://listen.radioking.com/radio/552224/stream/611507",
+    "website": "https://www.japan-net.radio/",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "pop",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:38:26+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.stereoanime",
+    "name": "Stereoanime.net",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/89301.v18.png",
+    "stream_url": "https://radio.stereoanime.net/listen/stereoanime/128",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "soundtrack",
+      "anime"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:32:05+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.stv",
+    "name": "STV Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/68062.v1.png",
+    "stream_url": "https://radiko.jp/#!/live/STV",
+    "website": "http://www.stv.ne.jp/radio/",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "talk",
+      "sports",
+      "japanese"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:40:12+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.supertokio",
+    "name": "Super Tokio Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/74034.v2.png",
+    "stream_url": "https://streamer.radio.co/s83eb8ff39/listen",
+    "website": "http://supertokio.com/",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "pop",
+      "reggaeton",
+      "latin",
+      "salsa",
+      "bachata"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:32:09+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.tactac",
+    "name": "Tactacめ",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/92892.v2.png",
+    "stream_url": "https://stream.zeno.fm/692dbdr067zuv",
+    "website": "https://tactac.ml/",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "news",
+      "j-pop",
+      "japanese"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:33:13+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.takarazuka",
+    "name": "FM Takarazuka",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/67937.v5.png",
+    "stream_url": "https://musicbird.leanstream.co/JCB071-MP3",
+    "website": "http://835.jp/",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "pop",
+      "jazz",
+      "talk",
+      "japanese"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:33:18+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.takasaki",
+    "name": "Radio Takasaki",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/70217.v4.png",
+    "stream_url": "http://www.takasaki.fm/",
+    "website": "http://www.takasaki.fm/",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "talk",
+      "community"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:35:24+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.taro",
+    "name": "FM TARO",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/70213.v6.png",
+    "stream_url": "http://www.fmtaro.co.jp/radimo.html",
+    "website": "http://www.fmtaro.co.jp/",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "talk",
+      "community"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:35:28+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.tbc",
+    "name": "TBC Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/68479.v1.png",
+    "stream_url": "https://radiko.jp/#!/live/TBC",
+    "website": "http://www.tbc-sendai.co.jp/",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "news",
+      "talk",
+      "japanese",
+      "hits",
+      "community"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:40:06+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.tbsradio",
+    "name": "TBS Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/67776.v2.png",
+    "stream_url": "https://radiko.jp/#!/live/TBS",
+    "website": "https://www.tbsradio.jp/",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "pop",
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:40:34+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.thekyotoconnection",
+    "name": "The Kyoto Connection",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/141501.v2.png",
+    "stream_url": "https://server.laradio.online:59009/live",
+    "website": "https://www.thekyotoconnection.com/radio/",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "ambient"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:37:20+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.theopenuniversityofjapan",
+    "name": "The Open University of Japan",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/70195.v2.png",
+    "stream_url": "https://radiko.jp/#!/live/HOUSOU-DAIGAKU",
+    "website": "http://www.ouj.ac.jp/",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "education"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:39:21+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.tligjapanese",
+    "name": "True Life in God Radio Japanese",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/75724.v7.png",
+    "stream_url": "https://stream.tligradio.org/listen/japanese/radio.mp3",
+    "website": "https://tligradio.org/ja/",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:34:18+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.tokai",
+    "name": "Tokai Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/69679.v3.png",
+    "stream_url": "https://radiko.jp/#!/live/TOKAIRADIO",
+    "website": "http://www.tokairadio.co.jp/",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "news",
+      "talk",
+      "japanese"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:40:13+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.tokyofmworld",
+    "name": "TOKYO FM WORLD",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/67777.v1.png",
+    "stream_url": "http://tokyofmworld.leanstream.co/JOAUFM-MP3",
+    "website": "https://www.tfm.co.jp/world/",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "pop",
+      "talk",
+      "j-pop",
+      "japanese"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:33:22+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.toyamacityfm",
+    "name": "Toyama City FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/67751.v2.png",
+    "stream_url": "https://musicbird.leanstream.co/JCB057-MP3",
+    "website": "http://www.city-fm.co.jp/",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "jazz",
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:34:23+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.txtfmdramacity",
+    "name": "RADIO wonderstorage",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/71205.v2.png",
+    "stream_url": "http://live.776.fm/radiotxt.html",
+    "website": "http://776.fm/",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "pop",
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:38:24+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.tzgospel",
+    "name": "Tzgospel Japan",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/128843.v3.png",
+    "stream_url": "https://stream.zeno.fm/tz9dw28fzchvv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:40:18+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.uji",
+    "name": "FM Uji",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/67933.v7.png",
+    "stream_url": "https://musicbird.leanstream.co/JCB065-MP3",
+    "website": "https://www.fmuji.com/",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "pop",
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:34:28+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.ulala",
+    "name": "FM U-LaLa",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/69748.v3.png",
+    "stream_url": "https://musicbird.leanstream.co/JCB020-MP3",
+    "website": "http://www.fmu.co.jp/",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "talk",
+      "classic",
+      "japanese"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:33:10+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.umedafmbehappy789",
+    "name": "Umeda FM Be Happy!789",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/67899.v3.png",
+    "stream_url": "https://www.jcbasimul.com/?radio=うめだfm-be-happy789",
+    "website": "http://www.be-happy789.com/",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "pop",
+      "news",
+      "talk",
+      "top40",
+      "community"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:33:08+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.unitednorth",
+    "name": "United North",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/68281.v6.png",
+    "stream_url": "https://musicbird.leanstream.co/JCB046-MP3",
+    "website": "http://842fm.jp/",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "news",
+      "talk",
+      "japanese"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:36:36+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.vocaloidradio",
+    "name": "Vocaloid Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/12926.v4.png",
+    "stream_url": "http://curiosity.shoutca.st:8019/stream",
+    "website": "http://vocaloidradio.com/",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "trance",
+      "j-pop",
+      "anime"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:32:00+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.voicecue",
+    "name": "VOICE CUE",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/67785.v3.png",
+    "stream_url": "https://www.jcbasimul.com/radio/801/",
+    "website": "http://www.777fm.com/",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "talk",
+      "community"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:37:19+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.watch",
+    "name": "FM WATCH",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/70205.v5.png",
+    "stream_url": "https://musicbird-hls.leanstream.co/musicbird/JCB044.stream/playlist.m3u8",
+    "website": "http://www.fm-watch.jp/",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "talk",
+      "70s",
+      "community"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:36:30+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.wbswakayama",
+    "name": "WBS Wakayama Broadcasting",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/67743.v3.png",
+    "stream_url": "http://radiko.jp/#!/live/WBS",
+    "website": "http://www.wbs.co.jp/",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "news",
+      "talk",
+      "japanese"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:39:10+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.worldhits",
+    "name": "World Hits Radio JA",
+    "image": "https://cdn.onlineradiobox.com/img/logo/9/93409.png",
+    "stream_url": "https://stream.zeno.fm/6vytsnbkb8zuv",
+    "website": "http://worldhitsradio.com/",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "news",
+      "talk",
+      "top40",
+      "latin",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:34:13+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.yamato",
+    "name": "FM Yamato",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/68286.v3.png",
+    "stream_url": "https://www.jcbasimul.com/fmyamato",
+    "website": "http://www.fmyamato.co.jp/",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "news",
+      "talk",
+      "japanese",
+      "hits",
+      "community"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:32:05+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.yame",
+    "name": "FM Yame",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/70198.v3.png",
+    "stream_url": "https://musicbird.leanstream.co/JCB086-MP3",
+    "website": "http://fmyame.jp/",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "talk",
+      "community"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:34:28+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.yufuinradio",
+    "name": "Yufuin Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/67912.v3.png",
+    "stream_url": "https://musicbird.leanstream.co/JCB088-MP3",
+    "website": "http://874.fm/",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "talk",
+      "oldies"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:34:15+05:30"
+  },
+  {
+    "id": "onlineradiobox_jp.zip",
+    "name": "Zip FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/69676.v5.png",
+    "stream_url": "https://radiko.jp/#!/live/ZIP-FM",
+    "website": "http://zip-fm.co.jp/",
+    "provider": "onlineradiobox",
+    "country": "Japan",
+    "genres": [
+      "r'n'b",
+      "news",
+      "hip-hop",
+      "k-pop",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:38:22+05:30"
+  }
+]

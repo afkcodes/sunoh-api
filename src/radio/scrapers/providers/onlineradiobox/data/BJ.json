@@ -1,0 +1,548 @@
+[
+  {
+    "id": "onlineradiobox_bj.adoreporters",
+    "name": "Radio Ado Reporters",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/145115.v1.png",
+    "stream_url": "https://listen.radioking.com/radio/697646/stream/762581",
+    "website": "https://www.girlsandyouthconnected.com/",
+    "provider": "onlineradiobox",
+    "country": "Benin",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:12:18+05:30"
+  },
+  {
+    "id": "onlineradiobox_bj.afrikmotiv",
+    "name": "Afrik Motiv Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/139314.v2.png",
+    "stream_url": "https://stream.zeno.fm/saphn63q35kvv",
+    "website": "https://afrikmotiv.com/",
+    "provider": "onlineradiobox",
+    "country": "Benin",
+    "genres": [
+      "news",
+      "talk",
+      "sports"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:12:48+05:30"
+  },
+  {
+    "id": "onlineradiobox_bj.afriquesante",
+    "name": "Radio Afrique Santé",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/146429.v1.png",
+    "stream_url": "https://listen.radioking.com/radio/502870/stream/560272",
+    "website": "https://radioafriquesante.com/",
+    "provider": "onlineradiobox",
+    "country": "Benin",
+    "genres": [
+      "talk",
+      "sports",
+      "culture"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:12:18+05:30"
+  },
+  {
+    "id": "onlineradiobox_bj.antennawebcotonou",
+    "name": "Antenna Web Cotonou",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/134193.v3.png",
+    "stream_url": "https://tinyurl.com/AntennaWebBenin",
+    "website": "https://antennaweb.it/antennaweb-cotonou/",
+    "provider": "onlineradiobox",
+    "country": "Benin",
+    "genres": [
+      "rock",
+      "pop",
+      "blues",
+      "jazz",
+      "funk",
+      "reggaeton"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:12:11+05:30"
+  },
+  {
+    "id": "onlineradiobox_bj.aximin",
+    "name": "Aximin",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/93912.v2.png",
+    "stream_url": "https://listen.radioking.com/radio/333013/stream/381412",
+    "website": "https://www.aximin.com/",
+    "provider": "onlineradiobox",
+    "country": "Benin",
+    "genres": [
+      "news",
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:12:10+05:30"
+  },
+  {
+    "id": "onlineradiobox_bj.bip",
+    "name": "bip radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/126045.v5.png",
+    "stream_url": "https://ice.creacast.com/bipradio",
+    "website": "http://bipradio.com/",
+    "provider": "onlineradiobox",
+    "country": "Benin",
+    "genres": [
+      "news",
+      "talk",
+      "sports"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:12:07+05:30"
+  },
+  {
+    "id": "onlineradiobox_bj.cappfm",
+    "name": "CAPP FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/34405.v7.png",
+    "stream_url": "https://cdnradio.streamakaci.com/cappfm.mp3",
+    "website": "http://cappfm.com/",
+    "provider": "onlineradiobox",
+    "country": "Benin",
+    "genres": [
+      "pop",
+      "news",
+      "talk",
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:12:07+05:30"
+  },
+  {
+    "id": "onlineradiobox_bj.crystalnews",
+    "name": "Crystal News",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/92466.v4.png",
+    "stream_url": "https://listen.radioking.com/radio/311507/stream/358646",
+    "website": "https://www.crystal-news.net/",
+    "provider": "onlineradiobox",
+    "country": "Benin",
+    "genres": [
+      "pop",
+      "news"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:12:09+05:30"
+  },
+  {
+    "id": "onlineradiobox_bj.frissons",
+    "name": "Frissons Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/101585.v5.png",
+    "stream_url": "https://frissonsradio.ice.infomaniak.ch/frissonsradio-128.mp3",
+    "website": "http://www.frissonsradiocotonou.com/",
+    "provider": "onlineradiobox",
+    "country": "Benin",
+    "genres": [
+      "pop",
+      "news"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:12:08+05:30"
+  },
+  {
+    "id": "onlineradiobox_bj.gbexo",
+    "name": "Radio Gbèxo",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/146532.v2.png",
+    "stream_url": "https://listen.radioking.com/radio/714650/stream/780293",
+    "website": "http://www.wycliffebenin.com/",
+    "provider": "onlineradiobox",
+    "country": "Benin",
+    "genres": [
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:12:13+05:30"
+  },
+  {
+    "id": "onlineradiobox_bj.hero",
+    "name": "Hero Radio (Benin)",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/139032.v1.png",
+    "stream_url": "https://a2.asurahosting.com:6790/benin.mp3",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Benin",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:12:14+05:30"
+  },
+  {
+    "id": "onlineradiobox_bj.heroeshits",
+    "name": "Heroes Hits",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/148185.v9.png",
+    "stream_url": "https://listen.radioking.com/radio/733334/stream/799601",
+    "website": "https://www.heroesmag.org/heroes-hits/",
+    "provider": "onlineradiobox",
+    "country": "Benin",
+    "genres": [
+      "pop",
+      "hip-hop",
+      "gospel",
+      "afro beat"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:12:17+05:30"
+  },
+  {
+    "id": "onlineradiobox_bj.hmd4",
+    "name": "Radio RCL",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/145107.v4.png",
+    "stream_url": "https://listen.radioking.com/radio/699122/stream/764123",
+    "website": "https://fr.welove.radio/radio/RadioRCL/",
+    "provider": "onlineradiobox",
+    "country": "Benin",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:12:46+05:30"
+  },
+  {
+    "id": "onlineradiobox_bj.kiff",
+    "name": "Kiff FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/146663.v3.png",
+    "stream_url": "https://listen.radioking.com/radio/613798/stream/675604",
+    "website": "https://srtb.bj/directkifffm/",
+    "provider": "onlineradiobox",
+    "country": "Benin",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:12:49+05:30"
+  },
+  {
+    "id": "onlineradiobox_bj.kultu",
+    "name": "KULTU RADIO",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/122596.v1.png",
+    "stream_url": "https://kulturadio2019.radioca.st/stream",
+    "website": "https://kulturadio.com/",
+    "provider": "onlineradiobox",
+    "country": "Benin",
+    "genres": [
+      "pop",
+      "news",
+      "culture",
+      "education"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:12:47+05:30"
+  },
+  {
+    "id": "onlineradiobox_bj.lavoixdesenfants",
+    "name": "La voix des enfants",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/144821.v2.png",
+    "stream_url": "https://listen.radioking.com/radio/712106/stream/777692",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Benin",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:12:20+05:30"
+  },
+  {
+    "id": "onlineradiobox_bj.legibenin",
+    "name": "Legibenin",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/145342.v2.png",
+    "stream_url": "https://listen.radioking.com/radio/185545/stream/227638",
+    "website": "http://www.legibenin.com/",
+    "provider": "onlineradiobox",
+    "country": "Benin",
+    "genres": [
+      "african"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:12:47+05:30"
+  },
+  {
+    "id": "onlineradiobox_bj.lesdemocratesbeninofficiel",
+    "name": "Les Démocrates Bénin officiel",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/146016.v1.png",
+    "stream_url": "https://listen.radioking.com/radio/595657/stream/656632",
+    "website": "https://lesdemocrates-benin.com/",
+    "provider": "onlineradiobox",
+    "country": "Benin",
+    "genres": [
+      "politics"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:12:14+05:30"
+  },
+  {
+    "id": "onlineradiobox_bj.lrcm",
+    "name": "LRCM Radio (Benin)",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/153043.v1.png",
+    "stream_url": "https://a8.asurahosting.com:8950/benin.mp3",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Benin",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:12:19+05:30"
+  },
+  {
+    "id": "onlineradiobox_bj.madeinbenin",
+    "name": "Made In Bénin Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/145839.v3.png",
+    "stream_url": "https://listen.radioking.com/radio/357802/stream/407221",
+    "website": "http://www.madeinbeninradio.bj/",
+    "provider": "onlineradiobox",
+    "country": "Benin",
+    "genres": [
+      "hip-hop",
+      "indie",
+      "african"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:12:21+05:30"
+  },
+  {
+    "id": "onlineradiobox_bj.mec-radio",
+    "name": "MEC-Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/146058.v3.png",
+    "stream_url": "https://listen.radioking.com/radio/404350/stream/456556",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Benin",
+    "genres": [
+      "pop",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:12:20+05:30"
+  },
+  {
+    "id": "onlineradiobox_bj.miel",
+    "name": "Miel Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/145436.v2.png",
+    "stream_url": "https://listen.radioking.com/radio/374884/stream/425125",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Benin",
+    "genres": [],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:12:16+05:30"
+  },
+  {
+    "id": "onlineradiobox_bj.ortb",
+    "name": "Radio Bénin",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/34414.v6.png",
+    "stream_url": "https://listen.radioking.com/radio/47608/stream/84424",
+    "website": "http://www.ortb.bj/",
+    "provider": "onlineradiobox",
+    "country": "Benin",
+    "genres": [
+      "pop",
+      "news",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:12:06+05:30"
+  },
+  {
+    "id": "onlineradiobox_bj.osolowe",
+    "name": "Osolo Web Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/122880.v4.png",
+    "stream_url": "https://stream.zeno.fm/dupwliw2mravv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Benin",
+    "genres": [
+      "french"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:12:11+05:30"
+  },
+  {
+    "id": "onlineradiobox_bj.parakou",
+    "name": "Radio Parakou",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/144778.v3.png",
+    "stream_url": "https://listen.radioking.com/radio/51919/stream/88927",
+    "website": "https://www.ortb.bj/",
+    "provider": "onlineradiobox",
+    "country": "Benin",
+    "genres": [
+      "news",
+      "sports",
+      "african",
+      "politics"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:12:16+05:30"
+  },
+  {
+    "id": "onlineradiobox_bj.radioimmaculeconcepcin",
+    "name": "Radio Immaculée Conception",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/34393.v12.png",
+    "stream_url": "https://ovps1.ulcast.com:8042/;stream.mp4",
+    "website": "https://ric.fiafrique.net/",
+    "provider": "onlineradiobox",
+    "country": "Benin",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:12:10+05:30"
+  },
+  {
+    "id": "onlineradiobox_bj.radiotokpa",
+    "name": "Radio Tokpa",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/54197.v13.png",
+    "stream_url": "https://radiotokpa.info/liveradio",
+    "website": "https://radiotokpa.info/",
+    "provider": "onlineradiobox",
+    "country": "Benin",
+    "genres": [
+      "news",
+      "talk",
+      "african"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:12:08+05:30"
+  },
+  {
+    "id": "onlineradiobox_bj.siongospel",
+    "name": "Sion Radio Gospel",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/146202.v1.png",
+    "stream_url": "https://listen.radioking.com/radio/550517/stream/609773",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Benin",
+    "genres": [
+      "r'n'b",
+      "pop",
+      "rap",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:12:17+05:30"
+  },
+  {
+    "id": "onlineradiobox_bj.tonignon",
+    "name": "FM Tonignon",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/139928.v5.png",
+    "stream_url": "https://stream.zeno.fm/kzywzsbgkmztv",
+    "website": "https://zeno.fm/radio/fm-tonignon/",
+    "provider": "onlineradiobox",
+    "country": "Benin",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:12:15+05:30"
+  },
+  {
+    "id": "onlineradiobox_bj.tzgospel",
+    "name": "Tzgospel Benin",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/128607.v1.png",
+    "stream_url": "https://stream.zeno.fm/29tb0mz7kfhvv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Benin",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:12:15+05:30"
+  }
+]

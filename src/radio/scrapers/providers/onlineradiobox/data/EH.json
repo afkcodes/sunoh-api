@@ -1,0 +1,43 @@
+[
+  {
+    "id": "onlineradiobox_eh.antennawebelaaiun",
+    "name": "Antenna Web El Aaiún",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/134707.v1.png",
+    "stream_url": "https://tinyurl.com/AntennaWebEl-Aaiun",
+    "website": "https://antennaweb.it/antennaweb-el-aaiun/",
+    "provider": "onlineradiobox",
+    "country": "Western Sahara",
+    "genres": [
+      "rock",
+      "pop",
+      "blues",
+      "jazz",
+      "funk",
+      "reggaeton"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T19:08:43+05:30"
+  },
+  {
+    "id": "onlineradiobox_eh.chada",
+    "name": "Chada FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/48166.v6.png",
+    "stream_url": "https://edge16.vedge.infomaniak.com/livecast/ik:chadatv/manifest.m3u8",
+    "website": "http://www.chadafm.net/",
+    "provider": "onlineradiobox",
+    "country": "Western Sahara",
+    "genres": [
+      "pop",
+      "arabic",
+      "culture"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T19:08:42+05:30"
+  }
+]

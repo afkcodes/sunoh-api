@@ -1,0 +1,127 @@
+[
+  {
+    "id": "onlineradiobox_tl.hope",
+    "name": "AWR TImor Leste",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/133550.v3.png",
+    "stream_url": "https://mediacp-id1.arenastreaming.com:2020/stream/awrtimorleste",
+    "website": "https://adventist.tl/awr-timor-leste-2/",
+    "provider": "onlineradiobox",
+    "country": "East Timor",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:50:52+05:30"
+  },
+  {
+    "id": "onlineradiobox_tl.liberdade",
+    "name": "Radio Liberdade Dili",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/47853.v8.png",
+    "stream_url": "https://streaming.kalohan.net/proxy/raliber?mp=/stream",
+    "website": "http://www.radioliberdadedili.com/",
+    "provider": "onlineradiobox",
+    "country": "East Timor",
+    "genres": [
+      "pop",
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:50:52+05:30"
+  },
+  {
+    "id": "onlineradiobox_tl.mauloko",
+    "name": "Mauloko FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/153391.v1.png",
+    "stream_url": "https://streaming.kalohan.net/proxy/mauloko?mp=/stream",
+    "website": "https://radiomauloko.org/",
+    "provider": "onlineradiobox",
+    "country": "East Timor",
+    "genres": [
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:50:53+05:30"
+  },
+  {
+    "id": "onlineradiobox_tl.povuviqueque",
+    "name": "Povu Viqueque FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/153393.v1.png",
+    "stream_url": "https://streaming.kalohan.net/proxy/viqueque?mp=/stream",
+    "website": "https://radioviqueque.org/",
+    "provider": "onlineradiobox",
+    "country": "East Timor",
+    "genres": [
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:50:54+05:30"
+  },
+  {
+    "id": "onlineradiobox_tl.rakambia",
+    "name": "Radio Rakambia FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/153392.v1.png",
+    "stream_url": "https://streaming.kalohan.net/proxy/rakambia?mp=/stream",
+    "website": "https://www.rmtl.org/",
+    "provider": "onlineradiobox",
+    "country": "East Timor",
+    "genres": [
+      "pop",
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:50:54+05:30"
+  },
+  {
+    "id": "onlineradiobox_tl.redetimorlestelive",
+    "name": "Radio rede timor-leste live",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/126875.v3.png",
+    "stream_url": "https://sonicpanel.oficialserver.com:7186/;",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "East Timor",
+    "genres": [
+      "pop",
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:50:56+05:30"
+  },
+  {
+    "id": "onlineradiobox_tl.tzgospel",
+    "name": "Tzgospel (East Timor)",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/119736.v5.png",
+    "stream_url": "https://stream.zeno.fm/ttpgp5da7ehvv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "East Timor",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:50:55+05:30"
+  }
+]

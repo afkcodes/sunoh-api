@@ -1,0 +1,1997 @@
+[
+  {
+    "id": "onlineradiobox_mk.106fm",
+    "name": "Radio 106",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/13817.v4.png",
+    "stream_url": "http://stream.zemi.mk:8003/1",
+    "website": "http://www.106.com.mk/",
+    "provider": "onlineradiobox",
+    "country": "North Macedonia",
+    "genres": [
+      "adult contemporary",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:00:05+05:30"
+  },
+  {
+    "id": "onlineradiobox_mk.5fm",
+    "name": "Radio 5fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/13719.v3.png",
+    "stream_url": "http://5fm.mk:8000/stream/1/?type=http/;?d=",
+    "website": "http://5fm.mk/",
+    "provider": "onlineradiobox",
+    "country": "North Macedonia",
+    "genres": [
+      "adult contemporary",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:00:56+05:30"
+  },
+  {
+    "id": "onlineradiobox_mk.akord",
+    "name": "Radio Akord",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/13812.v2.png",
+    "stream_url": "http://radioakord.dyndns.org:8000/;",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "North Macedonia",
+    "genres": [
+      "pop",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:00:11+05:30"
+  },
+  {
+    "id": "onlineradiobox_mk.aleksandarmakedonski",
+    "name": "Radio Aleksandar Makedonski",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/13967.v4.png",
+    "stream_url": "https://s2.free-shoutcast.com/stream/18138;",
+    "website": "https://www.radioaleksandarmakedonski.com/",
+    "provider": "onlineradiobox",
+    "country": "North Macedonia",
+    "genres": [
+      "folk",
+      "ethnic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:00:04+05:30"
+  },
+  {
+    "id": "onlineradiobox_mk.antenna5",
+    "name": "Antenna 5",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/13646.v4.png",
+    "stream_url": "http://antenna5stream.neotel.mk:8000/live128",
+    "website": "http://www.antenna5.com.mk/",
+    "provider": "onlineradiobox",
+    "country": "North Macedonia",
+    "genres": [
+      "pop",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:59:06+05:30"
+  },
+  {
+    "id": "onlineradiobox_mk.antennawebskopje",
+    "name": "Antenna Web Skopje",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/128690.v3.png",
+    "stream_url": "https://tinyurl.com/Antenna-Web-Skopje",
+    "website": "https://antennaweb.it/antennaweb-skopje/",
+    "provider": "onlineradiobox",
+    "country": "North Macedonia",
+    "genres": [
+      "rock",
+      "pop",
+      "blues",
+      "jazz",
+      "funk",
+      "latin"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:02:02+05:30"
+  },
+  {
+    "id": "onlineradiobox_mk.balkanbeats",
+    "name": "BalkanBeats Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/143651.v7.png",
+    "stream_url": "https://a13.my-control-panel.com/listen/balkanbeats_radio/radio.mp3",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "North Macedonia",
+    "genres": [
+      "pop",
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:02:35+05:30"
+  },
+  {
+    "id": "onlineradiobox_mk.balon",
+    "name": "Радио Балон",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/125763.v1.png",
+    "stream_url": "https://radio.shoutcast.mk:7014/;",
+    "website": "https://radiobalon.com/",
+    "provider": "onlineradiobox",
+    "country": "North Macedonia",
+    "genres": [
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:02:00+05:30"
+  },
+  {
+    "id": "onlineradiobox_mk.bezisten",
+    "name": "Radio Bezisten",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/97039.v8.png",
+    "stream_url": "https://s47.myradiostream.com/16658/;?",
+    "website": "http://radiobt.pelanet.mk/index.php",
+    "provider": "onlineradiobox",
+    "country": "North Macedonia",
+    "genres": [
+      "rock",
+      "pop",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:01:55+05:30"
+  },
+  {
+    "id": "onlineradiobox_mk.bikersgarage",
+    "name": "Bikers Garage Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/123089.v2.png",
+    "stream_url": "https://i9.streams.ovh/sc/bikersgarageradio/stream",
+    "website": "https://bikers.niz.mk/",
+    "provider": "onlineradiobox",
+    "country": "North Macedonia",
+    "genres": [
+      "rock",
+      "classic rock",
+      "soft rock"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:01:02+05:30"
+  },
+  {
+    "id": "onlineradiobox_mk.biser",
+    "name": "STIL EX YU POP",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/94949.v10.png",
+    "stream_url": "https://stilradio.com/stream/stilexyupop.php",
+    "website": "https://stilradio.com/",
+    "provider": "onlineradiobox",
+    "country": "North Macedonia",
+    "genres": [
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:01:53+05:30"
+  },
+  {
+    "id": "onlineradiobox_mk.biserorovnik",
+    "name": "Biser Radio Orovnik",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/84378.v10.png",
+    "stream_url": "https://biserradioohrid.radioca.st/stream?type=http&amp;nocache=1573",
+    "website": "https://biser-radio.multihost.mk/",
+    "provider": "onlineradiobox",
+    "country": "North Macedonia",
+    "genres": [
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:01:04+05:30"
+  },
+  {
+    "id": "onlineradiobox_mk.biserorovnikohrid",
+    "name": "Biser Radio Ohrid",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/86231.v6.png",
+    "stream_url": "https://biserradioohrid.radioca.st/stream",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "North Macedonia",
+    "genres": [
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:59:58+05:30"
+  },
+  {
+    "id": "onlineradiobox_mk.bleta",
+    "name": "Radio Bleta",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/13969.v2.png",
+    "stream_url": "https://radio.arholding.mk/play.aspx?radioBleta",
+    "website": "http://tvkoha.tv/radio-bleta-live/",
+    "provider": "onlineradiobox",
+    "country": "North Macedonia",
+    "genres": [
+      "hip-hop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:00:00+05:30"
+  },
+  {
+    "id": "onlineradiobox_mk.bockamix",
+    "name": "Radio BockaMix Macedonia",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/145120.v5.png",
+    "stream_url": "http://95.154.197.82:38669/;",
+    "website": "https://bockasoping.mk/bockamix.html",
+    "provider": "onlineradiobox",
+    "country": "North Macedonia",
+    "genres": [
+      "dance",
+      "rock",
+      "pop",
+      "techno",
+      "rap"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:02:32+05:30"
+  },
+  {
+    "id": "onlineradiobox_mk.bombarder",
+    "name": "Radio 105 Bombarder",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/13643.v8.png",
+    "stream_url": "https://radio105bombarder.com:21010/;stream.mp3",
+    "website": "http://www.radio105bombarder.com/",
+    "provider": "onlineradiobox",
+    "country": "North Macedonia",
+    "genres": [
+      "news",
+      "sports",
+      "culture",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:59:13+05:30"
+  },
+  {
+    "id": "onlineradiobox_mk.bravoskopje",
+    "name": "Bravo Radio - Skopje, Macedonia",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/146217.v1.png",
+    "stream_url": "https://radiomk-portal.com/listen/bravo_radio_macedonia/radio.mp3",
+    "website": "https://bravoradio.mk/",
+    "provider": "onlineradiobox",
+    "country": "North Macedonia",
+    "genres": [
+      "dance",
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:02:34+05:30"
+  },
+  {
+    "id": "onlineradiobox_mk.bubamara",
+    "name": "Radio Bubamara",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/13644.v7.png",
+    "stream_url": "https://live.onlineradio.mk/listen/radio_bubamara_aac/stream",
+    "website": "http://radiobubamara.mk/",
+    "provider": "onlineradiobox",
+    "country": "North Macedonia",
+    "genres": [
+      "folk",
+      "adult contemporary",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:59:06+05:30"
+  },
+  {
+    "id": "onlineradiobox_mk.capitol",
+    "name": "Capitol FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/13816.v2.png",
+    "stream_url": "http://89.205.127.244:8002/;",
+    "website": "http://www.capitolfm.mk/",
+    "provider": "onlineradiobox",
+    "country": "North Macedonia",
+    "genres": [
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:00:05+05:30"
+  },
+  {
+    "id": "onlineradiobox_mk.city",
+    "name": "City Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/13645.v5.png",
+    "stream_url": "http://176.9.117.123:9998/live",
+    "website": "http://www.cityradio.com.mk/",
+    "provider": "onlineradiobox",
+    "country": "North Macedonia",
+    "genres": [
+      "top40",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:59:14+05:30"
+  },
+  {
+    "id": "onlineradiobox_mk.clubfm",
+    "name": "Club FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/13681.v3.png",
+    "stream_url": "http://176.9.117.123:9996/;",
+    "website": "http://www.clubfm.mk/",
+    "provider": "onlineradiobox",
+    "country": "North Macedonia",
+    "genres": [
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:59:10+05:30"
+  },
+  {
+    "id": "onlineradiobox_mk.clubradio",
+    "name": "Club Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/147592.v1.png",
+    "stream_url": "https://radiomk-portal.com/listen/club_radio_macedonia/radio.mp3",
+    "website": "https://clubradio.mk/",
+    "provider": "onlineradiobox",
+    "country": "North Macedonia",
+    "genres": [
+      "dance",
+      "house",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:02:05+05:30"
+  },
+  {
+    "id": "onlineradiobox_mk.diamond",
+    "name": "Diamond Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/131013.v1.png",
+    "stream_url": "https://cast6.asurahosting.com/proxy/nikola/stream",
+    "website": "https://diamondradio4.wixsite.com/diamondradio",
+    "provider": "onlineradiobox",
+    "country": "North Macedonia",
+    "genres": [
+      "dance",
+      "house",
+      "disco",
+      "90s",
+      "80s"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:02:06+05:30"
+  },
+  {
+    "id": "onlineradiobox_mk.ekspres",
+    "name": "Ekspres Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/13958.v3.png",
+    "stream_url": "http://ekspresradio.dyndns.org:8000/;",
+    "website": "http://www.ekspresradio.com.mk/",
+    "provider": "onlineradiobox",
+    "country": "North Macedonia",
+    "genres": [
+      "pop",
+      "news",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:00:00+05:30"
+  },
+  {
+    "id": "onlineradiobox_mk.estrada",
+    "name": "STIL EX YU TRAP",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/108205.v3.png",
+    "stream_url": "https://stilradio.com/stream/stilexyutrap.php",
+    "website": "https://stilradio.com/",
+    "provider": "onlineradiobox",
+    "country": "North Macedonia",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:01:59+05:30"
+  },
+  {
+    "id": "onlineradiobox_mk.extra",
+    "name": "Extra Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/124486.v29.png",
+    "stream_url": "https://eu10.fastcast4u.com/extralive",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "North Macedonia",
+    "genres": [
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:59:06+05:30"
+  },
+  {
+    "id": "onlineradiobox_mk.fokusmakedonija",
+    "name": "Radio Fokus Makedonija",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/106079.v3.png",
+    "stream_url": "https://stream.zeno.fm/rn01x4vssnhvv",
+    "website": "https://radiofokus.mk/",
+    "provider": "onlineradiobox",
+    "country": "North Macedonia",
+    "genres": [
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:01:01+05:30"
+  },
+  {
+    "id": "onlineradiobox_mk.fortuna",
+    "name": "Radio Fortuna",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/13697.v4.png",
+    "stream_url": "https://radiofortuna.ipradio.mk/;",
+    "website": "http://www.radiofortuna.com.mk/",
+    "provider": "onlineradiobox",
+    "country": "North Macedonia",
+    "genres": [
+      "rock",
+      "pop",
+      "top40",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:59:13+05:30"
+  },
+  {
+    "id": "onlineradiobox_mk.gold-prilep",
+    "name": "Radio Gold-Prilep",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/153228.v3.png",
+    "stream_url": "https://listen.mixlr.com/6eab3d4d2583e98d58d924cfca30d642",
+    "website": "https://goldradio-prilep.blogspot.com/",
+    "provider": "onlineradiobox",
+    "country": "North Macedonia",
+    "genres": [
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:02:40+05:30"
+  },
+  {
+    "id": "onlineradiobox_mk.goldi",
+    "name": "Radio Goldi",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/149406.v8.png",
+    "stream_url": "http://78.157.7.12:8000/stream",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "North Macedonia",
+    "genres": [
+      "rock",
+      "pop",
+      "folk",
+      "instrumental"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:01:01+05:30"
+  },
+  {
+    "id": "onlineradiobox_mk.goranaj",
+    "name": "Gora Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/113298.v8.png",
+    "stream_url": "https://stilradio.com/stream/goraradio.php",
+    "website": "https://www.radiogora.net/",
+    "provider": "onlineradiobox",
+    "country": "North Macedonia",
+    "genres": [
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:00:09+05:30"
+  },
+  {
+    "id": "onlineradiobox_mk.gostivarpressmkonline",
+    "name": "Gostivarpress.mk Online Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/105674.v4.png",
+    "stream_url": "https://radio.dukahosting.com/8004/stream",
+    "website": "https://gostivarpress.mk/online-radio/",
+    "provider": "onlineradiobox",
+    "country": "North Macedonia",
+    "genres": [
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:01:00+05:30"
+  },
+  {
+    "id": "onlineradiobox_mk.hero",
+    "name": "Hero Radio (North Macedonia)",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/147004.v1.png",
+    "stream_url": "https://a2.asurahosting.com:6790/northmacedonia.mp3",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "North Macedonia",
+    "genres": [
+      "news",
+      "gospel",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:02:35+05:30"
+  },
+  {
+    "id": "onlineradiobox_mk.hit",
+    "name": "Radio HIT",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/13960.v5.png",
+    "stream_url": "https://www.radio.shoutcast.mk:8062/stream",
+    "website": "http://radiohit.com.mk/",
+    "provider": "onlineradiobox",
+    "country": "North Macedonia",
+    "genres": [
+      "dance",
+      "house",
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:00:58+05:30"
+  },
+  {
+    "id": "onlineradiobox_mk.holidej",
+    "name": "Radio Holidej",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/14006.v10.png",
+    "stream_url": "https://cloud.mkdstream.com/p/8204/stream",
+    "website": "http://www.radioholidej.com.mk/",
+    "provider": "onlineradiobox",
+    "country": "North Macedonia",
+    "genres": [
+      "entertainment",
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:00:10+05:30"
+  },
+  {
+    "id": "onlineradiobox_mk.iloveheavymetal",
+    "name": "I Love Heavy Metal",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/13671.v6.png",
+    "stream_url": "https://streamingv2.shoutcast.com/IloveHeavyMetal",
+    "website": "https://iloveheavymetalradio.com/",
+    "provider": "onlineradiobox",
+    "country": "North Macedonia",
+    "genres": [
+      "hard rock",
+      "metal"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:00:58+05:30"
+  },
+  {
+    "id": "onlineradiobox_mk.impact",
+    "name": "Impact Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/146205.v2.png",
+    "stream_url": "https://listen.radioking.com/radio/547646/stream/606824",
+    "website": "http://impact-press.com/",
+    "provider": "onlineradiobox",
+    "country": "North Macedonia",
+    "genres": [
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:02:33+05:30"
+  },
+  {
+    "id": "onlineradiobox_mk.jazz1008",
+    "name": "Jazz FM 100.8",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/138904.v3.png",
+    "stream_url": "https://live.jazzfm.mk/listen/jazzfm/live",
+    "website": "https://jazzfm.mk/",
+    "provider": "onlineradiobox",
+    "country": "North Macedonia",
+    "genres": [
+      "jazz"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:01:58+05:30"
+  },
+  {
+    "id": "onlineradiobox_mk.jehona",
+    "name": "Radio Jehona",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/13972.v2.png",
+    "stream_url": "http://s26.myradiostream.com:10030/;",
+    "website": "http://www.radiojehona.com.mk/",
+    "provider": "onlineradiobox",
+    "country": "North Macedonia",
+    "genres": [
+      "folk",
+      "ethnic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:59:11+05:30"
+  },
+  {
+    "id": "onlineradiobox_mk.jon",
+    "name": "Jon Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/139959.v3.png",
+    "stream_url": "http://radiostream.neotel.mk:8000/jonradio",
+    "website": "http://www.jonradio.mk/",
+    "provider": "onlineradiobox",
+    "country": "North Macedonia",
+    "genres": [
+      "albanian",
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:02:01+05:30"
+  },
+  {
+    "id": "onlineradiobox_mk.kanal103",
+    "name": "Kanal 103",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/13717.v4.png",
+    "stream_url": "http://radiostream.neotel.mk/kanal103",
+    "website": "http://www.kanal103.com.mk/",
+    "provider": "onlineradiobox",
+    "country": "North Macedonia",
+    "genres": [
+      "alternative"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:00:09+05:30"
+  },
+  {
+    "id": "onlineradiobox_mk.kanal77",
+    "name": "Radio Kanal 77",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/13962.v8.png",
+    "stream_url": "https://radiocnd.mms.mk/proxy/offnet/stream",
+    "website": "http://kanal77.mk/",
+    "provider": "onlineradiobox",
+    "country": "North Macedonia",
+    "genres": [
+      "adult contemporary",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:59:59+05:30"
+  },
+  {
+    "id": "onlineradiobox_mk.kanal90",
+    "name": "Super Kanal 90",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/86983.v18.png",
+    "stream_url": "https://radio.shoutcast.mk:8038/stream",
+    "website": "https://www.superkanal90.com/",
+    "provider": "onlineradiobox",
+    "country": "North Macedonia",
+    "genres": [
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:02:04+05:30"
+  },
+  {
+    "id": "onlineradiobox_mk.kavadarci",
+    "name": "Radio Kavadarci",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/13991.v11.png",
+    "stream_url": "https://stream.zeno.fm/a5ffd4skgg0uv",
+    "website": "http://www.radiokavadarci.mk/",
+    "provider": "onlineradiobox",
+    "country": "North Macedonia",
+    "genres": [
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:59:05+05:30"
+  },
+  {
+    "id": "onlineradiobox_mk.kec",
+    "name": "Radio Kec",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/133525.v1.png",
+    "stream_url": "https://live.mkdstream.com/listen/rakec/rakec",
+    "website": "http://radiokec.com/",
+    "provider": "onlineradiobox",
+    "country": "North Macedonia",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:01:54+05:30"
+  },
+  {
+    "id": "onlineradiobox_mk.kiss",
+    "name": "Radio KISS FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/113998.v6.png",
+    "stream_url": "https://radio.shoutcast.mk/8014/stream",
+    "website": "https://radiokissfm.mk/",
+    "provider": "onlineradiobox",
+    "country": "North Macedonia",
+    "genres": [
+      "pop",
+      "90s",
+      "80s"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:01:10+05:30"
+  },
+  {
+    "id": "onlineradiobox_mk.kissfm",
+    "name": "Kiss Fm Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/14009.v7.png",
+    "stream_url": "https://kissfmradionet.radioca.st/;",
+    "website": "http://www.kissfmradio.com.mk/",
+    "provider": "onlineradiobox",
+    "country": "North Macedonia",
+    "genres": [
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:01:05+05:30"
+  },
+  {
+    "id": "onlineradiobox_mk.kissgevgelija",
+    "name": "Kiss Fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/152093.v2.png",
+    "stream_url": "https://s2.free-shoutcast.com/stream/18264",
+    "website": "https://viberadio.mk/",
+    "provider": "onlineradiobox",
+    "country": "North Macedonia",
+    "genres": [
+      "dance",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:02:40+05:30"
+  },
+  {
+    "id": "onlineradiobox_mk.kocani",
+    "name": "Radio Kocani",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/109852.v7.png",
+    "stream_url": "https://live.mkdstream.com/listen/radioko/rakocan",
+    "website": "https://radiokocani.mk/",
+    "provider": "onlineradiobox",
+    "country": "North Macedonia",
+    "genres": [
+      "dance",
+      "pop",
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:01:11+05:30"
+  },
+  {
+    "id": "onlineradiobox_mk.lider",
+    "name": "Lider FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/96540.v5.png",
+    "stream_url": "https://liderfm.ipradio.mk/;",
+    "website": "https://lider.mk/",
+    "provider": "onlineradiobox",
+    "country": "North Macedonia",
+    "genres": [
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:00:03+05:30"
+  },
+  {
+    "id": "onlineradiobox_mk.life",
+    "name": "Life Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/130408.v3.png",
+    "stream_url": "https://radio.life.com.mk/",
+    "website": "https://life.com.mk/",
+    "provider": "onlineradiobox",
+    "country": "North Macedonia",
+    "genres": [
+      "rock",
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:01:00+05:30"
+  },
+  {
+    "id": "onlineradiobox_mk.luna",
+    "name": "Luna Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/108239.v2.png",
+    "stream_url": "https://eu10.fastcast4u.com:6110/stream/7/",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "North Macedonia",
+    "genres": [
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:01:06+05:30"
+  },
+  {
+    "id": "onlineradiobox_mk.lux",
+    "name": "Radio Lux Makedonija",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/120653.v5.png",
+    "stream_url": "https://radiolux.mk/radio.php",
+    "website": "http://radiolux.mk/",
+    "provider": "onlineradiobox",
+    "country": "North Macedonia",
+    "genres": [
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:02:38+05:30"
+  },
+  {
+    "id": "onlineradiobox_mk.makedonskakamenica",
+    "name": "Radio Makedonska Kamenica",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/136946.v1.png",
+    "stream_url": "https://radio.shoutcast.mk:8020/stream",
+    "website": "https://rmk.mk/",
+    "provider": "onlineradiobox",
+    "country": "North Macedonia",
+    "genres": [
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:01:12+05:30"
+  },
+  {
+    "id": "onlineradiobox_mk.marija",
+    "name": "Радио Марија Македонија",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/98254.v3.png",
+    "stream_url": "http://dreamsiteradiocp.com:8118/stream.mp3",
+    "website": "https://radiomarija.mk/",
+    "provider": "onlineradiobox",
+    "country": "North Macedonia",
+    "genres": [
+      "talk",
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:02:00+05:30"
+  },
+  {
+    "id": "onlineradiobox_mk.meff",
+    "name": "Radio MEFF",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/13621.v15.png",
+    "stream_url": "https://s32.myradiostream.com:16040/;",
+    "website": "http://www.radiomeff.mk/",
+    "provider": "onlineradiobox",
+    "country": "North Macedonia",
+    "genres": [
+      "pop",
+      "folk",
+      "ethnic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:59:11+05:30"
+  },
+  {
+    "id": "onlineradiobox_mk.mega",
+    "name": "Star Radio (Mk Zabavna)",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/137594.v12.png",
+    "stream_url": "https://radiostar.pro/stream/mkpop.php",
+    "website": "https://radiostar.pro/",
+    "provider": "onlineradiobox",
+    "country": "North Macedonia",
+    "genres": [
+      "rock",
+      "pop",
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:01:09+05:30"
+  },
+  {
+    "id": "onlineradiobox_mk.metropolis",
+    "name": "Metropolis Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/13964.v3.png",
+    "stream_url": "https://eu4.fastcast4u.com/proxy/metradio?mp=/1",
+    "website": "http://www.metropolisradio.com.mk/",
+    "provider": "onlineradiobox",
+    "country": "North Macedonia",
+    "genres": [
+      "electronic",
+      "trance",
+      "house",
+      "rock",
+      "pop",
+      "rap",
+      "hip-hop",
+      "country"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:59:07+05:30"
+  },
+  {
+    "id": "onlineradiobox_mk.mibrala",
+    "name": "Radio Joker Live",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/83929.v28.png",
+    "stream_url": "https://audio.asuradns.com/radio/8020/;",
+    "website": "https://radiojoker.net/",
+    "provider": "onlineradiobox",
+    "country": "North Macedonia",
+    "genres": [
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:01:56+05:30"
+  },
+  {
+    "id": "onlineradiobox_mk.minipop",
+    "name": "Mini Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/106799.v2.png",
+    "stream_url": "https://stream.zeno.fm/53qk63dhtkeuv",
+    "website": "https://zeno.fm/miniradioo/",
+    "provider": "onlineradiobox",
+    "country": "North Macedonia",
+    "genres": [
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:00:06+05:30"
+  },
+  {
+    "id": "onlineradiobox_mk.missbucin",
+    "name": "Merak Radio Bitola",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/100017.v33.png",
+    "stream_url": "https://merakradio.com/stream/merakradiobitola.php",
+    "website": "https://merakradio.com/",
+    "provider": "onlineradiobox",
+    "country": "North Macedonia",
+    "genres": [
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:59:10+05:30"
+  },
+  {
+    "id": "onlineradiobox_mk.mix",
+    "name": "Radio Mix",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/84122.v6.png",
+    "stream_url": "https://s11.ssl-stream.com/ssl/radiomix?mp=/stream",
+    "website": "https://radiomix.mk/",
+    "provider": "onlineradiobox",
+    "country": "North Macedonia",
+    "genres": [
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:01:57+05:30"
+  },
+  {
+    "id": "onlineradiobox_mk.moeskopje",
+    "name": "Moe Radio Skopje",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/134023.v3.png",
+    "stream_url": "https://radio.shoutcast.mk:8016/;",
+    "website": "https://moeradio.mk/",
+    "provider": "onlineradiobox",
+    "country": "North Macedonia",
+    "genres": [
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:01:11+05:30"
+  },
+  {
+    "id": "onlineradiobox_mk.mof",
+    "name": "Radio MOF",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/13993.v6.png",
+    "stream_url": "https://stream.radiojar.com/8e4wzvre1d0uv",
+    "website": "http://www.radiomof.mk/",
+    "provider": "onlineradiobox",
+    "country": "North Macedonia",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:00:01+05:30"
+  },
+  {
+    "id": "onlineradiobox_mk.monkey",
+    "name": "Monkey radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/102095.v13.png",
+    "stream_url": "http://78.129.139.48:8831/;",
+    "website": "https://radiomonkey3.wixsite.com/radiomonkey",
+    "provider": "onlineradiobox",
+    "country": "North Macedonia",
+    "genres": [
+      "rock",
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:01:08+05:30"
+  },
+  {
+    "id": "onlineradiobox_mk.most",
+    "name": "Radio MOST",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/108932.v2.png",
+    "stream_url": "https://radio.dukahosting.com/8024/stream",
+    "website": "http://radiomost.net/",
+    "provider": "onlineradiobox",
+    "country": "North Macedonia",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:01:52+05:30"
+  },
+  {
+    "id": "onlineradiobox_mk.musicgarden",
+    "name": "Music Garden Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/89768.v6.png",
+    "stream_url": "https://stream.zeno.fm/51tz3t6add0uv",
+    "website": "https://zeno.fm/music-garden-radio/",
+    "provider": "onlineradiobox",
+    "country": "North Macedonia",
+    "genres": [
+      "rock",
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:01:56+05:30"
+  },
+  {
+    "id": "onlineradiobox_mk.nadir",
+    "name": "Nadir Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/153890.v2.png",
+    "stream_url": "https://ec6.yesstreaming.net:4025/stream",
+    "website": "https://spectacular-jelly-1eb150.netlify.app/",
+    "provider": "onlineradiobox",
+    "country": "North Macedonia",
+    "genres": [
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:02:37+05:30"
+  },
+  {
+    "id": "onlineradiobox_mk.nextransm",
+    "name": "Radio NexTrans M",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/128724.v1.png",
+    "stream_url": "https://radio.nextransm.mk/listen/live/radio.mp3",
+    "website": "https://live.nextransm.com/",
+    "provider": "onlineradiobox",
+    "country": "North Macedonia",
+    "genres": [
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:02:03+05:30"
+  },
+  {
+    "id": "onlineradiobox_mk.one",
+    "name": "One Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/133779.v4.png",
+    "stream_url": "https://stream.zeno.fm/zzdwd7cqiattv",
+    "website": "http://one.con.mk/",
+    "provider": "onlineradiobox",
+    "country": "North Macedonia",
+    "genres": [
+      "rock"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:02:07+05:30"
+  },
+  {
+    "id": "onlineradiobox_mk.oro",
+    "name": "Oro Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/132924.v2.png",
+    "stream_url": "http://freeuk27.listen2myradio.com:28773/;",
+    "website": "https://linktr.ee/ORORadio",
+    "provider": "onlineradiobox",
+    "country": "North Macedonia",
+    "genres": [
+      "electronic",
+      "rock",
+      "pop",
+      "jazz",
+      "classic",
+      "hip-hop",
+      "alternative"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:02:39+05:30"
+  },
+  {
+    "id": "onlineradiobox_mk.pela",
+    "name": "Radio Pela",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/120144.v3.png",
+    "stream_url": "https://stream.zeno.fm/npc6pdn1c48uv",
+    "website": "https://radiopela.mk/",
+    "provider": "onlineradiobox",
+    "country": "North Macedonia",
+    "genres": [
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:01:53+05:30"
+  },
+  {
+    "id": "onlineradiobox_mk.perfect",
+    "name": "Perfect Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/153869.v1.png",
+    "stream_url": "https://eu10.fastcast4u.com/perfectradio",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "North Macedonia",
+    "genres": [
+      "pop",
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:02:05+05:30"
+  },
+  {
+    "id": "onlineradiobox_mk.pero",
+    "name": "Pero Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/107803.v7.png",
+    "stream_url": "https://eu10.fastcast4u.com/peroradio",
+    "website": "https://peroradio.com/",
+    "provider": "onlineradiobox",
+    "country": "North Macedonia",
+    "genres": [
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:00:10+05:30"
+  },
+  {
+    "id": "onlineradiobox_mk.play",
+    "name": "Play Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/13724.v10.png",
+    "stream_url": "https://radio.shoutcast.mk:8046/;",
+    "website": "http://www.playfm.mk/",
+    "provider": "onlineradiobox",
+    "country": "North Macedonia",
+    "genres": [
+      "pop",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:01:06+05:30"
+  },
+  {
+    "id": "onlineradiobox_mk.pro",
+    "name": "Radio PRO FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/13977.v3.png",
+    "stream_url": "https://edge126.rcs-rds.ro/profm/profm.mp3",
+    "website": "http://www.profm.com.mk/",
+    "provider": "onlineradiobox",
+    "country": "North Macedonia",
+    "genres": [
+      "folk",
+      "ethnic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:00:57+05:30"
+  },
+  {
+    "id": "onlineradiobox_mk.rabrovo",
+    "name": "RadioRabrovo",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/88166.v5.png",
+    "stream_url": "https://live.mkdstream.com/listen/rabrovo/rarab",
+    "website": "http://dreamboxsatelit.blogspot.com/",
+    "provider": "onlineradiobox",
+    "country": "North Macedonia",
+    "genres": [
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:59:12+05:30"
+  },
+  {
+    "id": "onlineradiobox_mk.radio22",
+    "name": "radio22",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/139464.v1.png",
+    "stream_url": "https://radio.server14.kariha.net:8008/;",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "North Macedonia",
+    "genres": [
+      "rock",
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:02:02+05:30"
+  },
+  {
+    "id": "onlineradiobox_mk.radiored",
+    "name": "Radio Red FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/139970.v2.png",
+    "stream_url": "https://s5.myradiostream.com/43208/listen.mp3",
+    "website": "https://radioredfm.online/",
+    "provider": "onlineradiobox",
+    "country": "North Macedonia",
+    "genres": [
+      "albanian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:01:54+05:30"
+  },
+  {
+    "id": "onlineradiobox_mk.roma",
+    "name": "Roma Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/151050.v3.png",
+    "stream_url": "https://ec6.yesstreaming.net:2850/stream",
+    "website": "https://delicate-crostata-dc0c43.netlify.app/",
+    "provider": "onlineradiobox",
+    "country": "North Macedonia",
+    "genres": [
+      "folk",
+      "ethnic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:00:03+05:30"
+  },
+  {
+    "id": "onlineradiobox_mk.rosa",
+    "name": "Radio Rosa",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/13983.v8.png",
+    "stream_url": "http://s3.free-shoutcast.com:18032/;",
+    "website": "http://radiorosa.com.mk/",
+    "provider": "onlineradiobox",
+    "country": "North Macedonia",
+    "genres": [
+      "folk",
+      "ethnic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:59:15+05:30"
+  },
+  {
+    "id": "onlineradiobox_mk.rrapi",
+    "name": "Radio Rrapi",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/14003.v4.png",
+    "stream_url": "https://stream.zemi.mk:8069/stream",
+    "website": "http://rrapi.mk/",
+    "provider": "onlineradiobox",
+    "country": "North Macedonia",
+    "genres": [
+      "pop",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:01:52+05:30"
+  },
+  {
+    "id": "onlineradiobox_mk.signalmakedonija",
+    "name": "Planeta Radio Makedonija",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/103669.v31.png",
+    "stream_url": "https://fpsnew2.listen2myradio.com:2199/listen.php?ip=212.84.160.3&port=7637&type=s1",
+    "website": "https://planetaradiomkd.listen2myshow.com/",
+    "provider": "onlineradiobox",
+    "country": "North Macedonia",
+    "genres": [
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:02:39+05:30"
+  },
+  {
+    "id": "onlineradiobox_mk.simple",
+    "name": "Balkan Hit Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/134889.v4.png",
+    "stream_url": "https://cast3.my-control-panel.com/proxy/vladimi3/stream",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "North Macedonia",
+    "genres": [
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:00:06+05:30"
+  },
+  {
+    "id": "onlineradiobox_mk.sky",
+    "name": "Sky Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/13720.v3.png",
+    "stream_url": "http://s1.skyradio.com.mk:8002/;?1461419091351.mp3",
+    "website": "http://skyradio.com.mk/",
+    "provider": "onlineradiobox",
+    "country": "North Macedonia",
+    "genres": [
+      "pop",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:59:09+05:30"
+  },
+  {
+    "id": "onlineradiobox_mk.smk",
+    "name": "Radio S .mk",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/129660.v1.png",
+    "stream_url": "http://109.169.23.17:11081/;",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "North Macedonia",
+    "genres": [
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:02:36+05:30"
+  },
+  {
+    "id": "onlineradiobox_mk.spark",
+    "name": "Spark Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/138567.v3.png",
+    "stream_url": "https://usa10.fastcast4u.com/sparkradio",
+    "website": "https://radiospark.net/",
+    "provider": "onlineradiobox",
+    "country": "North Macedonia",
+    "genres": [
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:00:13+05:30"
+  },
+  {
+    "id": "onlineradiobox_mk.sportsko",
+    "name": "Radio Sportsko",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/13984.v7.png",
+    "stream_url": "https://streaming.zemi.mk:8080/1;",
+    "website": "http://sportskoradio903.com.mk/",
+    "provider": "onlineradiobox",
+    "country": "North Macedonia",
+    "genres": [
+      "pop",
+      "sports",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:01:03+05:30"
+  },
+  {
+    "id": "onlineradiobox_mk.srcemakedonija",
+    "name": "Radio Srce Makedonija",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/131848.v3.png",
+    "stream_url": "https://radio.radiosrce.info:8000/;?type=http&nocache=1701073993",
+    "website": "https://radiosrce.info/",
+    "provider": "onlineradiobox",
+    "country": "North Macedonia",
+    "genres": [
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:02:03+05:30"
+  },
+  {
+    "id": "onlineradiobox_mk.star",
+    "name": "Star Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/81465.v42.png",
+    "stream_url": "https://radiostar.pro/stream/starlive.php",
+    "website": "https://radiostar.pro/",
+    "provider": "onlineradiobox",
+    "country": "North Macedonia",
+    "genres": [
+      "rock",
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:59:12+05:30"
+  },
+  {
+    "id": "onlineradiobox_mk.starexyuretro",
+    "name": "Star Radio (ExYu Retro)",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/106966.v30.png",
+    "stream_url": "https://radiostar.pro/stream/exyuretro.php",
+    "website": "https://radiostar.pro/",
+    "provider": "onlineradiobox",
+    "country": "North Macedonia",
+    "genres": [
+      "rock",
+      "pop",
+      "retro",
+      "80s",
+      "70s"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:59:10+05:30"
+  },
+  {
+    "id": "onlineradiobox_mk.starfolk",
+    "name": "Star Radio (Urban Folk)",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/81466.v54.png",
+    "stream_url": "https://radiostar.pro/stream/narodna.php",
+    "website": "https://radiostar.pro/",
+    "provider": "onlineradiobox",
+    "country": "North Macedonia",
+    "genres": [
+      "pop",
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:59:09+05:30"
+  },
+  {
+    "id": "onlineradiobox_mk.starmak",
+    "name": "Star Radio (Kafanska)",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/94226.v34.png",
+    "stream_url": "https://radiostar.pro/stream/boemiaac.php",
+    "website": "https://radiostar.pro/",
+    "provider": "onlineradiobox",
+    "country": "North Macedonia",
+    "genres": [
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:59:14+05:30"
+  },
+  {
+    "id": "onlineradiobox_mk.starmknarodna",
+    "name": "Star Radio (Mk Narodna)",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/130580.v17.png",
+    "stream_url": "https://radiostar.pro/stream/mknarodna.php",
+    "website": "https://radiostar.pro/",
+    "provider": "onlineradiobox",
+    "country": "North Macedonia",
+    "genres": [
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:59:15+05:30"
+  },
+  {
+    "id": "onlineradiobox_mk.starnarodni",
+    "name": "Star Radio (World Hits)",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/116942.v14.png",
+    "stream_url": "https://radiostar.pro/stream/worldretro.php",
+    "website": "https://radiostar.pro/",
+    "provider": "onlineradiobox",
+    "country": "North Macedonia",
+    "genres": [
+      "rock",
+      "pop",
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:01:05+05:30"
+  },
+  {
+    "id": "onlineradiobox_mk.starradioboemi",
+    "name": "Star Radio (ExYu Mix)",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/133818.v13.png",
+    "stream_url": "https://radiostar.pro/stream/starplus.php",
+    "website": "https://radiostar.pro/",
+    "provider": "onlineradiobox",
+    "country": "North Macedonia",
+    "genres": [
+      "dance",
+      "pop",
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:01:12+05:30"
+  },
+  {
+    "id": "onlineradiobox_mk.stilmacedonia",
+    "name": "STIL RADIO",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/87803.v13.png",
+    "stream_url": "https://stilradio.com/stream/stillive.php",
+    "website": "https://stilradio.com/",
+    "provider": "onlineradiobox",
+    "country": "North Macedonia",
+    "genres": [
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:00:02+05:30"
+  },
+  {
+    "id": "onlineradiobox_mk.superradio",
+    "name": "Super Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/13668.v7.png",
+    "stream_url": "https://stream.zeno.fm/muzq097d2c9uv",
+    "website": "http://superradio.com.mk/",
+    "provider": "onlineradiobox",
+    "country": "North Macedonia",
+    "genres": [
+      "dance",
+      "electronic",
+      "pop",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:00:12+05:30"
+  },
+  {
+    "id": "onlineradiobox_mk.supers",
+    "name": "STIL MKD NARODNA",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/99092.v6.png",
+    "stream_url": "https://stilradio.com/stream/stilmkdnarodna.php",
+    "website": "https://stilradio.com/",
+    "provider": "onlineradiobox",
+    "country": "North Macedonia",
+    "genres": [
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:59:15+05:30"
+  },
+  {
+    "id": "onlineradiobox_mk.te",
+    "name": "TE Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/92516.v9.png",
+    "stream_url": "https://stream.zeno.fm/smtkd03a7f8uv",
+    "website": "https://zeno.fm/radio/teradio/",
+    "provider": "onlineradiobox",
+    "country": "North Macedonia",
+    "genres": [
+      "pop",
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:01:10+05:30"
+  },
+  {
+    "id": "onlineradiobox_mk.teislami",
+    "name": "TE Radio-ISLAMI",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/98631.v4.png",
+    "stream_url": "https://stream.zeno.fm/r884kyk1ag8uv",
+    "website": "https://zeno.fm/te-radio-islami/",
+    "provider": "onlineradiobox",
+    "country": "North Macedonia",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:00:59+05:30"
+  },
+  {
+    "id": "onlineradiobox_mk.tepower",
+    "name": "TE Power",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/102230.v1.png",
+    "stream_url": "https://stream.zeno.fm/7vuwzdprks8uv",
+    "website": "https://zeno.fm/te-power/",
+    "provider": "onlineradiobox",
+    "country": "North Macedonia",
+    "genres": [
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:01:09+05:30"
+  },
+  {
+    "id": "onlineradiobox_mk.teturke",
+    "name": "TE Radio TURKE",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/101508.v3.png",
+    "stream_url": "https://stream.zeno.fm/zbh23ebqrp8uv",
+    "website": "https://zeno.fm/te-radio-turke/",
+    "provider": "onlineradiobox",
+    "country": "North Macedonia",
+    "genres": [
+      "pop",
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:01:57+05:30"
+  },
+  {
+    "id": "onlineradiobox_mk.timbitola",
+    "name": "Radio TIM Bitola",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/83090.v35.png",
+    "stream_url": "http://hydra.shoutca.st:8108/;",
+    "website": "http://radiovmro.website2.me/",
+    "provider": "onlineradiobox",
+    "country": "North Macedonia",
+    "genres": [
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:59:05+05:30"
+  },
+  {
+    "id": "onlineradiobox_mk.timefm",
+    "name": "Time Fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/13818.v7.png",
+    "stream_url": "https://s2.free-shoutcast.com/stream/18058",
+    "website": "http://www.timefm.mk/",
+    "provider": "onlineradiobox",
+    "country": "North Macedonia",
+    "genres": [
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:00:08+05:30"
+  },
+  {
+    "id": "onlineradiobox_mk.urban",
+    "name": "Urban FM 90.8 Skopje",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/111641.v4.png",
+    "stream_url": "https://securestreams4.autopo.st:1668/stream",
+    "website": "https://www.urbanfm.mk/",
+    "provider": "onlineradiobox",
+    "country": "North Macedonia",
+    "genres": [
+      "pop",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:59:07+05:30"
+  },
+  {
+    "id": "onlineradiobox_mk.vink",
+    "name": "Vink Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/67220.v20.png",
+    "stream_url": "https://vinkradio.com/stream/vinkradio.php",
+    "website": "https://vinkradio.com/",
+    "provider": "onlineradiobox",
+    "country": "North Macedonia",
+    "genres": [
+      "dance",
+      "pop",
+      "news",
+      "folk",
+      "adult contemporary",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:00:04+05:30"
+  },
+  {
+    "id": "onlineradiobox_mk.viva",
+    "name": "Star Radio (ExYu Covers)",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/138133.v11.png",
+    "stream_url": "https://radiostar.pro/stream/exyucovers.php",
+    "website": "https://radiostar.pro/",
+    "provider": "onlineradiobox",
+    "country": "North Macedonia",
+    "genres": [
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:00:08+05:30"
+  },
+  {
+    "id": "onlineradiobox_mk.vmro",
+    "name": "Radio Vmro",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/13718.v29.png",
+    "stream_url": "https://radiovmro.radioca.st/;",
+    "website": "https://www.radiovmro.mk/",
+    "provider": "onlineradiobox",
+    "country": "North Macedonia",
+    "genres": [
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:59:08+05:30"
+  },
+  {
+    "id": "onlineradiobox_mk.zabava",
+    "name": "Радио Забава",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/118692.v2.png",
+    "stream_url": "https://stream.zeno.fm/z8er3cqglopuv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "North Macedonia",
+    "genres": [
+      "pop",
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:00:07+05:30"
+  },
+  {
+    "id": "onlineradiobox_mk.zonam1",
+    "name": "ZONA M1 RADIO",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/13659.v5.png",
+    "stream_url": "http://89.205.83.58:8000/;",
+    "website": "http://www.zonam1radio.com.mk/",
+    "provider": "onlineradiobox",
+    "country": "North Macedonia",
+    "genres": [
+      "folk",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:59:08+05:30"
+  }
+]

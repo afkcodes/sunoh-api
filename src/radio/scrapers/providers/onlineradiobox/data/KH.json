@@ -1,0 +1,221 @@
+[
+  {
+    "id": "onlineradiobox_kh.abccambodia",
+    "name": "ABC Cambodia",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/150781.v2.png",
+    "stream_url": "http://43.252.18.195:8888/broadwave.mp3",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Cambodia",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:41:48+05:30"
+  },
+  {
+    "id": "onlineradiobox_kh.freeasia",
+    "name": "Radio Free Asia",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/42814.v3.png",
+    "stream_url": "http://rfalive3.akacast.akamaistream.net/7/986/433979/v1/ibb.akacast.akamaistream.net/RFALive3",
+    "website": "http://www.rfa.org/",
+    "provider": "onlineradiobox",
+    "country": "Cambodia",
+    "genres": [
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:41:47+05:30"
+  },
+  {
+    "id": "onlineradiobox_kh.lovefm",
+    "name": "Radio Love FM 97.5",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/68135.v7.png",
+    "stream_url": "http://radio99.servradio.com:9298/;",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Cambodia",
+    "genres": [
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:41:43+05:30"
+  },
+  {
+    "id": "onlineradiobox_kh.lovefmphnompenh",
+    "name": "Love FM Phnom Penh",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/72426.v3.png",
+    "stream_url": "http://radio99.servradio.com:9298/;;",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Cambodia",
+    "genres": [
+      "pop",
+      "entertainment",
+      "romantic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:41:44+05:30"
+  },
+  {
+    "id": "onlineradiobox_kh.nrg89",
+    "name": "NRG 89",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/67914.v17.png",
+    "stream_url": "http://163.53.29.81:4444/broadwave.mp3",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Cambodia",
+    "genres": [
+      "pop",
+      "asian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:41:45+05:30"
+  },
+  {
+    "id": "onlineradiobox_kh.phnompenh",
+    "name": "Radio Phnom Penh",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/121578.v4.png",
+    "stream_url": "https://s2.radio.co/s9046df8fd/listen",
+    "website": "https://radio-phnom-penh.jimdosite.com/",
+    "provider": "onlineradiobox",
+    "country": "Cambodia",
+    "genres": [
+      "talk",
+      "eclectic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:41:48+05:30"
+  },
+  {
+    "id": "onlineradiobox_kh.popradio21",
+    "name": "popradio21",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/146524.v1.png",
+    "stream_url": "https://listen.radioking.com/radio/318317/stream/365846",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Cambodia",
+    "genres": [
+      "folk",
+      "asian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:41:47+05:30"
+  },
+  {
+    "id": "onlineradiobox_kh.rnkfm",
+    "name": "RNK FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/42851.v4.png",
+    "stream_url": "http://119.82.252.6:8181/broadwave.mp3",
+    "website": "http://www.rnk.gov.kh/",
+    "provider": "onlineradiobox",
+    "country": "Cambodia",
+    "genres": [
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:41:45+05:30"
+  },
+  {
+    "id": "onlineradiobox_kh.samlengkhemara",
+    "name": "Radio Samleng Khemara",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/72425.v6.png",
+    "stream_url": "http://myradio.doscast.com:8570/stream",
+    "website": "http://www.khemaranet.com/",
+    "provider": "onlineradiobox",
+    "country": "Cambodia",
+    "genres": [
+      "news",
+      "oldies",
+      "culture",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:41:44+05:30"
+  },
+  {
+    "id": "onlineradiobox_kh.vayofm",
+    "name": "VAYO FM 105.5",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/42810.v5.png",
+    "stream_url": "http://50.21.176.38:8010/vayofm/;",
+    "website": "http://vayofm.com/",
+    "provider": "onlineradiobox",
+    "country": "Cambodia",
+    "genres": [
+      "news",
+      "talk",
+      "politics"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:41:49+05:30"
+  },
+  {
+    "id": "onlineradiobox_kh.voyfm",
+    "name": "VOY Radio FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/72540.v5.png",
+    "stream_url": "http://www.voyfm.caster.fm/",
+    "website": "http://www.voyradio.com/",
+    "provider": "onlineradiobox",
+    "country": "Cambodia",
+    "genres": [
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:41:46+05:30"
+  },
+  {
+    "id": "onlineradiobox_kh.womans",
+    "name": "Woman&#39;s Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/68131.v8.png",
+    "stream_url": "https://a10.asurahosting.com:7340/radio.mp3",
+    "website": "https://www.wmc.org.kh/",
+    "provider": "onlineradiobox",
+    "country": "Cambodia",
+    "genres": [
+      "news",
+      "folk",
+      "education"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:41:46+05:30"
+  }
+]

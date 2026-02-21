@@ -1,0 +1,776 @@
+[
+  {
+    "id": "onlineradiobox_az.1063",
+    "name": "106.3 FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/44154.v8.png",
+    "stream_url": "https://audiostr.atv.az/106.3fm",
+    "website": "http://106-3fm.az/live",
+    "provider": "onlineradiobox",
+    "country": "Azerbaijan",
+    "genres": [
+      "pop",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:59:27+05:30"
+  },
+  {
+    "id": "onlineradiobox_az.agdam",
+    "name": "Ağdam radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/129984.v3.png",
+    "stream_url": "https://a2.asurahosting.com:6650/radio.mp3",
+    "website": "https://az.agdamtv.info/",
+    "provider": "onlineradiobox",
+    "country": "Azerbaijan",
+    "genres": [
+      "pop",
+      "folk",
+      "retro"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:00:15+05:30"
+  },
+  {
+    "id": "onlineradiobox_az.antenn",
+    "name": "Radio Enerji 101.1 FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/42988.v12.png",
+    "stream_url": "https://icecast.livetv.az/antennfm",
+    "website": "https://enerjifm.az/",
+    "provider": "onlineradiobox",
+    "country": "Azerbaijan",
+    "genres": [
+      "pop",
+      "news",
+      "talk",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:59:31+05:30"
+  },
+  {
+    "id": "onlineradiobox_az.anti",
+    "name": "Anti Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/114661.v10.png",
+    "stream_url": "https://stream.antiradio.net/radio/8000/web",
+    "website": "https://antiradio.net/",
+    "provider": "onlineradiobox",
+    "country": "Azerbaijan",
+    "genres": [
+      "trance",
+      "house",
+      "pop",
+      "deep house"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:59:32+05:30"
+  },
+  {
+    "id": "onlineradiobox_az.araz",
+    "name": "Araz 103.3 FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/77974.v9.png",
+    "stream_url": "http://s14.myradiostream.com:30454/listen.mp3",
+    "website": "http://arazfm.az/",
+    "provider": "onlineradiobox",
+    "country": "Azerbaijan",
+    "genres": [
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:59:28+05:30"
+  },
+  {
+    "id": "onlineradiobox_az.asan",
+    "name": "Asan Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/43010.v4.png",
+    "stream_url": "http://94.20.74.206:4448/stream1",
+    "website": "http://www.asanradio.az/",
+    "provider": "onlineradiobox",
+    "country": "Azerbaijan",
+    "genres": [
+      "pop",
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:59:27+05:30"
+  },
+  {
+    "id": "onlineradiobox_az.asiman",
+    "name": "Sən Günəşsən",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/129890.v10.png",
+    "stream_url": "https://a5.asurahosting.com:6560/radio.mp3",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Azerbaijan",
+    "genres": [
+      "pop",
+      "retro"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:59:35+05:30"
+  },
+  {
+    "id": "onlineradiobox_az.autolifeazerbaijan",
+    "name": "AutoLife Azerbaijan",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/43137.v15.png",
+    "stream_url": "https://radio.autoliferadio.com:8005/radio",
+    "website": "http://autoliferadio.com/",
+    "provider": "onlineradiobox",
+    "country": "Azerbaijan",
+    "genres": [
+      "dance",
+      "pop",
+      "jazz",
+      "90s",
+      "80s"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:59:25+05:30"
+  },
+  {
+    "id": "onlineradiobox_az.avto",
+    "name": "AVTO FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/72256.v12.png",
+    "stream_url": "https://live.dinle.az/avtofm",
+    "website": "http://www.avtofm.az/",
+    "provider": "onlineradiobox",
+    "country": "Azerbaijan",
+    "genres": [
+      "dance",
+      "electronic",
+      "rock",
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:59:30+05:30"
+  },
+  {
+    "id": "onlineradiobox_az.azadliqradiosuliberty",
+    "name": "Azadliq Radiosu - Radio Liberty",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/43146.v4.png",
+    "stream_url": "https://stream.radiojar.com/s90a46bpn3quv",
+    "website": "http://www.azadliq.org/",
+    "provider": "onlineradiobox",
+    "country": "Azerbaijan",
+    "genres": [
+      "pop",
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:00:16+05:30"
+  },
+  {
+    "id": "onlineradiobox_az.aztv",
+    "name": "Azərbaycan Radiosu",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/43228.v16.png",
+    "stream_url": "http://www.aztv.az/canli/aztv-canli.htm",
+    "website": "http://www.aztv.az/",
+    "provider": "onlineradiobox",
+    "country": "Azerbaijan",
+    "genres": [
+      "pop",
+      "news",
+      "talk",
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:00:26+05:30"
+  },
+  {
+    "id": "onlineradiobox_az.bakuhitfm",
+    "name": "Baku Hit FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/121723.v1.png",
+    "stream_url": "http://5.191.241.101:8000/bakuhitfm",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Azerbaijan",
+    "genres": [
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:00:18+05:30"
+  },
+  {
+    "id": "onlineradiobox_az.bakujukebox",
+    "name": "Baku Jukebox",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/73282.v6.png",
+    "stream_url": "http://188.227.222.68:8001/bkjbox",
+    "website": "http://bakujukebox.com/",
+    "provider": "onlineradiobox",
+    "country": "Azerbaijan",
+    "genres": [
+      "classic",
+      "80s",
+      "70s",
+      "60s"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:00:20+05:30"
+  },
+  {
+    "id": "onlineradiobox_az.bakuretrofm",
+    "name": "Baku Retro FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/121721.v1.png",
+    "stream_url": "http://5.191.241.101:8000/bakuretrofm",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Azerbaijan",
+    "genres": [
+      "retro"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:59:36+05:30"
+  },
+  {
+    "id": "onlineradiobox_az.balkanrainbow",
+    "name": "Balkan Rainbow",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/68864.v15.png",
+    "stream_url": "https://s0.radioheart.ru:8000/RH20730",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Azerbaijan",
+    "genres": [
+      "dance",
+      "pop",
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:00:14+05:30"
+  },
+  {
+    "id": "onlineradiobox_az.bolmart",
+    "name": "Bolmart",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/145084.v1.png",
+    "stream_url": "https://listen.radioking.com/radio/697904/stream/762854",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Azerbaijan",
+    "genres": [
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:00:25+05:30"
+  },
+  {
+    "id": "onlineradiobox_az.boss",
+    "name": "Business Radio BOSS Azerbaijan",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/85489.v4.png",
+    "stream_url": "https://myradio24.org/bosscomaz",
+    "website": "https://boss.com.az/",
+    "provider": "onlineradiobox",
+    "country": "Azerbaijan",
+    "genres": [
+      "rock",
+      "pop",
+      "talk",
+      "folk",
+      "classic",
+      "rap"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:59:36+05:30"
+  },
+  {
+    "id": "onlineradiobox_az.dalnoboi",
+    "name": "Vintage Radio Azerbaijan",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/148408.v5.png",
+    "stream_url": "https://trucker.autoliferadio.com:1045/stream",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Azerbaijan",
+    "genres": [
+      "rock",
+      "pop",
+      "blues",
+      "90s",
+      "00s",
+      "80s",
+      "70s"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:00:14+05:30"
+  },
+  {
+    "id": "onlineradiobox_az.dayaz",
+    "name": "Day.Az Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/43123.v13.png",
+    "stream_url": "https://radio.day.az:9443/128m",
+    "website": "https://www.day.az/radio/",
+    "provider": "onlineradiobox",
+    "country": "Azerbaijan",
+    "genres": [
+      "pop",
+      "news",
+      "talk",
+      "sports"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:59:38+05:30"
+  },
+  {
+    "id": "onlineradiobox_az.ferqli",
+    "name": "Radio TMB 100.5",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/78100.v21.png",
+    "stream_url": "https://s39.myradiostream.com/:5458/listen.mp3",
+    "website": "https://100.5fm.az/",
+    "provider": "onlineradiobox",
+    "country": "Azerbaijan",
+    "genres": [
+      "pop",
+      "news",
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:59:21+05:30"
+  },
+  {
+    "id": "onlineradiobox_az.grandmart",
+    "name": "Grandmart",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/145082.v1.png",
+    "stream_url": "https://listen.radioking.com/radio/697901/stream/762842",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Azerbaijan",
+    "genres": [
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:00:19+05:30"
+  },
+  {
+    "id": "onlineradiobox_az.ictimai",
+    "name": "İctimai Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/79948.v8.png",
+    "stream_url": "https://stream.itv.az/rtmp:/radio/playlist.m3u8",
+    "website": "http://90fm.az/",
+    "provider": "onlineradiobox",
+    "country": "Azerbaijan",
+    "genres": [
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:59:24+05:30"
+  },
+  {
+    "id": "onlineradiobox_az.kepez",
+    "name": "RADIO &#34;Kəpəz FM&#34;",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/44155.v5.png",
+    "stream_url": "http://85.132.78.122:3344/now",
+    "website": "http://kepezfm.az/",
+    "provider": "onlineradiobox",
+    "country": "Azerbaijan",
+    "genres": [
+      "pop",
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:59:35+05:30"
+  },
+  {
+    "id": "onlineradiobox_az.media",
+    "name": "Media FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/43011.v12.png",
+    "stream_url": "https://icecast.livetv.az/mediafm",
+    "website": "http://www.mediafm.az/",
+    "provider": "onlineradiobox",
+    "country": "Azerbaijan",
+    "genres": [
+      "pop",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:59:23+05:30"
+  },
+  {
+    "id": "onlineradiobox_az.naxcivan",
+    "name": "Naxçıvan Radiosu",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/111483.v3.png",
+    "stream_url": "http://s33.myradiostream.com:12782/;",
+    "website": "http://radio.naxcivantv.az/",
+    "provider": "onlineradiobox",
+    "country": "Azerbaijan",
+    "genres": [
+      "rock",
+      "pop",
+      "classic",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:00:25+05:30"
+  },
+  {
+    "id": "onlineradiobox_az.naz",
+    "name": "NAZ RADIO",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/134147.v1.png",
+    "stream_url": "https://s2.myradiostream.com/5286/listen.mp3",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Azerbaijan",
+    "genres": [
+      "pop",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:59:21+05:30"
+  },
+  {
+    "id": "onlineradiobox_az.one",
+    "name": "DFM Azerbaijan",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/97653.v12.png",
+    "stream_url": "https://5.restream.one/1964_1",
+    "website": "http://onefm.az/",
+    "provider": "onlineradiobox",
+    "country": "Azerbaijan",
+    "genres": [
+      "dance"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:00:19+05:30"
+  },
+  {
+    "id": "onlineradiobox_az.planet",
+    "name": "Planet fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/152187.v1.png",
+    "stream_url": "https://live.dinle.az/planetfm",
+    "website": "https://planetfm.az/",
+    "provider": "onlineradiobox",
+    "country": "Azerbaijan",
+    "genres": [
+      "rock",
+      "r'n'b",
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:59:38+05:30"
+  },
+  {
+    "id": "onlineradiobox_az.qebeleradio",
+    "name": "Qebele Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/93023.v8.png",
+    "stream_url": "https://a5.asurahosting.com:8040/radio.mp3",
+    "website": "https://qebele.tv/",
+    "provider": "onlineradiobox",
+    "country": "Azerbaijan",
+    "genres": [
+      "entertainment",
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:00:17+05:30"
+  },
+  {
+    "id": "onlineradiobox_az.radiocto",
+    "name": "radiocto",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/131574.v7.png",
+    "stream_url": "https://youtube.radyohizmeti.com:1280/;",
+    "website": "https://radiocto.com/",
+    "provider": "onlineradiobox",
+    "country": "Azerbaijan",
+    "genres": [
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:59:33+05:30"
+  },
+  {
+    "id": "onlineradiobox_az.real",
+    "name": "Real Fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/142449.v1.png",
+    "stream_url": "http://94.20.137.130:8995/realfm",
+    "website": "https://realfm.az/",
+    "provider": "onlineradiobox",
+    "country": "Azerbaijan",
+    "genres": [
+      "pop",
+      "news",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:00:24+05:30"
+  },
+  {
+    "id": "onlineradiobox_az.saglam",
+    "name": "Sağlam radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/137222.v4.png",
+    "stream_url": "https://s24.myradiostream.com/:17446/listen.mp3?nocache=1717082000",
+    "website": "https://www.sehiyye.gov.az/",
+    "provider": "onlineradiobox",
+    "country": "Azerbaijan",
+    "genres": [
+      "pop",
+      "talk",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:59:34+05:30"
+  },
+  {
+    "id": "onlineradiobox_az.spacefm104",
+    "name": "Radio Space FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/105564.v11.png",
+    "stream_url": "http://5.191.241.101:8000/spaceradio",
+    "website": "http://spaceradio.az/",
+    "provider": "onlineradiobox",
+    "country": "Azerbaijan",
+    "genres": [
+      "pop",
+      "news",
+      "talk",
+      "folk",
+      "easy listening"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:59:37+05:30"
+  },
+  {
+    "id": "onlineradiobox_az.sweetdream",
+    "name": "Rakevet",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/68739.v16.png",
+    "stream_url": "https://s0.radioheart.ru:8000/RH20728",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Azerbaijan",
+    "genres": [
+      "pop",
+      "folk",
+      "retro"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:00:21+05:30"
+  },
+  {
+    "id": "onlineradiobox_az.usaqlar",
+    "name": "Uşaqlar radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/130603.v2.png",
+    "stream_url": "https://a2.asurahosting.com:7660/radio.mp3",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Azerbaijan",
+    "genres": [
+      "pop",
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:00:23+05:30"
+  },
+  {
+    "id": "onlineradiobox_az.veten",
+    "name": "Radio Vətən",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/74932.v6.png",
+    "stream_url": "https://stream.zeno.fm/0kgkkzanmueuv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Azerbaijan",
+    "genres": [
+      "pop",
+      "classic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:59:29+05:30"
+  },
+  {
+    "id": "onlineradiobox_az.vivafm",
+    "name": "VIVA FM (Azerbaijan)",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/93292.v1.png",
+    "stream_url": "https://stream.zeno.fm/tbfu8vxb84zuv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Azerbaijan",
+    "genres": [
+      "pop",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:59:39+05:30"
+  },
+  {
+    "id": "onlineradiobox_az.xezer103",
+    "name": "Xezer 103 Fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/87585.v9.png",
+    "stream_url": "https://s40.myradiostream.com/22546/listen.mp3",
+    "website": "http://xezerfm.az/",
+    "provider": "onlineradiobox",
+    "country": "Azerbaijan",
+    "genres": [
+      "dance",
+      "electronic",
+      "r'n'b",
+      "pop",
+      "hip-hop",
+      "alternative"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:59:31+05:30"
+  },
+  {
+    "id": "onlineradiobox_az.yalnizfmcom",
+    "name": "yalnizfm.com",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/144930.v2.png",
+    "stream_url": "https://listen.radioking.com/radio/103396/stream/142219",
+    "website": "http://yalnizfm.com/",
+    "provider": "onlineradiobox",
+    "country": "Azerbaijan",
+    "genres": [
+      "90s",
+      "60s",
+      "culture",
+      "romantic",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:00:23+05:30"
+  },
+  {
+    "id": "onlineradiobox_az.ysf",
+    "name": "Radio YSF",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/72002.v9.png",
+    "stream_url": "https://icecast.livetv.az/yusif",
+    "website": "https://www.vsprotv.com/",
+    "provider": "onlineradiobox",
+    "country": "Azerbaijan",
+    "genres": [
+      "pop",
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:59:28+05:30"
+  },
+  {
+    "id": "onlineradiobox_az.yurdfm",
+    "name": "Yurd FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/121057.v3.png",
+    "stream_url": "https://icecast.livetv.az/yurdfm",
+    "website": "https://www.yurdfm.az/",
+    "provider": "onlineradiobox",
+    "country": "Azerbaijan",
+    "genres": [
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:59:22+05:30"
+  }
+]

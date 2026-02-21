@@ -1,0 +1,555 @@
+[
+  {
+    "id": "onlineradiobox_aw.ambiente297",
+    "name": "Ambiente 297",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/145248.v1.png",
+    "stream_url": "https://listen.radioking.com/radio/297064/stream/343591",
+    "website": "https://www.ambiente297.com/",
+    "provider": "onlineradiobox",
+    "country": "Aruba",
+    "genres": [
+      "pop",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:59:34+05:30"
+  },
+  {
+    "id": "onlineradiobox_aw.aworanjestad",
+    "name": "AW Oranjestad",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/150979.v2.png",
+    "stream_url": "https://aruba.radioantennaweb.com/Oranjestad",
+    "website": "https://antennaweb.it/aw-oranjestad/",
+    "provider": "onlineradiobox",
+    "country": "Aruba",
+    "genres": [
+      "rock",
+      "pop",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:59:08+05:30"
+  },
+  {
+    "id": "onlineradiobox_aw.bluefm",
+    "name": "Radio Blue FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/42650.v4.png",
+    "stream_url": "https://s31.myradiostream.com/:7384/listen.mp3",
+    "website": "https://bluefm1075.com/",
+    "provider": "onlineradiobox",
+    "country": "Aruba",
+    "genres": [
+      "rock",
+      "r'n'b",
+      "pop",
+      "hip-hop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:59:03+05:30"
+  },
+  {
+    "id": "onlineradiobox_aw.boguia",
+    "name": "Radio Bo Guia",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/42651.v5.png",
+    "stream_url": "http://whooshserver.net:9880/live",
+    "website": "http://www.boguiafm.com/",
+    "provider": "onlineradiobox",
+    "country": "Aruba",
+    "genres": [
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:58:54+05:30"
+  },
+  {
+    "id": "onlineradiobox_aw.caliente",
+    "name": "Radio Caliente",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/42652.v8.png",
+    "stream_url": "https://stream.zeno.fm/pdaqkmxu1p8uv",
+    "website": "https://caliente907.com/",
+    "provider": "onlineradiobox",
+    "country": "Aruba",
+    "genres": [
+      "salsa",
+      "merengue"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:58:58+05:30"
+  },
+  {
+    "id": "onlineradiobox_aw.canal90fm",
+    "name": "Radio Canal 90 FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/42653.v9.png",
+    "stream_url": "https://c25.radioboss.fm:8187/live",
+    "website": "http://www.canal90fm.aw/",
+    "provider": "onlineradiobox",
+    "country": "Aruba",
+    "genres": [
+      "pop",
+      "top40",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:58:56+05:30"
+  },
+  {
+    "id": "onlineradiobox_aw.comeback",
+    "name": "Comeback Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/42786.v4.png",
+    "stream_url": "https://s8.voscast.com:7001/stream",
+    "website": "http://www.basilachill.com/#!radio/comebackradio",
+    "provider": "onlineradiobox",
+    "country": "Aruba",
+    "genres": [
+      "dance",
+      "pop",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:58:58+05:30"
+  },
+  {
+    "id": "onlineradiobox_aw.coolfm",
+    "name": "Radio Cool FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/42654.v11.png",
+    "stream_url": "https://live2.tensila.com/cool-v-1.arubara/hls/master.m3u8",
+    "website": "http://coolaruba.com/",
+    "provider": "onlineradiobox",
+    "country": "Aruba",
+    "genres": [
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:59:02+05:30"
+  },
+  {
+    "id": "onlineradiobox_aw.easyfmaruba",
+    "name": "Radio Easy FM Aruba",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/42788.v7.png",
+    "stream_url": "http://64.150.176.42:8011/live",
+    "website": "http://easyfm.aw/",
+    "provider": "onlineradiobox",
+    "country": "Aruba",
+    "genres": [
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:59:01+05:30"
+  },
+  {
+    "id": "onlineradiobox_aw.freshfm",
+    "name": "Radio Fresh FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/42655.v3.png",
+    "stream_url": "http://www.fresharuba.com:8006/;",
+    "website": "http://www.fresharuba.com/",
+    "provider": "onlineradiobox",
+    "country": "Aruba",
+    "genres": [
+      "rock",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:58:57+05:30"
+  },
+  {
+    "id": "onlineradiobox_aw.gfmgalactica",
+    "name": "Radio GFM Galactica",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/42656.v12.png",
+    "stream_url": "https://stream.zeno.fm/ywr9n56pnc9uv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Aruba",
+    "genres": [
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:58:59+05:30"
+  },
+  {
+    "id": "onlineradiobox_aw.gozaderastereo",
+    "name": "Gozadera Stereo",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/106389.v6.png",
+    "stream_url": "https://panel1.intermediahost.co:8250/stream",
+    "website": "https://www.gozaderastereo.com/",
+    "provider": "onlineradiobox",
+    "country": "Aruba",
+    "genres": [
+      "salsa",
+      "merengue",
+      "bachata",
+      "vallenato"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:59:03+05:30"
+  },
+  {
+    "id": "onlineradiobox_aw.hit94fm",
+    "name": "Hit 94 FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/42789.v5.png",
+    "stream_url": "http://hit94fm.serverroom.us:8490/;stream.mp3",
+    "website": "http://www.hit94fm.com/",
+    "provider": "onlineradiobox",
+    "country": "Aruba",
+    "genres": [
+      "pop",
+      "top40",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:59:01+05:30"
+  },
+  {
+    "id": "onlineradiobox_aw.hits100fm",
+    "name": "Hits 100 FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/42657.v8.png",
+    "stream_url": "https://streams.radiomast.io/f4b2dcfb-399c-4650-a64a-e4fb5b32717e?referer=onlineradiobox",
+    "website": "http://www.hits100fm.com/",
+    "provider": "onlineradiobox",
+    "country": "Aruba",
+    "genres": [
+      "news",
+      "talk",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:58:55+05:30"
+  },
+  {
+    "id": "onlineradiobox_aw.influencias",
+    "name": "InfluenciasRadio",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/111418.v15.png",
+    "stream_url": "https://stream1.svrdedicado.org/8380/stream",
+    "website": "https://influenciasradio.com/",
+    "provider": "onlineradiobox",
+    "country": "Aruba",
+    "genres": [
+      "rock",
+      "pop",
+      "cumbia"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:59:07+05:30"
+  },
+  {
+    "id": "onlineradiobox_aw.lamaniafm",
+    "name": "La Mania",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/42658.v6.png",
+    "stream_url": "https://stream.zeno.fm/c118fgzm9k0uv",
+    "website": "http://www.lamania.net/",
+    "provider": "onlineradiobox",
+    "country": "Aruba",
+    "genres": [
+      "pop",
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:59:35+05:30"
+  },
+  {
+    "id": "onlineradiobox_aw.latina",
+    "name": "Latina FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/42659.v6.png",
+    "stream_url": "https://server.radiogs.org/8140/stream/;",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Aruba",
+    "genres": [
+      "pop",
+      "latin"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:59:05+05:30"
+  },
+  {
+    "id": "onlineradiobox_aw.localurbanwave",
+    "name": "Local Urban Wave Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/146962.v1.png",
+    "stream_url": "https://listen.radioking.com/radio/723947/stream/789860",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Aruba",
+    "genres": [
+      "r'n'b",
+      "rap",
+      "hip-hop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:59:33+05:30"
+  },
+  {
+    "id": "onlineradiobox_aw.magic",
+    "name": "Magic 96.5 FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/42660.v4.png",
+    "stream_url": "http://158.69.114.190:8072/;",
+    "website": "http://www.magic96-5.com/",
+    "provider": "onlineradiobox",
+    "country": "Aruba",
+    "genres": [
+      "pop",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:58:55+05:30"
+  },
+  {
+    "id": "onlineradiobox_aw.masfm",
+    "name": "Mas Fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/123989.v2.png",
+    "stream_url": "https://c13.radioboss.fm:8647/stream",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Aruba",
+    "genres": [
+      "pop",
+      "news",
+      "education"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:59:04+05:30"
+  },
+  {
+    "id": "onlineradiobox_aw.massive1035aruba",
+    "name": "Massive Aruba - Powered by Bombelman.com",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/107326.v8.png",
+    "stream_url": "https://surilive.com:8350/;",
+    "website": "https://massivearuba.com/",
+    "provider": "onlineradiobox",
+    "country": "Aruba",
+    "genres": [
+      "top40",
+      "caribbean"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:59:06+05:30"
+  },
+  {
+    "id": "onlineradiobox_aw.mega88fm",
+    "name": "Mega 88 FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/42661.v4.png",
+    "stream_url": "http://s5.voscast.com:10218/live",
+    "website": "http://mega88fm.com/",
+    "provider": "onlineradiobox",
+    "country": "Aruba",
+    "genres": [
+      "pop",
+      "top40",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:59:04+05:30"
+  },
+  {
+    "id": "onlineradiobox_aw.oldies999",
+    "name": "Oldies 99.9 Aruba",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/62347.v11.png",
+    "stream_url": "https://stream.zeno.fm/ca2yy5vms68uv",
+    "website": "http://www.oldies999.com/",
+    "provider": "onlineradiobox",
+    "country": "Aruba",
+    "genres": [
+      "rock",
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:59:00+05:30"
+  },
+  {
+    "id": "onlineradiobox_aw.superexitosaruba",
+    "name": "Super Exitos Aruba",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/42663.v12.png",
+    "stream_url": "https://stream.zeno.fm/28d9wayzmc9uv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Aruba",
+    "genres": [
+      "pop",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:58:59+05:30"
+  },
+  {
+    "id": "onlineradiobox_aw.topfm",
+    "name": "Top FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/42664.v7.png",
+    "stream_url": "https://c11.radioboss.fm:8437/topfm",
+    "website": "http://top95fm.aw/",
+    "provider": "onlineradiobox",
+    "country": "Aruba",
+    "genres": [
+      "pop",
+      "top40",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:58:57+05:30"
+  },
+  {
+    "id": "onlineradiobox_aw.tropicalaruba",
+    "name": "Radio Tropical Aruba",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/143289.v4.png",
+    "stream_url": "https://live9.livemus.com.br:27282/;",
+    "website": "https://www.radiotropicalaruba.com/",
+    "provider": "onlineradiobox",
+    "country": "Aruba",
+    "genres": [
+      "top40",
+      "latin",
+      "caribbean",
+      "adult contemporary",
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:59:07+05:30"
+  },
+  {
+    "id": "onlineradiobox_aw.universalaruba",
+    "name": "Radio universal Aruba",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/138517.v13.png",
+    "stream_url": "https://stream.zeno.fm/agasm7doywwtv",
+    "website": "https://zeno.fm/radio/radio-universal-aruba/",
+    "provider": "onlineradiobox",
+    "country": "Aruba",
+    "genres": [
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:59:00+05:30"
+  },
+  {
+    "id": "onlineradiobox_aw.victoriaaruba",
+    "name": "Radio Victoria Aruba 93.1 FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/147112.v2.png",
+    "stream_url": "https://stream.zeno.fm/702pgnahqchvv",
+    "website": "https://www.radiovictoriaaruba.org/",
+    "provider": "onlineradiobox",
+    "country": "Aruba",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:59:34+05:30"
+  },
+  {
+    "id": "onlineradiobox_aw.vip",
+    "name": "VIP Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/42665.v3.png",
+    "stream_url": "http://s02.whooshserver.net:8054/vip",
+    "website": "http://viponlineradio.com/",
+    "provider": "onlineradiobox",
+    "country": "Aruba",
+    "genres": [
+      "pop",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:59:35+05:30"
+  },
+  {
+    "id": "onlineradiobox_aw.vogueplayaru",
+    "name": "Vogue Play ARU",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/105803.v1.png",
+    "stream_url": "https://stream.zeno.fm/z45xhym8508uv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Aruba",
+    "genres": [
+      "pop",
+      "top40",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T16:59:09+05:30"
+  }
+]

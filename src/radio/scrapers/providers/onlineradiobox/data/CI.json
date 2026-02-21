@@ -1,0 +1,1606 @@
+[
+  {
+    "id": "onlineradiobox_ci.acm",
+    "name": "ACM Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/146645.v3.png",
+    "stream_url": "https://listen.radioking.com/radio/670561/stream/734653",
+    "website": "https://eglisecma.ci/nouveau/acm-radio/",
+    "provider": "onlineradiobox",
+    "country": "Ivory Coast",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:42:34+05:30"
+  },
+  {
+    "id": "onlineradiobox_ci.adorationmatinale",
+    "name": "Adoration Matinale",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/144454.v5.png",
+    "stream_url": "https://listen.radioking.com/radio/9442/stream/19811",
+    "website": "http://www.radioadorationmatinale.ci/",
+    "provider": "onlineradiobox",
+    "country": "Ivory Coast",
+    "genres": [
+      "african",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:43:13+05:30"
+  },
+  {
+    "id": "onlineradiobox_ci.africaradioabidjan",
+    "name": "Africa Radio Abidjan",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/109376.v5.png",
+    "stream_url": "https://africaradio.ice.infomaniak.ch/abidjan128.mp3",
+    "website": "https://www.africaradio.com/",
+    "provider": "onlineradiobox",
+    "country": "Ivory Coast",
+    "genres": [
+      "pop",
+      "news",
+      "sports",
+      "african"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:40:31+05:30"
+  },
+  {
+    "id": "onlineradiobox_ci.afrobeatinternational",
+    "name": "Afrobeat international",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/106202.v6.png",
+    "stream_url": "https://listen.radioking.com/radio/397789/stream/449770",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Ivory Coast",
+    "genres": [
+      "news",
+      "culture",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:40:29+05:30"
+  },
+  {
+    "id": "onlineradiobox_ci.akonda",
+    "name": "Akonda Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/146433.v3.png",
+    "stream_url": "https://listen.radioking.com/radio/501940/stream/559264",
+    "website": "https://akondanews.net/",
+    "provider": "onlineradiobox",
+    "country": "Ivory Coast",
+    "genres": [
+      "news",
+      "sports",
+      "african",
+      "culture"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:43:12+05:30"
+  },
+  {
+    "id": "onlineradiobox_ci.albayane",
+    "name": "Radio Al-Bayane",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/42087.v6.png",
+    "stream_url": "https://stream.zenolive.com/seb77kna90duv",
+    "website": "http://www.albayane.ci/",
+    "provider": "onlineradiobox",
+    "country": "Ivory Coast",
+    "genres": [
+      "talk",
+      "islamic",
+      "education"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:40:28+05:30"
+  },
+  {
+    "id": "onlineradiobox_ci.alfayda",
+    "name": "Radio Al Fayda",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/84336.v11.png",
+    "stream_url": "https://radio7.pro-fhi.net/live/RADIO%20AL%20FAYDA",
+    "website": "http://radioalfayda.com/",
+    "provider": "onlineradiobox",
+    "country": "Ivory Coast",
+    "genres": [
+      "islamic",
+      "culture",
+      "education"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:40:37+05:30"
+  },
+  {
+    "id": "onlineradiobox_ci.alphablondyfm",
+    "name": "Alpha Blondy FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/124815.v2.png",
+    "stream_url": "https://listen.radioking.com/radio/364633/stream/414370",
+    "website": "http://alphablondyfm.ci/",
+    "provider": "onlineradiobox",
+    "country": "Ivory Coast",
+    "genres": [
+      "pop",
+      "blues",
+      "country",
+      "reggae",
+      "acoustic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:41:28+05:30"
+  },
+  {
+    "id": "onlineradiobox_ci.alphaetomega",
+    "name": "Alphaetomega",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/97871.v7.png",
+    "stream_url": "http://161.97.160.18:8000/alphaetomega",
+    "website": "http://alpha-et-omega.org/",
+    "provider": "onlineradiobox",
+    "country": "Ivory Coast",
+    "genres": [
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:41:25+05:30"
+  },
+  {
+    "id": "onlineradiobox_ci.antennawebyamoussoukro",
+    "name": "Antenna Web Yamoussoukro",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/134328.v3.png",
+    "stream_url": "https://tinyurl.com/AntennaWebYamoussoukro",
+    "website": "https://antennaweb.it/antennaweb-yamoussoukro/",
+    "provider": "onlineradiobox",
+    "country": "Ivory Coast",
+    "genres": [
+      "rock",
+      "pop",
+      "blues",
+      "jazz",
+      "funk",
+      "reggaeton"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:41:30+05:30"
+  },
+  {
+    "id": "onlineradiobox_ci.atlantiquefm",
+    "name": "Radio Atlantique FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/42100.v5.png",
+    "stream_url": "https://stream.zeno.fm/xwddhuuvnm8vv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Ivory Coast",
+    "genres": [
+      "news",
+      "sports",
+      "african"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:42:27+05:30"
+  },
+  {
+    "id": "onlineradiobox_ci.attecoube",
+    "name": "attecoubefm",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/144905.v5.png",
+    "stream_url": "https://listen.radioking.com/radio/708230/stream/773741",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Ivory Coast",
+    "genres": [
+      "culture",
+      "community"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:41:37+05:30"
+  },
+  {
+    "id": "onlineradiobox_ci.augustainternational",
+    "name": "Radio Augusta International",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/114336.v7.png",
+    "stream_url": "https://ecmanager4.pro-fhi.net:2660/;?type=http&nocache=1660069410",
+    "website": "https://radioaugusta.com/",
+    "provider": "onlineradiobox",
+    "country": "Ivory Coast",
+    "genres": [
+      "70s",
+      "oldies",
+      "60s"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:41:24+05:30"
+  },
+  {
+    "id": "onlineradiobox_ci.azivoire",
+    "name": "AZ Ivoire Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/146057.v5.png",
+    "stream_url": "https://listen.radioking.com/radio/672331/stream/736510",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Ivory Coast",
+    "genres": [
+      "culture"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:42:27+05:30"
+  },
+  {
+    "id": "onlineradiobox_ci.campusmonde",
+    "name": "Radio Campus Monde",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/144927.v2.png",
+    "stream_url": "https://listen.radioking.com/radio/707066/stream/772532",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Ivory Coast",
+    "genres": [
+      "new wave",
+      "oldies"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:43:13+05:30"
+  },
+  {
+    "id": "onlineradiobox_ci.christocentre",
+    "name": "Christ-O Centre Web Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/145299.v3.png",
+    "stream_url": "https://listen.radioking.com/radio/200482/stream/243073",
+    "website": "https://collectifdesfreresenchrist.ci/Webradio",
+    "provider": "onlineradiobox",
+    "country": "Ivory Coast",
+    "genres": [
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:42:31+05:30"
+  },
+  {
+    "id": "onlineradiobox_ci.communaledeman",
+    "name": "Radio Communale de Man",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/138309.v5.png",
+    "stream_url": "https://stream.zeno.fm/d39mm6w8by8uv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Ivory Coast",
+    "genres": [
+      "news",
+      "sports"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:42:25+05:30"
+  },
+  {
+    "id": "onlineradiobox_ci.daloa",
+    "name": "Radio Daloa FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/126803.v1.png",
+    "stream_url": "https://stream.zeno.fm/fnkkuavm2y9vv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Ivory Coast",
+    "genres": [
+      "news"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:41:27+05:30"
+  },
+  {
+    "id": "onlineradiobox_ci.denguele",
+    "name": "Radio Denguele",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/126481.v6.png",
+    "stream_url": "https://stream.zeno.fm/z9fpkkbpfp1vv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Ivory Coast",
+    "genres": [
+      "news",
+      "community"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:43:16+05:30"
+  },
+  {
+    "id": "onlineradiobox_ci.dialoguecitoyens",
+    "name": "Radio Dialogue Citoyens",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/153480.v2.png",
+    "stream_url": "https://stream.zeno.fm/dicrrxmmelltv",
+    "website": "https://radiodialoguecitoyens.com/",
+    "provider": "onlineradiobox",
+    "country": "Ivory Coast",
+    "genres": [
+      "news",
+      "culture"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:43:10+05:30"
+  },
+  {
+    "id": "onlineradiobox_ci.eb",
+    "name": "EB FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/131966.v6.png",
+    "stream_url": "https://stream.zeno.fm/oy1uo8lwuy9uv",
+    "website": "https://zeno.fm/radio/eb-fm/",
+    "provider": "onlineradiobox",
+    "country": "Ivory Coast",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:43:14+05:30"
+  },
+  {
+    "id": "onlineradiobox_ci.ermite",
+    "name": "Radio Ermite Cote d&#39;Ivoire",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/138739.v2.png",
+    "stream_url": "https://stream.zeno.fm/p1rj9m0zexruv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Ivory Coast",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:42:28+05:30"
+  },
+  {
+    "id": "onlineradiobox_ci.esjc",
+    "name": "Radio ESJC",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/141248.v5.png",
+    "stream_url": "https://stream4.vestaradio.com/RadioESJC",
+    "website": "https://www.esjc.org/",
+    "provider": "onlineradiobox",
+    "country": "Ivory Coast",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:41:28+05:30"
+  },
+  {
+    "id": "onlineradiobox_ci.espoir",
+    "name": "Radio Espoir",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/42093.v5.png",
+    "stream_url": "https://radioespoir.ice.infomaniak.ch/radioespoir.mp3?ver=180271",
+    "website": "http://www.radioespoir.ci/",
+    "provider": "onlineradiobox",
+    "country": "Ivory Coast",
+    "genres": [
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:40:24+05:30"
+  },
+  {
+    "id": "onlineradiobox_ci.evangilecotedivoire",
+    "name": "Radio Evangile Côte D&#39;ivoire",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/154193.v6.png",
+    "stream_url": "http://uk23freenew.listen2myradio.com:36671/stream",
+    "website": "http://radioevangileci.radio12345.com/",
+    "provider": "onlineradiobox",
+    "country": "Ivory Coast",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:42:33+05:30"
+  },
+  {
+    "id": "onlineradiobox_ci.fer",
+    "name": "FER FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/146658.v3.png",
+    "stream_url": "https://listen.radioking.com/radio/722114/stream/787982",
+    "website": "https://fer.ci/",
+    "provider": "onlineradiobox",
+    "country": "Ivory Coast",
+    "genres": [
+      "r'n'b",
+      "reggae",
+      "african"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:40:35+05:30"
+  },
+  {
+    "id": "onlineradiobox_ci.feremandougou",
+    "name": "Radio Feremandougou Fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/126709.v1.png",
+    "stream_url": "https://stream.zeno.fm/slsb3sxzxqxvv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Ivory Coast",
+    "genres": [
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:43:15+05:30"
+  },
+  {
+    "id": "onlineradiobox_ci.frequencevie",
+    "name": "Radio Frequence Vie",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/42118.v5.png",
+    "stream_url": "http://51.158.97.118:8000/frequencevie.mp3",
+    "website": "http://www.radiofrequencevie.com/",
+    "provider": "onlineradiobox",
+    "country": "Ivory Coast",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:40:22+05:30"
+  },
+  {
+    "id": "onlineradiobox_ci.gbeke",
+    "name": "GBEKE FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/89030.v12.png",
+    "stream_url": "https://stream.zeno.fm/m0982tsy908uv",
+    "website": "https://www.gbekefm.com/",
+    "provider": "onlineradiobox",
+    "country": "Ivory Coast",
+    "genres": [
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:41:26+05:30"
+  },
+  {
+    "id": "onlineradiobox_ci.gds",
+    "name": "GDS FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/139697.v3.png",
+    "stream_url": "http://uk24freenew.listen2myradio.com:32975/;",
+    "website": "http://gdsfm.shadevo.com/",
+    "provider": "onlineradiobox",
+    "country": "Ivory Coast",
+    "genres": [
+      "electronic",
+      "r'n'b",
+      "pop",
+      "talk",
+      "hip-hop",
+      "culture",
+      "afro beat"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:42:41+05:30"
+  },
+  {
+    "id": "onlineradiobox_ci.gem",
+    "name": "GEM Radio Africa",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/150834.v2.png",
+    "stream_url": "https://radio.geyetv.com:8010/radio.mp3",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Ivory Coast",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:41:35+05:30"
+  },
+  {
+    "id": "onlineradiobox_ci.generation100developpementdurable",
+    "name": "Radio Generation 100% Développement Durable",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/145796.v3.png",
+    "stream_url": "https://listen.radioking.com/radio/322058/stream/369815",
+    "website": "https://radio.fondationmarieesther.ci/",
+    "provider": "onlineradiobox",
+    "country": "Ivory Coast",
+    "genres": [
+      "pop",
+      "reggae",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:43:12+05:30"
+  },
+  {
+    "id": "onlineradiobox_ci.geye",
+    "name": "G-Eye Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/150859.v1.png",
+    "stream_url": "https://radio.geyetv.com/listen/geye_radio/radio.mp3",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Ivory Coast",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:42:40+05:30"
+  },
+  {
+    "id": "onlineradiobox_ci.gnivorycoast",
+    "name": "Gn Radio Ivory Coast",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/150079.v2.png",
+    "stream_url": "https://a11.asurahosting.com:7360/ivoycoast.mp3",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Ivory Coast",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:42:37+05:30"
+  },
+  {
+    "id": "onlineradiobox_ci.godseye",
+    "name": "Godseye Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/131861.v1.png",
+    "stream_url": "https://stream.zeno.fm/4fr04sq7ryvvv",
+    "website": "https://www.trinityprayermission.com/",
+    "provider": "onlineradiobox",
+    "country": "Ivory Coast",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:43:11+05:30"
+  },
+  {
+    "id": "onlineradiobox_ci.graceespoir",
+    "name": "Radio Grâce-Espoir",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/145200.v3.png",
+    "stream_url": "https://listen.radioking.com/radio/281332/stream/327067",
+    "website": "http://radio.grace-espoir.org/",
+    "provider": "onlineradiobox",
+    "country": "Ivory Coast",
+    "genres": [
+      "african",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:43:10+05:30"
+  },
+  {
+    "id": "onlineradiobox_ci.guemon",
+    "name": "Radio Guemon 102.3 FM",
+    "image": "https://cdn.onlineradiobox.com/img/logo/0/145330.png",
+    "stream_url": "https://stream.zeno.fm/mfznkwa1tlitv",
+    "website": "https://radioguemon.com/",
+    "provider": "onlineradiobox",
+    "country": "Ivory Coast",
+    "genres": [
+      "news",
+      "sports",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:43:17+05:30"
+  },
+  {
+    "id": "onlineradiobox_ci.healingclinic",
+    "name": "Healing Clinic",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/145300.v2.png",
+    "stream_url": "https://listen.radioking.com/radio/150994/stream/191395",
+    "website": "http://healingclinic-ci.net/",
+    "provider": "onlineradiobox",
+    "country": "Ivory Coast",
+    "genres": [],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:42:42+05:30"
+  },
+  {
+    "id": "onlineradiobox_ci.helohim",
+    "name": "Radio Elohim",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/121947.v2.png",
+    "stream_url": "https://stream.zeno.fm/zywzivpouqgtv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Ivory Coast",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:40:41+05:30"
+  },
+  {
+    "id": "onlineradiobox_ci.hiphop",
+    "name": "Hip-Hop Radio côte d&#39;Ivoire",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/84087.v10.png",
+    "stream_url": "https://listen.radioking.com/radio/732974/stream/799223",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Ivory Coast",
+    "genres": [
+      "hip-hop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:40:39+05:30"
+  },
+  {
+    "id": "onlineradiobox_ci.hits1abidjan",
+    "name": "Hits 1 Abidjan",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/117573.v17.png",
+    "stream_url": "https://stream.hd1.hits1radio.com/?80",
+    "website": "https://www.hits1radio.com/",
+    "provider": "onlineradiobox",
+    "country": "Ivory Coast",
+    "genres": [
+      "dance",
+      "electronic",
+      "pop",
+      "top40",
+      "latin",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:40:34+05:30"
+  },
+  {
+    "id": "onlineradiobox_ci.horizon",
+    "name": "Horizonfm CI",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/136915.v9.png",
+    "stream_url": "https://s2.free-shoutcast.com/stream/18002",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Ivory Coast",
+    "genres": [
+      "news",
+      "culture"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:40:33+05:30"
+  },
+  {
+    "id": "onlineradiobox_ci.impact",
+    "name": "Impact FM Sud Ouest",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/136206.v2.png",
+    "stream_url": "https://stream.zeno.fm/jqujdjbqvhivv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Ivory Coast",
+    "genres": [
+      "news",
+      "sports"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:42:39+05:30"
+  },
+  {
+    "id": "onlineradiobox_ci.impactradio",
+    "name": "Impact radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/145905.v1.png",
+    "stream_url": "https://listen.radioking.com/radio/650329/stream/713773",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Ivory Coast",
+    "genres": [],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:42:26+05:30"
+  },
+  {
+    "id": "onlineradiobox_ci.infas",
+    "name": "Radio INFAS",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/154133.v1.png",
+    "stream_url": "https://listen.radioking.com/radio/813751/stream/882636",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Ivory Coast",
+    "genres": [
+      "country",
+      "comedy"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:42:28+05:30"
+  },
+  {
+    "id": "onlineradiobox_ci.ivoiregroove",
+    "name": "Ivoire Groove",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/151464.v1.png",
+    "stream_url": "https://listen.radioking.com/radio/769697/stream/836951",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Ivory Coast",
+    "genres": [
+      "blues",
+      "club"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:42:39+05:30"
+  },
+  {
+    "id": "onlineradiobox_ci.jam",
+    "name": "Radio Jam",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/42097.v8.png",
+    "stream_url": "https://listen.radioking.com/radio/61201/stream/98566",
+    "website": "http://www.radiojam.biz/",
+    "provider": "onlineradiobox",
+    "country": "Ivory Coast",
+    "genres": [
+      "african"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:40:29+05:30"
+  },
+  {
+    "id": "onlineradiobox_ci.jlcfm",
+    "name": "Radio JLC FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/145938.v1.png",
+    "stream_url": "https://listen.radioking.com/radio/605236/stream/666646",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Ivory Coast",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:41:34+05:30"
+  },
+  {
+    "id": "onlineradiobox_ci.kabadougou",
+    "name": "Radio Kabadougou Fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/126581.v8.png",
+    "stream_url": "https://stream.zeno.fm/gfvm7pxkv98uv",
+    "website": "https://kabadougoufm.online/",
+    "provider": "onlineradiobox",
+    "country": "Ivory Coast",
+    "genres": [
+      "pop",
+      "news"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:41:36+05:30"
+  },
+  {
+    "id": "onlineradiobox_ci.lavoixdazaguie",
+    "name": "La Voix D&#39;azaguie",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/128479.v3.png",
+    "stream_url": "https://stream.zeno.fm/r4usuecu498uv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Ivory Coast",
+    "genres": [
+      "news",
+      "culture"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:41:32+05:30"
+  },
+  {
+    "id": "onlineradiobox_ci.lavoixdelesperance",
+    "name": "LA VOIX DE L&#39;ESPERANCE",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/64900.v14.png",
+    "stream_url": "https://jookiidigit.radioca.st/rve.mp3",
+    "website": "http://www.lavoixdelesperance.org/",
+    "provider": "onlineradiobox",
+    "country": "Ivory Coast",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:40:23+05:30"
+  },
+  {
+    "id": "onlineradiobox_ci.lavoixdelevangile",
+    "name": "Radio La Voix de l&#39;Evangile",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/42115.v15.png",
+    "stream_url": "http://84.16.232.202:7139/stream",
+    "website": "http://rnc-ci.net/",
+    "provider": "onlineradiobox",
+    "country": "Ivory Coast",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:41:24+05:30"
+  },
+  {
+    "id": "onlineradiobox_ci.lavoixdubonberger",
+    "name": "La Voix Du Bon Berger",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/145134.v2.png",
+    "stream_url": "https://listen.radioking.com/radio/695570/stream/760439",
+    "website": "https://link.radioking.com/lavoixdubonberger",
+    "provider": "onlineradiobox",
+    "country": "Ivory Coast",
+    "genres": [],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:41:36+05:30"
+  },
+  {
+    "id": "onlineradiobox_ci.lesmessagersduchrist",
+    "name": "Les Messagers Du Christ",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/146956.v3.png",
+    "stream_url": "https://listen.radioking.com/radio/725756/stream/791726",
+    "website": "https://www.messagersduchrist.com/",
+    "provider": "onlineradiobox",
+    "country": "Ivory Coast",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:40:35+05:30"
+  },
+  {
+    "id": "onlineradiobox_ci.lrcm",
+    "name": "LRCM Radio (Ivory Coast)",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/153000.v2.png",
+    "stream_url": "https://a8.asurahosting.com:8950/ivorycoast.mp3",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Ivory Coast",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:42:27+05:30"
+  },
+  {
+    "id": "onlineradiobox_ci.luli",
+    "name": "Luli Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/128781.v1.png",
+    "stream_url": "https://stream.zeno.fm/civuffklfsqvv",
+    "website": "https://www.luliradio.com/",
+    "provider": "onlineradiobox",
+    "country": "Ivory Coast",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:40:32+05:30"
+  },
+  {
+    "id": "onlineradiobox_ci.maria",
+    "name": "Radio Maria Côte d&#39;Ivoire Man",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/88879.v13.png",
+    "stream_url": "https://dreamsiteradiocp5.com/proxy/rmivorycoastman?mp=/stream",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Ivory Coast",
+    "genres": [],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:42:25+05:30"
+  },
+  {
+    "id": "onlineradiobox_ci.mariacotedivoire",
+    "name": "Radio Maria",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/42098.v6.png",
+    "stream_url": "http://dreamsiteradiocp.com:8112/;?",
+    "website": "http://www.radiomaria.ci/",
+    "provider": "onlineradiobox",
+    "country": "Ivory Coast",
+    "genres": [
+      "christian",
+      "spiritual"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:40:32+05:30"
+  },
+  {
+    "id": "onlineradiobox_ci.mediaci",
+    "name": "Radio MEDIA+CI Yamoussoukro",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/126707.v1.png",
+    "stream_url": "https://stream.zeno.fm/8af5wodfzkvtv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Ivory Coast",
+    "genres": [
+      "news"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:42:35+05:30"
+  },
+  {
+    "id": "onlineradiobox_ci.mediacibouake",
+    "name": "Radio Media + CI Bouake",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/126590.v3.png",
+    "stream_url": "https://stream.zeno.fm/geewmcac4louv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Ivory Coast",
+    "genres": [
+      "news",
+      "talk",
+      "sports"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:42:36+05:30"
+  },
+  {
+    "id": "onlineradiobox_ci.menadesmaug",
+    "name": "Menade Smaug Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/124705.v3.png",
+    "stream_url": "https://stream.zeno.fm/v78geu0tbc9uv",
+    "website": "https://menadesmaug.com/",
+    "provider": "onlineradiobox",
+    "country": "Ivory Coast",
+    "genres": [
+      "sports"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:40:39+05:30"
+  },
+  {
+    "id": "onlineradiobox_ci.moronou",
+    "name": "Radio Ivoire FM 101.1 Niakara",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/127863.v8.png",
+    "stream_url": "https://stream.zeno.fm/sfchjioz3uwuv",
+    "website": "https://zeno.fm/radio/radio-ivoire-fm-101-1/",
+    "provider": "onlineradiobox",
+    "country": "Ivory Coast",
+    "genres": [
+      "news"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:41:39+05:30"
+  },
+  {
+    "id": "onlineradiobox_ci.nationalecatholiquerelaisbouake",
+    "name": "Radio Nationale Catholique Relais Bouake",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/134992.v2.png",
+    "stream_url": "https://stream.zeno.fm/fsbavmwijswuv",
+    "website": "https://zeno.fm/radio/radio-nationale-catholique-bouake/",
+    "provider": "onlineradiobox",
+    "country": "Ivory Coast",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:41:38+05:30"
+  },
+  {
+    "id": "onlineradiobox_ci.neigazykfm",
+    "name": "NEIGAZYK FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/146035.v1.png",
+    "stream_url": "https://listen.radioking.com/radio/592021/stream/652810",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Ivory Coast",
+    "genres": [
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:41:39+05:30"
+  },
+  {
+    "id": "onlineradiobox_ci.nostalgie",
+    "name": "Radio Nostalgie",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/42096.v4.png",
+    "stream_url": "http://213.136.96.14:8000/nostalgie2.mp3",
+    "website": "http://www.nostalgie.ci/",
+    "provider": "onlineradiobox",
+    "country": "Ivory Coast",
+    "genres": [
+      "pop",
+      "70s",
+      "oldies",
+      "60s",
+      "50s"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:40:24+05:30"
+  },
+  {
+    "id": "onlineradiobox_ci.nuitblanche",
+    "name": "Radio Nuit Blanche",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/143421.v25.png",
+    "stream_url": "https://stream.casthost.net/listen/radio_nuit_blanche/radio.mp3",
+    "website": "https://www.radiokhadim1.com/",
+    "provider": "onlineradiobox",
+    "country": "Ivory Coast",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:43:17+05:30"
+  },
+  {
+    "id": "onlineradiobox_ci.oshow",
+    "name": "Oʼshow Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/128131.v1.png",
+    "stream_url": "https://radio.ready2play.fr:1370/stream",
+    "website": "https://oshowradio.com/",
+    "provider": "onlineradiobox",
+    "country": "Ivory Coast",
+    "genres": [
+      "rap"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:42:31+05:30"
+  },
+  {
+    "id": "onlineradiobox_ci.painduciel",
+    "name": "Radio Pain Du Ciel",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/121262.v13.png",
+    "stream_url": "http://uk23freenew.listen2myradio.com:11063/;",
+    "website": "https://radiopainduciel.shadevo.net/",
+    "provider": "onlineradiobox",
+    "country": "Ivory Coast",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:41:26+05:30"
+  },
+  {
+    "id": "onlineradiobox_ci.pulsarci",
+    "name": "Radio Pulsar CI",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/150785.v3.png",
+    "stream_url": "https://listen.radioking.com/radio/772466/stream/839792",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Ivory Coast",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:43:11+05:30"
+  },
+  {
+    "id": "onlineradiobox_ci.rava",
+    "name": "RAVA ( Rassemblement des Vrais Adorateurs)",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/144901.v3.png",
+    "stream_url": "https://listen.radioking.com/radio/708674/stream/774185",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Ivory Coast",
+    "genres": [
+      "news",
+      "gospel",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:41:29+05:30"
+  },
+  {
+    "id": "onlineradiobox_ci.revgrandcommunication",
+    "name": "radio rev&#39;grandcommunication",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/131324.v3.png",
+    "stream_url": "http://us2freenew.listen2myradio.com:27694/;",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Ivory Coast",
+    "genres": [
+      "rock",
+      "talk",
+      "retro",
+      "reggae"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:42:30+05:30"
+  },
+  {
+    "id": "onlineradiobox_ci.rvm",
+    "name": "RVM",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/152151.v1.png",
+    "stream_url": "https://listen.radioking.com/radio/777206/stream/844673",
+    "website": "https://rvmsikensi.com/",
+    "provider": "onlineradiobox",
+    "country": "Ivory Coast",
+    "genres": [
+      "blues"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:42:33+05:30"
+  },
+  {
+    "id": "onlineradiobox_ci.salamwanourwalhikma",
+    "name": "radio khadim",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/115244.v78.png",
+    "stream_url": "https://stream.casthost.net/listen/radio_khadim1/radio.mp3",
+    "website": "http://www.radiokhadim2.website/",
+    "provider": "onlineradiobox",
+    "country": "Ivory Coast",
+    "genres": [
+      "islamic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:40:36+05:30"
+  },
+  {
+    "id": "onlineradiobox_ci.samo",
+    "name": "RadioSamo",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/125700.v1.png",
+    "stream_url": "https://listen.radioking.com/radio/291748/stream/338065",
+    "website": "http://www.radiosamo.net/",
+    "provider": "onlineradiobox",
+    "country": "Ivory Coast",
+    "genres": [
+      "pop",
+      "news",
+      "culture"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:42:29+05:30"
+  },
+  {
+    "id": "onlineradiobox_ci.sante",
+    "name": "Radio Santé Côte d&#39;Ivoire",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/144818.v3.png",
+    "stream_url": "https://listen.radioking.com/radio/712445/stream/778037",
+    "website": "https://radiosanteci.com/",
+    "provider": "onlineradiobox",
+    "country": "Ivory Coast",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:41:33+05:30"
+  },
+  {
+    "id": "onlineradiobox_ci.savannah",
+    "name": "Savannah Fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/133832.v2.png",
+    "stream_url": "https://stream.zeno.fm/fgu0hpcaj9bvv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Ivory Coast",
+    "genres": [
+      "news",
+      "sports"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:40:38+05:30"
+  },
+  {
+    "id": "onlineradiobox_ci.skyrockabidjan",
+    "name": "Skyrock Abidjan",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/73952.v3.png",
+    "stream_url": "https://icecast.skyrock.net/s/abidjan_aac_64k",
+    "website": "https://skyrock.fm/",
+    "provider": "onlineradiobox",
+    "country": "Ivory Coast",
+    "genres": [
+      "r'n'b",
+      "hip-hop",
+      "african"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:40:25+05:30"
+  },
+  {
+    "id": "onlineradiobox_ci.smp",
+    "name": "Serveur de Messages Prophétiques",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/145209.v1.png",
+    "stream_url": "https://listen.radioking.com/radio/688134/stream/752823",
+    "website": "https://www.smpministry.com/",
+    "provider": "onlineradiobox",
+    "country": "Ivory Coast",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:43:15+05:30"
+  },
+  {
+    "id": "onlineradiobox_ci.soleilcisanpedro",
+    "name": "Radio SOLEIL+CI San-Pedro",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/126708.v2.png",
+    "stream_url": "https://stream.zeno.fm/z7fmrvt47uxvv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Ivory Coast",
+    "genres": [
+      "news"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:43:14+05:30"
+  },
+  {
+    "id": "onlineradiobox_ci.tamanivibes",
+    "name": "Tamanivibes RTV",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/132505.v7.png",
+    "stream_url": "https://stream.zeno.fm/ewur5m6mhgmvv",
+    "website": "https://zeno.fm/radio/radio-tamanivibes/",
+    "provider": "onlineradiobox",
+    "country": "Ivory Coast",
+    "genres": [
+      "news"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:41:31+05:30"
+  },
+  {
+    "id": "onlineradiobox_ci.tchrato",
+    "name": "Radio Tchrato 101.4 Fm Daloa",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/126706.v1.png",
+    "stream_url": "https://stream.zeno.fm/zcpvlsgfuvbuv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Ivory Coast",
+    "genres": [
+      "news",
+      "sports"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:42:36+05:30"
+  },
+  {
+    "id": "onlineradiobox_ci.tracefmcotedivoire",
+    "name": "Radio Trace Fm Côte d&#39;Ivoire",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/42104.v7.png",
+    "stream_url": "https://stream.rcs.revma.com/wvx3tf5q54zuv",
+    "website": "http://trace.ci/",
+    "provider": "onlineradiobox",
+    "country": "Ivory Coast",
+    "genres": [
+      "trance"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:40:27+05:30"
+  },
+  {
+    "id": "onlineradiobox_ci.tropic1korogho",
+    "name": "Radio Tropic1 Korhogo",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/130679.v5.png",
+    "stream_url": "https://stream.zeno.fm/0qspxi07raatv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Ivory Coast",
+    "genres": [
+      "news"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:40:37+05:30"
+  },
+  {
+    "id": "onlineradiobox_ci.urbandan",
+    "name": "Urbandan radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/153635.v1.png",
+    "stream_url": "http://uk3freenew.listen2myradio.com:25177/;",
+    "website": "https://urbandan.shadevo.net/",
+    "provider": "onlineradiobox",
+    "country": "Ivory Coast",
+    "genres": [
+      "dance",
+      "hip-hop",
+      "reggae",
+      "culture",
+      "afro beat"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:41:40+05:30"
+  },
+  {
+    "id": "onlineradiobox_ci.viberadiocotedivoire",
+    "name": "LIFE RADIO Côte D&#39;Ivoire",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/42108.v10.png",
+    "stream_url": "https://cast4.asurahosting.com/proxy/life/stream",
+    "website": "https://liferadio.ci/",
+    "provider": "onlineradiobox",
+    "country": "Ivory Coast",
+    "genres": [
+      "pop",
+      "african"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:40:26+05:30"
+  },
+  {
+    "id": "onlineradiobox_ci.vie",
+    "name": "VIE RADIO",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/146528.v1.png",
+    "stream_url": "https://listen.radioking.com/radio/715223/stream/780878",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Ivory Coast",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:41:41+05:30"
+  },
+  {
+    "id": "onlineradiobox_ci.xvibes",
+    "name": "X Vibe&#39;s",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/150169.v1.png",
+    "stream_url": "https://listen.radioking.com/radio/750835/stream/817600",
+    "website": "http://xvibes-live.com/",
+    "provider": "onlineradiobox",
+    "country": "Ivory Coast",
+    "genres": [
+      "hip-hop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:41:32+05:30"
+  },
+  {
+    "id": "onlineradiobox_ci.zenith",
+    "name": "Zenith fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/111568.v14.png",
+    "stream_url": "https://radio6.pro-fhi.net/flux-epbexyou/stream",
+    "website": "http://www.zenithradio.ci/",
+    "provider": "onlineradiobox",
+    "country": "Ivory Coast",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:40:40+05:30"
+  },
+  {
+    "id": "onlineradiobox_ci.zfm",
+    "name": "ZFM CANAL",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/127920.v5.png",
+    "stream_url": "http://5.189.183.17:8000/zfmcanal",
+    "website": "http://5.189.183.17/public/zfmcanal",
+    "provider": "onlineradiobox",
+    "country": "Ivory Coast",
+    "genres": [
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:42:38+05:30"
+  },
+  {
+    "id": "onlineradiobox_ci.ziplignan",
+    "name": "Radio Ziplignan",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/77943.v31.png",
+    "stream_url": "https://srv.webradiomanager.fr:1440/stream",
+    "website": "https://radioziplignan.com/",
+    "provider": "onlineradiobox",
+    "country": "Ivory Coast",
+    "genres": [
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:41:25+05:30"
+  }
+]

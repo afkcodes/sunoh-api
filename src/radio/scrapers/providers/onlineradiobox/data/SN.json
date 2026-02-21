@@ -1,0 +1,1729 @@
+[
+  {
+    "id": "onlineradiobox_sn.abderrahmanassudais",
+    "name": "Radio Abderrahman As-Sudais",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/77237.v6.png",
+    "stream_url": "http://206.190.135.28:8206/stream",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Senegal",
+    "genres": [
+      "christian",
+      "arabic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:44:58+05:30"
+  },
+  {
+    "id": "onlineradiobox_sn.achabibaabbassiya",
+    "name": "Achabiba Abbassiya FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/77235.v3.png",
+    "stream_url": "http://s6.voscast.com:9436/stream",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Senegal",
+    "genres": [
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:46:54+05:30"
+  },
+  {
+    "id": "onlineradiobox_sn.afreekabeat",
+    "name": "AFREEKA BEAT RADIO",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/115868.v3.png",
+    "stream_url": "https://stream.zeno.fm/run2muwghf9uv",
+    "website": "https://senvisionmedias.com/",
+    "provider": "onlineradiobox",
+    "country": "Senegal",
+    "genres": [
+      "rap",
+      "african"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:45:58+05:30"
+  },
+  {
+    "id": "onlineradiobox_sn.africa7907",
+    "name": "Africa7 FM 90.7",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/100563.v19.png",
+    "stream_url": "http://stream.d24tv.com:8000/a7radio.mp3",
+    "website": "http://www.africa7radiotv.com/",
+    "provider": "onlineradiobox",
+    "country": "Senegal",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:46:00+05:30"
+  },
+  {
+    "id": "onlineradiobox_sn.afrodelouga",
+    "name": "Afro FM de Louga",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/89451.v8.png",
+    "stream_url": "https://stream.zeno.fm/krr0xsyd31zuv",
+    "website": "https://afro-fm-de-louga.webnode.it/afro-fm-de-louga/",
+    "provider": "onlineradiobox",
+    "country": "Senegal",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:44:57+05:30"
+  },
+  {
+    "id": "onlineradiobox_sn.alfayda",
+    "name": "Radio Al Fayda",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/77236.v5.png",
+    "stream_url": "https://usa5.fastcast4u.com/proxy/lyartech?mp=/1",
+    "website": "http://www.radioalfayda.net/",
+    "provider": "onlineradiobox",
+    "country": "Senegal",
+    "genres": [
+      "african"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:44:49+05:30"
+  },
+  {
+    "id": "onlineradiobox_sn.almisbax",
+    "name": "Al Misbax Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/125141.v1.png",
+    "stream_url": "https://stream.zeno.fm/trmql5dzquzvv",
+    "website": "https://senvisionmedia.com/",
+    "provider": "onlineradiobox",
+    "country": "Senegal",
+    "genres": [
+      "arabic",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:44:52+05:30"
+  },
+  {
+    "id": "onlineradiobox_sn.antennawebdakar",
+    "name": "Antenna Web Dakar",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/134842.v1.png",
+    "stream_url": "https://tinyurl.com/AntennaWebDakar",
+    "website": "https://antennaweb.it/antennaweb-dakar/",
+    "provider": "onlineradiobox",
+    "country": "Senegal",
+    "genres": [
+      "rock",
+      "pop",
+      "blues",
+      "jazz",
+      "funk",
+      "reggaeton"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:47:00+05:30"
+  },
+  {
+    "id": "onlineradiobox_sn.assamadyya",
+    "name": "RADIO AS SAMADYYA",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/118628.v5.png",
+    "stream_url": "https://betelgeuse.dribbcast.com/proxy/assamadyya?mp=/stream",
+    "website": "https://as-samadiyya.org/",
+    "provider": "onlineradiobox",
+    "country": "Senegal",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:45:58+05:30"
+  },
+  {
+    "id": "onlineradiobox_sn.attidjania",
+    "name": "At Tidjania FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/77238.v7.png",
+    "stream_url": "https://betelgeuse.dribbcast.com/proxy/atidiania?mp=/stream",
+    "website": "https://www.sunufm.com/atidjania/",
+    "provider": "onlineradiobox",
+    "country": "Senegal",
+    "genres": [
+      "christian",
+      "arabic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:46:55+05:30"
+  },
+  {
+    "id": "onlineradiobox_sn.bambeyfm988",
+    "name": "Radio Bambey FM 98.8",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/138201.v2.png",
+    "stream_url": "https://betelgeuse.dribbcast.com/proxy/bambeyfm/stream",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Senegal",
+    "genres": [
+      "talk",
+      "folk",
+      "ethnic",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:47:01+05:30"
+  },
+  {
+    "id": "onlineradiobox_sn.baolmedias",
+    "name": "Radio Baol Médias FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/77239.v6.png",
+    "stream_url": "https://stream.zeno.fm/4m5ypa1zphruv",
+    "website": "http://www.baolmediasinfos.com/",
+    "provider": "onlineradiobox",
+    "country": "Senegal",
+    "genres": [
+      "news",
+      "culture"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:47:55+05:30"
+  },
+  {
+    "id": "onlineradiobox_sn.baoumouwague",
+    "name": "Baoumou-wague",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/81473.v6.png",
+    "stream_url": "https://stream.zeno.fm/nqdqn4s2geruv",
+    "website": "https://zeno.fm/baoumou-wague",
+    "provider": "onlineradiobox",
+    "country": "Senegal",
+    "genres": [],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:46:02+05:30"
+  },
+  {
+    "id": "onlineradiobox_sn.benno",
+    "name": "Radio Benno FM Touba",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/77188.v6.png",
+    "stream_url": "https://betelgeuse.dribbcast.com/proxy/bennofm?mp=/stream",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Senegal",
+    "genres": [
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:45:55+05:30"
+  },
+  {
+    "id": "onlineradiobox_sn.carrefour",
+    "name": "Radio Carrefour",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/77243.v7.png",
+    "stream_url": "https://stream.zeno.fm/dm1hymk3qzzuv",
+    "website": "https://zeno.fm/radio/carrefourfmsenegal/",
+    "provider": "onlineradiobox",
+    "country": "Senegal",
+    "genres": [
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:45:59+05:30"
+  },
+  {
+    "id": "onlineradiobox_sn.cenner",
+    "name": "Radio Cenner FM Dakar",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/120245.v4.png",
+    "stream_url": "https://betelgeuse.dribbcast.com/proxy/cennerfm?mp=/stream",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Senegal",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:47:04+05:30"
+  },
+  {
+    "id": "onlineradiobox_sn.clapafrica",
+    "name": "Clap Africa Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/146422.v3.png",
+    "stream_url": "https://listen.radioking.com/radio/474935/stream/531131",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Senegal",
+    "genres": [
+      "culture"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:48:00+05:30"
+  },
+  {
+    "id": "onlineradiobox_sn.coranafrique",
+    "name": "Radio Coran Afrique",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/98501.v4.png",
+    "stream_url": "https://stream.zeno.fm/hnp45knerm0uv",
+    "website": "http://radiosoninkes.free.fr/",
+    "provider": "onlineradiobox",
+    "country": "Senegal",
+    "genres": [
+      "islamic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:44:57+05:30"
+  },
+  {
+    "id": "onlineradiobox_sn.dakar24",
+    "name": "Radio Dakar 24",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/108240.v2.png",
+    "stream_url": "https://stream.zeno.fm/f636ympec78uv",
+    "website": "https://zeno.fm/radio/Radiodakar-24/",
+    "provider": "onlineradiobox",
+    "country": "Senegal",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:48:01+05:30"
+  },
+  {
+    "id": "onlineradiobox_sn.dakar241",
+    "name": "RADIO DAKAR 24 1",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/115030.v3.png",
+    "stream_url": "https://stream.zeno.fm/3xub9e5f5ehvv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Senegal",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:47:03+05:30"
+  },
+  {
+    "id": "onlineradiobox_sn.dakarcity",
+    "name": "Radio Dakar City",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/95202.v3.png",
+    "stream_url": "https://listen.senemultimedia.net/proxy/rdc?mp=/1",
+    "website": "https://radiodakarcity.com/",
+    "provider": "onlineradiobox",
+    "country": "Senegal",
+    "genres": [
+      "news",
+      "african"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:46:57+05:30"
+  },
+  {
+    "id": "onlineradiobox_sn.dakarinternationale",
+    "name": "Radio Dakar Internationale",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/70790.v10.png",
+    "stream_url": "https://stream.zeno.fm/p2k4mazed2zuv",
+    "website": "http://radiodakarinternationale.com/",
+    "provider": "onlineradiobox",
+    "country": "Senegal",
+    "genres": [
+      "pop",
+      "talk",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:47:59+05:30"
+  },
+  {
+    "id": "onlineradiobox_sn.dakarmusique",
+    "name": "Dakar Musique",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/35559.v7.png",
+    "stream_url": "https://listen.senemultimedia.net:8092/stream",
+    "website": "https://www.dakarmusique.com/",
+    "provider": "onlineradiobox",
+    "country": "Senegal",
+    "genres": [
+      "r'n'b",
+      "pop",
+      "folk",
+      "african"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:44:48+05:30"
+  },
+  {
+    "id": "onlineradiobox_sn.delavenir",
+    "name": "Radio de l&#39;avenir",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/146368.v1.png",
+    "stream_url": "https://listen.radioking.com/radio/507895/stream/565552",
+    "website": "https://www.autoroutedelavenir.sn/",
+    "provider": "onlineradiobox",
+    "country": "Senegal",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:47:07+05:30"
+  },
+  {
+    "id": "onlineradiobox_sn.dineakdiamono",
+    "name": "Dine Ak Diamono",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/146789.v1.png",
+    "stream_url": "https://listen.radioking.com/radio/722894/stream/788804",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Senegal",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:48:03+05:30"
+  },
+  {
+    "id": "onlineradiobox_sn.dingiralfulbe",
+    "name": "Radio Dingiral Fulbe",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/77248.v6.png",
+    "stream_url": "https://stream.zeno.fm/ebsxg12b5s5tv",
+    "website": "https://dingiralfulbe.com/",
+    "provider": "onlineradiobox",
+    "country": "Senegal",
+    "genres": [
+      "talk",
+      "culture",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:46:57+05:30"
+  },
+  {
+    "id": "onlineradiobox_sn.faydatidianiya",
+    "name": "Faydatidianiya",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/35800.v7.png",
+    "stream_url": "http://listen.senemultimedia.net:5526/;",
+    "website": "http://faydatidianiya.com/",
+    "provider": "onlineradiobox",
+    "country": "Senegal",
+    "genres": [
+      "talk",
+      "islamic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:44:52+05:30"
+  },
+  {
+    "id": "onlineradiobox_sn.financialafrik",
+    "name": "Radio Financial Afrik",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/146151.v1.png",
+    "stream_url": "https://listen.radioking.com/radio/569123/stream/629048",
+    "website": "https://www.financialafrik.com/",
+    "provider": "onlineradiobox",
+    "country": "Senegal",
+    "genres": [
+      "african"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:47:08+05:30"
+  },
+  {
+    "id": "onlineradiobox_sn.fulbeinternationale",
+    "name": "Radio Fulbe Internationale",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/144463.v4.png",
+    "stream_url": "https://listen.radioking.com/radio/20674/stream/53398",
+    "website": "http://www.fulbetv.com/",
+    "provider": "onlineradiobox",
+    "country": "Senegal",
+    "genres": [
+      "african",
+      "culture"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:47:09+05:30"
+  },
+  {
+    "id": "onlineradiobox_sn.futursmedias",
+    "name": "Radio Futurs Medias",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/77198.v5.png",
+    "stream_url": "https://stream.zenolive.com/kuk0syz5puquv",
+    "website": "http://www.rfm.sn/",
+    "provider": "onlineradiobox",
+    "country": "Senegal",
+    "genres": [
+      "rock",
+      "pop",
+      "news",
+      "90s"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:44:47+05:30"
+  },
+  {
+    "id": "onlineradiobox_sn.fvs",
+    "name": "Radio Fleuve de Vie Sénégal (FVS)",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/92060.v5.png",
+    "stream_url": "https://stream.zeno.fm/tbb9mv10x1zuv",
+    "website": "https://www.fleuvedeviesenegal.org/",
+    "provider": "onlineradiobox",
+    "country": "Senegal",
+    "genres": [
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:44:55+05:30"
+  },
+  {
+    "id": "onlineradiobox_sn.grace",
+    "name": "Grace FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/77218.v3.png",
+    "stream_url": "http://206.190.135.28:8938/;",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Senegal",
+    "genres": [
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:46:05+05:30"
+  },
+  {
+    "id": "onlineradiobox_sn.h24",
+    "name": "H24 Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/75850.v6.png",
+    "stream_url": "https://listen.senemultimedia.net:8072/stream",
+    "website": "https://h24.sn/",
+    "provider": "onlineradiobox",
+    "country": "Senegal",
+    "genres": [
+      "sports",
+      "culture"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:46:05+05:30"
+  },
+  {
+    "id": "onlineradiobox_sn.hero",
+    "name": "Hero Radio (Senegal)",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/139066.v2.png",
+    "stream_url": "https://a2.asurahosting.com:6790/senegal.mp3",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Senegal",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:46:58+05:30"
+  },
+  {
+    "id": "onlineradiobox_sn.houda",
+    "name": "Houda FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/130681.v3.png",
+    "stream_url": "https://radio4.pro-fhi.net:19050/stream",
+    "website": "https://mhouda.org/",
+    "provider": "onlineradiobox",
+    "country": "Senegal",
+    "genres": [],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:46:04+05:30"
+  },
+  {
+    "id": "onlineradiobox_sn.iradio",
+    "name": "iRADIO 90.3",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/77206.v4.png",
+    "stream_url": "https://stream.zeno.fm/x4qspy6qsp8uv",
+    "website": "https://zeno.fm/iradio-lofficiel/",
+    "provider": "onlineradiobox",
+    "country": "Senegal",
+    "genres": [
+      "news",
+      "culture"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:44:48+05:30"
+  },
+  {
+    "id": "onlineradiobox_sn.iradiosenegal",
+    "name": "IRADIO SENEGAL",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/145754.v3.png",
+    "stream_url": "https://listen.radioking.com/radio/250102/stream/294397",
+    "website": "https://emedia.sn/iradio/",
+    "provider": "onlineradiobox",
+    "country": "Senegal",
+    "genres": [
+      "news",
+      "talk",
+      "folk",
+      "african",
+      "culture",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:48:04+05:30"
+  },
+  {
+    "id": "onlineradiobox_sn.jafala",
+    "name": "Jafala Fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/99434.v3.png",
+    "stream_url": "https://stream.zeno.fm/49qd4mcppwzuv",
+    "website": "https://www.jafala.net/",
+    "provider": "onlineradiobox",
+    "country": "Senegal",
+    "genres": [
+      "gospel",
+      "politics",
+      "community"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:47:00+05:30"
+  },
+  {
+    "id": "onlineradiobox_sn.jiidabakel",
+    "name": "Jiida Fm Bakel",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/75645.v8.png",
+    "stream_url": "https://stream.zenolive.com/5a0614rr9mruv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Senegal",
+    "genres": [
+      "news",
+      "talk",
+      "culture"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:44:50+05:30"
+  },
+  {
+    "id": "onlineradiobox_sn.kawande",
+    "name": "Radio  Kawandé",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/88226.v8.png",
+    "stream_url": "https://stream.zeno.fm/7ns6amt68qruv",
+    "website": "https://zeno.fm/radio/radio-kawande/",
+    "provider": "onlineradiobox",
+    "country": "Senegal",
+    "genres": [
+      "islamic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:46:06+05:30"
+  },
+  {
+    "id": "onlineradiobox_sn.kebs",
+    "name": "Radio Kebs FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/77256.v5.png",
+    "stream_url": "http://206.190.135.28:8007/stream",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Senegal",
+    "genres": [
+      "news",
+      "culture"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:47:03+05:30"
+  },
+  {
+    "id": "onlineradiobox_sn.keurmassar",
+    "name": "Radio Keur Massar",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/95203.v4.png",
+    "stream_url": "http://listen.senemultimedia.net:8140/stream",
+    "website": "https://keurmassar.info/",
+    "provider": "onlineradiobox",
+    "country": "Senegal",
+    "genres": [
+      "news",
+      "african"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:47:57+05:30"
+  },
+  {
+    "id": "onlineradiobox_sn.koomfm",
+    "name": "Radio Koom fm Diourbel 97.2",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/112222.v2.png",
+    "stream_url": "https://betelgeuse.dribbcast.com/proxy/koomfmdiourbel?mp=/stream",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Senegal",
+    "genres": [
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:46:59+05:30"
+  },
+  {
+    "id": "onlineradiobox_sn.kradiotv",
+    "name": "K-Radiotv",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/147809.v2.png",
+    "stream_url": "https://listen.radioking.com/radio/732929/stream/799172",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Senegal",
+    "genres": [
+      "pop",
+      "techno",
+      "jazz",
+      "club",
+      "country",
+      "adult contemporary",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:46:56+05:30"
+  },
+  {
+    "id": "onlineradiobox_sn.lampfmdakar",
+    "name": "Lamp FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/35557.v10.png",
+    "stream_url": "https://stream.zenolive.com/q631qfx62neuv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Senegal",
+    "genres": [
+      "news",
+      "talk",
+      "christian",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:44:49+05:30"
+  },
+  {
+    "id": "onlineradiobox_sn.lavoiedelanonviolence",
+    "name": "La Voie de la NonViolence",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/145274.v1.png",
+    "stream_url": "https://listen.radioking.com/radio/172576/stream/214027",
+    "website": "https://www.radio-lavoiedelanonviolence.com/",
+    "provider": "onlineradiobox",
+    "country": "Senegal",
+    "genres": [
+      "talk",
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:47:06+05:30"
+  },
+  {
+    "id": "onlineradiobox_sn.leergifm-diourbel",
+    "name": "Leer Gi FM - Diourbel",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/144797.v4.png",
+    "stream_url": "https://listen.radioking.com/radio/715058/stream/780707",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Senegal",
+    "genres": [
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:48:03+05:30"
+  },
+  {
+    "id": "onlineradiobox_sn.lrcm",
+    "name": "LRCM Radio (Senegal)",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/153040.v1.png",
+    "stream_url": "https://a8.asurahosting.com:8950/senegal.mp3",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Senegal",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:47:56+05:30"
+  },
+  {
+    "id": "onlineradiobox_sn.medinabayekaffrine",
+    "name": "MEDINABAYEKAFFRINE",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/35803.v3.png",
+    "stream_url": "https://stream.zeno.fm/w4v1hckvewwtv",
+    "website": "http://www.medinabayekaffrine.net/",
+    "provider": "onlineradiobox",
+    "country": "Senegal",
+    "genres": [
+      "talk",
+      "islamic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:45:56+05:30"
+  },
+  {
+    "id": "onlineradiobox_sn.meundeff",
+    "name": "Meundeff Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/125248.v1.png",
+    "stream_url": "https://listen.radioking.com/radio/553604/stream/612935",
+    "website": "https://play.radioking.com/radio/meundeffradio",
+    "provider": "onlineradiobox",
+    "country": "Senegal",
+    "genres": [
+      "blues"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:48:02+05:30"
+  },
+  {
+    "id": "onlineradiobox_sn.nasroulah",
+    "name": "Radio Nasroulahi FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/77194.v6.png",
+    "stream_url": "https://betelgeuse.dribbcast.com/proxy/nasroulahi?mp=/stream",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Senegal",
+    "genres": [
+      "pop",
+      "news"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:45:59+05:30"
+  },
+  {
+    "id": "onlineradiobox_sn.natvsenegal",
+    "name": "NA TV Sénégal",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/86951.v4.png",
+    "stream_url": "http://listen.senemultimedia.net:8041/stream",
+    "website": "https://integralmedias.com/",
+    "provider": "onlineradiobox",
+    "country": "Senegal",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:48:05+05:30"
+  },
+  {
+    "id": "onlineradiobox_sn.ndiareme",
+    "name": "Radio Ndiaréme FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/77257.v5.png",
+    "stream_url": "https://betelgeuse.dribbcast.com/proxy/diaremefm?mp=/stream",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Senegal",
+    "genres": [
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:44:54+05:30"
+  },
+  {
+    "id": "onlineradiobox_sn.nowa",
+    "name": "Radio NOWA",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/120392.v2.png",
+    "stream_url": "https://stream.zeno.fm/0pbn3htsyxquv",
+    "website": "https://www.radionawo.net/",
+    "provider": "onlineradiobox",
+    "country": "Senegal",
+    "genres": [
+      "news",
+      "talk",
+      "folk",
+      "rap",
+      "african",
+      "culture",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:46:03+05:30"
+  },
+  {
+    "id": "onlineradiobox_sn.numberonefm886",
+    "name": "Numberone fm 88.6",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/145780.v1.png",
+    "stream_url": "https://listen.radioking.com/radio/635833/stream/698611",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Senegal",
+    "genres": [
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:48:06+05:30"
+  },
+  {
+    "id": "onlineradiobox_sn.oasis",
+    "name": "RADIO OASIS",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/146332.v2.png",
+    "stream_url": "https://listen.radioking.com/radio/515383/stream/573346",
+    "website": "https://radiooasis.sn/",
+    "provider": "onlineradiobox",
+    "country": "Senegal",
+    "genres": [
+      "african",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:47:02+05:30"
+  },
+  {
+    "id": "onlineradiobox_sn.oxyjeunes",
+    "name": "OXY Jeunes FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/77258.v4.png",
+    "stream_url": "http://s9.voscast.com:7994/;",
+    "website": "http://www.oxyjeunesfm.com/",
+    "provider": "onlineradiobox",
+    "country": "Senegal",
+    "genres": [
+      "pop",
+      "african"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:45:52+05:30"
+  },
+  {
+    "id": "onlineradiobox_sn.pakao",
+    "name": "Radio PAKAO FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/69159.v3.png",
+    "stream_url": "http://192.95.39.65:5144/;",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Senegal",
+    "genres": [
+      "news"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:46:04+05:30"
+  },
+  {
+    "id": "onlineradiobox_sn.pikinebizradio",
+    "name": "Pikine Biz Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/35685.v4.png",
+    "stream_url": "https://stream.zeno.fm/e0h5stvk74zuv",
+    "website": "http://www.pikinebiz.com/",
+    "provider": "onlineradiobox",
+    "country": "Senegal",
+    "genres": [
+      "news",
+      "talk",
+      "folk",
+      "culture",
+      "entertainment",
+      "community"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:44:51+05:30"
+  },
+  {
+    "id": "onlineradiobox_sn.pikinediaspora",
+    "name": "Radio PIKINE DIASPORA",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/77301.v3.png",
+    "stream_url": "http://s8.voscast.com:8252/stream",
+    "website": "http://www.pikinediaspora.net/",
+    "provider": "onlineradiobox",
+    "country": "Senegal",
+    "genres": [
+      "rock",
+      "news",
+      "rap",
+      "country",
+      "african"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:45:52+05:30"
+  },
+  {
+    "id": "onlineradiobox_sn.pikinediasporaradio",
+    "name": "Pikine Diaspora Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/35572.v3.png",
+    "stream_url": "http://s8.voscast.com:8252/;",
+    "website": "http://www.pikinediaspora.com/",
+    "provider": "onlineradiobox",
+    "country": "Senegal",
+    "genres": [
+      "news",
+      "talk",
+      "folk",
+      "culture",
+      "entertainment",
+      "community"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:45:54+05:30"
+  },
+  {
+    "id": "onlineradiobox_sn.podor",
+    "name": "Podor Fm 90.7",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/127912.v1.png",
+    "stream_url": "https://stream.zeno.fm/nh7k8dkkcdnuv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Senegal",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:47:58+05:30"
+  },
+  {
+    "id": "onlineradiobox_sn.porokhane",
+    "name": "Porokhane FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/77208.v4.png",
+    "stream_url": "https://betelgeuse.dribbcast.com/proxy/mamediarra?mp=/stream",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Senegal",
+    "genres": [
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:46:03+05:30"
+  },
+  {
+    "id": "onlineradiobox_sn.radiotalib",
+    "name": "Radio Talibé",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/35571.v5.png",
+    "stream_url": "http://listen.senemultimedia.net:5279/stream",
+    "website": "http://www.radiotalibe.com/",
+    "provider": "onlineradiobox",
+    "country": "Senegal",
+    "genres": [
+      "talk",
+      "islamic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:46:55+05:30"
+  },
+  {
+    "id": "onlineradiobox_sn.radiothiossane",
+    "name": "Radio Thiossane",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/35566.v8.png",
+    "stream_url": "https://listen.senemultimedia.net:8112/stream",
+    "website": "https://www.radiothiossane.net/",
+    "provider": "onlineradiobox",
+    "country": "Senegal",
+    "genres": [
+      "pop",
+      "folk",
+      "african"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:44:50+05:30"
+  },
+  {
+    "id": "onlineradiobox_sn.rajofondationfinatawa",
+    "name": "Rajo Fondation Finatawa",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/145844.v2.png",
+    "stream_url": "https://listen.radioking.com/radio/675301/stream/739549",
+    "website": "https://fondationfinatawa.org/",
+    "provider": "onlineradiobox",
+    "country": "Senegal",
+    "genres": [
+      "african"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:48:05+05:30"
+  },
+  {
+    "id": "onlineradiobox_sn.rewmifm",
+    "name": "Rewmi Fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/90226.v5.png",
+    "stream_url": "https://stream.zeno.fm/nkzsqg16t8quv",
+    "website": "https://www.rewmi.com/",
+    "provider": "onlineradiobox",
+    "country": "Senegal",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:46:06+05:30"
+  },
+  {
+    "id": "onlineradiobox_sn.rmi",
+    "name": "RADIO RMI SENEGAL",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/128233.v6.png",
+    "stream_url": "https://stream.zeno.fm/5qjahl1jotrvv",
+    "website": "https://citeavion.com/",
+    "provider": "onlineradiobox",
+    "country": "Senegal",
+    "genres": [
+      "sports",
+      "culture",
+      "politics"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:46:58+05:30"
+  },
+  {
+    "id": "onlineradiobox_sn.samaradiodakar",
+    "name": "Sama Radio Dakar",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/35794.v5.png",
+    "stream_url": "https://streamingv2.shoutcast.com/SamaRadio",
+    "website": "http://sunufm.com/samaradio",
+    "provider": "onlineradiobox",
+    "country": "Senegal",
+    "genres": [
+      "pop",
+      "hip-hop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:44:51+05:30"
+  },
+  {
+    "id": "onlineradiobox_sn.senewebradio",
+    "name": "Seneweb Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/35788.v5.png",
+    "stream_url": "https://stream.zeno.fm/wrh7quprzxquv",
+    "website": "https://www.seneweb.com/",
+    "provider": "onlineradiobox",
+    "country": "Senegal",
+    "genres": [
+      "news",
+      "talk",
+      "folk",
+      "culture",
+      "entertainment",
+      "community"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:44:56+05:30"
+  },
+  {
+    "id": "onlineradiobox_sn.senjeunes",
+    "name": "Senjeunes Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/146377.v1.png",
+    "stream_url": "https://listen.radioking.com/radio/504742/stream/562225",
+    "website": "https://senjeunes.net/",
+    "provider": "onlineradiobox",
+    "country": "Senegal",
+    "genres": [
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:47:05+05:30"
+  },
+  {
+    "id": "onlineradiobox_sn.senvisionmedias",
+    "name": "Radio Senvisionmedias",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/94801.v5.png",
+    "stream_url": "https://stream.zeno.fm/zxp2kpd9ewzuv",
+    "website": "https://senvisionmedias.com/",
+    "provider": "onlineradiobox",
+    "country": "Senegal",
+    "genres": [
+      "news",
+      "sports",
+      "education"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:48:06+05:30"
+  },
+  {
+    "id": "onlineradiobox_sn.silabaa",
+    "name": "Silabaa Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/145767.v2.png",
+    "stream_url": "https://listen.radioking.com/radio/534524/stream/593036",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Senegal",
+    "genres": [
+      "folk",
+      "african"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:48:02+05:30"
+  },
+  {
+    "id": "onlineradiobox_sn.sudfm",
+    "name": "Sud FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/35547.v9.png",
+    "stream_url": "https://stream.zenolive.com/rq40edfn3reuv.mp3",
+    "website": "http://sudfmsenradio.com/",
+    "provider": "onlineradiobox",
+    "country": "Senegal",
+    "genres": [
+      "news",
+      "talk",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:44:46+05:30"
+  },
+  {
+    "id": "onlineradiobox_sn.sunuker",
+    "name": "Radio Sunuker",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/77303.v5.png",
+    "stream_url": "http://radiosunuker221.primcast.com:7148/stream",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Senegal",
+    "genres": [
+      "african"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:45:51+05:30"
+  },
+  {
+    "id": "onlineradiobox_sn.sweet",
+    "name": "Sweet Radio Senegal",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/123497.v3.png",
+    "stream_url": "https://stream.zeno.fm/jemecjfbczhuv",
+    "website": "https://sweetradiosenegal.mystrikingly.com/",
+    "provider": "onlineradiobox",
+    "country": "Senegal",
+    "genres": [
+      "pop",
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:45:51+05:30"
+  },
+  {
+    "id": "onlineradiobox_sn.tamtam",
+    "name": "AlloDakar Radio TamTam",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/77223.v5.png",
+    "stream_url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SP_R3644495.aac?dist=onlineradiobox",
+    "website": "http://radioallodakar.com/",
+    "provider": "onlineradiobox",
+    "country": "Senegal",
+    "genres": [
+      "dance",
+      "hip-hop",
+      "african"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:44:50+05:30"
+  },
+  {
+    "id": "onlineradiobox_sn.teranga",
+    "name": "RADIO TERANGA",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/146160.v2.png",
+    "stream_url": "https://listen.radioking.com/radio/434078/stream/487952",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Senegal",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:46:58+05:30"
+  },
+  {
+    "id": "onlineradiobox_sn.top987",
+    "name": "Top Fm Dakar 97.8",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/127236.v2.png",
+    "stream_url": "https://stream.zeno.fm/sys3pbxmhklvv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Senegal",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:47:05+05:30"
+  },
+  {
+    "id": "onlineradiobox_sn.touba",
+    "name": "TOUBA FM Live",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/108671.v2.png",
+    "stream_url": "https://stream.zeno.fm/n6a855s8v0hvv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Senegal",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:44:53+05:30"
+  },
+  {
+    "id": "onlineradiobox_sn.toubacakanam",
+    "name": "Radio Touba Ca Kanam International",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/137811.v1.png",
+    "stream_url": "https://betelgeuse.dribbcast.com/proxy/toubacakanam/stream",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Senegal",
+    "genres": [
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:45:57+05:30"
+  },
+  {
+    "id": "onlineradiobox_sn.toubainternationale",
+    "name": "Sa Radio Touba Internationale",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/84162.v14.png",
+    "stream_url": "https://listen.radioking.com/radio/441137/stream/495395",
+    "website": "https://saradio-84.webself.net/",
+    "provider": "onlineradiobox",
+    "country": "Senegal",
+    "genres": [
+      "news",
+      "talk",
+      "african",
+      "culture"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:45:55+05:30"
+  },
+  {
+    "id": "onlineradiobox_sn.tzgospel",
+    "name": "Tzgospel ( Senegal)",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/120193.v6.png",
+    "stream_url": "https://stream.zeno.fm/681wgyn1zehvv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Senegal",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:47:08+05:30"
+  },
+  {
+    "id": "onlineradiobox_sn.ucab",
+    "name": "UCAB FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/77197.v4.png",
+    "stream_url": "https://betelgeuse.dribbcast.com/proxy/ucab?mp=/stream",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Senegal",
+    "genres": [
+      "news",
+      "education"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:46:59+05:30"
+  },
+  {
+    "id": "onlineradiobox_sn.urumbi",
+    "name": "Radio Urum-Bi",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/144445.v3.png",
+    "stream_url": "https://listen.radioking.com/radio/4735/stream/12887",
+    "website": "http://www.soodaan.com/",
+    "provider": "onlineradiobox",
+    "country": "Senegal",
+    "genres": [
+      "news"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:48:00+05:30"
+  },
+  {
+    "id": "onlineradiobox_sn.vibe",
+    "name": "Vibe Radio 102.3",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/77310.v5.png",
+    "stream_url": "http://31.207.37.120:8000/viberadio-sn.mp3",
+    "website": "http://www.viberadio.sn/",
+    "provider": "onlineradiobox",
+    "country": "Senegal",
+    "genres": [
+      "pop",
+      "news",
+      "french"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:44:54+05:30"
+  },
+  {
+    "id": "onlineradiobox_sn.waarwi",
+    "name": "WaarWi Fm 104.9",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/129248.v2.png",
+    "stream_url": "https://stream.zeno.fm/tufuiqvaiigtv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Senegal",
+    "genres": [
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:48:05+05:30"
+  },
+  {
+    "id": "onlineradiobox_sn.wadr",
+    "name": "Wadr fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/77311.v5.png",
+    "stream_url": "https://westafricademocracyradio.ice.infomaniak.ch/westafricademocracyradio",
+    "website": "http://www.wadr.org/",
+    "provider": "onlineradiobox",
+    "country": "Senegal",
+    "genres": [
+      "news",
+      "talk",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:45:58+05:30"
+  },
+  {
+    "id": "onlineradiobox_sn.walffm",
+    "name": "Walf FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/35551.v10.png",
+    "stream_url": "https://betelgeuse.dribbcast.com/proxy/01walfweb?mp=/stream",
+    "website": "http://www.walf-groupe.com/",
+    "provider": "onlineradiobox",
+    "country": "Senegal",
+    "genres": [
+      "pop",
+      "news",
+      "talk",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:44:48+05:30"
+  },
+  {
+    "id": "onlineradiobox_sn.xalimaradio",
+    "name": "Xalima Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/35792.v6.png",
+    "stream_url": "http://radiosunuker221.primcast.com:7148/;",
+    "website": "http://xalimasn.com/",
+    "provider": "onlineradiobox",
+    "country": "Senegal",
+    "genres": [
+      "pop",
+      "talk",
+      "folk",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:44:56+05:30"
+  },
+  {
+    "id": "onlineradiobox_sn.xiisa",
+    "name": "Radio Xiisa",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/89292.v5.png",
+    "stream_url": "https://stream.zeno.fm/cynrezdwtzzuv",
+    "website": "http://radiosoninkes.free.fr/",
+    "provider": "onlineradiobox",
+    "country": "Senegal",
+    "genres": [
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:44:58+05:30"
+  },
+  {
+    "id": "onlineradiobox_sn.yagaye",
+    "name": "YAGAYE FM 95.9",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/126233.v3.png",
+    "stream_url": "https://stream.zeno.fm/0aljdy9yxieuv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Senegal",
+    "genres": [
+      "news",
+      "sports",
+      "culture",
+      "gospel",
+      "politics"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:45:53+05:30"
+  },
+  {
+    "id": "onlineradiobox_sn.yop908",
+    "name": "yop fm 90.8",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/144560.v4.png",
+    "stream_url": "http://uk26freenew.listen2myradio.com:7354/;",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Senegal",
+    "genres": [
+      "community"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:48:03+05:30"
+  },
+  {
+    "id": "onlineradiobox_sn.zawiya",
+    "name": "Zawiya FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/150350.v1.png",
+    "stream_url": "https://listen.radioking.com/radio/758762/stream/825716",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Senegal",
+    "genres": [],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:47:55+05:30"
+  },
+  {
+    "id": "onlineradiobox_sn.zikfm",
+    "name": "Zik FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/35975.v12.png",
+    "stream_url": "https://stream.zeno.fm/z97k8ry9sxquv",
+    "website": "https://zeno.fm/radio/zikfmsenegal/",
+    "provider": "onlineradiobox",
+    "country": "Senegal",
+    "genres": [
+      "pop",
+      "news",
+      "talk",
+      "folk",
+      "african"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:44:47+05:30"
+  }
+]

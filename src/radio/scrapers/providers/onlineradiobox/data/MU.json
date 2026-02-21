@@ -1,0 +1,630 @@
+[
+  {
+    "id": "onlineradiobox_mu.7mauritius",
+    "name": "Radio7Mauritius",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/147225.v5.png",
+    "stream_url": "https://c2.radioboss.fm:9056/stream",
+    "website": "https://www.radio7mauritius.com/index.html",
+    "provider": "onlineradiobox",
+    "country": "Mauritius",
+    "genres": [],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:04:09+05:30"
+  },
+  {
+    "id": "onlineradiobox_mu.ado",
+    "name": "Faith Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/76726.v13.png",
+    "stream_url": "http://mu1stream.mushost.com:8230/;",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Mauritius",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:04:09+05:30"
+  },
+  {
+    "id": "onlineradiobox_mu.antennawebportlouis",
+    "name": "Antenna Web Port Louis",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/130329.v3.png",
+    "stream_url": "https://tinyurl.com/Antenna-Web-Port-Louis",
+    "website": "https://antennaweb.it/antennaweb-port-louis/",
+    "provider": "onlineradiobox",
+    "country": "Mauritius",
+    "genres": [
+      "rock",
+      "pop",
+      "blues",
+      "jazz",
+      "funk",
+      "latin"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:04:13+05:30"
+  },
+  {
+    "id": "onlineradiobox_mu.aryonair",
+    "name": "Aryon Air",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/148785.v2.png",
+    "stream_url": "https://listen.radioking.com/radio/267061/stream/312340",
+    "website": "http://www.aryonair.com/",
+    "provider": "onlineradiobox",
+    "country": "Mauritius",
+    "genres": [
+      "dance",
+      "rock",
+      "pop",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:04:12+05:30"
+  },
+  {
+    "id": "onlineradiobox_mu.bestofmusic",
+    "name": "Best of Music Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/139819.v1.png",
+    "stream_url": "https://s4.voscast.com:8929/stream",
+    "website": "https://bestofmusicradio.com/",
+    "provider": "onlineradiobox",
+    "country": "Mauritius",
+    "genres": [
+      "90s",
+      "00s",
+      "80s",
+      "70s",
+      "60s",
+      "50s",
+      "10s"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:04:11+05:30"
+  },
+  {
+    "id": "onlineradiobox_mu.curated",
+    "name": "curatëd",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/145109.v1.png",
+    "stream_url": "https://listen.radioking.com/radio/698681/stream/763661",
+    "website": "https://musiqu-e.com/",
+    "provider": "onlineradiobox",
+    "country": "Mauritius",
+    "genres": [
+      "electronic",
+      "house",
+      "jazz",
+      "soul",
+      "african"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:04:40+05:30"
+  },
+  {
+    "id": "onlineradiobox_mu.gigaircparadiseradio",
+    "name": "GigaIRC Paradise Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/34141.v6.png",
+    "stream_url": "http://r.gigairc.com:7240/;",
+    "website": "http://gigairc.com/",
+    "provider": "onlineradiobox",
+    "country": "Mauritius",
+    "genres": [
+      "dance",
+      "trance",
+      "pop",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:04:37+05:30"
+  },
+  {
+    "id": "onlineradiobox_mu.hitsfm",
+    "name": "Hits FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/34262.v8.png",
+    "stream_url": "https://stream.zenolive.com/8e5h28q71bwtv",
+    "website": "http://hitfmmauritius.fr.mu/",
+    "provider": "onlineradiobox",
+    "country": "Mauritius",
+    "genres": [
+      "dance",
+      "trance",
+      "house",
+      "pop",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:04:07+05:30"
+  },
+  {
+    "id": "onlineradiobox_mu.kirpip",
+    "name": "Kirpip Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/109250.v7.png",
+    "stream_url": "http://radio7.pro-fhi.net:9187/;",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Mauritius",
+    "genres": [
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:04:15+05:30"
+  },
+  {
+    "id": "onlineradiobox_mu.lrcm",
+    "name": "LRCM Radio (Mauritius)",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/153067.v2.png",
+    "stream_url": "https://a8.asurahosting.com:8950/mauritius.mp3",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Mauritius",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:04:38+05:30"
+  },
+  {
+    "id": "onlineradiobox_mu.mbcbestfm",
+    "name": "MBC RM2",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/34224.v13.png",
+    "stream_url": "https://radio.mbcplay.tv/bestfm.m3u8",
+    "website": "http://www.mbcradio.tv/",
+    "provider": "onlineradiobox",
+    "country": "Mauritius",
+    "genres": [
+      "dance",
+      "pop",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:04:02+05:30"
+  },
+  {
+    "id": "onlineradiobox_mu.mbckoolfm",
+    "name": "MBC RM1",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/34441.v15.png",
+    "stream_url": "https://radio.mbcplay.tv/koolfm.m3u8",
+    "website": "http://www.mbcradio.tv/",
+    "provider": "onlineradiobox",
+    "country": "Mauritius",
+    "genres": [
+      "dance",
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:04:06+05:30"
+  },
+  {
+    "id": "onlineradiobox_mu.mbcmauritius",
+    "name": "MBC Radio Mauritius",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/74905.v9.png",
+    "stream_url": "https://radio.mbcplay.tv/radiomauritus.m3u8",
+    "website": "http://www.mbcradio.tv/",
+    "provider": "onlineradiobox",
+    "country": "Mauritius",
+    "genres": [
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:04:06+05:30"
+  },
+  {
+    "id": "onlineradiobox_mu.mbcradiomaurice",
+    "name": "MBC Radio Maurice",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/34444.v7.png",
+    "stream_url": "https://radio.mbcplay.tv/radiomaurice.m3u8",
+    "website": "http://www.mbcradio.tv/",
+    "provider": "onlineradiobox",
+    "country": "Mauritius",
+    "genres": [
+      "pop",
+      "oldies"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:04:05+05:30"
+  },
+  {
+    "id": "onlineradiobox_mu.mbcrodriguesfm",
+    "name": "MBC Rodrigues FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/34448.v10.png",
+    "stream_url": "https://radio.mbconline.xyz/hls/rodrigusfm.m3u8",
+    "website": "http://www.mbcradio.tv/",
+    "provider": "onlineradiobox",
+    "country": "Mauritius",
+    "genres": [
+      "r'n'b",
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:04:10+05:30"
+  },
+  {
+    "id": "onlineradiobox_mu.mbctaalfm",
+    "name": "MBC RM3",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/34447.v14.png",
+    "stream_url": "https://radio.mbconline.xyz/hls/tallfm.m3u8",
+    "website": "http://www.mbcradio.tv/",
+    "provider": "onlineradiobox",
+    "country": "Mauritius",
+    "genres": [
+      "oldies",
+      "indian",
+      "tamil"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:04:04+05:30"
+  },
+  {
+    "id": "onlineradiobox_mu.nrj",
+    "name": "NRJ Maurice",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/73850.v7.png",
+    "stream_url": "https://streaming.nrjaudio.fm/oudbea2h9r57",
+    "website": "http://www.nrj.mu/",
+    "provider": "onlineradiobox",
+    "country": "Mauritius",
+    "genres": [
+      "dance",
+      "pop",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:04:04+05:30"
+  },
+  {
+    "id": "onlineradiobox_mu.onexfm",
+    "name": "Onex FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/34231.v9.png",
+    "stream_url": "https://stream.zeno.fm/0yghnxlsihdvv",
+    "website": "https://onexfm.com/",
+    "provider": "onlineradiobox",
+    "country": "Mauritius",
+    "genres": [
+      "tamil"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:04:39+05:30"
+  },
+  {
+    "id": "onlineradiobox_mu.oui",
+    "name": "OUI Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/92378.v6.png",
+    "stream_url": "https://mu2stream.mushost.com:9443/index.html",
+    "website": "http://www.ouiradio.com/",
+    "provider": "onlineradiobox",
+    "country": "Mauritius",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:04:11+05:30"
+  },
+  {
+    "id": "onlineradiobox_mu.radio230",
+    "name": "Radio230",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/34452.v9.png",
+    "stream_url": "https://listen.radio230.com/",
+    "website": "https://www.radio230.com/",
+    "provider": "onlineradiobox",
+    "country": "Mauritius",
+    "genres": [
+      "pop",
+      "news",
+      "reggae"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:04:07+05:30"
+  },
+  {
+    "id": "onlineradiobox_mu.radiocitymauritius",
+    "name": "Radio Mystere",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/108203.v12.png",
+    "stream_url": "https://puma.streemlion.com:2570/live.mp3",
+    "website": "https://huntr.sipai.online/",
+    "provider": "onlineradiobox",
+    "country": "Mauritius",
+    "genres": [
+      "french"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:04:38+05:30"
+  },
+  {
+    "id": "onlineradiobox_mu.radiomoris",
+    "name": "Radio Moris",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/34110.v11.png",
+    "stream_url": "https://azc.radiomoris.com:8010/radio.mp3",
+    "website": "https://www.radiomoris.com/",
+    "provider": "onlineradiobox",
+    "country": "Mauritius",
+    "genres": [
+      "folk",
+      "soul",
+      "reggae"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:04:05+05:30"
+  },
+  {
+    "id": "onlineradiobox_mu.radioone",
+    "name": "Radio One",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/34105.v20.png",
+    "stream_url": "https://centova57.instainternet.com/proxy/vivavoceltd/stream",
+    "website": "http://www.r1.mu/",
+    "provider": "onlineradiobox",
+    "country": "Mauritius",
+    "genres": [
+      "pop",
+      "news",
+      "talk",
+      "top40",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:04:03+05:30"
+  },
+  {
+    "id": "onlineradiobox_mu.radioplus",
+    "name": "Radioplus",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/33989.v15.png",
+    "stream_url": "https://stream.radioplus.mu:8000/radio.mp3",
+    "website": "https://live.radioplus.mu/",
+    "provider": "onlineradiobox",
+    "country": "Mauritius",
+    "genres": [
+      "pop",
+      "bollywood",
+      "top40",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:04:01+05:30"
+  },
+  {
+    "id": "onlineradiobox_mu.salt",
+    "name": "Salt FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/145730.v2.png",
+    "stream_url": "https://listen.radioking.com/radio/679819/stream/744190",
+    "website": "https://salt-fm.websiteradio.co/",
+    "provider": "onlineradiobox",
+    "country": "Mauritius",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:04:38+05:30"
+  },
+  {
+    "id": "onlineradiobox_mu.tamam",
+    "name": "Maurinews - (HIT FM Mauritius)",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/109838.v39.png",
+    "stream_url": "https://stream.zeno.fm/8e5h28q71bwtv",
+    "website": "https://hitfmmauritius.com/",
+    "provider": "onlineradiobox",
+    "country": "Mauritius",
+    "genres": [
+      "pop",
+      "talk",
+      "bollywood",
+      "top40",
+      "hits",
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:04:12+05:30"
+  },
+  {
+    "id": "onlineradiobox_mu.tamilfm",
+    "name": "Radio Tamil FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/117518.v2.png",
+    "stream_url": "https://stream.zeno.fm/31f63s0ke0hvv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Mauritius",
+    "genres": [
+      "pop",
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:04:39+05:30"
+  },
+  {
+    "id": "onlineradiobox_mu.tamizen",
+    "name": "Tamizen Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/124757.v2.png",
+    "stream_url": "https://c34.radioboss.fm:18023/stream",
+    "website": "https://c34.radioboss.fm/u/23",
+    "provider": "onlineradiobox",
+    "country": "Mauritius",
+    "genres": [
+      "pop",
+      "news",
+      "folk",
+      "culture",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:04:10+05:30"
+  },
+  {
+    "id": "onlineradiobox_mu.topfm",
+    "name": "Top FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/34102.v14.png",
+    "stream_url": "https://s1.radioforge.com:4433/topfmlive/stream",
+    "website": "https://topfm.mu/",
+    "provider": "onlineradiobox",
+    "country": "Mauritius",
+    "genres": [
+      "pop",
+      "news",
+      "talk",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:04:02+05:30"
+  },
+  {
+    "id": "onlineradiobox_mu.vibes",
+    "name": "Vibes Fm Mauritius",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/147429.v3.png",
+    "stream_url": "https://listen.radioking.com/radio/724220/stream/790157",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Mauritius",
+    "genres": [
+      "electronic",
+      "pop",
+      "news",
+      "80s",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:04:14+05:30"
+  },
+  {
+    "id": "onlineradiobox_mu.wazaa",
+    "name": "Wazaa FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/79544.v9.png",
+    "stream_url": "https://listen.radioking.com/radio/660412/stream/724168",
+    "website": "http://wazaa.mu/",
+    "provider": "onlineradiobox",
+    "country": "Mauritius",
+    "genres": [
+      "news",
+      "bollywood",
+      "entertainment",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:04:04+05:30"
+  },
+  {
+    "id": "onlineradiobox_mu.wazaaoutdoorevents",
+    "name": "Wazaa Outdoor Events",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/145402.v1.png",
+    "stream_url": "https://listen.radioking.com/radio/679906/stream/744289",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Mauritius",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:04:39+05:30"
+  },
+  {
+    "id": "onlineradiobox_mu.zeroalpharadio",
+    "name": "Zero Alpha Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/34143.v8.png",
+    "stream_url": "https://26343.live.streamtheworld.com/SAM10AAC079_SC",
+    "website": "http://zeroalpharadio.weebly.com/",
+    "provider": "onlineradiobox",
+    "country": "Mauritius",
+    "genres": [
+      "rock",
+      "pop",
+      "top40",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:04:13+05:30"
+  }
+]

@@ -1,0 +1,690 @@
+[
+  {
+    "id": "onlineradiobox_sr.10magic",
+    "name": "Radio 10 Magic FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/47258.v5.png",
+    "stream_url": "https://s5.radio.co/s85a633f73/listen",
+    "website": "http://www.radio10.sr/",
+    "provider": "onlineradiobox",
+    "country": "Suriname",
+    "genres": [
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:46:21+05:30"
+  },
+  {
+    "id": "onlineradiobox_sr.abc",
+    "name": "Radio ABC Suriname 101.7 - Powered by Bombelman.com",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/47259.v22.png",
+    "stream_url": "httpS://surilive.com:8020/;",
+    "website": "https://abc.bombelman.com/",
+    "provider": "onlineradiobox",
+    "country": "Suriname",
+    "genres": [
+      "news",
+      "soft pop",
+      "romantic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:46:29+05:30"
+  },
+  {
+    "id": "onlineradiobox_sr.antennaweb",
+    "name": "Antenna Web Paramaribo",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/133449.v7.png",
+    "stream_url": "http://tinyurl.com/AntennaWebParamaribo",
+    "website": "https://antennaweb.it/antennaweb-paramaribo/",
+    "provider": "onlineradiobox",
+    "country": "Suriname",
+    "genres": [
+      "rock",
+      "pop",
+      "blues",
+      "jazz",
+      "funk",
+      "reggaeton"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:47:17+05:30"
+  },
+  {
+    "id": "onlineradiobox_sr.apintie",
+    "name": "Apintie Suriname - Powered by Bombelman.com",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/47134.v12.png",
+    "stream_url": "https://surilive.com:8000/;",
+    "website": "https://www.apintie.sr/",
+    "provider": "onlineradiobox",
+    "country": "Suriname",
+    "genres": [
+      "pop",
+      "news",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:46:18+05:30"
+  },
+  {
+    "id": "onlineradiobox_sr.asosye",
+    "name": "Asosye",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/153562.v2.png",
+    "stream_url": "https://beta.surilive.com/asosye/stream",
+    "website": "https://asosye.net/",
+    "provider": "onlineradiobox",
+    "country": "Suriname",
+    "genres": [
+      "news"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:47:14+05:30"
+  },
+  {
+    "id": "onlineradiobox_sr.baithak",
+    "name": "Baithak Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/141342.v5.png",
+    "stream_url": "https://surilive.com:8340/;",
+    "website": "https://fm.sr/",
+    "provider": "onlineradiobox",
+    "country": "Suriname",
+    "genres": [
+      "hindu"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:47:13+05:30"
+  },
+  {
+    "id": "onlineradiobox_sr.beat",
+    "name": "Beat FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/47294.v1.png",
+    "stream_url": "https://streams.radiomast.io/a263a766-cea5-49e2-87c7-b2e9c9f5740c?referer=onlineradiobox",
+    "website": "http://www.dbsuriname.com/?radio=noer",
+    "provider": "onlineradiobox",
+    "country": "Suriname",
+    "genres": [
+      "rock",
+      "pop",
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:47:14+05:30"
+  },
+  {
+    "id": "onlineradiobox_sr.color",
+    "name": "Color Radio 102.5 - Powered by SuriLive.com",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/73837.v42.png",
+    "stream_url": "https://surilive.com:8070/;",
+    "website": "https://www.colorradio.fm/",
+    "provider": "onlineradiobox",
+    "country": "Suriname",
+    "genres": [
+      "retro",
+      "adult contemporary",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:46:19+05:30"
+  },
+  {
+    "id": "onlineradiobox_sr.debanierglobal",
+    "name": "De Banier Global Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/153608.v1.png",
+    "stream_url": "https://listen.radioking.com/radio/802216/stream/870771",
+    "website": "https://www.onlinesuradiotv.com/radio/de-banier-global-radio",
+    "provider": "onlineradiobox",
+    "country": "Suriname",
+    "genres": [
+      "gospel",
+      "love songs"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:47:13+05:30"
+  },
+  {
+    "id": "onlineradiobox_sr.garuda",
+    "name": "RADIO GARUDA",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/47320.v8.png",
+    "stream_url": "https://a3.asurahosting.com/listen/radio_garuda_suriname/radio.mp3",
+    "website": "https://rtv-garudasuriname.com/",
+    "provider": "onlineradiobox",
+    "country": "Suriname",
+    "genres": [
+      "news",
+      "talk",
+      "folk",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:46:26+05:30"
+  },
+  {
+    "id": "onlineradiobox_sr.immanuelsuriname",
+    "name": "Radio Immanuël 95.9 Suriname - Powered by Bombelman.com",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/77401.v17.png",
+    "stream_url": "https://surilive.com:8030/;",
+    "website": "https://www.immanuelsr.com/",
+    "provider": "onlineradiobox",
+    "country": "Suriname",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:47:16+05:30"
+  },
+  {
+    "id": "onlineradiobox_sr.ishara",
+    "name": "RADIO ISHARA",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/47299.v11.png",
+    "stream_url": "https://a8.asurahosting.com:7030/radio.mp3",
+    "website": "http://www.isharafm.com/",
+    "provider": "onlineradiobox",
+    "country": "Suriname",
+    "genres": [
+      "bollywood",
+      "indian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:46:35+05:30"
+  },
+  {
+    "id": "onlineradiobox_sr.koyeba",
+    "name": "Radio Koyeba",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/47262.v6.png",
+    "stream_url": "https://beta.surilive.com/koyeba/",
+    "website": "http://radiokoyebasuriname.com/",
+    "provider": "onlineradiobox",
+    "country": "Suriname",
+    "genres": [
+      "pop",
+      "talk",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:46:25+05:30"
+  },
+  {
+    "id": "onlineradiobox_sr.lpm",
+    "name": "RADIO LPM",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/47326.v8.png",
+    "stream_url": "https://surilive.com:8050/;",
+    "website": "http://radiolpm.com/",
+    "provider": "onlineradiobox",
+    "country": "Suriname",
+    "genres": [
+      "pop",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:46:36+05:30"
+  },
+  {
+    "id": "onlineradiobox_sr.mssuriname",
+    "name": "MS Radio Suriname",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/100339.v6.png",
+    "stream_url": "https://clare.shoutca.st/radio/8070/radio.mp3",
+    "website": "https://musicsteroidz.com/radio/",
+    "provider": "onlineradiobox",
+    "country": "Suriname",
+    "genres": [
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:47:11+05:30"
+  },
+  {
+    "id": "onlineradiobox_sr.neutralradio",
+    "name": "Neutralradio",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/89251.v10.png",
+    "stream_url": "https://cast1.torontocast.com:2225/stream",
+    "website": "https://neutralradio.wixsite.com/neutralradio/webplayer",
+    "provider": "onlineradiobox",
+    "country": "Suriname",
+    "genres": [
+      "90s",
+      "80s",
+      "70s",
+      "oldies",
+      "60s"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:46:33+05:30"
+  },
+  {
+    "id": "onlineradiobox_sr.nio",
+    "name": "NIO FM 107.5 - Feel The Music",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/97016.v14.png",
+    "stream_url": "https://niofm.beheerstream.nl:8060/stream?",
+    "website": "https://www.nio.sr/",
+    "provider": "onlineradiobox",
+    "country": "Suriname",
+    "genres": [
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:46:20+05:30"
+  },
+  {
+    "id": "onlineradiobox_sr.pipel",
+    "name": "PIPEL FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/47188.v6.png",
+    "stream_url": "https://rs.suricloud.com/radio/8010/radio.mp3",
+    "website": "http://www.pipel.sr/",
+    "provider": "onlineradiobox",
+    "country": "Suriname",
+    "genres": [
+      "news",
+      "talk",
+      "oldies",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:46:19+05:30"
+  },
+  {
+    "id": "onlineradiobox_sr.pleasure",
+    "name": "Pleasure.sr",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/148671.v4.png",
+    "stream_url": "https://my.surilive.com/listen/pleasure/stream",
+    "website": "https://pleasure.sr/",
+    "provider": "onlineradiobox",
+    "country": "Suriname",
+    "genres": [
+      "pop",
+      "top40",
+      "90s",
+      "latin",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:47:12+05:30"
+  },
+  {
+    "id": "onlineradiobox_sr.radio9suriname",
+    "name": "Radio 9 Suriname",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/69175.v6.png",
+    "stream_url": "https://rs.suricloud.com/radio/8060/radio.mp3",
+    "website": "http://www.radio9suriname.com/",
+    "provider": "onlineradiobox",
+    "country": "Suriname",
+    "genres": [
+      "indian",
+      "love songs"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:46:23+05:30"
+  },
+  {
+    "id": "onlineradiobox_sr.rpacme",
+    "name": "RP ACME",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/47342.v2.png",
+    "stream_url": "https://streams.radiomast.io/d7e8093b-6a7e-4442-a096-37f259cb7092?referer=onlineradiobox",
+    "website": "https://www.dbsuriname.com/",
+    "provider": "onlineradiobox",
+    "country": "Suriname",
+    "genres": [
+      "pop",
+      "classic",
+      "oldies"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:46:39+05:30"
+  },
+  {
+    "id": "onlineradiobox_sr.rpthehotone",
+    "name": "RP THE HOT ONE",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/47256.v4.png",
+    "stream_url": "https://streams.radiomast.io/2ce0ffa5-dd88-491e-9f9f-925a7ce36b13?referer=onlineradiobox",
+    "website": "http://www.dbsuriname.com/dbsuriname/",
+    "provider": "onlineradiobox",
+    "country": "Suriname",
+    "genres": [
+      "dance",
+      "pop",
+      "hip-hop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:46:27+05:30"
+  },
+  {
+    "id": "onlineradiobox_sr.sangeetmala",
+    "name": "Sangeetmala Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/47255.v11.png",
+    "stream_url": "https://rs.suricloud.com/radio/8030/radio.mp3",
+    "website": "http://sgmsuriname.com/",
+    "provider": "onlineradiobox",
+    "country": "Suriname",
+    "genres": [
+      "news",
+      "indian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:46:33+05:30"
+  },
+  {
+    "id": "onlineradiobox_sr.shalomsuriname",
+    "name": "Radio Shalom Suriname",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/114911.v4.png",
+    "stream_url": "https://worldstreaminglive.com/proxy/radioshalom/stream",
+    "website": "https://shalomsuriname.com/",
+    "provider": "onlineradiobox",
+    "country": "Suriname",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:46:34+05:30"
+  },
+  {
+    "id": "onlineradiobox_sr.shammahtalksr",
+    "name": "ShammahTalk radio Sr",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/145971.v4.png",
+    "stream_url": "https://listen.radioking.com/radio/603214/stream/664585",
+    "website": "https://www.harvestofgodministriessuri.com/",
+    "provider": "onlineradiobox",
+    "country": "Suriname",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:47:15+05:30"
+  },
+  {
+    "id": "onlineradiobox_sr.shruti",
+    "name": "Radio Shruti",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/47260.v15.png",
+    "stream_url": "https://rs.suricloud.com/radio/8000/radio.mp3",
+    "website": "http://radioshruti.com/",
+    "provider": "onlineradiobox",
+    "country": "Suriname",
+    "genres": [
+      "easy listening",
+      "alternative",
+      "indian",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:46:31+05:30"
+  },
+  {
+    "id": "onlineradiobox_sr.slam",
+    "name": "Slam Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/138440.v4.png",
+    "stream_url": "https://ec5.yesstreaming.net:1480/live",
+    "website": "https://rmaisbr.com/channel/slam-sr",
+    "provider": "onlineradiobox",
+    "country": "Suriname",
+    "genres": [
+      "dance",
+      "pop",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:46:40+05:30"
+  },
+  {
+    "id": "onlineradiobox_sr.smooth",
+    "name": "SMOOTH FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/47223.v3.png",
+    "stream_url": "https://video1.getstreamhosting.com:8340/stream",
+    "website": "http://www.sccn.tv/",
+    "provider": "onlineradiobox",
+    "country": "Suriname",
+    "genres": [
+      "pop",
+      "hip-hop",
+      "reggae"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:46:39+05:30"
+  },
+  {
+    "id": "onlineradiobox_sr.snrthesoundofthenation",
+    "name": "Surinet radio - The sound of the nation!",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/120820.v7.png",
+    "stream_url": "http://surinetradio.beheerstream.nl:8066/stream",
+    "website": "http://surinetradio.sr/",
+    "provider": "onlineradiobox",
+    "country": "Suriname",
+    "genres": [
+      "pop",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:46:38+05:30"
+  },
+  {
+    "id": "onlineradiobox_sr.sranan",
+    "name": "FM.sr Sranan Radio - 100% Suriname",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/128087.v22.png",
+    "stream_url": "https://my.surilive.com/listen/sr/stream",
+    "website": "https://srananradio.com/",
+    "provider": "onlineradiobox",
+    "country": "Suriname",
+    "genres": [
+      "reggae",
+      "caribbean",
+      "bolero"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:46:28+05:30"
+  },
+  {
+    "id": "onlineradiobox_sr.srchristmas",
+    "name": "FM.sr Christmas Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/120893.v6.png",
+    "stream_url": "https://surilive.com/xmas/stream",
+    "website": "https://fm.sr/",
+    "provider": "onlineradiobox",
+    "country": "Suriname",
+    "genres": [
+      "christmas"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:47:12+05:30"
+  },
+  {
+    "id": "onlineradiobox_sr.srs",
+    "name": "Radio SRS Suriname - Powered by SuriLive.com",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/47257.v19.png",
+    "stream_url": "https://surilive.com:8060/;",
+    "website": "https://www.radiosrs.sr/",
+    "provider": "onlineradiobox",
+    "country": "Suriname",
+    "genres": [
+      "pop",
+      "news",
+      "talk",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:46:22+05:30"
+  },
+  {
+    "id": "onlineradiobox_sr.suriliteinternet",
+    "name": "Suri-Lite Online Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/47233.v21.png",
+    "stream_url": "https://cast.surilite.net/lite/stream",
+    "website": "https://surilite.net/",
+    "provider": "onlineradiobox",
+    "country": "Suriname",
+    "genres": [
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:47:11+05:30"
+  },
+  {
+    "id": "onlineradiobox_sr.surjavibes",
+    "name": "Surja Vibes",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/103836.v4.png",
+    "stream_url": "https://s5.radio.co/s1735f3c1d/listen",
+    "website": "https://surjavibes.com/online/",
+    "provider": "onlineradiobox",
+    "country": "Suriname",
+    "genres": [
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:46:32+05:30"
+  },
+  {
+    "id": "onlineradiobox_sr.top40suriname",
+    "name": "Trending FM 89.3",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/115411.v5.png",
+    "stream_url": "https://cc6.beheerstream.com/proxy/skurebce?mp=/stream",
+    "website": "http://www.radiotop40.sr/",
+    "provider": "onlineradiobox",
+    "country": "Suriname",
+    "genres": [
+      "pop",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:46:24+05:30"
+  },
+  {
+    "id": "onlineradiobox_sr.trishulbroadcastingnetwork",
+    "name": "TRISHUL BROADCASTING NETWORK",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/47324.v12.png",
+    "stream_url": "https://rs.suricloud.com/radio/8050/radio.mp3",
+    "website": "http://www.radiotrishul.com/",
+    "provider": "onlineradiobox",
+    "country": "Suriname",
+    "genres": [
+      "bollywood",
+      "indian",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:46:37+05:30"
+  },
+  {
+    "id": "onlineradiobox_sr.wena",
+    "name": "Wena&#39;s Broadcasting Network - Powered by Bombelman.com",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/148614.v2.png",
+    "stream_url": "https://surilive.com:8345/;",
+    "website": "https://wena.sr/",
+    "provider": "onlineradiobox",
+    "country": "Suriname",
+    "genres": [
+      "talk",
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:47:18+05:30"
+  }
+]

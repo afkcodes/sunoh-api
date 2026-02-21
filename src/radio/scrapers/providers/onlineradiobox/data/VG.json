@@ -1,0 +1,155 @@
+[
+  {
+    "id": "onlineradiobox_vg.antennawebroadtows",
+    "name": "Antenna Web Road Tows",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/131654.v2.png",
+    "stream_url": "https://tinyurl.com/Antenna-Web-Road-Tows",
+    "website": "https://antennaweb.it/antennaweb-road-tows/",
+    "provider": "onlineradiobox",
+    "country": "British Virgin Islands",
+    "genres": [
+      "rock",
+      "pop",
+      "blues",
+      "jazz",
+      "funk",
+      "latin"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:22:34+05:30"
+  },
+  {
+    "id": "onlineradiobox_vg.joygospel",
+    "name": "ZJoyVI",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/46734.v17.png",
+    "stream_url": "https://aud1.sjamz.com/8262/;",
+    "website": "http://www.zjoyvi.com/",
+    "provider": "onlineradiobox",
+    "country": "British Virgin Islands",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:22:32+05:30"
+  },
+  {
+    "id": "onlineradiobox_vg.kool1000",
+    "name": "Kool FM 1000",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/103838.v10.png",
+    "stream_url": "https://eu57-sonic.instainternet.com/8202/stream",
+    "website": "https://www.koolfm1000.com/",
+    "provider": "onlineradiobox",
+    "country": "British Virgin Islands",
+    "genres": [
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:22:34+05:30"
+  },
+  {
+    "id": "onlineradiobox_vg.olskoolrockabilly",
+    "name": "Ol&#39; Skool Rockabilly Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/25315.v25.png",
+    "stream_url": "http://uk26freenew.listen2myradio.com:19075/;",
+    "website": "https://olskool.radio12345.com/",
+    "provider": "onlineradiobox",
+    "country": "British Virgin Islands",
+    "genres": [
+      "rockabilly",
+      "50s"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:22:31+05:30"
+  },
+  {
+    "id": "onlineradiobox_vg.soggydollar",
+    "name": "Soggy Dollar Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/46788.v6.png",
+    "stream_url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SAM06AAC287_SC?dist=onlineradiobox",
+    "website": "http://www.soggydollarradio.com/",
+    "provider": "onlineradiobox",
+    "country": "British Virgin Islands",
+    "genres": [
+      "pop",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:22:30+05:30"
+  },
+  {
+    "id": "onlineradiobox_vg.thesignal284",
+    "name": "The Signal 284 Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/117831.v5.png",
+    "stream_url": "https://s1.voscast.com:11655/stream",
+    "website": "https://www.thesignal284.com/",
+    "provider": "onlineradiobox",
+    "country": "British Virgin Islands",
+    "genres": [
+      "dance",
+      "r'n'b",
+      "pop",
+      "rap",
+      "reggae",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:22:35+05:30"
+  },
+  {
+    "id": "onlineradiobox_vg.tolavi",
+    "name": "Tola Radio Vi",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/72367.v9.png",
+    "stream_url": "https://26343.live.streamtheworld.com/SAM04AAC460_SC",
+    "website": "https://www.tolaradio.com/",
+    "provider": "onlineradiobox",
+    "country": "British Virgin Islands",
+    "genres": [
+      "r'n'b",
+      "hip-hop",
+      "reggae",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:22:33+05:30"
+  },
+  {
+    "id": "onlineradiobox_vg.zbvi",
+    "name": "ZBVI",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/46733.v5.png",
+    "stream_url": "https://streams.radio.co/s39d621120/listen",
+    "website": "http://www.zbviradio.net/",
+    "provider": "onlineradiobox",
+    "country": "British Virgin Islands",
+    "genres": [
+      "news",
+      "caribbean",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:22:30+05:30"
+  }
+]

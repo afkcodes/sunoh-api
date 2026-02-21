@@ -1,0 +1,77 @@
+[
+  {
+    "id": "onlineradiobox_ws.antennawebsamoa",
+    "name": "Antenna Web Samoa",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/138389.v1.png",
+    "stream_url": "https://tinyurl.com/Antenna-Web-Apia",
+    "website": "https://antennaweb.it/antenna-web-apia/",
+    "provider": "onlineradiobox",
+    "country": "Samoa",
+    "genres": [
+      "rock",
+      "pop",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:24:46+05:30"
+  },
+  {
+    "id": "onlineradiobox_ws.beta",
+    "name": "Station Beta",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/124856.v1.png",
+    "stream_url": "https://stream.zeno.fm/dbwbcjz6goitv",
+    "website": "https://beta.co.ke/",
+    "provider": "onlineradiobox",
+    "country": "Samoa",
+    "genres": [
+      "pop",
+      "top40",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:24:47+05:30"
+  },
+  {
+    "id": "onlineradiobox_ws.showersofblessing",
+    "name": "Showers of Blessing Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/48149.v13.png",
+    "stream_url": "https://stream.zeno.fm/1dkectoxpqgvv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Samoa",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:24:45+05:30"
+  },
+  {
+    "id": "onlineradiobox_ws.tzgospelswahili",
+    "name": "Tzgospel (Samoa)",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/119691.v2.png",
+    "stream_url": "https://stream.zeno.fm/7d1bkfbnffhvv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Samoa",
+    "genres": [
+      "news",
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:24:47+05:30"
+  }
+]

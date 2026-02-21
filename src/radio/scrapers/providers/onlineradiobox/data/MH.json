@@ -1,0 +1,57 @@
+[
+  {
+    "id": "onlineradiobox_mh.antennawebmajuro",
+    "name": "Antenna Web Majuro",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/138418.v1.png",
+    "stream_url": "https://tinyurl.com/Antenna-Web-Majuro",
+    "website": "https://antennaweb.it/antenna-web-majuro/",
+    "provider": "onlineradiobox",
+    "country": "Marshall Islands",
+    "genres": [
+      "rock",
+      "pop",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:58:24+05:30"
+  },
+  {
+    "id": "onlineradiobox_mh.beta",
+    "name": "Station Beta",
+    "image": "https://cdn.onlineradiobox.com/img/logo/8/124858.png",
+    "stream_url": "https://stream.zeno.fm/mllcovaz4kztv",
+    "website": "https://beta.co.ke/",
+    "provider": "onlineradiobox",
+    "country": "Marshall Islands",
+    "genres": [
+      "pop",
+      "top40",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:58:25+05:30"
+  },
+  {
+    "id": "onlineradiobox_mh.publicnternationals",
+    "name": "Public Radio International&#39;s",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/43543.v2.png",
+    "stream_url": "http://pri-ice.streamguys.biz/pri1",
+    "website": "http://www.pri.org/",
+    "provider": "onlineradiobox",
+    "country": "Marshall Islands",
+    "genres": [
+      "news"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:58:24+05:30"
+  }
+]

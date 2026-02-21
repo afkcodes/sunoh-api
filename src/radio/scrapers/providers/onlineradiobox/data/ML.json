@@ -1,0 +1,1715 @@
+[
+  {
+    "id": "onlineradiobox_ml.africachaine",
+    "name": "Africa Chaine",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/92513.v7.png",
+    "stream_url": "https://stream.zeno.fm/fer7h58a3d0uv",
+    "website": "https://zeno.fm/africa-chaine/",
+    "provider": "onlineradiobox",
+    "country": "Mali",
+    "genres": [
+      "news"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:02:07+05:30"
+  },
+  {
+    "id": "onlineradiobox_ml.africaguides",
+    "name": "Africa Guide",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/75764.v12.png",
+    "stream_url": "https://stream.zeno.fm/s2pd86gx71zuv",
+    "website": "https://zeno.fm/africaguides/",
+    "provider": "onlineradiobox",
+    "country": "Mali",
+    "genres": [
+      "folk",
+      "african",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:00:14+05:30"
+  },
+  {
+    "id": "onlineradiobox_ml.albayanou",
+    "name": "Radio Al Bayanou",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/82969.v1.png",
+    "stream_url": "https://stream.zeno.fm/k7r2qmpecnruv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Mali",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:02:14+05:30"
+  },
+  {
+    "id": "onlineradiobox_ml.altaltakadoumsikasso",
+    "name": "Radio Altakadoum Sikasso",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/96040.v6.png",
+    "stream_url": "https://stream.zeno.fm/daiesf0dbqctv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Mali",
+    "genres": [
+      "news"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:02:53+05:30"
+  },
+  {
+    "id": "onlineradiobox_ml.antennawebbamako",
+    "name": "Antenna Web Bamako",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/134600.v2.png",
+    "stream_url": "https://tinyurl.com/AntennaWebBamako",
+    "website": "https://antennaweb.it/antennaweb-bamako/",
+    "provider": "onlineradiobox",
+    "country": "Mali",
+    "genres": [
+      "rock",
+      "pop",
+      "blues",
+      "jazz",
+      "funk",
+      "reggaeton"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:03:01+05:30"
+  },
+  {
+    "id": "onlineradiobox_ml.antennawebmali",
+    "name": "Antenna Web Mali",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/138582.v1.png",
+    "stream_url": "https://tinyurl.com/Antenna-Web-Mali",
+    "website": "https://antennaweb.it/antenna-web-mali/",
+    "provider": "onlineradiobox",
+    "country": "Mali",
+    "genres": [
+      "rock",
+      "pop",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:01:15+05:30"
+  },
+  {
+    "id": "onlineradiobox_ml.arcencielbgni",
+    "name": "Radio Arc-En-Ciel-Bgni",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/82939.v3.png",
+    "stream_url": "https://stream.zeno.fm/hysbf6ahbnruv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Mali",
+    "genres": [
+      "pop",
+      "news",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:02:56+05:30"
+  },
+  {
+    "id": "onlineradiobox_ml.arcencieln1",
+    "name": "Radio Arc en Ciel N1 Bougouni",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/87057.v11.png",
+    "stream_url": "https://stream.zeno.fm/zm759v3fdc9uv",
+    "website": "https://zeno.fm/radio-arc-en-ciel-n1-bougouninssa4v3fdc9uv/",
+    "provider": "onlineradiobox",
+    "country": "Mali",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:00:19+05:30"
+  },
+  {
+    "id": "onlineradiobox_ml.awka",
+    "name": "Awka Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/128314.v4.png",
+    "stream_url": "https://stream.zeno.fm/e7whvuv3ghgtv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Mali",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:01:17+05:30"
+  },
+  {
+    "id": "onlineradiobox_ml.aziz",
+    "name": "Aziz fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/99846.v2.png",
+    "stream_url": "https://stream.zeno.fm/qhw14esm4f8uv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Mali",
+    "genres": [
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:02:11+05:30"
+  },
+  {
+    "id": "onlineradiobox_ml.bal",
+    "name": "Diallo Fréquence",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/82458.v27.png",
+    "stream_url": "https://stream.zeno.fm/md94rfc4v7zuv",
+    "website": "https://zeno.fm/radio/diallo-frequence/",
+    "provider": "onlineradiobox",
+    "country": "Mali",
+    "genres": [
+      "news",
+      "culture"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:01:15+05:30"
+  },
+  {
+    "id": "onlineradiobox_ml.bamakan",
+    "name": "Radio Bamakan",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/18311.v5.png",
+    "stream_url": "https://stream.zeno.fm/a9pfgv7zw3duv",
+    "website": "http://www.maliweb.net/radio-bamakan-live",
+    "provider": "onlineradiobox",
+    "country": "Mali",
+    "genres": [
+      "news"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:00:06+05:30"
+  },
+  {
+    "id": "onlineradiobox_ml.bamakomouv",
+    "name": "Actuinfo 1",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/82829.v11.png",
+    "stream_url": "https://stream.zeno.fm/gf2khavrdqdvv",
+    "website": "https://zeno.fm/radio/actuinfo-1/",
+    "provider": "onlineradiobox",
+    "country": "Mali",
+    "genres": [
+      "news",
+      "entertainment",
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:00:15+05:30"
+  },
+  {
+    "id": "onlineradiobox_ml.banigofm",
+    "name": "Banigo FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/124821.v1.png",
+    "stream_url": "https://listen.radioking.com/radio/566573/stream/626420",
+    "website": "https://play.radioking.com/radio/banigo-fm",
+    "provider": "onlineradiobox",
+    "country": "Mali",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:01:19+05:30"
+  },
+  {
+    "id": "onlineradiobox_ml.baoule",
+    "name": "radio Baoule FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/134457.v1.png",
+    "stream_url": "https://stream.zeno.fm/53ctgu65a5zuv",
+    "website": "https://zeno.fm/baoulefmbamako/",
+    "provider": "onlineradiobox",
+    "country": "Mali",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:01:10+05:30"
+  },
+  {
+    "id": "onlineradiobox_ml.beledougou2",
+    "name": "Beledougou FM 2",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/105242.v1.png",
+    "stream_url": "https://stream.zeno.fm/d0w1y213ry8uv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Mali",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:01:09+05:30"
+  },
+  {
+    "id": "onlineradiobox_ml.bougounikunkan",
+    "name": "Radio Bougouni Kunkan",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/90409.v6.png",
+    "stream_url": "https://stream.zeno.fm/e1fq9sdhrntuv",
+    "website": "https://zeno.fm/radio-bougouni-kunkan/",
+    "provider": "onlineradiobox",
+    "country": "Mali",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:00:14+05:30"
+  },
+  {
+    "id": "onlineradiobox_ml.cfmmali",
+    "name": "Radio C-Fm Mali",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/89737.v3.png",
+    "stream_url": "https://stream.rcast.live/65381",
+    "website": "http://cfm-mali.com/",
+    "provider": "onlineradiobox",
+    "country": "Mali",
+    "genres": [
+      "talk",
+      "sports",
+      "culture"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:01:18+05:30"
+  },
+  {
+    "id": "onlineradiobox_ml.cinporogo",
+    "name": "Radio Cinporogo",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/84753.v1.png",
+    "stream_url": "https://stream.zeno.fm/0wehe67prrquv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Mali",
+    "genres": [
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:02:55+05:30"
+  },
+  {
+    "id": "onlineradiobox_ml.cliturelavoixdebeledougou",
+    "name": "Radio Cliture Fm La Voix De Beledougou",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/127294.v3.png",
+    "stream_url": "https://stream.zeno.fm/kqqsan9xfxiuv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Mali",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:02:54+05:30"
+  },
+  {
+    "id": "onlineradiobox_ml.couleurmdia",
+    "name": "Radio Couleur Média 99.3Mhz Mali",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/119699.v2.png",
+    "stream_url": "https://stream.zeno.fm/kqqfp9sy72quv",
+    "website": "https://zeno.fm/radio/radiocouleurmedia/",
+    "provider": "onlineradiobox",
+    "country": "Mali",
+    "genres": [
+      "news",
+      "culture"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:00:11+05:30"
+  },
+  {
+    "id": "onlineradiobox_ml.dambe",
+    "name": "Radio Dambe Bamako",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/78961.v4.png",
+    "stream_url": "https://stream.zenolive.com/pynbqy45xreuv",
+    "website": "https://zeno.fm/radiodambebamako",
+    "provider": "onlineradiobox",
+    "country": "Mali",
+    "genres": [
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:00:04+05:30"
+  },
+  {
+    "id": "onlineradiobox_ml.dambe925sikasso",
+    "name": "Radio Dambe FM 92.5 sikasso",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/106889.v2.png",
+    "stream_url": "https://stream.zeno.fm/ptfwien0bn8vv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Mali",
+    "genres": [
+      "news"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:02:15+05:30"
+  },
+  {
+    "id": "onlineradiobox_ml.danya",
+    "name": "DANYA FM/TV SIKASSO",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/154204.v6.png",
+    "stream_url": "https://stream.zeno.fm/a46x58thdwzuv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Mali",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:02:56+05:30"
+  },
+  {
+    "id": "onlineradiobox_ml.diatiguiba",
+    "name": "Diatiguiba FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/77769.v6.png",
+    "stream_url": "https://stream.zeno.fm/xqn9pedd6qruv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Mali",
+    "genres": [
+      "african"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:02:09+05:30"
+  },
+  {
+    "id": "onlineradiobox_ml.diedougoubeleko",
+    "name": "Radio Diedougou Beleko",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/133008.v3.png",
+    "stream_url": "https://stream.zeno.fm/b7malivrvznvv",
+    "website": "https://zeno.fm/radio/diedougou-beleko-soba/",
+    "provider": "onlineradiobox",
+    "country": "Mali",
+    "genres": [
+      "pop",
+      "news",
+      "culture"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:01:14+05:30"
+  },
+  {
+    "id": "onlineradiobox_ml.djenneca24",
+    "name": "Djenneca24",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/123996.v4.png",
+    "stream_url": "http://212.84.160.3:8327/stream",
+    "website": "https://djenneca24.listen2myshow.com/",
+    "provider": "onlineradiobox",
+    "country": "Mali",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:00:14+05:30"
+  },
+  {
+    "id": "onlineradiobox_ml.djenneca42",
+    "name": "Bamako24",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/98289.v6.png",
+    "stream_url": "https://fps5.listen2myradio.com:2199/listen.php?ip=78.129.139.48&port=9880&type=s1",
+    "website": "https://as.listen2myshow.com/",
+    "provider": "onlineradiobox",
+    "country": "Mali",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:01:13+05:30"
+  },
+  {
+    "id": "onlineradiobox_ml.djigui",
+    "name": "Radio RCM Mali 99.3 Mhz (Les Voix Montante)",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/77517.v8.png",
+    "stream_url": "https://stream.zenolive.com/39at64c5gxquv",
+    "website": "https://www.awkatv.com/RCM/",
+    "provider": "onlineradiobox",
+    "country": "Mali",
+    "genres": [
+      "news",
+      "sports",
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:01:14+05:30"
+  },
+  {
+    "id": "onlineradiobox_ml.donko",
+    "name": "Radio Donko",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/78448.v7.png",
+    "stream_url": "https://stream.zeno.fm/er0catu5xreuv",
+    "website": "http://www.radiodonko.com/",
+    "provider": "onlineradiobox",
+    "country": "Mali",
+    "genres": [
+      "talk",
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:02:52+05:30"
+  },
+  {
+    "id": "onlineradiobox_ml.donydjiguiyagundo",
+    "name": "RADIO DONY Djiguiya GUNDO",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/117090.v4.png",
+    "stream_url": "https://stream.zeno.fm/02x3ss8c0xhvv",
+    "website": "https://zeno.fm/radio/radio-dony-djiguiya-gundo/",
+    "provider": "onlineradiobox",
+    "country": "Mali",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:02:08+05:30"
+  },
+  {
+    "id": "onlineradiobox_ml.emergence",
+    "name": "Emergence Fm 91.5 Mhz Mali",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/130135.v1.png",
+    "stream_url": "https://stream.zeno.fm/v8d4100hnnruv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Mali",
+    "genres": [
+      "news",
+      "sports",
+      "culture"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:03:01+05:30"
+  },
+  {
+    "id": "onlineradiobox_ml.emergence915",
+    "name": "Radio Emergence Fm 91.5 Mhz",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/133127.v9.png",
+    "stream_url": "https://stream.zeno.fm/empfvkwmxkyuv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Mali",
+    "genres": [
+      "news",
+      "culture"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:01:19+05:30"
+  },
+  {
+    "id": "onlineradiobox_ml.espacebanikoyacou",
+    "name": "Radio Espace Baniko Yacou",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/91428.v3.png",
+    "stream_url": "https://stream.zeno.fm/4wdkb59q9k0uv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Mali",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:02:05+05:30"
+  },
+  {
+    "id": "onlineradiobox_ml.eveil",
+    "name": "Radio Eveil FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/99604.v3.png",
+    "stream_url": "https://stream.zeno.fm/kz60k0v1tk8uv",
+    "website": "https://zeno.fm/radio/radio-eveil-fm/",
+    "provider": "onlineradiobox",
+    "country": "Mali",
+    "genres": [
+      "news"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:02:57+05:30"
+  },
+  {
+    "id": "onlineradiobox_ml.farafina",
+    "name": "Radio Makankou de Tabakoto. 98.5 mhz",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/122330.v15.png",
+    "stream_url": "https://stream.zeno.fm/4gbgjjvnlkmuv",
+    "website": "https://zeno.fm/radio/radio-makankou-de-tabakoto-98-5-mhz-rwqa/",
+    "provider": "onlineradiobox",
+    "country": "Mali",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:02:53+05:30"
+  },
+  {
+    "id": "onlineradiobox_ml.farafina24",
+    "name": "Farafina 24",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/75728.v2.png",
+    "stream_url": "https://stream.zeno.fm/hbe49y89qmzuv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Mali",
+    "genres": [
+      "news",
+      "talk",
+      "sports",
+      "culture"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:01:18+05:30"
+  },
+  {
+    "id": "onlineradiobox_ml.fassokan",
+    "name": "Radio Fassokan",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/124406.v1.png",
+    "stream_url": "https://stream.zeno.fm/o5dbovhjxygtv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Mali",
+    "genres": [
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:02:59+05:30"
+  },
+  {
+    "id": "onlineradiobox_ml.foundarakadiolo",
+    "name": "Radio Foundara Kadiolo",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/151364.v1.png",
+    "stream_url": "https://stream.zeno.fm/dgz31dkvqg8uv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Mali",
+    "genres": [
+      "pop",
+      "african",
+      "culture",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:02:54+05:30"
+  },
+  {
+    "id": "onlineradiobox_ml.gnmali",
+    "name": "Gn Radio Mali",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/150082.v1.png",
+    "stream_url": "https://a11.asurahosting.com:7360/mali.mp3",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Mali",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:02:02+05:30"
+  },
+  {
+    "id": "onlineradiobox_ml.guidedelafrique",
+    "name": "Guide de l&#39;Afrique",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/89931.v4.png",
+    "stream_url": "https://stream.zeno.fm/q5dcd7gx71zuv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Mali",
+    "genres": [
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:02:14+05:30"
+  },
+  {
+    "id": "onlineradiobox_ml.herekoura",
+    "name": "Radio Dolo",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/130785.v2.png",
+    "stream_url": "https://stream.zeno.fm/mlhowwqpb9duv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Mali",
+    "genres": [
+      "news"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:01:16+05:30"
+  },
+  {
+    "id": "onlineradiobox_ml.hero",
+    "name": "Hero Radio (Mali)",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/139028.v1.png",
+    "stream_url": "https://a2.asurahosting.com:6790/mali.mp3",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Mali",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:02:08+05:30"
+  },
+  {
+    "id": "onlineradiobox_ml.internationalbefo",
+    "name": "International Radio BEFO",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/18319.v5.png",
+    "stream_url": "https://stream.zeno.fm/96r044u9wreuv",
+    "website": "https://zeno.fm/radio/befointernational/",
+    "provider": "onlineradiobox",
+    "country": "Mali",
+    "genres": [
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:01:21+05:30"
+  },
+  {
+    "id": "onlineradiobox_ml.jamako",
+    "name": "Radio Jamako",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/151109.v1.png",
+    "stream_url": "https://stream.zeno.fm/48pk169q2nhvv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Mali",
+    "genres": [
+      "news"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:03:01+05:30"
+  },
+  {
+    "id": "onlineradiobox_ml.jekafo",
+    "name": "Jekafo Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/18318.v2.png",
+    "stream_url": "http://s3.voscast.com:10374/stream",
+    "website": "http://www.maliweb.net/",
+    "provider": "onlineradiobox",
+    "country": "Mali",
+    "genres": [
+      "news"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:02:07+05:30"
+  },
+  {
+    "id": "onlineradiobox_ml.joliba1050",
+    "name": "Joliba105.0 FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/75016.v33.png",
+    "stream_url": "https://stream.zenolive.com/bux0vqx79zquv",
+    "website": "http://jolibafm.radioweb.co/",
+    "provider": "onlineradiobox",
+    "country": "Mali",
+    "genres": [
+      "news",
+      "talk",
+      "politics",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:00:08+05:30"
+  },
+  {
+    "id": "onlineradiobox_ml.jolibasegou",
+    "name": "KORA RADIO Mali",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/100270.v8.png",
+    "stream_url": "https://stream.zeno.fm/bpmfcy1say2uv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Mali",
+    "genres": [
+      "pop",
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:00:18+05:30"
+  },
+  {
+    "id": "onlineradiobox_ml.kalux",
+    "name": "Kalux fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/122217.v3.png",
+    "stream_url": "https://stream.zeno.fm/okafkvducecuv",
+    "website": "https://infoscult.blogspot.com/",
+    "provider": "onlineradiobox",
+    "country": "Mali",
+    "genres": [
+      "culture"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:01:14+05:30"
+  },
+  {
+    "id": "onlineradiobox_ml.kassarabarikama",
+    "name": "Radio Kassara barikama",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/72078.v4.png",
+    "stream_url": "https://stream.zenolive.com/u5u4gvaxh4duv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Mali",
+    "genres": [
+      "news",
+      "culture",
+      "education"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:00:17+05:30"
+  },
+  {
+    "id": "onlineradiobox_ml.kledu",
+    "name": "Radio KLEDU",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/91832.v6.png",
+    "stream_url": "https://stream.zeno.fm/f38bxpt3v2quv",
+    "website": "http://www.info-mali.com/",
+    "provider": "onlineradiobox",
+    "country": "Mali",
+    "genres": [
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:00:05+05:30"
+  },
+  {
+    "id": "onlineradiobox_ml.kolombada",
+    "name": "Radio Kolombada",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/78483.v4.png",
+    "stream_url": "https://stream.zeno.fm/8gbw8uynu0quv",
+    "website": "https://zeno.fm/radiokolombada",
+    "provider": "onlineradiobox",
+    "country": "Mali",
+    "genres": [
+      "news",
+      "talk",
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:01:11+05:30"
+  },
+  {
+    "id": "onlineradiobox_ml.koniinfos24",
+    "name": "Koni infos 24",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/117357.v6.png",
+    "stream_url": "https://stream.zeno.fm/5qsme54s6rhvv",
+    "website": "https://zeno.fm/radio/radio-koni-infos-24/",
+    "provider": "onlineradiobox",
+    "country": "Mali",
+    "genres": [
+      "news"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:03:00+05:30"
+  },
+  {
+    "id": "onlineradiobox_ml.latourou",
+    "name": "G BOUGOU FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/109478.v11.png",
+    "stream_url": "https://stream.zeno.fm/8pk82kfpqc9uv",
+    "website": "https://zeno.fm/radio/g-bougou-fm/",
+    "provider": "onlineradiobox",
+    "country": "Mali",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:00:08+05:30"
+  },
+  {
+    "id": "onlineradiobox_ml.ledevoirdinformer",
+    "name": "RADIO LE DEVOIR D&#39;INFORMER",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/18323.v2.png",
+    "stream_url": "http://195.154.156.183/radio/5578",
+    "website": "http://ledevoirdinformer.com/",
+    "provider": "onlineradiobox",
+    "country": "Mali",
+    "genres": [
+      "news",
+      "african"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:02:06+05:30"
+  },
+  {
+    "id": "onlineradiobox_ml.lrcm",
+    "name": "LRCM Radio (Mali)",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/153035.v1.png",
+    "stream_url": "https://a8.asurahosting.com:8950/mali.mp3",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Mali",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:02:14+05:30"
+  },
+  {
+    "id": "onlineradiobox_ml.madjouratouba",
+    "name": "Radio Madjoura Touba",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/18016.v5.png",
+    "stream_url": "https://stream.zeno.fm/kgnvaarqu0quv",
+    "website": "http://www.madjoura.com/",
+    "provider": "onlineradiobox",
+    "country": "Mali",
+    "genres": [
+      "islamic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:00:16+05:30"
+  },
+  {
+    "id": "onlineradiobox_ml.maliinfos",
+    "name": "Radio Mali Infos",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/100901.v8.png",
+    "stream_url": "https://stream.zeno.fm/0t2nbk252k8uv",
+    "website": "https://zeno.fm/radio/m-t-fm/",
+    "provider": "onlineradiobox",
+    "country": "Mali",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:00:15+05:30"
+  },
+  {
+    "id": "onlineradiobox_ml.malijet",
+    "name": "Radio Malijet",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/18313.v6.png",
+    "stream_url": "https://stream.zenolive.com/yerp85sughwtv",
+    "website": "http://www.malijet.com/",
+    "provider": "onlineradiobox",
+    "country": "Mali",
+    "genres": [
+      "folk",
+      "country"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:00:10+05:30"
+  },
+  {
+    "id": "onlineradiobox_ml.malikunafoni",
+    "name": "Malikunafoni",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/85314.v4.png",
+    "stream_url": "https://stream.zeno.fm/20mdfd30wqzuv",
+    "website": "https://malikunafoni.net/",
+    "provider": "onlineradiobox",
+    "country": "Mali",
+    "genres": [
+      "news",
+      "talk",
+      "sports"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:02:10+05:30"
+  },
+  {
+    "id": "onlineradiobox_ml.marakala",
+    "name": "Marakala  FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/75901.v8.png",
+    "stream_url": "https://stream.zeno.fm/g57uctawnrquv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Mali",
+    "genres": [
+      "news"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:03:02+05:30"
+  },
+  {
+    "id": "onlineradiobox_ml.miankala",
+    "name": "Radio Miankala",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/97117.v2.png",
+    "stream_url": "https://stream.zeno.fm/k71ut93h4ceuv",
+    "website": "https://zeno.fm/radiomiankala/",
+    "provider": "onlineradiobox",
+    "country": "Mali",
+    "genres": [
+      "sports",
+      "culture"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:01:21+05:30"
+  },
+  {
+    "id": "onlineradiobox_ml.mifa24",
+    "name": "Mifa 24",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/113655.v1.png",
+    "stream_url": "https://stream.zeno.fm/t5qkd3uyfkhvv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Mali",
+    "genres": [
+      "news"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:01:20+05:30"
+  },
+  {
+    "id": "onlineradiobox_ml.miracle961",
+    "name": "Radio Miracle Bougouni La Voix De Beledougou",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/124640.v3.png",
+    "stream_url": "https://stream.zeno.fm/hpi2qbj1hh8vv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Mali",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:01:11+05:30"
+  },
+  {
+    "id": "onlineradiobox_ml.missionfleuvedevie",
+    "name": "Radio Mission Fleuve De Vie",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/121309.v4.png",
+    "stream_url": "https://stream.zeno.fm/znwqbjnkhhvvv",
+    "website": "https://www.missionfleuvedeviemali.org/",
+    "provider": "onlineradiobox",
+    "country": "Mali",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:01:22+05:30"
+  },
+  {
+    "id": "onlineradiobox_ml.mondeplus",
+    "name": "Radio Monde Plus",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/139964.v5.png",
+    "stream_url": "https://stream.zeno.fm/qx9q6f4ffphvv",
+    "website": "https://zeno.fm/radio/radio-monde-plus/",
+    "provider": "onlineradiobox",
+    "country": "Mali",
+    "genres": [
+      "sports",
+      "culture"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:01:12+05:30"
+  },
+  {
+    "id": "onlineradiobox_ml.nassiraoule",
+    "name": "Radio Nassira Oulé",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/131909.v6.png",
+    "stream_url": "https://stream.zeno.fm/hw37k9snms8uv",
+    "website": "https://zeno.fm/radio/radionassiraoule/",
+    "provider": "onlineradiobox",
+    "country": "Mali",
+    "genres": [
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:02:08+05:30"
+  },
+  {
+    "id": "onlineradiobox_ml.niessouma",
+    "name": "Radio Niessouma",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/124574.v4.png",
+    "stream_url": "https://stream.zeno.fm/zu6xs4nwqp8uv",
+    "website": "https://zeno.fm/radio/radio-niessouma/",
+    "provider": "onlineradiobox",
+    "country": "Mali",
+    "genres": [
+      "culture"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:02:09+05:30"
+  },
+  {
+    "id": "onlineradiobox_ml.nieta",
+    "name": "Radio Nieta",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/91839.v7.png",
+    "stream_url": "https://stream.zeno.fm/c1ftffnyx2quv",
+    "website": "http://radionieta.net/",
+    "provider": "onlineradiobox",
+    "country": "Mali",
+    "genres": [
+      "news",
+      "talk",
+      "islamic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:00:09+05:30"
+  },
+  {
+    "id": "onlineradiobox_ml.paysanfmsan",
+    "name": "Radio Paysan FM San",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/146034.v3.png",
+    "stream_url": "https://listen.radioking.com/radio/592033/stream/652822",
+    "website": "https://radiopaysansan.com/",
+    "provider": "onlineradiobox",
+    "country": "Mali",
+    "genres": [
+      "news",
+      "sports",
+      "african",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:01:10+05:30"
+  },
+  {
+    "id": "onlineradiobox_ml.pdmniantaga",
+    "name": "Radio Pdm Niantaga Fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/128746.v1.png",
+    "stream_url": "https://stream.zeno.fm/c4ltwn4zz8ctv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Mali",
+    "genres": [
+      "sports",
+      "african"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:02:59+05:30"
+  },
+  {
+    "id": "onlineradiobox_ml.priveelanayasikasso",
+    "name": "Radio Privée Lanaya Sikasso",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/96857.v6.png",
+    "stream_url": "https://stream.zeno.fm/s91zwkaevg0uv",
+    "website": "https://zeno.fm/radio/radiolanayasikasso/",
+    "provider": "onlineradiobox",
+    "country": "Mali",
+    "genres": [
+      "news",
+      "talk",
+      "sports"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:00:19+05:30"
+  },
+  {
+    "id": "onlineradiobox_ml.radiociwara",
+    "name": "Radio Ciwara",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/83556.v2.png",
+    "stream_url": "https://stream.zeno.fm/ucherhafvqruv",
+    "website": "http://radiociwara.ml/",
+    "provider": "onlineradiobox",
+    "country": "Mali",
+    "genres": [
+      "pop",
+      "talk",
+      "sports",
+      "culture"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:02:13+05:30"
+  },
+  {
+    "id": "onlineradiobox_ml.raoudamedia",
+    "name": "Raouda Media",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/146682.v3.png",
+    "stream_url": "https://stream.zeno.fm/y0jfxum3ibauv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Mali",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:02:51+05:30"
+  },
+  {
+    "id": "onlineradiobox_ml.renaissancemali",
+    "name": "Radio Renaissance Mali",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/139500.v2.png",
+    "stream_url": "https://listen.radioking.com/radio/681325/stream/745741",
+    "website": "https://renaissancemali.com/",
+    "provider": "onlineradiobox",
+    "country": "Mali",
+    "genres": [
+      "news",
+      "sports",
+      "african",
+      "culture",
+      "politics"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:00:12+05:30"
+  },
+  {
+    "id": "onlineradiobox_ml.rtfm",
+    "name": "RTFM - Radio Tele Futurs Medias Mali",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/113313.v2.png",
+    "stream_url": "https://stream.zeno.fm/ma5uxgrvsf9uv",
+    "website": "https://zeno.fm/radio/rtfm-bamako/",
+    "provider": "onlineradiobox",
+    "country": "Mali",
+    "genres": [
+      "pop",
+      "news",
+      "talk",
+      "folk",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:02:03+05:30"
+  },
+  {
+    "id": "onlineradiobox_ml.sabati",
+    "name": "Radio Sabati",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/95324.v5.png",
+    "stream_url": "https://stream.zeno.fm/7q8k2pnua78uv",
+    "website": "https://zeno.fm/radio/radiosabatibanankoro/",
+    "provider": "onlineradiobox",
+    "country": "Mali",
+    "genres": [
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:00:11+05:30"
+  },
+  {
+    "id": "onlineradiobox_ml.sabugnouma",
+    "name": "Radio Sabugnouma Fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/78600.v2.png",
+    "stream_url": "https://stream.zeno.fm/b4fe9v64aceuv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Mali",
+    "genres": [
+      "talk",
+      "sports",
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:02:56+05:30"
+  },
+  {
+    "id": "onlineradiobox_ml.sahelkayes",
+    "name": "Radio Sahel Kayes",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/134839.v2.png",
+    "stream_url": "https://stream.zeno.fm/h8dg6uxdvhruv",
+    "website": "https://zeno.fm/radiosahelkayes",
+    "provider": "onlineradiobox",
+    "country": "Mali",
+    "genres": [
+      "rock",
+      "alternative",
+      "reggae"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:02:04+05:30"
+  },
+  {
+    "id": "onlineradiobox_ml.sewa",
+    "name": "Radio Sewa 105.7 Mhz",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/126703.v5.png",
+    "stream_url": "https://stream.zeno.fm/yatffht4duitv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Mali",
+    "genres": [
+      "news",
+      "sports",
+      "culture"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:02:05+05:30"
+  },
+  {
+    "id": "onlineradiobox_ml.sikidolo",
+    "name": "Radio Sikidolo 102.0",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/152959.v2.png",
+    "stream_url": "https://stream.zeno.fm/kf6aas0hs7zuv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Mali",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:02:58+05:30"
+  },
+  {
+    "id": "onlineradiobox_ml.soleil",
+    "name": "Radio Soleil Fm- Sikasso 96.7 mhz",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/154713.v1.png",
+    "stream_url": "https://stream.zeno.fm/hrat95h4jk7tv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Mali",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:03:03+05:30"
+  },
+  {
+    "id": "onlineradiobox_ml.star885",
+    "name": "Radio Star Fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/74199.v3.png",
+    "stream_url": "https://stream.zenolive.com/kfm9pwfskfeuv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Mali",
+    "genres": [
+      "news"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:00:07+05:30"
+  },
+  {
+    "id": "onlineradiobox_ml.tiogola",
+    "name": "Tiogola FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/76528.v6.png",
+    "stream_url": "https://stream.zeno.fm/99471w2f2c9uv",
+    "website": "https://zeno.fm/radio/tiogola-fm/",
+    "provider": "onlineradiobox",
+    "country": "Mali",
+    "genres": [
+      "news"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:00:09+05:30"
+  },
+  {
+    "id": "onlineradiobox_ml.tissa",
+    "name": "Tissa FM Bamako",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/74703.v8.png",
+    "stream_url": "https://stream.zeno.fm/adh0qr1v8rquv",
+    "website": "https://zeno.fm/radio/radiotissafm/",
+    "provider": "onlineradiobox",
+    "country": "Mali",
+    "genres": [
+      "news"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:01:20+05:30"
+  },
+  {
+    "id": "onlineradiobox_ml.tissalavoix",
+    "name": "Radio Tissa la Voix du Mamelon",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/111576.v1.png",
+    "stream_url": "https://stream.zeno.fm/s8ng63k4tchvv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Mali",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:01:12+05:30"
+  },
+  {
+    "id": "onlineradiobox_ml.tondjonlavoixdumamelon",
+    "name": "Radio Nour FM 97.7",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/122761.v8.png",
+    "stream_url": "https://stream.zeno.fm/aq15uxjdlpvtv",
+    "website": "https://zeno.fm/radio/radio-nour-fm-97-7/",
+    "provider": "onlineradiobox",
+    "country": "Mali",
+    "genres": [
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:02:03+05:30"
+  },
+  {
+    "id": "onlineradiobox_ml.tounkarakewdjigui",
+    "name": "Tounkarakew djigui",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/122843.v1.png",
+    "stream_url": "https://stream.zeno.fm/eur0eg7soolvv",
+    "website": "https://zeno.fm/radio/tounkarakew-djigui/",
+    "provider": "onlineradiobox",
+    "country": "Mali",
+    "genres": [
+      "news"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:02:10+05:30"
+  },
+  {
+    "id": "onlineradiobox_ml.touramakan",
+    "name": "Radio Waati",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/119335.v5.png",
+    "stream_url": "https://stream.zeno.fm/eqqyillmdhwvv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Mali",
+    "genres": [
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:02:12+05:30"
+  },
+  {
+    "id": "onlineradiobox_ml.tzgospel",
+    "name": "Tzgospel mali",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/128848.v1.png",
+    "stream_url": "https://stream.zeno.fm/c9p1nur00ehvv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Mali",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:02:52+05:30"
+  },
+  {
+    "id": "onlineradiobox_ml.unitetidjani",
+    "name": "Radio unite tidjani mali",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/134349.v3.png",
+    "stream_url": "https://stream.zeno.fm/zq0dh8b6z5quv",
+    "website": "http://www.zeno.fm/radio/radiounitetidjanimali",
+    "provider": "onlineradiobox",
+    "country": "Mali",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:02:11+05:30"
+  },
+  {
+    "id": "onlineradiobox_ml.wassadjidian",
+    "name": "Radio Wassa Djidian",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/88550.v3.png",
+    "stream_url": "https://stream.zeno.fm/2ndn0avvezzuv",
+    "website": "https://zeno.fm/radio-wassa-djidian/",
+    "provider": "onlineradiobox",
+    "country": "Mali",
+    "genres": [
+      "top40",
+      "sports",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:00:17+05:30"
+  },
+  {
+    "id": "onlineradiobox_ml.yafouke",
+    "name": "Web Radio Yafouke",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/73065.v21.png",
+    "stream_url": "https://stream.zeno.fm/62v1f6u70mzuv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Mali",
+    "genres": [
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:00:06+05:30"
+  },
+  {
+    "id": "onlineradiobox_ml.yelesagabalilavoixdubeledougou",
+    "name": "Radio Yélé Sagabali La Voix Du Beledougou",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/120847.v2.png",
+    "stream_url": "https://stream.zeno.fm/necqxkurq0hvv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Mali",
+    "genres": [
+      "pop",
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:00:13+05:30"
+  },
+  {
+    "id": "onlineradiobox_ml.youbagabonkaramogofaida",
+    "name": "Radio Youba Gabon Karamogo Faida",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/130168.v1.png",
+    "stream_url": "https://stream.zeno.fm/5qnonuo0tjctv",
+    "website": "https://zeno.fm/radio/gabon-karamogo-faida/",
+    "provider": "onlineradiobox",
+    "country": "Mali",
+    "genres": [
+      "sports",
+      "african"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:02:13+05:30"
+  },
+  {
+    "id": "onlineradiobox_ml.zawiya",
+    "name": "Radio Zawiya",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/130200.v1.png",
+    "stream_url": "https://stream.zeno.fm/hgrdfue41szvv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Mali",
+    "genres": [
+      "news"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:01:14+05:30"
+  }
+]

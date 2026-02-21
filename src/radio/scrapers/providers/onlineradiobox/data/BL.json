@@ -1,0 +1,20 @@
+[
+  {
+    "id": "onlineradiobox_bl.tropikfm",
+    "name": "TROPIK FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/49730.v4.png",
+    "stream_url": "http://sv1.vestaradio.com/TROPIKFM",
+    "website": "http://www.tropikfm.com/",
+    "provider": "onlineradiobox",
+    "country": "Saint-Barthelemy",
+    "genres": [
+      "latin",
+      "zouk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:13:06+05:30"
+  }
+]

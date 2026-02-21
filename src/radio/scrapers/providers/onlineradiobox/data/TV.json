@@ -1,0 +1,40 @@
+[
+  {
+    "id": "onlineradiobox_tv.antennawebtuvalu",
+    "name": "Antenna Web Tuvalu",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/138375.v2.png",
+    "stream_url": "https://tinyurl.com/Antenna-Web-Tuvalu",
+    "website": "https://antennaweb.it/antenna-web-tuvalu/",
+    "provider": "onlineradiobox",
+    "country": "Tuvalu",
+    "genres": [
+      "rock",
+      "pop",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:55:20+05:30"
+  },
+  {
+    "id": "onlineradiobox_tv.beta",
+    "name": "Station Beta",
+    "image": "https://cdn.onlineradiobox.com/img/logo/0/124870.png",
+    "stream_url": "https://stream.zeno.fm/wq0mh5gld04uv",
+    "website": "https://beta.co.ke/",
+    "provider": "onlineradiobox",
+    "country": "Tuvalu",
+    "genres": [
+      "pop",
+      "top40",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:55:20+05:30"
+  }
+]

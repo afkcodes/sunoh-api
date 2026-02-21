@@ -1,0 +1,201 @@
+[
+  {
+    "id": "onlineradiobox_so.antennawebmogadiscio",
+    "name": "Antenna Web Mogadiscio",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/134159.v1.png",
+    "stream_url": "https://tinyurl.com/AntennaWebSomalia",
+    "website": "https://antennaweb.it/antennaweb-mogadiscio/",
+    "provider": "onlineradiobox",
+    "country": "Somalia",
+    "genres": [
+      "rock",
+      "pop",
+      "blues",
+      "jazz",
+      "funk",
+      "reggaeton"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:45:24+05:30"
+  },
+  {
+    "id": "onlineradiobox_so.asal",
+    "name": "Radio Asal",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/115089.v5.png",
+    "stream_url": "https://stream.zeno.fm/gzd4x74dfphvv",
+    "website": "https://zeno.fm/radio/radioasal/",
+    "provider": "onlineradiobox",
+    "country": "Somalia",
+    "genres": [
+      "news",
+      "sports"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:45:29+05:30"
+  },
+  {
+    "id": "onlineradiobox_so.cajab",
+    "name": "Cajab Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/117209.v2.png",
+    "stream_url": "https://stream.zeno.fm/qr94fwus2zhvv",
+    "website": "https://www.cajabradio.com/",
+    "provider": "onlineradiobox",
+    "country": "Somalia",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:45:23+05:30"
+  },
+  {
+    "id": "onlineradiobox_so.daljir",
+    "name": "Radio Daljir",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/47843.v7.png",
+    "stream_url": "https://stream.zeno.fm/uru8h6ahv6duv",
+    "website": "https://www.daljir.com/",
+    "provider": "onlineradiobox",
+    "country": "Somalia",
+    "genres": [
+      "pop",
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:45:26+05:30"
+  },
+  {
+    "id": "onlineradiobox_so.danab",
+    "name": "Radio Danab",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/112877.v8.png",
+    "stream_url": "https://stream.radiojar.com/1pu7hhf8kfhvv",
+    "website": "https://danabmedia.live/",
+    "provider": "onlineradiobox",
+    "country": "Somalia",
+    "genres": [
+      "news"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:45:28+05:30"
+  },
+  {
+    "id": "onlineradiobox_so.gardan",
+    "name": "Gardan Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/115027.v4.png",
+    "stream_url": "https://stream.zeno.fm/n8bd6q1k1c9uv",
+    "website": "https://zeno.fm/radio/gardanradio/",
+    "provider": "onlineradiobox",
+    "country": "Somalia",
+    "genres": [
+      "islamic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:45:27+05:30"
+  },
+  {
+    "id": "onlineradiobox_so.gool",
+    "name": "Gool FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/47848.v5.png",
+    "stream_url": "https://stream.radio.co/s74d91532f/listen",
+    "website": "http://www.goolfm.net/",
+    "provider": "onlineradiobox",
+    "country": "Somalia",
+    "genres": [
+      "sports"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:45:21+05:30"
+  },
+  {
+    "id": "onlineradiobox_so.hero",
+    "name": "Hero Radio (Somalia)",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/139031.v1.png",
+    "stream_url": "https://a2.asurahosting.com:6790/somalia.mp3",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Somalia",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:45:30+05:30"
+  },
+  {
+    "id": "onlineradiobox_so.lrcm",
+    "name": "LRCM Radio (Somalia)",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/153039.v1.png",
+    "stream_url": "https://a8.asurahosting.com:8950/somalia.mp3",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Somalia",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:45:31+05:30"
+  },
+  {
+    "id": "onlineradiobox_so.risaala",
+    "name": "Radio Risaala",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/47846.v3.png",
+    "stream_url": "https://stream.zenolive.com/wwec0hwr0y5tv",
+    "website": "http://radiorisaala.com/",
+    "provider": "onlineradiobox",
+    "country": "Somalia",
+    "genres": [
+      "jazz",
+      "talk",
+      "country",
+      "sports"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:45:25+05:30"
+  },
+  {
+    "id": "onlineradiobox_so.tzgospel",
+    "name": "Tzgospel (Somalia)",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/120189.v7.png",
+    "stream_url": "https://stream.zeno.fm/gq991hm1zehvv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Somalia",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:45:31+05:30"
+  }
+]

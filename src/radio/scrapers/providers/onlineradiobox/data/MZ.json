@@ -1,0 +1,252 @@
+[
+  {
+    "id": "onlineradiobox_mz.08fieisemcristomaputo",
+    "name": "Radio Fieis Em Cristo",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/105032.v2.png",
+    "stream_url": "https://ssl.pnstream.com:7758/;",
+    "website": "https://adonaium05.wixsite.com/radiofieismaputo",
+    "provider": "onlineradiobox",
+    "country": "Mozambique",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:08:46+05:30"
+  },
+  {
+    "id": "onlineradiobox_mz.antennawebmaputo",
+    "name": "Antenna Web Maputo",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/134604.v2.png",
+    "stream_url": "https://tinyurl.com/AntennaWebMaputo",
+    "website": "https://antennaweb.it/antennaweb-maputo/",
+    "provider": "onlineradiobox",
+    "country": "Mozambique",
+    "genres": [
+      "rock",
+      "pop",
+      "blues",
+      "jazz",
+      "funk",
+      "reggaeton"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:08:49+05:30"
+  },
+  {
+    "id": "onlineradiobox_mz.egeagospel",
+    "name": "Rádio Egea Gospel - Heaven Full",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/88481.v3.png",
+    "stream_url": "https://stream.zeno.fm/gbktm9u0czzuv",
+    "website": "https://zeno.fm/radio-egea-gospel-heaven-full/",
+    "provider": "onlineradiobox",
+    "country": "Mozambique",
+    "genres": [
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:08:46+05:30"
+  },
+  {
+    "id": "onlineradiobox_mz.gnmozambique",
+    "name": "Gn Radio - Mozambique",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/150076.v1.png",
+    "stream_url": "https://a11.asurahosting.com:7360/mozambique.mp3",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Mozambique",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:08:50+05:30"
+  },
+  {
+    "id": "onlineradiobox_mz.grandesclassicosdamusica",
+    "name": "Grandes Clássicos da Música Moçambicana",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/136383.v1.png",
+    "stream_url": "https://stream.zeno.fm/bm29ouxe0hrtv",
+    "website": "https://zeno.fm/radio/grandes-classicos-da-musica-mocambicana/",
+    "provider": "onlineradiobox",
+    "country": "Mozambique",
+    "genres": [
+      "r'n'b",
+      "hip-hop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:08:47+05:30"
+  },
+  {
+    "id": "onlineradiobox_mz.hero",
+    "name": "Hero Radio (Mozambique)",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/139019.v1.png",
+    "stream_url": "https://a2.asurahosting.com:6790/mozambique.mp3",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Mozambique",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:08:45+05:30"
+  },
+  {
+    "id": "onlineradiobox_mz.kampua",
+    "name": "kampua FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/130374.v4.png",
+    "stream_url": "https://stream.zeno.fm/5kzmo6sbcysuv",
+    "website": "https://zeno.fm/player/kampua-fm-kjha",
+    "provider": "onlineradiobox",
+    "country": "Mozambique",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:08:44+05:30"
+  },
+  {
+    "id": "onlineradiobox_mz.lmradio",
+    "name": "LM Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/33787.v19.png",
+    "stream_url": "https://edge.iono.fm/xice/392_medium.aac",
+    "website": "https://lmradio.co.mz/",
+    "provider": "onlineradiobox",
+    "country": "Mozambique",
+    "genres": [
+      "classic rock",
+      "adult contemporary",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:08:41+05:30"
+  },
+  {
+    "id": "onlineradiobox_mz.lrcm",
+    "name": "LRCM Radio (Mozambique)",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/152997.v1.png",
+    "stream_url": "https://a8.asurahosting.com:8950/mozambique.mp3",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Mozambique",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:08:50+05:30"
+  },
+  {
+    "id": "onlineradiobox_mz.maputolive",
+    "name": "Radio Maputo Live",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/126861.v1.png",
+    "stream_url": "https://sonicpanel.oficialserver.com:7172/;",
+    "website": "https://radiomaputolivebrazil.blogspot.com/",
+    "provider": "onlineradiobox",
+    "country": "Mozambique",
+    "genres": [
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:08:51+05:30"
+  },
+  {
+    "id": "onlineradiobox_mz.mundialgospelmocambique",
+    "name": "Radio Mundial Gospel Moçambique",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/105198.v2.png",
+    "stream_url": "https://ssl.lscpainel.com.br:8310/;",
+    "website": "http://mocambique.radiomundialgospel.net/",
+    "provider": "onlineradiobox",
+    "country": "Mozambique",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:08:48+05:30"
+  },
+  {
+    "id": "onlineradiobox_mz.planetarapluso",
+    "name": "Rádio Planeta Rap LuSo",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/115954.v3.png",
+    "stream_url": "https://stream.zeno.fm/szs3r2e3cf9uv",
+    "website": "https://www.portalplanetarapluso.blogspot.com/",
+    "provider": "onlineradiobox",
+    "country": "Mozambique",
+    "genres": [
+      "rap",
+      "hip-hop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:08:44+05:30"
+  },
+  {
+    "id": "onlineradiobox_mz.radiomariamozambique",
+    "name": "Radio Maria",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/33796.v8.png",
+    "stream_url": "https://dreamsiteradiocp2.com/proxy/rmmozambique2?mp=/stream",
+    "website": "http://www.radiomaria.org.mz/",
+    "provider": "onlineradiobox",
+    "country": "Mozambique",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:08:43+05:30"
+  },
+  {
+    "id": "onlineradiobox_mz.radiomoambique",
+    "name": "Radio Moçambique Antena Nacional",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/33786.v14.png",
+    "stream_url": "https://node.stream-africa.com:8443/AntenaNacional",
+    "website": "http://www.rm.co.mz/",
+    "provider": "onlineradiobox",
+    "country": "Mozambique",
+    "genres": [
+      "news",
+      "talk",
+      "culture"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:08:42+05:30"
+  }
+]

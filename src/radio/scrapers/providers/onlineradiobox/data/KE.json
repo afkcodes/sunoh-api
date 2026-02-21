@@ -1,0 +1,5031 @@
+[
+  {
+    "id": "onlineradiobox_ke.001fm",
+    "name": "001 FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/121075.v4.png",
+    "stream_url": "https://stream.zeno.fm/h5sme55z67zuv",
+    "website": "https://zeno.fm/radio/001-fm/",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "news",
+      "entertainment",
+      "politics"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:39:31+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.254",
+    "name": "Radio 254",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/96756.v1.png",
+    "stream_url": "https://s4.radio.co/sba1f00abf/listen",
+    "website": "https://254.radio/",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "indie",
+      "african",
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:35:39+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.4210radio",
+    "name": "4210 Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/150896.v1.png",
+    "stream_url": "https://stream.zeno.fm/cbryk8f7rs8uv",
+    "website": "http://on4210.co.ke/",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "dance",
+      "r'n'b",
+      "pop",
+      "hip-hop",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:38:38+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.560christian",
+    "name": "560 Christian Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/94105.v12.png",
+    "stream_url": "https://stream.zeno.fm/csx5u88s3a0uv",
+    "website": "https://cr.relax103.com/",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "african",
+      "christian contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:33:42+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.560smoothjazz",
+    "name": "560 Smooth Jazz",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/94045.v3.png",
+    "stream_url": "https://stream.zeno.fm/tvtat3ru2a0uv",
+    "website": "https://smoothjazz.relax103.com/",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "soul",
+      "smooth jazz"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:33:48+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.abundance360live",
+    "name": "Abundance360 Live",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/100377.v2.png",
+    "stream_url": "https://stream.zeno.fm/tu1kenwfb8zuv",
+    "website": "https://abundance360live.wixsite.com/abundance360live",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:35:43+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.adventistangelswatchman",
+    "name": "Adventist Angels Watchman",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/81480.v10.png",
+    "stream_url": "https://stream.zeno.fm/0m5rnauhunhvv",
+    "website": "https://adventistangelsradio.wixsite.com/adventistangelswatch",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:35:39+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.antennawebnairobi",
+    "name": "Antenna Web Nairobi",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/130331.v3.png",
+    "stream_url": "https://tinyurl.com/Antenna-Web-Nairobi",
+    "website": "https://antennaweb.it/antennaweb-nairobi/",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "rock",
+      "pop",
+      "blues",
+      "jazz",
+      "funk",
+      "latin"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:39:29+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.aperit",
+    "name": "Radio Aperit",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/153813.v1.png",
+    "stream_url": "https://stream.aperit.fynradio.com",
+    "website": "https://aperitfm.co.ke/",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "news",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:42:07+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.ashe",
+    "name": "Radio Ashe",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/148310.v1.png",
+    "stream_url": "http://usa1-vn.mixstream.net:8086/listen.mp3",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "news",
+      "talk",
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:40:25+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.asriel",
+    "name": "Asriel Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/114761.v3.png",
+    "stream_url": "https://stream.zeno.fm/71mtvxzhzhhvv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:37:36+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.atgradio",
+    "name": "ATG Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/7339.v2.png",
+    "stream_url": "http://uk1-vn.mixstream.net:10024/;",
+    "website": "http://www.atgdeliveranceministry.com/",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "news",
+      "talk",
+      "african"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:42:17+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.awrafricaecd",
+    "name": "Awr Africa Ecd",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/148150.v1.png",
+    "stream_url": "https://stream.radiojar.com/2yw4qyh1cccwv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:35:40+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.bahari",
+    "name": "Bahari FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/125593.v6.png",
+    "stream_url": "https://baharifm-atunwadigital.streamguys1.com/baharifm",
+    "website": "https://royalmedia.co.ke/brands/bahari-fm/",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "african"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:35:49+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.banga",
+    "name": "Radio Banga",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/143822.v1.png",
+    "stream_url": "https://listen.radioking.com/radio/709820/stream/775358",
+    "website": "http://http/radiobanga.net",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "house",
+      "r'n'b",
+      "soul",
+      "afro beat"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:39:29+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.barakafm",
+    "name": "Baraka FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/7180.v6.png",
+    "stream_url": "http://s2.myradiostream.com:5788/;",
+    "website": "https://barakafm.co.ke/",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "pop",
+      "news",
+      "talk",
+      "sports",
+      "business"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:36:46+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.baraton",
+    "name": "Baraton FM 103.9",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/121384.v5.png",
+    "stream_url": "https://stream.zeno.fm/e47f2kkmb78uv",
+    "website": "https://ueab.ac.ke/",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "christian contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:38:35+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.base",
+    "name": "Uptown Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/111233.v12.png",
+    "stream_url": "https://stream.zeno.fm/uf424zqfuuhvv",
+    "website": "https://uptownradio.co.ke/",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:37:43+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.berurfm",
+    "name": "Berur FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/125601.v4.png",
+    "stream_url": "https://berurfm-atunwadigital.streamguys1.com/berurfm",
+    "website": "https://www.standardmedia.co.ke/berurfm/",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "news",
+      "african",
+      "education",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:40:18+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.beta",
+    "name": "Station Beta",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/113070.v8.png",
+    "stream_url": "https://stream.zeno.fm/1vqehdq05hhvv",
+    "website": "https://beta.co.ke/",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "pop",
+      "talk",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:36:53+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.bethel",
+    "name": "Bethel Radio (Kenya)",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/88147.v19.png",
+    "stream_url": "https://a5.asurahosting.com:7290/Kenya",
+    "website": "https://bethelradio.co.tz/",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "gospel",
+      "christian contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:34:37+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.bibliahusema",
+    "name": "Biblia Husema",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/7206.v11.png",
+    "stream_url": "https://bhbradio-atunwadigital.streamguys1.com/bhbradio",
+    "website": "http://bibliahusema.org/",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:33:39+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.biblicalfaith",
+    "name": "Biblical Faith Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/135718.v6.png",
+    "stream_url": "https://stream.zeno.fm/vuikpdaegk6tv",
+    "website": "https://biblicalfaith.net/",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:35:55+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.bikapkoret",
+    "name": "Bikapkoret Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/7198.v4.png",
+    "stream_url": "http://184.154.43.106:8176/stream",
+    "website": "http://www.bkfmradio.com/",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "news",
+      "talk",
+      "african"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:34:41+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.bk",
+    "name": "Bk Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/133947.v3.png",
+    "stream_url": "https://stream.bkradio1.fynradio.com",
+    "website": "https://zeno.fm/radio/bkradio/",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:39:32+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.blackpen",
+    "name": "Blackpen Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/114680.v4.png",
+    "stream_url": "https://stream.zeno.fm/9b4rnt8gfphvv",
+    "website": "https://www.blackpen.co.ke/",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "reggae",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:35:42+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.blessmarked",
+    "name": "Blessmarked Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/141022.v3.png",
+    "stream_url": "https://servidor20.brlogic.com:7092/live",
+    "website": "https://blessmarkedradio.co.ke/",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "country",
+      "gospel",
+      "afro beat"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:41:21+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.blitz254",
+    "name": "Blitz fm 254",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/136616.v13.png",
+    "stream_url": "http://uk17freenew.listen2myradio.com:4022/;",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "hip-hop",
+      "reggae",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:37:46+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.bloom",
+    "name": "Bloom Radio KE",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/7300.v6.png",
+    "stream_url": "https://listen.radioking.com/radio/184609/stream/226666",
+    "website": "http://bloomradio.co.ke/",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "asian",
+      "african",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:34:46+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.blue",
+    "name": "BLUE RADIO",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/116172.v4.png",
+    "stream_url": "https://servidor24.brlogic.com:7630/live?",
+    "website": "https://blueradio.co.ke/",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:38:31+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.bomet",
+    "name": "Kericho Main Altar Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/108530.v13.png",
+    "stream_url": "https://stream.zeno.fm/v7ngcbhmb78uv",
+    "website": "https://zeno.fm/radio/kericho-main-altar/",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:33:34+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.bometradio",
+    "name": "Bomet Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/125042.v6.png",
+    "stream_url": "https://stream.zeno.fm/nhbjl3jo5sjvv",
+    "website": "https://zeno.fm/radio/bomet-region-radio-kilo/",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:42:15+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.boost",
+    "name": "Boost Fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/131972.v3.png",
+    "stream_url": "https://listen.radioking.com/radio/625420/stream/687694",
+    "website": "http://boostfm.net/",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "dance",
+      "house",
+      "club",
+      "funk",
+      "afro beat"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:37:37+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.bossnanainternational",
+    "name": "BossNana International Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/128895.v5.png",
+    "stream_url": "https://stream.zeno.fm/fisaex4kdx0vv",
+    "website": "https://radio.bossnanaintl.com/",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "dance",
+      "pop",
+      "hip-hop",
+      "reggae",
+      "african",
+      "gospel",
+      "afro beat"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:34:44+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.bus",
+    "name": "Bus Radio 99.9 FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/151703.v3.png",
+    "stream_url": "https://stream.zeno.fm/v8ajo3atw0ntv",
+    "website": "https://zeno.fm/radio/bus-radio-99-9fm/",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "talk",
+      "reggae",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:40:19+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.cambridge",
+    "name": "Cambridge Radio Kitale",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/130188.v2.png",
+    "stream_url": "https://stream.zeno.fm/juawqp6nkh2tv",
+    "website": "https://zeno.fm/radio/cambridge-radio/",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "reggae",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:42:12+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.cambridgeuniversalcollege",
+    "name": "Cambridge Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/111609.v8.png",
+    "stream_url": "https://stream.zeno.fm/4gwr8bpxuchvv",
+    "website": "https://www.cambridge.co.ke/",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "talk",
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:36:42+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.campuskenya",
+    "name": "Campus Radio Kenya",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/72243.v11.png",
+    "stream_url": "https://stream.zeno.fm/9a87d8v1v8quv",
+    "website": "https://www.campusradio.co.ke/",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "rock",
+      "r'n'b",
+      "hip-hop",
+      "reggae"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:32:37+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.capital",
+    "name": "Capital Fm Kenya",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/88890.v13.png",
+    "stream_url": "https://capitalfm-atunwadigital.streamguys1.com/capitalfm",
+    "website": "https://radio.capitalfm.co.ke/",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "rock",
+      "r'n'b",
+      "news",
+      "talk",
+      "rap",
+      "hip-hop",
+      "sports"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:32:34+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.casper",
+    "name": "Casper Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/128787.v1.png",
+    "stream_url": "https://stream.zeno.fm/v8409sk1np8uv",
+    "website": "https://zeno.fm/radio/casper-radiof2359sk1np8uv/",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:39:26+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.chamgei",
+    "name": "Chamgei FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/125591.v6.png",
+    "stream_url": "https://chamgeifm-atunwadigital.streamguys1.com/chamgeifm",
+    "website": "https://royalmedia.co.ke/brands/chamgei-fm/",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "news",
+      "african",
+      "community"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:41:23+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.chania",
+    "name": "Chania FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/82105.v4.png",
+    "stream_url": "https://servidor27.brlogic.com:8816/live",
+    "website": "https://www.chaniafm.co.ke/",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "country"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:37:46+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.choiceradio",
+    "name": "Choice Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/88001.v7.png",
+    "stream_url": "https://uksoutha.streaming.broadcast.radio/choiceradio",
+    "website": "http://choice.radio/",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "oldies",
+      "adult contemporary",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:33:33+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.citizen",
+    "name": "Radio Citizen",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/125622.v4.png",
+    "stream_url": "https://radiocitizen-atunwadigital.streamguys1.com/radiocitizen",
+    "website": "https://www.royalmedia.co.ke/brands/radio-citizen/",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "news",
+      "talk",
+      "african"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:32:41+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.cityoflife",
+    "name": "City of Life",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/86600.v5.png",
+    "stream_url": "https://stream.zeno.fm/udvq7ufx3tzuv",
+    "website": "https://zeno.fm/city-of-life/",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:39:22+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.classic105",
+    "name": "Classic 105",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/7188.v9.png",
+    "stream_url": "https://classic105-atunwadigital.streamguys1.com/classic105",
+    "website": "https://classic105.com/",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "rock",
+      "r'n'b",
+      "pop",
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:32:26+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.classy",
+    "name": "Classy Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/134243.v1.png",
+    "stream_url": "https://stream.zeno.fm/bwkmarblnwbuv",
+    "website": "https://classymedia.co.ke/",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "r'n'b",
+      "jazz",
+      "comedy",
+      "politics"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:40:26+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.coelib",
+    "name": "CoELIB Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/108638.v2.png",
+    "stream_url": "https://stream.zeno.fm/8s30t2bc938uv",
+    "website": "http://radio.coelib.org/",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "pop",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:37:44+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.countrylegacy",
+    "name": "Country Legacy Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/129667.v1.png",
+    "stream_url": "https://stream.radiojar.com/y07ptt396yuvv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "country"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:37:35+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.countrypride",
+    "name": "CountryPride Fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/103286.v2.png",
+    "stream_url": "https://stream.zeno.fm/wt1bsx9x4s8uv",
+    "website": "https://zeno.fm/countrypride-fm0vafsx9x4s8uv/",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:37:42+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.ctg",
+    "name": "Ctg Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/117548.v1.png",
+    "stream_url": "https://stream.zeno.fm/dbpz5fwbg0hvv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:41:15+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.dapstrem",
+    "name": "Dapstrem Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/93969.v3.png",
+    "stream_url": "https://stream.zeno.fm/18uq8nypxueuv",
+    "website": "https://radio.dapstrem.com/",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "pop",
+      "reggae",
+      "african",
+      "dancehall"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:33:43+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.daradio",
+    "name": "Da Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/118433.v5.png",
+    "stream_url": "https://stream.zeno.fm/chw3bmb6qtzuv",
+    "website": "https://danetworks.co.ke/",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:35:51+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.dayo",
+    "name": "Dayo Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/139329.v1.png",
+    "stream_url": "https://servidor40-5.brlogic.com:7120/live",
+    "website": "https://dayoradio.com/",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "news",
+      "talk",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:39:31+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.dftnews",
+    "name": "Dft News Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/125257.v1.png",
+    "stream_url": "https://stream.zeno.fm/rd72diivv7huv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "news",
+      "hip-hop",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:35:46+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.divinedestiny",
+    "name": "Divine Destiny Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/90464.v5.png",
+    "stream_url": "https://stream.zeno.fm/qc2wefme2wzuv",
+    "website": "https://www.devinedestinytv.co.ke/",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:39:30+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.doctorsexplain",
+    "name": "Doctors Explain FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/104012.v4.png",
+    "stream_url": "https://stream.zeno.fm/w7h7ffg9vv8uv",
+    "website": "https://doctorsexplain.net/",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "lifestyle"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:39:28+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.eastfm",
+    "name": "East FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/101613.v9.png",
+    "stream_url": "https://eastfm-atunwadigital.streamguys1.com/eastfm",
+    "website": "https://eastfm.com/",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "news",
+      "bollywood",
+      "indian",
+      "asian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:38:37+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.egesa",
+    "name": "Egesa FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/125588.v6.png",
+    "stream_url": "https://egesafm-atunwadigital.streamguys1.com/egesafm",
+    "website": "https://atunwadigital.com/clients/egesa-fm/",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "news",
+      "african"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:34:46+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.elwaicentre",
+    "name": "Elwai Centre",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/81691.v4.png",
+    "stream_url": "http://uk3.internet-radio.com:8151/live",
+    "website": "https://www.internet-radio.com/station/elwaisuswa/",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "house",
+      "pop",
+      "soul",
+      "african"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:42:10+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.emoofm",
+    "name": "Emoo FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/127796.v5.png",
+    "stream_url": "https://emoofm-atunwadigital.streamguys1.com/emoofm",
+    "website": "https://www.mediamax.app/emoo-fm",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "pop",
+      "news",
+      "talk",
+      "folk",
+      "culture",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:36:56+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.ereto",
+    "name": "Ereto FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/99748.v3.png",
+    "stream_url": "https://stream.zeno.fm/97h8zzdgzk8uv",
+    "website": "https://eretofm.wixsite.com/ereto-fm",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "news",
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:38:28+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.evkeskus",
+    "name": "EVkeskus",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/136427.v1.png",
+    "stream_url": "http://uk1.internet-radio.com:8030/;",
+    "website": "https://elwaicentre.co.ke/",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "soul",
+      "reggae",
+      "afropop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:40:24+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.fahamu",
+    "name": "Radio Daima",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/90020.v11.png",
+    "stream_url": "https://stream.radiojar.com/gdd5qhmrg48uv",
+    "website": "https://radiodaima.com/",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "news",
+      "talk",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:36:47+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.family316",
+    "name": "Family Radio 316",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/7279.v6.png",
+    "stream_url": "https://uksoutha.streaming.broadcast.radio/familyradio",
+    "website": "http://www.radio316.net/",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "pop",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:34:36+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.feel",
+    "name": "Feel Radio Kenya",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/116877.v4.png",
+    "stream_url": "https://stream.zeno.fm/9wx5m6mxnuhvv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "electronic",
+      "house",
+      "hip-hop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:39:23+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.flamingo",
+    "name": "Flamingo Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/102139.v2.png",
+    "stream_url": "https://stream.zeno.fm/215bpympks8uv",
+    "website": "https://www.flamingoradio.co.ke/",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:35:41+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.fortuneafrica",
+    "name": "Radio Fortune Africa",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/133745.v4.png",
+    "stream_url": "https://stream.zeno.fm/ic7dh2xdqpjtv",
+    "website": "https://cantonajoseph.wordpress.com/",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "news",
+      "talk",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:39:33+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.fuse",
+    "name": "Fuse Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/115521.v5.png",
+    "stream_url": "https://s1.free-shoutcast.com/stream/18036",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "pop",
+      "afropop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:35:48+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.galaxyfm",
+    "name": "Galaxy FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/127798.v4.png",
+    "stream_url": "https://galaxyfm-atunwadigital.streamguys1.com/galaxyfm",
+    "website": "https://www.mediamax.app/galaxy-fm",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "pop",
+      "folk",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:33:43+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.gcn",
+    "name": "GCN Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/125929.v12.png",
+    "stream_url": "https://stream.zeno.fm/burwwsapoh4vv",
+    "website": "https://ngreatcommission.wixsite.com/my-site",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "talk",
+      "christian",
+      "business",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:34:37+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.gee",
+    "name": "Gee Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/96785.v43.png",
+    "stream_url": "https://stream.zeno.fm/9zrswadfgfhvv",
+    "website": "https://geeradio.co.ke/",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "news",
+      "talk",
+      "easy listening",
+      "african",
+      "gospel",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:32:39+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.generation",
+    "name": "Radio Generation",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/149017.v2.png",
+    "stream_url": "https://radiogeneration-atunwadigital.streamguys1.com/radiogeneration",
+    "website": "https://rgk.co.ke/",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:39:27+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.gengetone",
+    "name": "Gengetone Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/123397.v3.png",
+    "stream_url": "https://stream.zeno.fm/68tsxiukooivv",
+    "website": "https://gengetoneradio.com/",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "dance",
+      "r'n'b",
+      "pop",
+      "hip-hop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:38:39+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.ghettoradio",
+    "name": "Ghetto Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/7275.v6.png",
+    "stream_url": "https://stream.zeno.fm/t2wky7h647zuv",
+    "website": "http://ghettoradio.co.ke/",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "news",
+      "talk",
+      "sports"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:32:30+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.gloriousnewness",
+    "name": "Glorious Newness Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/148123.v3.png",
+    "stream_url": "https://a11.asurahosting.com:7360/kenya.mp3",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:40:30+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.gotchscape",
+    "name": "Gotchscape Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/104776.v18.png",
+    "stream_url": "https://stream.zeno.fm/qgfdxg45by8uv",
+    "website": "https://radio.gotchscape.com/",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "dance",
+      "pop",
+      "hip-hop",
+      "reggae",
+      "african",
+      "gospel",
+      "afro beat"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:36:40+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.gukena",
+    "name": "Gukena FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/92596.v6.png",
+    "stream_url": "https://gukenafm-atunwadigital.streamguys1.com/gukenafm",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "folk",
+      "ethnic",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:38:29+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.haliradio",
+    "name": "Hali Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/149932.v1.png",
+    "stream_url": "https://stream.haliradio.co.ke/listen/hali_radio/radio.mp3",
+    "website": "https://haliradio.co.ke/",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "ethnic",
+      "african",
+      "afropop",
+      "afro beat"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:36:49+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.halisi",
+    "name": "Radio Halisi",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/102905.v2.png",
+    "stream_url": "https://stream.zeno.fm/aev429t1238uv",
+    "website": "https://www.radiohalisi.co.ke/",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "r'n'b",
+      "hip-hop",
+      "country",
+      "reggae"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:35:46+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.hbr",
+    "name": "Homeboyz Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/7187.v7.png",
+    "stream_url": "https://homeboyzradio-atunwadigital.streamguys1.com/homeboyzradio",
+    "website": "http://hbr.co.ke/",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "r'n'b",
+      "news",
+      "hip-hop",
+      "soul",
+      "sports"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:32:28+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.heartke",
+    "name": "Heart Radio Ke",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/135151.v1.png",
+    "stream_url": "https://stream.zeno.fm/qgvdu32y298uv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "christian contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:38:33+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.heaven",
+    "name": "Heaven FM Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/121412.v8.png",
+    "stream_url": "https://stream.zeno.fm/eequgfw72hhvv",
+    "website": "https://zeno.fm/radio/heaven-fm-radio/",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "news",
+      "talk",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:41:13+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.hero",
+    "name": "Smash Jam Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/76968.v8.png",
+    "stream_url": "https://stream.zeno.fm/gfds6bn5mceuv",
+    "website": "https://smashjam.co.ke/",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:32:44+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.herokenya",
+    "name": "Hero Radio (Kenya)",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/138749.v3.png",
+    "stream_url": "https://a2.asurahosting.com:6790/kenya.mp3",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:39:25+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.herornb",
+    "name": "Hero Fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/77685.v19.png",
+    "stream_url": "https://stream.zeno.fm/mbpgmuumubruv",
+    "website": "http://www.hero.co.ke/",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "r'n'b",
+      "blues",
+      "soul"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:33:42+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.hey",
+    "name": "Hey Radio Kenya",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/109198.v2.png",
+    "stream_url": "https://stream.zeno.fm/618ckb3y298uv",
+    "website": "https://zeno.fm/heyradioke/",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "pop",
+      "culture"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:34:47+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.hiphopdaily",
+    "name": "Hip-Hop Daily",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/102729.v3.png",
+    "stream_url": "https://stream.zeno.fm/k6wxk944rs8uv",
+    "website": "https://zeno.fm/juice-wrldu1sr6744rs8uv/",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "hip-hop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:33:34+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.hiphopgin",
+    "name": "Hiphop Gin",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/100613.v1.png",
+    "stream_url": "https://stream.zeno.fm/m25b7vevgm8uv",
+    "website": "https://zeno.fm/hiphop-gin/",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "rap",
+      "hip-hop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:33:41+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.hitimuedustream",
+    "name": "Hitimu EduStream",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/149292.v2.png",
+    "stream_url": "https://stream.radiojar.com/1pqbz9p40hcwv",
+    "website": "https://hitimu.academy/",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "education"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:40:29+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.hitskenya",
+    "name": "Hits Radio Kenya",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/105360.v6.png",
+    "stream_url": "https://stream.zeno.fm/xfdc36hmyk8uv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:34:49+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.hitsonline",
+    "name": "Hitsonlineradio",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/110480.v1.png",
+    "stream_url": "https://stream.zeno.fm/35yrmxz5af9uv",
+    "website": "https://zeno.fm/radio/HITSONLINERADIO/",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "r'n'b",
+      "pop",
+      "news",
+      "talk",
+      "hip-hop",
+      "reggae",
+      "sports",
+      "african"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:37:36+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.hoodkenya",
+    "name": "HoodRadio Kenya",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/103389.v4.png",
+    "stream_url": "https://stream.zeno.fm/c5rnvrw071zuv",
+    "website": "http://www.hoodradio.co.ke/",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "r'n'b",
+      "hip-hop",
+      "reggae"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:35:53+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.hopefm",
+    "name": "Hope FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/7128.v19.png",
+    "stream_url": "https://a5.asurahosting.com:7530/radio.mp3",
+    "website": "https://www.hopemediakenya.org/",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:32:34+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.hot96",
+    "name": "Hot96 FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/125619.v4.png",
+    "stream_url": "https://hot96-atunwadigital.streamguys1.com/hot96",
+    "website": "http://hot96.co.ke/",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "pop",
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:36:46+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.iced",
+    "name": "Iced Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/101557.v26.png",
+    "stream_url": "https://usa14.fastcast4u.com/proxy/xhkiivzu?mp=/1",
+    "website": "https://icedradio.co.ke/",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "hip-hop",
+      "reggae",
+      "dancehall"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:34:35+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.inooro",
+    "name": "Inooro FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/125594.v7.png",
+    "stream_url": "https://inoorofm-atunwadigital.streamguys1.com/inoorofm",
+    "website": "https://atunwadigital.com/clients/kenya-fm/",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "news",
+      "african",
+      "entertainment",
+      "community"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:36:45+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.insiderflix",
+    "name": "Identity Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/112242.v5.png",
+    "stream_url": "https://stream.zeno.fm/x7anzwb69ehvv",
+    "website": "https://radio.identitynewsroom.com/",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "rock",
+      "pop",
+      "hip-hop",
+      "reggae",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:36:40+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.io",
+    "name": "Io Radioke",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/139083.v9.png",
+    "stream_url": "https://stream.zeno.fm/pxschq5bqbotv",
+    "website": "https://zeno.fm/radio/io-radioke/",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "pop",
+      "news",
+      "sports"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:40:17+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.islandoke",
+    "name": "Islando Radio Ke",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/115026.v2.png",
+    "stream_url": "https://stream.zeno.fm/d7v11s4pxrhvv",
+    "website": "https://zeno.fm/radio/islando-radio/",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "pop",
+      "folk",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:36:43+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.ithepartystation",
+    "name": "iFM - The Party Station",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/96717.v4.png",
+    "stream_url": "http://173.212.254.213/listen/ifm_-_the_party_station/radio.mp3",
+    "website": "https://www.ifm.co.ke/",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "dance",
+      "top40",
+      "reggae",
+      "african"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:34:36+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.jabulani",
+    "name": "Jabulani Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/145577.v2.png",
+    "stream_url": "https://listen.radioking.com/radio/626272/stream/688567",
+    "website": "https://www.jabulaniradio.com/",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "club",
+      "80s",
+      "70s",
+      "african",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:34:47+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.jamii",
+    "name": "Radio Jamii 103.9FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/127246.v1.png",
+    "stream_url": "https://stream.zeno.fm/f1nhxhppdaavv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "dance",
+      "pop",
+      "christian",
+      "reggae",
+      "gospel",
+      "afro beat"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:39:27+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.jangwani",
+    "name": "Radio Jangwani",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/152197.v1.png",
+    "stream_url": "https://stream.zeno.fm/58y70ewrqkeuv",
+    "website": "https://radiojangwani.com/",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:42:18+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.jawabu",
+    "name": "Jawabu Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/124075.v2.png",
+    "stream_url": "https://stream.zeno.fm/m4vehawythwtv",
+    "website": "https://zeno.fm/radio/jawabu-radio/",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:38:33+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.jay",
+    "name": "Jay Fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/146228.v1.png",
+    "stream_url": "https://stream.zeno.fm/geapkb665rquv",
+    "website": "https://www.jayfm.co/",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "rock",
+      "r'n'b",
+      "blues",
+      "news",
+      "talk",
+      "classic",
+      "hip-hop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:41:22+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.jerusalem",
+    "name": "Jerusalem Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/138830.v15.png",
+    "stream_url": "https://stream.zeno.fm/7wwdxe633eivv",
+    "website": "https://zeno.fm/radio/jerusalem-radio-qfx8/",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:39:23+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.jesusislord",
+    "name": "Jesus is Lord Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/77895.v3.png",
+    "stream_url": "https://s3.radio.co/s97f38db97/listen",
+    "website": "https://jesusislordradio.info/",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:32:25+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.jesusistheway",
+    "name": "JESUS IS THE WAY RADIO",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/137471.v16.png",
+    "stream_url": "https://stream.zeno.fm/njvhc5oe6tzvv",
+    "website": "https://zeno.fm/radio/jesus-is-the-way-radio/",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:35:43+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.jradio",
+    "name": "Favor Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/137882.v31.png",
+    "stream_url": "https://a4.asurahosting.com/hls/favor_radio/live.m3u8",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:33:35+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.jujaaltar",
+    "name": "Juja Region",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/108091.v5.png",
+    "stream_url": "https://stream.zeno.fm/5w8y7wcf9x8uv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:32:31+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.k",
+    "name": "Radio K",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/135099.v3.png",
+    "stream_url": "https://play.radioking.io/radio-k4",
+    "website": "http://http/radiok.net",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "house",
+      "r'n'b",
+      "soul",
+      "afro beat"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:38:36+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.kalya",
+    "name": "Kalya FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/115668.v5.png",
+    "stream_url": "https://s1.free-shoutcast.com/stream/18006",
+    "website": "http://kalyafm.co.ke/",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:41:14+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.kamemefm",
+    "name": "Kameme FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/7127.v12.png",
+    "stream_url": "https://kamemefm-atunwadigital.streamguys1.com/kamemefm",
+    "website": "https://mediamaxnetwork.co.ke/",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "news",
+      "talk",
+      "sports"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:32:28+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.kassfm",
+    "name": "Kass FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/7168.v4.png",
+    "stream_url": "http://media.kassfm.co.ke:8006/live",
+    "website": "http://kassfm.co.ke/",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "news",
+      "talk",
+      "sports"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:33:45+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.kbcenglishservice",
+    "name": "KBC English Service",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/145578.v3.png",
+    "stream_url": "https://stream.zeno.fm/mhmwnyyst5quv",
+    "website": "https://www.kbc.co.ke/radio/",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "pop",
+      "news",
+      "talk",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:33:42+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.kenya1live",
+    "name": "Kenya1 Fm Live",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/107757.v1.png",
+    "stream_url": "https://stream.zeno.fm/cmgkmed5u18uv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "news",
+      "talk",
+      "politics"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:37:43+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.kigogomedia",
+    "name": "Mikwekwe Fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/109294.v3.png",
+    "stream_url": "https://stream.zeno.fm/1fzvaa26p98uv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "pop",
+      "hip-hop",
+      "reggae",
+      "african",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:38:30+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.kijitochauzima",
+    "name": "Kijito Cha Uzima FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/149619.v2.png",
+    "stream_url": "https://a6.asurahosting.com:8800/radio.mp3",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:33:47+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.kikaovisual",
+    "name": "Kikao Visual Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/105117.v2.png",
+    "stream_url": "https://stream.zeno.fm/ds3b21hvyv8uv",
+    "website": "https://zeno.fm/radio/KikaoVisualRadio/",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:38:38+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.kimnet",
+    "name": "Kimnet Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/144075.v2.png",
+    "stream_url": "https://stream.radiojar.com/ghxcfk7sq3bwv",
+    "website": "https://kimnetmedia.com/",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "talk",
+      "afro beat"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:38:30+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.kimuri",
+    "name": "Kimuri Radio 100.6FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/139492.v1.png",
+    "stream_url": "https://stream.zeno.fm/a6bxrnucz38uv",
+    "website": "https://radiokimuri.co.ke/",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "news",
+      "politics"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:42:06+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.kings101",
+    "name": "Kings 101 Fm Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/151726.v1.png",
+    "stream_url": "https://stream.hostbee.nl:8425/stream",
+    "website": "https://kings101fmradio.ct.ws/",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:41:25+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.kiss100",
+    "name": "Kiss 100 Kenya",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/7175.v9.png",
+    "stream_url": "https://kiss100fm-atunwadigital.streamguys1.com/kiss100fm",
+    "website": "https://kiss100.co.ke/",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "dance",
+      "pop",
+      "hip-hop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:32:31+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.kochfm",
+    "name": "KOCH FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/146665.v3.png",
+    "stream_url": "https://kochfm-atunwadigital.streamguys1.com/KochFM",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "news",
+      "talk",
+      "african",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:40:31+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.kokwo",
+    "name": "Kokwo Fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/96450.v10.png",
+    "stream_url": "https://stream.kokwo.co.ke/listen.mp3",
+    "website": "https://kokwo.co.ke/",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "news",
+      "talk",
+      "african"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:40:27+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.kzone",
+    "name": "Kzone Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/140097.v4.png",
+    "stream_url": "https://play.radioking.io/kzone-radio3",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "house",
+      "r'n'b",
+      "soul",
+      "afro beat"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:41:16+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.lionafrica",
+    "name": "Longa Radio Kenya",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/106697.v5.png",
+    "stream_url": "https://stream.zeno.fm/nff1e12ee18uv",
+    "website": "https://zeno.fm/longa-radio-ke/",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "talk",
+      "african"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:38:39+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.lionafriq",
+    "name": "LionafriQ Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/78827.v8.png",
+    "stream_url": "https://azura12.instainternet.com/radio/8010/radio.mp3",
+    "website": "https://lionafriqradio.com/",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "dance",
+      "house"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:35:42+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.livecity",
+    "name": "LIVECITY  RADIO Ke",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/105849.v8.png",
+    "stream_url": "https://stream.zeno.fm/eby0qz48508uv",
+    "website": "https://zeno.fm/livecity_ke/",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "r'n'b",
+      "classic",
+      "hip-hop",
+      "soul",
+      "reggae",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:33:40+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.lokoi",
+    "name": "Lokoi FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/153600.v2.png",
+    "stream_url": "https://stream.lokoifm.fynradio.com",
+    "website": "https://lokoifm.co.ke/",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "news",
+      "talk",
+      "african"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:42:09+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.lookupke",
+    "name": "Look-UP Radio KE",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/106636.v1.png",
+    "stream_url": "https://stream.zeno.fm/2k0x62rvea0uv",
+    "website": "http://www.look-up.tv/",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:41:20+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.lovechrist",
+    "name": "Love Christ Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/139681.v1.png",
+    "stream_url": "https://stream.zeno.fm/2hnxnpv7zbhtv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:41:12+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.lrcm",
+    "name": "LRCM Radio (Kenya)",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/152271.v2.png",
+    "stream_url": "https://a8.asurahosting.com:8950/kenya.mp3",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:41:18+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.lubao",
+    "name": "Lubao FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/74679.v12.png",
+    "stream_url": "http://41.90.160.186:88/broadwave.m3u",
+    "website": "http://www.lubaofm.co.ke/",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "news",
+      "sports"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:37:38+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.lulufm",
+    "name": "Lulu FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/150742.v2.png",
+    "stream_url": "https://lulufm-atunwadigital.streamguys1.com/lulufm",
+    "website": "https://www.lulufm.co.ke/",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:40:29+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.luvnmusic",
+    "name": "LuvNMusic Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/135008.v2.png",
+    "stream_url": "https://stream.zeno.fm/yq9ners907xuv",
+    "website": "https://luvnmusic.store/settings",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "blues",
+      "talk",
+      "country",
+      "instrumental",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:41:13+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.m37",
+    "name": "M37 Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/111587.v3.png",
+    "stream_url": "https://stream.zeno.fm/0g57r91c038uv",
+    "website": "http://www.m37radio.co.ke/",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "top40",
+      "gospel",
+      "adult contemporary",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:37:41+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.machakosmainaltar",
+    "name": "Machakos Main Altar Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/146677.v1.png",
+    "stream_url": "https://stream.zeno.fm/mnnjrbq7l6muv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:40:28+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.maisha",
+    "name": "Radio Maisha",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/125596.v3.png",
+    "stream_url": "https://radiomaisha-atunwadigital.streamguys1.com/radiomaisha",
+    "website": "https://www.standardmedia.co.ke/radiomaisha",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "news",
+      "african"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:37:37+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.makinikaradio",
+    "name": "Makinika Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/77425.v20.png",
+    "stream_url": "https://stream.zeno.fm/wbg2tf2gp3quv",
+    "website": "https://www.makinikaradio.co.ke/",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:32:38+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.mamlaka",
+    "name": "Mamlaka TV",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/128776.v2.png",
+    "stream_url": "https://stream.zeno.fm/j8okibiw9s5uv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:40:17+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.mariakenya",
+    "name": "Radio Maria",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/7184.v16.png",
+    "stream_url": "https://dreamsiteradiocp5.com/proxy/rmkenyanai?mp=/stream",
+    "website": "http://www.radiomaria.co.ke/",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "talk",
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:34:42+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.masihiredioafrika",
+    "name": "Masihi Redio Afrika",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/141306.v2.png",
+    "stream_url": "https://stream.zeno.fm/frbtfbiq7yxvv",
+    "website": "https://zeno.fm/radio/masihiredio/",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:42:13+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.mayian",
+    "name": "Mayian FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/7205.v13.png",
+    "stream_url": "https://mayianfm-atunwadigital.streamguys1.com/mayianfm?",
+    "website": "https://mediamaxnetwork.co.ke/",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "news",
+      "talk",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:33:39+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.mba",
+    "name": "MBA Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/106187.v4.png",
+    "stream_url": "https://stream.zeno.fm/3k686ry0xwzuv",
+    "website": "https://zeno.fm/mba-radio/",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:36:44+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.mbci",
+    "name": "MBCI Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/119462.v2.png",
+    "stream_url": "https://mbciradio.portmap.io:2023/stream.mp3",
+    "website": "https://mbcimedia.com/",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:41:24+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.mediazone",
+    "name": "MediaZone Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/125265.v2.png",
+    "stream_url": "https://stream.zeno.fm/nwazecuahyjvv",
+    "website": "https://mediazone.data.blog/",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "news",
+      "afro beat"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:37:40+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.mellowcream",
+    "name": "Mellow Cream Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/124635.v3.png",
+    "stream_url": "https://stream.zeno.fm/m8q7xfiuhnfvv",
+    "website": "https://zeno.fm/radio/mellow-cream-radio/",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "r'n'b"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:37:39+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.meru",
+    "name": "Meru Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/7204.v12.png",
+    "stream_url": "https://merufm-atunwadigital.streamguys1.com/merufm",
+    "website": "https://mediamaxnetwork.co.ke/",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "pop",
+      "news",
+      "talk",
+      "sports",
+      "african"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:33:36+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.metrokbc",
+    "name": "Iftiin FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/7189.v11.png",
+    "stream_url": "https://stream.zeno.fm/1v7yr8499yzuv",
+    "website": "http://www.iftiinfm.co.ke/",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "pop",
+      "reggae"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:41:24+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.mgospel",
+    "name": "Mgospelradio",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/118373.v10.png",
+    "stream_url": "https://a2.asurahosting.com/listen/mgospelradio/radio.mp3",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:42:12+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.midzi",
+    "name": "Midzi Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/101774.v5.png",
+    "stream_url": "https://stream.zeno.fm/nk48y55tbq8uv",
+    "website": "https://zeno.fm/radio/midzi-radio/",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:36:48+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.mightylove",
+    "name": "Mighty Love Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/140229.v4.png",
+    "stream_url": "https://stream.zeno.fm/r3f4xcxyz08uv",
+    "website": "https://zeno.fm/radio/mighty-love-radio/",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:41:24+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.milelefm",
+    "name": "Milele FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/7169.v13.png",
+    "stream_url": "https://milelefm-atunwadigital.streamguys1.com/milelefm",
+    "website": "https://milelefm.co.ke/",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "rock",
+      "r'n'b",
+      "pop",
+      "hip-hop",
+      "african",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:32:32+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.mixx560",
+    "name": "Mixx Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/94104.v5.png",
+    "stream_url": "https://stream.zeno.fm/ewm8r1at3a0uv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:32:42+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.mizizi",
+    "name": "560 Power Country",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/84979.v8.png",
+    "stream_url": "https://stream.zeno.fm/181zrps10a0uv",
+    "website": "https://zeno.fm/power-560-country/",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "talk",
+      "country"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:33:44+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.mohits",
+    "name": "MoHits Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/108746.v4.png",
+    "stream_url": "https://stream.zeno.fm/dd4z25cx868uv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "r'n'b",
+      "blues",
+      "hip-hop",
+      "soul",
+      "reggae"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:34:43+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.moroni",
+    "name": "Moroni Gospel Online Radio Africa",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/78780.v9.png",
+    "stream_url": "https://stream.zeno.fm/ey4xepfss0quv",
+    "website": "https://moroni-radio-africa.webnode.com/",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:35:56+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.mradio",
+    "name": "M Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/74523.v28.png",
+    "stream_url": "https://stream.zeno.fm/ke8zyg6vnpyuv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "news",
+      "talk",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:34:35+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.msenangufm",
+    "name": "Msenangu FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/127797.v4.png",
+    "stream_url": "https://msenangufm-atunwadigital.streamguys1.com/msenangufm",
+    "website": "https://mediamaxnetwork.co.ke/",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "pop",
+      "folk",
+      "culture",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:34:50+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.mtzionradio",
+    "name": "Mt Zion Radio KE",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/114467.v16.png",
+    "stream_url": "https://stream.zeno.fm/d79xxb0rrfhvv",
+    "website": "https://www.mtzionradioke.com/",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "reggae",
+      "gospel",
+      "afro beat"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:32:26+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.mucheke",
+    "name": "MUCHEKE FM RADIO",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/146826.v3.png",
+    "stream_url": "https://stream.zeno.fm/y6wbmkrbckitv",
+    "website": "https://zeno.fm/radio/mucheke-fm-radio/",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:38:31+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.mugambowamugikuyu",
+    "name": "Mugambo Wa Mugikuyu FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/81285.v5.png",
+    "stream_url": "https://stream.zeno.fm/47e5brvztfeuv",
+    "website": "https://zeno.fm/mugambowamugikuyufm/",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "african"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:33:37+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.muingi",
+    "name": "Múingí Fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/104052.v15.png",
+    "stream_url": "https://stream.zeno.fm/byvy0ijxvz2tv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "african",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:35:44+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.mulembe",
+    "name": "Mulembe FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/125587.v9.png",
+    "stream_url": "https://mulembefm-atunwadigital.streamguys1.com/mulembefm",
+    "website": "https://atunwadigital.com/clients/mulembe-fm/",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "news",
+      "talk",
+      "african"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:36:52+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.murata",
+    "name": "Murata Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/99073.v8.png",
+    "stream_url": "https://stream.zeno.fm/qw9zzkrfvg0uv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "news",
+      "talk",
+      "sports"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:36:45+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.musyi",
+    "name": "Musyi FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/125592.v6.png",
+    "stream_url": "https://musyifm-atunwadigital.streamguys1.com/musyifm",
+    "website": "https://royalmedia.co.ke/brands/musyi-fm/",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "african",
+      "culture"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:41:17+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.mwaki",
+    "name": "Mwaki FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/83640.v4.png",
+    "stream_url": "https://stream.zeno.fm/9x7dsdunknruv",
+    "website": "https://zeno.fm/mwakifm/",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "talk",
+      "roots",
+      "reggae",
+      "gospel",
+      "afropop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:33:50+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.mwananchikwanza",
+    "name": "Mwananchi Kwanza Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/138329.v4.png",
+    "stream_url": "http://uk4freenew.listen2myradio.com:22810/;",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:38:35+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.mwananchimaua",
+    "name": "Mwananchi Radio Maua",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/74839.v19.png",
+    "stream_url": "https://stream.zeno.fm/uhsiqpfczaquv",
+    "website": "https://zeno.fm/radio/mwananchi-radio-maua/",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:35:57+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.mwangaza",
+    "name": "Mwangaza Wa Neno Fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/81623.v7.png",
+    "stream_url": "https://stream.zeno.fm/e34h1cbrmeruv",
+    "website": "https://zeno.fm/mwangaza-wa-neno-fm/",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "news",
+      "talk",
+      "christian",
+      "gospel",
+      "education"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:33:38+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.mwinjoyo",
+    "name": "Mwinjoyo Fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/122974.v2.png",
+    "stream_url": "https://stream.zeno.fm/z4ullytx8a8vv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:42:17+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.naxtoday",
+    "name": "Nax.Today Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/139993.v7.png",
+    "stream_url": "https://stream.zeno.fm/dijnios5gf9tv",
+    "website": "https://nax.today/",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:38:30+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.nenyon",
+    "name": "Nenyon fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/122868.v2.png",
+    "stream_url": "https://stream.zeno.fm/60ykr4csvxhvv",
+    "website": "https://www.nenyonfm.co.ke/",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:41:16+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.ngoma907",
+    "name": "Radio Ngoma 90.7 Fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/105362.v4.png",
+    "stream_url": "https://stream.zeno.fm/rb5umr1wu38uv",
+    "website": "https://radiongoma.co.ke/",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "pop",
+      "talk",
+      "sports"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:42:09+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.nguono1081",
+    "name": "Ng&#39;uono Fm 108.1",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/128829.v1.png",
+    "stream_url": "https://stream.zeno.fm/zopr3xxetftvv",
+    "website": "https://skylinknewsplus.co.ke/nguono-fm-108-1/",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "news",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:42:05+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.northrift",
+    "name": "North Rift Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/78759.v9.png",
+    "stream_url": "https://stream.northriftradio.fynradio.com/",
+    "website": "https://www.northriftradio.co.ke/",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "news",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:35:40+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.nrg",
+    "name": "NRG Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/77349.v6.png",
+    "stream_url": "https://uksouth.streaming.broadcast.radio/nrg",
+    "website": "https://nrg.radio/",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "dance",
+      "african",
+      "gospel",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:32:27+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.nurunaiangaze",
+    "name": "Nuru Naiangaze Radio (Kenya)",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/138676.v5.png",
+    "stream_url": "https://a2.asurahosting.com/hls/nuru_naiangaze_radio/live.m3u8",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:34:39+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.nyamasaria",
+    "name": "Nyamasaria Fm Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/132667.v9.png",
+    "stream_url": "https://stream.zeno.fm/5pyefbubf8utv",
+    "website": "https://zeno.fm/radio/nyamasaria-fm-radio/",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "r'n'b",
+      "jazz",
+      "afropop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:36:47+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.nyumbani",
+    "name": "Radio Nyumbani",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/145792.v1.png",
+    "stream_url": "https://listen.radioking.com/radio/632323/stream/694903",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:42:10+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.nyumbayamumbi",
+    "name": "Nyumba ya Mumbi fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/74838.v15.png",
+    "stream_url": "https://stream.zeno.fm/lmqqszja4bquv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "gospel",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:36:43+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.oduwo",
+    "name": "Oduwo Fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/153743.v1.png",
+    "stream_url": "https://stream.zeno.fm/oaaeq3ifuexvv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:40:20+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.omoka",
+    "name": "Omoka Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/117912.v2.png",
+    "stream_url": "https://stream.zeno.fm/wxp3r0utp7zuv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:34:48+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.oserianaltarnaivasha",
+    "name": "Oserian Altar Naivasha",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/149923.v3.png",
+    "stream_url": "https://stream.zeno.fm/p79ibcckxn8tv",
+    "website": "https://zeno.fm/radio/oserian-altar-naivasha-ddiy/",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:42:08+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.osiepefm",
+    "name": "Osiepe FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/127795.v6.png",
+    "stream_url": "https://osiepefm-atunwadigital.streamguys1.com/osiepefm",
+    "website": "https://www.mediamax.app/osiepe-fm",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "pop",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:41:15+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.pamojafm",
+    "name": "Pamoja FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/7283.v6.png",
+    "stream_url": "http://41.212.105.132:90/broadwave.mp3",
+    "website": "https://pamojafm.co.ke/",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:42:18+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.pango",
+    "name": "Pango Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/126578.v1.png",
+    "stream_url": "https://stream.zeno.fm/xqg3tdbcz98uv",
+    "website": "https://www.pangoradio.pangomedia.co.ke/",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "r'n'b",
+      "jazz",
+      "comedy",
+      "politics"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:35:54+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.paran",
+    "name": "Paran Fm 101.0 FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/147478.v3.png",
+    "stream_url": "https://stream.zeno.fm/2x0w54m2p48uv",
+    "website": "https://paran.co.ke/",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:41:17+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.pearlradioke",
+    "name": "Pearl Radio Ke",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/97581.v4.png",
+    "stream_url": "https://stream.zeno.fm/q8rswhhs8mruv",
+    "website": "https://pearlradio.co.ke/",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "gospel",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:32:46+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.pefa",
+    "name": "PEFA Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/134506.v4.png",
+    "stream_url": "https://stream.zeno.fm/7vwahz7tqfhvv",
+    "website": "https://zeno.fm/radio/pefa-radio/",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "reggae",
+      "entertainment",
+      "community"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:41:14+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.pemi",
+    "name": "Pemi Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/99920.v2.png",
+    "stream_url": "https://stream.zeno.fm/1svudng42k8uv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:40:22+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.pepea",
+    "name": "PEPEA RADIO",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/127205.v10.png",
+    "stream_url": "https://stream.zeno.fm/mzzhxcopf6itv",
+    "website": "https://www.habarileokenya.blogspot.com/",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:37:44+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.pg",
+    "name": "P G RADIOke",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/92670.v4.png",
+    "stream_url": "https://servidor24-2.brlogic.com:7378/live",
+    "website": "https://pgradioke.com/",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:37:35+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.pilipilifm",
+    "name": "Pilipili FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/7203.v6.png",
+    "stream_url": "https://stream.zenolive.com/4vx9zbkqtceuv",
+    "website": "https://mediamaxnetwork.co.ke/",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "news",
+      "talk",
+      "african"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:34:38+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.pillarworks",
+    "name": "Pillarworks Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/132495.v2.png",
+    "stream_url": "https://stream.zeno.fm/uhmggmbar5ctv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:40:18+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.planetfive",
+    "name": "PlanetFive",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/115588.v2.png",
+    "stream_url": "https://stream.zeno.fm/eyvgdqddguhvv",
+    "website": "https://planetfiveea.com/",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "news",
+      "sports",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:42:14+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.pmulikolajamii",
+    "name": "P Radio Muliko La Jamii",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/143537.v1.png",
+    "stream_url": "https://stream.zeno.fm/st852vx4nhvuv",
+    "website": "http://pradiomulikolajamii.me/",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:40:23+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.pradio",
+    "name": "99.8 P Radio muliko la jamii",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/129216.v4.png",
+    "stream_url": "https://stream.zeno.fm/3u8ulhvdfzrvv",
+    "website": "https://zeno.fm/radio/p-radio-99-8/",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "reggae",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:38:32+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.praise",
+    "name": "Praise Radio Kenya",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/116847.v2.png",
+    "stream_url": "https://stream.zeno.fm/3aw60gs6nzzuv",
+    "website": "https://www.praiseradio.ke/",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:34:45+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.quest",
+    "name": "Quest Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/79839.v2.png",
+    "stream_url": "https://stream.zeno.fm/9h1wwu41q5quv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:34:43+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.radio44",
+    "name": "Radio44 Kenya",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/95107.v9.png",
+    "stream_url": "https://main.smanelcast.com:8030/radio.mp3",
+    "website": "https://radio44.co.ke/",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "bollywood",
+      "indian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:34:44+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.radio47",
+    "name": "Radio 47",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/131719.v2.png",
+    "stream_url": "https://streaming.shoutcast.com/radio-47",
+    "website": "https://www.radio47.fm/",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "sports",
+      "african",
+      "gospel",
+      "education"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:33:32+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.radiojambo",
+    "name": "Radio Jambo",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/7195.v11.png",
+    "stream_url": "https://radiojambo-atunwadigital.streamguys1.com/radiojambo",
+    "website": "https://radiojambo.co.ke/",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "news",
+      "talk",
+      "sports",
+      "african"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:32:29+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.radiok",
+    "name": "Radio K",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/139724.v1.png",
+    "stream_url": "https://stream.zeno.fm/wredgas7aijuv",
+    "website": "https://www.radiok.co.ke/",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:37:35+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.rafikifarmmainaltar",
+    "name": "Rafiki-Farm Main Altar",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/113773.v8.png",
+    "stream_url": "https://stream.zeno.fm/emyxvhkcpkhvv",
+    "website": "https://zeno.fm/radio/rafiki-farm-main-altarw1bzvhkcpkhvv/",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:32:39+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.rahma",
+    "name": "Radio Rahma",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/147396.v1.png",
+    "stream_url": "http://link.zeno.fm:80/2rhabq5yc5zuv",
+    "website": "http://www.radiorahma.co.ke/",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "islamic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:35:41+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.rainbow",
+    "name": "Rainbow Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/86995.v8.png",
+    "stream_url": "https://stream.zeno.fm/dzks8e3na2zuv",
+    "website": "https://zeno.fm/radio/rainbow-radio/",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:36:44+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.ramogi",
+    "name": "Ramogi FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/125586.v7.png",
+    "stream_url": "https://ramogifm-atunwadigital.streamguys1.com/ramogifm/playlist.m3u8",
+    "website": "https://atunwadigital.com/clients/kenya-radio/",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "african"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:34:38+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.rcmedia",
+    "name": "rcmedia",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/134078.v2.png",
+    "stream_url": "https://stream.zeno.fm/rsxziujx0opvv",
+    "website": "https://rcmediatv.com/",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:37:41+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.rebornoutreach",
+    "name": "Reborn Outreach",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/106181.v1.png",
+    "stream_url": "https://stream.zeno.fm/ynh0tex7f18uv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:39:31+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.ree",
+    "name": "Ree radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/133152.v2.png",
+    "stream_url": "https://stream.zeno.fm/zumffmycliavv",
+    "website": "https://www.reemedia.co.ke/",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "r'n'b",
+      "hip-hop",
+      "soul",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:42:16+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.relax103",
+    "name": "Relax 103 Fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/79309.v26.png",
+    "stream_url": "https://stream.zeno.fm/7vpygga1ra0uv",
+    "website": "https://relax103.com/",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "r'n'b",
+      "blues",
+      "soul",
+      "oldies",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:32:27+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.rubenfm",
+    "name": "Ruben FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/150744.v1.png",
+    "stream_url": "https://rubenfm-atunwadigital.streamguys1.com/RubenFM",
+    "website": "https://rubenfm.or.ke/",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "pop",
+      "news",
+      "talk",
+      "community"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:40:27+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.safari",
+    "name": "Radio Safari",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/101556.v3.png",
+    "stream_url": "https://stream.zeno.fm/t65cszbgunhvv",
+    "website": "https://radiosafari.co.ke/",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "news",
+      "african",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:38:34+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.safina",
+    "name": "Radio Safina",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/93710.v8.png",
+    "stream_url": "https://stream.zeno.fm/4c0bs2crua0uv",
+    "website": "https://zeno.fm/radio-safina/",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:36:54+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.sahara",
+    "name": "Radio Sahara",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/121396.v11.png",
+    "stream_url": "https://listen.radioking.com/radio/553601/stream/612932",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "dance",
+      "house",
+      "club",
+      "funk",
+      "afro beat"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:39:28+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.sahara987",
+    "name": "Radio Sahara",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/124970.v12.png",
+    "stream_url": "https://listen.radioking.com/radio/624439/stream/686629",
+    "website": "http://radiosahara.net/",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "dance",
+      "house",
+      "club",
+      "funk",
+      "afro beat"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:36:50+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.saints",
+    "name": "Saints&#39; Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/137837.v6.png",
+    "stream_url": "https://stream.zeno.fm/bx28xxtdkgvuv",
+    "website": "https://zeno.fm/radio/saints-radio/",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:40:20+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.sasa",
+    "name": "Sasa Radio 92.0 FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/114374.v8.png",
+    "stream_url": "https://listen.radioking.com/radio/473576/stream/529766",
+    "website": "https://sasaradio.co.ke/",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "talk",
+      "sports"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:40:18+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.sayaki",
+    "name": "Sayaki Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/98714.v1.png",
+    "stream_url": "https://stream.zeno.fm/tcskrfwqcg8uv",
+    "website": "https://sautiyakibali.wixsite.com/sayaki-radio",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "news",
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:39:24+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.segasega",
+    "name": "Sega Sega Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/140620.v1.png",
+    "stream_url": "https://stream.zeno.fm/vvzbswlyh4ltv",
+    "website": "https://segasegaradio.co.ke/",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "jazz",
+      "comedy",
+      "politics"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:41:12+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.serian",
+    "name": "Serian fm radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/152374.v3.png",
+    "stream_url": "https://s1.free-shoutcast.com/stream/18056",
+    "website": "https://serianradio.radio12345.com/",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "talk",
+      "education"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:40:24+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.shahidi",
+    "name": "Radio Shahidi",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/86380.v9.png",
+    "stream_url": "https://stream.zeno.fm/g6ng8kdnc18uv",
+    "website": "http://www.radioshahidi.co.ke/",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:38:37+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.shallom",
+    "name": "Shallom Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/90400.v18.png",
+    "stream_url": "https://shallomradio-atunwadigital.streamguys1.com/shallomradio",
+    "website": "https://radio.shallom.co.ke/",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:38:28+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.simba913",
+    "name": "Radio Simba 91.3 FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/84415.v2.png",
+    "stream_url": "https://stream.zeno.fm/7nukpsgq3bruv",
+    "website": "https://www.radiosimba.co.ke/",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:35:50+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.smoothfm1055",
+    "name": "Smooth FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/125598.v3.png",
+    "stream_url": "https://smoothfm-atunwadigital.streamguys1.com/smoothfm",
+    "website": "https://atunwadigital.com/clients/smooth-fm/",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "rock",
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:39:33+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.softradiostation",
+    "name": "SoftRadio Station",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/77250.v3.png",
+    "stream_url": "https://stream.zeno.fm/4c31t51b0rhvv",
+    "website": "https://zeno.fm/radio/softradios/",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "news",
+      "christian",
+      "politics",
+      "spiritual"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:33:38+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.soundasia",
+    "name": "Sound Asia FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/7207.v5.png",
+    "stream_url": "http://41.72.210.222:88/stream",
+    "website": "http://www.soundasiafm.com/",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "pop",
+      "indian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:37:41+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.spicefm",
+    "name": "Spice FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/125599.v3.png",
+    "stream_url": "https://spicefm-atunwadigital.streamguys1.com/spicefm",
+    "website": "https://www.standardmedia.co.ke/spicefm/listen",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "rock",
+      "pop",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:37:37+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.sporty",
+    "name": "SportyFM",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/151443.v3.png",
+    "stream_url": "https://sportyfmke-atunwadigital.streamguys1.com/sportyfmke",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:39:24+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.stationbetaafrica",
+    "name": "Station Beta Africa",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/125162.v1.png",
+    "stream_url": "https://stream.zeno.fm/mjpwkbgktu2tv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "pop",
+      "top40",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:42:11+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.strathhits",
+    "name": "Strath Hits Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/151112.v1.png",
+    "stream_url": "https://radiostrathmore.out.airtime.pro/radiostrathmore_b",
+    "website": "https://radio.strathmore.edu/",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "r'n'b",
+      "blues",
+      "classic",
+      "hip-hop",
+      "country",
+      "reggae"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:41:19+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.sulwe",
+    "name": "Sulwe FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/125595.v6.png",
+    "stream_url": "https://sulwefm-atunwadigital.streamguys1.com/sulwefm",
+    "website": "https://atunwadigital.com/clients/sulwe-fm/",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "african",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:34:49+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.swahilipotfm",
+    "name": "Swahilipot FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/139315.v3.png",
+    "stream_url": "https://swahilipotfm.out.airtime.pro/swahilipotfm_a",
+    "website": "https://www.swahilipotfm.co.ke/",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "folk",
+      "ethnic",
+      "culture"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:40:22+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.taarab",
+    "name": "Taarab Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/149494.v1.png",
+    "stream_url": "https://a7.asurahosting.com:7790/radio.mp3",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:36:53+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.tana",
+    "name": "Tana FM Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/153875.v3.png",
+    "stream_url": "https://cast5.asurahosting.com/proxy/shedrack/stream",
+    "website": "https://www.keshacare.org/",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:41:14+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.tandao",
+    "name": "Tandao radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/142000.v5.png",
+    "stream_url": "https://stream.zeno.fm/jdu2aysa5c1uv",
+    "website": "https://tandaomedia.co.ke/",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:40:21+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.thayu",
+    "name": "Riri Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/80969.v16.png",
+    "stream_url": "https://stream.zeno.fm/grw4n0p49xjvv",
+    "website": "https://zeno.fm/radio/riri-fm-93-7/",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:36:41+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.the2",
+    "name": "The 2 Tv Radio Podcast",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/148240.v2.png",
+    "stream_url": "https://stream.zeno.fm/a267nnuenkhvv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:38:32+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.thegi",
+    "name": "Thegi Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/83711.v7.png",
+    "stream_url": "https://stream.zeno.fm/784uygpz24zuv",
+    "website": "https://www.thegimedia.com/",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "news",
+      "talk",
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:36:51+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.theguardian",
+    "name": "The Guardian Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/88963.v3.png",
+    "stream_url": "https://stream.zeno.fm/xuapvt8yrzzuv",
+    "website": "https://zeno.fm/the-guardian-radio/",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:36:42+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.theinformer",
+    "name": "The Informer Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/129365.v4.png",
+    "stream_url": "https://stream.zeno.fm/nuhmyjf6wtftv",
+    "website": "https://theinformer.co.ke/",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "r'n'b",
+      "jazz",
+      "hip-hop",
+      "reggae",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:40:26+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.themessianic",
+    "name": "The Messianic Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/130787.v1.png",
+    "stream_url": "https://stream.zeno.fm/eiqnsiqqx4vtv",
+    "website": "https://zeno.fm/radio/Messianicradio/",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:39:32+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.thesundaycruise",
+    "name": "The Sunday Cruise",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/125370.v1.png",
+    "stream_url": "https://listen.radioking.com/radio/561824/stream/621449",
+    "website": "https://play.radioking.com/radio/soul-of-the-city",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "r'n'b",
+      "blues",
+      "soul"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:38:37+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.thome",
+    "name": "THOME F.M",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/131684.v15.png",
+    "stream_url": "http://uk17freenew.listen2myradio.com:31550/;",
+    "website": "https://sites.google.com/view/radio-thome-kitui/home",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "hip-hop",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:32:35+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.time",
+    "name": "Time Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/112422.v2.png",
+    "stream_url": "https://stream.zeno.fm/988z9mctcfhvv",
+    "website": "https://zeno.fm/radio/time-radio/",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:39:32+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.togotane883",
+    "name": "Togotane Radio 88.3FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/99055.v3.png",
+    "stream_url": "https://stream.zeno.fm/f1jun65kvp2uv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:38:35+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.tonzi",
+    "name": "TONZI RADIO",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/114367.v5.png",
+    "stream_url": "https://stream.zeno.fm/cmpslkfvzpnuv",
+    "website": "https://tonziradio.com/",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:39:25+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.top",
+    "name": "Top Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/130131.v1.png",
+    "stream_url": "https://stream.zeno.fm/t9vddr6zisnvv",
+    "website": "https://zeno.fm/radio/top-radio-fves/",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:39:27+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.trace",
+    "name": "Trace FM Kenya",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/100187.v11.png",
+    "stream_url": "https://stream.rcs.revma.com/5nbh9e5q54zuv",
+    "website": "https://www.traceradio.co.ke/",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "dance",
+      "r'n'b",
+      "hip-hop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:32:45+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.truth",
+    "name": "Truth FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/7182.v6.png",
+    "stream_url": "https://truthfm-atunwadigital.streamguys1.com/truthfm",
+    "website": "http://truthfm.org/",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:34:39+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.tulwoobkoony",
+    "name": "Tulwoob Koony Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/153599.v1.png",
+    "stream_url": "https://stream.tkr.fynradio.com",
+    "website": "https://tulwoobkoonyradio.org/",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:42:11+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.turkanaonline",
+    "name": "Turkana Online Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/106111.v1.png",
+    "stream_url": "https://stream.zeno.fm/n105zpehd18uv",
+    "website": "https://turkanaonlinestation.weebly.com/",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:39:24+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.ufunuo",
+    "name": "Ufunuo Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/128337.v1.png",
+    "stream_url": "https://stream.zeno.fm/3hnjjowyh61uv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:42:15+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.uiguithanio",
+    "name": "UIGUITHANIO FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/98189.v3.png",
+    "stream_url": "https://stream.zeno.fm/00t5d3169f0uv",
+    "website": "https://uiguithaniofm.wixsite.com/uiguithanio-fm",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "pop",
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:37:45+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.urumwe",
+    "name": "Urumwe FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/128709.v1.png",
+    "stream_url": "https://stream.zeno.fm/9w8mzwga5uhvv",
+    "website": "https://www.urumwefm.co.ke/",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:41:22+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.utuuro",
+    "name": "Útúúro Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/75322.v19.png",
+    "stream_url": "https://stream.zeno.fm/gghtw6fgp3quv",
+    "website": "https://zeno.fm/utuuro-radio",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "african",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:33:46+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.varch",
+    "name": "Varch Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/97382.v5.png",
+    "stream_url": "https://stream.zeno.fm/fg8bkmaz6k0uv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "gospel",
+      "education",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:36:39+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.vbnradio",
+    "name": "VBN radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/118146.v11.png",
+    "stream_url": "http://freeuk21.listen2myradio.com:27598/;",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:37:40+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.victoriouslordseekers",
+    "name": "Victorious Lord Seekers",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/111276.v1.png",
+    "stream_url": "https://stream.zeno.fm/t6g2vhhzgchvv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:37:39+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.vogueplay",
+    "name": "Vogue Play",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/105615.v1.png",
+    "stream_url": "https://stream.zeno.fm/120amufx008uv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "pop",
+      "top40",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:37:43+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.vuuka",
+    "name": "Vuuka Fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/125589.v5.png",
+    "stream_url": "https://vuukafm-atunwadigital.streamguys1.com/vuukafm",
+    "website": "https://atunwadigital.com/clients/vuuka-fm/",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "news",
+      "african",
+      "culture"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:40:30+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.vybez",
+    "name": "Vybez Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/125600.v3.png",
+    "stream_url": "https://vybezradio-atunwadigital.streamguys1.com/vybezradio",
+    "website": "https://www.standardmedia.co.ke/vybezradio/",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "reggae",
+      "dancehall"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:42:06+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.wamuzi",
+    "name": "Wamuzi Radio Ke",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/133494.v1.png",
+    "stream_url": "https://stream.zeno.fm/k77q1f9hffhvv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:38:29+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.waumini",
+    "name": "Radio Waumini",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/7174.v11.png",
+    "stream_url": "https://stream.zeno.fm/gvk894g072quv",
+    "website": "http://radiowaumini.co.ke/",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:32:36+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.westcoast",
+    "name": "Westcoast Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/96973.v2.png",
+    "stream_url": "https://stream.zeno.fm/xmehkg2smd0uv",
+    "website": "https://zeno.fm/westcoast-radio/",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "hip-hop",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:35:52+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.wimwaro",
+    "name": "Wimwaro FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/125590.v9.png",
+    "stream_url": "https://wimwarofm-atunwadigital.streamguys1.com/wimwarofm/playlist.m3u8",
+    "website": "https://atunwadigital.com/clients/wimwaro-fm/",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "african",
+      "entertainment",
+      "community"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:42:12+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.wingu",
+    "name": "Wingu Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/126492.v4.png",
+    "stream_url": "https://stream.zeno.fm/kpu3sr5r2nhvv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "news",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:42:34+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.xfmkenya",
+    "name": "XFM Kenya",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/7284.v7.png",
+    "stream_url": "https://xfm-atunwadigital.streamguys1.com/xfm",
+    "website": "http://xfm.co.ke/",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "rock",
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:33:40+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.yamumbi",
+    "name": "YaMumbi Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/127147.v1.png",
+    "stream_url": "https://stream.zeno.fm/wpghok2xtn0tv",
+    "website": "https://yamumbi.com/",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "community"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:42:05+05:30"
+  },
+  {
+    "id": "onlineradiobox_ke.zetech",
+    "name": "Zetech Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/146718.v4.png",
+    "stream_url": "https://stream.zeno.fm/sc8ggkf1tchvv",
+    "website": "https://www.zetech.ac.ke/",
+    "provider": "onlineradiobox",
+    "country": "Kenya",
+    "genres": [
+      "news",
+      "sports"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:41:18+05:30"
+  }
+]

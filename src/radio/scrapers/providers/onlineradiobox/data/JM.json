@@ -1,0 +1,1744 @@
+[
+  {
+    "id": "onlineradiobox_jm.876muzical",
+    "name": "876 Muzical",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/146855.v1.png",
+    "stream_url": "http://fra-pioneer01.dedicateware.com:2520/stream",
+    "website": "https://djbobajoe.com/876-muzical",
+    "provider": "onlineradiobox",
+    "country": "Jamaica",
+    "genres": [
+      "dance",
+      "r'n'b",
+      "disco",
+      "talk",
+      "rap",
+      "hip-hop",
+      "soul",
+      "reggae",
+      "afro beat"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:30:03+05:30"
+  },
+  {
+    "id": "onlineradiobox_jm.882reggaecontrolla",
+    "name": "88.2 Reggae Controlla",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/93995.v6.png",
+    "stream_url": "http://108.59.11.81:8235/stream",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Jamaica",
+    "genres": [
+      "reggae"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:29:13+05:30"
+  },
+  {
+    "id": "onlineradiobox_jm.alphaboysradio",
+    "name": "Alpha Boys Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/35140.v7.png",
+    "stream_url": "http://alphaboys-live.streamguys1.com/alphaboys.mp3",
+    "website": "http://alphaboysschool.org/",
+    "provider": "onlineradiobox",
+    "country": "Jamaica",
+    "genres": [
+      "rock",
+      "jazz",
+      "soul",
+      "reggae"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:27:24+05:30"
+  },
+  {
+    "id": "onlineradiobox_jm.antennawebportantonio",
+    "name": "Antenna Web Port Antonio",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/151604.v1.png",
+    "stream_url": "https://jamaica.radioantennaweb.com/PortAntonio",
+    "website": "https://antennaweb.it/antenna-web-port-antonio/",
+    "provider": "onlineradiobox",
+    "country": "Jamaica",
+    "genres": [
+      "rock",
+      "pop",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:30:10+05:30"
+  },
+  {
+    "id": "onlineradiobox_jm.baddajam",
+    "name": "baddajam",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/137159.v4.png",
+    "stream_url": "https://dc2.serverse.com/stream/baddajam",
+    "website": "https://baddajam.com/",
+    "provider": "onlineradiobox",
+    "country": "Jamaica",
+    "genres": [
+      "talk",
+      "reggae"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:29:14+05:30"
+  },
+  {
+    "id": "onlineradiobox_jm.bod",
+    "name": "BOD",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/120792.v12.png",
+    "stream_url": "https://stream.zeno.fm/c65kresnbsqvv",
+    "website": "https://bodnumb1.blogspot.com/",
+    "provider": "onlineradiobox",
+    "country": "Jamaica",
+    "genres": [
+      "reggae",
+      "dancehall"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:29:16+05:30"
+  },
+  {
+    "id": "onlineradiobox_jm.calledoutgospel",
+    "name": "Called OUT Gospel Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/89848.v21.png",
+    "stream_url": "https://usa3.fastcast4u.com/proxy/ennsvarb?mp=/1",
+    "website": "http://calledoutgospelradio.com/cogrja.com",
+    "provider": "onlineradiobox",
+    "country": "Jamaica",
+    "genres": [
+      "talk",
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:27:26+05:30"
+  },
+  {
+    "id": "onlineradiobox_jm.ccm",
+    "name": "CCM Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/96697.v5.png",
+    "stream_url": "https://stream.zeno.fm/5b6fyyce2d0uv",
+    "website": "https://zeno.fm/ccmradio/",
+    "provider": "onlineradiobox",
+    "country": "Jamaica",
+    "genres": [
+      "pop",
+      "talk",
+      "ambient",
+      "hip-hop",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:29:23+05:30"
+  },
+  {
+    "id": "onlineradiobox_jm.dancehallfire",
+    "name": "DANCEHALL FIRE",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/136998.v3.png",
+    "stream_url": "https://stream.zeno.fm/itpkyyrcobwtv",
+    "website": "https://bodnumb1.blogspot.com/",
+    "provider": "onlineradiobox",
+    "country": "Jamaica",
+    "genres": [
+      "reggae",
+      "dancehall"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:29:28+05:30"
+  },
+  {
+    "id": "onlineradiobox_jm.deeperlife",
+    "name": "SVMI",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/92624.v12.png",
+    "stream_url": "https://stream.zeno.fm/bg1m3ey3dy8uv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Jamaica",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:30:05+05:30"
+  },
+  {
+    "id": "onlineradiobox_jm.demgetgrab",
+    "name": "Dem Get Grab Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/97292.v10.png",
+    "stream_url": "https://stream.zeno.fm/mmkg8c0zqg0uv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Jamaica",
+    "genres": [
+      "dance",
+      "hip-hop",
+      "reggae",
+      "gospel",
+      "afro beat"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:28:30+05:30"
+  },
+  {
+    "id": "onlineradiobox_jm.dubcorner",
+    "name": "DUB YOU!",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/120854.v11.png",
+    "stream_url": "https://stream.zeno.fm/7wxtqa0qz2mvv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Jamaica",
+    "genres": [
+      "dubstep",
+      "reggae"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:28:30+05:30"
+  },
+  {
+    "id": "onlineradiobox_jm.earthenterprise",
+    "name": "Earth Enterprise Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/133798.v2.png",
+    "stream_url": "https://stream.zeno.fm/39tibgkugvgvv",
+    "website": "https://eartheradio.wordpress.com/",
+    "provider": "onlineradiobox",
+    "country": "Jamaica",
+    "genres": [
+      "r'n'b",
+      "soul",
+      "reggae",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:30:01+05:30"
+  },
+  {
+    "id": "onlineradiobox_jm.faithgospel",
+    "name": "Faith Gospel Fm 127",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/128923.v1.png",
+    "stream_url": "https://stream.zeno.fm/9y73ge70cf9uv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Jamaica",
+    "genres": [
+      "talk",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:29:58+05:30"
+  },
+  {
+    "id": "onlineradiobox_jm.fame95fm",
+    "name": "FAME 95 FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/34980.v22.png",
+    "stream_url": "https://rjrfame-ioriver-cdn.encoders.immergo.tv/0/streamPlaylist.m3u8",
+    "website": "http://fame95fm.com/",
+    "provider": "onlineradiobox",
+    "country": "Jamaica",
+    "genres": [
+      "dance",
+      "r'n'b",
+      "pop",
+      "jazz",
+      "reggae"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:27:12+05:30"
+  },
+  {
+    "id": "onlineradiobox_jm.fit967",
+    "name": "FIT FM 96.7",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/86807.v12.png",
+    "stream_url": "https://listen.radioking.com/radio/691724/stream/756497",
+    "website": "https://www.fitfmja.com/",
+    "provider": "onlineradiobox",
+    "country": "Jamaica",
+    "genres": [
+      "dance",
+      "r'n'b",
+      "pop",
+      "hip-hop",
+      "soul",
+      "reggae",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:28:19+05:30"
+  },
+  {
+    "id": "onlineradiobox_jm.fmjamaicaradio",
+    "name": "FM Jamaica Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/75845.v11.png",
+    "stream_url": "http://71.105.169.131:8000/stream",
+    "website": "https://339jamaica.com/",
+    "provider": "onlineradiobox",
+    "country": "Jamaica",
+    "genres": [
+      "reggae",
+      "dancehall"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:27:28+05:30"
+  },
+  {
+    "id": "onlineradiobox_jm.fyah",
+    "name": "Fyah 97.2 FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/140123.v2.png",
+    "stream_url": "https://stream.zeno.fm/x1utfjl7hr0uv",
+    "website": "https://zeno.fm/radio/fyah-97-2-fm/",
+    "provider": "onlineradiobox",
+    "country": "Jamaica",
+    "genres": [
+      "dance",
+      "hip-hop",
+      "country",
+      "reggae"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:28:19+05:30"
+  },
+  {
+    "id": "onlineradiobox_jm.fyah105",
+    "name": "Fyah 105",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/72986.v4.png",
+    "stream_url": "https://listen.radioking.com/radio/459389/stream/514595",
+    "website": "http://www.fyah105.com/",
+    "provider": "onlineradiobox",
+    "country": "Jamaica",
+    "genres": [
+      "dance",
+      "hip-hop",
+      "reggae"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:27:17+05:30"
+  },
+  {
+    "id": "onlineradiobox_jm.ggfm",
+    "name": "GGFM",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/35019.v6.png",
+    "stream_url": "http://usa14.fastcast4u.com:5192/;",
+    "website": "http://www.ggfmja.org/",
+    "provider": "onlineradiobox",
+    "country": "Jamaica",
+    "genres": [
+      "talk",
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:27:30+05:30"
+  },
+  {
+    "id": "onlineradiobox_jm.ghettovibes",
+    "name": "Ghetto Vibes Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/119465.v2.png",
+    "stream_url": "https://listen.radioking.com/radio/499417/stream/556609",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Jamaica",
+    "genres": [
+      "dance",
+      "r'n'b",
+      "hip-hop",
+      "soul",
+      "reggae"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:28:25+05:30"
+  },
+  {
+    "id": "onlineradiobox_jm.gospel",
+    "name": "Gospel FM Jamaica",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/74949.v5.png",
+    "stream_url": "https://stream.zeno.fm/zpksre88rm0uv",
+    "website": "https://www.gospelfmjamaica.com/",
+    "provider": "onlineradiobox",
+    "country": "Jamaica",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:27:20+05:30"
+  },
+  {
+    "id": "onlineradiobox_jm.gospeljafm",
+    "name": "Gospel JA fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/35026.v9.png",
+    "stream_url": "https://radio.usamogul.com:8004/stream",
+    "website": "http://gospelja.com/",
+    "provider": "onlineradiobox",
+    "country": "Jamaica",
+    "genres": [
+      "talk",
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:27:19+05:30"
+  },
+  {
+    "id": "onlineradiobox_jm.gospelsoul",
+    "name": "Worl Vybz Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/125011.v28.png",
+    "stream_url": "https://stream.zeno.fm/qudywhd1mrruv",
+    "website": "https://worlvybzradio.weebly.com/",
+    "provider": "onlineradiobox",
+    "country": "Jamaica",
+    "genres": [
+      "r'n'b",
+      "soul",
+      "reggae",
+      "sports",
+      "gospel",
+      "dancehall"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:29:19+05:30"
+  },
+  {
+    "id": "onlineradiobox_jm.gracegospel",
+    "name": "Grace Gospel Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/139793.v2.png",
+    "stream_url": "https://server01.heplayer.com/8042/stream",
+    "website": "https://gracegospelradio.nicepage.io/",
+    "provider": "onlineradiobox",
+    "country": "Jamaica",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:30:07+05:30"
+  },
+  {
+    "id": "onlineradiobox_jm.gtreggae",
+    "name": "GT Reggae Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/93957.v4.png",
+    "stream_url": "https://gtreggaeradio.radioca.st/;?1768761269299",
+    "website": "http://www.gtreggaeradio.live/",
+    "provider": "onlineradiobox",
+    "country": "Jamaica",
+    "genres": [
+      "reggae",
+      "gospel",
+      "dancehall"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:27:23+05:30"
+  },
+  {
+    "id": "onlineradiobox_jm.hitz92fm",
+    "name": "Hitz 92 FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/34945.v10.png",
+    "stream_url": "https://stream.zeno.fm/mbng1nnyxrquv",
+    "website": "http://www.radiohitz92fm.com/",
+    "provider": "onlineradiobox",
+    "country": "Jamaica",
+    "genres": [
+      "pop",
+      "talk",
+      "reggae",
+      "sports"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:27:13+05:30"
+  },
+  {
+    "id": "onlineradiobox_jm.iamjamaica",
+    "name": "Iamjamaica Radio Station",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/108682.v1.png",
+    "stream_url": "https://stream.zeno.fm/bkgph8d1q98uv",
+    "website": "https://zeno.fm/iamjamaica-gospel-station/",
+    "provider": "onlineradiobox",
+    "country": "Jamaica",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:28:22+05:30"
+  },
+  {
+    "id": "onlineradiobox_jm.iriefm",
+    "name": "IRIE FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/35127.v3.png",
+    "stream_url": "http://listenlive.iriefm.net/",
+    "website": "http://www.iriefm.net/",
+    "provider": "onlineradiobox",
+    "country": "Jamaica",
+    "genres": [
+      "news",
+      "reggae"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:29:24+05:30"
+  },
+  {
+    "id": "onlineradiobox_jm.irieholidaysunshine",
+    "name": "Irie Holiday Sunshine",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/121771.v3.png",
+    "stream_url": "https://stream.laut.fm/irieholidaysunshine",
+    "website": "https://www.irieholidaytours.com/",
+    "provider": "onlineradiobox",
+    "country": "Jamaica",
+    "genres": [
+      "reggae"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:28:20+05:30"
+  },
+  {
+    "id": "onlineradiobox_jm.islandbuzz",
+    "name": "Island Buzz Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/131502.v6.png",
+    "stream_url": "https://stream.zeno.fm/f6v9m47nxpltv",
+    "website": "https://islandbuzzradio.free.nf/",
+    "provider": "onlineradiobox",
+    "country": "Jamaica",
+    "genres": [
+      "r'n'b",
+      "pop",
+      "hip-hop",
+      "reggae",
+      "dancehall",
+      "afro beat"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:28:33+05:30"
+  },
+  {
+    "id": "onlineradiobox_jm.islander",
+    "name": "Radio Islander",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/153609.v1.png",
+    "stream_url": "https://listen.radioking.com/radio/800651/stream/869146",
+    "website": "https://iomja.com/radio",
+    "provider": "onlineradiobox",
+    "country": "Jamaica",
+    "genres": [
+      "r'n'b",
+      "jazz",
+      "reggae",
+      "african",
+      "brazilian",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:30:02+05:30"
+  },
+  {
+    "id": "onlineradiobox_jm.jahkno",
+    "name": "Jahkno Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/152415.v2.png",
+    "stream_url": "https://streaming.radio.co/s00d41a200/listen",
+    "website": "https://jahknoradio.com/",
+    "provider": "onlineradiobox",
+    "country": "Jamaica",
+    "genres": [
+      "dance",
+      "r'n'b",
+      "hip-hop",
+      "reggae"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:30:05+05:30"
+  },
+  {
+    "id": "onlineradiobox_jm.jahmex",
+    "name": "Jahmex Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/147623.v5.png",
+    "stream_url": "https://s113.radiolize.com:8100/radio.mp3",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Jamaica",
+    "genres": [
+      "dance",
+      "rock",
+      "reggae"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:30:04+05:30"
+  },
+  {
+    "id": "onlineradiobox_jm.jam1rock",
+    "name": "Jam1rock Radio Jamaica",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/97571.v14.png",
+    "stream_url": "https://stream.zeno.fm/0yfryyp7rs8uv",
+    "website": "https://zeno.fm/jam1rock-radio/",
+    "provider": "onlineradiobox",
+    "country": "Jamaica",
+    "genres": [
+      "talk",
+      "hip-hop",
+      "soul",
+      "dancehall"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:28:15+05:30"
+  },
+  {
+    "id": "onlineradiobox_jm.jamaicadancehall",
+    "name": "Jamaica Dancehall Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/154881.v4.png",
+    "stream_url": "https://stream.jamaicadancehallradio.com/listen/jamaica_dancehall_radio/radio.mp3",
+    "website": "https://jamaicadancehallradio.com/",
+    "provider": "onlineradiobox",
+    "country": "Jamaica",
+    "genres": [
+      "dance",
+      "reggae"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:29:27+05:30"
+  },
+  {
+    "id": "onlineradiobox_jm.jamericanxtra",
+    "name": "Jamerican Radio xtra",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/98167.v19.png",
+    "stream_url": "https://streaming.live365.com/a13731",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Jamaica",
+    "genres": [
+      "dance",
+      "pop",
+      "reggae",
+      "dancehall"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:28:29+05:30"
+  },
+  {
+    "id": "onlineradiobox_jm.jsquadentertainment",
+    "name": "Jsquad Entertainment Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/147507.v1.png",
+    "stream_url": "https://servidor14.brlogic.com:7160/live",
+    "website": "https://jsquadentertainmentradio.net/",
+    "provider": "onlineradiobox",
+    "country": "Jamaica",
+    "genres": [
+      "dance",
+      "r'n'b",
+      "soul",
+      "reggae",
+      "gospel",
+      "afro beat"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:29:59+05:30"
+  },
+  {
+    "id": "onlineradiobox_jm.kingdomsound",
+    "name": "Kingdom Sound Radio International",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/97664.v2.png",
+    "stream_url": "https://listen.radioking.com/radio/525463/stream/583798",
+    "website": "https://www.kingdomsoundradio.com/",
+    "provider": "onlineradiobox",
+    "country": "Jamaica",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:28:21+05:30"
+  },
+  {
+    "id": "onlineradiobox_jm.kis",
+    "name": "Soulvoice Ministries Ltd",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/81491.v45.png",
+    "stream_url": "https://stream.zeno.fm/rekvvb70cf9uv",
+    "website": "https://zeno.fm/radio/soulvoice-ministries-ltd-grs0/",
+    "provider": "onlineradiobox",
+    "country": "Jamaica",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:29:11+05:30"
+  },
+  {
+    "id": "onlineradiobox_jm.klasespnradio",
+    "name": "KLAS ESPN Sports Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/35033.v14.png",
+    "stream_url": "https://stream.zeno.fm/2vaypn80g3quv",
+    "website": "http://www.klassportsradio.com/",
+    "provider": "onlineradiobox",
+    "country": "Jamaica",
+    "genres": [
+      "news",
+      "talk",
+      "sports"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:28:14+05:30"
+  },
+  {
+    "id": "onlineradiobox_jm.kool97fm",
+    "name": "Kool 97 FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/34932.v8.png",
+    "stream_url": "https://listen.mixlr.com/63ddbb7052619e262ce5db0d54ab8abf",
+    "website": "http://kool97fm.com/",
+    "provider": "onlineradiobox",
+    "country": "Jamaica",
+    "genres": [
+      "r'n'b",
+      "pop",
+      "jazz",
+      "soul"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:27:27+05:30"
+  },
+  {
+    "id": "onlineradiobox_jm.krushyaadradio",
+    "name": "Krush Yaad Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/34976.v6.png",
+    "stream_url": "https://s3.voscast.com:8469/stream",
+    "website": "http://www.krushyaad.net/",
+    "provider": "onlineradiobox",
+    "country": "Jamaica",
+    "genres": [
+      "r'n'b",
+      "news",
+      "rap",
+      "hip-hop",
+      "reggae"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:28:32+05:30"
+  },
+  {
+    "id": "onlineradiobox_jm.love101fm",
+    "name": "Love 101 FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/34917.v9.png",
+    "stream_url": "https://stream.zenolive.com/webzstrtpy5tv",
+    "website": "http://love101.org/",
+    "provider": "onlineradiobox",
+    "country": "Jamaica",
+    "genres": [
+      "talk",
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:27:25+05:30"
+  },
+  {
+    "id": "onlineradiobox_jm.lovepeacerespect",
+    "name": "Love Peace Respect Life Talk Show Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/118697.v24.png",
+    "stream_url": "https://stream.zeno.fm/jdkbwfmu9suvv",
+    "website": "https://www.selecta1ness.info/",
+    "provider": "onlineradiobox",
+    "country": "Jamaica",
+    "genres": [
+      "talk",
+      "culture",
+      "spiritual",
+      "community"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:30:09+05:30"
+  },
+  {
+    "id": "onlineradiobox_jm.maximumvybz",
+    "name": "Maximum Vybz Fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/131387.v2.png",
+    "stream_url": "https://stream.zeno.fm/0c7fd5fxhchvv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Jamaica",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:29:29+05:30"
+  },
+  {
+    "id": "onlineradiobox_jm.mega",
+    "name": "Mega 97.1 FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/140042.v3.png",
+    "stream_url": "https://stream.zeno.fm/nsbuz2llanwuv",
+    "website": "https://zeno.fm/radio/mega-97-1-fm/",
+    "provider": "onlineradiobox",
+    "country": "Jamaica",
+    "genres": [
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:28:33+05:30"
+  },
+  {
+    "id": "onlineradiobox_jm.megajamz",
+    "name": "Mega Jamz",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/35141.v9.png",
+    "stream_url": "http://megajamz98fm.com/player.html",
+    "website": "http://megajamz98fm.com/",
+    "provider": "onlineradiobox",
+    "country": "Jamaica",
+    "genres": [
+      "r'n'b",
+      "pop",
+      "top40",
+      "reggae"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:29:21+05:30"
+  },
+  {
+    "id": "onlineradiobox_jm.mellofm88",
+    "name": "Mello FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/34910.v5.png",
+    "stream_url": "https://stream.zeno.fm/vopem6jw8apuv",
+    "website": "http://www.mellofmjamaica.com/",
+    "provider": "onlineradiobox",
+    "country": "Jamaica",
+    "genres": [
+      "pop",
+      "news",
+      "talk",
+      "reggae"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:27:16+05:30"
+  },
+  {
+    "id": "onlineradiobox_jm.mixx",
+    "name": "Mixx96.9Fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/141449.v2.png",
+    "stream_url": "http://31.14.40.21:8826/;",
+    "website": "https://mixx102.com/",
+    "provider": "onlineradiobox",
+    "country": "Jamaica",
+    "genres": [
+      "r'n'b",
+      "pop",
+      "blues",
+      "jazz",
+      "soul",
+      "reggae",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:30:08+05:30"
+  },
+  {
+    "id": "onlineradiobox_jm.mpmgospellive",
+    "name": "MPM Gospel Live Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/98343.v3.png",
+    "stream_url": "https://streams.radio.co/s25a906be3/listen",
+    "website": "http://www.mpmgospellive.org/",
+    "provider": "onlineradiobox",
+    "country": "Jamaica",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:30:02+05:30"
+  },
+  {
+    "id": "onlineradiobox_jm.music99",
+    "name": "Music 99 FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/35124.v7.png",
+    "stream_url": "https://stream.zeno.fm/9yzcppty0reuv",
+    "website": "http://www.go-jamaica.com/",
+    "provider": "onlineradiobox",
+    "country": "Jamaica",
+    "genres": [
+      "rock",
+      "jazz",
+      "soul",
+      "country",
+      "reggae"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:27:29+05:30"
+  },
+  {
+    "id": "onlineradiobox_jm.nationwide",
+    "name": "Nationwide News Network",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/34941.v7.png",
+    "stream_url": "https://stream.zenolive.com/8zvh957sfvduv",
+    "website": "http://www.nationwidenewsnetwork.com/",
+    "provider": "onlineradiobox",
+    "country": "Jamaica",
+    "genres": [
+      "news",
+      "talk",
+      "sports",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:27:19+05:30"
+  },
+  {
+    "id": "onlineradiobox_jm.nationwide90",
+    "name": "Nationwide 90FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/72988.v7.png",
+    "stream_url": "https://stream.zeno.fm/sx58ugee4s5tv",
+    "website": "http://nationwideradiojm.com/",
+    "provider": "onlineradiobox",
+    "country": "Jamaica",
+    "genres": [
+      "news",
+      "sports",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:27:13+05:30"
+  },
+  {
+    "id": "onlineradiobox_jm.ncufm",
+    "name": "NCU FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/34939.v9.png",
+    "stream_url": "https://stream.zeno.fm/02wx8qznt1duv",
+    "website": "http://www.ncumediagroup.com/?page_id=12",
+    "provider": "onlineradiobox",
+    "country": "Jamaica",
+    "genres": [
+      "talk",
+      "gospel",
+      "education"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:27:21+05:30"
+  },
+  {
+    "id": "onlineradiobox_jm.newstalk93fm",
+    "name": "NewsTalk 93 FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/35130.v4.png",
+    "stream_url": "https://newstalk93fm.radioca.st/stream",
+    "website": "https://newstalk93fm.net/",
+    "provider": "onlineradiobox",
+    "country": "Jamaica",
+    "genres": [
+      "pop",
+      "news",
+      "talk",
+      "reggae",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:28:27+05:30"
+  },
+  {
+    "id": "onlineradiobox_jm.nrp",
+    "name": "NRP Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/124291.v5.png",
+    "stream_url": "https://usa7.fastcast4u.com/proxy/nisruqfc?mp=/1",
+    "website": "https://nrpmediaja.com/",
+    "provider": "onlineradiobox",
+    "country": "Jamaica",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:29:26+05:30"
+  },
+  {
+    "id": "onlineradiobox_jm.onspotbusinesses",
+    "name": "NICSHA",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/114182.v8.png",
+    "stream_url": "https://stream.zeno.fm/vqur38r4by8uv",
+    "website": "https://www.nicshagasstation.com/",
+    "provider": "onlineradiobox",
+    "country": "Jamaica",
+    "genres": [
+      "dance",
+      "r'n'b",
+      "classic",
+      "soul",
+      "reggae"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:28:31+05:30"
+  },
+  {
+    "id": "onlineradiobox_jm.pentab",
+    "name": "Pentab Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/34970.v3.png",
+    "stream_url": "http://192.240.102.133:8216/stream",
+    "website": "http://www.pentabja.com/",
+    "provider": "onlineradiobox",
+    "country": "Jamaica",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:29:18+05:30"
+  },
+  {
+    "id": "onlineradiobox_jm.power106fm",
+    "name": "Power 106 FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/35038.v7.png",
+    "stream_url": "https://stream.zeno.fm/ajjfeu3epzyuv",
+    "website": "http://go-jamaica.com/power/",
+    "provider": "onlineradiobox",
+    "country": "Jamaica",
+    "genres": [
+      "pop",
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:27:22+05:30"
+  },
+  {
+    "id": "onlineradiobox_jm.praisehymn",
+    "name": "Praise Hymn Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/72890.v3.png",
+    "stream_url": "http://s2.voscast.com:8916/;",
+    "website": "https://www.praisehymnradio.com/",
+    "provider": "onlineradiobox",
+    "country": "Jamaica",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:28:24+05:30"
+  },
+  {
+    "id": "onlineradiobox_jm.presenz",
+    "name": "Presenz Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/91483.v4.png",
+    "stream_url": "https://usa20.fastcast4u.com/presenz",
+    "website": "https://www.presenzradio.com/",
+    "provider": "onlineradiobox",
+    "country": "Jamaica",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:29:12+05:30"
+  },
+  {
+    "id": "onlineradiobox_jm.rainingbread",
+    "name": "Raining Bread",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/148814.v2.png",
+    "stream_url": "https://streams.radio.co/se93067d39/listen",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Jamaica",
+    "genres": [
+      "culture",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:28:26+05:30"
+  },
+  {
+    "id": "onlineradiobox_jm.rebelradiolink",
+    "name": "RebelRadioLink",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/34979.v9.png",
+    "stream_url": "https://streamer.radio.co/s830ce6f36/listen",
+    "website": "http://rebelradiolink.co/",
+    "provider": "onlineradiobox",
+    "country": "Jamaica",
+    "genres": [
+      "dance",
+      "r'n'b",
+      "pop",
+      "hip-hop",
+      "reggae"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:27:21+05:30"
+  },
+  {
+    "id": "onlineradiobox_jm.reggaeking",
+    "name": "DANCEHALL YOU!",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/136997.v5.png",
+    "stream_url": "https://stream.zeno.fm/hszt3iehn1zuv",
+    "website": "https://bodnumb1.blogspot.com/",
+    "provider": "onlineradiobox",
+    "country": "Jamaica",
+    "genres": [
+      "dance"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:29:23+05:30"
+  },
+  {
+    "id": "onlineradiobox_jm.reggaelive",
+    "name": "DANCEHALL REGGAE PLUS",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/137014.v6.png",
+    "stream_url": "https://stream.zeno.fm/jfrffjc1ydgtv",
+    "website": "https://bodnumb1.blogspot.com/",
+    "provider": "onlineradiobox",
+    "country": "Jamaica",
+    "genres": [
+      "reggae"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:29:25+05:30"
+  },
+  {
+    "id": "onlineradiobox_jm.reggaeplus",
+    "name": "Reggae Plus Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/125163.v2.png",
+    "stream_url": "https://stream.zeno.fm/qcd1toxyxsotv",
+    "website": "https://play.radioking.com/radio/reggae-plus-radio1",
+    "provider": "onlineradiobox",
+    "country": "Jamaica",
+    "genres": [
+      "soul",
+      "reggae"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:28:28+05:30"
+  },
+  {
+    "id": "onlineradiobox_jm.rejoicefm",
+    "name": "Rejoice FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/146268.v1.png",
+    "stream_url": "https://listen.radioking.com/radio/531667/stream/590122",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Jamaica",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:30:00+05:30"
+  },
+  {
+    "id": "onlineradiobox_jm.riddim1",
+    "name": "Riddim1 Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/93160.v5.png",
+    "stream_url": "https://us2.internet-radio.com/proxy/riddim1radio?mp=%2Fstream",
+    "website": "https://www.riddim1radio.com/",
+    "provider": "onlineradiobox",
+    "country": "Jamaica",
+    "genres": [
+      "hip-hop",
+      "reggae",
+      "african",
+      "dancehall"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:27:31+05:30"
+  },
+  {
+    "id": "onlineradiobox_jm.rjr94fm",
+    "name": "Radio Jamaica 94 FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/34951.v9.png",
+    "stream_url": "https://rjrrj-ioriver-cdn.encoders.immergo.tv/0/streamPlaylist.m3u8",
+    "website": "http://www.rjr94fm.com/",
+    "provider": "onlineradiobox",
+    "country": "Jamaica",
+    "genres": [
+      "news",
+      "talk",
+      "reggae"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:27:11+05:30"
+  },
+  {
+    "id": "onlineradiobox_jm.roots961",
+    "name": "Roots 96.1 FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/76966.v13.png",
+    "stream_url": "https://stream.zeno.fm/pnp236t7nbruv",
+    "website": "https://rootsfmjamaica.com/",
+    "provider": "onlineradiobox",
+    "country": "Jamaica",
+    "genres": [
+      "dance",
+      "talk",
+      "reggae"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:28:16+05:30"
+  },
+  {
+    "id": "onlineradiobox_jm.rvr247",
+    "name": "RVR247",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/81717.v19.png",
+    "stream_url": "https://usa8.fastcast4u.com/proxy/rvr247music?mp=/1",
+    "website": "https://www.rvr247.com/",
+    "provider": "onlineradiobox",
+    "country": "Jamaica",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:29:18+05:30"
+  },
+  {
+    "id": "onlineradiobox_jm.soulvoiceministries",
+    "name": "SoulVoice Ministries",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/92215.v3.png",
+    "stream_url": "https://stream.zeno.fm/spwupb70cf9uv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Jamaica",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:29:22+05:30"
+  },
+  {
+    "id": "onlineradiobox_jm.stylzfm",
+    "name": "Stylz FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/34959.v9.png",
+    "stream_url": "http://radio.securenetsystems.net/v5/STYLZFM",
+    "website": "http://www.stylzfm.com/",
+    "provider": "onlineradiobox",
+    "country": "Jamaica",
+    "genres": [
+      "r'n'b",
+      "hip-hop",
+      "reggae"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:29:12+05:30"
+  },
+  {
+    "id": "onlineradiobox_jm.suncity",
+    "name": "SunCity",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/35003.v7.png",
+    "stream_url": "https://edge.mixlr.com/channel/ibrdq",
+    "website": "http://www.suncityradio.fm/",
+    "provider": "onlineradiobox",
+    "country": "Jamaica",
+    "genres": [
+      "rock",
+      "reggae"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:27:27+05:30"
+  },
+  {
+    "id": "onlineradiobox_jm.tbcradio",
+    "name": "TBC Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/35087.v7.png",
+    "stream_url": "https://live.amperwave.net/manifest/tbcradio-tbcradioaac-hlsc1.m3u8/",
+    "website": "http://tbcradio.org/",
+    "provider": "onlineradiobox",
+    "country": "Jamaica",
+    "genres": [
+      "talk",
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:27:30+05:30"
+  },
+  {
+    "id": "onlineradiobox_jm.thebridge99",
+    "name": "The Bridge 99 FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/122389.v1.png",
+    "stream_url": "https://stream.caribbeanglobalnetworks.com/livestream/live.m3u8",
+    "website": "https://thebridge99fm.com/",
+    "provider": "onlineradiobox",
+    "country": "Jamaica",
+    "genres": [
+      "pop",
+      "news"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:29:15+05:30"
+  },
+  {
+    "id": "onlineradiobox_jm.theedge105fm",
+    "name": "The Edge 105 FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/85964.v9.png",
+    "stream_url": "https://listen.radioking.com/radio/331171/stream/387835",
+    "website": "https://edge105.com/listen-edge-105fm-live/",
+    "provider": "onlineradiobox",
+    "country": "Jamaica",
+    "genres": [
+      "reggae",
+      "dancehall"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:27:14+05:30"
+  },
+  {
+    "id": "onlineradiobox_jm.thehourofprayer",
+    "name": "The Hour Of Prayer Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/116473.v2.png",
+    "stream_url": "https://stream.zeno.fm/p45r71p29nhvv",
+    "website": "https://thehourofprayerradiojm.com/",
+    "provider": "onlineradiobox",
+    "country": "Jamaica",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:29:28+05:30"
+  },
+  {
+    "id": "onlineradiobox_jm.thejourney",
+    "name": "The Journey Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/109566.v2.png",
+    "stream_url": "https://stream.zeno.fm/b68csh9ubv8uv",
+    "website": "https://thejourneynotyetco.wixsite.com/thejourney",
+    "provider": "onlineradiobox",
+    "country": "Jamaica",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:29:26+05:30"
+  },
+  {
+    "id": "onlineradiobox_jm.tzgospel",
+    "name": "Tzgospel ( jamaica)",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/127687.v1.png",
+    "stream_url": "https://stream.zeno.fm/p1v3pyg1zehvv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Jamaica",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:29:21+05:30"
+  },
+  {
+    "id": "onlineradiobox_jm.ufdvradio",
+    "name": "UFDV Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/34974.v5.png",
+    "stream_url": "http://104.194.9.142:8031/live",
+    "website": "http://ufdvradiojamaica.com/home.html",
+    "provider": "onlineradiobox",
+    "country": "Jamaica",
+    "genres": [
+      "pop",
+      "hip-hop",
+      "top40",
+      "reggae"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:28:14+05:30"
+  },
+  {
+    "id": "onlineradiobox_jm.unityxm",
+    "name": "UnityXM Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/136580.v3.png",
+    "stream_url": "https://a8.asurahosting.com:7430/radio.mp3",
+    "website": "https://www.unityxm.com/",
+    "provider": "onlineradiobox",
+    "country": "Jamaica",
+    "genres": [
+      "soul",
+      "reggae",
+      "afro beat"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:30:08+05:30"
+  },
+  {
+    "id": "onlineradiobox_jm.vlinkradio",
+    "name": "V-Link Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/88729.v2.png",
+    "stream_url": "https://stream.zeno.fm/y4d4w2hpnfeuv",
+    "website": "http://vlinkradio.us/",
+    "provider": "onlineradiobox",
+    "country": "Jamaica",
+    "genres": [
+      "r'n'b",
+      "hip-hop",
+      "reggae",
+      "dancehall"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:28:23+05:30"
+  },
+  {
+    "id": "onlineradiobox_jm.vybez",
+    "name": "Radiovybez",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/125147.v1.png",
+    "stream_url": "https://www.radiovybez.com:8000/radio.mp3",
+    "website": "https://www.radiovybez.com/public/radiovybez",
+    "provider": "onlineradiobox",
+    "country": "Jamaica",
+    "genres": [
+      "reggae"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:30:06+05:30"
+  },
+  {
+    "id": "onlineradiobox_jm.vybzyaad",
+    "name": "VybzYaad Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/139635.v2.png",
+    "stream_url": "https://stream.zeno.fm/cs298e2w34zuv",
+    "website": "https://vybzyaad.com/",
+    "provider": "onlineradiobox",
+    "country": "Jamaica",
+    "genres": [
+      "dance",
+      "reggae"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:29:17+05:30"
+  },
+  {
+    "id": "onlineradiobox_jm.west",
+    "name": "West FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/85989.v36.png",
+    "stream_url": "https://fpsnew2.listen2myradio.com:2199/listen.php?ip=212.84.160.3&port=5202&type=s1",
+    "website": "http://westfm.over-blog.com/",
+    "provider": "onlineradiobox",
+    "country": "Jamaica",
+    "genres": [
+      "r'n'b",
+      "pop",
+      "hip-hop",
+      "reggae",
+      "dancehall"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:28:28+05:30"
+  },
+  {
+    "id": "onlineradiobox_jm.worlvybz",
+    "name": "Worl Vybz Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/93396.v6.png",
+    "stream_url": "https://fra-pioneer01.dedicateware.com:1390/stream",
+    "website": "https://worlvybzradio.weebly.com/",
+    "provider": "onlineradiobox",
+    "country": "Jamaica",
+    "genres": [
+      "talk",
+      "rap",
+      "hip-hop",
+      "country",
+      "reggae",
+      "african",
+      "dancehall"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:28:17+05:30"
+  },
+  {
+    "id": "onlineradiobox_jm.yardhype",
+    "name": "YardHype Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/118103.v4.png",
+    "stream_url": "https://carina.streamerr.co:8008/;",
+    "website": "https://yardhype.com/radio/",
+    "provider": "onlineradiobox",
+    "country": "Jamaica",
+    "genres": [
+      "dance",
+      "pop",
+      "hip-hop",
+      "reggae"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:29:14+05:30"
+  },
+  {
+    "id": "onlineradiobox_jm.zanj",
+    "name": "Zanj Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/69043.v17.png",
+    "stream_url": "http://uk6freenew.listen2myradio.com:8697/;",
+    "website": "http://www.zanj.org/",
+    "provider": "onlineradiobox",
+    "country": "Jamaica",
+    "genres": [
+      "pop",
+      "folk",
+      "reggae",
+      "eclectic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:28:29+05:30"
+  },
+  {
+    "id": "onlineradiobox_jm.zip103fm",
+    "name": "ZIP 103 FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/35134.v8.png",
+    "stream_url": "https://stream.zeno.fm/c0ytcn43vxquv",
+    "website": "http://www.zipfm.net/",
+    "provider": "onlineradiobox",
+    "country": "Jamaica",
+    "genres": [
+      "rock",
+      "pop",
+      "top40",
+      "reggae"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:27:15+05:30"
+  }
+]

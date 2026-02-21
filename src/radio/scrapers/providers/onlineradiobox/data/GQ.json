@@ -1,0 +1,115 @@
+[
+  {
+    "id": "onlineradiobox_gq.antennawebmalabo",
+    "name": "Antenna Web Malabo",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/134580.v2.png",
+    "stream_url": "https://tinyurl.com/AntennaWebMalabo",
+    "website": "https://antennaweb.it/antennaweb-malabo/",
+    "provider": "onlineradiobox",
+    "country": "Equatorial Guinea",
+    "genres": [
+      "rock",
+      "pop",
+      "blues",
+      "jazz",
+      "funk",
+      "reggaeton"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:21:03+05:30"
+  },
+  {
+    "id": "onlineradiobox_gq.guineequatoriallive",
+    "name": "Guiné Equatorial Live",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/126869.v3.png",
+    "stream_url": "https://sonicpanel.oficialserver.com:7220/;?",
+    "website": "https://guineequatoriallive.blogspot.com/",
+    "provider": "onlineradiobox",
+    "country": "Equatorial Guinea",
+    "genres": [
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:21:04+05:30"
+  },
+  {
+    "id": "onlineradiobox_gq.hero",
+    "name": "Hero Radio (Equatorial Guinea)",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/139090.v1.png",
+    "stream_url": "https://a2.asurahosting.com:6790/malabo.mp3",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Equatorial Guinea",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:21:02+05:30"
+  },
+  {
+    "id": "onlineradiobox_gq.lavozdelossinvoz",
+    "name": "La Voz De Los Sin Voz",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/43450.v1.png",
+    "stream_url": "http://s2.voscast.com:8098/;",
+    "website": "http://www.lavozdelossinvoz.gob.ar/",
+    "provider": "onlineradiobox",
+    "country": "Equatorial Guinea",
+    "genres": [
+      "news",
+      "talk",
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:21:02+05:30"
+  },
+  {
+    "id": "onlineradiobox_gq.lrcm",
+    "name": "LRCM Radio (Equatorial Guinea)",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/153066.v1.png",
+    "stream_url": "https://a8.asurahosting.com:8950/equatorialguinea.mp3",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Equatorial Guinea",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:21:04+05:30"
+  },
+  {
+    "id": "onlineradiobox_gq.rnge",
+    "name": "Radio Nacional de Guinea Ecuatorial",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/137978.v2.png",
+    "stream_url": "https://rrsatrtmp.tulix.tv/tvgeradio/tvgeradio/playlist.m3u8",
+    "website": "https://www.tvgelive.gq/radio.php",
+    "provider": "onlineradiobox",
+    "country": "Equatorial Guinea",
+    "genres": [
+      "news",
+      "talk",
+      "folk",
+      "african",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:21:04+05:30"
+  }
+]

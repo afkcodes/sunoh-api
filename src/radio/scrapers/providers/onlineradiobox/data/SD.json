@@ -1,0 +1,346 @@
+[
+  {
+    "id": "onlineradiobox_sd.ahlalsfaclubhouse",
+    "name": "❦ أهل الصفا ❦",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/112941.v24.png",
+    "stream_url": "https://tijaniyyah.asuscomm.com:8000/stream/4/",
+    "website": "https://ahlualsafa.wixsite.com/alsafa",
+    "provider": "onlineradiobox",
+    "country": "Sudan",
+    "genres": [
+      "house",
+      "talk",
+      "club",
+      "islamic",
+      "spiritual"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:38:30+05:30"
+  },
+  {
+    "id": "onlineradiobox_sd.almuqrin",
+    "name": "⬤ إذاعة المقرن ⬤",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/139328.v23.png",
+    "stream_url": "https://tijaniyyah.asuscomm.com:8000/stream/5/",
+    "website": "https://linktr.ee/al_mogran",
+    "provider": "onlineradiobox",
+    "country": "Sudan",
+    "genres": [
+      "news",
+      "talk",
+      "culture"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:38:32+05:30"
+  },
+  {
+    "id": "onlineradiobox_sd.alrabaa",
+    "name": "RADIO ALRABAA 94 FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/49588.v4.png",
+    "stream_url": "https://streams.radio.co/s909325731/listen",
+    "website": "https://alrabaafm.com/",
+    "provider": "onlineradiobox",
+    "country": "Sudan",
+    "genres": [
+      "news",
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:38:30+05:30"
+  },
+  {
+    "id": "onlineradiobox_sd.alsiyada",
+    "name": "۩ السيادة ۩",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/49585.v12.png",
+    "stream_url": "https://tijaniyyah.asuscomm.com:8000/stream/6/",
+    "website": "https://sheikhibrahimsaleh.com/ar",
+    "provider": "onlineradiobox",
+    "country": "Sudan",
+    "genres": [
+      "islamic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:38:28+05:30"
+  },
+  {
+    "id": "onlineradiobox_sd.alzainquranreciter",
+    "name": "Al Zain Quran Reciter",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/112089.v1.png",
+    "stream_url": "https://alzainquran.radioca.st/stream",
+    "website": "https://alzainquran.radioca.st/",
+    "provider": "onlineradiobox",
+    "country": "Sudan",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:38:27+05:30"
+  },
+  {
+    "id": "onlineradiobox_sd.antennawebkhartum",
+    "name": "Antenna Web Khartum",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/134845.v3.png",
+    "stream_url": "https://tinyurl.com/AntennaWebKhartum",
+    "website": "https://antennaweb.it/antennaweb-khartum/",
+    "provider": "onlineradiobox",
+    "country": "Sudan",
+    "genres": [
+      "rock",
+      "pop",
+      "blues",
+      "jazz",
+      "funk",
+      "reggaeton"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:38:31+05:30"
+  },
+  {
+    "id": "onlineradiobox_sd.aywa",
+    "name": "AYWA FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/49586.v5.png",
+    "stream_url": "https://cast4.asurahosting.com/proxy/aywafm/stream",
+    "website": "https://aywafm.com/",
+    "provider": "onlineradiobox",
+    "country": "Sudan",
+    "genres": [
+      "pop",
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:38:25+05:30"
+  },
+  {
+    "id": "onlineradiobox_sd.deeshak",
+    "name": "Radio DeeShaK!- Sudan",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/77928.v21.png",
+    "stream_url": "https://s7.reliastream.com/proxy/osmmal01?mp=/stream",
+    "website": "http://www.deeshak.com/",
+    "provider": "onlineradiobox",
+    "country": "Sudan",
+    "genres": [
+      "arabic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:38:23+05:30"
+  },
+  {
+    "id": "onlineradiobox_sd.gnsouthafrica",
+    "name": "Gn Radio - South Africa",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/150072.v1.png",
+    "stream_url": "https://a11.asurahosting.com:7360/sudan.mp3",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Sudan",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:38:31+05:30"
+  },
+  {
+    "id": "onlineradiobox_sd.hala",
+    "name": "HALA 96 FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/49587.v5.png",
+    "stream_url": "http://108.61.34.50:7026/stream",
+    "website": "http://hala96.com/",
+    "provider": "onlineradiobox",
+    "country": "Sudan",
+    "genres": [
+      "pop",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:38:25+05:30"
+  },
+  {
+    "id": "onlineradiobox_sd.hero",
+    "name": "Hero Radio (Sudan)",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/139024.v2.png",
+    "stream_url": "https://a2.asurahosting.com:6790/sudan.mp3",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Sudan",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:38:30+05:30"
+  },
+  {
+    "id": "onlineradiobox_sd.lrcm",
+    "name": "LRCM Radio (Sudan)",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/152994.v1.png",
+    "stream_url": "https://a8.asurahosting.com:8950/sudan.mp3",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Sudan",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:38:32+05:30"
+  },
+  {
+    "id": "onlineradiobox_sd.madeeh",
+    "name": "ﷺ إذاعة المديح ﷺ",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/49593.v11.png",
+    "stream_url": "https://tijaniyyah.asuscomm.com:8000/stream/3/",
+    "website": "https://tijaniyyah.wixsite.com/corner",
+    "provider": "onlineradiobox",
+    "country": "Sudan",
+    "genres": [
+      "islamic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:38:27+05:30"
+  },
+  {
+    "id": "onlineradiobox_sd.quran",
+    "name": "۞ إذاعة القرآن ۞",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/49591.v14.png",
+    "stream_url": "https://tijaniyyah.asuscomm.com:8000/stream/2/",
+    "website": "http://tijaniyyah.wixsite.com/corner",
+    "provider": "onlineradiobox",
+    "country": "Sudan",
+    "genres": [
+      "islamic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:38:26+05:30"
+  },
+  {
+    "id": "onlineradiobox_sd.radiomiraya",
+    "name": "Radio Miraya",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/32518.v4.png",
+    "stream_url": "https://s3.myradiostream.com:15919/listen.mp3",
+    "website": "http://unmiss.unmissions.org/",
+    "provider": "onlineradiobox",
+    "country": "Sudan",
+    "genres": [
+      "pop",
+      "news",
+      "talk",
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:38:24+05:30"
+  },
+  {
+    "id": "onlineradiobox_sd.samar",
+    "name": "RADIO SAMAR",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/48167.v4.png",
+    "stream_url": "https://radio.radiosamar.org/samar_64",
+    "website": "http://radiosamar.com/",
+    "provider": "onlineradiobox",
+    "country": "Sudan",
+    "genres": [
+      "pop",
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:38:28+05:30"
+  },
+  {
+    "id": "onlineradiobox_sd.southsudan",
+    "name": "radio south sudan",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/132726.v5.png",
+    "stream_url": "https://stream2.svrdedicado.org/8056/stream",
+    "website": "http://radiosouthsudan.online/",
+    "provider": "onlineradiobox",
+    "country": "Sudan",
+    "genres": [
+      "eclectic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:38:31+05:30"
+  },
+  {
+    "id": "onlineradiobox_sd.tijaniyyahcorner",
+    "name": "۩ الزاوية التجانية ۩",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/49592.v12.png",
+    "stream_url": "https://tijaniyyah.asuscomm.com:8000/stream/1/",
+    "website": "http://tijaniyyah.wixsite.com/corner",
+    "provider": "onlineradiobox",
+    "country": "Sudan",
+    "genres": [
+      "islamic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:38:26+05:30"
+  },
+  {
+    "id": "onlineradiobox_sd.tzgospel",
+    "name": "Tzgospel ( Sudan)",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/120188.v5.png",
+    "stream_url": "https://stream.zeno.fm/zr9ekek1zehvv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Sudan",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:38:29+05:30"
+  }
+]

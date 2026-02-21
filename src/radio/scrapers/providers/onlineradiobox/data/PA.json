@@ -1,0 +1,2764 @@
+[
+  {
+    "id": "onlineradiobox_pa.adoracion",
+    "name": "Radio Adoración Internacional",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/88810.v6.png",
+    "stream_url": "https://studio20.radiolize.com/radio/8050/radio.mp3",
+    "website": "https://casadeadoracionint.com/",
+    "provider": "onlineradiobox",
+    "country": "Panama",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:41:22+05:30"
+  },
+  {
+    "id": "onlineradiobox_pa.adventistapanama",
+    "name": "Adventista Panama",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/33463.v7.png",
+    "stream_url": "https://cloudstream2030.conectarhosting.com:9930/stream/1/",
+    "website": "http://www.lavozdepanama.org/",
+    "provider": "onlineradiobox",
+    "country": "Panama",
+    "genres": [
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:41:25+05:30"
+  },
+  {
+    "id": "onlineradiobox_pa.alfredo",
+    "name": "Alfredo Fm On Line",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/151117.v1.png",
+    "stream_url": "https://sonic2.sistemahost.es/8168/stream",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Panama",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:42:18+05:30"
+  },
+  {
+    "id": "onlineradiobox_pa.altope",
+    "name": "Al Tope Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/33452.v5.png",
+    "stream_url": "https://server.laradio.online/proxy/edwin_chacon?mp=/stream",
+    "website": "https://www.altoperadio.com/",
+    "provider": "onlineradiobox",
+    "country": "Panama",
+    "genres": [
+      "electronic",
+      "rock",
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:43:12+05:30"
+  },
+  {
+    "id": "onlineradiobox_pa.amorpanama",
+    "name": "Radio Amor Panama",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/107301.v1.png",
+    "stream_url": "https://stream.zeno.fm/y2u27kg5138uv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Panama",
+    "genres": [
+      "balada"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:38:19+05:30"
+  },
+  {
+    "id": "onlineradiobox_pa.antena8",
+    "name": "Antena 8",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/32775.v6.png",
+    "stream_url": "https://playerservices.streamtheworld.com/api/livestream-redirect/ANT8AAC.aac?dist=onlineradiobox",
+    "website": "https://www.antena8.com/",
+    "provider": "onlineradiobox",
+    "country": "Panama",
+    "genres": [
+      "pop",
+      "top40",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:38:17+05:30"
+  },
+  {
+    "id": "onlineradiobox_pa.antennawebpanama",
+    "name": "Antenna Web Panama",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/131979.v1.png",
+    "stream_url": "https://tinyurl.com/Antenna-Web-Panama",
+    "website": "https://antennaweb.it/antennaweb-panama/",
+    "provider": "onlineradiobox",
+    "country": "Panama",
+    "genres": [
+      "rock",
+      "pop",
+      "blues",
+      "jazz",
+      "funk",
+      "latin"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:42:28+05:30"
+  },
+  {
+    "id": "onlineradiobox_pa.ashe",
+    "name": "Ashe Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/112393.v1.png",
+    "stream_url": "http://c20.radioboss.fm:8240/stream",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Panama",
+    "genres": [
+      "gospel",
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:42:21+05:30"
+  },
+  {
+    "id": "onlineradiobox_pa.bautista",
+    "name": "Bautista",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/33571.v12.png",
+    "stream_url": "https://stream.zeno.fm/ptduhpdcd2zuv",
+    "website": "http://www.bautistadepanama.org/",
+    "provider": "onlineradiobox",
+    "country": "Panama",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:39:26+05:30"
+  },
+  {
+    "id": "onlineradiobox_pa.bbestereolive",
+    "name": "BB Estereo Live",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/117874.v3.png",
+    "stream_url": "https://stream.zeno.fm/cnqpc0fw1f8uv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Panama",
+    "genres": [
+      "balada"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:43:13+05:30"
+  },
+  {
+    "id": "onlineradiobox_pa.bbn",
+    "name": "BBN Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/32382.v7.png",
+    "stream_url": "https://streams.radiomast.io/844b0a81-f4b9-485e-adaa-aab8d3ea9f7f?referer=onlineradiobox",
+    "website": "http://www.bbnradio.org/",
+    "provider": "onlineradiobox",
+    "country": "Panama",
+    "genres": [
+      "talk",
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:41:23+05:30"
+  },
+  {
+    "id": "onlineradiobox_pa.beatlifepanama",
+    "name": "Radio Beat Life Panama",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/65234.v14.png",
+    "stream_url": "http://65.109.81.84:7221/;",
+    "website": "http://beatlifepanama.com/",
+    "provider": "onlineradiobox",
+    "country": "Panama",
+    "genres": [
+      "rock",
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:41:22+05:30"
+  },
+  {
+    "id": "onlineradiobox_pa.bombahitsstereo",
+    "name": "Bomba hits stereo panamá",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/137522.v1.png",
+    "stream_url": "http://uk19freenew.listen2myradio.com:38373/;",
+    "website": "https://bombahitsterio507.radio12345.com/",
+    "provider": "onlineradiobox",
+    "country": "Panama",
+    "genres": [
+      "classic",
+      "christian",
+      "80s",
+      "salsa",
+      "romantic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:43:12+05:30"
+  },
+  {
+    "id": "onlineradiobox_pa.boom",
+    "name": "Boom 106.1 FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/33642.v4.png",
+    "stream_url": "http://www.boom1061.com/player_boom.html",
+    "website": "http://www.boom1061.com/",
+    "provider": "onlineradiobox",
+    "country": "Panama",
+    "genres": [
+      "pop",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:41:28+05:30"
+  },
+  {
+    "id": "onlineradiobox_pa.boqueteon",
+    "name": "Radio Boquete On",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/118622.v5.png",
+    "stream_url": "http://freeuk18.listen2myradio.com:16767/;",
+    "website": "https://radioboquete.radiostream123.com/",
+    "provider": "onlineradiobox",
+    "country": "Panama",
+    "genres": [
+      "news"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:42:27+05:30"
+  },
+  {
+    "id": "onlineradiobox_pa.caliente",
+    "name": "Caliente Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/32765.v6.png",
+    "stream_url": "https://mdstrm.com/audio/5eed14940db5170768f36a0c/live.m3u8",
+    "website": "https://www.calienteradiopty.com/",
+    "provider": "onlineradiobox",
+    "country": "Panama",
+    "genres": [
+      "reggae",
+      "reggaeton",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:40:22+05:30"
+  },
+  {
+    "id": "onlineradiobox_pa.canajagua",
+    "name": "Radio Canajagua",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/32563.v6.png",
+    "stream_url": "https://securestreams.eu:7106/stream/;type=mp3",
+    "website": "http://www.canajaguaamstereo.com/",
+    "provider": "onlineradiobox",
+    "country": "Panama",
+    "genres": [
+      "pop",
+      "news",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:40:23+05:30"
+  },
+  {
+    "id": "onlineradiobox_pa.chiriqui",
+    "name": "Radio Chiriqui",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/32552.v13.png",
+    "stream_url": "https://stream.zeno.fm/jdakxvgm30ptv",
+    "website": "http://www.radiochiriqui.com/",
+    "provider": "onlineradiobox",
+    "country": "Panama",
+    "genres": [
+      "news",
+      "talk",
+      "sports",
+      "latin"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:38:20+05:30"
+  },
+  {
+    "id": "onlineradiobox_pa.chispastereo",
+    "name": "Chispa Stereo",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/124012.v9.png",
+    "stream_url": "https://radios0790.vegamultimedioshn.com:8090/;",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Panama",
+    "genres": [
+      "folk",
+      "culture",
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:40:30+05:30"
+  },
+  {
+    "id": "onlineradiobox_pa.cht1077",
+    "name": "Cht 107.7 FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/83117.v14.png",
+    "stream_url": "https://radios.host-pa.com:8046/;",
+    "website": "https://www.cht1077.com/",
+    "provider": "onlineradiobox",
+    "country": "Panama",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:38:17+05:30"
+  },
+  {
+    "id": "onlineradiobox_pa.claret",
+    "name": "Radio Claret",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/33228.v6.png",
+    "stream_url": "https://uk7freenew.listen2myradio.com/stream.mp3?ipport=82.145.41.50_14205",
+    "website": "http://www.radioclaret.net/",
+    "provider": "onlineradiobox",
+    "country": "Panama",
+    "genres": [
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:41:28+05:30"
+  },
+  {
+    "id": "onlineradiobox_pa.climatropical",
+    "name": "Clima Tropical",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/150017.v1.png",
+    "stream_url": "https://a8.asurahosting.com:7410/radio.mp3",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Panama",
+    "genres": [
+      "salsa",
+      "merengue",
+      "bachata"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:41:29+05:30"
+  },
+  {
+    "id": "onlineradiobox_pa.cntpradiopanama",
+    "name": "CNTP Radio Panama",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/33562.v4.png",
+    "stream_url": "https://sp4.colombiatelecom.com.co/8010/stream",
+    "website": "http://cntpaldia.org/",
+    "provider": "onlineradiobox",
+    "country": "Panama",
+    "genres": [
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:42:20+05:30"
+  },
+  {
+    "id": "onlineradiobox_pa.conectados",
+    "name": "Conectados Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/128697.v8.png",
+    "stream_url": "https://panel2.intermediahost.co:8190/stream",
+    "website": "https://conectadosturadio.blogspot.com/",
+    "provider": "onlineradiobox",
+    "country": "Panama",
+    "genres": [
+      "romantic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:42:28+05:30"
+  },
+  {
+    "id": "onlineradiobox_pa.coolfm",
+    "name": "Cool FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/32772.v4.png",
+    "stream_url": "https://playerservices.streamtheworld.com/api/livestream-redirect/COOLFMAAC_SC?dist=onlineradiobox",
+    "website": "http://www.coolfmpanama.com/",
+    "provider": "onlineradiobox",
+    "country": "Panama",
+    "genres": [
+      "jazz",
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:39:24+05:30"
+  },
+  {
+    "id": "onlineradiobox_pa.cristianayouthforchrist",
+    "name": "Radio Cristiana YouthForChrist",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/86917.v5.png",
+    "stream_url": "https://stream.zeno.fm/0vw3q18eytzuv",
+    "website": "https://iglesia-vida-nueva-de-higueron-de-gualaca-48.webself.net/",
+    "provider": "onlineradiobox",
+    "country": "Panama",
+    "genres": [
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:41:25+05:30"
+  },
+  {
+    "id": "onlineradiobox_pa.cristianisima",
+    "name": "Cristianisima Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/153821.v1.png",
+    "stream_url": "https://cast4.my-control-panel.com/proxy/cristiana?mp=/1",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Panama",
+    "genres": [
+      "pop",
+      "gospel",
+      "ranchera",
+      "salsa",
+      "balada",
+      "vallenato"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:43:22+05:30"
+  },
+  {
+    "id": "onlineradiobox_pa.decadassolobaladas",
+    "name": "Decadas Solo Baladas",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/121773.v3.png",
+    "stream_url": "https://stream.zeno.fm/5t7f63sd0rhvv",
+    "website": "https://decadaspanama.wixsite.com/website",
+    "provider": "onlineradiobox",
+    "country": "Panama",
+    "genres": [
+      "romantic",
+      "balada"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:38:17+05:30"
+  },
+  {
+    "id": "onlineradiobox_pa.disney",
+    "name": "Radio Disney",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/64932.v5.png",
+    "stream_url": "https://ic.streann.com/disneypanama",
+    "website": "http://radiodisney.disneylatino.com/panama",
+    "provider": "onlineradiobox",
+    "country": "Panama",
+    "genres": [
+      "pop",
+      "top40",
+      "children",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:38:21+05:30"
+  },
+  {
+    "id": "onlineradiobox_pa.djnun",
+    "name": "Dj. NuN Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/33459.v6.png",
+    "stream_url": "https://servidor17.brlogic.com:7946/live",
+    "website": "https://djnunradio.net/",
+    "provider": "onlineradiobox",
+    "country": "Panama",
+    "genres": [
+      "latin",
+      "salsa",
+      "balada"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:39:21+05:30"
+  },
+  {
+    "id": "onlineradiobox_pa.djscrewpanama",
+    "name": "djs_crewpanama",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/111136.v1.png",
+    "stream_url": "https://stream.zeno.fm/rd4bt07aqm0uv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Panama",
+    "genres": [],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:40:22+05:30"
+  },
+  {
+    "id": "onlineradiobox_pa.ecosazuero",
+    "name": "Ecos Azuero",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/136698.v4.png",
+    "stream_url": "https://radios0790.vegamultimedioshn.com:8150/;",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Panama",
+    "genres": [
+      "news",
+      "entertainment",
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:43:21+05:30"
+  },
+  {
+    "id": "onlineradiobox_pa.ekis",
+    "name": "Ekis Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/90646.v22.png",
+    "stream_url": "https://servidor40.brlogic.com:7114/live",
+    "website": "https://www.ekisradio.com/",
+    "provider": "onlineradiobox",
+    "country": "Panama",
+    "genres": [
+      "pop",
+      "top40",
+      "reggae",
+      "latin"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:41:31+05:30"
+  },
+  {
+    "id": "onlineradiobox_pa.ekisfmpanama",
+    "name": "Ekis fm Panamá",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/139822.v2.png",
+    "stream_url": "https://stream.zeno.fm/gjdnlcwfcccuv",
+    "website": "https://zeno.fm/radio/ekis-fm-panama-keyling/",
+    "provider": "onlineradiobox",
+    "country": "Panama",
+    "genres": [
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:43:17+05:30"
+  },
+  {
+    "id": "onlineradiobox_pa.elextro",
+    "name": "Elextro Radio Panamá",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/112804.v6.png",
+    "stream_url": "https://stream.zeno.fm/r681a2g07p8uv",
+    "website": "https://elextro-radio-panama.webnode.es/",
+    "provider": "onlineradiobox",
+    "country": "Panama",
+    "genres": [
+      "dance",
+      "electronic",
+      "house",
+      "gospel",
+      "eclectic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:41:27+05:30"
+  },
+  {
+    "id": "onlineradiobox_pa.elextrofm",
+    "name": "Elextro fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/113829.v3.png",
+    "stream_url": "https://stream.zeno.fm/ywtpem5r7x8uv",
+    "website": "https://elextro-fm.webnode.es/",
+    "provider": "onlineradiobox",
+    "country": "Panama",
+    "genres": [
+      "electronic",
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:43:20+05:30"
+  },
+  {
+    "id": "onlineradiobox_pa.emisoracristiana507",
+    "name": "Emisora Cristiana 507",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/94186.v3.png",
+    "stream_url": "https://music.wixstatic.com/preview/a6b72e_01aedb61a6c4429787697fe906f47222-128.mp3",
+    "website": "https://rigotel7.wixsite.com/emisoracristiana",
+    "provider": "onlineradiobox",
+    "country": "Panama",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:42:23+05:30"
+  },
+  {
+    "id": "onlineradiobox_pa.engelpanama",
+    "name": "Engel Radio Panamá",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/141225.v1.png",
+    "stream_url": "https://stream.zeno.fm/mh10jmiuxnhtv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Panama",
+    "genres": [
+      "electronic",
+      "reggaeton",
+      "romantic",
+      "balada"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:42:27+05:30"
+  },
+  {
+    "id": "onlineradiobox_pa.estereoazul",
+    "name": "Estereo Azul",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/33643.v3.png",
+    "stream_url": "https://playerservices.streamtheworld.com/api/livestream-redirect/ESTEREOAZULAAC.aac?dist=onlineradiobox",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Panama",
+    "genres": [
+      "pop",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:38:15+05:30"
+  },
+  {
+    "id": "onlineradiobox_pa.estereovida",
+    "name": "Estereo Vida",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/32781.v8.png",
+    "stream_url": "https://stream.zeno.fm/fz1rcfd1x1zuv",
+    "website": "http://www.stereovida.org/",
+    "provider": "onlineradiobox",
+    "country": "Panama",
+    "genres": [
+      "talk",
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:39:18+05:30"
+  },
+  {
+    "id": "onlineradiobox_pa.event2",
+    "name": "Eventos",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/94759.v15.png",
+    "stream_url": "https://stream.zeno.fm/ck6fjlpcjydtv",
+    "website": "https://zeno.fm/radio/event2/",
+    "provider": "onlineradiobox",
+    "country": "Panama",
+    "genres": [
+      "dancehall"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:41:24+05:30"
+  },
+  {
+    "id": "onlineradiobox_pa.fabulosaestereofm",
+    "name": "Fabulosa Estereo",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/33564.v7.png",
+    "stream_url": "https://www.streaming507.net:8130/stream",
+    "website": "http://www.fabulosaestereo.com/",
+    "provider": "onlineradiobox",
+    "country": "Panama",
+    "genres": [
+      "news",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:38:22+05:30"
+  },
+  {
+    "id": "onlineradiobox_pa.farodedavidstereo",
+    "name": "Faro de David Stereo",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/32771.v9.png",
+    "stream_url": "https://tv.farodedavid.com:7020/live;",
+    "website": "http://www.farodedavid.com/",
+    "provider": "onlineradiobox",
+    "country": "Panama",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:38:21+05:30"
+  },
+  {
+    "id": "onlineradiobox_pa.festival1540",
+    "name": "Festival 1540 AM",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/80510.v8.png",
+    "stream_url": "https://www.streaming507.net:8128/stream",
+    "website": "https://www.festival1540am.com/",
+    "provider": "onlineradiobox",
+    "country": "Panama",
+    "genres": [],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:39:25+05:30"
+  },
+  {
+    "id": "onlineradiobox_pa.fiestapanama",
+    "name": "Radio Fiesta Panamá",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/107027.v3.png",
+    "stream_url": "https://stream.zeno.fm/0f5t0xf68f8uv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Panama",
+    "genres": [
+      "ranchera",
+      "salsa",
+      "merengue",
+      "cumbia",
+      "vallenato"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:39:24+05:30"
+  },
+  {
+    "id": "onlineradiobox_pa.flowmusic",
+    "name": "Panama Flow Music",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/95525.v4.png",
+    "stream_url": "https://az.rackpa.com/listen/panamaflowmusic/radio.mp3",
+    "website": "https://panamaflowmusic.com/",
+    "provider": "onlineradiobox",
+    "country": "Panama",
+    "genres": [
+      "news",
+      "reggaeton",
+      "latin"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:41:27+05:30"
+  },
+  {
+    "id": "onlineradiobox_pa.fm99",
+    "name": "FM99",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/33497.v9.png",
+    "stream_url": "https://c34.radioboss.fm/stream/969",
+    "website": "http://www.fm99t-vs.com/",
+    "provider": "onlineradiobox",
+    "country": "Panama",
+    "genres": [
+      "pop",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:39:20+05:30"
+  },
+  {
+    "id": "onlineradiobox_pa.forevervirtual",
+    "name": "Forever Virtual Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/93716.v5.png",
+    "stream_url": "http://s5.voscast.com:9884/stream",
+    "website": "https://forevervirtual.net/",
+    "provider": "onlineradiobox",
+    "country": "Panama",
+    "genres": [
+      "electronic",
+      "rock",
+      "pop",
+      "90s",
+      "80s",
+      "balada"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:38:23+05:30"
+  },
+  {
+    "id": "onlineradiobox_pa.frecuenciaamigapanama",
+    "name": "Frecuencia Amiga Panama",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/87109.v10.png",
+    "stream_url": "http://65.108.198.245:8989/;",
+    "website": "https://frecuenciaamigapanama.com/",
+    "provider": "onlineradiobox",
+    "country": "Panama",
+    "genres": [
+      "pop",
+      "hits",
+      "balada"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:40:27+05:30"
+  },
+  {
+    "id": "onlineradiobox_pa.fusionmusic",
+    "name": "Fusion Music",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/118439.v6.png",
+    "stream_url": "https://stream.zeno.fm/idsj4jxw49ouv",
+    "website": "https://zeno.fm/radio/fusion-music/",
+    "provider": "onlineradiobox",
+    "country": "Panama",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:40:29+05:30"
+  },
+  {
+    "id": "onlineradiobox_pa.fusionmusiclatin",
+    "name": "Fusión Music Electronic",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/128566.v2.png",
+    "stream_url": "https://stream.zeno.fm/s7wlrjl60h5vv",
+    "website": "https://zeno.fm/radio/fusion-music-latin/",
+    "provider": "onlineradiobox",
+    "country": "Panama",
+    "genres": [
+      "salsa",
+      "merengue"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:42:18+05:30"
+  },
+  {
+    "id": "onlineradiobox_pa.gsrnjazz",
+    "name": "Global Sensations Radio Network - Jazz",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/87257.v14.png",
+    "stream_url": "https://ams-pioneer02.dedicateware.com:1285/stream",
+    "website": "https://www.gsrn-radio.net/",
+    "provider": "onlineradiobox",
+    "country": "Panama",
+    "genres": [
+      "jazz"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:39:23+05:30"
+  },
+  {
+    "id": "onlineradiobox_pa.hitlatinoamerica",
+    "name": "HIT FM Latinoamerica",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/73639.v13.png",
+    "stream_url": "https://laradiossl.online:10429/;",
+    "website": "https://www.radioparallevar.com/hitfmlatinoamerica",
+    "provider": "onlineradiobox",
+    "country": "Panama",
+    "genres": [
+      "pop",
+      "top40",
+      "reggaeton",
+      "latin"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:39:23+05:30"
+  },
+  {
+    "id": "onlineradiobox_pa.hogar",
+    "name": "Radio Hogar",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/32763.v4.png",
+    "stream_url": "https://www.streaming507.net:9222/stream",
+    "website": "http://www.radiohogar.org/",
+    "provider": "onlineradiobox",
+    "country": "Panama",
+    "genres": [
+      "christian",
+      "culture",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:40:24+05:30"
+  },
+  {
+    "id": "onlineradiobox_pa.holapanama",
+    "name": "Hola Panama",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/33511.v4.png",
+    "stream_url": "https://www.streaming507.net:8124/stream",
+    "website": "http://holapanama1033.com/",
+    "provider": "onlineradiobox",
+    "country": "Panama",
+    "genres": [
+      "pop",
+      "news",
+      "talk",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:39:21+05:30"
+  },
+  {
+    "id": "onlineradiobox_pa.hosannacapital",
+    "name": "Hosanna Capital",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/33566.v7.png",
+    "stream_url": "https://radios.host-pa.com:8044/stream",
+    "website": "http://hosannavision.com/",
+    "provider": "onlineradiobox",
+    "country": "Panama",
+    "genres": [
+      "rock",
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:39:20+05:30"
+  },
+  {
+    "id": "onlineradiobox_pa.hosannacarismatica",
+    "name": "Hosanna Carismatica",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/33588.v8.png",
+    "stream_url": "https://radios.host-pa.com:8002/;stream.mp3",
+    "website": "https://hosannavision.com/nosotros/hosanna-carismatica-94.9-fm/",
+    "provider": "onlineradiobox",
+    "country": "Panama",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:40:23+05:30"
+  },
+  {
+    "id": "onlineradiobox_pa.hosannastereo",
+    "name": "Hosanna Stereo",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/33644.v5.png",
+    "stream_url": "https://radios.host-pa.com:8050/stream",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Panama",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:43:18+05:30"
+  },
+  {
+    "id": "onlineradiobox_pa.hotmusic507",
+    "name": "HotMusic507",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/139951.v1.png",
+    "stream_url": "https://stream.zeno.fm/9zn8c484ry8uv",
+    "website": "https://hotmusic507.org/",
+    "provider": "onlineradiobox",
+    "country": "Panama",
+    "genres": [
+      "electronic",
+      "top40",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:42:19+05:30"
+  },
+  {
+    "id": "onlineradiobox_pa.impactopentecostal",
+    "name": "Impacto Pentecostal Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/116004.v3.png",
+    "stream_url": "https://stream.zeno.fm/rqtrhx94xuhvv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Panama",
+    "genres": [
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:42:26+05:30"
+  },
+  {
+    "id": "onlineradiobox_pa.imperialmuzik",
+    "name": "Imperial Muzik Fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/147264.v2.png",
+    "stream_url": "https://a9.asurahosting.com:8360/radio.mp3",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Panama",
+    "genres": [
+      "rock",
+      "pop",
+      "90s",
+      "80s",
+      "70s"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:39:19+05:30"
+  },
+  {
+    "id": "onlineradiobox_pa.infinitypanama",
+    "name": "Infinity Panama",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/33171.v3.png",
+    "stream_url": "https://s2.mexside.net/8048/stream",
+    "website": "http://infinitypanama.com/",
+    "provider": "onlineradiobox",
+    "country": "Panama",
+    "genres": [
+      "pop",
+      "top40",
+      "90s",
+      "00s",
+      "80s",
+      "70s"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:41:24+05:30"
+  },
+  {
+    "id": "onlineradiobox_pa.informate",
+    "name": "Informate fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/151588.v1.png",
+    "stream_url": "https://radios0790.vegamultimedioshn.com:8500/;",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Panama",
+    "genres": [
+      "news"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:43:10+05:30"
+  },
+  {
+    "id": "onlineradiobox_pa.internauta",
+    "name": "Radio Internauta",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/76719.v3.png",
+    "stream_url": "http://stream.radioreklama.bg/radio1rock.opus",
+    "website": "http://radiointernauta.com/",
+    "provider": "onlineradiobox",
+    "country": "Panama",
+    "genres": [
+      "rock",
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:40:25+05:30"
+  },
+  {
+    "id": "onlineradiobox_pa.jrtuemisora",
+    "name": "Jr Radio Tu Emisora",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/131054.v1.png",
+    "stream_url": "https://radio.vegamultimedios.com:7052/;",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Panama",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:43:15+05:30"
+  },
+  {
+    "id": "onlineradiobox_pa.kwcontinente",
+    "name": "KW Continente",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/32780.v8.png",
+    "stream_url": "https://s1.voscast.com:11355/stream.ogg",
+    "website": "http://www.kwcontinente.com/",
+    "provider": "onlineradiobox",
+    "country": "Panama",
+    "genres": [
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:38:19+05:30"
+  },
+  {
+    "id": "onlineradiobox_pa.labuena",
+    "name": "La Buena Radio Panama",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/33560.v7.png",
+    "stream_url": "https://stream.zeno.fm/qtmws4x8qmzuv",
+    "website": "http://www.labuenaradiopanama.com/",
+    "provider": "onlineradiobox",
+    "country": "Panama",
+    "genres": [
+      "latin"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:39:21+05:30"
+  },
+  {
+    "id": "onlineradiobox_pa.laexitosapanama",
+    "name": "LA EXITOSA 95.3 FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/33515.v13.png",
+    "stream_url": "https://stream.zeno.fm/nvpr0uec8e9uv",
+    "website": "https://laxitosapanama.com/",
+    "provider": "onlineradiobox",
+    "country": "Panama",
+    "genres": [
+      "news",
+      "top40",
+      "sports"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:38:21+05:30"
+  },
+  {
+    "id": "onlineradiobox_pa.laky",
+    "name": "La Ky 92.5 FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/33519.v10.png",
+    "stream_url": "https://playerservices.streamtheworld.com/api/livestream-redirect/LAKY_PANAMAAAC.aac?dist=onlineradiobox",
+    "website": "http://www.laky925.com/",
+    "provider": "onlineradiobox",
+    "country": "Panama",
+    "genres": [
+      "news",
+      "salsa"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:38:16+05:30"
+  },
+  {
+    "id": "onlineradiobox_pa.lamega",
+    "name": "La Mega 98.1 FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/33544.v5.png",
+    "stream_url": "https://www.streaming507.net:8152/stream",
+    "website": "http://www.lamegapanama.com/",
+    "provider": "onlineradiobox",
+    "country": "Panama",
+    "genres": [
+      "pop",
+      "news",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:38:24+05:30"
+  },
+  {
+    "id": "onlineradiobox_pa.laradio507",
+    "name": "Laradio507",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/87582.v4.png",
+    "stream_url": "http://equinox.shoutca.st:8953/stream",
+    "website": "http://www.laradio507.com/",
+    "provider": "onlineradiobox",
+    "country": "Panama",
+    "genres": [
+      "reggaeton",
+      "salsa",
+      "romantic",
+      "vallenato"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:40:29+05:30"
+  },
+  {
+    "id": "onlineradiobox_pa.lasser935",
+    "name": "Stereo Lasser 93.5 fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/128826.v2.png",
+    "stream_url": "https://sonicpanel.tmcreativos.com/8040/stream;",
+    "website": "https://www.activaradio.net/lasser93envivo",
+    "provider": "onlineradiobox",
+    "country": "Panama",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:42:26+05:30"
+  },
+  {
+    "id": "onlineradiobox_pa.latinmusicpty",
+    "name": "Latin Music Pty",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/151884.v4.png",
+    "stream_url": "https://c14.radioboss.fm:8381/stream",
+    "website": "https://c14.radioboss.fm/u/381",
+    "provider": "onlineradiobox",
+    "country": "Panama",
+    "genres": [
+      "pop",
+      "latin"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:39:19+05:30"
+  },
+  {
+    "id": "onlineradiobox_pa.lavozdelmanito",
+    "name": "Radio La Voz Del Manito Ocú",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/123229.v3.png",
+    "stream_url": "https://radios0790.vegamultimedioshn.com:8182/;",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Panama",
+    "genres": [
+      "folk",
+      "culture",
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:42:22+05:30"
+  },
+  {
+    "id": "onlineradiobox_pa.lelepanama",
+    "name": "LELE Radio Panamá",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/142885.v1.png",
+    "stream_url": "https://stream.zeno.fm/qzjt3uoqel6uv",
+    "website": "https://zeno.fm/radio/lele-radio-panama-enxf/",
+    "provider": "onlineradiobox",
+    "country": "Panama",
+    "genres": [
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:42:20+05:30"
+  },
+  {
+    "id": "onlineradiobox_pa.los40",
+    "name": "Los 40 Panamá",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/106174.v5.png",
+    "stream_url": "https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_PANAAC.aac?dist=onlineradiobox",
+    "website": "https://escucha.los40.com.pa/",
+    "provider": "onlineradiobox",
+    "country": "Panama",
+    "genres": [
+      "pop",
+      "news",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:43:13+05:30"
+  },
+  {
+    "id": "onlineradiobox_pa.los40principalespa",
+    "name": "Los 40 Principales PA",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/33176.v2.png",
+    "stream_url": "https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_PAN_SC?dist=onlineradiobox",
+    "website": "http://los40.com.pa/",
+    "provider": "onlineradiobox",
+    "country": "Panama",
+    "genres": [
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:40:21+05:30"
+  },
+  {
+    "id": "onlineradiobox_pa.lp",
+    "name": "LPRadio",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/108379.v4.png",
+    "stream_url": "https://s6.myradiostream.com:48705/stream",
+    "website": "https://lpradio.online/",
+    "provider": "onlineradiobox",
+    "country": "Panama",
+    "genres": [
+      "rock",
+      "pop",
+      "christian",
+      "latin"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:42:21+05:30"
+  },
+  {
+    "id": "onlineradiobox_pa.lxc",
+    "name": "LXC Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/99178.v2.png",
+    "stream_url": "https://stream.zeno.fm/wa9ftdsgfg8uv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Panama",
+    "genres": [
+      "dance",
+      "rap",
+      "hip-hop",
+      "reggaeton"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:43:20+05:30"
+  },
+  {
+    "id": "onlineradiobox_pa.magic",
+    "name": "Magic FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/92529.v7.png",
+    "stream_url": "https://laradio.stream/proxy/magicfm/stream",
+    "website": "https://www.radioparallevar.com/magicfm",
+    "provider": "onlineradiobox",
+    "country": "Panama",
+    "genres": [
+      "rock",
+      "pop",
+      "classic rock",
+      "90s",
+      "80s",
+      "70s",
+      "oldies",
+      "60s",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:39:22+05:30"
+  },
+  {
+    "id": "onlineradiobox_pa.marbellastereo",
+    "name": "Marbella Stereo",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/32784.v8.png",
+    "stream_url": "https://sonic.host-live.com/8318/stream",
+    "website": "http://www.marbellastereo.net/",
+    "provider": "onlineradiobox",
+    "country": "Panama",
+    "genres": [
+      "pop",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:39:22+05:30"
+  },
+  {
+    "id": "onlineradiobox_pa.mia",
+    "name": "Radio Mia - Los Santos",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/73798.v11.png",
+    "stream_url": "https://sonic.globalstream.pro/8042/stream",
+    "website": "http://www.radiomia920.com/",
+    "provider": "onlineradiobox",
+    "country": "Panama",
+    "genres": [
+      "pop",
+      "news",
+      "sports"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:40:26+05:30"
+  },
+  {
+    "id": "onlineradiobox_pa.miapanama",
+    "name": "Mia Panama",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/33212.v10.png",
+    "stream_url": "https://sonic.globalstream.pro/8036/stream",
+    "website": "http://www.radiomiapanama.com/",
+    "provider": "onlineradiobox",
+    "country": "Panama",
+    "genres": [
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:43:18+05:30"
+  },
+  {
+    "id": "onlineradiobox_pa.mil",
+    "name": "Play 103.7",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/32767.v7.png",
+    "stream_url": "https://22123.live.streamtheworld.com/PLAY_PANAMAAAC.aac",
+    "website": "https://play1037.com/",
+    "provider": "onlineradiobox",
+    "country": "Panama",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:40:25+05:30"
+  },
+  {
+    "id": "onlineradiobox_pa.miusikfmpanama",
+    "name": "Miusik Fm Panamá",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/140831.v1.png",
+    "stream_url": "https://stream.zeno.fm/0b5ptqikxbptv",
+    "website": "https://zeno.fm/radio/miusik-fm-panama/",
+    "provider": "onlineradiobox",
+    "country": "Panama",
+    "genres": [
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:43:21+05:30"
+  },
+  {
+    "id": "onlineradiobox_pa.mixesazuero",
+    "name": "Mixes Azuero Radio Panama",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/89499.v7.png",
+    "stream_url": "https://stream.zeno.fm/zpft5vns4tzuv",
+    "website": "https://mixesazuero-radio.jimdofree.com/",
+    "provider": "onlineradiobox",
+    "country": "Panama",
+    "genres": [
+      "reggaeton",
+      "salsa",
+      "merengue",
+      "bachata",
+      "dancehall"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:40:24+05:30"
+  },
+  {
+    "id": "onlineradiobox_pa.mqvradio",
+    "name": "MQV Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/33652.v4.png",
+    "stream_url": "http://stream2.servercristiano.com:8184/;",
+    "website": "https://imqv.com/radio",
+    "provider": "onlineradiobox",
+    "country": "Panama",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:40:21+05:30"
+  },
+  {
+    "id": "onlineradiobox_pa.musicacristianajuvenil",
+    "name": "Musica Cristiana Juvenil",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/52305.v10.png",
+    "stream_url": "http://144.91.97.7:9304/;stream.mp3",
+    "website": "https://musicacristianahq.com/",
+    "provider": "onlineradiobox",
+    "country": "Panama",
+    "genres": [
+      "reggae",
+      "salsa",
+      "merengue",
+      "bachata"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:39:27+05:30"
+  },
+  {
+    "id": "onlineradiobox_pa.musicalventure",
+    "name": "Musical Venture Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/33233.v10.png",
+    "stream_url": "https://cast6.my-control-panel.com/proxy/musicalv/stream",
+    "website": "http://musicalventureradio.com/",
+    "provider": "onlineradiobox",
+    "country": "Panama",
+    "genres": [
+      "adult contemporary",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:41:24+05:30"
+  },
+  {
+    "id": "onlineradiobox_pa.musicbox",
+    "name": "Music Box Panama",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/121772.v4.png",
+    "stream_url": "https://stream.zeno.fm/zkgxehtd0rhvv",
+    "website": "https://musicboxpma.wixsite.com/misitio",
+    "provider": "onlineradiobox",
+    "country": "Panama",
+    "genres": [
+      "salsa",
+      "merengue",
+      "bachata"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:41:28+05:30"
+  },
+  {
+    "id": "onlineradiobox_pa.ncradio",
+    "name": "NC Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/33654.v1.png",
+    "stream_url": "http://live.ncradio.fm/192.mp3",
+    "website": "http://ncradio.fm/",
+    "provider": "onlineradiobox",
+    "country": "Panama",
+    "genres": [
+      "pop",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:42:24+05:30"
+  },
+  {
+    "id": "onlineradiobox_pa.network",
+    "name": "Network Radio Panamá",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/144432.v3.png",
+    "stream_url": "https://stream.zeno.fm/xq7wmkdtvrhvv",
+    "website": "https://profquinter8.wixsite.com/todochiriqui",
+    "provider": "onlineradiobox",
+    "country": "Panama",
+    "genres": [
+      "pop",
+      "news",
+      "latin",
+      "salsa",
+      "balada"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:42:27+05:30"
+  },
+  {
+    "id": "onlineradiobox_pa.neuindie",
+    "name": "Neu Indie Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/100832.v1.png",
+    "stream_url": "https://stream.zeno.fm/5s2mcr5kxueuv",
+    "website": "https://neuindieradio.weebly.com/",
+    "provider": "onlineradiobox",
+    "country": "Panama",
+    "genres": [
+      "rock",
+      "folk",
+      "indie",
+      "alternative"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:41:30+05:30"
+  },
+  {
+    "id": "onlineradiobox_pa.nsrlive",
+    "name": "NSR LIVE",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/127182.v6.png",
+    "stream_url": "https://stream.nsrlive.vip/listen/nsrlive.vip/radio.mp3",
+    "website": "https://www.nsrlive.vip/",
+    "provider": "onlineradiobox",
+    "country": "Panama",
+    "genres": [
+      "talk",
+      "salsa",
+      "merengue"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:42:23+05:30"
+  },
+  {
+    "id": "onlineradiobox_pa.oasisdesantidad",
+    "name": "Oasis De Santidad",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/33216.v5.png",
+    "stream_url": "https://vox.nexlive.io:20010/stream",
+    "website": "http://www.oasisdesantidad.org/",
+    "provider": "onlineradiobox",
+    "country": "Panama",
+    "genres": [
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:39:22+05:30"
+  },
+  {
+    "id": "onlineradiobox_pa.okey963",
+    "name": "Okey 96.3 FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/80504.v8.png",
+    "stream_url": "https://www.streaming507.net:8100/stream",
+    "website": "http://okey963fm.com/",
+    "provider": "onlineradiobox",
+    "country": "Panama",
+    "genres": [
+      "top40",
+      "reggae",
+      "reggaeton",
+      "salsa"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:41:22+05:30"
+  },
+  {
+    "id": "onlineradiobox_pa.omegastereo",
+    "name": "Omega Stereo",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/32566.v6.png",
+    "stream_url": "https://www.streaming507.net:8048/stream",
+    "website": "http://omegastereo.com/",
+    "provider": "onlineradiobox",
+    "country": "Panama",
+    "genres": [
+      "classic rock"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:39:20+05:30"
+  },
+  {
+    "id": "onlineradiobox_pa.originalam",
+    "name": "Original AM",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/33179.v4.png",
+    "stream_url": "http://rosetta.shoutca.st:9264/stream/;",
+    "website": "http://www.original.com.pa/",
+    "provider": "onlineradiobox",
+    "country": "Panama",
+    "genres": [
+      "pop",
+      "news",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:39:27+05:30"
+  },
+  {
+    "id": "onlineradiobox_pa.originalstereo",
+    "name": "Original Stereo",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/33224.v6.png",
+    "stream_url": "http://rosetta.shoutca.st:8931/stream/;",
+    "website": "http://www.originalstereo.net/",
+    "provider": "onlineradiobox",
+    "country": "Panama",
+    "genres": [
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:38:19+05:30"
+  },
+  {
+    "id": "onlineradiobox_pa.palabraviva",
+    "name": "Radio PalabraViva",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/100958.v1.png",
+    "stream_url": "https://stream.zeno.fm/hgv6r3mx2zquv",
+    "website": "https://sites.google.com/view/radiovidaclassicinternacional/p%C3%A1gina-principal",
+    "provider": "onlineradiobox",
+    "country": "Panama",
+    "genres": [
+      "pop",
+      "jazz",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:41:25+05:30"
+  },
+  {
+    "id": "onlineradiobox_pa.panamaenvivo",
+    "name": "Panama En Vivo",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/105957.v6.png",
+    "stream_url": "http://i6.streams.ovh:16040/stream",
+    "website": "https://panamaenvivo.com/",
+    "provider": "onlineradiobox",
+    "country": "Panama",
+    "genres": [
+      "hip-hop",
+      "reggaeton"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:42:25+05:30"
+  },
+  {
+    "id": "onlineradiobox_pa.panamahitradio",
+    "name": "Panama Hit Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/32786.v4.png",
+    "stream_url": "https://www.streaming507.net:8024/stream",
+    "website": "http://panamahitradio.net/",
+    "provider": "onlineradiobox",
+    "country": "Panama",
+    "genres": [
+      "dance",
+      "electronic",
+      "hip-hop",
+      "reggae",
+      "reggaeton",
+      "salsa",
+      "bachata"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:38:26+05:30"
+  },
+  {
+    "id": "onlineradiobox_pa.panamarock",
+    "name": "Panama Rock  Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/134489.v5.png",
+    "stream_url": "http://uk4freenew.listen2myradio.com:15839/;",
+    "website": "https://pandbla.wixsite.com/prhr",
+    "provider": "onlineradiobox",
+    "country": "Panama",
+    "genres": [
+      "rock",
+      "pop",
+      "metal"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:43:22+05:30"
+  },
+  {
+    "id": "onlineradiobox_pa.panasalsa",
+    "name": "Panasalsa Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/101643.v2.png",
+    "stream_url": "https://sp4.colombiatelecom.com.co/8068/stream",
+    "website": "https://www.mjproductionssa.com/",
+    "provider": "onlineradiobox",
+    "country": "Panama",
+    "genres": [
+      "latin",
+      "salsa"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:40:26+05:30"
+  },
+  {
+    "id": "onlineradiobox_pa.pedregal",
+    "name": "Pedregal Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/138816.v1.png",
+    "stream_url": "https://stream.zeno.fm/groq5074j53uv",
+    "website": "https://sites.google.com/view/pedregal-radio",
+    "provider": "onlineradiobox",
+    "country": "Panama",
+    "genres": [
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:42:23+05:30"
+  },
+  {
+    "id": "onlineradiobox_pa.peninsula",
+    "name": "Radio Península",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/106610.v9.png",
+    "stream_url": "https://radio11.servidorderadio.net/8136/stream",
+    "website": "https://radiopeninsula.com/",
+    "provider": "onlineradiobox",
+    "country": "Panama",
+    "genres": [
+      "news",
+      "sports",
+      "culture"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:42:21+05:30"
+  },
+  {
+    "id": "onlineradiobox_pa.pos",
+    "name": "Pos Radio Panamá",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/120928.v7.png",
+    "stream_url": "https://s2.suenalive.com/8396/stream;stream.nsv;",
+    "website": "https://posradiopanama.com/",
+    "provider": "onlineradiobox",
+    "country": "Panama",
+    "genres": [
+      "news",
+      "salsa",
+      "merengue"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:42:24+05:30"
+  },
+  {
+    "id": "onlineradiobox_pa.quiuboestereo",
+    "name": "Quiubo Estereo",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/33646.v1.png",
+    "stream_url": "http://player.tritondigital.com/15451",
+    "website": "http://www.quiuboestereo.com/",
+    "provider": "onlineradiobox",
+    "country": "Panama",
+    "genres": [
+      "pop",
+      "latin"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:42:17+05:30"
+  },
+  {
+    "id": "onlineradiobox_pa.radio10",
+    "name": "Radio 10",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/127955.v2.png",
+    "stream_url": "https://uk2freenew.listen2myradio.com/stream.mp3?ipport=88.150.230.110_4783",
+    "website": "https://radio10panama.radio12345.com/",
+    "provider": "onlineradiobox",
+    "country": "Panama",
+    "genres": [
+      "rock",
+      "classic rock",
+      "metal"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:38:20+05:30"
+  },
+  {
+    "id": "onlineradiobox_pa.radiomaria",
+    "name": "Radio Maria",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/32769.v6.png",
+    "stream_url": "http://dreamsiteradiocp.com:8082/;",
+    "website": "http://www.radiomaria.org.pa/",
+    "provider": "onlineradiobox",
+    "country": "Panama",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:38:18+05:30"
+  },
+  {
+    "id": "onlineradiobox_pa.radiopanama",
+    "name": "Radio Panama",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/33549.v6.png",
+    "stream_url": "https://streaming.radiopanama.com.pa/stream",
+    "website": "http://www.radiopanama.com.pa/",
+    "provider": "onlineradiobox",
+    "country": "Panama",
+    "genres": [
+      "pop",
+      "news",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:39:24+05:30"
+  },
+  {
+    "id": "onlineradiobox_pa.rayitodesol",
+    "name": "Rayito de Sol",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/141444.v1.png",
+    "stream_url": "https://stream.zeno.fm/40qcbooofadvv",
+    "website": "https://zeno.fm/radio/rayito-de-sol/",
+    "provider": "onlineradiobox",
+    "country": "Panama",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:43:17+05:30"
+  },
+  {
+    "id": "onlineradiobox_pa.reallove",
+    "name": "Real Love Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/87878.v8.png",
+    "stream_url": "https://sp2.servidorrprivado.com/8204/stream",
+    "website": "http://rloveradio.com/",
+    "provider": "onlineradiobox",
+    "country": "Panama",
+    "genres": [
+      "christian contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:41:27+05:30"
+  },
+  {
+    "id": "onlineradiobox_pa.reddelevangeliodepanama",
+    "name": "Red Del evangelio de Panamá",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/126856.v1.png",
+    "stream_url": "https://sonicpanel.oficialserver.com:7160/;",
+    "website": "https://reddelevangeliodepanama.blogspot.com/",
+    "provider": "onlineradiobox",
+    "country": "Panama",
+    "genres": [
+      "pop",
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:42:22+05:30"
+  },
+  {
+    "id": "onlineradiobox_pa.republicaretro",
+    "name": "Republica Retro",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/93679.v5.png",
+    "stream_url": "https://stream.zeno.fm/k3ekxp11xrquv",
+    "website": "https://republicaretropty.wixsite.com/website",
+    "provider": "onlineradiobox",
+    "country": "Panama",
+    "genres": [
+      "rock",
+      "90s",
+      "80s"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:40:22+05:30"
+  },
+  {
+    "id": "onlineradiobox_pa.ritmo",
+    "name": "Ritmo 890 Am",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/128827.v2.png",
+    "stream_url": "https://sonicpanel.tmcreativos.com/8046/stream",
+    "website": "https://www.activaradio.net/ritmo890envivo",
+    "provider": "onlineradiobox",
+    "country": "Panama",
+    "genres": [],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:43:22+05:30"
+  },
+  {
+    "id": "onlineradiobox_pa.romanticaestereo",
+    "name": "Romantica Estereo",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/118134.v4.png",
+    "stream_url": "https://cast3.my-control-panel.com/proxy/ondabra5/stream",
+    "website": "http://romanticaestereo.com/",
+    "provider": "onlineradiobox",
+    "country": "Panama",
+    "genres": [
+      "pop",
+      "balada"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:38:25+05:30"
+  },
+  {
+    "id": "onlineradiobox_pa.romanticapanama",
+    "name": "Radio Romántica Panamá",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/125182.v8.png",
+    "stream_url": "https://stream.zeno.fm/q84q9ffcswzuv",
+    "website": "https://topchannelradios.com/romanticaradio/",
+    "provider": "onlineradiobox",
+    "country": "Panama",
+    "genres": [
+      "romantic",
+      "balada"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:38:17+05:30"
+  },
+  {
+    "id": "onlineradiobox_pa.romantik",
+    "name": "Romanti K",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/106905.v4.png",
+    "stream_url": "https://stream.zeno.fm/9huvcxyyty7uv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Panama",
+    "genres": [
+      "romantic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:43:16+05:30"
+  },
+  {
+    "id": "onlineradiobox_pa.rpcradio",
+    "name": "RPC Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/33541.v9.png",
+    "stream_url": "https://s9.stweb.tv/thinkindot-fast-3/live/playlist.m3u8",
+    "website": "http://www.rpcradio.com/",
+    "provider": "onlineradiobox",
+    "country": "Panama",
+    "genres": [
+      "news",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:38:22+05:30"
+  },
+  {
+    "id": "onlineradiobox_pa.rumba",
+    "name": "RUMBA FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/153959.v5.png",
+    "stream_url": "https://sonic.sistemahost.es/8090/stream",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Panama",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:42:28+05:30"
+  },
+  {
+    "id": "onlineradiobox_pa.salsa106",
+    "name": "Salsa 106",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/32551.v16.png",
+    "stream_url": "https://azura.panamastreaming.com/listen/salsa_106_radio/radio.mp3",
+    "website": "http://www.asondesalsa.com.pa/",
+    "provider": "onlineradiobox",
+    "country": "Panama",
+    "genres": [
+      "salsa"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:38:16+05:30"
+  },
+  {
+    "id": "onlineradiobox_pa.salsaenmovimiento",
+    "name": "Salsa En Movimiento Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/129074.v1.png",
+    "stream_url": "https://max.miradio.in/proxy/salsaenmovimiento/stream",
+    "website": "https://salsaenmovimiento.com/",
+    "provider": "onlineradiobox",
+    "country": "Panama",
+    "genres": [
+      "salsa"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:41:26+05:30"
+  },
+  {
+    "id": "onlineradiobox_pa.shalom",
+    "name": "Shalom 95.5 FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/33648.v6.png",
+    "stream_url": "https://usa7.fastcast4u.com/proxy/joaria00?mp=/1/stream.mp3",
+    "website": "http://shalomfm.net/",
+    "provider": "onlineradiobox",
+    "country": "Panama",
+    "genres": [
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:41:23+05:30"
+  },
+  {
+    "id": "onlineradiobox_pa.sol889",
+    "name": "SOL 88.9 FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/33231.v9.png",
+    "stream_url": "http://166.88.21.98:9834/;",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Panama",
+    "genres": [
+      "jazz",
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:43:19+05:30"
+  },
+  {
+    "id": "onlineradiobox_pa.sonora",
+    "name": "Radio Sonora",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/33575.v3.png",
+    "stream_url": "https://s30.myradiostream.com:20827/stream",
+    "website": "http://www.sonora1120.com/",
+    "provider": "onlineradiobox",
+    "country": "Panama",
+    "genres": [
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:40:23+05:30"
+  },
+  {
+    "id": "onlineradiobox_pa.stereofe",
+    "name": "Stereo Fe Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/33580.v8.png",
+    "stream_url": "https://www.streaming507.net:8016/stream",
+    "website": "http://www.stereoferadio.com/",
+    "provider": "onlineradiobox",
+    "country": "Panama",
+    "genres": [
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:38:16+05:30"
+  },
+  {
+    "id": "onlineradiobox_pa.superqfm",
+    "name": "Super Q FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/33649.v7.png",
+    "stream_url": "https://sqserver.superqpanama.net:8005/superqpanama",
+    "website": "http://superqpanama.net/",
+    "provider": "onlineradiobox",
+    "country": "Panama",
+    "genres": [
+      "pop",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:38:18+05:30"
+  },
+  {
+    "id": "onlineradiobox_pa.theurbanflow507",
+    "name": "Theurbanflow507",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/89175.v7.png",
+    "stream_url": "https://radio.chatarrarecords.com/listen/theurbanflow507.net/radio.mp3",
+    "website": "https://theurbanflow507.net/",
+    "provider": "onlineradiobox",
+    "country": "Panama",
+    "genres": [
+      "dance",
+      "electronic",
+      "rap",
+      "hip-hop",
+      "christian",
+      "reggae",
+      "reggaeton",
+      "salsa",
+      "merengue",
+      "bachata"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:40:24+05:30"
+  },
+  {
+    "id": "onlineradiobox_pa.top",
+    "name": "Top Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/123819.v1.png",
+    "stream_url": "https://app.sonicpanelradio.com/8054/stream",
+    "website": "https://www.topradiopanama.net/",
+    "provider": "onlineradiobox",
+    "country": "Panama",
+    "genres": [],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:40:27+05:30"
+  },
+  {
+    "id": "onlineradiobox_pa.toysradiopanam",
+    "name": "Toys Radio Panamá",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/140832.v2.png",
+    "stream_url": "https://stream.zeno.fm/dwi51vpfvftuv",
+    "website": "https://zeno.fm/radio/toys-radio-panama/",
+    "provider": "onlineradiobox",
+    "country": "Panama",
+    "genres": [
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:43:18+05:30"
+  },
+  {
+    "id": "onlineradiobox_pa.trading",
+    "name": "Trading Stereo",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/117010.v2.png",
+    "stream_url": "https://live.hbstreaming.com:1400/stream",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Panama",
+    "genres": [],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:43:19+05:30"
+  },
+  {
+    "id": "onlineradiobox_pa.tvn",
+    "name": "TVN Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/32559.v14.png",
+    "stream_url": "http://108.178.13.122:8235/stream",
+    "website": "http://radio.tvn-2.com/",
+    "provider": "onlineradiobox",
+    "country": "Panama",
+    "genres": [
+      "news",
+      "business",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:39:23+05:30"
+  },
+  {
+    "id": "onlineradiobox_pa.tzgospel",
+    "name": "Tzgospel Panama",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/128597.v2.png",
+    "stream_url": "https://stream.zeno.fm/2des6mv7hfhvv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Panama",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:43:15+05:30"
+  },
+  {
+    "id": "onlineradiobox_pa.ultrastereo",
+    "name": "Ultra Stereo 98.9 FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/33546.v5.png",
+    "stream_url": "https://www.streaming507.net:8134/stream?",
+    "website": "https://fmultrastereo.com/",
+    "provider": "onlineradiobox",
+    "country": "Panama",
+    "genres": [
+      "classic rock",
+      "90s",
+      "70s",
+      "60s"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:39:18+05:30"
+  },
+  {
+    "id": "onlineradiobox_pa.uncion",
+    "name": "Unción Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/97737.v3.png",
+    "stream_url": "https://rapidocdn.us/streaming/8216",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Panama",
+    "genres": [
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:40:21+05:30"
+  },
+  {
+    "id": "onlineradiobox_pa.vida",
+    "name": "Radio dinamismo",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/96290.v13.png",
+    "stream_url": "https://s1.jcbroadcast.org:8010/stream",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Panama",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:41:26+05:30"
+  },
+  {
+    "id": "onlineradiobox_pa.vidal",
+    "name": "Vidal Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/108917.v5.png",
+    "stream_url": "https://dj.vidalradio.com/live",
+    "website": "https://vidaradio.com/",
+    "provider": "onlineradiobox",
+    "country": "Panama",
+    "genres": [
+      "salsa"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:41:29+05:30"
+  },
+  {
+    "id": "onlineradiobox_pa.vidastereointernacional",
+    "name": "Vida Stereo Internacional",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/100957.v3.png",
+    "stream_url": "https://stream.zeno.fm/ghe5chqxduquv",
+    "website": "https://sites.google.com/view/radiovidaclassicinternacional/p%C3%A1gina-principal",
+    "provider": "onlineradiobox",
+    "country": "Panama",
+    "genres": [
+      "pop",
+      "retro",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:43:23+05:30"
+  },
+  {
+    "id": "onlineradiobox_pa.visionglobalradio",
+    "name": "Visión Global Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/33585.v3.png",
+    "stream_url": "http://190.34.203.178:8000/tnt?type=.mp3/;stream.mp3",
+    "website": "http://www.visionglobalplus.com/",
+    "provider": "onlineradiobox",
+    "country": "Panama",
+    "genres": [
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:38:18+05:30"
+  },
+  {
+    "id": "onlineradiobox_pa.visionpanama",
+    "name": "Visión Panamá",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/60986.v7.png",
+    "stream_url": "http://streamingraddios.online:10426/;",
+    "website": "http://www.visionpanama.com/",
+    "provider": "onlineradiobox",
+    "country": "Panama",
+    "genres": [
+      "pop",
+      "christian",
+      "salsa",
+      "merengue",
+      "balada"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:40:28+05:30"
+  },
+  {
+    "id": "onlineradiobox_pa.vistazoonline",
+    "name": "Vistazo Online",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/90666.v5.png",
+    "stream_url": "https://pcbrothers.net/listen/vistazoonline/vistazoonline",
+    "website": "https://vistazoonline.com/",
+    "provider": "onlineradiobox",
+    "country": "Panama",
+    "genres": [
+      "news",
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:43:14+05:30"
+  },
+  {
+    "id": "onlineradiobox_pa.vitamina",
+    "name": "Radio Vitamina",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/100697.v4.png",
+    "stream_url": "http://s1.jlchost.com:8000/radiovitamina",
+    "website": "https://radiovitamina.net/",
+    "provider": "onlineradiobox",
+    "country": "Panama",
+    "genres": [
+      "pop",
+      "reggaeton",
+      "salsa",
+      "cumbia",
+      "bachata"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:41:30+05:30"
+  },
+  {
+    "id": "onlineradiobox_pa.vocesdelcorazn",
+    "name": "voces del corazón",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/136496.v13.png",
+    "stream_url": "https://radios.regionlatina.com:8000/vocesdelcorazon",
+    "website": "https://vocesdelcorazon.net/",
+    "provider": "onlineradiobox",
+    "country": "Panama",
+    "genres": [
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:43:11+05:30"
+  },
+  {
+    "id": "onlineradiobox_pa.voxpanama",
+    "name": "VOX Panamá",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/33651.v7.png",
+    "stream_url": "https://streaming.newvoxpanama.com/vox.mp3",
+    "website": "https://www.newvoxpanama.com/",
+    "provider": "onlineradiobox",
+    "country": "Panama",
+    "genres": [
+      "ethnic",
+      "salsa"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:40:27+05:30"
+  },
+  {
+    "id": "onlineradiobox_pa.wakala",
+    "name": "Wakala Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/85697.v5.png",
+    "stream_url": "https://wakalaradio.radioca.st/stream",
+    "website": "http://www.wakalaradio.com/",
+    "provider": "onlineradiobox",
+    "country": "Panama",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:40:28+05:30"
+  },
+  {
+    "id": "onlineradiobox_pa.wao",
+    "name": "WAO",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/32557.v11.png",
+    "stream_url": "http://ic.streann.com:8000/wao",
+    "website": "http://www.wao975.fm/",
+    "provider": "onlineradiobox",
+    "country": "Panama",
+    "genres": [
+      "pop",
+      "news"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:39:25+05:30"
+  },
+  {
+    "id": "onlineradiobox_pa.wdlq",
+    "name": "WDLQ RADIO",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/131021.v1.png",
+    "stream_url": "https://sp.oyotunstream.com/8168/stream",
+    "website": "https://wdlqradio.com/",
+    "provider": "onlineradiobox",
+    "country": "Panama",
+    "genres": [
+      "90s",
+      "80s",
+      "70s",
+      "latin"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:39:25+05:30"
+  },
+  {
+    "id": "onlineradiobox_pa.wradiopanama",
+    "name": "W Radio Panama",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/32544.v8.png",
+    "stream_url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WRADIOAAC.aac?dist=onlineradiobox",
+    "website": "https://www.wradio.com.co/",
+    "provider": "onlineradiobox",
+    "country": "Panama",
+    "genres": [
+      "news",
+      "talk",
+      "sports"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:41:26+05:30"
+  },
+  {
+    "id": "onlineradiobox_pa.xona",
+    "name": "Xona 102.3 FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/32792.v5.png",
+    "stream_url": "https://sh4.radioonlinehd.com:8504/stream",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Panama",
+    "genres": [
+      "hip-hop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:40:25+05:30"
+  }
+]

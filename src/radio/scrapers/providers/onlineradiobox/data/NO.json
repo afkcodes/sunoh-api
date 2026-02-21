@@ -1,0 +1,2514 @@
+[
+  {
+    "id": "onlineradiobox_no.102",
+    "name": "Radio 102",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/16117.v7.png",
+    "stream_url": "https://stream.radio102.no/radio102_hq",
+    "website": "http://www.radio102.no/",
+    "provider": "onlineradiobox",
+    "country": "Norway",
+    "genres": [
+      "news",
+      "sports",
+      "culture"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:31:48+05:30"
+  },
+  {
+    "id": "onlineradiobox_no.1fm",
+    "name": "1FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/15795.v5.png",
+    "stream_url": "https://lyd.1fm.no/1fm_hq",
+    "website": "https://www.1fmmolde.com/",
+    "provider": "onlineradiobox",
+    "country": "Norway",
+    "genres": [
+      "top40",
+      "dj",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:30:45+05:30"
+  },
+  {
+    "id": "onlineradiobox_no.2bergen",
+    "name": "Radio 2 Bergen",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/87347.v4.png",
+    "stream_url": "https://stream.radio.co/s81da37707/listen",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Norway",
+    "genres": [
+      "dance",
+      "rock",
+      "pop",
+      "90s"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:31:51+05:30"
+  },
+  {
+    "id": "onlineradiobox_no.5000bergen",
+    "name": "5000 Bergen",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/91937.v3.png",
+    "stream_url": "https://bergen5000.radioca.st/stream",
+    "website": "http://5000bergen.no/",
+    "provider": "onlineradiobox",
+    "country": "Norway",
+    "genres": [
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:31:44+05:30"
+  },
+  {
+    "id": "onlineradiobox_no.777norway",
+    "name": "777 Radio Norway",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/130015.v1.png",
+    "stream_url": "https://stream.zeno.fm/8pyry4ipidnuv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Norway",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:32:38+05:30"
+  },
+  {
+    "id": "onlineradiobox_no.901rox",
+    "name": "Radio ROX",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/20347.v7.png",
+    "stream_url": "https://live-nors.sharp-stream.com/nors13.mp3",
+    "website": "http://www.radiorox.no/",
+    "provider": "onlineradiobox",
+    "country": "Norway",
+    "genres": [
+      "rock",
+      "metal"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:30:49+05:30"
+  },
+  {
+    "id": "onlineradiobox_no.adikanfo",
+    "name": "Adikanfo FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/20280.v2.png",
+    "stream_url": "http://adikanforadio.org:1040/;",
+    "website": "http://adikanforadio.org/",
+    "provider": "onlineradiobox",
+    "country": "Norway",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:34:32+05:30"
+  },
+  {
+    "id": "onlineradiobox_no.ainordic",
+    "name": "Radio StAI",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/150202.v5.png",
+    "stream_url": "https://stream.zeno.fm/1z2xfh076zhvv",
+    "website": "https://dansebandmusikk.webnode.page/",
+    "provider": "onlineradiobox",
+    "country": "Norway",
+    "genres": [
+      "dance",
+      "country"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:32:47+05:30"
+  },
+  {
+    "id": "onlineradiobox_no.alesund",
+    "name": "Radio Ålesund",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/49614.v5.png",
+    "stream_url": "https://audio.radioaalesund.no/aalesund_hq",
+    "website": "https://www.radioaalesund.no/",
+    "provider": "onlineradiobox",
+    "country": "Norway",
+    "genres": [
+      "pop",
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:32:44+05:30"
+  },
+  {
+    "id": "onlineradiobox_no.allmusic",
+    "name": "AllMusic.Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/138336.v5.png",
+    "stream_url": "https://a8.asurahosting.com:8770/radio.mp3",
+    "website": "https://allmusic.radio/",
+    "provider": "onlineradiobox",
+    "country": "Norway",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:33:38+05:30"
+  },
+  {
+    "id": "onlineradiobox_no.askoy",
+    "name": "Radio Askøy",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/17976.v4.png",
+    "stream_url": "https://radioaskoy.radioca.st/sender",
+    "website": "http://www.radioaskoy.no/",
+    "provider": "onlineradiobox",
+    "country": "Norway",
+    "genres": [
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:32:40+05:30"
+  },
+  {
+    "id": "onlineradiobox_no.atlantic",
+    "name": "Radio Atlantic",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/49619.v7.png",
+    "stream_url": "https://audio.radioatlantic.no/atlantic_hq",
+    "website": "https://www.radioatlantic.no/",
+    "provider": "onlineradiobox",
+    "country": "Norway",
+    "genres": [
+      "pop",
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:33:39+05:30"
+  },
+  {
+    "id": "onlineradiobox_no.bardufoss",
+    "name": "Radio Bardufoss",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/49615.v2.png",
+    "stream_url": "https://stream.radio3.no/radiobardufoss192",
+    "website": "http://www.bardufoss.no/",
+    "provider": "onlineradiobox",
+    "country": "Norway",
+    "genres": [
+      "pop",
+      "news",
+      "talk",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:35:10+05:30"
+  },
+  {
+    "id": "onlineradiobox_no.beat",
+    "name": "The Beat",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/15793.v5.png",
+    "stream_url": "https://live-nors.sharp-stream.com/nors17.mp3",
+    "website": "http://thebeat.no/",
+    "provider": "onlineradiobox",
+    "country": "Norway",
+    "genres": [
+      "r'n'b",
+      "hip-hop",
+      "soul",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:30:37+05:30"
+  },
+  {
+    "id": "onlineradiobox_no.beiarn",
+    "name": "Beiarn Radioen",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/49386.v3.png",
+    "stream_url": "http://99.198.118.250:8122/;stream.mp3",
+    "website": "http://www.beiarradioen.no/",
+    "provider": "onlineradiobox",
+    "country": "Norway",
+    "genres": [
+      "folk",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:33:37+05:30"
+  },
+  {
+    "id": "onlineradiobox_no.bighiphoprnb",
+    "name": "BIG HipHop &amp; RnB",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/115695.v1.png",
+    "stream_url": "https://live-bauerno.sharp-stream.com/bm_popup3_no_vip",
+    "website": "https://radioplay.no/bigradio/",
+    "provider": "onlineradiobox",
+    "country": "Norway",
+    "genres": [
+      "r'n'b",
+      "rap",
+      "hip-hop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:34:40+05:30"
+  },
+  {
+    "id": "onlineradiobox_no.bittersweetmusicno",
+    "name": "Bitter Sweet Music NO",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/80467.v13.png",
+    "stream_url": "http://91.121.236.34:8520/no",
+    "website": "http://www.bittersweetmusic.ro/",
+    "provider": "onlineradiobox",
+    "country": "Norway",
+    "genres": [
+      "chill-out"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:30:42+05:30"
+  },
+  {
+    "id": "onlineradiobox_no.broer",
+    "name": "Broer",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/152154.v2.png",
+    "stream_url": "https://listen.radioking.com/radio/773624/stream/840965",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Norway",
+    "genres": [
+      "love songs"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:34:38+05:30"
+  },
+  {
+    "id": "onlineradiobox_no.bygdevest",
+    "name": "Bygderadio Vest",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/49387.v2.png",
+    "stream_url": "http://radio.bygderadiovest.no:8000/radio",
+    "website": "http://bygderadiovest.no/",
+    "provider": "onlineradiobox",
+    "country": "Norway",
+    "genres": [
+      "pop",
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:32:43+05:30"
+  },
+  {
+    "id": "onlineradiobox_no.crt",
+    "name": "CRT Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/150019.v4.png",
+    "stream_url": "https://streaming.broadcast.radio/crt-radio",
+    "website": "https://www.radioamigosdorock.aguiahost.net.br/",
+    "provider": "onlineradiobox",
+    "country": "Norway",
+    "genres": [
+      "pop",
+      "easy listening",
+      "80s"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:34:38+05:30"
+  },
+  {
+    "id": "onlineradiobox_no.dansbandradioen",
+    "name": "Dansbandradioen",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/70351.v25.png",
+    "stream_url": "https://live-nors.sharp-stream.com/nors1.mp3",
+    "website": "https://www.dansbandradioen.no/",
+    "provider": "onlineradiobox",
+    "country": "Norway",
+    "genres": [
+      "dance",
+      "rock",
+      "country",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:30:48+05:30"
+  },
+  {
+    "id": "onlineradiobox_no.danseband1",
+    "name": "Danseband jukebox",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/130575.v24.png",
+    "stream_url": "https://a9.asurahosting.com/listen/radio_danseband/radio.mp3",
+    "website": "https://dansebandjukebox.mobirisesite.com/",
+    "provider": "onlineradiobox",
+    "country": "Norway",
+    "genres": [
+      "dance",
+      "country",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:31:43+05:30"
+  },
+  {
+    "id": "onlineradiobox_no.domen",
+    "name": "Radio Domen",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/111925.v1.png",
+    "stream_url": "https://lyd.radiodomen.no/domen_hq",
+    "website": "https://www.radiodomen.no/",
+    "provider": "onlineradiobox",
+    "country": "Norway",
+    "genres": [
+      "folk",
+      "country"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:34:34+05:30"
+  },
+  {
+    "id": "onlineradiobox_no.duen",
+    "name": "Duen Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/66430.v5.png",
+    "stream_url": "https://streams.radio.co/s07e510a23/listen",
+    "website": "http://www.duenradio.com/",
+    "provider": "onlineradiobox",
+    "country": "Norway",
+    "genres": [
+      "pop",
+      "top40",
+      "90s",
+      "80s",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:32:42+05:30"
+  },
+  {
+    "id": "onlineradiobox_no.e6",
+    "name": "Radio E6",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/20354.v3.png",
+    "stream_url": "http://93.89.112.234:88/broadwavehigh.mp3",
+    "website": "https://opp.no/kontakt-og-hjelp/radio-e6",
+    "provider": "onlineradiobox",
+    "country": "Norway",
+    "genres": [
+      "rock",
+      "country"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:33:33+05:30"
+  },
+  {
+    "id": "onlineradiobox_no.edirekte",
+    "name": "Radio-E Direkte",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/146957.v4.png",
+    "stream_url": "https://listen.radioking.com/radio/744748/stream/811303",
+    "website": "https://www.radio-e.no/",
+    "provider": "onlineradiobox",
+    "country": "Norway",
+    "genres": [
+      "sports",
+      "culture"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:33:37+05:30"
+  },
+  {
+    "id": "onlineradiobox_no.elverumsradioen",
+    "name": "ElverumsRadioen",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/20281.v3.png",
+    "stream_url": "https://lyd.radioene.no/elverum.mp3",
+    "website": "https://elverumsradioen.no/",
+    "provider": "onlineradiobox",
+    "country": "Norway",
+    "genres": [
+      "pop",
+      "news",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:34:36+05:30"
+  },
+  {
+    "id": "onlineradiobox_no.filadelfia",
+    "name": "Radio 3,16",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/20258.v3.png",
+    "stream_url": "https://streaming.radio.co/se326fb378/listen",
+    "website": "http://filadelfiakristiansand.no/",
+    "provider": "onlineradiobox",
+    "country": "Norway",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:31:48+05:30"
+  },
+  {
+    "id": "onlineradiobox_no.fm101",
+    "name": "FM101",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/49605.v5.png",
+    "stream_url": "http://ipradio.no:8000/FM101",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Norway",
+    "genres": [
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:33:34+05:30"
+  },
+  {
+    "id": "onlineradiobox_no.fm8000",
+    "name": "FM 8000",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/49363.v3.png",
+    "stream_url": "https://radio8000.radioca.st/radio8000",
+    "website": "http://www.fm8000.no/",
+    "provider": "onlineradiobox",
+    "country": "Norway",
+    "genres": [
+      "pop",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:32:39+05:30"
+  },
+  {
+    "id": "onlineradiobox_no.fnf",
+    "name": "FnF.Fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/20282.v8.png",
+    "stream_url": "https://eu6.fastcast4u.com/proxy/arrahm00?mp=/1",
+    "website": "https://www.fnf.fm/",
+    "provider": "onlineradiobox",
+    "country": "Norway",
+    "genres": [
+      "rock",
+      "pop",
+      "top40",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:32:40+05:30"
+  },
+  {
+    "id": "onlineradiobox_no.grenland",
+    "name": "Radio Grenland",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/49366.v6.png",
+    "stream_url": "https://audio.radiogrenland.no/grenland_hq",
+    "website": "https://www.radiogrenland.no/",
+    "provider": "onlineradiobox",
+    "country": "Norway",
+    "genres": [
+      "pop",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:31:43+05:30"
+  },
+  {
+    "id": "onlineradiobox_no.gudbrandsdals",
+    "name": "Gudbrandsdals Radioen",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/86414.v3.png",
+    "stream_url": "https://lyd.radioene.no/gdal.mp3",
+    "website": "https://gudbrandsdalsradioen.no/",
+    "provider": "onlineradiobox",
+    "country": "Norway",
+    "genres": [
+      "rock",
+      "pop",
+      "news",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:33:35+05:30"
+  },
+  {
+    "id": "onlineradiobox_no.guovdageainnulagas",
+    "name": "Guovdageainnu Lagasradio",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/44737.v2.png",
+    "stream_url": "https://streaming.radio.co/s5b773f8d3/listen",
+    "website": "http://www.glr.no/",
+    "provider": "onlineradiobox",
+    "country": "Norway",
+    "genres": [
+      "news",
+      "sports"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:33:39+05:30"
+  },
+  {
+    "id": "onlineradiobox_no.gylnehits",
+    "name": "Gylne Hits Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/49384.v2.png",
+    "stream_url": "http://comet.shoutca.st:8692/;",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Norway",
+    "genres": [
+      "90s",
+      "00s",
+      "80s",
+      "70s",
+      "60s",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:31:41+05:30"
+  },
+  {
+    "id": "onlineradiobox_no.hamarradioen",
+    "name": "HamarRadioen",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/53047.v4.png",
+    "stream_url": "https://lyd.radioene.no/hamar.mp3",
+    "website": "http://www.hamarradioen.no/",
+    "provider": "onlineradiobox",
+    "country": "Norway",
+    "genres": [
+      "pop",
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:31:49+05:30"
+  },
+  {
+    "id": "onlineradiobox_no.harrys",
+    "name": "Harrys Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/144200.v2.png",
+    "stream_url": "https://mpc1.mediacp.eu:8208/stream",
+    "website": "http://harrys.radio/",
+    "provider": "onlineradiobox",
+    "country": "Norway",
+    "genres": [
+      "disco",
+      "pop",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:33:44+05:30"
+  },
+  {
+    "id": "onlineradiobox_no.harstad",
+    "name": "Radio Harstad",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/49616.v4.png",
+    "stream_url": "http://185.146.102.14:8000/stream/1/",
+    "website": "http://www.radioharstad.no/",
+    "provider": "onlineradiobox",
+    "country": "Norway",
+    "genres": [
+      "pop",
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:34:35+05:30"
+  },
+  {
+    "id": "onlineradiobox_no.haugaland",
+    "name": "Radio Haugaland",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/17981.v2.png",
+    "stream_url": "http://radioip.no:8000/stream/1/;",
+    "website": "http://radioh.no/",
+    "provider": "onlineradiobox",
+    "country": "Norway",
+    "genres": [
+      "top40",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:34:34+05:30"
+  },
+  {
+    "id": "onlineradiobox_no.headcleaner",
+    "name": "Headcleaner",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/53753.v6.png",
+    "stream_url": "https://headcleaner.stream.laut.fm/headcleaner",
+    "website": "https://laut.fm/headcleaner",
+    "provider": "onlineradiobox",
+    "country": "Norway",
+    "genres": [
+      "rap",
+      "hip-hop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:34:31+05:30"
+  },
+  {
+    "id": "onlineradiobox_no.hero",
+    "name": "Hero Radio (Norway)",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/147026.v3.png",
+    "stream_url": "https://a2.asurahosting.com:6790/norway.mp3",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Norway",
+    "genres": [
+      "news",
+      "gospel",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:35:12+05:30"
+  },
+  {
+    "id": "onlineradiobox_no.history",
+    "name": "Historyradio.org",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/78785.v2.png",
+    "stream_url": "https://stream.radiojar.com/6bmecgg3wd5tv",
+    "website": "https://historyradio.org/",
+    "provider": "onlineradiobox",
+    "country": "Norway",
+    "genres": [
+      "talk",
+      "education"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:30:44+05:30"
+  },
+  {
+    "id": "onlineradiobox_no.icprmnorway",
+    "name": "ICPRM RADIO Norway",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/73660.v3.png",
+    "stream_url": "https://stream.zenolive.com/71be2x2429duv",
+    "website": "http://icprmradiostation.weebly.com/",
+    "provider": "onlineradiobox",
+    "country": "Norway",
+    "genres": [
+      "hits",
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:34:37+05:30"
+  },
+  {
+    "id": "onlineradiobox_no.inter",
+    "name": "Inter FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/49607.v6.png",
+    "stream_url": "https://stream.interfm.no/interfm_mq",
+    "website": "http://interfm.no/",
+    "provider": "onlineradiobox",
+    "country": "Norway",
+    "genres": [
+      "pop",
+      "news",
+      "talk",
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:33:40+05:30"
+  },
+  {
+    "id": "onlineradiobox_no.inthemixstyle",
+    "name": "Inthemixstyle Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/66993.v13.png",
+    "stream_url": "https://s4.radio.co/see8af2dc7/listen",
+    "website": "https://inthemixstyle.com/radio-inthemixstyle/",
+    "provider": "onlineradiobox",
+    "country": "Norway",
+    "genres": [
+      "latin"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:32:42+05:30"
+  },
+  {
+    "id": "onlineradiobox_no.jaer",
+    "name": "JærRadioen",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/49608.v5.png",
+    "stream_url": "https://audio.jaerradioen.no/jaerradioen_hq",
+    "website": "http://www.jaerradioen.no/",
+    "provider": "onlineradiobox",
+    "country": "Norway",
+    "genres": [
+      "pop",
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:32:47+05:30"
+  },
+  {
+    "id": "onlineradiobox_no.jrenmisjonsradio",
+    "name": "Jæren Misjonsradio",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/20309.v4.png",
+    "stream_url": "http://radioip.no:443/jm",
+    "website": "http://www.jmradio.no/",
+    "provider": "onlineradiobox",
+    "country": "Norway",
+    "genres": [
+      "christian",
+      "children",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:33:38+05:30"
+  },
+  {
+    "id": "onlineradiobox_no.juliinnlandet",
+    "name": "Radio Jul i Innlandet",
+    "image": "https://cdn.onlineradiobox.com/img/logo/5/86415.png",
+    "stream_url": "https://lyd.radioene.no/jul.mp3",
+    "website": "http://hamarradioen.no/radioplayerjul/",
+    "provider": "onlineradiobox",
+    "country": "Norway",
+    "genres": [
+      "christmas"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:31:42+05:30"
+  },
+  {
+    "id": "onlineradiobox_no.kanal1drammen",
+    "name": "Kanal1 Drammen",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/20238.v7.png",
+    "stream_url": "https://streams.radio.co/scf90680e7/listen",
+    "website": "https://kanal1drammen.no/",
+    "provider": "onlineradiobox",
+    "country": "Norway",
+    "genres": [
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:33:42+05:30"
+  },
+  {
+    "id": "onlineradiobox_no.kisstory",
+    "name": "KISS Norge",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/89189.v5.png",
+    "stream_url": "https://live-bauerno.sharp-stream.com/kiss_no_mp3?",
+    "website": "https://radioplay.no/kiss/",
+    "provider": "onlineradiobox",
+    "country": "Norway",
+    "genres": [
+      "electronic",
+      "club",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:30:49+05:30"
+  },
+  {
+    "id": "onlineradiobox_no.kongsvinger",
+    "name": "Radio Kongsvinger",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/45338.v3.png",
+    "stream_url": "https://lyd.radioene.no/kongsvinger.mp3",
+    "website": "http://www.radiokongsvinger.no/",
+    "provider": "onlineradiobox",
+    "country": "Norway",
+    "genres": [
+      "pop",
+      "news",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:34:39+05:30"
+  },
+  {
+    "id": "onlineradiobox_no.kos",
+    "name": "Radio Kos",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/67386.v10.png",
+    "stream_url": "https://lyd.radiokos.no/kos_hq",
+    "website": "http://www.radiokos.no/",
+    "provider": "onlineradiobox",
+    "country": "Norway",
+    "genres": [
+      "pop",
+      "top40",
+      "80s",
+      "70s",
+      "60s",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:30:38+05:30"
+  },
+  {
+    "id": "onlineradiobox_no.laagendalen",
+    "name": "Radio Laagendalen",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/49362.v2.png",
+    "stream_url": "http://91.189.181.115:8000/;",
+    "website": "http://www.radiolaagendalen.no/",
+    "provider": "onlineradiobox",
+    "country": "Norway",
+    "genres": [
+      "rock",
+      "eclectic",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:34:37+05:30"
+  },
+  {
+    "id": "onlineradiobox_no.latinamerika",
+    "name": "Radio Latin-Amerika",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/16089.v4.png",
+    "stream_url": "https://stream.radiolatinamerika.no/latam_hq",
+    "website": "http://www.radiolatinamerika.no/",
+    "provider": "onlineradiobox",
+    "country": "Norway",
+    "genres": [
+      "pop",
+      "news",
+      "talk",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:31:48+05:30"
+  },
+  {
+    "id": "onlineradiobox_no.lyngdal",
+    "name": "Radio Lyngdal",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/20242.v5.png",
+    "stream_url": "https://live.radiolyngdal.com/rly_hq",
+    "website": "http://www.radio-lyngdal.no/",
+    "provider": "onlineradiobox",
+    "country": "Norway",
+    "genres": [
+      "pop",
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:31:46+05:30"
+  },
+  {
+    "id": "onlineradiobox_no.mc",
+    "name": "MC Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/93100.v3.png",
+    "stream_url": "https://cast6.asurahosting.com/proxy/mcradiom/stream/;BS_ATKM.mp3",
+    "website": "http://www.mcradio.biz/",
+    "provider": "onlineradiobox",
+    "country": "Norway",
+    "genres": [
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:35:14+05:30"
+  },
+  {
+    "id": "onlineradiobox_no.metalexpress",
+    "name": "Metal Express Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/16085.v5.png",
+    "stream_url": "https://s39.myradiostream.com/11590/listen.mp3",
+    "website": "http://www.metalexpressradio.com/",
+    "provider": "onlineradiobox",
+    "country": "Norway",
+    "genres": [
+      "hard rock"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:30:35+05:30"
+  },
+  {
+    "id": "onlineradiobox_no.metro",
+    "name": "Radio Metro",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/14299.v7.png",
+    "stream_url": "https://live-nors.sharp-stream.com/nors8.mp3",
+    "website": "http://radiometro.no/",
+    "provider": "onlineradiobox",
+    "country": "Norway",
+    "genres": [
+      "pop",
+      "news",
+      "talk",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:30:39+05:30"
+  },
+  {
+    "id": "onlineradiobox_no.misjonsradioengrimstad",
+    "name": "Misjonsradioen Agder",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/20335.v4.png",
+    "stream_url": "http://5195.cloudrad.io:8136/;",
+    "website": "https://www.misjonsradioen.no/",
+    "provider": "onlineradiobox",
+    "country": "Norway",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:33:44+05:30"
+  },
+  {
+    "id": "onlineradiobox_no.nano",
+    "name": "Radio Nano",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/20260.v5.png",
+    "stream_url": "http://s2.yesstreaming.net:7157/stream",
+    "website": "http://www.radionano.com/",
+    "provider": "onlineradiobox",
+    "country": "Norway",
+    "genres": [
+      "pop",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:30:48+05:30"
+  },
+  {
+    "id": "onlineradiobox_no.narkanalen",
+    "name": "Radio Narkanalen",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/44740.v4.png",
+    "stream_url": "https://stream.radiomeloy.no:8003/high",
+    "website": "http://narkanalen.no/",
+    "provider": "onlineradiobox",
+    "country": "Norway",
+    "genres": [
+      "pop",
+      "news",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:31:50+05:30"
+  },
+  {
+    "id": "onlineradiobox_no.narvikstudent",
+    "name": "Narvik Studentradio",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/44741.v1.png",
+    "stream_url": "http://stream.sysrq.no:8000/00-nsr.mp3?type=.mp3/;stream.mp3",
+    "website": "https://narvikstudentradio.no/",
+    "provider": "onlineradiobox",
+    "country": "Norway",
+    "genres": [
+      "pop",
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:33:41+05:30"
+  },
+  {
+    "id": "onlineradiobox_no.nea2",
+    "name": "Nea Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/49612.v2.png",
+    "stream_url": "https://nettradio.nearadio.no:8100/stream",
+    "website": "http://www.nearadio.no/",
+    "provider": "onlineradiobox",
+    "country": "Norway",
+    "genres": [
+      "pop",
+      "news",
+      "talk",
+      "folk",
+      "culture"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:31:46+05:30"
+  },
+  {
+    "id": "onlineradiobox_no.nordfjord",
+    "name": "Nordfjord Nærradio",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/111924.v1.png",
+    "stream_url": "https://lyd.nnr1987.no/nnr_hq",
+    "website": "https://www.nnr1987.no/",
+    "provider": "onlineradiobox",
+    "country": "Norway",
+    "genres": [
+      "country folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:35:15+05:30"
+  },
+  {
+    "id": "onlineradiobox_no.nordsalten",
+    "name": "Radio Nord-Salten",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/20290.v7.png",
+    "stream_url": "http://nettradio.radionordsalten.no:8000/high",
+    "website": "http://www.radionordsalten.no/no/nettradio/",
+    "provider": "onlineradiobox",
+    "country": "Norway",
+    "genres": [
+      "pop",
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:34:30+05:30"
+  },
+  {
+    "id": "onlineradiobox_no.nordsjo",
+    "name": "Radio Nordsjo",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/49617.v4.png",
+    "stream_url": "https://audio.jaerradiogruppen.no/nordsjo_hq",
+    "website": "http://www.radionordsjo.no/",
+    "provider": "onlineradiobox",
+    "country": "Norway",
+    "genres": [
+      "pop",
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:34:33+05:30"
+  },
+  {
+    "id": "onlineradiobox_no.noreamediemisjon",
+    "name": "Radio Norea Pluss Mediemisjon",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/45320.v3.png",
+    "stream_url": "http://149.202.22.75:8168/;",
+    "website": "http://norea.no/",
+    "provider": "onlineradiobox",
+    "country": "Norway",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:31:49+05:30"
+  },
+  {
+    "id": "onlineradiobox_no.norge",
+    "name": "Radio Norge",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/44738.v3.png",
+    "stream_url": "https://live-bauerno.sharp-stream.com/radionorge_no_mp3",
+    "website": "http://www.radioplay.no/radionorge",
+    "provider": "onlineradiobox",
+    "country": "Norway",
+    "genres": [
+      "pop",
+      "90s",
+      "00s",
+      "80s",
+      "70s",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:30:36+05:30"
+  },
+  {
+    "id": "onlineradiobox_no.norskpop",
+    "name": "Norsk Pop",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/115627.v3.png",
+    "stream_url": "https://live-bauerno.sharp-stream.com/norskpop_no_mp3",
+    "website": "https://radioplay.no/norsk-pop/",
+    "provider": "onlineradiobox",
+    "country": "Norway",
+    "genres": [
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:31:45+05:30"
+  },
+  {
+    "id": "onlineradiobox_no.northbeyond",
+    "name": "North &amp; Beyond Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/142485.v1.png",
+    "stream_url": "https://radio.north-beyond.no/",
+    "website": "https://north-beyond.no/",
+    "provider": "onlineradiobox",
+    "country": "Norway",
+    "genres": [
+      "electronic",
+      "hip-hop",
+      "indie"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:35:12+05:30"
+  },
+  {
+    "id": "onlineradiobox_no.northernstar",
+    "name": "Radio Northern Star",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/20244.v5.png",
+    "stream_url": "http://5866.cloudrad.io:8018/northernstar.mp3",
+    "website": "http://www.northernstar.cc/index.php",
+    "provider": "onlineradiobox",
+    "country": "Norway",
+    "genres": [
+      "rock",
+      "pop",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:31:40+05:30"
+  },
+  {
+    "id": "onlineradiobox_no.noxx",
+    "name": "Ducket Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/87243.v10.png",
+    "stream_url": "https://az10.yesstreaming.net:8300/radio.mp3",
+    "website": "https://www.ducketradio.com/",
+    "provider": "onlineradiobox",
+    "country": "Norway",
+    "genres": [
+      "rock",
+      "pop",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:32:46+05:30"
+  },
+  {
+    "id": "onlineradiobox_no.nrj",
+    "name": "NRJ Norway",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/15794.v9.png",
+    "stream_url": "https://nrj.p4groupaudio.com/NRJ_MM",
+    "website": "http://www.nrj.no/",
+    "provider": "onlineradiobox",
+    "country": "Norway",
+    "genres": [
+      "dance",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:30:37+05:30"
+  },
+  {
+    "id": "onlineradiobox_no.nrkp1",
+    "name": "NRK P1 Oslo og Akershus",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/14333.v4.png",
+    "stream_url": "https://lyd.nrk.no/nrk_radio_p1_ostlandssendingen_mp3_m",
+    "website": "https://www.nrk.no/osloogviken/",
+    "provider": "onlineradiobox",
+    "country": "Norway",
+    "genres": [
+      "news",
+      "talk",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:30:41+05:30"
+  },
+  {
+    "id": "onlineradiobox_no.ordentlig",
+    "name": "Ordentlig Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/20285.v4.png",
+    "stream_url": "https://stream.oradio.no/oradio_hq",
+    "website": "http://www.ordentligradio.no/",
+    "provider": "onlineradiobox",
+    "country": "Norway",
+    "genres": [
+      "rock",
+      "pop",
+      "news",
+      "folk",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:31:47+05:30"
+  },
+  {
+    "id": "onlineradiobox_no.ost",
+    "name": "Radio Øst",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/45310.v3.png",
+    "stream_url": "https://stream.radio-ost.no/radioost_hq",
+    "website": "http://radio-ost.no/",
+    "provider": "onlineradiobox",
+    "country": "Norway",
+    "genres": [
+      "classic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:32:41+05:30"
+  },
+  {
+    "id": "onlineradiobox_no.osterdalsradioen",
+    "name": "ØsterdalsRadioen",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/45351.v3.png",
+    "stream_url": "https://lyd.radioene.no/osterdal.mp3",
+    "website": "http://www.osterdalsradioen.no/",
+    "provider": "onlineradiobox",
+    "country": "Norway",
+    "genres": [
+      "pop",
+      "news",
+      "weather"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:32:43+05:30"
+  },
+  {
+    "id": "onlineradiobox_no.p247fun",
+    "name": "Radio P24-7 Fun",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/115620.v7.png",
+    "stream_url": "https://live-bauerno.sharp-stream.com/station10_no_aac",
+    "website": "https://radioplay.no/p24-7fun/",
+    "provider": "onlineradiobox",
+    "country": "Norway",
+    "genres": [
+      "rock",
+      "pop",
+      "00s",
+      "10s",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:31:47+05:30"
+  },
+  {
+    "id": "onlineradiobox_no.p247mix",
+    "name": "Radio P24-7 MIX",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/115624.v1.png",
+    "stream_url": "https://live-bauerno.sharp-stream.com/p247mix_no_mp3",
+    "website": "https://radioplay.no/p24-7mix/",
+    "provider": "onlineradiobox",
+    "country": "Norway",
+    "genres": [
+      "dance",
+      "electronic",
+      "rock",
+      "pop",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:32:49+05:30"
+  },
+  {
+    "id": "onlineradiobox_no.p4",
+    "name": "P4 Radio Hele Norge",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/15799.v9.png",
+    "stream_url": "https://p4.p4groupaudio.com/P04_MM",
+    "website": "http://www.p4.no/",
+    "provider": "onlineradiobox",
+    "country": "Norway",
+    "genres": [
+      "rock",
+      "pop",
+      "news",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:30:42+05:30"
+  },
+  {
+    "id": "onlineradiobox_no.p4bandit",
+    "name": "P11 Bandit",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/15954.v6.png",
+    "stream_url": "https://p11.p4groupaudio.com/P11_AM",
+    "website": "http://www.bandit.no/",
+    "provider": "onlineradiobox",
+    "country": "Norway",
+    "genres": [
+      "rock",
+      "classic rock"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:30:46+05:30"
+  },
+  {
+    "id": "onlineradiobox_no.p4country",
+    "name": "P10 Country",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/15955.v7.png",
+    "stream_url": "https://p10.p4groupaudio.com/P10_AM",
+    "website": "https://www.p10country.no/",
+    "provider": "onlineradiobox",
+    "country": "Norway",
+    "genres": [
+      "country",
+      "oldies"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:31:43+05:30"
+  },
+  {
+    "id": "onlineradiobox_no.p4hitmix",
+    "name": "P12 Hitmix",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/154509.v3.png",
+    "stream_url": "https://p12.p4groupaudio.com/P12_AM",
+    "website": "https://www.lydenavnorge.no/p12",
+    "provider": "onlineradiobox",
+    "country": "Norway",
+    "genres": [
+      "rock",
+      "pop",
+      "news",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:34:34+05:30"
+  },
+  {
+    "id": "onlineradiobox_no.p5hitsoslo",
+    "name": "P5 Hits",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/15801.v10.png",
+    "stream_url": "https://p5.p4groupaudio.com/P05_AM",
+    "website": "https://www.p5.no/",
+    "provider": "onlineradiobox",
+    "country": "Norway",
+    "genres": [
+      "top40",
+      "adult contemporary",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:30:40+05:30"
+  },
+  {
+    "id": "onlineradiobox_no.p6rock",
+    "name": "P6 Rock",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/15804.v7.png",
+    "stream_url": "https://p6.p4groupaudio.com/P06_AM",
+    "website": "http://www.p6.no/",
+    "provider": "onlineradiobox",
+    "country": "Norway",
+    "genres": [
+      "rock"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:30:43+05:30"
+  },
+  {
+    "id": "onlineradiobox_no.p7klem",
+    "name": "P7 Klem",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/15807.v5.png",
+    "stream_url": "https://p7.p4groupaudio.com/P07_AM",
+    "website": "http://www.p7klem.no/",
+    "provider": "onlineradiobox",
+    "country": "Norway",
+    "genres": [
+      "90s",
+      "80s",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:30:45+05:30"
+  },
+  {
+    "id": "onlineradiobox_no.p7kristen",
+    "name": "P7 Kristen Riksradio",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/20255.v5.png",
+    "stream_url": "https://radio.p7.no/radio/8020/kristen_riksradio?1616927958",
+    "website": "https://www.p7.no/",
+    "provider": "onlineradiobox",
+    "country": "Norway",
+    "genres": [
+      "pop",
+      "talk",
+      "christian",
+      "christian rock"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:33:35+05:30"
+  },
+  {
+    "id": "onlineradiobox_no.p8pop",
+    "name": "P8 Pop",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/15809.v5.png",
+    "stream_url": "https://p8.p4groupaudio.com/P08_AM",
+    "website": "http://www.p8pop.no/",
+    "provider": "onlineradiobox",
+    "country": "Norway",
+    "genres": [
+      "pop",
+      "80s"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:30:41+05:30"
+  },
+  {
+    "id": "onlineradiobox_no.p9retro",
+    "name": "P9 Retro",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/15811.v7.png",
+    "stream_url": "https://p9.p4groupaudio.com/P09_MH",
+    "website": "http://www.p9retro.no/",
+    "provider": "onlineradiobox",
+    "country": "Norway",
+    "genres": [
+      "70s",
+      "60s",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:30:40+05:30"
+  },
+  {
+    "id": "onlineradiobox_no.pinoyradionordic",
+    "name": "Pinoy Radio Nordic",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/45343.v2.png",
+    "stream_url": "http://206.72.194.250:9978/;",
+    "website": "http://www.pinoyradionordic.com/",
+    "provider": "onlineradiobox",
+    "country": "Norway",
+    "genres": [
+      "pop",
+      "news",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:34:32+05:30"
+  },
+  {
+    "id": "onlineradiobox_no.piratradioen",
+    "name": "Piratradioen",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/145043.v3.png",
+    "stream_url": "https://listen.radioking.com/radio/139750/stream/179842",
+    "website": "http://www.piratradioen.no/",
+    "provider": "onlineradiobox",
+    "country": "Norway",
+    "genres": [
+      "rock",
+      "pop",
+      "blues",
+      "country",
+      "90s",
+      "80s",
+      "70s",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:35:13+05:30"
+  },
+  {
+    "id": "onlineradiobox_no.ps",
+    "name": "Radio PS",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/49620.v5.png",
+    "stream_url": "http://149.202.22.75:8072/;?_=0.2752407058031985",
+    "website": "http://www.radiops.no/",
+    "provider": "onlineradiobox",
+    "country": "Norway",
+    "genres": [
+      "talk",
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:32:43+05:30"
+  },
+  {
+    "id": "onlineradiobox_no.radio3",
+    "name": "Radio 3",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/17979.v3.png",
+    "stream_url": "https://stream.radio3.no/Radio3Bodo128",
+    "website": "https://radio3bodo.no/",
+    "provider": "onlineradiobox",
+    "country": "Norway",
+    "genres": [
+      "news",
+      "talk",
+      "sports"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:33:33+05:30"
+  },
+  {
+    "id": "onlineradiobox_no.radioalta",
+    "name": "Radio Alta",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/20279.v5.png",
+    "stream_url": "https://stream02.nordavis.no/radioalta-128k",
+    "website": "http://www.altaposten.no/",
+    "provider": "onlineradiobox",
+    "country": "Norway",
+    "genres": [
+      "rock",
+      "pop",
+      "news",
+      "talk",
+      "sports"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:33:41+05:30"
+  },
+  {
+    "id": "onlineradiobox_no.radiobo",
+    "name": "Radio Bø",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/45315.v2.png",
+    "stream_url": "https://nettradio.radiobo.com/radiobo-high",
+    "website": "http://www.radiobo.no/",
+    "provider": "onlineradiobox",
+    "country": "Norway",
+    "genres": [
+      "pop",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:31:44+05:30"
+  },
+  {
+    "id": "onlineradiobox_no.radiohallingdal",
+    "name": "Radio Hallingdal",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/20289.v2.png",
+    "stream_url": "http://audio.visto.no/radiohallingdal",
+    "website": "http://www.radiohallingdal.no/",
+    "provider": "onlineradiobox",
+    "country": "Norway",
+    "genres": [
+      "news",
+      "talk",
+      "sports"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:33:40+05:30"
+  },
+  {
+    "id": "onlineradiobox_no.radiol",
+    "name": "Radio L",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/20312.v5.png",
+    "stream_url": "https://stream.radio-l.no/rlihq",
+    "website": "http://radio-l.com/",
+    "provider": "onlineradiobox",
+    "country": "Norway",
+    "genres": [
+      "rock",
+      "jazz",
+      "talk",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:34:33+05:30"
+  },
+  {
+    "id": "onlineradiobox_no.radiololand",
+    "name": "Radio Loland",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/20315.v5.png",
+    "stream_url": "https://stream.radiololand.no/rlohq",
+    "website": "http://radiololand.no/",
+    "provider": "onlineradiobox",
+    "country": "Norway",
+    "genres": [
+      "pop",
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:32:45+05:30"
+  },
+  {
+    "id": "onlineradiobox_no.radiomodum",
+    "name": "Radio Modum",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/20318.v2.png",
+    "stream_url": "http://media.radiomodum.no/radio_modum_mp3",
+    "website": "http://www.radiomodum.no/",
+    "provider": "onlineradiobox",
+    "country": "Norway",
+    "genres": [
+      "pop",
+      "news",
+      "talk",
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:32:37+05:30"
+  },
+  {
+    "id": "onlineradiobox_no.radionordkapp",
+    "name": "Radio Nordkapp",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/20243.v8.png",
+    "stream_url": "http://audio.visto.no/radionordkapp.ogg",
+    "website": "http://www.radionordkapp.no/",
+    "provider": "onlineradiobox",
+    "country": "Norway",
+    "genres": [
+      "pop",
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:33:34+05:30"
+  },
+  {
+    "id": "onlineradiobox_no.radios",
+    "name": "RadiOs",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/14306.v6.png",
+    "stream_url": "https://lyd.radios.no/radios_hq",
+    "website": "http://www.radios.no/",
+    "provider": "onlineradiobox",
+    "country": "Norway",
+    "genres": [
+      "pop",
+      "news"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:31:47+05:30"
+  },
+  {
+    "id": "onlineradiobox_no.radiosignal",
+    "name": "RadioSignal",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/73130.v3.png",
+    "stream_url": "https://streamer.radio.co/sd0ae56707/listen",
+    "website": "http://www.radiosignal.no/",
+    "provider": "onlineradiobox",
+    "country": "Norway",
+    "genres": [
+      "pop",
+      "news"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:32:39+05:30"
+  },
+  {
+    "id": "onlineradiobox_no.radiototen",
+    "name": "Radio Toten",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/22997.v3.png",
+    "stream_url": "https://lyd.radioene.no/radiototen-mp3",
+    "website": "http://www.radiototen.no/",
+    "provider": "onlineradiobox",
+    "country": "Norway",
+    "genres": [
+      "rock",
+      "pop",
+      "news",
+      "country",
+      "sports"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:34:36+05:30"
+  },
+  {
+    "id": "onlineradiobox_no.radiotromso",
+    "name": "Radio Tromso",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/20262.v7.png",
+    "stream_url": "https://stream.radio3.no/radiotromso",
+    "website": "http://www.radiotromso.no/",
+    "provider": "onlineradiobox",
+    "country": "Norway",
+    "genres": [
+      "pop",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:30:44+05:30"
+  },
+  {
+    "id": "onlineradiobox_no.rana",
+    "name": "Radio Rana",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/45341.v5.png",
+    "stream_url": "https://lyttradio.no/live.mp3",
+    "website": "http://www.radiorana.no/",
+    "provider": "onlineradiobox",
+    "country": "Norway",
+    "genres": [
+      "pop",
+      "news",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:33:43+05:30"
+  },
+  {
+    "id": "onlineradiobox_no.randsfjord",
+    "name": "Radio Randsfjord",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/20247.v5.png",
+    "stream_url": "https://stream.radiorandsfjord.no/randsfjord_hq",
+    "website": "http://radiorandsfjord.no/",
+    "provider": "onlineradiobox",
+    "country": "Norway",
+    "genres": [
+      "rock",
+      "pop",
+      "top40",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:31:45+05:30"
+  },
+  {
+    "id": "onlineradiobox_no.rehoboth",
+    "name": "Radio Rehoboth",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/97624.v6.png",
+    "stream_url": "https://audio.rehoboth.no/rehoboth_mq",
+    "website": "https://radiorehoboth.org/",
+    "provider": "onlineradiobox",
+    "country": "Norway",
+    "genres": [
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:33:42+05:30"
+  },
+  {
+    "id": "onlineradiobox_no.revolt",
+    "name": "Radio Revolt",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/18083.v4.png",
+    "stream_url": "https://direkte.radiorevolt.no/revolt.aac",
+    "website": "https://radiorevolt.no/",
+    "provider": "onlineradiobox",
+    "country": "Norway",
+    "genres": [
+      "rock",
+      "education"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:35:11+05:30"
+  },
+  {
+    "id": "onlineradiobox_no.riks",
+    "name": "Radio Riks Oslo",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/49621.v3.png",
+    "stream_url": "https://radioriksoslo-live.telenorcdn.net/radioriksoslo_1_h",
+    "website": "http://www.radioriksoslo.no/",
+    "provider": "onlineradiobox",
+    "country": "Norway",
+    "genres": [
+      "pop",
+      "news",
+      "talk",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:31:45+05:30"
+  },
+  {
+    "id": "onlineradiobox_no.rjukan",
+    "name": "Radio Rjukan",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/111935.v1.png",
+    "stream_url": "https://stream.radiorjukan.no/rjukan_hq",
+    "website": "https://radiorjukan.no/",
+    "provider": "onlineradiobox",
+    "country": "Norway",
+    "genres": [
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:32:48+05:30"
+  },
+  {
+    "id": "onlineradiobox_no.rocknorge",
+    "name": "Radio Rock",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/115629.v5.png",
+    "stream_url": "https://live-bauerno.sharp-stream.com/radiorock_no_mp3",
+    "website": "https://radioplay.no/radio-rock/",
+    "provider": "onlineradiobox",
+    "country": "Norway",
+    "genres": [
+      "rock"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:30:43+05:30"
+  },
+  {
+    "id": "onlineradiobox_no.sabbath",
+    "name": "Sabbath Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/109859.v8.png",
+    "stream_url": "https://listen.radioking.com/radio/460760/stream/516014",
+    "website": "https://www.renewedfaithmedia.com/",
+    "provider": "onlineradiobox",
+    "country": "Norway",
+    "genres": [
+      "culture",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:32:38+05:30"
+  },
+  {
+    "id": "onlineradiobox_no.sandnes",
+    "name": "Radio Sandnes",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/49618.v4.png",
+    "stream_url": "https://audio.jaerradiogruppen.no/sandnes_hq",
+    "website": "http://www.radiosandnes.no/",
+    "provider": "onlineradiobox",
+    "country": "Norway",
+    "genres": [
+      "pop",
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:34:32+05:30"
+  },
+  {
+    "id": "onlineradiobox_no.scansat",
+    "name": "ScanSat",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/14326.v6.png",
+    "stream_url": "https://stream.scansat.no/scansat_hq",
+    "website": "https://www.scansat.no/",
+    "provider": "onlineradiobox",
+    "country": "Norway",
+    "genres": [
+      "dance",
+      "news",
+      "70s",
+      "60s"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:30:47+05:30"
+  },
+  {
+    "id": "onlineradiobox_no.scratch",
+    "name": "ScratchRadio",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/77118.v41.png",
+    "stream_url": "https://cast2.my-control-panel.com/proxy/scratchradio1/Radio",
+    "website": "https://radio.scratch.dj/",
+    "provider": "onlineradiobox",
+    "country": "Norway",
+    "genres": [
+      "dance",
+      "house",
+      "rock"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:33:45+05:30"
+  },
+  {
+    "id": "onlineradiobox_no.siddis",
+    "name": "Siddis Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/20263.v8.png",
+    "stream_url": "https://lyd.siddisradio.no/siddis_hq",
+    "website": "http://www.siddisradio.no/",
+    "provider": "onlineradiobox",
+    "country": "Norway",
+    "genres": [
+      "pop",
+      "news",
+      "talk",
+      "70s",
+      "oldies",
+      "60s"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:33:36+05:30"
+  },
+  {
+    "id": "onlineradiobox_no.snowflake",
+    "name": "Snowflake FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/20252.v3.png",
+    "stream_url": "http://cast5.magicstreams.gr:8015/;",
+    "website": "http://snowflakefm.com/",
+    "provider": "onlineradiobox",
+    "country": "Norway",
+    "genres": [
+      "oldies",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:34:35+05:30"
+  },
+  {
+    "id": "onlineradiobox_no.solorradioen",
+    "name": "Solør Radioen",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/45312.v3.png",
+    "stream_url": "https://lyd.radioene.no/solor.mp3",
+    "website": "https://www.isolor.no/",
+    "provider": "onlineradiobox",
+    "country": "Norway",
+    "genres": [
+      "pop",
+      "news",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:34:31+05:30"
+  },
+  {
+    "id": "onlineradiobox_no.sorvest",
+    "name": "pTro",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/20352.v4.png",
+    "stream_url": "http://5186.cloudrad.io:8048/;",
+    "website": "http://www.ptro.no/",
+    "provider": "onlineradiobox",
+    "country": "Norway",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:32:46+05:30"
+  },
+  {
+    "id": "onlineradiobox_no.sotra",
+    "name": "Radio Sotra",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/14303.v7.png",
+    "stream_url": "https://streaming.radiosotra.no:8443/radiosotra",
+    "website": "http://www.radiosotra.no/",
+    "provider": "onlineradiobox",
+    "country": "Norway",
+    "genres": [
+      "news",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:34:30+05:30"
+  },
+  {
+    "id": "onlineradiobox_no.stavanger",
+    "name": "RadioStavanger",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/133094.v5.png",
+    "stream_url": "https://driver.radiostavanger.no/listen/radiostavanger/lav",
+    "website": "https://radiostavanger.no/",
+    "provider": "onlineradiobox",
+    "country": "Norway",
+    "genres": [
+      "easy listening",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:35:13+05:30"
+  },
+  {
+    "id": "onlineradiobox_no.student",
+    "name": "Studentradion 98.9",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/49626.v3.png",
+    "stream_url": "http://130.238.166.189:8004/stream",
+    "website": "http://studentradion.com/",
+    "provider": "onlineradiobox",
+    "country": "Norway",
+    "genres": [
+      "pop",
+      "news",
+      "talk",
+      "education"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:34:35+05:30"
+  },
+  {
+    "id": "onlineradiobox_no.studentradioen",
+    "name": "Studentradioen",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/20322.v3.png",
+    "stream_url": "https://radio.srib.no/listen/studentradioen_i_bergen/srib.mp3",
+    "website": "http://srib.no/",
+    "provider": "onlineradiobox",
+    "country": "Norway",
+    "genres": [
+      "pop",
+      "news",
+      "talk",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:33:35+05:30"
+  },
+  {
+    "id": "onlineradiobox_no.sunnmore",
+    "name": "Radio Sunnmøre",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/49383.v8.png",
+    "stream_url": "https://lyd.radiosunnmore.no/sunnmore_hq?=&&___cb=477072511676051",
+    "website": "http://radiosunnmore.no/",
+    "provider": "onlineradiobox",
+    "country": "Norway",
+    "genres": [
+      "pop",
+      "talk",
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:31:42+05:30"
+  },
+  {
+    "id": "onlineradiobox_no.theferry",
+    "name": "Radio Northern Star - The Ferry",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/67185.v6.png",
+    "stream_url": "http://6471.cloudrad.io:8178/theferry.mp3",
+    "website": "http://www.theferry.cc/",
+    "provider": "onlineradiobox",
+    "country": "Norway",
+    "genres": [
+      "soundtrack",
+      "instrumental"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:30:47+05:30"
+  },
+  {
+    "id": "onlineradiobox_no.thuthifm",
+    "name": "Thuthi FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/14329.v7.png",
+    "stream_url": "https://streams.radio.co/s790fe269d/listen",
+    "website": "https://www.thuthi.fm/",
+    "provider": "onlineradiobox",
+    "country": "Norway",
+    "genres": [
+      "christian",
+      "tamil"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:32:44+05:30"
+  },
+  {
+    "id": "onlineradiobox_no.tnsberg",
+    "name": "Radio Tønsberg",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/16114.v5.png",
+    "stream_url": "https://audio.radiotonsberg.no/tonsberg_hq",
+    "website": "http://www.radiotonsberg.no/",
+    "provider": "onlineradiobox",
+    "country": "Norway",
+    "genres": [
+      "news",
+      "sports",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:32:44+05:30"
+  },
+  {
+    "id": "onlineradiobox_no.topp40norge",
+    "name": "Radio Topp 40",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/115626.v2.png",
+    "stream_url": "https://live-bauerno.sharp-stream.com/top40_no_mp3",
+    "website": "https://radioplay.no/topp-40/",
+    "provider": "onlineradiobox",
+    "country": "Norway",
+    "genres": [
+      "top40",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:31:41+05:30"
+  },
+  {
+    "id": "onlineradiobox_no.trekkspill",
+    "name": "radio AI",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/132763.v9.png",
+    "stream_url": "https://a13.asurahosting.com/listen/radio_ai/radio.mp3",
+    "website": "https://radioai.mobirisesite.com/",
+    "provider": "onlineradiobox",
+    "country": "Norway",
+    "genres": [
+      "dance",
+      "country"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:34:30+05:30"
+  },
+  {
+    "id": "onlineradiobox_no.trndelag",
+    "name": "Radio Trøndelag",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/18097.v7.png",
+    "stream_url": "https://nettradio.radiotrondelag.no:8443/radio_trondelag",
+    "website": "http://www.radiotrondelag.no/",
+    "provider": "onlineradiobox",
+    "country": "Norway",
+    "genres": [
+      "pop",
+      "news"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:32:41+05:30"
+  },
+  {
+    "id": "onlineradiobox_no.truckersnorge",
+    "name": "Truckersnorge",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/153190.v2.png",
+    "stream_url": "https://listen.radioking.com/radio/794056/stream/862391",
+    "website": "http://truckersnorge.radioweb.co/",
+    "provider": "onlineradiobox",
+    "country": "Norway",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:33:36+05:30"
+  },
+  {
+    "id": "onlineradiobox_no.trysilradioen",
+    "name": "Trysil Radioen",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/45345.v2.png",
+    "stream_url": "https://lyd.radioene.no/trysil.mp3",
+    "website": "https://trysilradioen.no/",
+    "provider": "onlineradiobox",
+    "country": "Norway",
+    "genres": [
+      "pop",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:32:45+05:30"
+  },
+  {
+    "id": "onlineradiobox_no.vest",
+    "name": "Radio Vest",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/81456.v5.png",
+    "stream_url": "http://radiovest.eu:8000/radiovest",
+    "website": "http://radiovest.eu/",
+    "provider": "onlineradiobox",
+    "country": "Norway",
+    "genres": [
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:34:41+05:30"
+  },
+  {
+    "id": "onlineradiobox_no.z",
+    "name": "Radio Z",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/45350.v4.png",
+    "stream_url": "https://straumod.blindeforbundet.no/radio.mp3",
+    "website": "https://www.blindeforbundet.no/tilbud-kurs-og-arrangementer/radio-z",
+    "provider": "onlineradiobox",
+    "country": "Norway",
+    "genres": [
+      "pop",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:35:10+05:30"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "id": "onlineradiobox_ck.antennawebavarua",
+    "name": "Antenna Web Avarua",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/138419.v1.png",
+    "stream_url": "https://tinyurl.com/Antenna-Web-Avarua",
+    "website": "https://antennaweb.it/antenna-web-avarua/",
+    "provider": "onlineradiobox",
+    "country": "Cook Islands",
+    "genres": [
+      "rock",
+      "pop",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:43:37+05:30"
+  },
+  {
+    "id": "onlineradiobox_ck.beta",
+    "name": "Station Beta",
+    "image": "https://cdn.onlineradiobox.com/img/logo/5/124875.png",
+    "stream_url": "https://stream.zeno.fm/2beeh2sttzptv",
+    "website": "https://beta.co.ke/",
+    "provider": "onlineradiobox",
+    "country": "Cook Islands",
+    "genres": [
+      "pop",
+      "top40",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:43:37+05:30"
+  },
+  {
+    "id": "onlineradiobox_ck.matariki",
+    "name": "Matariki FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/46895.v5.png",
+    "stream_url": "http://amber.streamguys.com:4070/;",
+    "website": "http://www.matarikifm.co.ck/",
+    "provider": "onlineradiobox",
+    "country": "Cook Islands",
+    "genres": [
+      "classic",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:43:36+05:30"
+  }
+]

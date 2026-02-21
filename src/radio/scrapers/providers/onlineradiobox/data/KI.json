@@ -1,0 +1,40 @@
+[
+  {
+    "id": "onlineradiobox_ki.antennawebkiribati",
+    "name": "Antenna Web Kiribati",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/138407.v1.png",
+    "stream_url": "https://tinyurl.com/Antenna-Web-Kiribati",
+    "website": "https://antennaweb.it/antenna-web-kiribati/",
+    "provider": "onlineradiobox",
+    "country": "Kiribati",
+    "genres": [
+      "rock",
+      "pop",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:42:07+05:30"
+  },
+  {
+    "id": "onlineradiobox_ki.beta",
+    "name": "Station Beta",
+    "image": "https://cdn.onlineradiobox.com/img/logo/1/124861.png",
+    "stream_url": "https://stream.zeno.fm/wgcdjbcx7qsvv",
+    "website": "https://beta.co.ke/",
+    "provider": "onlineradiobox",
+    "country": "Kiribati",
+    "genres": [
+      "pop",
+      "top40",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:42:06+05:30"
+  }
+]

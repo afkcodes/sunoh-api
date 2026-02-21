@@ -1,0 +1,361 @@
+[
+  {
+    "id": "onlineradiobox_mc.antennawebmonaco",
+    "name": "Antenna Web Monaco",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/131161.v3.png",
+    "stream_url": "https://principautedemonaco.radioantennaweb.com/Monaco",
+    "website": "https://antennaweb.it/antennaweb-monaco/",
+    "provider": "onlineradiobox",
+    "country": "Monaco",
+    "genres": [
+      "rock",
+      "pop",
+      "blues",
+      "jazz",
+      "funk",
+      "latin"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:55:20+05:30"
+  },
+  {
+    "id": "onlineradiobox_mc.awmonaco",
+    "name": "AW Monaco",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/150684.v2.png",
+    "stream_url": "https://principautedemonaco.radioantennaweb.com/awMonaco",
+    "website": "https://antennaweb.it/aw-monaco/",
+    "provider": "onlineradiobox",
+    "country": "Monaco",
+    "genres": [
+      "pop",
+      "blues",
+      "hard rock",
+      "metal",
+      "jazz",
+      "country",
+      "funk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:55:20+05:30"
+  },
+  {
+    "id": "onlineradiobox_mc.bittersweetmusicmc",
+    "name": "Bitter Sweet Music MC",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/83596.v13.png",
+    "stream_url": "http://91.121.236.34:8520/mc",
+    "website": "http://www.bittersweetmusic.ro/",
+    "provider": "onlineradiobox",
+    "country": "Monaco",
+    "genres": [
+      "chill-out"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:55:18+05:30"
+  },
+  {
+    "id": "onlineradiobox_mc.extrafunfm",
+    "name": "Extra Fun FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/13196.v10.png",
+    "stream_url": "https://listen.openstream.co/2864/audio",
+    "website": "https://extrafunfm.weebly.com/",
+    "provider": "onlineradiobox",
+    "country": "Monaco",
+    "genres": [
+      "dance",
+      "electronic",
+      "house",
+      "techno",
+      "club"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:55:16+05:30"
+  },
+  {
+    "id": "onlineradiobox_mc.funk2disco",
+    "name": "Funk2Disco",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/7958.v2.png",
+    "stream_url": "https://funk2disco.stream.laut.fm/funk2disco",
+    "website": "https://laut.fm/funk2disco",
+    "provider": "onlineradiobox",
+    "country": "Monaco",
+    "genres": [
+      "disco",
+      "funk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:55:15+05:30"
+  },
+  {
+    "id": "onlineradiobox_mc.hero",
+    "name": "Hero Radio (Monaco)",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/147015.v1.png",
+    "stream_url": "https://a2.asurahosting.com:6790/monaco.mp3",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Monaco",
+    "genres": [
+      "news",
+      "gospel",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:55:19+05:30"
+  },
+  {
+    "id": "onlineradiobox_mc.hits1monaco",
+    "name": "Hits 1 Monaco",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/89929.v32.png",
+    "stream_url": "https://player.mc.hits1radio.com/",
+    "website": "https://www.hits1radio.com/",
+    "provider": "onlineradiobox",
+    "country": "Monaco",
+    "genres": [
+      "dance",
+      "electronic",
+      "pop",
+      "club",
+      "top40",
+      "latin",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:55:13+05:30"
+  },
+  {
+    "id": "onlineradiobox_mc.loungechannel",
+    "name": "The Lounge Channel",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/7960.v5.png",
+    "stream_url": "https://stream.zeno.fm/h6mzt7ccvsbuv",
+    "website": "http://theloungechannel.com/",
+    "provider": "onlineradiobox",
+    "country": "Monaco",
+    "genres": [
+      "lounge",
+      "jazz",
+      "smooth jazz"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:55:14+05:30"
+  },
+  {
+    "id": "onlineradiobox_mc.mcrmusicclub",
+    "name": "MCR - Music Club Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/105295.v2.png",
+    "stream_url": "https://gs5028.streamingmedia.it/stream",
+    "website": "https://www.musicclubradio.com/",
+    "provider": "onlineradiobox",
+    "country": "Monaco",
+    "genres": [
+      "jazz",
+      "deep house",
+      "soul",
+      "chill-out"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:55:19+05:30"
+  },
+  {
+    "id": "onlineradiobox_mc.music1009",
+    "name": "Music 100.9 FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/7955.v4.png",
+    "stream_url": "https://ice04.fluidstream.net/music1009.mp3",
+    "website": "http://www.music1009.com/",
+    "provider": "onlineradiobox",
+    "country": "Monaco",
+    "genres": [
+      "pop",
+      "oldies"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:55:18+05:30"
+  },
+  {
+    "id": "onlineradiobox_mc.nostalgie",
+    "name": "Nostalgie Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/7957.v7.png",
+    "stream_url": "http://185.52.127.163/fr/30601/aac_64.mp3",
+    "website": "http://www.nostalgie.fr/",
+    "provider": "onlineradiobox",
+    "country": "Monaco",
+    "genres": [
+      "oldies"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:55:17+05:30"
+  },
+  {
+    "id": "onlineradiobox_mc.premium",
+    "name": "Premium Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/121516.v3.png",
+    "stream_url": "http://premium.ice.infomaniak.ch/premium-192.aac",
+    "website": "http://www.premiumradio.net/",
+    "provider": "onlineradiobox",
+    "country": "Monaco",
+    "genres": [
+      "top40",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:55:21+05:30"
+  },
+  {
+    "id": "onlineradiobox_mc.radioethic",
+    "name": "Radio Ethic",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/7961.v6.png",
+    "stream_url": "http://163.172.37.18:8000/radioethic.mp3",
+    "website": "http://www.radioethic.com/",
+    "provider": "onlineradiobox",
+    "country": "Monaco",
+    "genres": [
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:55:22+05:30"
+  },
+  {
+    "id": "onlineradiobox_mc.radiomonaco",
+    "name": "Radio Monaco",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/7780.v3.png",
+    "stream_url": "https://radiomonaco.ice.infomaniak.ch/radiomonaco-128.mp3",
+    "website": "https://radio-monaco.com/",
+    "provider": "onlineradiobox",
+    "country": "Monaco",
+    "genres": [
+      "pop",
+      "news",
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:55:11+05:30"
+  },
+  {
+    "id": "onlineradiobox_mc.radiomontecarlo",
+    "name": "Radio Monte Carlo",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/7967.v6.png",
+    "stream_url": "http://edge.radiomontecarlo.net/RMC.mp3",
+    "website": "http://www.radiomontecarlo.net/",
+    "provider": "onlineradiobox",
+    "country": "Monaco",
+    "genres": [
+      "pop",
+      "news"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:55:12+05:30"
+  },
+  {
+    "id": "onlineradiobox_mc.rivieraradio",
+    "name": "Riviera Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/7781.v7.png",
+    "stream_url": "https://rivieraradio.ice.infomaniak.ch/rivieraradio-high.mp3",
+    "website": "http://rivieraradio.mc/",
+    "provider": "onlineradiobox",
+    "country": "Monaco",
+    "genres": [
+      "news",
+      "90s",
+      "80s",
+      "70s"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:55:14+05:30"
+  },
+  {
+    "id": "onlineradiobox_mc.tzgospel",
+    "name": "Tzgospel ( Monaco)",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/127684.v1.png",
+    "stream_url": "https://stream.zeno.fm/scwz5921uchvv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Monaco",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:55:22+05:30"
+  },
+  {
+    "id": "onlineradiobox_mc.yellow",
+    "name": "Yellow Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/81898.v57.png",
+    "stream_url": "https://yellowradio.ice.infomaniak.ch/yellowradio.mp3",
+    "website": "https://yellow.radio/",
+    "provider": "onlineradiobox",
+    "country": "Monaco",
+    "genres": [
+      "dance",
+      "electronic",
+      "house",
+      "pop",
+      "deep house",
+      "nu disco",
+      "top40",
+      "90s",
+      "80s",
+      "70s",
+      "eclectic",
+      "adult contemporary",
+      "dj",
+      "10s",
+      "hits",
+      "2000's"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:55:13+05:30"
+  }
+]

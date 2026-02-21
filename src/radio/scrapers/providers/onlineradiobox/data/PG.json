@@ -1,0 +1,78 @@
+[
+  {
+    "id": "onlineradiobox_pg.antennawebpapua",
+    "name": "Antenna Web Papua",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/138391.v1.png",
+    "stream_url": "https://tinyurl.com/Antenna-Web-Papua",
+    "website": "https://antennaweb.it/antenna-web-papua/",
+    "provider": "onlineradiobox",
+    "country": "Papua New Guinea",
+    "genres": [
+      "rock",
+      "pop",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:44:19+05:30"
+  },
+  {
+    "id": "onlineradiobox_pg.beta",
+    "name": "Station Beta",
+    "image": "https://cdn.onlineradiobox.com/img/logo/0/124860.png",
+    "stream_url": "https://stream.zeno.fm/dct2xh8xnbnvv",
+    "website": "https://beta.co.ke/",
+    "provider": "onlineradiobox",
+    "country": "Papua New Guinea",
+    "genres": [
+      "pop",
+      "top40",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:44:19+05:30"
+  },
+  {
+    "id": "onlineradiobox_pg.hoperadio",
+    "name": "HOPE RADIO",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/47653.v1.png",
+    "stream_url": "http://s6.voscast.com:10816/;",
+    "website": "http://www.pau.ac.pg/",
+    "provider": "onlineradiobox",
+    "country": "Papua New Guinea",
+    "genres": [
+      "news",
+      "talk",
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:44:18+05:30"
+  },
+  {
+    "id": "onlineradiobox_pg.tzgospel",
+    "name": "Tzgospel (Papua New Guinea)",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/127717.v1.png",
+    "stream_url": "https://stream.zeno.fm/qbsupxanffhvv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Papua New Guinea",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:44:20+05:30"
+  }
+]

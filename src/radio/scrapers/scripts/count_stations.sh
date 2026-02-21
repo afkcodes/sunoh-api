@@ -7,13 +7,22 @@ SCRAPER_ROOT=$(cd "$(dirname "$0")/.." && pwd)
 CORE_DIR="$SCRAPER_ROOT/core"
 COUNTRIES_FILE="$CORE_DIR/countries.txt"
 
-# Colors
-CYAN='\033[1;36m'
-GREEN='\033[1;32m'
-YELLOW='\033[1;33m'
-WHITE='\033[1;37m'
-GRAY='\033[0;90m'
-NC='\033[0m'
+# Colors (TTY detection or forced via --color flag)
+if [[ -t 1 || "$*" == *"--color"* ]]; then
+    CYAN='\033[1;36m'
+    GREEN='\033[1;32m'
+    YELLOW='\033[1;33m'
+    WHITE='\033[1;37m'
+    GRAY='\033[0;90m'
+    NC='\033[0m'
+else
+    CYAN=''
+    GREEN=''
+    YELLOW=''
+    WHITE=''
+    GRAY=''
+    NC=''
+fi
 
 echo -e "${CYAN}==================================================${NC}"
 echo -e "${WHITE}           Radio Station Scrape Summary           ${NC}"

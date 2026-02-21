@@ -1,0 +1,255 @@
+[
+  {
+    "id": "onlineradiobox_ls.antennawebmaseru",
+    "name": "Antenna Web Maseru",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/134584.v2.png",
+    "stream_url": "https://tinyurl.com/AntennaWebMaseru",
+    "website": "https://antennaweb.it/antennaweb-maseru/",
+    "provider": "onlineradiobox",
+    "country": "Lesotho",
+    "genres": [
+      "rock",
+      "pop",
+      "blues",
+      "jazz",
+      "funk",
+      "reggaeton"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:49:39+05:30"
+  },
+  {
+    "id": "onlineradiobox_ls.harvest",
+    "name": "Harvest FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/13271.v5.png",
+    "stream_url": "https://stream.zenolive.com/gbttqnabh3vtv",
+    "website": "http://harvestfm.co.ls/",
+    "provider": "onlineradiobox",
+    "country": "Lesotho",
+    "genres": [
+      "talk",
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:49:34+05:30"
+  },
+  {
+    "id": "onlineradiobox_ls.hero",
+    "name": "Hero Radio (Lesotho)",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/139033.v1.png",
+    "stream_url": "https://a2.asurahosting.com:6790/Lesotho.mp3",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Lesotho",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:49:40+05:30"
+  },
+  {
+    "id": "onlineradiobox_ls.lm",
+    "name": "LM Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/37975.v9.png",
+    "stream_url": "https://cast6.asurahosting.com/proxy/lmradioc/stream",
+    "website": "http://lmradio.co.mz/",
+    "provider": "onlineradiobox",
+    "country": "Lesotho",
+    "genres": [
+      "pop",
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:49:38+05:30"
+  },
+  {
+    "id": "onlineradiobox_ls.lrcm",
+    "name": "LRCM Radio (Lesotho)",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/153064.v1.png",
+    "stream_url": "https://a8.asurahosting.com:8950/lesotho.mp3",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Lesotho",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:49:40+05:30"
+  },
+  {
+    "id": "onlineradiobox_ls.mapholi",
+    "name": "Mapholi Fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/111590.v3.png",
+    "stream_url": "https://a12.asurahosting.com/listen/mapholi_fm/radio.mp3?1756077409753",
+    "website": "https://www.mapholifm.co.za/",
+    "provider": "onlineradiobox",
+    "country": "Lesotho",
+    "genres": [
+      "pop",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:49:36+05:30"
+  },
+  {
+    "id": "onlineradiobox_ls.moafrika",
+    "name": "Moafrika FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/102286.v1.png",
+    "stream_url": "http://ca3.rcast.net:8040/;",
+    "website": "http://www.moafrikafm.co.ls/",
+    "provider": "onlineradiobox",
+    "country": "Lesotho",
+    "genres": [
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:49:37+05:30"
+  },
+  {
+    "id": "onlineradiobox_ls.molisaeamolemo",
+    "name": "Molisa Ea Molemo FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/147323.v6.png",
+    "stream_url": "https://stream.zeno.fm/v9wvqe6h698uv",
+    "website": "https://zeno.fm/radio/molisa-ea-molemo/",
+    "provider": "onlineradiobox",
+    "country": "Lesotho",
+    "genres": [
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:49:40+05:30"
+  },
+  {
+    "id": "onlineradiobox_ls.pc",
+    "name": "PC FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/13268.v12.png",
+    "stream_url": "http://102.130.114.208:8000/pcfm",
+    "website": "http://www.pcfm.co.ls/",
+    "provider": "onlineradiobox",
+    "country": "Lesotho",
+    "genres": [
+      "news",
+      "education"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:49:35+05:30"
+  },
+  {
+    "id": "onlineradiobox_ls.retsmaloi",
+    "name": "Retsmaloi 24/7 Talk And Music",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/91299.v3.png",
+    "stream_url": "https://stream.zeno.fm/esexgdd114zuv",
+    "website": "https://zeno.fm/retsmaloi-247-talk-and-music/",
+    "provider": "onlineradiobox",
+    "country": "Lesotho",
+    "genres": [
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:49:39+05:30"
+  },
+  {
+    "id": "onlineradiobox_ls.rfi",
+    "name": "RFI Afrique",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/37976.v2.png",
+    "stream_url": "http://live02.rfi.fr/rfiafrique-64.mp3",
+    "website": "http://www.rfi.fr/",
+    "provider": "onlineradiobox",
+    "country": "Lesotho",
+    "genres": [
+      "news",
+      "talk",
+      "sports"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:49:36+05:30"
+  },
+  {
+    "id": "onlineradiobox_ls.tsenolo",
+    "name": "Ts&#39;enolo FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/82788.v1.png",
+    "stream_url": "http://102.130.114.208:8000/tsenolofm",
+    "website": "http://www.tsenolofm.co.ls/",
+    "provider": "onlineradiobox",
+    "country": "Lesotho",
+    "genres": [
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:49:37+05:30"
+  },
+  {
+    "id": "onlineradiobox_ls.tzgospel",
+    "name": "Tzgospel Lesotho",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/128846.v1.png",
+    "stream_url": "https://stream.zeno.fm/52nfcgx00ehvv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Lesotho",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:49:41+05:30"
+  },
+  {
+    "id": "onlineradiobox_ls.voiceoflesotho",
+    "name": "Voice of lesotho radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/150615.v1.png",
+    "stream_url": "https://stream.zeno.fm/iipjmkbq4eeuv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Lesotho",
+    "genres": [
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:49:38+05:30"
+  }
+]

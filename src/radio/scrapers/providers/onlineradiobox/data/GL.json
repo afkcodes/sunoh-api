@@ -1,0 +1,96 @@
+[
+  {
+    "id": "onlineradiobox_gl.antennaweb",
+    "name": "Antenna Web Kulusuk",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/128811.v4.png",
+    "stream_url": "https://tinyurl.com/Antenna-Web-Kulusuk",
+    "website": "https://antennaweb.it/antennaweb-kulusuk/",
+    "provider": "onlineradiobox",
+    "country": "Greenland",
+    "genres": [
+      "rock",
+      "pop",
+      "blues",
+      "jazz",
+      "funk",
+      "latin"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:18:13+05:30"
+  },
+  {
+    "id": "onlineradiobox_gl.fusionalternativa",
+    "name": "Radio Fusión Alternativa",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/104716.v3.png",
+    "stream_url": "https://stream.zeno.fm/t1ry4xkmzk8uv",
+    "website": "https://xat.com/fusionalternativa1",
+    "provider": "onlineradiobox",
+    "country": "Greenland",
+    "genres": [
+      "rock",
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:18:12+05:30"
+  },
+  {
+    "id": "onlineradiobox_gl.icefm",
+    "name": "ICE FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/33127.v3.png",
+    "stream_url": "http://media.limfjordnetradio.dk/icefm",
+    "website": "http://www.icefm.gl/",
+    "provider": "onlineradiobox",
+    "country": "Greenland",
+    "genres": [
+      "rock",
+      "pop",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:18:10+05:30"
+  },
+  {
+    "id": "onlineradiobox_gl.knrradio",
+    "name": "KNR Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/33130.v1.png",
+    "stream_url": "https://rrr.sz.xlcdn.com/?account=knr&file=radio&type=live&service=icecast&port=8000&output=pls",
+    "website": "http://knr.gl/kl/knr-radio",
+    "provider": "onlineradiobox",
+    "country": "Greenland",
+    "genres": [
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:18:12+05:30"
+  },
+  {
+    "id": "onlineradiobox_gl.nanoqfm",
+    "name": "Nanoq FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/76781.v5.png",
+    "stream_url": "http://getnanoq.retro-radio.dk/Nanoq-TX-1",
+    "website": "http://www.nanoqmedia.gl/",
+    "provider": "onlineradiobox",
+    "country": "Greenland",
+    "genres": [
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:18:11+05:30"
+  }
+]

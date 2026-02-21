@@ -1,0 +1,136 @@
+[
+  {
+    "id": "onlineradiobox_gw.antennawebbissau",
+    "name": "Antenna Web Bissau",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/134583.v2.png",
+    "stream_url": "https://tinyurl.com/AntennaWebBissau",
+    "website": "https://antennaweb.it/antennaweb-bissau/",
+    "provider": "onlineradiobox",
+    "country": "Guinea-Bissau",
+    "genres": [
+      "rock",
+      "pop",
+      "blues",
+      "jazz",
+      "funk",
+      "reggaeton"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:46:44+05:30"
+  },
+  {
+    "id": "onlineradiobox_gw.hero",
+    "name": "Hero Radio (Guinea Bissau)",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/139088.v1.png",
+    "stream_url": "https://a2.asurahosting.com:6790/bissau.mp3",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Guinea-Bissau",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:46:44+05:30"
+  },
+  {
+    "id": "onlineradiobox_gw.jovemguine",
+    "name": "Rádio Jovem Bissau",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/45400.v5.png",
+    "stream_url": "https://primary4.vtuner.com/setupapp/audio/err.mp3",
+    "website": "http://www.radiojovem.info/",
+    "provider": "onlineradiobox",
+    "country": "Guinea-Bissau",
+    "genres": [
+      "dance",
+      "pop",
+      "news",
+      "talk",
+      "folk",
+      "reggae"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:46:42+05:30"
+  },
+  {
+    "id": "onlineradiobox_gw.lrcm",
+    "name": "LRCM Radio (Guinea Bissau)",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/153065.v1.png",
+    "stream_url": "https://a8.asurahosting.com:8950/guineabissau.mp3",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Guinea-Bissau",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:46:43+05:30"
+  },
+  {
+    "id": "onlineradiobox_gw.rfi1afriquegb",
+    "name": "RFI 1 Afrique GB",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/45564.v3.png",
+    "stream_url": "https://rfiafrique64k.ice.infomaniak.ch/rfiafrique-64.mp3",
+    "website": "http://www.rfi.fr/afrique/",
+    "provider": "onlineradiobox",
+    "country": "Guinea-Bissau",
+    "genres": [
+      "pop",
+      "news",
+      "talk",
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:46:42+05:30"
+  },
+  {
+    "id": "onlineradiobox_gw.vozdaguin",
+    "name": "Rádio Voz Da Guiné",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/146722.v1.png",
+    "stream_url": "https://stream.zeno.fm/rodemejquzfvv",
+    "website": "https://zeno.fm/radio/radio-voz-da-guine/",
+    "provider": "onlineradiobox",
+    "country": "Guinea-Bissau",
+    "genres": [
+      "rap",
+      "reggae",
+      "salsa"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:46:45+05:30"
+  },
+  {
+    "id": "onlineradiobox_gw.vozdeesperanca",
+    "name": "Radio Voz de Esperança Bissau",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/118838.v5.png",
+    "stream_url": "https://stream.zeno.fm/c857sevbu18uv",
+    "website": "https://zeno.fm/radio/rve-evangelico/",
+    "provider": "onlineradiobox",
+    "country": "Guinea-Bissau",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:46:44+05:30"
+  }
+]

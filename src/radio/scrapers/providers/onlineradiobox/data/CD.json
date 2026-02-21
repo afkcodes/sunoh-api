@@ -1,0 +1,2016 @@
+[
+  {
+    "id": "onlineradiobox_cd.abcommunication",
+    "name": "Abcommunication Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/146115.v2.png",
+    "stream_url": "https://listen.radioking.com/radio/572462/stream/632477",
+    "website": "http://www.ab-communication.org/",
+    "provider": "onlineradiobox",
+    "country": "DR Congo",
+    "genres": [
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:29:07+05:30"
+  },
+  {
+    "id": "onlineradiobox_cd.acr",
+    "name": "Radio ACR FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/151130.v2.png",
+    "stream_url": "https://acr-lbfdbroadcast.radioca.st/;",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "DR Congo",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:28:11+05:30"
+  },
+  {
+    "id": "onlineradiobox_cd.actuplusmedia",
+    "name": "Actu Plus Média",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/154412.v1.png",
+    "stream_url": "https://stream.zeno.fm/kto3bw1glvatv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "DR Congo",
+    "genres": [
+      "news"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:28:04+05:30"
+  },
+  {
+    "id": "onlineradiobox_cd.adm",
+    "name": "Radio Adm Fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/153893.v2.png",
+    "stream_url": "https://stream.berosat.live:19360/adm-tv/adm-tv.m3u8",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "DR Congo",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:28:09+05:30"
+  },
+  {
+    "id": "onlineradiobox_cd.africaonline",
+    "name": "Radio Africa Online",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/46188.v13.png",
+    "stream_url": "https://ssl.rockhost.com/proxy/radioafr?mp=/stream",
+    "website": "http://soukous.org/",
+    "provider": "onlineradiobox",
+    "country": "DR Congo",
+    "genres": [
+      "reggae",
+      "african",
+      "zouk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:26:04+05:30"
+  },
+  {
+    "id": "onlineradiobox_cd.antennawebkinshasa",
+    "name": "Antenna Web Kinshasa",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/134706.v2.png",
+    "stream_url": "https://tinyurl.com/AntennaWebKinshasa",
+    "website": "https://antennaweb.it/antennaweb-kinshasa/",
+    "provider": "onlineradiobox",
+    "country": "DR Congo",
+    "genres": [
+      "rock",
+      "pop",
+      "blues",
+      "jazz",
+      "funk",
+      "reggaeton"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:29:09+05:30"
+  },
+  {
+    "id": "onlineradiobox_cd.balademonde",
+    "name": "Radio CHARVIN FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/151329.v4.png",
+    "stream_url": "https://stream.berosat.live:19360/chtv-hd/chtv-hd.m3u8",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "DR Congo",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:28:14+05:30"
+  },
+  {
+    "id": "onlineradiobox_cd.bm",
+    "name": "Radio BM Fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/153894.v2.png",
+    "stream_url": "http://185.209.228.92:8080/hls/EGG_PRO_SERVEUR_IPTV@BM_TELEVISION.m3u8",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "DR Congo",
+    "genres": [],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:28:13+05:30"
+  },
+  {
+    "id": "onlineradiobox_cd.bomoko",
+    "name": "Radio Bomoko",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/73863.v11.png",
+    "stream_url": "https://stream.streamaudio.de:8000/radio-bomoko",
+    "website": "https://bomoko.media/",
+    "provider": "onlineradiobox",
+    "country": "DR Congo",
+    "genres": [
+      "news",
+      "african",
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:26:59+05:30"
+  },
+  {
+    "id": "onlineradiobox_cd.borafm",
+    "name": "BORA FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/145915.v1.png",
+    "stream_url": "https://listen.radioking.com/radio/611812/stream/673528",
+    "website": "https://www.borafm.net/",
+    "provider": "onlineradiobox",
+    "country": "DR Congo",
+    "genres": [
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:29:04+05:30"
+  },
+  {
+    "id": "onlineradiobox_cd.bouclier",
+    "name": "Radio Bouclier",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/114617.v3.png",
+    "stream_url": "https://bouclierdelafoi.radioca.st/stream",
+    "website": "https://www.benisambasaministries.com/",
+    "provider": "onlineradiobox",
+    "country": "DR Congo",
+    "genres": [
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:29:00+05:30"
+  },
+  {
+    "id": "onlineradiobox_cd.buzz",
+    "name": "Buzz FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/126220.v9.png",
+    "stream_url": "https://buzzfm.ice.infomaniak.ch/buzzfm-128.aac",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "DR Congo",
+    "genres": [
+      "top40",
+      "sports",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:26:13+05:30"
+  },
+  {
+    "id": "onlineradiobox_cd.canalunigom",
+    "name": "Canal Unigom",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/149366.v2.png",
+    "stream_url": "https://stream.zeno.fm/bnuliy5kdhstv",
+    "website": "https://unigom.ac.cd/",
+    "provider": "onlineradiobox",
+    "country": "DR Congo",
+    "genres": [
+      "education"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:27:04+05:30"
+  },
+  {
+    "id": "onlineradiobox_cd.ccmr",
+    "name": "Radio CCMR",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/145030.v2.png",
+    "stream_url": "https://listen.radioking.com/radio/700442/stream/765593",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "DR Congo",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:29:08+05:30"
+  },
+  {
+    "id": "onlineradiobox_cd.celebrity",
+    "name": "Celebrity FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/137840.v1.png",
+    "stream_url": "https://rmca.ice.infomaniak.ch/rmca-96.aac",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "DR Congo",
+    "genres": [
+      "news",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:28:12+05:30"
+  },
+  {
+    "id": "onlineradiobox_cd.change",
+    "name": "Change Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/128427.v2.png",
+    "stream_url": "https://stream.zeno.fm/nvlpke7sdgzvv",
+    "website": "https://changeong.org/",
+    "provider": "onlineradiobox",
+    "country": "DR Congo",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:29:06+05:30"
+  },
+  {
+    "id": "onlineradiobox_cd.cliniquedesexologie",
+    "name": "Clinique De Sexologie",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/139776.v2.png",
+    "stream_url": "https://stream.zeno.fm/pmgbo6dgpwmtv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "DR Congo",
+    "genres": [
+      "jazz",
+      "education"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:29:11+05:30"
+  },
+  {
+    "id": "onlineradiobox_cd.congogospel",
+    "name": "Congo Gospel Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/146013.v1.png",
+    "stream_url": "https://listen.radioking.com/radio/596446/stream/657448",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "DR Congo",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:26:10+05:30"
+  },
+  {
+    "id": "onlineradiobox_cd.congometrofmlive",
+    "name": "CONGOMETRO.FM Live",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/146008.v3.png",
+    "stream_url": "https://listen.radioking.com/radio/598225/stream/659296",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "DR Congo",
+    "genres": [
+      "news",
+      "sports",
+      "culture",
+      "gospel",
+      "politics"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:26:09+05:30"
+  },
+  {
+    "id": "onlineradiobox_cd.cop",
+    "name": "Radio Afrika Telema",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/150487.v4.png",
+    "stream_url": "https://stream.berosat.live:19360/afrika-telema/afrika-telema.m3u8",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "DR Congo",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:29:47+05:30"
+  },
+  {
+    "id": "onlineradiobox_cd.delafemme",
+    "name": "Radio de la Femme",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/133592.v5.png",
+    "stream_url": "https://cast6.asurahosting.com/proxy/fmdigitf/stream",
+    "website": "https://radiodelafemme.net/",
+    "provider": "onlineradiobox",
+    "country": "DR Congo",
+    "genres": [
+      "talk",
+      "culture"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:29:44+05:30"
+  },
+  {
+    "id": "onlineradiobox_cd.dr",
+    "name": "Radio Dr Fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/151408.v3.png",
+    "stream_url": "https://drfm-lbfdbroadcast.radioca.st/;",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "DR Congo",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:28:03+05:30"
+  },
+  {
+    "id": "onlineradiobox_cd.dream",
+    "name": "Dream fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/120531.v8.png",
+    "stream_url": "https://stream.zeno.fm/jwv08r0kje4tv",
+    "website": "https://zeno.fm/radio/dream-fm-kfel/",
+    "provider": "onlineradiobox",
+    "country": "DR Congo",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:27:07+05:30"
+  },
+  {
+    "id": "onlineradiobox_cd.dynamique",
+    "name": "Dynamique fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/150407.v1.png",
+    "stream_url": "http://node.stream-africa.com:8000/DynamicFM",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "DR Congo",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:27:59+05:30"
+  },
+  {
+    "id": "onlineradiobox_cd.ead",
+    "name": "Radio EàD Congo",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/145137.v1.png",
+    "stream_url": "https://listen.radioking.com/radio/695603/stream/760472",
+    "website": "https://www.edtvcongosite.org/",
+    "provider": "onlineradiobox",
+    "country": "DR Congo",
+    "genres": [
+      "news",
+      "sports",
+      "african",
+      "culture"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:28:07+05:30"
+  },
+  {
+    "id": "onlineradiobox_cd.eby",
+    "name": "Eby Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/120895.v5.png",
+    "stream_url": "https://rocket.streamradio.fr:8104/stream",
+    "website": "https://ebyradio.com/",
+    "provider": "onlineradiobox",
+    "country": "DR Congo",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:28:11+05:30"
+  },
+  {
+    "id": "onlineradiobox_cd.eggpro",
+    "name": "RADIO EGG PRO FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/147400.v7.png",
+    "stream_url": "http://dione.shoutca.st:8359/;",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "DR Congo",
+    "genres": [
+      "christian",
+      "gospel",
+      "education"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:29:13+05:30"
+  },
+  {
+    "id": "onlineradiobox_cd.elim922",
+    "name": "Elim Fm 92.2mhz",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/99813.v3.png",
+    "stream_url": "https://listen.radioking.com/radio/399031/stream/451075",
+    "website": "https://elimfm.business.site/",
+    "provider": "onlineradiobox",
+    "country": "DR Congo",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:27:12+05:30"
+  },
+  {
+    "id": "onlineradiobox_cd.embmission",
+    "name": "EMB-Mission",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/147769.v11.png",
+    "stream_url": "https://radio.embmission.com/listen",
+    "website": "https://www.embmission.com/",
+    "provider": "onlineradiobox",
+    "country": "DR Congo",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:27:03+05:30"
+  },
+  {
+    "id": "onlineradiobox_cd.emergence",
+    "name": "Radio Émergence Fm 100.4 Mhz",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/148477.v2.png",
+    "stream_url": "https://rtefm-lbfdbroadcast.radioca.st/;",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "DR Congo",
+    "genres": [],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:27:10+05:30"
+  },
+  {
+    "id": "onlineradiobox_cd.espoir",
+    "name": "Radio Espoir Fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/147136.v4.png",
+    "stream_url": "https://stream.berosat.live:19360/espoir-tv-stream/espoir-tv-stream.m3u8",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "DR Congo",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:28:00+05:30"
+  },
+  {
+    "id": "onlineradiobox_cd.eternellerecord",
+    "name": "Eternelle Record Fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/131779.v2.png",
+    "stream_url": "https://eternellerecordfm.ice.infomaniak.ch/eternellerecordfm-24.mp3",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "DR Congo",
+    "genres": [
+      "pop",
+      "sports",
+      "culture",
+      "politics"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:27:05+05:30"
+  },
+  {
+    "id": "onlineradiobox_cd.galaxykakanda",
+    "name": "Galaxy Radio Kakanda",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/151368.v4.png",
+    "stream_url": "http://s26.myradiostream.com:22720/;",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "DR Congo",
+    "genres": [
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:28:13+05:30"
+  },
+  {
+    "id": "onlineradiobox_cd.geant",
+    "name": "GEANT RADIO",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/116306.v14.png",
+    "stream_url": "https://servidor37.brlogic.com:7080/live",
+    "website": "https://geantradio.com/",
+    "provider": "onlineradiobox",
+    "country": "DR Congo",
+    "genres": [
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:26:08+05:30"
+  },
+  {
+    "id": "onlineradiobox_cd.gospelfm",
+    "name": "Gospel Fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/103547.v2.png",
+    "stream_url": "https://stream.zeno.fm/n3sgwrm2mg8uv",
+    "website": "https://zeno.fm/millenium-gospel-fm/",
+    "provider": "onlineradiobox",
+    "country": "DR Congo",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:26:03+05:30"
+  },
+  {
+    "id": "onlineradiobox_cd.grandmedia",
+    "name": "Radio Grand Media FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/147628.v10.png",
+    "stream_url": "https://sam-lbfdbroadcast.radioca.st/;",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "DR Congo",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:29:10+05:30"
+  },
+  {
+    "id": "onlineradiobox_cd.hannabih",
+    "name": "Radio HANNABIH",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/150485.v4.png",
+    "stream_url": "https://stream.berosat.live:19360/hannabih-tv/hannabih-tv.m3u8",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "DR Congo",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:29:05+05:30"
+  },
+  {
+    "id": "onlineradiobox_cd.hero",
+    "name": "Hero Radio (Congo DRC)",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/138806.v1.png",
+    "stream_url": "https://a2.asurahosting.com:6790/congodrc.mp3",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "DR Congo",
+    "genres": [
+      "talk",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:29:07+05:30"
+  },
+  {
+    "id": "onlineradiobox_cd.hsdone",
+    "name": "Ndulé Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/114342.v9.png",
+    "stream_url": "https://manager7.streamradio.fr:1235/stream",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "DR Congo",
+    "genres": [
+      "dance",
+      "zouk",
+      "hits",
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:27:08+05:30"
+  },
+  {
+    "id": "onlineradiobox_cd.interkinois",
+    "name": "Interkinois Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/118932.v6.png",
+    "stream_url": "https://cast4.asurahosting.com/proxy/interkinois_radio/stream",
+    "website": "https://interkinoisradio.com/",
+    "provider": "onlineradiobox",
+    "country": "DR Congo",
+    "genres": [
+      "news",
+      "african"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:26:16+05:30"
+  },
+  {
+    "id": "onlineradiobox_cd.jerubaal",
+    "name": "Radio Jerubaal Fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/153550.v2.png",
+    "stream_url": "http://185.209.228.92:8080/hls/EGG_PRO_SERVEUR_IPTV@JERUBAAL_TV.m3u8",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "DR Congo",
+    "genres": [
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:29:09+05:30"
+  },
+  {
+    "id": "onlineradiobox_cd.kelelo",
+    "name": "Radio Kelelo",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/127189.v1.png",
+    "stream_url": "http://dione.shoutca.st:8512/;",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "DR Congo",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:28:01+05:30"
+  },
+  {
+    "id": "onlineradiobox_cd.kilim",
+    "name": "Radio KILIM",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/141459.v4.png",
+    "stream_url": "https://s3.voscast.com:11171/stream",
+    "website": "https://radiokilim.com/",
+    "provider": "onlineradiobox",
+    "country": "DR Congo",
+    "genres": [
+      "culture",
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:29:02+05:30"
+  },
+  {
+    "id": "onlineradiobox_cd.kinmonde",
+    "name": "Kin Monde",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/148896.v3.png",
+    "stream_url": "https://kinmonde.out.airtime.pro/kinmonde_a",
+    "website": "http://airtime.sourcefabric.org/",
+    "provider": "onlineradiobox",
+    "country": "DR Congo",
+    "genres": [
+      "rock",
+      "pop",
+      "rap"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:27:09+05:30"
+  },
+  {
+    "id": "onlineradiobox_cd.kulturafm",
+    "name": "Kultura FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/107780.v15.png",
+    "stream_url": "https://kulturafm.ice.infomaniak.ch/kulturafm-128.mp3",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "DR Congo",
+    "genres": [
+      "news",
+      "culture",
+      "politics",
+      "community"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:26:01+05:30"
+  },
+  {
+    "id": "onlineradiobox_cd.lareforme",
+    "name": "La Réforme",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/146351.v2.png",
+    "stream_url": "https://listen.radioking.com/radio/461093/stream/516359",
+    "website": "https://www.reformationvoice.org/en",
+    "provider": "onlineradiobox",
+    "country": "DR Congo",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:28:10+05:30"
+  },
+  {
+    "id": "onlineradiobox_cd.lavoixdelucg",
+    "name": "LA VOIX DE L&#39;UCG",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/146959.v1.png",
+    "stream_url": "https://listen.radioking.com/radio/722546/stream/788438",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "DR Congo",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:28:06+05:30"
+  },
+  {
+    "id": "onlineradiobox_cd.lb",
+    "name": "LB FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/152522.v6.png",
+    "stream_url": "https://LBFM-atunwadigital.streamguys1.com/LBFM",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "DR Congo",
+    "genres": [
+      "culture",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:26:08+05:30"
+  },
+  {
+    "id": "onlineradiobox_cd.lemessagerdupeuple",
+    "name": "Radio Le Messager Du Peuple (rmp)",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/124504.v8.png",
+    "stream_url": "https://stream.zeno.fm/bqtxufqsaqnuv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "DR Congo",
+    "genres": [
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:27:07+05:30"
+  },
+  {
+    "id": "onlineradiobox_cd.life",
+    "name": "LIFE Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/144920.v2.png",
+    "stream_url": "https://listen.radioking.com/radio/707264/stream/772730",
+    "website": "http://life-radio.websiteradio.co/",
+    "provider": "onlineradiobox",
+    "country": "DR Congo",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:29:13+05:30"
+  },
+  {
+    "id": "onlineradiobox_cd.light",
+    "name": "Light Fm Ecologie",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/121669.v12.png",
+    "stream_url": "https://listen.radioking.com/radio/485195/stream/541826",
+    "website": "https://www.lighteco-rdc.org/",
+    "provider": "onlineradiobox",
+    "country": "DR Congo",
+    "genres": [
+      "blues",
+      "classic",
+      "country"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:27:05+05:30"
+  },
+  {
+    "id": "onlineradiobox_cd.likasi",
+    "name": "LIKASI 1er Fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/135285.v4.png",
+    "stream_url": "https://stream.zeno.fm/r1wksjm2lentv",
+    "website": "https://zeno.fm/radio/likasi-1er-fm/",
+    "provider": "onlineradiobox",
+    "country": "DR Congo",
+    "genres": [
+      "rock",
+      "pop",
+      "news"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:27:12+05:30"
+  },
+  {
+    "id": "onlineradiobox_cd.local",
+    "name": "BLUESKY  RADIO",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/129352.v22.png",
+    "stream_url": "https://stream.zeno.fm/clkive9b4butv",
+    "website": "https://zeno.fm/radio/bluesky-radio/",
+    "provider": "onlineradiobox",
+    "country": "DR Congo",
+    "genres": [
+      "culture",
+      "education"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:27:10+05:30"
+  },
+  {
+    "id": "onlineradiobox_cd.lollywoodhd",
+    "name": "LOLLYWOOD HD FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/152015.v1.png",
+    "stream_url": "https://vdo2.pro-fhi.net:3061/hybrid/play.m3u8",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "DR Congo",
+    "genres": [
+      "community"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:29:05+05:30"
+  },
+  {
+    "id": "onlineradiobox_cd.lrcm",
+    "name": "LRCM Radio (Congo D.R)",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/152276.v2.png",
+    "stream_url": "https://a8.asurahosting.com:8950/congodr.mp3",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "DR Congo",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:28:15+05:30"
+  },
+  {
+    "id": "onlineradiobox_cd.lushiactu",
+    "name": "Lushiactu Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/118584.v3.png",
+    "stream_url": "https://cast3.asurahosting.com/proxy/deograti/stream",
+    "website": "https://radio.lushiactu.com/",
+    "provider": "onlineradiobox",
+    "country": "DR Congo",
+    "genres": [
+      "news"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:26:16+05:30"
+  },
+  {
+    "id": "onlineradiobox_cd.luzingu",
+    "name": "RADIO LUZINGU",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/146009.v2.png",
+    "stream_url": "https://listen.radioking.com/radio/597976/stream/659038",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "DR Congo",
+    "genres": [],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:29:03+05:30"
+  },
+  {
+    "id": "onlineradiobox_cd.machinerecords",
+    "name": "Radio Machine Records",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/150486.v1.png",
+    "stream_url": "https://stream.berosat.live:19360/machine-record/machine-record.m3u8",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "DR Congo",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:27:13+05:30"
+  },
+  {
+    "id": "onlineradiobox_cd.maendeleo",
+    "name": "Radio Maendeleo",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/124485.v2.png",
+    "stream_url": "http://radiomaendeleobukavu.ice.infomaniak.ch/radiomaendeleobukavu-sk.mp3",
+    "website": "https://www.radiomaendeleo.info/",
+    "provider": "onlineradiobox",
+    "country": "DR Congo",
+    "genres": [
+      "news"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:28:09+05:30"
+  },
+  {
+    "id": "onlineradiobox_cd.magecopro",
+    "name": "Mageco Pro Fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/148532.v1.png",
+    "stream_url": "https://mageco-lbfdbroadcast.radioca.st/;",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "DR Congo",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:28:05+05:30"
+  },
+  {
+    "id": "onlineradiobox_cd.manseba",
+    "name": "Radio Vox Kongo",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/129637.v14.png",
+    "stream_url": "https://stream.zeno.fm/e8y0p5vgmijvv",
+    "website": "https://zeno.fm/radio/sublime-radio-gjed/",
+    "provider": "onlineradiobox",
+    "country": "DR Congo",
+    "genres": [
+      "news",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:26:14+05:30"
+  },
+  {
+    "id": "onlineradiobox_cd.maquis",
+    "name": "Maquis Fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/145890.v4.png",
+    "stream_url": "https://listen.radioking.com/radio/411712/stream/464392",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "DR Congo",
+    "genres": [
+      "news",
+      "african"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:29:41+05:30"
+  },
+  {
+    "id": "onlineradiobox_cd.memjs",
+    "name": "Radio  MEMJS TV",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/150484.v1.png",
+    "stream_url": "https://stream.berosat.live:19360/memjs-tv/memjs-tv.m3u8",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "DR Congo",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:29:10+05:30"
+  },
+  {
+    "id": "onlineradiobox_cd.millenium",
+    "name": "Millenium radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/101815.v8.png",
+    "stream_url": "https://stream.zeno.fm/vkyhcgfd5f8uv",
+    "website": "https://zeno.fm/millenium-radioh1tmcgfd5f8uv/",
+    "provider": "onlineradiobox",
+    "country": "DR Congo",
+    "genres": [
+      "pop",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:26:11+05:30"
+  },
+  {
+    "id": "onlineradiobox_cd.nduleworld",
+    "name": "Ndulé World FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/127048.v1.png",
+    "stream_url": "https://manager5.streamradio.fr:1995/stream",
+    "website": "https://nw.hsdonegroup.com/",
+    "provider": "onlineradiobox",
+    "country": "DR Congo",
+    "genres": [
+      "dance",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:29:10+05:30"
+  },
+  {
+    "id": "onlineradiobox_cd.nrumonde",
+    "name": "RMRC Webradio",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/139910.v10.png",
+    "stream_url": "https://rtds.ice.infomaniak.ch/rmrc-24.aac",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "DR Congo",
+    "genres": [
+      "news",
+      "talk",
+      "politics"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:27:10+05:30"
+  },
+  {
+    "id": "onlineradiobox_cd.ntfm",
+    "name": "Nouvelle TendanceFM",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/131458.v5.png",
+    "stream_url": "http://dione.shoutca.st:8648/;",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "DR Congo",
+    "genres": [
+      "pop",
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:29:12+05:30"
+  },
+  {
+    "id": "onlineradiobox_cd.nuru",
+    "name": "Nuru Fm Likasi",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/140369.v3.png",
+    "stream_url": "https://stream.zeno.fm/gc0xygqsvfmvv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "DR Congo",
+    "genres": [
+      "news"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:27:03+05:30"
+  },
+  {
+    "id": "onlineradiobox_cd.oasis",
+    "name": "oasis",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/146045.v2.png",
+    "stream_url": "https://listen.radioking.com/radio/622345/stream/684418",
+    "website": "https://oasiscongo.com/",
+    "provider": "onlineradiobox",
+    "country": "DR Congo",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:29:42+05:30"
+  },
+  {
+    "id": "onlineradiobox_cd.oasismediartv",
+    "name": "Oasis Media Rtv",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/154782.v1.png",
+    "stream_url": "https://stream.berosat.live:19360/oasis-media/oasis-media.m3u8",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "DR Congo",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:29:48+05:30"
+  },
+  {
+    "id": "onlineradiobox_cd.ouragan",
+    "name": "Ouragan FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/107126.v4.png",
+    "stream_url": "https://radio.ouragan.cd/listen/ouragan/radio.mp3",
+    "website": "https://ouragan.cd/",
+    "provider": "onlineradiobox",
+    "country": "DR Congo",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:27:00+05:30"
+  },
+  {
+    "id": "onlineradiobox_cd.pourim",
+    "name": "Radio Pourim",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/109121.v4.png",
+    "stream_url": "https://zoka.radioca.st/stream",
+    "website": "https://radiopourim.com/",
+    "provider": "onlineradiobox",
+    "country": "DR Congo",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:27:01+05:30"
+  },
+  {
+    "id": "onlineradiobox_cd.r2cculture",
+    "name": "R2CFM Radio Congo Culture",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/93874.v5.png",
+    "stream_url": "https://listen.radioking.com/radio/254017/stream/402961",
+    "website": "http://www.r2c.fm/",
+    "provider": "onlineradiobox",
+    "country": "DR Congo",
+    "genres": [
+      "african",
+      "culture"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:26:12+05:30"
+  },
+  {
+    "id": "onlineradiobox_cd.radiodestnychannel",
+    "name": "Radio Destny Channel",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/148249.v2.png",
+    "stream_url": "https://stream.berosat.live:19360/destiny-channel/destiny-channel.m3u8",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "DR Congo",
+    "genres": [
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:28:12+05:30"
+  },
+  {
+    "id": "onlineradiobox_cd.radiomaria",
+    "name": "Radio Maria",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/32706.v6.png",
+    "stream_url": "https://dreamsiteradiocp2.com/proxy/rmcongo2?mp=/stream?ver=860933",
+    "website": "http://www.radiomaria.cg/",
+    "provider": "onlineradiobox",
+    "country": "DR Congo",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:26:14+05:30"
+  },
+  {
+    "id": "onlineradiobox_cd.radiongoma",
+    "name": "Radio Ngoma",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/33103.v5.png",
+    "stream_url": "https://african1paris.ice.infomaniak.ch/african1paris-64.mp3",
+    "website": "http://rnafizi.net/",
+    "provider": "onlineradiobox",
+    "country": "DR Congo",
+    "genres": [
+      "pop",
+      "news",
+      "talk",
+      "folk",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:27:06+05:30"
+  },
+  {
+    "id": "onlineradiobox_cd.radiookapi",
+    "name": "Radio Okapi",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/32712.v10.png",
+    "stream_url": "http://rs1.radiostreamer.com:8000/;",
+    "website": "http://www.radiookapi.net/",
+    "provider": "onlineradiobox",
+    "country": "DR Congo",
+    "genres": [
+      "pop",
+      "news",
+      "talk",
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:25:59+05:30"
+  },
+  {
+    "id": "onlineradiobox_cd.radiotvmixcongolaise",
+    "name": "Radio Tv Mix Congolaise",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/32704.v4.png",
+    "stream_url": "http://37.59.42.207:8080/;",
+    "website": "https://radiomixcongolaise.com/",
+    "provider": "onlineradiobox",
+    "country": "DR Congo",
+    "genres": [
+      "pop",
+      "african"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:26:00+05:30"
+  },
+  {
+    "id": "onlineradiobox_cd.rbi",
+    "name": "RBIFM",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/146331.v3.png",
+    "stream_url": "https://listen.radioking.com/radio/582377/stream/642698",
+    "website": "http://www.rbifm.radioweb.co/",
+    "provider": "onlineradiobox",
+    "country": "DR Congo",
+    "genres": [
+      "news",
+      "sports",
+      "culture",
+      "politics"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:29:48+05:30"
+  },
+  {
+    "id": "onlineradiobox_cd.relax",
+    "name": "RELAX  RT de Lubumbashi",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/139106.v8.png",
+    "stream_url": "https://stream.zeno.fm/zjruirqpigptv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "DR Congo",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:26:06+05:30"
+  },
+  {
+    "id": "onlineradiobox_cd.reporterslive",
+    "name": "Reporters Live Radio Mobile",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/152059.v2.png",
+    "stream_url": "https://rlrm-lbfdbroadcast.radioca.st/;",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "DR Congo",
+    "genres": [],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:29:11+05:30"
+  },
+  {
+    "id": "onlineradiobox_cd.rmca",
+    "name": "RMCA",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/100459.v10.png",
+    "stream_url": "https://rmca-1.ice.infomaniak.ch/rmca-128.mp3",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "DR Congo",
+    "genres": [
+      "news",
+      "talk",
+      "christian",
+      "african",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:26:11+05:30"
+  },
+  {
+    "id": "onlineradiobox_cd.rtcmb",
+    "name": "RTCMB FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/151863.v1.png",
+    "stream_url": "https://rtcmb-lbfdbroadcast.radioca.st/;",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "DR Congo",
+    "genres": [],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:26:59+05:30"
+  },
+  {
+    "id": "onlineradiobox_cd.rtds",
+    "name": "RTDS",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/118788.v12.png",
+    "stream_url": "https://rtdsradio-atunwadigital.streamguys1.com/rtdsradio",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "DR Congo",
+    "genres": [
+      "news",
+      "culture"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:29:45+05:30"
+  },
+  {
+    "id": "onlineradiobox_cd.rtdv",
+    "name": "RTDV",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/154967.v3.png",
+    "stream_url": "https://rtdv.ice.infomaniak.ch/rtdv-128.aac",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "DR Congo",
+    "genres": [
+      "gospel",
+      "news"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:29:49+05:30"
+  },
+  {
+    "id": "onlineradiobox_cd.rtga",
+    "name": "RTGA FM 88.1",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/146048.v2.png",
+    "stream_url": "https://listen.radioking.com/radio/621559/stream/683620",
+    "website": "https://groupelavenir-rdc.com/",
+    "provider": "onlineradiobox",
+    "country": "DR Congo",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:29:02+05:30"
+  },
+  {
+    "id": "onlineradiobox_cd.rtr",
+    "name": "RTR",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/145106.v1.png",
+    "stream_url": "https://listen.radioking.com/radio/699332/stream/764333",
+    "website": "https://rtr-beni.net/",
+    "provider": "onlineradiobox",
+    "country": "DR Congo",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:29:40+05:30"
+  },
+  {
+    "id": "onlineradiobox_cd.rtsir",
+    "name": "RTSIR Fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/151943.v1.png",
+    "stream_url": "https://rtsir-lbfdbroadcast.radioca.st/;",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "DR Congo",
+    "genres": [],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:28:02+05:30"
+  },
+  {
+    "id": "onlineradiobox_cd.rtsm",
+    "name": "RTSM",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/123852.v6.png",
+    "stream_url": "https://stream.zeno.fm/am4m4acevnhvv",
+    "website": "https://zeno.fm/radio/radio-rtsm/",
+    "provider": "onlineradiobox",
+    "country": "DR Congo",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:26:11+05:30"
+  },
+  {
+    "id": "onlineradiobox_cd.rtsvep",
+    "name": "RTVSEP",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/148780.v5.png",
+    "stream_url": "https://stream.berosat.live:19360/sep-index/sep-index.m3u8",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "DR Congo",
+    "genres": [
+      "news",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:28:11+05:30"
+  },
+  {
+    "id": "onlineradiobox_cd.saintemontagneceremo",
+    "name": "Sainte Montagne Ceremo Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/153453.v1.png",
+    "stream_url": "https://stream.zeno.fm/uojinjposcjvv",
+    "website": "https://www.eglisesaintemontagne.com/",
+    "provider": "onlineradiobox",
+    "country": "DR Congo",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:28:14+05:30"
+  },
+  {
+    "id": "onlineradiobox_cd.sanstaboumtv",
+    "name": "Sans Tabou Mtv",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/139763.v1.png",
+    "stream_url": "https://stream.zeno.fm/pnxlaxyueouuv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "DR Congo",
+    "genres": [
+      "jazz",
+      "education"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:28:14+05:30"
+  },
+  {
+    "id": "onlineradiobox_cd.sbbroadcastradio",
+    "name": "SBFMBROADCAST RADIO",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/128917.v24.png",
+    "stream_url": "https://stream.zeno.fm/ety7mydhlzwtv",
+    "website": "https://zeno.fm/radio/radio-sbfmbroadcast/",
+    "provider": "onlineradiobox",
+    "country": "DR Congo",
+    "genres": [
+      "news",
+      "entertainment",
+      "politics"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:27:13+05:30"
+  },
+  {
+    "id": "onlineradiobox_cd.scooplubumbashi",
+    "name": "scoopfm lubumbashi",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/151690.v1.png",
+    "stream_url": "https://stream.zeno.fm/wvyo5z9mqhkuv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "DR Congo",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:29:13+05:30"
+  },
+  {
+    "id": "onlineradiobox_cd.sm",
+    "name": "Media14 Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/119867.v13.png",
+    "stream_url": "https://media14.ice.infomaniak.ch/media14-128.aac",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "DR Congo",
+    "genres": [
+      "news",
+      "talk",
+      "education",
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:29:43+05:30"
+  },
+  {
+    "id": "onlineradiobox_cd.sn",
+    "name": "SN Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/123164.v2.png",
+    "stream_url": "https://stream.zeno.fm/99sw3kybt7zuv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "DR Congo",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:28:05+05:30"
+  },
+  {
+    "id": "onlineradiobox_cd.tabernacle",
+    "name": "Radio Tabernacle de Likasi",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/149967.v1.png",
+    "stream_url": "https://listen.radioking.com/radio/752654/stream/819485",
+    "website": "https://www.likasitaberacle.com/rtl",
+    "provider": "onlineradiobox",
+    "country": "DR Congo",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:29:43+05:30"
+  },
+  {
+    "id": "onlineradiobox_cd.tamilpanpalaiafrica",
+    "name": "Tamil Panpalai Africa",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/85259.v5.png",
+    "stream_url": "https://tamilpanpalai.radioca.st/afr",
+    "website": "https://tamilpanpalai.com/afr.php",
+    "provider": "onlineradiobox",
+    "country": "DR Congo",
+    "genres": [
+      "90s",
+      "80s",
+      "70s",
+      "oldies",
+      "60s",
+      "50s",
+      "tamil",
+      "40s"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:27:04+05:30"
+  },
+  {
+    "id": "onlineradiobox_cd.tankiri",
+    "name": "Radio Tankiri",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/145381.v2.png",
+    "stream_url": "https://listen.radioking.com/radio/682192/stream/746653",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "DR Congo",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:26:10+05:30"
+  },
+  {
+    "id": "onlineradiobox_cd.tayna",
+    "name": "Radio TAYNA",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/120068.v6.png",
+    "stream_url": "https://stream.zeno.fm/ide8zzvajbcvv",
+    "website": "https://radiotayna.com/",
+    "provider": "onlineradiobox",
+    "country": "DR Congo",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:27:09+05:30"
+  },
+  {
+    "id": "onlineradiobox_cd.time",
+    "name": "Radio Time",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/134289.v3.png",
+    "stream_url": "https://stream.zeno.fm/jto5lhbcwazvv",
+    "website": "https://zeno.fm/radio/radio-alternativa-juvenil/",
+    "provider": "onlineradiobox",
+    "country": "DR Congo",
+    "genres": [
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:27:11+05:30"
+  },
+  {
+    "id": "onlineradiobox_cd.topcongofm",
+    "name": "Top Congo FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/32716.v8.png",
+    "stream_url": "https://topcongofm2.ice.infomaniak.ch/topcongofm2-64.mp3?",
+    "website": "https://topcongo.live/",
+    "provider": "onlineradiobox",
+    "country": "DR Congo",
+    "genres": [
+      "pop",
+      "news",
+      "talk",
+      "african"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:25:58+05:30"
+  },
+  {
+    "id": "onlineradiobox_cd.tuambiyane",
+    "name": "Radio Tuambiane",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/126928.v23.png",
+    "stream_url": "https://tuambiyane.radioca.st/stream",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "DR Congo",
+    "genres": [
+      "education",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:27:02+05:30"
+  },
+  {
+    "id": "onlineradiobox_cd.tzgospel",
+    "name": "Tzgospel Radio (DRC CONGO)",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/119045.v7.png",
+    "stream_url": "https://stream.zeno.fm/swfn5pb4tchvv",
+    "website": "https://zeno.fm/radio/tzgospel-congo0nyn5pb4tchvv/",
+    "provider": "onlineradiobox",
+    "country": "DR Congo",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:26:15+05:30"
+  },
+  {
+    "id": "onlineradiobox_cd.udps",
+    "name": "UDPSRADIO",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/46158.v6.png",
+    "stream_url": "https://stream.zeno.fm/5fm8q327e8zuv",
+    "website": "https://zeno.fm/udps-radio/",
+    "provider": "onlineradiobox",
+    "country": "DR Congo",
+    "genres": [
+      "pop",
+      "news",
+      "talk",
+      "french"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:26:05+05:30"
+  },
+  {
+    "id": "onlineradiobox_cd.urban947",
+    "name": "Urban FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/98492.v9.png",
+    "stream_url": "https://urbanfm.ice.infomaniak.ch/urbanfm-128.aac",
+    "website": "https://u947.fm/",
+    "provider": "onlineradiobox",
+    "country": "DR Congo",
+    "genres": [
+      "sports",
+      "culture"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:26:05+05:30"
+  },
+  {
+    "id": "onlineradiobox_cd.virtwelo",
+    "name": "Radio Virtwelo",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/145765.v1.png",
+    "stream_url": "https://listen.radioking.com/radio/538001/stream/596594",
+    "website": "https://virtwelo.com/",
+    "provider": "onlineradiobox",
+    "country": "DR Congo",
+    "genres": [
+      "electronic",
+      "blues",
+      "jazz",
+      "country",
+      "instrumental",
+      "acoustic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:29:12+05:30"
+  },
+  {
+    "id": "onlineradiobox_cd.virungabusinessvbr",
+    "name": "Virunga Business Radio Vbr fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/102739.v2.png",
+    "stream_url": "https://stream.zeno.fm/pfcpzpc4lfeuv",
+    "website": "https://virunga-radio.com/",
+    "provider": "onlineradiobox",
+    "country": "DR Congo",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:26:15+05:30"
+  },
+  {
+    "id": "onlineradiobox_cd.visionmedia",
+    "name": "Vision Media Fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/150295.v2.png",
+    "stream_url": "http://dione.shoutca.st:8810/;",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "DR Congo",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:28:08+05:30"
+  },
+  {
+    "id": "onlineradiobox_cd.winner",
+    "name": "Winner Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/150313.v1.png",
+    "stream_url": "https://listen.radioking.com/radio/757769/stream/824705",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "DR Congo",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:29:01+05:30"
+  },
+  {
+    "id": "onlineradiobox_cd.yalicd",
+    "name": "Yali Cd",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/148101.v1.png",
+    "stream_url": "https://listen.radioking.com/radio/732338/stream/798563",
+    "website": "https://www.yalidrcongo.org/",
+    "provider": "onlineradiobox",
+    "country": "DR Congo",
+    "genres": [
+      "culture"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:29:03+05:30"
+  },
+  {
+    "id": "onlineradiobox_cd.you",
+    "name": "YouRadio FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/122928.v2.png",
+    "stream_url": "https://stream.zeno.fm/m520wcht54zuv",
+    "website": "https://linktr.ee/youradiofm",
+    "provider": "onlineradiobox",
+    "country": "DR Congo",
+    "genres": [
+      "pop",
+      "news",
+      "talk",
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:29:46+05:30"
+  },
+  {
+    "id": "onlineradiobox_cd.zoelikasi",
+    "name": "Baraka FM international",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/137336.v2.png",
+    "stream_url": "https://stream.zeno.fm/byat2g7sixwvv",
+    "website": "https://zeno.fm/radio/baraka-radio-h3nf/",
+    "provider": "onlineradiobox",
+    "country": "DR Congo",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:29:42+05:30"
+  }
+]

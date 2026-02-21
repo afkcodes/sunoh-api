@@ -1,0 +1,102 @@
+[
+  {
+    "id": "onlineradiobox_wf.antennawebwallis",
+    "name": "Antenna Web Wallis",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/138363.v1.png",
+    "stream_url": "https://tinyurl.com/Antenna-Web-Wallis",
+    "website": "https://antennaweb.it/antenna-web-wallis/",
+    "provider": "onlineradiobox",
+    "country": "Wallis and Futuna",
+    "genres": [
+      "rock",
+      "pop",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:24:28+05:30"
+  },
+  {
+    "id": "onlineradiobox_wf.beta",
+    "name": "Station Beta",
+    "image": "https://cdn.onlineradiobox.com/img/logo/2/124862.png",
+    "stream_url": "https://stream.zeno.fm/mww0az1i30muv",
+    "website": "https://beta.co.ke/",
+    "provider": "onlineradiobox",
+    "country": "Wallis and Futuna",
+    "genres": [
+      "pop",
+      "top40",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:24:28+05:30"
+  },
+  {
+    "id": "onlineradiobox_wf.hits1",
+    "name": "Hits 1 Wallis-et-Futuna",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/152201.v4.png",
+    "stream_url": "https://stream.hd1.hits1radio.com/?wallis",
+    "website": "https://www.hits1radio.com/",
+    "provider": "onlineradiobox",
+    "country": "Wallis and Futuna",
+    "genres": [
+      "dance",
+      "electronic",
+      "pop",
+      "top40",
+      "latin",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:24:29+05:30"
+  },
+  {
+    "id": "onlineradiobox_wf.tzgospelswahili",
+    "name": "Tzgospel Swahili (Wallis)",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/119687.v3.png",
+    "stream_url": "https://stream.zeno.fm/1vh9ypdnffhvv",
+    "website": "https://zeno.fm/radio/tzgospel-swahili7tm5spdnffhvv/",
+    "provider": "onlineradiobox",
+    "country": "Wallis and Futuna",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:24:27+05:30"
+  },
+  {
+    "id": "onlineradiobox_wf.wallisfutuna1ere",
+    "name": "Wallis et Futuna 1ère",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/13337.v5.png",
+    "stream_url": "https://wallisetfutuna.ice.infomaniak.ch/wallisetfutuna-128.mp3",
+    "website": "http://la1ere.francetvinfo.fr/wallisfutuna/radio",
+    "provider": "onlineradiobox",
+    "country": "Wallis and Futuna",
+    "genres": [
+      "r'n'b",
+      "pop",
+      "news",
+      "talk",
+      "rap",
+      "hip-hop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:24:27+05:30"
+  }
+]

@@ -1,0 +1,227 @@
+[
+  {
+    "id": "onlineradiobox_vi.antennawebcruzbay",
+    "name": "Antenna Web Cruz Bay",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/131657.v1.png",
+    "stream_url": "https://tinyurl.com/Antenna-Web-Cruz-Bay",
+    "website": "https://antennaweb.it/antennaweb-cruz-bay/",
+    "provider": "onlineradiobox",
+    "country": "U.S. Virgin Islands",
+    "genres": [
+      "rock",
+      "pop",
+      "blues",
+      "jazz",
+      "funk",
+      "latin"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:23:04+05:30"
+  },
+  {
+    "id": "onlineradiobox_vi.aviva",
+    "name": "Aviva Radio",
+    "image": "https://cdn.onlineradiobox.com/img/logo/5/46785.png",
+    "stream_url": "https://stream.zenolive.com/gtpdd4k7a2wtv",
+    "website": "http://www.avivawebradio.com/",
+    "provider": "onlineradiobox",
+    "country": "U.S. Virgin Islands",
+    "genres": [
+      "rock",
+      "christian",
+      "latin"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:23:05+05:30"
+  },
+  {
+    "id": "onlineradiobox_vi.caribbeanpraise",
+    "name": "Caribbean Praise Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/147101.v10.png",
+    "stream_url": "https://c30.radioboss.fm:8795/stream",
+    "website": "https://caribbeanpraiseradio.org/",
+    "provider": "onlineradiobox",
+    "country": "U.S. Virgin Islands",
+    "genres": [
+      "jazz",
+      "reggae",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:23:05+05:30"
+  },
+  {
+    "id": "onlineradiobox_vi.sunnywviq",
+    "name": "Sunny FM-WVIQ",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/46570.v3.png",
+    "stream_url": "https://jkc.streamguys1.com/WVIQ-FM",
+    "website": "http://viradio.com/",
+    "provider": "onlineradiobox",
+    "country": "U.S. Virgin Islands",
+    "genres": [
+      "pop",
+      "top40",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:23:02+05:30"
+  },
+  {
+    "id": "onlineradiobox_vi.thereefwaxj",
+    "name": "The Reef - WAXJ",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/46345.v4.png",
+    "stream_url": "https://streaming.live365.com/a90306",
+    "website": "http://www.reefbroadcasting.com/",
+    "provider": "onlineradiobox",
+    "country": "U.S. Virgin Islands",
+    "genres": [
+      "r'n'b",
+      "reggae"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:22:59+05:30"
+  },
+  {
+    "id": "onlineradiobox_vi.wdhp",
+    "name": "WDHP The Reef",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/46346.v3.png",
+    "stream_url": "https://streaming.live365.com/a11114",
+    "website": "http://www.reefbroadcasting.com/",
+    "provider": "onlineradiobox",
+    "country": "U.S. Virgin Islands",
+    "genres": [
+      "news",
+      "talk",
+      "country",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:23:03+05:30"
+  },
+  {
+    "id": "onlineradiobox_vi.wjkc",
+    "name": "Isle 95",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/76991.v6.png",
+    "stream_url": "https://jkc.streamguys1.com/WJKC",
+    "website": "http://www.isle95.com/",
+    "provider": "onlineradiobox",
+    "country": "U.S. Virgin Islands",
+    "genres": [
+      "hip-hop",
+      "reggae"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:23:00+05:30"
+  },
+  {
+    "id": "onlineradiobox_vi.wmng",
+    "name": "104.9 The Mongoose",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/76992.v6.png",
+    "stream_url": "https://stream.aiir.com/7m9xaaa0kbkvv",
+    "website": "http://viradio.com/",
+    "provider": "onlineradiobox",
+    "country": "U.S. Virgin Islands",
+    "genres": [
+      "classic",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:22:59+05:30"
+  },
+  {
+    "id": "onlineradiobox_vi.wmyp",
+    "name": "Rumba 98.3",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/46582.v6.png",
+    "stream_url": "http://streamdb4.securenetsystems.net/v5/WMYP",
+    "website": "http://viradio.com/",
+    "provider": "onlineradiobox",
+    "country": "U.S. Virgin Islands",
+    "genres": [
+      "spanish",
+      "latin"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:23:00+05:30"
+  },
+  {
+    "id": "onlineradiobox_vi.wtjclp",
+    "name": "WTJC-LP",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/46367.v3.png",
+    "stream_url": "http://s9.viastreaming.net:7820/;",
+    "website": "http://wtjclpfm.com/",
+    "provider": "onlineradiobox",
+    "country": "U.S. Virgin Islands",
+    "genres": [
+      "gospel",
+      "caribbean"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:23:04+05:30"
+  },
+  {
+    "id": "onlineradiobox_vi.wvie",
+    "name": "WVIE - Virgin Islands",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/46577.v4.png",
+    "stream_url": "https://5e1d043cba697.streamlock.net/visland/visland/playlist.m3u8",
+    "website": "http://www.wviefm1073.com/",
+    "provider": "onlineradiobox",
+    "country": "U.S. Virgin Islands",
+    "genres": [
+      "news",
+      "talk",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:23:03+05:30"
+  },
+  {
+    "id": "onlineradiobox_vi.wvvi",
+    "name": "Caribbean Country",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/76993.v2.png",
+    "stream_url": "http://208.84.199.84:8088/broadwave.mp3",
+    "website": "http://viradio.com/",
+    "provider": "onlineradiobox",
+    "country": "U.S. Virgin Islands",
+    "genres": [
+      "country"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:23:01+05:30"
+  }
+]

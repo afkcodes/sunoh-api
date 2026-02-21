@@ -1,0 +1,234 @@
+[
+  {
+    "id": "onlineradiobox_mn.antennawebmongolia",
+    "name": "Antenna Web Mongolia",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/138171.v1.png",
+    "stream_url": "https://tinyurl.com/AntennaWebMongolia",
+    "website": "https://antennaweb.it/antenna-web-mongolia/",
+    "provider": "onlineradiobox",
+    "country": "Mongolia",
+    "genres": [
+      "rock",
+      "pop",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:01:55+05:30"
+  },
+  {
+    "id": "onlineradiobox_mn.best985",
+    "name": "Best FM 98.5",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/72103.v4.png",
+    "stream_url": "http://103.48.116.109:9000/;stream.mp3",
+    "website": "http://www.bestfm.mn/",
+    "provider": "onlineradiobox",
+    "country": "Mongolia",
+    "genres": [
+      "pop",
+      "news",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:01:48+05:30"
+  },
+  {
+    "id": "onlineradiobox_mn.busines",
+    "name": "Business Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/72538.v3.png",
+    "stream_url": "http://202.131.233.34:8014/stream",
+    "website": "http://business-radio.mn/",
+    "provider": "onlineradiobox",
+    "country": "Mongolia",
+    "genres": [
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:01:52+05:30"
+  },
+  {
+    "id": "onlineradiobox_mn.cityeden",
+    "name": "Эден хотын Христийн радио (на русском)",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/45971.v28.png",
+    "stream_url": "https://myradio24.org/cityeden",
+    "website": "http://cityeden.info/",
+    "provider": "onlineradiobox",
+    "country": "Mongolia",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:01:53+05:30"
+  },
+  {
+    "id": "onlineradiobox_mn.familyradio",
+    "name": "Гэр бүлийн Радио",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/46308.v6.png",
+    "stream_url": "https://c2.radioboss.fm/stream/394",
+    "website": "http://www.1045.mn/",
+    "provider": "onlineradiobox",
+    "country": "Mongolia",
+    "genres": [
+      "talk",
+      "christian",
+      "community"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:01:53+05:30"
+  },
+  {
+    "id": "onlineradiobox_mn.mglradio883",
+    "name": "MGL Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/78811.v1.png",
+    "stream_url": "http://74.91.125.187:8096/stream",
+    "website": "http://mglradio.com/",
+    "provider": "onlineradiobox",
+    "country": "Mongolia",
+    "genres": [
+      "pop",
+      "lounge",
+      "news",
+      "talk",
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:01:50+05:30"
+  },
+  {
+    "id": "onlineradiobox_mn.mongolianmusic",
+    "name": "Radiosons",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/88772.v119.png",
+    "stream_url": "https://a6.asurahosting.com:7700/radio.mp3",
+    "website": "https://www.radiosons.com/",
+    "provider": "onlineradiobox",
+    "country": "Mongolia",
+    "genres": [
+      "electronic",
+      "rock",
+      "pop",
+      "hip-hop",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:01:49+05:30"
+  },
+  {
+    "id": "onlineradiobox_mn.mongolynradio",
+    "name": "Монголын радио",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/46300.v5.png",
+    "stream_url": "https://live.mnb.mn/hls/radio1.stream.m3u8",
+    "website": "http://www.mnb.mn/live/radio1",
+    "provider": "onlineradiobox",
+    "country": "Mongolia",
+    "genres": [
+      "pop",
+      "news",
+      "talk",
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:01:51+05:30"
+  },
+  {
+    "id": "onlineradiobox_mn.music",
+    "name": "ЭЛГЭН НУТАГ FM-96.9",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/97510.v22.png",
+    "stream_url": "https://a6.asurahosting.com:7210/radio.mp3",
+    "website": "https://a6.my-control-panel.com/public/elgen_nutag_fm-96.9",
+    "provider": "onlineradiobox",
+    "country": "Mongolia",
+    "genres": [
+      "pop",
+      "news",
+      "talk",
+      "folk",
+      "country"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:01:49+05:30"
+  },
+  {
+    "id": "onlineradiobox_mn.musicplus",
+    "name": "Music Plus+",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/101060.v28.png",
+    "stream_url": "https://fps2.listen2myradio.com:2199/listen.php?ip=109.169.23.17&port=10762&type=s1",
+    "website": "https://www.radiosons.com/",
+    "provider": "onlineradiobox",
+    "country": "Mongolia",
+    "genres": [
+      "rock",
+      "pop",
+      "hip-hop",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:01:52+05:30"
+  },
+  {
+    "id": "onlineradiobox_mn.p3radio",
+    "name": "P3 radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/46302.v5.png",
+    "stream_url": "https://live.mnb.mn/radio/radio2.stream_aac/playlist.m3u8",
+    "website": "http://www.mnb.mn/live/radio3",
+    "provider": "onlineradiobox",
+    "country": "Mongolia",
+    "genres": [
+      "pop",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:01:52+05:30"
+  },
+  {
+    "id": "onlineradiobox_mn.vom",
+    "name": "Voice of Mongolia",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/46299.v2.png",
+    "stream_url": "http://vom.mn/c/-1?t=4",
+    "website": "http://www.vom.mn/",
+    "provider": "onlineradiobox",
+    "country": "Mongolia",
+    "genres": [
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:01:54+05:30"
+  }
+]

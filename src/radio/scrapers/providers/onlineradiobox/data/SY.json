@@ -1,0 +1,327 @@
+[
+  {
+    "id": "onlineradiobox_sy.agape",
+    "name": "Middle East Agape Radio - صوت المحبة الشرق الأوسط",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/108690.v9.png",
+    "stream_url": "https://stream.zeno.fm/sb6wmu58938uv",
+    "website": "https://eastagape.wordpress.com/",
+    "provider": "onlineradiobox",
+    "country": "Syria",
+    "genres": [
+      "talk",
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:49:21+05:30"
+  },
+  {
+    "id": "onlineradiobox_sy.almadinafm",
+    "name": "Al Madina FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/44257.v4.png",
+    "stream_url": "https://stream.almadinafm.com/;stream.mp3",
+    "website": "http://almadinafm.com/",
+    "provider": "onlineradiobox",
+    "country": "Syria",
+    "genres": [
+      "dance",
+      "pop",
+      "news",
+      "talk",
+      "folk",
+      "turkish"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:49:12+05:30"
+  },
+  {
+    "id": "onlineradiobox_sy.arabesk",
+    "name": "Radio Arabesk",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/28525.v3.png",
+    "stream_url": "http://185.4.87.79:8000/stream.mp3",
+    "website": "http://www.arabesquefm.com/",
+    "provider": "onlineradiobox",
+    "country": "Syria",
+    "genres": [
+      "pop",
+      "folk",
+      "arabic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:49:15+05:30"
+  },
+  {
+    "id": "onlineradiobox_sy.arta",
+    "name": "Arta FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/44534.v6.png",
+    "stream_url": "https://edge.mixlr.com/channel/qtgru",
+    "website": "http://www.artafm.com/",
+    "provider": "onlineradiobox",
+    "country": "Syria",
+    "genres": [
+      "pop",
+      "news",
+      "folk",
+      "arabic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:49:18+05:30"
+  },
+  {
+    "id": "onlineradiobox_sy.asimaonline",
+    "name": "Asima-Online",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/44254.v2.png",
+    "stream_url": "https://asima.out.airtime.pro/asima_a",
+    "website": "http://asima-online.net/",
+    "provider": "onlineradiobox",
+    "country": "Syria",
+    "genres": [
+      "dance",
+      "pop",
+      "news",
+      "folk",
+      "turkish"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:49:15+05:30"
+  },
+  {
+    "id": "onlineradiobox_sy.damascus",
+    "name": "Radio Damascus",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/44267.v5.png",
+    "stream_url": "https://radiodamascus.ortas.live/RDimshq/RDimshqAudioLive/playlist.m3u8",
+    "website": "https://damasradio.fm/",
+    "provider": "onlineradiobox",
+    "country": "Syria",
+    "genres": [
+      "news",
+      "folk",
+      "arabic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:49:14+05:30"
+  },
+  {
+    "id": "onlineradiobox_sy.djinni",
+    "name": "Djinni Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/148859.v1.png",
+    "stream_url": "https://stream.radiojar.com/x80daa284bkvv",
+    "website": "https://djinni.radio/",
+    "provider": "onlineradiobox",
+    "country": "Syria",
+    "genres": [
+      "indie"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:49:24+05:30"
+  },
+  {
+    "id": "onlineradiobox_sy.emaar",
+    "name": "EmaarFM",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/113240.v5.png",
+    "stream_url": "https://stream.zeno.fm/4luag56o066uv",
+    "website": "https://www.emaarradio.com/",
+    "provider": "onlineradiobox",
+    "country": "Syria",
+    "genres": [
+      "60s",
+      "arabic",
+      "culture"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:49:17+05:30"
+  },
+  {
+    "id": "onlineradiobox_sy.masyaf",
+    "name": "Masyaf FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/144900.v2.png",
+    "stream_url": "https://listen.radioking.com/radio/708677/stream/774188",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Syria",
+    "genres": [
+      "romantic",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:49:20+05:30"
+  },
+  {
+    "id": "onlineradiobox_sy.mixsyria",
+    "name": "Mix FM Syria",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/127401.v4.png",
+    "stream_url": "https://stream.mixfmsyria.net/;stream.mp3",
+    "website": "https://mixfmsyria.net/",
+    "provider": "onlineradiobox",
+    "country": "Syria",
+    "genres": [
+      "dance",
+      "pop",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:49:16+05:30"
+  },
+  {
+    "id": "onlineradiobox_sy.ninar",
+    "name": "Ninar FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/74160.v2.png",
+    "stream_url": "http://ninarfm.grtvstream.com:8896/;",
+    "website": "http://ninarfm.com/",
+    "provider": "onlineradiobox",
+    "country": "Syria",
+    "genres": [
+      "pop",
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:49:13+05:30"
+  },
+  {
+    "id": "onlineradiobox_sy.one",
+    "name": "Radio One FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/77704.v5.png",
+    "stream_url": "https://stream.zenolive.com/kxbs5p6e8ueuv",
+    "website": "https://radio-onefm.com/",
+    "provider": "onlineradiobox",
+    "country": "Syria",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:49:19+05:30"
+  },
+  {
+    "id": "onlineradiobox_sy.radiomjd",
+    "name": "الشيخ عبد الله سراج الدين",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/152177.v1.png",
+    "stream_url": "https://stream.zeno.fm/sq7ntk6zlaquv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Syria",
+    "genres": [
+      "folk",
+      "arabic",
+      "culture",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:49:23+05:30"
+  },
+  {
+    "id": "onlineradiobox_sy.rayanfm",
+    "name": "Rayan FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/44332.v19.png",
+    "stream_url": "https://broadcast.shoutstream.co.uk:8078/stream",
+    "website": "https://rayanfm.net/",
+    "provider": "onlineradiobox",
+    "country": "Syria",
+    "genres": [
+      "news",
+      "folk",
+      "arabic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:49:14+05:30"
+  },
+  {
+    "id": "onlineradiobox_sy.sawtalshababfm",
+    "name": "Sawt Alshabab FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/44333.v1.png",
+    "stream_url": "http://radioliveb.rtv.gov.sy:8002/RadioShabab",
+    "website": "http://www.ortas.online/index.php",
+    "provider": "onlineradiobox",
+    "country": "Syria",
+    "genres": [
+      "dance",
+      "pop",
+      "news",
+      "folk",
+      "turkish"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:49:14+05:30"
+  },
+  {
+    "id": "onlineradiobox_sy.sham",
+    "name": "Radio Sham FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/91984.v3.png",
+    "stream_url": "http://radioshamfm.grtvstream.com:8400/;",
+    "website": "http://sham.fm/",
+    "provider": "onlineradiobox",
+    "country": "Syria",
+    "genres": [
+      "arabic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:49:13+05:30"
+  },
+  {
+    "id": "onlineradiobox_sy.version",
+    "name": "Version FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/113317.v3.png",
+    "stream_url": "https://versionfm.com:8100/stream",
+    "website": "https://versionfm.com/",
+    "provider": "onlineradiobox",
+    "country": "Syria",
+    "genres": [
+      "rock",
+      "pop",
+      "classic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:49:16+05:30"
+  }
+]

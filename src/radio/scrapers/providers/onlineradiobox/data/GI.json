@@ -1,0 +1,77 @@
+[
+  {
+    "id": "onlineradiobox_gi.antennawebgibraltar",
+    "name": "Antenna Web Gibraltar",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/138151.v1.png",
+    "stream_url": "https://tinyurl.com/AntennaWebGibraltar",
+    "website": "https://antennaweb.it/antennaweb-gibraltar/",
+    "provider": "onlineradiobox",
+    "country": "Gibraltar",
+    "genres": [
+      "rock",
+      "pop",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:17:47+05:30"
+  },
+  {
+    "id": "onlineradiobox_gi.bfbs",
+    "name": "BFBS Gibraltar",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/49439.v8.png",
+    "stream_url": "https://edge-audio-03-gos2.sharp-stream.com/ssvcbfbs7.mp3",
+    "website": "https://radio.bfbs.com/stations/bfbs-gibraltar",
+    "provider": "onlineradiobox",
+    "country": "Gibraltar",
+    "genres": [
+      "dance",
+      "electronic",
+      "rock"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:17:47+05:30"
+  },
+  {
+    "id": "onlineradiobox_gi.gibraltar",
+    "name": "Radio Gibraltar",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/49444.v8.png",
+    "stream_url": "https://sh.uk.audio-stream.com/proxy/gibralta?mp=/stream",
+    "website": "http://www.gbc.gi/",
+    "provider": "onlineradiobox",
+    "country": "Gibraltar",
+    "genres": [
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:17:46+05:30"
+  },
+  {
+    "id": "onlineradiobox_gi.gogo",
+    "name": "Go Go Radio Gibraltar",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/49451.v13.png",
+    "stream_url": "https://phoebe.streamerr.co:1885/stream",
+    "website": "https://gogoradiogibraltar.com/",
+    "provider": "onlineradiobox",
+    "country": "Gibraltar",
+    "genres": [
+      "pop",
+      "80s",
+      "70s",
+      "60s"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:17:46+05:30"
+  }
+]

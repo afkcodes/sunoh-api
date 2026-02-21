@@ -1,0 +1,1225 @@
+[
+  {
+    "id": "onlineradiobox_cy.activecyprus",
+    "name": "Active 107.4",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/97501.v10.png",
+    "stream_url": "https://securestreams3.autopo.st:1417/active",
+    "website": "https://activeradio.com.cy/",
+    "provider": "onlineradiobox",
+    "country": "Cyprus",
+    "genres": [
+      "news",
+      "talk",
+      "greek",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:18:10+05:30"
+  },
+  {
+    "id": "onlineradiobox_cy.alexweb",
+    "name": "AlexWebRadio",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/125906.v1.png",
+    "stream_url": "https://listen.radioking.com/radio/372691/stream/422836",
+    "website": "https://alexander.ac.cy/",
+    "provider": "onlineradiobox",
+    "country": "Cyprus",
+    "genres": [
+      "pop",
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:19:02+05:30"
+  },
+  {
+    "id": "onlineradiobox_cy.ant1",
+    "name": "Ant1 Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/18491.v8.png",
+    "stream_url": "https://r1.cloudskep.com/radio2/ant1fm/icecast.audio",
+    "website": "https://www.ant1.com.cy/",
+    "provider": "onlineradiobox",
+    "country": "Cyprus",
+    "genres": [
+      "news",
+      "culture"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:17:05+05:30"
+  },
+  {
+    "id": "onlineradiobox_cy.art",
+    "name": "artFM Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/18518.v2.png",
+    "stream_url": "https://cast.artfmradio.com/radio/8000/radio.mp3?1579455658",
+    "website": "http://www.artfmradio.com/",
+    "provider": "onlineradiobox",
+    "country": "Cyprus",
+    "genres": [
+      "folk",
+      "greek",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:17:16+05:30"
+  },
+  {
+    "id": "onlineradiobox_cy.astra",
+    "name": "Astra FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/18482.v4.png",
+    "stream_url": "https://securestreams2.autopo.st:1106/stream",
+    "website": "http://www.astra.com.cy/",
+    "provider": "onlineradiobox",
+    "country": "Cyprus",
+    "genres": [
+      "pop",
+      "news",
+      "culture"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:17:10+05:30"
+  },
+  {
+    "id": "onlineradiobox_cy.awlarnaca",
+    "name": "AW Radio Larnaca",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/150198.v1.png",
+    "stream_url": "https://cyprus.radioantennaweb.com/Larnaca",
+    "website": "https://antennaweb.it/aw-radio-larnaca/",
+    "provider": "onlineradiobox",
+    "country": "Cyprus",
+    "genres": [
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:18:16+05:30"
+  },
+  {
+    "id": "onlineradiobox_cy.barkingcats",
+    "name": "Barking Cats",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/148858.v1.png",
+    "stream_url": "https://stream.radiojar.com/metdnagugs8uv",
+    "website": "https://barkingcats.live/",
+    "provider": "onlineradiobox",
+    "country": "Cyprus",
+    "genres": [
+      "electronic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:19:01+05:30"
+  },
+  {
+    "id": "onlineradiobox_cy.bayrakradyosu",
+    "name": "Bayrak Radyosu",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/18503.v4.png",
+    "stream_url": "http://sc.brtk.net:8002/;*.mp3",
+    "website": "https://brtk.net/yayin-akislari/radyo-yayin-akisi/",
+    "provider": "onlineradiobox",
+    "country": "Cyprus",
+    "genres": [
+      "news",
+      "politics"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:17:08+05:30"
+  },
+  {
+    "id": "onlineradiobox_cy.bfbscyprus",
+    "name": "BFBS Cyprus",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/18669.v15.png",
+    "stream_url": "https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs8.aac",
+    "website": "https://radio.bfbs.com/stations/bfbs-cyprus",
+    "provider": "onlineradiobox",
+    "country": "Cyprus",
+    "genres": [
+      "pop",
+      "news",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:17:15+05:30"
+  },
+  {
+    "id": "onlineradiobox_cy.butterfly",
+    "name": "Butterfly Radio Cyprus",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/82639.v4.png",
+    "stream_url": "https://stream.zeno.fm/5a5phs9qkkhvv",
+    "website": "https://zeno.fm/radio/butterfly-radio8c2vhs9qkkhvv/",
+    "provider": "onlineradiobox",
+    "country": "Cyprus",
+    "genres": [
+      "dance",
+      "electronic",
+      "house",
+      "r'n'b",
+      "pop",
+      "hip-hop",
+      "latin"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:18:13+05:30"
+  },
+  {
+    "id": "onlineradiobox_cy.butterfy",
+    "name": "Butterfy Radio Greek",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/116350.v3.png",
+    "stream_url": "https://stream.zeno.fm/qq324f8k3uhvv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Cyprus",
+    "genres": [
+      "greek",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:18:16+05:30"
+  },
+  {
+    "id": "onlineradiobox_cy.capital",
+    "name": "Capital Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/18524.v3.png",
+    "stream_url": "https://radyo1.radyo-dinle.tc/8256/stream",
+    "website": "http://www.capitalcyprus.com/",
+    "provider": "onlineradiobox",
+    "country": "Cyprus",
+    "genres": [
+      "pop",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:17:17+05:30"
+  },
+  {
+    "id": "onlineradiobox_cy.ccncyprus",
+    "name": "CCN Cyprus Chinese Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/106587.v1.png",
+    "stream_url": "https://cdn.istoikona.com/ccnradio/ccnradio/icecast.audio",
+    "website": "https://ccnnetwork.cn/ccn-radio-cn/",
+    "provider": "onlineradiobox",
+    "country": "Cyprus",
+    "genres": [
+      "news",
+      "talk",
+      "folk",
+      "chinese"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:18:07+05:30"
+  },
+  {
+    "id": "onlineradiobox_cy.choice1043",
+    "name": "Choice FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/18488.v3.png",
+    "stream_url": "https://live3.istoikona.net:18364/stream",
+    "website": "http://www.choicefm.com.cy/",
+    "provider": "onlineradiobox",
+    "country": "Cyprus",
+    "genres": [
+      "pop",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:17:16+05:30"
+  },
+  {
+    "id": "onlineradiobox_cy.cybcradio1",
+    "name": "ΠΡΩΤΟ LIVE",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/62801.v7.png",
+    "stream_url": "https://r1.cloudskep.com/cybcr/cybc1/playlist.m3u8",
+    "website": "http://cybc.com.cy/live-radio/%CF%80%CF%81%CF%89%CF%84%CE%BF/",
+    "provider": "onlineradiobox",
+    "country": "Cyprus",
+    "genres": [
+      "pop",
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:17:14+05:30"
+  },
+  {
+    "id": "onlineradiobox_cy.cyprusfunk",
+    "name": "CyprusFunkStation",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/18540.v3.png",
+    "stream_url": "http://philae.shoutca.st:8201/stream",
+    "website": "https://cyprusfunkstation.com/",
+    "provider": "onlineradiobox",
+    "country": "Cyprus",
+    "genres": [
+      "soul",
+      "90s",
+      "80s",
+      "funk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:17:18+05:30"
+  },
+  {
+    "id": "onlineradiobox_cy.dance",
+    "name": "Dance FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/18492.v16.png",
+    "stream_url": "https://live.enerjiplay.com/stream/dancefm",
+    "website": "http://www.nrgplay.com/",
+    "provider": "onlineradiobox",
+    "country": "Cyprus",
+    "genres": [
+      "dance",
+      "pop",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:17:07+05:30"
+  },
+  {
+    "id": "onlineradiobox_cy.discofoxpur",
+    "name": "Discofox pur",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/152156.v1.png",
+    "stream_url": "https://listen.radioking.com/radio/774494/stream/841850",
+    "website": "https://discofox-pur.page.radio/",
+    "provider": "onlineradiobox",
+    "country": "Cyprus",
+    "genres": [
+      "disco",
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:19:04+05:30"
+  },
+  {
+    "id": "onlineradiobox_cy.dubophonic",
+    "name": "Dubophonic Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/112129.v1.png",
+    "stream_url": "https://radio.regg.ae/radio/8000/radio.mp3",
+    "website": "http://www.dubophonic.com/",
+    "provider": "onlineradiobox",
+    "country": "Cyprus",
+    "genres": [
+      "electronic",
+      "reggae"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:18:12+05:30"
+  },
+  {
+    "id": "onlineradiobox_cy.elios",
+    "name": "Radio Πολίτης",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/18520.v4.png",
+    "stream_url": "https://cdn.istoikona.com/politis/live/icecast.audio",
+    "website": "http://politis.com.cy/radio",
+    "provider": "onlineradiobox",
+    "country": "Cyprus",
+    "genres": [
+      "greek",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:17:18+05:30"
+  },
+  {
+    "id": "onlineradiobox_cy.enerji",
+    "name": "NRG Türk",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/18484.v8.png",
+    "stream_url": "https://live.nrgplay.com/stream/2/;",
+    "website": "http://www.radyoenerji.com/",
+    "provider": "onlineradiobox",
+    "country": "Cyprus",
+    "genres": [
+      "pop",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:17:07+05:30"
+  },
+  {
+    "id": "onlineradiobox_cy.extacy",
+    "name": "Extacy Radio Κύπρου",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/76488.v23.png",
+    "stream_url": "https://stream.extacyradio.gr:8060/extacyradiocy",
+    "website": "https://www.extacyradio.com.cy/",
+    "provider": "onlineradiobox",
+    "country": "Cyprus",
+    "genres": [
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:18:58+05:30"
+  },
+  {
+    "id": "onlineradiobox_cy.fantasticgreek",
+    "name": "Fantastic Greek Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/98230.v4.png",
+    "stream_url": "https://webinternetradio.eu:48120/",
+    "website": "http://fantasticradio.eu/",
+    "provider": "onlineradiobox",
+    "country": "Cyprus",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:18:57+05:30"
+  },
+  {
+    "id": "onlineradiobox_cy.feelgood.",
+    "name": "Feelgood.FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/143906.v3.png",
+    "stream_url": "https://radio.feelgood.fm/mp3",
+    "website": "https://feelgood.fm/",
+    "provider": "onlineradiobox",
+    "country": "Cyprus",
+    "genres": [
+      "dance",
+      "rock",
+      "pop",
+      "classic rock",
+      "country",
+      "alternative"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:18:17+05:30"
+  },
+  {
+    "id": "onlineradiobox_cy.greeklaikanonstop",
+    "name": "Greek Laika Nonstop Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/152648.v4.png",
+    "stream_url": "https://a13.asurahosting.com/listen/greek_laika_nonstop_radio/radio.mp3",
+    "website": "http://philippos.on-air.fm/free/",
+    "provider": "onlineradiobox",
+    "country": "Cyprus",
+    "genres": [
+      "greek",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:19:00+05:30"
+  },
+  {
+    "id": "onlineradiobox_cy.guaba",
+    "name": "Guaba Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/95018.v3.png",
+    "stream_url": "https://eco.onestreaming.com/proxy/guaba/stream",
+    "website": "https://guababeachbar.com/radio/",
+    "provider": "onlineradiobox",
+    "country": "Cyprus",
+    "genres": [
+      "electronic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:18:14+05:30"
+  },
+  {
+    "id": "onlineradiobox_cy.guven",
+    "name": "Radyo Güven",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/80928.v9.png",
+    "stream_url": "https://us2freenew.listen2myradio.com/live.mp3?typeportmount=s1_33673_stream_636786608;",
+    "website": "http://www.radyoguven.com/",
+    "provider": "onlineradiobox",
+    "country": "Cyprus",
+    "genres": [
+      "dance",
+      "rock",
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:18:12+05:30"
+  },
+  {
+    "id": "onlineradiobox_cy.habibi",
+    "name": "Habibi FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/127561.v1.png",
+    "stream_url": "https://stream.zeno.fm/3mpx1mjmusctv",
+    "website": "http://habibifm.net/",
+    "provider": "onlineradiobox",
+    "country": "Cyprus",
+    "genres": [
+      "dance",
+      "pop",
+      "top40",
+      "arabic",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:18:11+05:30"
+  },
+  {
+    "id": "onlineradiobox_cy.habits",
+    "name": "Habits Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/146042.v6.png",
+    "stream_url": "https://live.vblcast.com/proxy/habitsradio/stream",
+    "website": "https://habitsradio.com/",
+    "provider": "onlineradiobox",
+    "country": "Cyprus",
+    "genres": [
+      "pop",
+      "top40",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:17:18+05:30"
+  },
+  {
+    "id": "onlineradiobox_cy.juke",
+    "name": "Radyo Juke",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/86740.v2.png",
+    "stream_url": "http://yayin.netradyom.com:9990/;",
+    "website": "http://www.radyojuke.com/",
+    "provider": "onlineradiobox",
+    "country": "Cyprus",
+    "genres": [
+      "pop",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:18:17+05:30"
+  },
+  {
+    "id": "onlineradiobox_cy.kanali6",
+    "name": "Kanali 6",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/18477.v5.png",
+    "stream_url": "http://live3.istoikona.net:8372/stream/2/Title1=Kanali",
+    "website": "https://kanali6.com.cy/",
+    "provider": "onlineradiobox",
+    "country": "Cyprus",
+    "genres": [
+      "pop",
+      "folk",
+      "classic",
+      "greek"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:17:10+05:30"
+  },
+  {
+    "id": "onlineradiobox_cy.kanali7",
+    "name": "Kanali 7",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/18671.v5.png",
+    "stream_url": "http://live.kanali7.com:4012/;stream.mp3",
+    "website": "http://www.kanali7.com/",
+    "provider": "onlineradiobox",
+    "country": "Cyprus",
+    "genres": [
+      "news"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:18:15+05:30"
+  },
+  {
+    "id": "onlineradiobox_cy.kbrssim",
+    "name": "Kıbrıs Sim Radyo",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/80377.v4.png",
+    "stream_url": "http://88.255.211.12:8000/;stream.mp3",
+    "website": "http://www.simradyo.com/",
+    "provider": "onlineradiobox",
+    "country": "Cyprus",
+    "genres": [
+      "pop",
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:19:05+05:30"
+  },
+  {
+    "id": "onlineradiobox_cy.kibris",
+    "name": "Kibris FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/18514.v6.png",
+    "stream_url": "https://play.kibrisfm.com/stream2/hls/stream.m3u8",
+    "website": "http://www.kibrisfm.com/",
+    "provider": "onlineradiobox",
+    "country": "Cyprus",
+    "genres": [
+      "news",
+      "education"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:18:15+05:30"
+  },
+  {
+    "id": "onlineradiobox_cy.kiss",
+    "name": "KISS",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/18486.v6.png",
+    "stream_url": "https://securestreams3.autopo.st:1417/89FM",
+    "website": "https://kissfm.com.cy/",
+    "provider": "onlineradiobox",
+    "country": "Cyprus",
+    "genres": [
+      "dance",
+      "r'n'b",
+      "top40",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:17:14+05:30"
+  },
+  {
+    "id": "onlineradiobox_cy.klik",
+    "name": "Klik FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/18493.v3.png",
+    "stream_url": "http://eco.onestreaming.com:8310/;",
+    "website": "http://www.klikfm.com.cy/",
+    "provider": "onlineradiobox",
+    "country": "Cyprus",
+    "genres": [
+      "pop",
+      "top40",
+      "greek"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:17:13+05:30"
+  },
+  {
+    "id": "onlineradiobox_cy.logos",
+    "name": "Radio Δίεση 101.1 FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/18502.v6.png",
+    "stream_url": "https://r1.cloudskep.com/radio/diesi/icecast.audio",
+    "website": "https://diesicyprus.com.cy/",
+    "provider": "onlineradiobox",
+    "country": "Cyprus",
+    "genres": [
+      "pop",
+      "news",
+      "folk",
+      "ethnic",
+      "greek"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:17:09+05:30"
+  },
+  {
+    "id": "onlineradiobox_cy.luga",
+    "name": "Lugaradio",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/150475.v2.png",
+    "stream_url": "http://91.200.41.23:8000/192.mp3",
+    "website": "http://lradio.in/",
+    "provider": "onlineradiobox",
+    "country": "Cyprus",
+    "genres": [
+      "trance",
+      "house"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:18:59+05:30"
+  },
+  {
+    "id": "onlineradiobox_cy.melody",
+    "name": "Melody Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/18519.v3.png",
+    "stream_url": "https://melodyradio1031.com/?page_id=382",
+    "website": "http://melodyradio1031.com/",
+    "provider": "onlineradiobox",
+    "country": "Cyprus",
+    "genres": [
+      "classic",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:18:13+05:30"
+  },
+  {
+    "id": "onlineradiobox_cy.mf",
+    "name": "MF Radio.de",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/133096.v4.png",
+    "stream_url": "https://stream.mfradio.de/listen/mf_radio_germany/radio.mp3",
+    "website": "https://mfradio.de/",
+    "provider": "onlineradiobox",
+    "country": "Cyprus",
+    "genres": [
+      "rock",
+      "pop",
+      "oldies",
+      "reggae"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:19:04+05:30"
+  },
+  {
+    "id": "onlineradiobox_cy.mix",
+    "name": "Mix FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/18485.v6.png",
+    "stream_url": "https://link.radiojar.com/c27wx6pdh8vtv",
+    "website": "https://www.mixfmradio.com/",
+    "provider": "onlineradiobox",
+    "country": "Cyprus",
+    "genres": [
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:17:06+05:30"
+  },
+  {
+    "id": "onlineradiobox_cy.navagiona",
+    "name": "Ράδιο Ναυάγιο",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/104975.v2.png",
+    "stream_url": "https://cast.loiz.org/radio/8000/stream.mp3",
+    "website": "https://www.radio-navagio.com/",
+    "provider": "onlineradiobox",
+    "country": "Cyprus",
+    "genres": [
+      "rock",
+      "pop",
+      "news",
+      "greek"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:18:09+05:30"
+  },
+  {
+    "id": "onlineradiobox_cy.njoy995",
+    "name": "Njoy 99.5",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/87041.v7.png",
+    "stream_url": "https://stream.radiojar.com/mg7kftnzka3vv",
+    "website": "http://www.njoyradio.com.cy/",
+    "provider": "onlineradiobox",
+    "country": "Cyprus",
+    "genres": [
+      "pop",
+      "jazz",
+      "swing",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:17:13+05:30"
+  },
+  {
+    "id": "onlineradiobox_cy.nrgturkcerap",
+    "name": "NRG Türkçe Rap",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/76893.v5.png",
+    "stream_url": "https://live.nrgplay.com/stream/turkcerap",
+    "website": "http://www.nrgplay.com/",
+    "provider": "onlineradiobox",
+    "country": "Cyprus",
+    "genres": [
+      "rap",
+      "hip-hop",
+      "turkish"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:18:10+05:30"
+  },
+  {
+    "id": "onlineradiobox_cy.oldgreek",
+    "name": "Old Greek FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/153656.v1.png",
+    "stream_url": "https://oldgreekfm.live/radio.mp3",
+    "website": "https://oldgreekfm.live/",
+    "provider": "onlineradiobox",
+    "country": "Cyprus",
+    "genres": [
+      "classic",
+      "oldies",
+      "greek"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:19:01+05:30"
+  },
+  {
+    "id": "onlineradiobox_cy.oldtown",
+    "name": "Old Town Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/122820.v7.png",
+    "stream_url": "https://stream.radiojar.com/3emwf2xgam8uv",
+    "website": "https://oldtownradio.net/",
+    "provider": "onlineradiobox",
+    "country": "Cyprus",
+    "genres": [
+      "rock",
+      "alternative",
+      "greek"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:18:14+05:30"
+  },
+  {
+    "id": "onlineradiobox_cy.pafos",
+    "name": "Radio Pafos",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/18522.v3.png",
+    "stream_url": "https://stream.radiojar.com/qyhsg46zcccwv",
+    "website": "http://www.radiopafos.com/",
+    "provider": "onlineradiobox",
+    "country": "Cyprus",
+    "genres": [
+      "greek"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:18:08+05:30"
+  },
+  {
+    "id": "onlineradiobox_cy.papa",
+    "name": "PãpaRadio",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/152761.v8.png",
+    "stream_url": "https://stream.radiojar.com/y3tgenqvtrcwv",
+    "website": "https://paparadio.live/",
+    "provider": "onlineradiobox",
+    "country": "Cyprus",
+    "genres": [
+      "eclectic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:18:59+05:30"
+  },
+  {
+    "id": "onlineradiobox_cy.proto",
+    "name": "Radio Proto",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/18478.v10.png",
+    "stream_url": "https://live3.istoikona.net:18191/stream",
+    "website": "http://www.radioproto.com/",
+    "provider": "onlineradiobox",
+    "country": "Cyprus",
+    "genres": [
+      "news",
+      "greek",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:17:11+05:30"
+  },
+  {
+    "id": "onlineradiobox_cy.rockcypruslimassol",
+    "name": "RockFM 89.2",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/18499.v6.png",
+    "stream_url": "https://cdn.istoikona.com/RockFm/limassol/icecast.audio",
+    "website": "https://www.rockfm892.com/",
+    "provider": "onlineradiobox",
+    "country": "Cyprus",
+    "genres": [
+      "greek",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:17:12+05:30"
+  },
+  {
+    "id": "onlineradiobox_cy.rocklineworld",
+    "name": "Radio RockLineWorld",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/144882.v3.png",
+    "stream_url": "https://listen.radioking.com/radio/80332/stream/118495",
+    "website": "https://welove.radio/radio/rocklineworld/",
+    "provider": "onlineradiobox",
+    "country": "Cyprus",
+    "genres": [
+      "rock",
+      "blues",
+      "90s",
+      "80s",
+      "70s",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:19:03+05:30"
+  },
+  {
+    "id": "onlineradiobox_cy.sama",
+    "name": "RadioSama",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/18532.v5.png",
+    "stream_url": "https://radio.radiosama.org/sama_64",
+    "website": "https://www.radiosama.net/",
+    "provider": "onlineradiobox",
+    "country": "Cyprus",
+    "genres": [
+      "arabic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:18:17+05:30"
+  },
+  {
+    "id": "onlineradiobox_cy.sfera1022",
+    "name": "Radio Sfera",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/18481.v1.png",
+    "stream_url": "https://netradio.live24.gr/sfera4132",
+    "website": "http://www.sfera.gr/",
+    "provider": "onlineradiobox",
+    "country": "Cyprus",
+    "genres": [
+      "news",
+      "folk",
+      "greek",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:17:09+05:30"
+  },
+  {
+    "id": "onlineradiobox_cy.sfera968",
+    "name": "Sfera 96.8 FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/138677.v1.png",
+    "stream_url": "https://securestreams3.autopo.st:1417/sfera",
+    "website": "https://sfera.com.cy/",
+    "provider": "onlineradiobox",
+    "country": "Cyprus",
+    "genres": [
+      "pop",
+      "greek",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:17:17+05:30"
+  },
+  {
+    "id": "onlineradiobox_cy.sky",
+    "name": "Sky Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/149361.v12.png",
+    "stream_url": "https://stream.zeno.fm/dgtilimucdltv",
+    "website": "https://skyradio.live/",
+    "provider": "onlineradiobox",
+    "country": "Cyprus",
+    "genres": [
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:19:05+05:30"
+  },
+  {
+    "id": "onlineradiobox_cy.star",
+    "name": "Star FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/18501.v6.png",
+    "stream_url": "http://s6.myradiostream.com:11056/;",
+    "website": "http://www.starfm937.com/",
+    "provider": "onlineradiobox",
+    "country": "Cyprus",
+    "genres": [
+      "news",
+      "folk",
+      "greek",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:18:16+05:30"
+  },
+  {
+    "id": "onlineradiobox_cy.studio64",
+    "name": "Studio64 Ραδιόφωνο",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/78231.v28.png",
+    "stream_url": "https://c16.radioboss.fm:8459/stream",
+    "website": "https://www.selidacy.com/",
+    "provider": "onlineradiobox",
+    "country": "Cyprus",
+    "genres": [
+      "rock",
+      "greek",
+      "balada"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:18:09+05:30"
+  },
+  {
+    "id": "onlineradiobox_cy.superclub",
+    "name": "Super Club Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/108326.v3.png",
+    "stream_url": "https://mpc2.mediacp.eu:8320/stream",
+    "website": "https://www.superclub-radio.com/",
+    "provider": "onlineradiobox",
+    "country": "Cyprus",
+    "genres": [
+      "dance",
+      "electronic",
+      "pop",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:18:57+05:30"
+  },
+  {
+    "id": "onlineradiobox_cy.superrad",
+    "name": "Super Rad 104.8",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/18483.v5.png",
+    "stream_url": "http://live3.istoikona.net:8175/stream",
+    "website": "http://www.superfmradio.com/",
+    "provider": "onlineradiobox",
+    "country": "Cyprus",
+    "genres": [
+      "pop",
+      "top40",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:18:06+05:30"
+  },
+  {
+    "id": "onlineradiobox_cy.supersport",
+    "name": "Super Sport FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/18487.v4.png",
+    "stream_url": "https://r1.cloudskep.com/radio3/supersportfm/icecast.audio",
+    "website": "http://sport-fm.com.cy/",
+    "provider": "onlineradiobox",
+    "country": "Cyprus",
+    "genres": [
+      "news",
+      "talk",
+      "sports"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:17:11+05:30"
+  },
+  {
+    "id": "onlineradiobox_cy.tbb",
+    "name": "Radio TBB",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/49065.v6.png",
+    "stream_url": "https://stream.pcradio.ru/radio_tbb-med",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Cyprus",
+    "genres": [
+      "electronic",
+      "trance",
+      "house",
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:18:13+05:30"
+  },
+  {
+    "id": "onlineradiobox_cy.vivafmpaphos",
+    "name": "Viva FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/150433.v1.png",
+    "stream_url": "https://stream3.themediasite.co.uk:8332/stream",
+    "website": "https://www.vivafmcyprus.com/",
+    "provider": "onlineradiobox",
+    "country": "Cyprus",
+    "genres": [
+      "pop",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:18:17+05:30"
+  },
+  {
+    "id": "onlineradiobox_cy.workfromhome",
+    "name": "Work From Home radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/96125.v5.png",
+    "stream_url": "http://cristim84.radi0.im:8000/;",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Cyprus",
+    "genres": [
+      "house",
+      "pop",
+      "chill-out"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:18:08+05:30"
+  },
+  {
+    "id": "onlineradiobox_cy.yd",
+    "name": "Ydü FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/18537.v2.png",
+    "stream_url": "https://live.enerjiplay.com/stream/campusydu",
+    "website": "http://www.neu.edu.tr/",
+    "provider": "onlineradiobox",
+    "country": "Cyprus",
+    "genres": [
+      "rock",
+      "education"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:18:58+05:30"
+  },
+  {
+    "id": "onlineradiobox_cy.zenith",
+    "name": "Zenith Fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/18508.v3.png",
+    "stream_url": "https://live3.istoikona.net:9836/stream",
+    "website": "http://www.zenithfm.com.cy/",
+    "provider": "onlineradiobox",
+    "country": "Cyprus",
+    "genres": [
+      "christian",
+      "greek",
+      "salsa",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:17:06+05:30"
+  }
+]

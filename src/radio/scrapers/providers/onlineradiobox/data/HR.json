@@ -1,0 +1,4091 @@
+[
+  {
+    "id": "onlineradiobox_hr.105selnica",
+    "name": "Radio 105 Selnica",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/23783.v9.png",
+    "stream_url": "https://azuracast.novi-net.net/radio/8050/radio105.aac",
+    "website": "http://www.radio105.hr/",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "pop",
+      "news",
+      "folk",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:59:18+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.4you",
+    "name": "Radio 4 YoU",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/47219.v4.png",
+    "stream_url": "http://84.16.232.202:7154/stream?",
+    "website": "http://www.radio4you.cc/",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "pop",
+      "folk",
+      "oldies"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:01:23+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.92fm",
+    "name": "Radio 92 FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/47297.v2.png",
+    "stream_url": "http://stream.radio92.eu:8000/",
+    "website": "http://radio92.eu/",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "pop",
+      "news",
+      "talk",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:05:28+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.antenazadar",
+    "name": "Radio Antena Zadar",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/152215.v1.png",
+    "stream_url": "https://a3.my-control-panel.com/public/antena_zadar",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "pop",
+      "news",
+      "talk",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:06:15+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.antenazagreb",
+    "name": "Antena Zagreb",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/23634.v23.png",
+    "stream_url": "https://audio.social3.hr/listen/antena_aac/stream",
+    "website": "https://www.antenazagreb.hr/",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "pop",
+      "news",
+      "talk",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:58:21+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.aurora",
+    "name": "Aurora Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/153168.v1.png",
+    "stream_url": "https://listen.radioking.com/radio/784551/stream/852226",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "folk",
+      "80s",
+      "70s",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:06:18+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.awalbona",
+    "name": "AW Albona",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/152599.v1.png",
+    "stream_url": "https://croazia.radioantennaweb.com/Albona",
+    "website": "https://antennaweb.it/aw-albona/",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "rock",
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:05:40+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.balkan",
+    "name": "Balkan Radio Sanja Ivanovic",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/153949.v1.png",
+    "stream_url": "http://65.108.124.70:7846/stream",
+    "website": "https://www.balkan-radio-sanja-ivanovic.com/",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "pop",
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:06:17+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.balkanbeatz",
+    "name": "Balkanbeatz",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/146523.v3.png",
+    "stream_url": "https://listen.radioking.com/radio/719480/stream/785282",
+    "website": "https://www.balkanbeatz.de/",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "rock",
+      "pop",
+      "classic rock",
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:05:39+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.balkanmusic",
+    "name": "Radio Balkan Music (HRV)",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/128219.v2.png",
+    "stream_url": "https://www.radiobalkanmusic.com/rbm/radioHR.php",
+    "website": "https://radiobalkanmusic.net/radio/",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "rock",
+      "pop",
+      "folk",
+      "hip-hop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:03:25+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.baranja",
+    "name": "Radio Baranja",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/47440.v4.png",
+    "stream_url": "http://s8.iqstreaming.com:8036/stream",
+    "website": "https://www.radio-baranja.hr/",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "rock",
+      "pop",
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:01:13+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.belisce",
+    "name": "Radio Belišće",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/47439.v4.png",
+    "stream_url": "https://mcp1.mydataknox.com:8006/stream",
+    "website": "http://www.radio-belisce.net/",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "pop",
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:03:16+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.benkovac",
+    "name": "Radio Benkovac",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/67114.v8.png",
+    "stream_url": "http://108.181.31.5:8040/;",
+    "website": "http://www.radiobenkovac.com/",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "news",
+      "talk",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:03:26+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.bijeloplavi",
+    "name": "Bijelo Plavi Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/135922.v3.png",
+    "stream_url": "http://s8.iqstreaming.com:8028/stream;",
+    "website": "http://www.bijeloplaviradio.hr/",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "dance",
+      "rock",
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:06:19+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.blato",
+    "name": "Radio Blato",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/116187.v5.png",
+    "stream_url": "https://solid33.streamupsolutions.com/proxy/nerwylyy/stream",
+    "website": "https://radio-blato.hr/",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "dance",
+      "rock",
+      "pop",
+      "news",
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:05:41+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.bnm",
+    "name": "Radio BNM",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/84177.v11.png",
+    "stream_url": "https://c2.hostingcentar.com/streams/bnmradio/",
+    "website": "https://radio-bnm.hr/",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "rock",
+      "pop",
+      "news",
+      "talk",
+      "oldies"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:03:19+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.bpmhit",
+    "name": "BPM Hit Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/154671.v2.png",
+    "stream_url": "http://5.9.71.122:8418/stream",
+    "website": "https://www.bpmtravel.eu/bpm-music-channel",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:04:31+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.brac",
+    "name": "Radio Brač",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/69170.v4.png",
+    "stream_url": "http://s8.iqstreaming.com:8066/stream",
+    "website": "http://www.radio-brac.hr/streaming.html",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "rock",
+      "pop",
+      "jazz",
+      "soul"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:59:16+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.btb",
+    "name": "BTB Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/124684.v1.png",
+    "stream_url": "https://stream.zeno.fm/u3zka7gtyhhvv",
+    "website": "https://zeno.fm/radio/btb-radioo/",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "pop",
+      "folk",
+      "ethnic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:05:35+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.cakovec",
+    "name": "Radio Cakovec",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/24540.v5.png",
+    "stream_url": "http://live.radio-cakovec.hr:7020/stream",
+    "website": "http://www.radio-cakovec.hr/",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "pop",
+      "news",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:02:19+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.centarstudiopore",
+    "name": "Radio Centar-studio Poreč",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/23862.v5.png",
+    "stream_url": "https://www.radiocentar.hr:8282/stream.aac",
+    "website": "http://radiocentar.hr/",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "pop",
+      "folk",
+      "oldies"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:02:26+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.city",
+    "name": "City Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/67193.v6.png",
+    "stream_url": "http://s8.iqstreaming.com:8058/;",
+    "website": "http://www.city-radio.hr/",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "rock",
+      "pop",
+      "news",
+      "talk",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:02:12+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.clubmusicradio",
+    "name": "Club Music Radio - Folk",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/24222.v3.png",
+    "stream_url": "http://cmr-hosting.com:8010/;",
+    "website": "http://clubmusic-1.com/",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:59:10+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.cmc",
+    "name": "CMC Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/133340.v1.png",
+    "stream_url": "https://radio-stream.cmc.com.hr:9011/live",
+    "website": "https://radio.cmc.com.hr/",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "dance",
+      "rock",
+      "pop",
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:00:09+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.crash",
+    "name": "Radio Crash",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/47397.v19.png",
+    "stream_url": "https://live.radiocrash.net/;",
+    "website": "http://www.radiocrash.net/",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "house",
+      "disco",
+      "pop",
+      "alternative"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:01:23+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.crkvica",
+    "name": "Radio Crkvica",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/114388.v9.png",
+    "stream_url": "https://stream.plusvps.com:8116/stream",
+    "website": "https://www.zemljani.com/radiocrkvica/",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "pop",
+      "blues",
+      "jazz",
+      "classic",
+      "soul",
+      "christian",
+      "funk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:04:26+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.crointernational",
+    "name": "Cro International DJ radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/122381.v4.png",
+    "stream_url": "https://stream.zeno.fm/t47dykadrchvv",
+    "website": "https://zeno.fm/radio/cro-international-dj-radio/",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "dance",
+      "house",
+      "techno"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:02:22+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.cvoksi",
+    "name": "Radio Cvoksi",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/122644.v1.png",
+    "stream_url": "https://stream.zeno.fm/k5a6yoyw6eltv",
+    "website": "https://zeno.fm/radio/radio-cvoksi/",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "dance",
+      "pop",
+      "techno"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:05:32+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.daruvar",
+    "name": "Radio Daruvar",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/47433.v5.png",
+    "stream_url": "https://mcp1.mydataknox.com:8016/live.mp3",
+    "website": "http://www.radio-daruvar.hr/",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "pop",
+      "news"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:02:17+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.deejay",
+    "name": "Radio Deejay",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/24073.v5.png",
+    "stream_url": "https://c2.hostingcentar.com/streams/radiodj/;",
+    "website": "http://www.deejay.hr/",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "dance",
+      "electronic",
+      "trance",
+      "house"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:58:30+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.delta",
+    "name": "Radio Delta",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/47279.v9.png",
+    "stream_url": "https://ec2s.crolive.com.hr:1815/stream",
+    "website": "http://www.radiodelta.hr/",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "pop",
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:01:16+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.djakovo",
+    "name": "Radio Đakovo",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/47441.v6.png",
+    "stream_url": "https://ec2s.crolive.com.hr:8305/stream",
+    "website": "https://www.radio-djakovo.hr/",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "rock",
+      "pop",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:01:14+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.domacikneginec",
+    "name": "Domaći radio Kneginec",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/107786.v10.png",
+    "stream_url": "https://stream.zeno.fm/ygb5x04e268uv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "dance",
+      "pop",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:59:10+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.donjimiholjac",
+    "name": "Radio Donji Miholjac",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/23874.v8.png",
+    "stream_url": "https://s8.iqstreaming.com:8032/stream",
+    "website": "http://www.rdm.hr/",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "pop",
+      "news",
+      "talk",
+      "folk",
+      "country"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:00:08+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.dramaradio",
+    "name": "Drama Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/145868.v1.png",
+    "stream_url": "https://listen.radioking.com/radio/626884/stream/689212",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:00:19+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.drava",
+    "name": "Radio Drava",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/47426.v10.png",
+    "stream_url": "https://streaming.radio-drava.hr/live",
+    "website": "http://www.radio-drava.hr/",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "pop",
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:02:21+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.enterzagreb",
+    "name": "Enter Zagreb",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/24781.v14.png",
+    "stream_url": "http://live.enterzagreb.hr:8023/;",
+    "website": "https://enterzagreb.hr/",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "pop",
+      "top40",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:58:26+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.euforija",
+    "name": "Euforija",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/135674.v15.png",
+    "stream_url": "https://ec6.yesstreaming.net:1280/stream",
+    "website": "https://euforija.online/",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "dance",
+      "rock",
+      "pop",
+      "talk",
+      "retro"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:58:28+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.eurostar",
+    "name": "Radio Eurostar",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/47389.v3.png",
+    "stream_url": "http://mcp1.mydataknox.com:8012/stream",
+    "website": "https://www.eurostarumag.hr/",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "pop",
+      "news",
+      "talk",
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:04:18+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.extra936",
+    "name": "Extra FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/70680.v22.png",
+    "stream_url": "https://relay2.social3.hr/radio/8190/radio.mp3",
+    "website": "https://extrafm.hr/",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "folk",
+      "croatian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:58:18+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.extradab",
+    "name": "Extra FM DAB+",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/127770.v2.png",
+    "stream_url": "https://relay2.social3.hr/radio/8120/radio.aac",
+    "website": "https://extrafm.hr/",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "folk",
+      "croatian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:00:06+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.fals",
+    "name": "Radio Falš",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/87871.v10.png",
+    "stream_url": "https://listen.radioking.com/radio/541295/stream/600212",
+    "website": "https://radiofals.com/",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "rock",
+      "pop",
+      "indie"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:04:28+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.folkyton",
+    "name": "FolkyTon",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/47238.v3.png",
+    "stream_url": "https://ec2s.crolive.com.hr:6035/stream",
+    "website": "http://www.folkyton.com/",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:58:29+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.fontana13",
+    "name": "Fontana 13 Kneginec",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/130147.v1.png",
+    "stream_url": "https://stream.zeno.fm/mdzqj4dcpiauv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:02:14+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.fredfilm",
+    "name": "FRED FILM RADIO",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/46850.v5.png",
+    "stream_url": "https://s10.webradio-hosting.com/proxy/fredradiohr/stream/;",
+    "website": "http://www.fred.fm/hr/",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "news",
+      "talk",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:06:15+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.galactic90srave",
+    "name": "GalacticFM - 90s Rave",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/152009.v2.png",
+    "stream_url": "https://s20.reliastream.com:8162/90sravemp3",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "electronic",
+      "trance",
+      "techno",
+      "90s"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:06:16+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.gorskikotar",
+    "name": "Radio Gorski kotar",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/24544.v6.png",
+    "stream_url": "http://144.76.39.214:9500/stream.mp3",
+    "website": "http://www.rgk.hr/",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "rock",
+      "pop",
+      "news",
+      "top40",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:01:19+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.gospic",
+    "name": "Radio Gospić",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/83232.v5.png",
+    "stream_url": "https://sonic.brzioblak.eu/8002/stream",
+    "website": "http://www.radio-gospic.com/",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "dance",
+      "pop",
+      "news",
+      "talk",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:05:30+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.gradskivirovitica",
+    "name": "Gradski Radio Virovitica",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/143342.v2.png",
+    "stream_url": "https://matrix-server.hr:8002/live.mp3",
+    "website": "https://matrix-server.eu/",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:05:34+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.happyfm",
+    "name": "Happy FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/24525.v32.png",
+    "stream_url": "https://audio.social3.hr/listen/happy_aac/stream",
+    "website": "https://happyfm.hr/",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "dance",
+      "rock",
+      "pop",
+      "folk",
+      "ethnic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:58:20+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.hero",
+    "name": "Hero Radio (Croatia)",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/146999.v1.png",
+    "stream_url": "https://a2.asurahosting.com:6790/croatia.mp3",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "news",
+      "gospel",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:05:41+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.hit",
+    "name": "HIT Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/47301.v4.png",
+    "stream_url": "http://s8.iqstreaming.com:8012/;stream.mp3",
+    "website": "http://www.hitradio.hr/",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "pop",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:03:15+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.hrdrugiprogram",
+    "name": "HRT - HR2",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/47240.v13.png",
+    "stream_url": "https://playerservices.streamtheworld.com/api/livestream-redirect/PROGRAM2.mp3?dist=onlineradiobox",
+    "website": "http://radio.hrt.hr/drugi-program/",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "pop",
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:58:24+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.hrnaslovnica",
+    "name": "HRT - HR1",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/47245.v18.png",
+    "stream_url": "https://playerservices.streamtheworld.com/api/livestream-redirect/PROGRAM1.mp3?dist=onlineradiobox",
+    "website": "http://radio.hrt.hr/",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:58:27+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.hrsljeme",
+    "name": "HRT - Radio Sljeme",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/47244.v14.png",
+    "stream_url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SLJEME.mp3?dist=onlineradiobox",
+    "website": "https://radio.hrt.hr/radio-sljeme/",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "pop",
+      "news",
+      "talk",
+      "education"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:58:22+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.hrtreciprogram",
+    "name": "HRT - HR3",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/47241.v9.png",
+    "stream_url": "https://playerservices.streamtheworld.com/api/livestream-redirect/PROGRAM3.mp3?dist=onlineradiobox",
+    "website": "http://radio.hrt.hr/treci-program/",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "jazz"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:00:18+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.hrv",
+    "name": "Hrvatski radio Valpovština",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/67198.v7.png",
+    "stream_url": "http://s8.iqstreaming.com:8068/;",
+    "website": "http://www.hrv89.hr/",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "rock",
+      "pop",
+      "talk",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:02:17+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.hrvat",
+    "name": "Radio Hrvat",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/95133.v3.png",
+    "stream_url": "http://213.239.215.181:9036/stream",
+    "website": "https://radio-hrvat.com/",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:05:22+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.hrvatski",
+    "name": "Hrvatski Radio Frankfurt",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/47448.v39.png",
+    "stream_url": "https://beethoven.streamwarp.com/listen/hrvatski_radio_frankfurt/radio.mp3",
+    "website": "https://hrvatskiradiofrankfurt.com/",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "rock",
+      "pop",
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:59:19+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.hrvatskikatolicki",
+    "name": "Hrvatski Katolicki Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/23831.v5.png",
+    "stream_url": "http://stream.hkr.hr:8000/hkr.mp3",
+    "website": "http://www.hkr.hr/",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:59:18+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.hrvukovar",
+    "name": "Hrvatski Radio Vukovar",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/47445.v3.png",
+    "stream_url": "http://live.hrv.hr:8000/hrv",
+    "website": "http://www.hrv.hr/",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "pop",
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:02:20+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.ibenik",
+    "name": "Radio Šibenik",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/23846.v9.png",
+    "stream_url": "http://144.76.219.22:8215/stream.mp3",
+    "website": "http://www.radiosibenik.hr/",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "pop",
+      "news",
+      "talk",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:00:12+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.ilok",
+    "name": "Radio Ilok",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/24291.v6.png",
+    "stream_url": "https://eu8.fastcast4u.com/proxy/radioilok/stream",
+    "website": "http://www.radio-ilok.hr/",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "pop",
+      "news",
+      "talk",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:03:18+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.impulsva",
+    "name": "Radio Impuls",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/106869.v3.png",
+    "stream_url": "https://stream.zeno.fm/mdsrxs2nbd0uv",
+    "website": "https://zeno.fm/radio-impuls/",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "dance",
+      "pop",
+      "news",
+      "folk",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:04:19+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.iskrica",
+    "name": "Radio Iskrica",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/47446.v16.png",
+    "stream_url": "https://stream.zeno.fm/v7sphfrbe18uv",
+    "website": "http://radioiskrica.com/",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "folk",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:00:14+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.istra",
+    "name": "Radio Istra",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/47385.v6.png",
+    "stream_url": "https://uk1.streamingpulse.com/ssl/RadioIstra",
+    "website": "http://www.radioistra.hr/",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "pop",
+      "top40",
+      "adult contemporary",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:58:28+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.italodisconet",
+    "name": "Radio Italo Disco Net",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/103363.v23.png",
+    "stream_url": "https://cast2.my-control-panel.com/proxy/alen/stream",
+    "website": "https://www.italo-disco.net/",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "electronic",
+      "disco",
+      "80s"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:00:13+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.itbluescentralistria",
+    "name": "Blues Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/101890.v24.png",
+    "stream_url": "https://uk2freenew.listen2myradio.com/live.mp3?typeportmount=s1_4164_stream_594616131",
+    "website": "https://bluesradio.radio12345.com/",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "rock",
+      "blues",
+      "soul"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:05:24+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.jaska",
+    "name": "Radio Jaska",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/23873.v3.png",
+    "stream_url": "http://uk1.streamingpulse.com:7041/stream",
+    "website": "http://www.radio-jaska.hr/",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "rock",
+      "pop",
+      "news",
+      "talk",
+      "folk",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:03:22+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.jr",
+    "name": "JR Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/109989.v2.png",
+    "stream_url": "https://stream.zeno.fm/pdkt234k698uv",
+    "website": "https://justrock.webador.com/",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "rock",
+      "pop",
+      "blues",
+      "metal",
+      "punk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:05:21+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.kaj",
+    "name": "Radio Kaj",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/23677.v9.png",
+    "stream_url": "https://s8.iqstreaming.com:2020/stream/radio-kaj2/stream",
+    "website": "https://www.kaj.hr/",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "pop",
+      "news",
+      "talk",
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:58:23+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.kampus",
+    "name": "Radio Kampus",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/69169.v14.png",
+    "stream_url": "https://audio.alter-media.hr/9128/stream",
+    "website": "https://www.unist.hr/radio-kampus",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "news",
+      "talk",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:04:16+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.karlovac",
+    "name": "Prvi karlovački Live",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/76998.v10.png",
+    "stream_url": "http://s8.iqstreaming.com:8002/;",
+    "website": "http://karlovacki.hr/",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "rock",
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:03:24+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.kastav",
+    "name": "Radio Kastav",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/124062.v8.png",
+    "stream_url": "https://radiokastav.radioca.st/stream",
+    "website": "https://www.radiokastav.com/",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "pop",
+      "folk",
+      "ethnic",
+      "croatian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:01:25+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.kastel",
+    "name": "Radio Kaštel",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/93829.v6.png",
+    "stream_url": "https://kastel2020.radioca.st/stream",
+    "website": "https://www.radio-kastel.com/",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:04:14+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.kastela",
+    "name": "Radio Kaštela",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/142900.v2.png",
+    "stream_url": "https://streams.radio.co/s1b59a32d7/listen",
+    "website": "https://radiokastela.com/",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:02:18+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.klenovnik",
+    "name": "Radio Klenovnik",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/148073.v2.png",
+    "stream_url": "http://radio.klenovnik.hr:8020/radio.mp3",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:06:18+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.klfm",
+    "name": "KLFM",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/24088.v5.png",
+    "stream_url": "https://klfmorgborg.radioca.st/;",
+    "website": "http://klfm.org/",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "eclectic",
+      "community"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:00:17+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.knegineckigas",
+    "name": "Kneginečki GaS",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/121876.v2.png",
+    "stream_url": "https://stream.zeno.fm/bfatsbbx2cutv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:04:33+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.koprivnica",
+    "name": "Radio Koprivnica",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/23848.v12.png",
+    "stream_url": "https://ec2s.crolive.com.hr/RadioKoprivnica",
+    "website": "http://www.radio-koprivnica.hr/",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "pop",
+      "news",
+      "talk",
+      "culture",
+      "community"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:00:09+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.korcula",
+    "name": "Radio Korcula",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/24267.v6.png",
+    "stream_url": "http://shoutcast.pondi.hr:8005/;Title1=Radio",
+    "website": "http://www.radio-korcula.hr/",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "rock",
+      "pop",
+      "news",
+      "talk",
+      "top40",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:03:20+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.kristov",
+    "name": "Kristov Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/139741.v1.png",
+    "stream_url": "https://stream.zeno.fm/1e9hdff8yy7uv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:06:13+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.krizevci",
+    "name": "Radio Križevci",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/47428.v9.png",
+    "stream_url": "https://s8.iqstreaming.com:8048/stream?1597337833918",
+    "website": "https://radiokrizevci.hr/",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "pop",
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:01:16+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.krka",
+    "name": "Radio Krka",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/119264.v1.png",
+    "stream_url": "https://cmr-hosting.com/9700/stream",
+    "website": "https://radiokrka.cmr-1.com/",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:05:21+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.krugoval",
+    "name": "Krugoval 93.1 MHz",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/24597.v4.png",
+    "stream_url": "http://144.76.172.23:7043/;",
+    "website": "http://garesnica.net/krugoval/",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "dance",
+      "pop",
+      "news",
+      "folk",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:02:18+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.kurex",
+    "name": "KureX Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/91845.v2.png",
+    "stream_url": "https://stream.zeno.fm/rk2z7egr5tzuv",
+    "website": "http://kurexradio.tk/",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "rock",
+      "pop",
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:03:28+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.labin",
+    "name": "Radio Labin",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/23680.v5.png",
+    "stream_url": "http://radiolabin.streamradio.com.hr:9100/;",
+    "website": "http://www.radiolabin.hr/",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "pop",
+      "news",
+      "talk",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:02:16+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.live",
+    "name": "Live Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/131709.v6.png",
+    "stream_url": "https://cast3.asurahosting.com/proxy/igor/stream?",
+    "website": "https://liveradiohr.com/",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "pop",
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:02:26+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.lucky",
+    "name": "Radio Lucky",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/47437.v2.png",
+    "stream_url": "http://cmr-hosting.com:8470/;",
+    "website": "http://radio-lucky.com/",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "dance",
+      "pop",
+      "chill-out",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:04:20+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.ludnica",
+    "name": "Radio Ludnica",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/47229.v2.png",
+    "stream_url": "http://192.111.140.6:8222/stream",
+    "website": "http://www.radioludnica.net/",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "pop",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:58:29+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.m901",
+    "name": "Radio M",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/47286.v3.png",
+    "stream_url": "http://radiomvelaluka.ddns.net:8000/stream",
+    "website": "http://www.radio-m.hr/",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "pop",
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:05:23+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.maestral",
+    "name": "Radio Maestral",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/47386.v8.png",
+    "stream_url": "https://ec2s.crolive.com.hr:1635/stream",
+    "website": "https://www.radio-maestral.hr/",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "pop",
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:00:19+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.makarskariviera",
+    "name": "Radio Makarska Riviera",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/47287.v7.png",
+    "stream_url": "http://radio.pa-hosting.de:1080/;",
+    "website": "http://www.radiomakarska.com/",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "pop",
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:04:16+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.malilosinjjadranka",
+    "name": "Radio Mali Lošinj - Radio Jadranka",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/115301.v3.png",
+    "stream_url": "https://stream.radiojar.com/ppdr62bnmrhvv",
+    "website": "https://stream.radiojar.com/ppdr62bnmrhvv",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "rock",
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:03:12+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.mariacroatia",
+    "name": "Radio Maria",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/23670.v11.png",
+    "stream_url": "https://dreamsiteradiocp2.com/proxy/rmcroatia?mp=/stream",
+    "website": "http://www.radiomarija.hr/",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:59:20+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.martin",
+    "name": "Zabavni Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/24084.v11.png",
+    "stream_url": "https://radiocentar.hr:8585/;",
+    "website": "https://www.zabavni.hr/",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "pop",
+      "news",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:01:17+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.max",
+    "name": "Radio Max",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/24613.v11.png",
+    "stream_url": "https://azuracast.novi-net.net/radio/8010/radiomax.aac",
+    "website": "http://www.radiomax.hr/",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "pop",
+      "news",
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:58:23+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.mediaservis",
+    "name": "Radio Media Servis",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/24237.v4.png",
+    "stream_url": "http://live.mediaservis.hr:8084/;",
+    "website": "http://www.mediaservis.hr/",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "pop",
+      "news",
+      "talk",
+      "sports"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:05:36+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.medulin",
+    "name": "Medulin FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/73784.v5.png",
+    "stream_url": "https://de1.streamingpulse.com/ssl/MedulinFM",
+    "website": "http://medulinfm.com/",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "pop",
+      "news",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:03:22+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.megamixhvar",
+    "name": "Megamix Radio Hvar",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/116186.v8.png",
+    "stream_url": "http://freeuk30.listen2myradio.com:28974/;",
+    "website": "http://www.megamixradiohvar.hr/",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "dance",
+      "rock",
+      "pop",
+      "news",
+      "folk",
+      "hip-hop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:05:31+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.megaton",
+    "name": "Radio Megaton",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/24615.v8.png",
+    "stream_url": "https://chopin.bizmusic.net/radio/8030/radio.mp3",
+    "website": "http://www.radiomegaton.hr/",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "pop",
+      "news",
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:59:11+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.moj",
+    "name": "mojRADIO",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/106142.v2.png",
+    "stream_url": "http://live.mojradio.hr:8194/;",
+    "website": "https://mojradio.hr/",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "dance",
+      "pop",
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:03:14+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.more",
+    "name": "Radio More",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/127788.v9.png",
+    "stream_url": "https://s5.radio.co/s8cf5effc6/listen",
+    "website": "https://radiomore.co/",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "rock",
+      "pop",
+      "hits",
+      "croatian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:00:15+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.moslavina",
+    "name": "Radio Moslavina",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/47424.v3.png",
+    "stream_url": "https://s8.iqstreaming.com:2020/stream/rmoslavina/stream",
+    "website": "http://www.radiomoslavina.hr/",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "pop",
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:02:14+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.nacional",
+    "name": "Radio Nacional",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/117134.v3.png",
+    "stream_url": "https://nnc1-bpmmc501.radioca.st//stream?type=http&nocache=1381",
+    "website": "https://www.nacional.hr/radio/",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "rock",
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:00:20+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.narodni",
+    "name": "Radio bravo!",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/23601.v18.png",
+    "stream_url": "https://relay1.social3.hr/radio/8310/radio.mp3",
+    "website": "https://bravo.hr/",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "pop",
+      "news",
+      "talk",
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:58:18+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.narodnigoga",
+    "name": "Narodni Radio Goga",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/43399.v5.png",
+    "stream_url": "https://cmr-hosting.com:7013/;",
+    "website": "http://www.narodniradiogoga.com/",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "pop",
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:00:15+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.nasice",
+    "name": "Radio Našice",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/47443.v10.png",
+    "stream_url": "https://s8.iqstreaming.com:8038/stream",
+    "website": "https://www.radionasice.hr/",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "pop",
+      "news",
+      "talk",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:03:19+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.novagradiska",
+    "name": "Radio Nova Gradiška",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/47429.v6.png",
+    "stream_url": "http://comet.shoutca.st:8050/stream",
+    "website": "http://radiong.hr/",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "pop",
+      "news",
+      "talk",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:00:08+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.novi",
+    "name": "Novi Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/47302.v2.png",
+    "stream_url": "http://s8.iqstreaming.com:8022/stream",
+    "website": "http://www.noviradio.hr/",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "pop",
+      "news",
+      "talk",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:59:12+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.novi975",
+    "name": "Radio Novi Marof",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/47414.v10.png",
+    "stream_url": "http://freeuk21.listen2myradio.com:34773/;",
+    "website": "http://www.radionovimarof.hr/",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "rock",
+      "pop",
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:05:35+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.novi995",
+    "name": "NoviRadio",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/47442.v4.png",
+    "stream_url": "https://ec2s.crolive.com.hr:2385/stream",
+    "website": "http://novi-radio.hr/",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "pop",
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:04:15+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.novival",
+    "name": "Radio Novi val",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/100801.v6.png",
+    "stream_url": "http://live.novi-val.com:8000/radio.mp3",
+    "website": "http://www.novi-val.com/",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "rock",
+      "pop",
+      "country"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:05:37+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.nu",
+    "name": "Radio NU",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/125485.v10.png",
+    "stream_url": "https://slusaj.hr:10446/stream",
+    "website": "https://nu.com.hr/",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "rock",
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:00:15+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.obiteljskiradioivanic",
+    "name": "Obiteljski radio Ivanić",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/24094.v5.png",
+    "stream_url": "http://s8.iqstreaming.com:8080/stream",
+    "website": "http://www.ori.hr/",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "rock",
+      "pop",
+      "news",
+      "talk",
+      "oldies"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:02:27+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.odnarodazanarod",
+    "name": "Radio Od Naroda Za Narod",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/104044.v3.png",
+    "stream_url": "http://144.76.39.214:8001/stream",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:02:20+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.ogulin",
+    "name": "Radio Ogulin",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/23849.v5.png",
+    "stream_url": "http://144.76.172.23:8002/;stream.mp3",
+    "website": "http://www.radio-ogulin.hr/",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "rock",
+      "pop",
+      "news",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:05:23+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.onlineextrakneginec",
+    "name": "Top Hits Radio Kneginec",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/106778.v13.png",
+    "stream_url": "https://stream.zeno.fm/dqhzner9bm8uv",
+    "website": "https://zeno.fm/radio/top-hits-radio-kneginec/",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "dance",
+      "pop",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:01:15+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.onlinekneginec",
+    "name": "Folk Radio Kneginec",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/106824.v11.png",
+    "stream_url": "https://stream.zeno.fm/yetzdv442k8uv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "pop",
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:58:19+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.orahovica",
+    "name": "Radio Orahovica",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/47435.v5.png",
+    "stream_url": "https://ec2s.crolive.com.hr:2595/stream",
+    "website": "http://www.radioorahovica.com/",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "pop",
+      "news",
+      "talk",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:02:19+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.otocac",
+    "name": "Radio Otočac",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/47310.v2.png",
+    "stream_url": "http://s8.iqstreaming.com:8024/stream",
+    "website": "http://www.hrvatski-radio-otocac.hr/",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "pop",
+      "news",
+      "talk",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:02:16+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.otokkrk",
+    "name": "Radio Otok Krk",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/47311.v12.png",
+    "stream_url": "https://s8.iqstreaming.com:8014/stream",
+    "website": "http://www.radio-otok-krk.hr/",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "pop",
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:01:26+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.otvoreni",
+    "name": "Otvoreni Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/23675.v26.png",
+    "stream_url": "https://stream.otvoreni.hr/otvoreni",
+    "website": "https://otvoreni.hr/",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "pop",
+      "news",
+      "talk",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:58:20+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.oxygen",
+    "name": "OxygenFM",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/95505.v1.png",
+    "stream_url": "https://stream.zeno.fm/59e29rsrzd0uv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "pop",
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:01:18+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.petrinjski",
+    "name": "Petrinjski radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/119447.v2.png",
+    "stream_url": "https://s8.iqstreaming.com:2020/stream/petrinjski_radio",
+    "website": "https://petrinjskiradio.hr/",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "rock",
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:03:23+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.pitomiradio",
+    "name": "Pitomi Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/24620.v8.png",
+    "stream_url": "https://matrix-server.hr:8042/live.mp3",
+    "website": "http://play.radiostanica.com/player/1272/pitomi-radio",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "pop",
+      "news",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:02:25+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.ploce",
+    "name": "Radio Ploče",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/47284.v2.png",
+    "stream_url": "http://178.218.163.171:8010/ploce",
+    "website": "http://www.radioploce.hr/",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "pop",
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:05:25+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.plus",
+    "name": "Radio Plus Novska",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/107700.v16.png",
+    "stream_url": "http://78.129.237.51:28389/;",
+    "website": "https://plusportalnovskacom.wordpress.com/",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "rock",
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:06:16+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.podravski",
+    "name": "Podravski Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/47427.v11.png",
+    "stream_url": "https://streaming.podravskiradio.hr/live",
+    "website": "http://podravskiradio.hr/",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "pop",
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:00:11+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.pomorski",
+    "name": "Pomorski Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/25029.v12.png",
+    "stream_url": "http://85.17.172.242:8010/live.mp3",
+    "website": "http://www.pomorskiradio.hr/",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "pop",
+      "news",
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:01:12+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.posavina",
+    "name": "Radio Posavina",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/23626.v2.png",
+    "stream_url": "http://cmr-hosting.com:8500/;",
+    "website": "http://radioposavina.com/",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "news",
+      "talk",
+      "folk",
+      "classic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:04:17+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.postajanovska",
+    "name": "Radio Postaja Novska",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/24236.v5.png",
+    "stream_url": "http://genf196.server4you.de:8686/;",
+    "website": "http://www.radionovska.hr/",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "rock",
+      "pop",
+      "news",
+      "talk",
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:04:22+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.prkos",
+    "name": "Radio Prkos",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/66966.v8.png",
+    "stream_url": "https://eu7.fastcast4u.com/proxy/radioprk?mp=/stream",
+    "website": "http://www.radioprkos.hr/",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:05:22+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.professionalidiots",
+    "name": "Professional Idiots Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/126272.v9.png",
+    "stream_url": "https://proidiots.ddns.net:8000/stream.aac",
+    "website": "https://proidiots.ddns.net/",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "rock",
+      "pop",
+      "hip-hop",
+      "soul",
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:05:32+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.prolaznik",
+    "name": "Radio Prolaznik Evergreen Lepoglava",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/82832.v10.png",
+    "stream_url": "https://s8.ssl-stream.com/prolaznik",
+    "website": "http://prolaznik.com/",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "pop",
+      "folk",
+      "top40",
+      "90s",
+      "80s"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:59:15+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.quirinus",
+    "name": "Radio Quirinus",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/47419.v3.png",
+    "stream_url": "http://s8.iqstreaming.com:8064/stream?",
+    "website": "http://quirinusportal.com/",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "pop",
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:02:12+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.radio057",
+    "name": "Radio 057",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/23853.v6.png",
+    "stream_url": "https://audio.alter-media.hr/9052/stream",
+    "website": "https://www.057info.hr/emisije/",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "dance",
+      "electronic",
+      "rock",
+      "pop",
+      "blues",
+      "news"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:59:14+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.radio1",
+    "name": "Radio 1",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/47416.v5.png",
+    "stream_url": "https://azuracast.novi-net.net/radio/8020/radio1.aac",
+    "website": "http://radio1.hr/",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "rock",
+      "pop",
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:00:10+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.radio101",
+    "name": "Radio 101",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/23850.v6.png",
+    "stream_url": "http://live.radio101.hr:9531/;",
+    "website": "http://www.radio101.hr/",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "rock",
+      "pop",
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:58:25+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.radio808",
+    "name": "Radio 808",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/24233.v17.png",
+    "stream_url": "http://stream.radio808.info:443/;",
+    "website": "http://radio808.com/",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "rock",
+      "r'n'b",
+      "pop",
+      "jazz",
+      "rap",
+      "hip-hop",
+      "indie"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:01:13+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.radiobanovina",
+    "name": "Radio Banovina",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/24783.v10.png",
+    "stream_url": "https://www.radio-banovina.hr/uzivo/",
+    "website": "https://www.radio-banovina.hr/",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "disco",
+      "pop",
+      "folk",
+      "retro",
+      "ethnic",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:58:27+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.radiobbr",
+    "name": "Alfa BBR",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/24086.v5.png",
+    "stream_url": "https://ec2s.crolive.com.hr:2535/stream",
+    "website": "https://alfaradio.hr/",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "talk",
+      "80s"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:00:07+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.radioboomhits",
+    "name": "Radio BOOM Hits",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/99135.v2.png",
+    "stream_url": "https://stream.zeno.fm/z7n80y8s9k0uv",
+    "website": "https://radioboomhits.com/",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "dance",
+      "house",
+      "rock",
+      "pop",
+      "top40",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:00:18+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.radioborovo",
+    "name": "Radio Borovo",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/24785.v5.png",
+    "stream_url": "https://audio.radio-banovina.hr/9018/stream",
+    "website": "http://radio-borovo.hr/",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "pop",
+      "news",
+      "talk",
+      "folk",
+      "culture",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:03:27+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.radiodalmacija",
+    "name": "Radio Dalmacija",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/23627.v13.png",
+    "stream_url": "http://shoutcast.pondi.hr:8000/;stream/1",
+    "website": "http://www.radiodalmacija.hr/",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "pop",
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:58:19+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.radiodrnis",
+    "name": "Radio Drnis",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/24531.v4.png",
+    "stream_url": "https://ec2s.crolive.com.hr:2415/stream",
+    "website": "http://www.radiodrnis.hr/",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "rock",
+      "pop",
+      "news",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:04:21+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.radiodunav",
+    "name": "Radio Dunav",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/24676.v5.png",
+    "stream_url": "https://radio.shoutcheap.com/proxy/nernjako/stream",
+    "website": "http://www.radio-dunav.com/",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "news",
+      "talk",
+      "folk",
+      "oldies",
+      "bosnian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:03:20+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.radiohrvatskozagorje",
+    "name": "Radio Hrvatsko zagorje Krapina",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/24076.v4.png",
+    "stream_url": "https://s8.iqstreaming.com:2020/stream/rhzk1/stream",
+    "website": "https://rhzk.hr/",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "pop",
+      "news",
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:04:24+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.radioimotski",
+    "name": "Radio Imotski",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/25104.v11.png",
+    "stream_url": "http://radioimotski.radioca.st:8662/stream",
+    "website": "http://radioimotski.hr/",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "pop",
+      "news",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:03:21+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.radiokorzo",
+    "name": "Radio Korzo",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/25062.v8.png",
+    "stream_url": "https://c2.hostingcentar.com/streams/radiokorzo/stream?type=https&nocache=7219",
+    "website": "http://radiokorzo.hr/",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "dance",
+      "rock",
+      "r'n'b",
+      "pop",
+      "news",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:00:06+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.radioludbreg",
+    "name": "Radio Ludbreg",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/23869.v10.png",
+    "stream_url": "https://a1.asurahosting.com/listen/radioludbreg/radio.mp3",
+    "website": "http://www.radio-ludbreg.hr/",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "pop",
+      "news",
+      "talk",
+      "oldies"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:02:28+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.radiomreznica",
+    "name": "Radio Mreznica",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/24789.v4.png",
+    "stream_url": "https://stream3.dns69it.com/;*.mp3",
+    "website": "https://radio-mreznica.hr/",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "rock",
+      "pop",
+      "news",
+      "country",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:59:21+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.radiorab",
+    "name": "Radio Rab",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/23989.v4.png",
+    "stream_url": "http://uk1.streamingpulse.com:7014/stream",
+    "website": "http://radio-rab.hr/",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "pop",
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:04:30+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.radiosamobor",
+    "name": "Radio Samobor",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/23875.v7.png",
+    "stream_url": "http://185.150.235.162:80/;",
+    "website": "http://www.radiosamobor.hr/",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "pop",
+      "news",
+      "talk",
+      "top40",
+      "sports"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:01:21+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.radioslavonija",
+    "name": "Radio Slavonija",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/24605.v4.png",
+    "stream_url": "http://s8.iqstreaming.com:8026/stream;",
+    "website": "http://www.radioslavonija.hr/",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "rock",
+      "pop",
+      "news",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:01:18+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.radioslunj",
+    "name": "Radio Slunj",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/24591.v2.png",
+    "stream_url": "https://s8.iqstreaming.com:2020/stream/radio-slunj1/stream",
+    "website": "http://radio.slunj.net/",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "rock",
+      "pop",
+      "folk",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:04:15+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.radiosvn",
+    "name": "Radio SVN Sveta Nedelja",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/24592.v8.png",
+    "stream_url": "https://ec2s.crolive.com.hr:2205/stream",
+    "website": "http://radiosvn.com/",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "dance",
+      "rock",
+      "pop",
+      "news",
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:03:29+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.radioupanja",
+    "name": "Radio Županja",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/23629.v11.png",
+    "stream_url": "https://audio.alter-media.hr:7019/;",
+    "website": "http://www.radiozupanja.hr/",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "news",
+      "talk",
+      "folk",
+      "sports"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:02:23+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.rbb",
+    "name": "RBB Internet Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/151800.v1.png",
+    "stream_url": "http://cast1.asurahosting.com/proxy/zoran/stream",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "rock",
+      "pop",
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:06:16+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.ritam",
+    "name": "Radio Ritam",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/23836.v4.png",
+    "stream_url": "https://ec2s.crolive.com.hr:8455/stream",
+    "website": "http://www.radioritam.hr/",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "rock",
+      "pop",
+      "news",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:59:19+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.ritamklanjec",
+    "name": "Radio Ritam Klanjec",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/154476.v6.png",
+    "stream_url": "https://a11.asurahosting.com:7730/radio.mp3",
+    "website": "http://www.radio-ritam-klanjec.eu/",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "dance",
+      "rock",
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:06:14+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.rmbmarijabistrica",
+    "name": "Rmb Marija Bistrica",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/24627.v4.png",
+    "stream_url": "http://178.218.163.171:8024/stream",
+    "website": "http://www.rmb.hr/",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "news",
+      "talk",
+      "folk",
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:04:17+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.rockkneginec",
+    "name": "Rock Kneginec",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/106069.v6.png",
+    "stream_url": "https://stream.zeno.fm/mgdzyz8nc18uv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "rock"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:01:24+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.rockoff",
+    "name": "Rock &amp; Off Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/79443.v6.png",
+    "stream_url": "https://stream.rcast.net/67353",
+    "website": "http://www.rockoff.hr/rock-off-radio",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "rock"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:04:19+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.rojc",
+    "name": "Radio Rojc",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/111681.v2.png",
+    "stream_url": "https://cf.widecastcdn.live/Z07ww1NUNl/live.mp3",
+    "website": "http://radio.rojc.eu/",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "rock",
+      "pop",
+      "news"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:03:24+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.rovinj",
+    "name": "Radio Rovinj FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/47387.v7.png",
+    "stream_url": "http://rovinj.fm:8000/;type=mp3",
+    "website": "http://www.rovinj.fm/",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "pop",
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:00:14+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.roza",
+    "name": "Radio Roža",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/125350.v1.png",
+    "stream_url": "https://stream.radio-roza.org/live.mp3",
+    "website": "https://www.radio-roza.org/",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "dubstep",
+      "rock",
+      "disco",
+      "folk",
+      "funk",
+      "reggae",
+      "culture"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:04:25+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.schranz",
+    "name": "Schranz",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/47404.v3.png",
+    "stream_url": "http://schranz.in:8000/;stream/1",
+    "website": "http://schranz.in/",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "techno"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:01:17+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.sibinjhits",
+    "name": "Sibinj Hits FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/70685.v6.png",
+    "stream_url": "http://cast3.name.ba:9306/;",
+    "website": "http://vas-portal.com/",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "dance",
+      "rock",
+      "pop",
+      "croatian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:04:32+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.sisak",
+    "name": "Radio Sisak",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/73467.v5.png",
+    "stream_url": "http://c5.hostingcentar.com:8092/stream",
+    "website": "https://www.radiosisak.hr/",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "rock",
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:02:21+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.sjevernifm",
+    "name": "Sjeverni.FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/70639.v13.png",
+    "stream_url": "https://live.sjeverni.fm/radio/8000/radio.mp3",
+    "website": "http://sjeverni.fm/",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "rock",
+      "pop",
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:59:12+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.sjeverozapad",
+    "name": "Radio Sjeverozapad",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/24617.v10.png",
+    "stream_url": "https://a4.asurahosting.com:7840/radio.mp3",
+    "website": "http://www.sjeverozapad.hr/",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "rock",
+      "pop",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:01:18+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.slatina",
+    "name": "Radio Slatina",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/47434.v7.png",
+    "stream_url": "http://85.17.172.242:8020/live2.mp3?1521808158030",
+    "website": "http://www.radioslatina.hr/",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "rock",
+      "pop",
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:04:22+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.slavonski",
+    "name": "Slavonski Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/47436.v4.png",
+    "stream_url": "https://ec2s.crolive.com.hr:8035/stream",
+    "website": "https://www.slavonskiradio.hr/",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:59:13+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.soundsetplavi",
+    "name": "Laganini FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/24305.v7.png",
+    "stream_url": "http://194.145.208.251:8000/start/lfmzg",
+    "website": "http://laganini.fm/",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "pop",
+      "news",
+      "talk",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:58:24+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.soundsetragusa",
+    "name": "Soundset Ragusa",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/47276.v5.png",
+    "stream_url": "http://178.218.163.171:8012/stream",
+    "website": "https://www.soundsetragusa.hr/",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "pop",
+      "news",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:59:22+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.stream37",
+    "name": "Radio Stream 37",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/71464.v15.png",
+    "stream_url": "https://s28.myradiostream.com/23774/listen.mp3",
+    "website": "https://goranp1004.wixsite.com/radiostream37",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "dance",
+      "rock",
+      "pop",
+      "blues",
+      "easy listening",
+      "classic",
+      "country",
+      "80s",
+      "70s",
+      "60s",
+      "instrumental",
+      "romantic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:01:22+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.stubica",
+    "name": "Radio Stubica",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/23635.v4.png",
+    "stream_url": "http://radiostubica.hc.hr:7010/;&type=mp3",
+    "website": "http://www.radio-stubica.hr/",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "news",
+      "talk",
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:59:14+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.student",
+    "name": "Radio Student",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/47394.v11.png",
+    "stream_url": "http://161.53.122.184:8000/AAC128.aac",
+    "website": "http://www.radiostudent.hr/",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "pop",
+      "news",
+      "talk",
+      "education"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:00:11+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.studentskiradiounios",
+    "name": "Studentski radio UNIOS",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/24273.v6.png",
+    "stream_url": "http://radio.unios.hr:8000/stream.mp3",
+    "website": "http://radio.unios.hr/",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "rock",
+      "pop",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:03:13+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.studiom",
+    "name": "Studio M",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/47417.v7.png",
+    "stream_url": "https://a4.asurahosting.com:7090/studiom.aac",
+    "website": "http://www.studiom.hr/",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "pop",
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:59:23+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.sunce",
+    "name": "Radio Sunce",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/47290.v3.png",
+    "stream_url": "http://shoutcast.pondi.hr:8002/;",
+    "website": "http://radiosunce.com.hr/",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:59:19+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.superexyu",
+    "name": "Super EX YU Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/115251.v5.png",
+    "stream_url": "http://5.9.25.50:9332/;",
+    "website": "https://superexyuradio.weebly.com/",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "dance",
+      "rock",
+      "pop",
+      "rap",
+      "hip-hop",
+      "top40",
+      "90s",
+      "00s",
+      "80s",
+      "70s",
+      "oldies",
+      "10s",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:04:27+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.superradio",
+    "name": "Super Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/24229.v23.png",
+    "stream_url": "https://mcp1.mydataknox.com:8010/stream",
+    "website": "http://www.superradio.hr/",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "pop",
+      "news",
+      "talk",
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:58:26+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.svirajka",
+    "name": "Radio Svirajka",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/83155.v12.png",
+    "stream_url": "https://stream.zeno.fm/29c91ysennruv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:01:22+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.tabakovic",
+    "name": "Radio Tabaković",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/47383.v9.png",
+    "stream_url": "http://pstnet7.shoutcastnet.com:10190/stream",
+    "website": "http://www.radio-tabakovic-studio-rijeka.webs.com/",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:01:25+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.tamburaski",
+    "name": "Tamburaški Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/125633.v1.png",
+    "stream_url": "https://listen.radioking.com/radio/552965/stream/612287",
+    "website": "https://tamburaski.com/",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:59:18+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.technodance",
+    "name": "Radio Techno Dance Kneginec",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/101036.v11.png",
+    "stream_url": "https://stream.zeno.fm/apz7qzm5wp8uv",
+    "website": "https://zeno.fm/radio-techno-dance/",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "dance",
+      "electronic",
+      "house",
+      "techno"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:00:16+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.terezija",
+    "name": "Radio Terezija",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/24599.v5.png",
+    "stream_url": "https://ec2s.crolive.com.hr:2315/stream",
+    "website": "http://www.terezija.hr/",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "pop",
+      "news",
+      "talk",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:03:17+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.theroom",
+    "name": "The Room FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/75514.v18.png",
+    "stream_url": "http://65.108.198.245:8856/;",
+    "website": "https://roomfm.hr/",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "pop",
+      "folk",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:59:11+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.tligradiocroatian",
+    "name": "True Life in God Radio Croatian",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/24230.v12.png",
+    "stream_url": "https://stream.tligradio.org/listen/croatian/radio.mp3",
+    "website": "http://www.tligradio.org/hr",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "talk",
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:05:38+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.top",
+    "name": "Top Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/108317.v2.png",
+    "stream_url": "https://c5.hostingcentar.com/streams/topradio/",
+    "website": "https://topradio.hr/",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "rock",
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:58:20+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.totalnifmosijek",
+    "name": "Ultra Split",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/24896.v6.png",
+    "stream_url": "http://c5.hostingcentar.com:8061/stream",
+    "website": "http://www.ultrasplit.hr/",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:58:28+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.tranzistor",
+    "name": "Tranzistor",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/76545.v6.png",
+    "stream_url": "https://ec2s.crolive.com.hr/tranzistor",
+    "website": "https://tranzistor.hr/",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "rock",
+      "pop",
+      "oldies",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:59:17+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.trend",
+    "name": "Trend Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/47390.v4.png",
+    "stream_url": "https://stream1.dns69it.com/;stream.mp3",
+    "website": "http://trend.com.hr/",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:05:27+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.trogir",
+    "name": "Radio Trogir",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/24263.v15.png",
+    "stream_url": "http://144.76.39.214:6022/;",
+    "website": "https://trogirskiportal.hr/radio_trogir/",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "pop",
+      "news",
+      "talk",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:02:13+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.tvornica",
+    "name": "Radio Tvornica",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/110464.v2.png",
+    "stream_url": "http://c8.hostingcentar.com:10004/;",
+    "website": "http://radiotvornica.hr/",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "rock",
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:59:13+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.uniduradio",
+    "name": "UNIDU radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/24235.v7.png",
+    "stream_url": "http://radio.unios.hr:8000/unidu",
+    "website": "http://www.uniduradio.com/",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "rock",
+      "pop",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:05:29+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.val",
+    "name": "Radio Val",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/47285.v3.png",
+    "stream_url": "http://144.76.172.23:7018/;",
+    "website": "http://radioval.hr/",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "pop",
+      "news",
+      "talk",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:03:21+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.vallisaurea",
+    "name": "Radio Vallis Aurea",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/24256.v6.png",
+    "stream_url": "https://ec2s.crolive.com.hr:2265/stream",
+    "website": "http://www.rva.hr/",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "pop",
+      "news",
+      "top40",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:03:17+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.vinkovci",
+    "name": "Radio Vinkovci",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/24081.v9.png",
+    "stream_url": "https://radio.orbis.hr/8006/stream",
+    "website": "http://novosti.hr/",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "pop",
+      "news",
+      "talk",
+      "culture",
+      "entertainment",
+      "community"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:02:24+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.virovitica",
+    "name": "Radio Virovitica",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/24675.v8.png",
+    "stream_url": "https://radio.icv.hr:10998/;",
+    "website": "http://www.icv.hr/",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "rock",
+      "pop",
+      "news",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:59:14+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.visper",
+    "name": "Visper Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/47421.v2.png",
+    "stream_url": "http://radiostream.optiklink.com:8100/live.mp3",
+    "website": "http://visper-radio.com/",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "pop",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:01:20+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.vrbovec",
+    "name": "Radio Vrbovec",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/24298.v5.png",
+    "stream_url": "http://c2.hostingcentar.com:9452/;?",
+    "website": "http://www.radiovrbovec.hr/",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "rock",
+      "pop",
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:01:26+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.vrboveckinarodni",
+    "name": "Vrbovecki Narodni Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/97004.v7.png",
+    "stream_url": "https://beethoven.streamwarp.com/listen/vrbovecki_narodni_radio/radio.mp3",
+    "website": "http://vrbovecki-narodniradio.com/",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "pop",
+      "folk",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:03:24+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.yammatfm",
+    "name": "Yammat FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/24776.v11.png",
+    "stream_url": "https://stream.yammat.fm/radio/8000/yammat.mp3",
+    "website": "http://yammat.fm/",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "rock",
+      "pop",
+      "top40",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:58:21+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.zadarteam",
+    "name": "Zadar Team EU Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/120677.v3.png",
+    "stream_url": "https://stream.zeno.fm/wywkvztk1zlvv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "dance",
+      "house",
+      "techno"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:04:24+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.zagorski",
+    "name": "Zagorski radio",
+    "image": "https://cdn.onlineradiobox.com/img/logo/6/111246.png",
+    "stream_url": "https://s8.iqstreaming.com:2020/stream/zagorski/stream",
+    "website": "http://www.zagorski-radio.hr/",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "dance",
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:00:07+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.zaraznodobar",
+    "name": "Zarazno Dobar Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/24593.v6.png",
+    "stream_url": "https://ec2s.crolive.com.hr:7015/stream",
+    "website": "http://www.zfm.hr/",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "rock",
+      "pop",
+      "news",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:59:12+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.zelina",
+    "name": "Radio Zelina",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/85711.v15.png",
+    "stream_url": "https://ec2s.crolive.com.hr:1690/stream",
+    "website": "http://radiozelina.hr/",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "rock",
+      "r'n'b",
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:04:29+05:30"
+  },
+  {
+    "id": "onlineradiobox_hr.zlatar",
+    "name": "Radio Zlatar",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/47409.v2.png",
+    "stream_url": "http://144.76.172.23:7059/;",
+    "website": "https://www.radio-zlatar.hr/",
+    "provider": "onlineradiobox",
+    "country": "Croatia",
+    "genres": [
+      "pop",
+      "news",
+      "talk",
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:01:19+05:30"
+  }
+]

@@ -1,0 +1,1529 @@
+[
+  {
+    "id": "onlineradiobox_cn.1950ticktock",
+    "name": "1950  TICK TOCK RADIO",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/102785.v3.png",
+    "stream_url": "https://nl4.mystreaming.net/tt-app/1950/icecast.audio",
+    "website": "https://you.radio/",
+    "provider": "onlineradiobox",
+    "country": "China",
+    "genres": [
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:47:27+05:30"
+  },
+  {
+    "id": "onlineradiobox_cn.antennatibet",
+    "name": "Antenna Web Tibet",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/128464.v11.png",
+    "stream_url": "https://china.radioantennaweb.com/Lhasa",
+    "website": "https://antennaweb.it/antennaweb-tibet/",
+    "provider": "onlineradiobox",
+    "country": "China",
+    "genres": [
+      "rock",
+      "pop",
+      "blues",
+      "jazz",
+      "funk",
+      "latin"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:47:36+05:30"
+  },
+  {
+    "id": "onlineradiobox_cn.asia",
+    "name": "Asia FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/72257.v6.png",
+    "stream_url": "https://stream.rcs.revma.com/xpgtqc74hv8uv",
+    "website": "http://www.asiafm.com.tw/",
+    "provider": "onlineradiobox",
+    "country": "China",
+    "genres": [
+      "dance",
+      "electronic",
+      "hip-hop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:48:22+05:30"
+  },
+  {
+    "id": "onlineradiobox_cn.beijingart",
+    "name": "Beijing Art Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/71644.v6.png",
+    "stream_url": "http://lhttp.qingting.fm/live/333/64k.mp3",
+    "website": "http://fm876.rbc.cn/",
+    "provider": "onlineradiobox",
+    "country": "China",
+    "genres": [
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:47:34+05:30"
+  },
+  {
+    "id": "onlineradiobox_cn.beijingstory1025",
+    "name": "Beijing Sport Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/71671.v6.png",
+    "stream_url": "https://lhttp.qingting.fm/live/335/64k.mp3",
+    "website": "http://sports.rbc.cn/",
+    "provider": "onlineradiobox",
+    "country": "China",
+    "genres": [
+      "news",
+      "sports"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:49:22+05:30"
+  },
+  {
+    "id": "onlineradiobox_cn.beijingstory1039",
+    "name": "Beijing Traffic Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/71672.v3.png",
+    "stream_url": "http://lhttp.qingting.fm/live/336/64k.mp3",
+    "website": "http://www.rbc.cn/",
+    "provider": "onlineradiobox",
+    "country": "China",
+    "genres": [
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:48:28+05:30"
+  },
+  {
+    "id": "onlineradiobox_cn.beijingstory923",
+    "name": "Beijing International",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/71699.v3.png",
+    "stream_url": "http://lhttp.qingting.fm/live/334/64k.mp3",
+    "website": "http://www.am774.com/",
+    "provider": "onlineradiobox",
+    "country": "China",
+    "genres": [
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:48:28+05:30"
+  },
+  {
+    "id": "onlineradiobox_cn.beijingstory945",
+    "name": "Beijing Metro Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/71663.v4.png",
+    "stream_url": "http://lhttp.qingting.fm/live/5022463/64k.mp3",
+    "website": "http://www.metroradio.cn/",
+    "provider": "onlineradiobox",
+    "country": "China",
+    "genres": [
+      "pop",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:49:24+05:30"
+  },
+  {
+    "id": "onlineradiobox_cn.bittersweetmusiccn",
+    "name": "Bitter Sweet Music Cn",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/97630.v5.png",
+    "stream_url": "http://91.121.236.34:8520/cn",
+    "website": "http://www.bittersweetmusic.ro/",
+    "provider": "onlineradiobox",
+    "country": "China",
+    "genres": [
+      "pop",
+      "chill-out"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:47:34+05:30"
+  },
+  {
+    "id": "onlineradiobox_cn.changshamusic",
+    "name": "Changsha Music Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/29602.v3.png",
+    "stream_url": "http://lhttp.qingting.fm/live/4930/64k.mp3",
+    "website": "http://www.fm1022.com/",
+    "provider": "onlineradiobox",
+    "country": "China",
+    "genres": [
+      "folk",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:47:34+05:30"
+  },
+  {
+    "id": "onlineradiobox_cn.chengdusimplemusic",
+    "name": "Chengdu Simple Music Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/29594.v1.png",
+    "stream_url": "https://lhttp.qingting.fm/live/5012/64k.mp3",
+    "website": "http://site.douban.com/simplemusic/",
+    "provider": "onlineradiobox",
+    "country": "China",
+    "genres": [
+      "r'n'b",
+      "pop",
+      "jazz",
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:48:21+05:30"
+  },
+  {
+    "id": "onlineradiobox_cn.chinacampus",
+    "name": "China Campus Voice Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/29623.v6.png",
+    "stream_url": "https://lhttp.qingting.fm/live/20091/64k.mp3",
+    "website": "http://www.fm520.com/",
+    "provider": "onlineradiobox",
+    "country": "China",
+    "genres": [
+      "talk",
+      "education"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:48:21+05:30"
+  },
+  {
+    "id": "onlineradiobox_cn.chinaplus",
+    "name": "China Plus",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/71545.v12.png",
+    "stream_url": "http://sk.cri.cn/am846.m3u8",
+    "website": "http://chinaplus.cri.cn/",
+    "provider": "onlineradiobox",
+    "country": "China",
+    "genres": [
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:48:26+05:30"
+  },
+  {
+    "id": "onlineradiobox_cn.cm",
+    "name": "经典音乐广播",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/71759.v6.png",
+    "stream_url": "https://lhttp.qingting.fm/live/267/64k.mp3",
+    "website": "http://www.fm947.cn/",
+    "provider": "onlineradiobox",
+    "country": "China",
+    "genres": [
+      "news",
+      "classic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:47:33+05:30"
+  },
+  {
+    "id": "onlineradiobox_cn.cnr",
+    "name": "CNR",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/71645.v9.png",
+    "stream_url": "http://www.radio.cn/pc-portal/erji/radioStation.html",
+    "website": "http://hxradio.cnr.cn/",
+    "provider": "onlineradiobox",
+    "country": "China",
+    "genres": [
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:48:22+05:30"
+  },
+  {
+    "id": "onlineradiobox_cn.cnrfinance",
+    "name": "CNR Finance",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/71665.v4.png",
+    "stream_url": "http://lhttp.qingting.fm/live/387/64k.mp3",
+    "website": "http://finance.cnr.cn/",
+    "provider": "onlineradiobox",
+    "country": "China",
+    "genres": [
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:49:25+05:30"
+  },
+  {
+    "id": "onlineradiobox_cn.cnrgolden",
+    "name": "CNR Goldenradio",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/71670.v3.png",
+    "stream_url": "http://lhttp.qingting.fm/live/389/64k.mp3",
+    "website": "http://ent.cnr.cn/ylzt/goldenradio/",
+    "provider": "onlineradiobox",
+    "country": "China",
+    "genres": [
+      "classic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:48:27+05:30"
+  },
+  {
+    "id": "onlineradiobox_cn.cnrnationalvoice",
+    "name": "CNR National Voice",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/71708.v5.png",
+    "stream_url": "http://lhttp.qingting.fm/live/394/64k.mp3",
+    "website": "http://www.cnrmz.com/",
+    "provider": "onlineradiobox",
+    "country": "China",
+    "genres": [
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:49:50+05:30"
+  },
+  {
+    "id": "onlineradiobox_cn.cnrold",
+    "name": "CNR Old",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/71713.v2.png",
+    "stream_url": "http://lhttp.qingting.fm/live/396/64k.mp3",
+    "website": "http://old.cnr.cn/",
+    "provider": "onlineradiobox",
+    "country": "China",
+    "genres": [
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:49:48+05:30"
+  },
+  {
+    "id": "onlineradiobox_cn.cpbscv",
+    "name": "CNR 1  中国之声   News Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/71659.v9.png",
+    "stream_url": "https://www.radio.cn/pc-portal/erji/radioStation.html",
+    "website": "https://china.cnr.cn/",
+    "provider": "onlineradiobox",
+    "country": "China",
+    "genres": [
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:47:33+05:30"
+  },
+  {
+    "id": "onlineradiobox_cn.criez",
+    "name": "CRI EZFM",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/71700.v8.png",
+    "stream_url": "https://sk.cri.cn/915.m3u8",
+    "website": "http://ezfm.cri.cn/",
+    "provider": "onlineradiobox",
+    "country": "China",
+    "genres": [
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:48:19+05:30"
+  },
+  {
+    "id": "onlineradiobox_cn.dynamic101",
+    "name": "Shanghai FM Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/71826.v2.png",
+    "stream_url": "https://lhttp.qingting.fm/live/274/64k.mp3",
+    "website": "http://www.fm101.cn/",
+    "provider": "onlineradiobox",
+    "country": "China",
+    "genres": [
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:47:30+05:30"
+  },
+  {
+    "id": "onlineradiobox_cn.erc",
+    "name": "Shanghai ERC Story Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/71853.v4.png",
+    "stream_url": "https://lhttp.qingting.fm/live/268/64k.mp3",
+    "website": "http://www.fm1072.cn/",
+    "provider": "onlineradiobox",
+    "country": "China",
+    "genres": [
+      "culture"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:48:24+05:30"
+  },
+  {
+    "id": "onlineradiobox_cn.ffb",
+    "name": "First Financial Broadcast",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/71771.v2.png",
+    "stream_url": "https://lhttp.qingting.fm/live/276/64k.mp3",
+    "website": "http://www.yicai.com/",
+    "provider": "onlineradiobox",
+    "country": "China",
+    "genres": [
+      "business"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:48:23+05:30"
+  },
+  {
+    "id": "onlineradiobox_cn.fm891",
+    "name": "891线上音乐台",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/147542.v8.png",
+    "stream_url": "https://live.fm891.net/192k.aac",
+    "website": "https://www.fm891.net/",
+    "provider": "onlineradiobox",
+    "country": "China",
+    "genres": [
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:49:18+05:30"
+  },
+  {
+    "id": "onlineradiobox_cn.fm93",
+    "name": "FM93",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/71753.v4.png",
+    "stream_url": "https://lhttp.qingting.fm/live/4522/64k.mp3",
+    "website": "http://www.fm93.cn/",
+    "provider": "onlineradiobox",
+    "country": "China",
+    "genres": [
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:48:25+05:30"
+  },
+  {
+    "id": "onlineradiobox_cn.fredfilm",
+    "name": "FRED FILM RADIO",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/46845.v5.png",
+    "stream_url": "https://s10.webradio-hosting.com/proxy/fredradiocn/stream/;",
+    "website": "http://www.fred.fm/cn/",
+    "provider": "onlineradiobox",
+    "country": "China",
+    "genres": [
+      "news",
+      "talk",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:47:28+05:30"
+  },
+  {
+    "id": "onlineradiobox_cn.fss",
+    "name": "Five Star Sports",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/71756.v4.png",
+    "stream_url": "https://lhttp.qingting.fm/live/4928/64k.mp3",
+    "website": "http://www.smgradio.cn/",
+    "provider": "onlineradiobox",
+    "country": "China",
+    "genres": [
+      "news",
+      "talk",
+      "sports"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:49:22+05:30"
+  },
+  {
+    "id": "onlineradiobox_cn.fujiannews",
+    "name": "Fujian News Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/29588.v2.png",
+    "stream_url": "https://lhttp.qingting.fm/live/1731/64k.mp3",
+    "website": "http://www.fjgb.com/",
+    "provider": "onlineradiobox",
+    "country": "China",
+    "genres": [
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:48:26+05:30"
+  },
+  {
+    "id": "onlineradiobox_cn.glr",
+    "name": "GLRadio",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/107009.v2.png",
+    "stream_url": "https://stream.zeno.fm/m43urb0wu38uv",
+    "website": "https://zeno.fm/glradio",
+    "provider": "onlineradiobox",
+    "country": "China",
+    "genres": [
+      "rock",
+      "r'n'b",
+      "pop",
+      "techno",
+      "classic",
+      "hip-hop",
+      "soul",
+      "country",
+      "funk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:48:27+05:30"
+  },
+  {
+    "id": "onlineradiobox_cn.greenvillage",
+    "name": "Green Village Radio FM 99.5 -  澳門",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/115549.v2.png",
+    "stream_url": "https://fm995.ddns.net/hls1/fm995.m3u8",
+    "website": "https://www.vfm995.com/pc.html",
+    "provider": "onlineradiobox",
+    "country": "China",
+    "genres": [
+      "pop",
+      "news",
+      "talk",
+      "folk",
+      "chinese",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:47:25+05:30"
+  },
+  {
+    "id": "onlineradiobox_cn.guangdong",
+    "name": "Guangdong Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/29418.v4.png",
+    "stream_url": "http://lhttp.qingting.fm/live/1260/64k.mp3",
+    "website": "http://mj.rgd.com.cn/rgd-live/7",
+    "provider": "onlineradiobox",
+    "country": "China",
+    "genres": [
+      "pop",
+      "news",
+      "talk",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:47:29+05:30"
+  },
+  {
+    "id": "onlineradiobox_cn.guangdongarts",
+    "name": "Guangdong Radio - Arts Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/29570.v1.png",
+    "stream_url": "http://ctt5.rgd.com.cn/fm1077",
+    "website": "http://mj.rgd.com.cn/rgd-live/11",
+    "provider": "onlineradiobox",
+    "country": "China",
+    "genres": [
+      "news",
+      "talk",
+      "culture",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:49:26+05:30"
+  },
+  {
+    "id": "onlineradiobox_cn.guangdongeconomics",
+    "name": "Guangdong Radio - Pearl River Economics Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/29441.v1.png",
+    "stream_url": "http://ctt5.rgd.com.cn/fm974",
+    "website": "http://mj.rgd.com.cn/rgd-live/6",
+    "provider": "onlineradiobox",
+    "country": "China",
+    "genres": [
+      "news",
+      "talk",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:47:35+05:30"
+  },
+  {
+    "id": "onlineradiobox_cn.guangdongsouthernliving",
+    "name": "Guangdong Radio - Southern Living Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/29571.v2.png",
+    "stream_url": "http://ctt5.rgd.com.cn/fm936",
+    "website": "http://mj.rgd.com.cn/rgd-live/9",
+    "provider": "onlineradiobox",
+    "country": "China",
+    "genres": [
+      "news",
+      "talk",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:49:18+05:30"
+  },
+  {
+    "id": "onlineradiobox_cn.heb1024",
+    "name": "Hebei Music Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/71661.v6.png",
+    "stream_url": "https://lhttp.qingting.fm/live/1649/64k.mp3",
+    "website": "http://www.hebradio.com/",
+    "provider": "onlineradiobox",
+    "country": "China",
+    "genres": [
+      "pop",
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:48:28+05:30"
+  },
+  {
+    "id": "onlineradiobox_cn.heb1043",
+    "name": "Hebei News",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/71673.v4.png",
+    "stream_url": "https://lhttp.qingting.fm/live/1644/64k.mp3",
+    "website": "http://www.hebradio.com/hbncgb/",
+    "provider": "onlineradiobox",
+    "country": "China",
+    "genres": [
+      "pop",
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:49:25+05:30"
+  },
+  {
+    "id": "onlineradiobox_cn.heb179",
+    "name": "Hebei Economics Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/71660.v7.png",
+    "stream_url": "https://lhttp.qingting.fm/live/1645/64k.mp3",
+    "website": "http://www.hebradio.com/",
+    "provider": "onlineradiobox",
+    "country": "China",
+    "genres": [
+      "pop",
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:49:47+05:30"
+  },
+  {
+    "id": "onlineradiobox_cn.heb907",
+    "name": "Hebei Literature &amp; Arts Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/71664.v4.png",
+    "stream_url": "https://lhttp.qingting.fm/live/4868/64k.mp3",
+    "website": "http://www.hebradio.com/",
+    "provider": "onlineradiobox",
+    "country": "China",
+    "genres": [
+      "pop",
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:49:15+05:30"
+  },
+  {
+    "id": "onlineradiobox_cn.heb981",
+    "name": "Hebei Rural Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/71646.v6.png",
+    "stream_url": "https://lhttp.qingting.fm/live/1650/64k.mp3",
+    "website": "http://www.hebradio.com/",
+    "provider": "onlineradiobox",
+    "country": "China",
+    "genres": [
+      "pop",
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:47:37+05:30"
+  },
+  {
+    "id": "onlineradiobox_cn.heb992",
+    "name": "Hebei Traffic Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/71668.v5.png",
+    "stream_url": "https://lhttp.qingting.fm/live/1646/64k.mp3",
+    "website": "http://www.hebradio.com/",
+    "provider": "onlineradiobox",
+    "country": "China",
+    "genres": [
+      "pop",
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:49:21+05:30"
+  },
+  {
+    "id": "onlineradiobox_cn.henannews",
+    "name": "Henan News Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/29565.v2.png",
+    "stream_url": "https://stream.hndt.com/live/xinwen/playlist.m3u8",
+    "website": "http://www.hndt.com/",
+    "provider": "onlineradiobox",
+    "country": "China",
+    "genres": [
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:48:24+05:30"
+  },
+  {
+    "id": "onlineradiobox_cn.henanopera",
+    "name": "Henan Opera Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/29631.v2.png",
+    "stream_url": "https://stream.hndt.com/live/yule/playlist.m3u8",
+    "website": "http://www.hndt.com/",
+    "provider": "onlineradiobox",
+    "country": "China",
+    "genres": [
+      "opera"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:48:25+05:30"
+  },
+  {
+    "id": "onlineradiobox_cn.hit",
+    "name": "Hit FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/29416.v6.png",
+    "stream_url": "https://sk.cri.cn/887.m3u8",
+    "website": "http://www.hitfm.cn/",
+    "provider": "onlineradiobox",
+    "country": "China",
+    "genres": [
+      "pop",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:47:26+05:30"
+  },
+  {
+    "id": "onlineradiobox_cn.jiangmennews",
+    "name": "Jiangmen News Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/29566.v1.png",
+    "stream_url": "http://www.jmtv.cn/special/at/radiozt.shtml",
+    "website": "http://www.jmradio.com/",
+    "provider": "onlineradiobox",
+    "country": "China",
+    "genres": [
+      "talk",
+      "folk",
+      "top40",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:49:52+05:30"
+  },
+  {
+    "id": "onlineradiobox_cn.jiangsunews",
+    "name": "Jiangsu News",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/71763.v4.png",
+    "stream_url": "https://lzlive.vojs.cn/5Fo8mMX/92/live.m3u8",
+    "website": "http://www.vojs.cn/2014new/c/b/",
+    "provider": "onlineradiobox",
+    "country": "China",
+    "genres": [
+      "news"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:49:23+05:30"
+  },
+  {
+    "id": "onlineradiobox_cn.jiaxingnews",
+    "name": "Jiaxing News Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/71855.v4.png",
+    "stream_url": "https://lhttp.qingting.fm/live/1154/64k.mp3",
+    "website": "http://www.jiaxingren.com/",
+    "provider": "onlineradiobox",
+    "country": "China",
+    "genres": [
+      "news"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:49:16+05:30"
+  },
+  {
+    "id": "onlineradiobox_cn.kisschina",
+    "name": "Kiss China",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/143693.v4.png",
+    "stream_url": "https://gateway.sharp-stream.com/kisschina.mp3",
+    "website": "https://www.kiss1006.com/",
+    "provider": "onlineradiobox",
+    "country": "China",
+    "genres": [
+      "00s",
+      "10s",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:47:28+05:30"
+  },
+  {
+    "id": "onlineradiobox_cn.lamrim",
+    "name": "LamRim Tibetan Buddhist Internet Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/29434.v1.png",
+    "stream_url": "http://199.180.72.2:9097/lamrim",
+    "website": "http://lamrim.com/index2.html",
+    "provider": "onlineradiobox",
+    "country": "China",
+    "genres": [
+      "education",
+      "buddhist"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:47:27+05:30"
+  },
+  {
+    "id": "onlineradiobox_cn.liangyou",
+    "name": "Radio Liangyou Tongxing Channel",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/111919.v2.png",
+    "stream_url": "https://ly729.out.airtime.pro/ly729_b",
+    "website": "https://729ly.net/",
+    "provider": "onlineradiobox",
+    "country": "China",
+    "genres": [
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:48:31+05:30"
+  },
+  {
+    "id": "onlineradiobox_cn.love1037",
+    "name": "Love Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/71827.v3.png",
+    "stream_url": "https://lhttp.qingting.fm/live/273/64k.mp3",
+    "website": "http://www.1037fm.cn/",
+    "provider": "onlineradiobox",
+    "country": "China",
+    "genres": [
+      "pop",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:47:32+05:30"
+  },
+  {
+    "id": "onlineradiobox_cn.macau980",
+    "name": "Rádio Macau 98.0 FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/94531.v5.png",
+    "stream_url": "https://live4.tdm.com.mo/live/_definst_/rch1.live/playlist.m3u8",
+    "website": "https://port.tdm.com.mo/c_radio/",
+    "provider": "onlineradiobox",
+    "country": "China",
+    "genres": [
+      "pop",
+      "news",
+      "talk",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:48:20+05:30"
+  },
+  {
+    "id": "onlineradiobox_cn.makao1007",
+    "name": "澳門電台 FM 100.7",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/115504.v8.png",
+    "stream_url": "https://live3.tdm.com.mo/live/rch2.live/playlist.m3u8",
+    "website": "https://www.tdm.com.mo/en/",
+    "provider": "onlineradiobox",
+    "country": "China",
+    "genres": [
+      "pop",
+      "news",
+      "talk",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:47:31+05:30"
+  },
+  {
+    "id": "onlineradiobox_cn.meowingtiger",
+    "name": "Meowing Tiger Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/107349.v3.png",
+    "stream_url": "http://ca2.rcast.net:8040/;",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "China",
+    "genres": [
+      "chinese"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:48:30+05:30"
+  },
+  {
+    "id": "onlineradiobox_cn.musicworld",
+    "name": "Chinese Music World",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/29301.v6.png",
+    "stream_url": "https://radio.chinesemusicworld.com/chinesemusic.ogg?_=1",
+    "website": "http://chinesemusicworld.com/",
+    "provider": "onlineradiobox",
+    "country": "China",
+    "genres": [
+      "folk",
+      "classic",
+      "chinese"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:47:25+05:30"
+  },
+  {
+    "id": "onlineradiobox_cn.nanjing",
+    "name": "Nanjing News Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/29436.v3.png",
+    "stream_url": "http://www.njgb.com/live/?id=1",
+    "website": "http://www.njgb.com/",
+    "provider": "onlineradiobox",
+    "country": "China",
+    "genres": [
+      "pop",
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:49:17+05:30"
+  },
+  {
+    "id": "onlineradiobox_cn.ningbo",
+    "name": "Ningbo Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/71722.v3.png",
+    "stream_url": "https://lhttp.qingting.fm/live/1141/64k.mp3",
+    "website": "http://www.nbtv.cn/gbds/folder8458/FM904/index.shtml",
+    "provider": "onlineradiobox",
+    "country": "China",
+    "genres": [
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:49:14+05:30"
+  },
+  {
+    "id": "onlineradiobox_cn.ningboeconomics",
+    "name": "Ningbo Economics Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/90613.v1.png",
+    "stream_url": "https://lhttp.qingting.fm/live/1152/64k.mp3",
+    "website": "http://www.nbtv.cn/gbds/folder8458/FM1029/index.shtml",
+    "provider": "onlineradiobox",
+    "country": "China",
+    "genres": [
+      "news",
+      "business",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:49:20+05:30"
+  },
+  {
+    "id": "onlineradiobox_cn.ningbonews",
+    "name": "Ningbo News Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/90610.v1.png",
+    "stream_url": "https://lhttp.qingting.fm/live/1138/64k.mp3",
+    "website": "http://www.nbtv.cn/gbds/folder8458/FM920/index.shtml",
+    "provider": "onlineradiobox",
+    "country": "China",
+    "genres": [
+      "news"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:49:49+05:30"
+  },
+  {
+    "id": "onlineradiobox_cn.ningbotraffic",
+    "name": "Ningbo Traffic Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/90614.v1.png",
+    "stream_url": "https://lhttp.qingting.fm/live/1140/64k.mp3",
+    "website": "http://www.nbtv.cn/gbds/folder8458/FM939/index.shtml",
+    "provider": "onlineradiobox",
+    "country": "China",
+    "genres": [
+      "news"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:49:51+05:30"
+  },
+  {
+    "id": "onlineradiobox_cn.play89.7",
+    "name": "PlayFM 89.7",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/107807.v4.png",
+    "stream_url": "https://lzlive.vojs.cn/jAmO6Ng/92/live.m3u8",
+    "website": "http://www.vojs.cn/2014new/c/f/",
+    "provider": "onlineradiobox",
+    "country": "China",
+    "genres": [
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:48:23+05:30"
+  },
+  {
+    "id": "onlineradiobox_cn.rbc1073",
+    "name": "RBC",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/71674.v3.png",
+    "stream_url": "http://lhttp.qingting.fm/live/345/64k.mp3",
+    "website": "http://topic.rbc.cn/14/2014chengshi/index.html",
+    "provider": "onlineradiobox",
+    "country": "China",
+    "genres": [
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:47:35+05:30"
+  },
+  {
+    "id": "onlineradiobox_cn.salsalasalsera",
+    "name": "Salsa La Salsera",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/105885.v4.png",
+    "stream_url": "https://stream.zeno.fm/vqnryd9b2wzuv",
+    "website": "https://lasalseraradio.bluecaribu.chat/",
+    "provider": "onlineradiobox",
+    "country": "China",
+    "genres": [
+      "salsa"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:47:31+05:30"
+  },
+  {
+    "id": "onlineradiobox_cn.shanghainews",
+    "name": "Shanghai News",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/71755.v14.png",
+    "stream_url": "https://lhttp.qingting.fm/live/386/64k.mp3?app_id=web&ts=5ff6c298&sign=119d98caa6b943b68e18bd9adde9406b",
+    "website": "http://www.news990.cn/",
+    "provider": "onlineradiobox",
+    "country": "China",
+    "genres": [
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:47:32+05:30"
+  },
+  {
+    "id": "onlineradiobox_cn.sichuan",
+    "name": "Sichuan iRadio",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/29598.v8.png",
+    "stream_url": "http://www.sctv.com/live/audio/FM955/",
+    "website": "http://www.sctv.com/",
+    "provider": "onlineradiobox",
+    "country": "China",
+    "genres": [
+      "news",
+      "talk",
+      "chinese"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:48:29+05:30"
+  },
+  {
+    "id": "onlineradiobox_cn.sta",
+    "name": "Shanghai Theatre Arts",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/71769.v3.png",
+    "stream_url": "https://lhttp.qingting.fm/live/269/64k.mp3",
+    "website": "http://www.fm972.cn/",
+    "provider": "onlineradiobox",
+    "country": "China",
+    "genres": [
+      "opera"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:49:14+05:30"
+  },
+  {
+    "id": "onlineradiobox_cn.taiyuanprivatecar",
+    "name": "Taiyuan Private Car Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/29563.v1.png",
+    "stream_url": "https://lhttp.qingting.fm/live/4018/64k.mp3",
+    "website": "http://www.tyfm1044.com/",
+    "provider": "onlineradiobox",
+    "country": "China",
+    "genres": [
+      "chinese",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:49:22+05:30"
+  },
+  {
+    "id": "onlineradiobox_cn.tibetcnr",
+    "name": "Tibet CNR",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/71705.v3.png",
+    "stream_url": "http://lhttp.qingting.fm/live/397/64k.mp3",
+    "website": "http://www.tibetcnr.com/",
+    "provider": "onlineradiobox",
+    "country": "China",
+    "genres": [
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:49:27+05:30"
+  },
+  {
+    "id": "onlineradiobox_cn.traffic",
+    "name": "Shanghai Traffic Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/71851.v3.png",
+    "stream_url": "https://lhttp.qingting.fm/live/266/64k.mp3",
+    "website": "http://www.fm1057.cn/",
+    "provider": "onlineradiobox",
+    "country": "China",
+    "genres": [
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:48:31+05:30"
+  },
+  {
+    "id": "onlineradiobox_cn.truelifeingod",
+    "name": "True Life in God Radio Chinese",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/29439.v9.png",
+    "stream_url": "https://stream.galaxywebsolutions.com/proxy/tligradio_zh?mp=/stream",
+    "website": "http://www.tligradio.org/zh",
+    "provider": "onlineradiobox",
+    "country": "China",
+    "genres": [
+      "christian",
+      "gospel",
+      "chinese",
+      "spiritual"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:47:33+05:30"
+  },
+  {
+    "id": "onlineradiobox_cn.tzgospel",
+    "name": "Tzgospel china",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/128842.v1.png",
+    "stream_url": "https://stream.zeno.fm/wh3x0zu9rchvv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "China",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:49:23+05:30"
+  },
+  {
+    "id": "onlineradiobox_cn.vnccu",
+    "name": "政大之聲 FM88.7",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/108566.v2.png",
+    "stream_url": "http://vnccuonair.nccu.edu.tw:8000/ade.taiwan.mp3",
+    "website": "https://vnccu.nccu.edu.tw/",
+    "provider": "onlineradiobox",
+    "country": "China",
+    "genres": [
+      "pop",
+      "news",
+      "talk",
+      "chinese",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:49:51+05:30"
+  },
+  {
+    "id": "onlineradiobox_cn.voiceofzhejiang",
+    "name": "Voice of Zhejiang",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/71770.v4.png",
+    "stream_url": "https://lhttp.qingting.fm/live/386/64k.mp3",
+    "website": "http://www.am810.net/",
+    "provider": "onlineradiobox",
+    "country": "China",
+    "genres": [
+      "news"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:49:21+05:30"
+  },
+  {
+    "id": "onlineradiobox_cn.voiceofzhejiangcity",
+    "name": "Voice of Zhejiang City",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/71852.v4.png",
+    "stream_url": "https://lhttp.qingting.fm/live/4523/64k.mp3",
+    "website": "http://www.fm107.net/",
+    "provider": "onlineradiobox",
+    "country": "China",
+    "genres": [
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:49:20+05:30"
+  },
+  {
+    "id": "onlineradiobox_cn.xiamenmusic",
+    "name": "厦门音乐广播 FM90.9",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/107449.v4.png",
+    "stream_url": "https://live1.kxm.xmtv.cn/aac_xmyy/sd/live.m3u8",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "China",
+    "genres": [
+      "news",
+      "talk",
+      "chinese"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:48:29+05:30"
+  },
+  {
+    "id": "onlineradiobox_cn.yantaieconomics",
+    "name": "Yantai Economics Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/29585.v3.png",
+    "stream_url": "https://lhttp.qingting.fm/live/1683/64k.mp3",
+    "website": "http://radio.jiaodong.net/",
+    "provider": "onlineradiobox",
+    "country": "China",
+    "genres": [
+      "pop",
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:49:19+05:30"
+  },
+  {
+    "id": "onlineradiobox_cn.yantainews",
+    "name": "Yantai News Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/29584.v2.png",
+    "stream_url": "https://lhttp.qingting.fm/live/1682/64k.mp3",
+    "website": "http://radio.jiaodong.net/",
+    "provider": "onlineradiobox",
+    "country": "China",
+    "genres": [
+      "news",
+      "chinese"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:48:20+05:30"
+  },
+  {
+    "id": "onlineradiobox_cn.yunmengmusic",
+    "name": "云梦音乐台",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/148360.v10.png",
+    "stream_url": "http://qixianidc.cn/live/clouddream_ymfmypgq.m3u8",
+    "website": "http://1466774993.gnway.cc/",
+    "provider": "onlineradiobox",
+    "country": "China",
+    "genres": [
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:49:26+05:30"
+  },
+  {
+    "id": "onlineradiobox_cn.yunnaneducation",
+    "name": "Yunnan Education Radio",
+    "image": "https://cdn.onlineradiobox.com/img/logo/5/29555.png",
+    "stream_url": "http://www.ynradio.com.cn/",
+    "website": "http://www.ynradio.com.cn/",
+    "provider": "onlineradiobox",
+    "country": "China",
+    "genres": [
+      "culture",
+      "chinese",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:49:49+05:30"
+  },
+  {
+    "id": "onlineradiobox_cn.zhejiangeconomic",
+    "name": "Zhejiang Economic",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/71760.v4.png",
+    "stream_url": "https://lhttp.qingting.fm/live/4519/64k.mp3",
+    "website": "http://www.fm95.com.cn/",
+    "provider": "onlineradiobox",
+    "country": "China",
+    "genres": [
+      "business"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:49:17+05:30"
+  },
+  {
+    "id": "onlineradiobox_cn.zhejiangladies",
+    "name": "Zhejiang Ladies Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/71828.v4.png",
+    "stream_url": "https://lhttp.qingting.fm/live/4524/64k.mp3",
+    "website": "http://www.fm1045.net/",
+    "provider": "onlineradiobox",
+    "country": "China",
+    "genres": [
+      "pop",
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:47:36+05:30"
+  },
+  {
+    "id": "onlineradiobox_cn.zhejiangmusic",
+    "name": "Zhejiang Music Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/29438.v2.png",
+    "stream_url": "https://lhttp.qingting.fm/live/4866/64k.mp3",
+    "website": "http://www.zrtg.com/",
+    "provider": "onlineradiobox",
+    "country": "China",
+    "genres": [
+      "pop",
+      "news",
+      "talk",
+      "chinese"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:47:36+05:30"
+  },
+  {
+    "id": "onlineradiobox_cn.zhejiangmusiclivelihood",
+    "name": "Zhejiang Music FM Livelihood",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/71775.v5.png",
+    "stream_url": "https://lhttp.qingting.fm/live/4521/64k.mp3",
+    "website": "http://www.ting9968.com/996/",
+    "provider": "onlineradiobox",
+    "country": "China",
+    "genres": [
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:49:16+05:30"
+  }
+]

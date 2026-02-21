@@ -1,0 +1,5837 @@
+[
+  {
+    "id": "onlineradiobox_in.24hourkirtanmandali",
+    "name": "24 Hour Kirtan Mandali",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/45169.v3.png",
+    "stream_url": "https://server.24hourkirtan.fm:8000/128k.mp3",
+    "website": "http://www.24hourkirtan.fm/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "folk",
+      "hindu",
+      "mantra"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:15:53+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.4publichealth",
+    "name": "Radio 4 Public Health",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/131371.v1.png",
+    "stream_url": "https://cast4.my-control-panel.com/proxy/demo4usv/live",
+    "website": "https://www.radio4publichealth.org/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "talk",
+      "lifestyle"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:20:36+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.927big",
+    "name": "92.7 BIG FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/44630.v16.png",
+    "stream_url": "https://stream.zeno.fm/r2gn1pgm4qruv",
+    "website": "https://www.bigfmindia.com/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "pop",
+      "bollywood",
+      "asian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:17:46+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.aajtak",
+    "name": "Aaj Tak Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/151600.v1.png",
+    "stream_url": "https://tunein.cdnstream1.com/4530_128_2.mp3",
+    "website": "https://www.aajtak.in/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "news",
+      "talk",
+      "indian",
+      "hindu"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:25:09+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.aashiqanaa",
+    "name": "Radio Aashiqanaa",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/115338.v10.png",
+    "stream_url": "https://mars.streamerr.co/8154/stream",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "bollywood",
+      "90s"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:16:08+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.abctamil",
+    "name": "ABC Tamil",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/4448.v3.png",
+    "stream_url": "https://eu8.fastcast4u.com/proxy/ailevdcu?mp=/1&1593269300475",
+    "website": "https://abctamil.co.uk/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "news",
+      "talk",
+      "tamil"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:20:32+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.adirai904",
+    "name": "Adirai FM 90.4",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/82456.v5.png",
+    "stream_url": "https://listen.radioking.com/radio/188161/stream/230320",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "indian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:25:04+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.adithyatunes",
+    "name": "Adithya Tamil Fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/133568.v19.png",
+    "stream_url": "https://adithyatamilfm01.radioca.st/;",
+    "website": "https://adithyatamilfm.com/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "tamil"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:18:40+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.air",
+    "name": "AIR Patiala 100.2 FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/127961.v1.png",
+    "stream_url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio163/playlist.m3u8",
+    "website": "https://prasarbharati.gov.in/live-radio/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:22:18+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.airamruthavarshini",
+    "name": "AIR Amruthavarshini",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/83447.v3.png",
+    "stream_url": "https://nondelhi-lh.akamaihd-staging.net/i/amruthbeng_1@812373/master.m3u8",
+    "website": "http://allindiaradio.gov.in/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "classic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:21:29+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.airbikaner",
+    "name": "Radio AIR Bikaner",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/118830.v4.png",
+    "stream_url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio053/chunklist.m3u8",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "hindu"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:22:19+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.airchuru",
+    "name": "Radio AIR Churu",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/118829.v4.png",
+    "stream_url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio226/chunklist.m3u8",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "hindu"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:22:31+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.airgold",
+    "name": "Air FM Gold",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/83395.v11.png",
+    "stream_url": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio005/hlspbaudio00564kbps.m3u8",
+    "website": "http://allindiaradio.gov.in/channel-fm-gold/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "news",
+      "indian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:15:10+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.airnagaur",
+    "name": "Radio AIR Nagaur",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/118828.v3.png",
+    "stream_url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio170/chunklist.m3u8",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "hindu"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:23:12+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.airraagam",
+    "name": "AIR Raagam",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/83406.v5.png",
+    "stream_url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio139/playlist.m3u8",
+    "website": "http://allindiaradio.gov.in/channel-raagam/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "classic",
+      "indian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:17:44+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.airrainbow",
+    "name": "Air FM Rainbow",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/83396.v9.png",
+    "stream_url": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio004/hlspbaudio00464kbps.m3u8",
+    "website": "http://allindiaradio.gov.in/channel-fm-rainbow/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "bollywood",
+      "indian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:15:06+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.airthrissur",
+    "name": "Air Thrissur Fm 101.1",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/120103.v2.png",
+    "stream_url": "https://stream.zeno.fm/u3g79mbkb78uv",
+    "website": "https://airthrissurfmlistenersclub.blogspot.com/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "hindu",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:19:35+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.ajmer",
+    "name": "Ajmer Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/105057.v1.png",
+    "stream_url": "https://stream.zeno.fm/yftb93nbay8uv",
+    "website": "https://zeno.fm/ajmer-radio/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "rock",
+      "pop",
+      "classic",
+      "bollywood",
+      "hindu"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:16:07+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.akalmultirogkaa",
+    "name": "24/7 Radio Sarab Rog Ka Aukhad Naam",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/4217.v4.png",
+    "stream_url": "http://akalmultimedia.net:8000/srkan",
+    "website": "http://www.gurunanakhealing.com/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "hindu",
+      "mantra"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:17:50+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.akash",
+    "name": "Akash Radio",
+    "image": "https://cdn.onlineradiobox.com/img/logo/0/132690.png",
+    "stream_url": "https://stream.zeno.fm/2krb7bzqefhvv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "bollywood",
+      "90s"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:19:37+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.allindia621",
+    "name": "All India Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/88039.v1.png",
+    "stream_url": "https://radioindia.net/radio/air_patna_radio/icecast.audio",
+    "website": "http://allindiaradio.gov.in/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "pop",
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:17:01+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.ambecine",
+    "name": "AmbeCine Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/118330.v5.png",
+    "stream_url": "https://cast4.asurahosting.com/proxy/ambecine/stream/",
+    "website": "https://ambecine.com/Radio",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "love songs"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:23:11+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.amchikonkani",
+    "name": "Radio AmchiKONKANI",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/97046.v1.png",
+    "stream_url": "http://178.32.107.151:3711/stream",
+    "website": "http://fkcaglobal.com/radio_amchikonkani.html",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "christian",
+      "gospel",
+      "community"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:25:16+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.amlisten",
+    "name": "AmListen",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/123724.v5.png",
+    "stream_url": "https://stream.zeno.fm/yf5p1bya1feuv",
+    "website": "https://www.amlisten.com/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "bollywood"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:25:17+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.amrindergill",
+    "name": "Amrinder Gill Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/91410.v2.png",
+    "stream_url": "https://stream.zeno.fm/ntswtgpemzzuv",
+    "website": "https://zeno.fm/amrinder-gill/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "soul",
+      "romantic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:18:48+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.anandhamfm",
+    "name": "AnandhamFm",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/97221.v2.png",
+    "stream_url": "https://stream.zeno.fm/1ddxnnrg0d0uv",
+    "website": "https://zeno.fm/AnandhamFM-HD/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "tamil"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:23:17+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.annai",
+    "name": "Annai FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/124464.v2.png",
+    "stream_url": "https://stream.zeno.fm/ewuo8mhb9zyvv",
+    "website": "https://zeno.fm/radio/annai-fm/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:24:07+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.antennawebandhrapradesh",
+    "name": "Antenna Web Andhra Pradesh",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/128628.v3.png",
+    "stream_url": "https://tinyurl.com/Antenna-Web-Andhra-Pradesh",
+    "website": "https://antennaweb.it/antennaweb-andhra-pradesh/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "rock",
+      "pop",
+      "blues",
+      "jazz",
+      "funk",
+      "latin"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:23:16+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.aof",
+    "name": "AOF FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/73759.v3.png",
+    "stream_url": "http://janus.shoutca.st:9512/stream",
+    "website": "http://www.aof.church/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:26:06+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.arumbu",
+    "name": "Arumbu fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/103830.v1.png",
+    "stream_url": "https://stream.zeno.fm/22db1xmde2zuv",
+    "website": "https://mdpradios.wixsite.com/arumbu",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "90s",
+      "80s"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:22:33+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.asrdigital",
+    "name": "ASR Digital Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/107546.v2.png",
+    "stream_url": "https://stream.zeno.fm/aqf1rvdnc18uv",
+    "website": "https://radio.asrdmm.com/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "tamil"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:26:09+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.aural",
+    "name": "Aural Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/87884.v21.png",
+    "stream_url": "https://radio.auralradiokerala.com:1315/stream",
+    "website": "https://www.auralradiokerala.com/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "pop",
+      "jazz",
+      "folk",
+      "hindu"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:19:39+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.avegeethamtamil",
+    "name": "Ave Geetham Tamil Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/95836.v6.png",
+    "stream_url": "https://stream.zeno.fm/b9vhhaukg5zuv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:19:34+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.ayyankovil",
+    "name": "Ayyankovil Online Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/144253.v2.png",
+    "stream_url": "https://stream.zeno.fm/1aqiugocjiruv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "hindu"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:25:07+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.baaninsikhkirtan",
+    "name": "Baani.Net Sikh Kirtan Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/3996.v2.png",
+    "stream_url": "http://radio.baani.net:8019/stream",
+    "website": "http://baani.net/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "talk",
+      "hindu",
+      "punjabi"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:20:34+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.baingan",
+    "name": "Radio Baingan",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/143631.v3.png",
+    "stream_url": "https://stream.zeno.fm/acgw1pgn208uv",
+    "website": "https://radiobaingan.com/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "bollywood",
+      "90s",
+      "hindu",
+      "romantic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:16:48+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.bakthimalar",
+    "name": "Bakthimalar fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/129518.v3.png",
+    "stream_url": "https://stream.zeno.fm/9croi1e8wydtv",
+    "website": "https://www.bakthimalar.vijayfm.com/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "tamil"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:20:27+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.balurghatfm",
+    "name": "Balurghat FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/94887.v6.png",
+    "stream_url": "https://dash.beupgraded.co.in/radio/8000/radio.mp3",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "bollywood",
+      "indian",
+      "hindu"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:20:39+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.bamboda",
+    "name": "Bamboda Radio India",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/144002.v3.png",
+    "stream_url": "https://radio.huntoola.com/listen/bamboda_radio_india/radio.mp3",
+    "website": "https://bamboda.com/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "dance",
+      "trance",
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:24:16+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.bbchindi",
+    "name": "BBC Hindi",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/4357.v5.png",
+    "stream_url": "https://www.bbc.com/hindi",
+    "website": "http://www.bbc.com/hindi",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "news",
+      "indian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:16:05+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.beat",
+    "name": "Radio Beat",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/77149.v10.png",
+    "stream_url": "https://strw3.openstream.co/673",
+    "website": "http://radiobeat.in/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "top40",
+      "hindu"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:18:39+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.bhajansagar",
+    "name": "Bhajan Sagar",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/132045.v2.png",
+    "stream_url": "http://video1.getstreamhosting.com:8012/stream",
+    "website": "https://bhajansagar.com/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:24:09+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.bhaktiradio",
+    "name": "Bhakti Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/3820.v3.png",
+    "stream_url": "http://108.178.13.122:8006/;",
+    "website": "http://www.bhaktiradiocity.com/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "folk",
+      "indian",
+      "hindu"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:15:06+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.bhaktisangeet",
+    "name": "Bhakti Sangeet",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/94540.v3.png",
+    "stream_url": "https://stream.zeno.fm/ut3kgm1vsa0uv",
+    "website": "https://retrobollywood.com/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "bollywood",
+      "hindu",
+      "spiritual"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:15:59+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.bhaktiworldganesh",
+    "name": "Bhaktiworld Media Ganesha",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/79897.v16.png",
+    "stream_url": "https://radio2bindia.out.airtime.pro/radio2bindia_a",
+    "website": "https://www.bhaktiworldmedia.com/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "spiritual"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:15:54+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.bharath",
+    "name": "RADIO BHARATH",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/138919.v4.png",
+    "stream_url": "https://usa19.fastcast4u.com:6080/1;",
+    "website": "https://www.radiobharath.com/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "talk",
+      "tamil",
+      "hindu"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:25:13+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.bhashaabhivyakti",
+    "name": "Bhasha Abhivyakti",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/121722.v5.png",
+    "stream_url": "https://stream.zeno.fm/4jw5lslsdi2vv",
+    "website": "https://bhashaabhivyakti.com/live/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:23:19+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.bhbhndarkavathe",
+    "name": "Bh Fm Bhndarkavathe",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/130680.v3.png",
+    "stream_url": "https://stream.zeno.fm/d9wpz9c9y98uv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:20:36+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.bollyhits",
+    "name": "BollyHits Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/88371.v5.png",
+    "stream_url": "https://az13.yesstreaming.net:8450/bollyhitsradio192kbps",
+    "website": "http://bollyhitsradio.com/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "bollywood"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:15:01+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.bollywood2010s",
+    "name": "Bollywood 2010&#39;s",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/106271.v2.png",
+    "stream_url": "https://drive.uber.radio/uber/bollywood2010s/icecast.audio",
+    "website": "https://bollywood.radio/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "bollywood"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:14:59+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.bollywood90s",
+    "name": "Radio Bollywood 90s",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/125887.v9.png",
+    "stream_url": "https://stream.zeno.fm/rm4i9pdex3cuv",
+    "website": "https://radiodeewane.com/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "bollywood",
+      "90s"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:15:05+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.bollywoodpunjabi",
+    "name": "Bollywood Punjabi Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/78503.v13.png",
+    "stream_url": "https://stream.zeno.fm/1k0y9f0cm0quv",
+    "website": "https://bollywoodpunjabiradio.blogspot.com/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "folk",
+      "country",
+      "bollywood",
+      "bhangra",
+      "indian",
+      "hindu",
+      "punjabi",
+      "desi"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:15:05+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.bollywoodsadsongs",
+    "name": "Bollywood Sad Songs Live Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/127272.v3.png",
+    "stream_url": "https://stream.zeno.fm/yvqymrxdxi7vv",
+    "website": "https://radiodeewane.com/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "bollywood"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:17:45+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.bolpunjabiradio",
+    "name": "Bol Punjabi Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/3848.v6.png",
+    "stream_url": "https://bolpunjabi-ekamsoftware.radioca.st//stream",
+    "website": "http://www.bolpunjabi.com/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "folk",
+      "bollywood",
+      "indian",
+      "punjabi"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:16:58+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.bombayhottradio",
+    "name": "Bombay Hott Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/3989.v6.png",
+    "stream_url": "https://ec5.yesstreaming.net:2555/stream",
+    "website": "https://sindustrymedia.com/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "bollywood"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:16:07+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.boxout",
+    "name": "Boxout.fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/89956.v7.png",
+    "stream_url": "https://boxoutfm.out.airtime.pro/boxoutfm_a",
+    "website": "https://boxout.fm/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "culture",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:26:05+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.calmmumbai",
+    "name": "Calm Chill",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/104484.v3.png",
+    "stream_url": "https://drive.uber.radio/uber/calm/icecast.audio",
+    "website": "https://play.calmradio.world/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "ambient"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:15:02+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.catholictamilradio",
+    "name": "Catholic Tamil Radio",
+    "image": "https://cdn.onlineradiobox.com/img/logo/1/145611.png",
+    "stream_url": "https://listen.radioking.com/radio/224683/stream/268186",
+    "website": "https://www.radio.catholictamil.com/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:25:59+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.chillax",
+    "name": "Chillax FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/131483.v1.png",
+    "stream_url": "https://stream.zeno.fm/ohhsihm2byluv",
+    "website": "https://www.vsvptech.com/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "tamil",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:25:09+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.chimes",
+    "name": "Chimes Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/93601.v2.png",
+    "stream_url": "https://playerservices.streamtheworld.com/api/livestream-redirect/CHIMESRADIO_S01.mp3?dist=onlineradiobox",
+    "website": "https://chimesradio.com/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "children"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:24:19+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.christianvisionary",
+    "name": "Christian Visionary Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/80978.v7.png",
+    "stream_url": "https://cast5.my-control-panel.com/proxy/visionaryenglish/stream",
+    "website": "http://visionaryradio.in/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:18:47+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.citizen",
+    "name": "Citizen Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/102582.v1.png",
+    "stream_url": "https://stream.zeno.fm/rr2my8sksp8uv",
+    "website": "https://www.citizenradio.in/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "news",
+      "talk",
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:24:18+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.cityfm",
+    "name": "CityFM",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/85015.v5.png",
+    "stream_url": "https://stream.zeno.fm/r4znzpvskchvv",
+    "website": "https://www.cityfm.in/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "classic",
+      "oldies"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:22:20+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.citylivebrazil",
+    "name": "Radio City Live Brazil",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/126870.v2.png",
+    "stream_url": "https://sonicpanel.oficialserver.com:7180/;",
+    "website": "https://radiocitylivebrazil.blogspot.com/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "pop",
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:25:11+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.clubhousetamilremix",
+    "name": "ClubHouse Tamil Remix Radio 24/7",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/153822.v2.png",
+    "stream_url": "http://94.130.138.179:8044/;",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "tamil"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:26:07+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.clubmirchi",
+    "name": "Club Mirchi Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/74910.v10.png",
+    "stream_url": "https://mirchiplaylive.akamaized.net/hls/live/2036929/MUM/CLUBMI_Auto.m3u8",
+    "website": "http://www.radiomirchi.com/club-mirchi",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "bollywood",
+      "indian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:14:58+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.covai",
+    "name": "Covai Fm Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/115175.v2.png",
+    "stream_url": "https://stream.zeno.fm/kzd2e3tx24zuv",
+    "website": "https://covaifmradio.in/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "tamil"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:19:35+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.covenantpeople",
+    "name": "Covenant People Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/44915.v5.png",
+    "stream_url": "https://s5.radio.co/sc6c37a8a6/listen",
+    "website": "http://www.covenantpeople.in/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "talk",
+      "christian",
+      "tamil",
+      "hindu"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:22:32+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.daijiworld",
+    "name": "Radio Daijiworld",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/76301.v6.png",
+    "stream_url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SAM08AAC013_SC?dist=onlineradiobox",
+    "website": "http://www.radiodaijiworld.com/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "dance",
+      "pop",
+      "hits",
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:16:50+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.deewane",
+    "name": "Radio Deewane",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/129947.v1.png",
+    "stream_url": "https://stream.zeno.fm/r0vprinhfijvv",
+    "website": "https://radiodeewane.com/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "bollywood",
+      "hindu"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:22:24+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.devraag",
+    "name": "Devraag Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/74922.v6.png",
+    "stream_url": "https://devraaghdlive-lh.akamaihd.net/i/DevraagHDLive_1_1@336268/index_1_a-p.m3u8",
+    "website": "http://www.radiomirchi.com/devraag",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "indian",
+      "mantra"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:15:11+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.dhaakad",
+    "name": "Radio Dhaakad",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/70795.v12.png",
+    "stream_url": "https://radiodhaakad.com:8000/live",
+    "website": "http://radiodhaakad.com/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:17:48+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.dharisanam",
+    "name": "Dharisanam FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/101443.v2.png",
+    "stream_url": "https://stream.zeno.fm/2r9w3gumhm8uv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:26:11+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.dholradio",
+    "name": "Dhol Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/4361.v6.png",
+    "stream_url": "https://radio.dholradio.co:8000/radio.mp3",
+    "website": "https://dholradio.co/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "pop",
+      "news",
+      "bhangra",
+      "punjabi"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:16:02+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.dhwani",
+    "name": "Radio Dhwani",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/103849.v2.png",
+    "stream_url": "http://85.25.185.202:8148/stream",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "news"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:19:33+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.dilapnapunjabi",
+    "name": "Dil Apna Punjabi",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/4380.v3.png",
+    "stream_url": "http://my.radiodap.ca:9000/;stream1525197436037/1",
+    "website": "http://www.radiodap.com/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "punjabi"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:17:41+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.dilse",
+    "name": "DILSE Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/144207.v4.png",
+    "stream_url": "https://radio.huntoola.com/listen/dilse/radio.mp3",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "pop",
+      "indie",
+      "bollywood"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:20:33+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.dindigul",
+    "name": "Dindigul City FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/121820.v11.png",
+    "stream_url": "https://cast6.asurahosting.com/proxy/dglradio/stream",
+    "website": "https://dindigulradio.in/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "tamil"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:18:41+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.dipshikha",
+    "name": "Radio dipshikha",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/140935.v2.png",
+    "stream_url": "https://stream.zeno.fm/cwaoub9xh0kuv",
+    "website": "https://worldradiolovers.com/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "hindu"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:26:10+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.discourseradiosai",
+    "name": "DiscourseStream - Radio Sai Global Harmony",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/3856.v3.png",
+    "stream_url": "http://stream.radiosai.net:8008/",
+    "website": "http://media.radiosai.org/www/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "talk",
+      "indian",
+      "hindu"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:17:02+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.divineindia",
+    "name": "Divine FM India",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/106035.v10.png",
+    "stream_url": "https://phoebe.streamerr.co:1470/;stream.mp3",
+    "website": "http://divinefm.in/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:20:35+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.divyajyoti",
+    "name": "Radio Divya Jyoti",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/83031.v5.png",
+    "stream_url": "https://s3.voscast.com:10845/stream",
+    "website": "https://www.djjs.org/radio",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "spiritual"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:18:45+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.divyavanifm",
+    "name": "Divyavani Sanskrit Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/4362.v4.png",
+    "stream_url": "https://divyavani.radioca.st/stream",
+    "website": "https://radiodivyavani.blogspot.com/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "news",
+      "talk",
+      "folk",
+      "indian",
+      "comedy",
+      "hindu",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:18:37+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.easy50s",
+    "name": "Easy 50&#39;s",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/106289.v2.png",
+    "stream_url": "https://streaming.exclusive.radio/uber/easy50/icecast.audio",
+    "website": "https://easy.radio/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "50s",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:14:58+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.edudew",
+    "name": "Edudew Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/91297.v3.png",
+    "stream_url": "https://edudew.com:8443/edudew",
+    "website": "https://www.edudew.com/radio",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:22:27+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.egamamiladio",
+    "name": "Vegam FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/3811.v8.png",
+    "stream_url": "http://vtr24.com:8000/;",
+    "website": "https://vtr24.com/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "folk",
+      "tamil"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:21:27+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.ephphathamalayalam",
+    "name": "Ephphatha Radio Malayalam",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/57218.v5.png",
+    "stream_url": "https://ephphatha.radioca.st/stream",
+    "website": "http://ephphatharadio.com/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:19:32+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.febaonline",
+    "name": "FEBA Online",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/146187.v2.png",
+    "stream_url": "https://listen.radioking.com/radio/557210/stream/616676",
+    "website": "https://febaonline.org/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:23:23+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.fgpsfm",
+    "name": "FGPC FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/4210.v7.png",
+    "stream_url": "https://dc1.serverse.com/proxy/fgpcfm/stream",
+    "website": "http://www.fgpcfm.com/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:19:32+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.filmatmusic",
+    "name": "Filmat Music",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/94219.v3.png",
+    "stream_url": "https://stream.zeno.fm/0eukcvcf8tzuv",
+    "website": "http://radio.filmat.in/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "indian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:19:36+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.filmyriver",
+    "name": "Hindi Geet Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/93743.v5.png",
+    "stream_url": "https://stream.zeno.fm/qzkhzzdhva0uv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "bollywood",
+      "hindu"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:15:56+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.friendstamilchat",
+    "name": "Friends Tamil Chat FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/4453.v2.png",
+    "stream_url": "http://167.114.131.90:5750/;",
+    "website": "http://friendstamilchat.in/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "talk",
+      "tamil"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:20:34+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.gaanalive",
+    "name": "Gaana Live Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/83982.v7.png",
+    "stream_url": "https://stream.zeno.fm/szh14bya1feuv",
+    "website": "https://www.gaanalive.com/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "pop",
+      "bollywood",
+      "punjabi"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:15:58+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.goldybhal",
+    "name": "Goldy Bhal",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/101561.v1.png",
+    "stream_url": "https://stream.zeno.fm/rfxzab5h3p8uv",
+    "website": "https://zeno.fm/goldy-bhal/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "rock",
+      "pop",
+      "talk",
+      "bollywood",
+      "hindu"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:16:00+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.goundamanisenthil",
+    "name": "Goundamani Senthil Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/87945.v13.png",
+    "stream_url": "https://relay2.southradios.net/listen/goundamani_senthil_radio_audodj/stream",
+    "website": "https://tamilradios.net/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "talk",
+      "comedy",
+      "tamil"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:20:30+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.green",
+    "name": "Radio Green",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/100660.v8.png",
+    "stream_url": "https://stream.zeno.fm/wyqezxthwlfvv",
+    "website": "https://radiogreen.in/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "indian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:19:36+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.gsctamilchristian",
+    "name": "GSC FM - Tamil Christian Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/44960.v4.png",
+    "stream_url": "http://66.55.145.43:7479/;",
+    "website": "http://goodshepherdchurchcni.in/gsc/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "talk",
+      "christian",
+      "gospel",
+      "tamil"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:16:53+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.gupshupinternet",
+    "name": "Gupshup Internet Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/125861.v2.png",
+    "stream_url": "https://internetradio.gupshupradio.com:8080/?type=mp3",
+    "website": "https://gupshupradio.com/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:25:08+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.gurbanikirtan",
+    "name": "Gurbani Kirtan Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/92482.v6.png",
+    "stream_url": "http://www.sikhvideos.org:8000/;stream.mp3",
+    "website": "https://www.sikhvideos.org/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "indian",
+      "spiritual"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:19:40+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.gurdwaradukh",
+    "name": "Gurdwara Dukh Niwaran Sahib Ludhiana",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/3927.v4.png",
+    "stream_url": "http://akalmultimedia.net:8000/GDNSLDH",
+    "website": "http://www.gdnsldh.net/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "talk",
+      "mantra",
+      "punjabi"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:16:51+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.gurgaonka",
+    "name": "Gurgaon Ki Awaaz",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/45183.v12.png",
+    "stream_url": "https://gurgaonradio.out.airtime.pro/gurgaonradio_a",
+    "website": "http://www.gurgaonkiawaaz.in/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "news",
+      "talk",
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:16:05+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.gururaghavendra",
+    "name": "Guru Raghavendra Bhakti Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/82135.v3.png",
+    "stream_url": "http://192.184.9.158:8231/stream",
+    "website": "http://www.gururaghavendraradio.org/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:23:26+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.gyanvani",
+    "name": "Radio Gyan Vani",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/98474.v1.png",
+    "stream_url": "https://radioindia.net/radio/gayn/icecast.audio",
+    "website": "https://iop.ignouonline.ac.in/onlineServices",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "news",
+      "talk",
+      "education",
+      "entertainment",
+      "community"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:23:14+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.hallos",
+    "name": "Hallos Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/114308.v5.png",
+    "stream_url": "https://servidor36.brlogic.com:7132/live",
+    "website": "https://hallosradio.com/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "talk",
+      "malayalam"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:24:12+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.harrishjayaraj",
+    "name": "Harrish Jayaraj",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/131484.v1.png",
+    "stream_url": "https://stream.zeno.fm/ob6tjg8gulptv",
+    "website": "https://www.vsvptech.com/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "tamil",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:24:11+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.haryanvi",
+    "name": "Radio Haryanvi",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/75969.v5.png",
+    "stream_url": "http://weareharyanvi.com:8000/listen",
+    "website": "http://weareharyanvi.com/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "folk",
+      "indian",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:17:43+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.hasyakatta",
+    "name": "Hasya Katta Official",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/109264.v3.png",
+    "stream_url": "https://stream.zeno.fm/grpa985az98uv",
+    "website": "https://hasyakattaofficialfm.github.io/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "news",
+      "bollywood",
+      "comedy",
+      "instrumental"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:22:22+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.healer",
+    "name": "Healer Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/45101.v15.png",
+    "stream_url": "https://c13.radioboss.fm/stream/552",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "christian",
+      "tamil",
+      "christian contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:22:23+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.hellotelugu",
+    "name": "Hello Telugu",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/124818.v2.png",
+    "stream_url": "https://listen.radioking.com/radio/503281/stream/560701",
+    "website": "https://play.radioking.com/radio/hello-telugu",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "blues",
+      "classic",
+      "country",
+      "acoustic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:23:16+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.hindibible",
+    "name": "Hindi Bible Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/75383.v3.png",
+    "stream_url": "https://stream.zenolive.com/92dg9vsfnueuv",
+    "website": "https://bibleradio.blogspot.com/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "spiritual"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:18:44+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.hindibiblevani",
+    "name": "Hindi Bible Vani",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/117129.v2.png",
+    "stream_url": "https://stream.zeno.fm/w69cqx5n2zhvv",
+    "website": "https://biblevani.com/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:22:20+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.hindidesibollywoodevergreen02",
+    "name": "Hindi Desi Bollywood Evergreen Hits - Channel 02",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/90111.v7.png",
+    "stream_url": "http://eu1.reliastream.com:7103/stream",
+    "website": "http://hindihits.top/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "bollywood",
+      "retro",
+      "indian",
+      "hindu"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:15:55+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.hindigazallovers",
+    "name": "Hindi Gazal Lovers",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/125922.v5.png",
+    "stream_url": "https://stream.zeno.fm/yo0kzyzedittv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "oldies"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:16:03+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.hitsmumbai",
+    "name": "Radio Hits Mumbai",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/135669.v2.png",
+    "stream_url": "https://stream.zeno.fm/q2airn66y4ztv",
+    "website": "https://zeno.fm/radio/radio-hits-mumbai/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "rock",
+      "pop",
+      "jazz",
+      "classic",
+      "hip-hop",
+      "country",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:20:31+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.hitsofbollywood",
+    "name": "Hits Of Bollywood",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/3791.v5.png",
+    "stream_url": "https://stream.zeno.fm/60ef4p33vxquv",
+    "website": "http://www.hitsofbollywood.com/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "bollywood",
+      "indian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:14:56+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.holycross",
+    "name": "Holy Cross Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/91489.v9.png",
+    "stream_url": "https://stream.zeno.fm/dvvtwpsnpd0uv",
+    "website": "http://www.holycrossradio.com/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "christian",
+      "tamil"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:21:36+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.hosurthedal",
+    "name": "Hosur Thedal FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/80302.v10.png",
+    "stream_url": "https://thedalfm.radioca.st/stream",
+    "website": "https://www.thedalfm.com/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:25:03+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.hotbox",
+    "name": "Hotbox FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/105249.v13.png",
+    "stream_url": "https://lineagefm.out.airtime.pro/lineagefm_a",
+    "website": "https://www.lineagerecords.in/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "electronic",
+      "techno",
+      "drum'n'bass"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:21:22+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.idhayam",
+    "name": "idhayam fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/67958.v4.png",
+    "stream_url": "http://stream11.shoutcastsolutions.com:8262/stream",
+    "website": "https://idhayamfm.blogspot.com/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "tamil"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:16:50+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.inbamradio",
+    "name": "Inbam FM Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/3987.v3.png",
+    "stream_url": "https://stream.radio.co/sf55ced545/listen",
+    "website": "http://www.inbamfm.com/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "talk",
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:17:48+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.indifun",
+    "name": "Indifun Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/94892.v1.png",
+    "stream_url": "http://indifun.net:7000/;",
+    "website": "http://indifun.net/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "bollywood",
+      "90s",
+      "00s",
+      "80s",
+      "indian",
+      "hindu",
+      "10s"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:17:00+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.indradhanush",
+    "name": "Radio Indradhanush",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/125146.v8.png",
+    "stream_url": "https://a12.asurahosting.com/listen/radio_indradhanush/radio.mp3",
+    "website": "https://www.radioindradhanush.com/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "classic",
+      "bollywood",
+      "retro",
+      "oldies",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:17:54+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.isaithentraltamil",
+    "name": "Isai Thentral Tamil Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/99741.v1.png",
+    "stream_url": "https://stream.zeno.fm/uhqxtxxty7zuv",
+    "website": "https://zeno.fm/isai-thentral-tamil/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "soundtrack"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:20:32+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.ishq1048",
+    "name": "Ishq 104.8 FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/106076.v6.png",
+    "stream_url": "https://prclive4.listenon.in/Ishq",
+    "website": "https://www.ishq.com/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "news",
+      "bollywood",
+      "asian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:18:38+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.islam",
+    "name": "Radio Islam",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/83026.v2.png",
+    "stream_url": "https://radioislamin.out.airtime.pro/radioislamin_a",
+    "website": "http://www.radioislam.in/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "islamic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:22:28+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.islamoriniyamargam",
+    "name": "Islam or iniya margam",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/117823.v5.png",
+    "stream_url": "https://stream.zeno.fm/6fhdur9wn0hvv",
+    "website": "https://www.tntj.net/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "islamic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:23:20+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.jagriti",
+    "name": "Radio Jagriti",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/88622.v10.png",
+    "stream_url": "https://stream.zeno.fm/kgdue4hmffhvv",
+    "website": "http://radiojagriti.radio12345.com/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "community"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:20:39+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.jehovahraphafm",
+    "name": "JehovahRapha FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/48509.v18.png",
+    "stream_url": "https://c22.radioboss.fm/stream/532",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "christian",
+      "tamil",
+      "christian contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:16:59+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.jesusalivechristian",
+    "name": "Jesus Alive Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/72992.v11.png",
+    "stream_url": "https://stream.zenolive.com/qyb8s75nsceuv",
+    "website": "https://jesusaliveradio.blogspot.com/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:17:49+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.jjn",
+    "name": "JJN Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/106195.v2.png",
+    "stream_url": "https://stream.zeno.fm/ehq95zyz808uv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "classic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:17:53+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.jn",
+    "name": "JN FM Tamil",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/113458.v1.png",
+    "stream_url": "https://stream.zeno.fm/0wck59rarchvv",
+    "website": "https://jnfmtamil.wixsite.com/jnfmtamil",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:20:28+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.jodhpur",
+    "name": "Radio Jodhpur 92.7",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/135672.v1.png",
+    "stream_url": "https://stream.zeno.fm/jnhzpcpudixuv",
+    "website": "https://zeno.fm/radio/radio-jodhpur-92-7/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "rock",
+      "pop",
+      "jazz",
+      "classic",
+      "hip-hop",
+      "country",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:25:59+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.jodhpur927",
+    "name": "Radio Jodhpur 92.7",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/135670.v5.png",
+    "stream_url": "https://stream.zeno.fm/c15i0lmaq5kuv",
+    "website": "https://zeno.fm/radio/radio-jodhpur-92-7/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "rock",
+      "pop",
+      "jazz",
+      "classic",
+      "hip-hop",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:22:26+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.joshuagenerradio",
+    "name": "Joshua Generation Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/4270.v6.png",
+    "stream_url": "http://67.212.165.106:8093/;",
+    "website": "http://www.joshuageneration.org/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:23:23+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.joyfulmelodies",
+    "name": "Joyful Melodies Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/96969.v1.png",
+    "stream_url": "https://stream.zeno.fm/9re8ry3qzk0uv",
+    "website": "https://zeno.fm/joyful-melodies-radio/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "american"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:24:12+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.jrm",
+    "name": "JRM - Markaz Ki Awaz",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/92923.v3.png",
+    "stream_url": "https://stream.zeno.fm/z2ryhp76u7zuv",
+    "website": "https://jrmmarkazkiawaz.tk/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "islamic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:19:40+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.june",
+    "name": "June FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/153059.v1.png",
+    "stream_url": "https://onair.junefm.in/live",
+    "website": "https://junefm.in/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "talk",
+      "indian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:24:18+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.kabani",
+    "name": "Radio Kabani",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/117793.v3.png",
+    "stream_url": "https://stream.zeno.fm/5geumk1hbchvv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "indian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:24:20+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.karanaujla",
+    "name": "Karan Aujla Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/88756.v3.png",
+    "stream_url": "https://stream.zeno.fm/vrqrkmrfkzzuv",
+    "website": "https://zeno.fm/karan-aujla-radio/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "pop",
+      "folk",
+      "punjabi"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:18:43+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.karupattikudilfm",
+    "name": "Karupatti Kudil FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/146556.v1.png",
+    "stream_url": "https://listen.radioking.com/radio/716045/stream/781727",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "blues",
+      "acoustic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:25:15+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.karurlife",
+    "name": "Karur Life Fm",
+    "image": "https://cdn.onlineradiobox.com/img/logo/8/90618.png",
+    "stream_url": "https://stream.zeno.fm/k0qrmtts91zuv",
+    "website": "http://www.lifefm.in/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:18:40+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.kashmir",
+    "name": "Kashmir Online Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/93030.v12.png",
+    "stream_url": "https://stream.zeno.fm/hdsynxpdam8uv",
+    "website": "https://www.kashmironlineradio.in/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "blues",
+      "country"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:21:37+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.keralaislamiclrrad",
+    "name": "Kerala Islamic Class Room Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/4293.v6.png",
+    "stream_url": "http://198.50.158.92:10302/stream",
+    "website": "http://www.skssfnews.com/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "talk",
+      "islamic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:22:24+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.khammaganirajasthan",
+    "name": "Khamma Gani Rajasthan",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/105062.v2.png",
+    "stream_url": "https://stream.zeno.fm/cc9ez9yydy8uv",
+    "website": "https://zeno.fm/khamma-gani-rajasthan/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "rock",
+      "pop",
+      "classic",
+      "bollywood",
+      "hindu"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:20:33+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.khasharyanvi",
+    "name": "Khas Haryanvi",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/78686.v7.png",
+    "stream_url": "https://khasharyanvi.com:8000/live2",
+    "website": "https://khasharyanvi.com/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "blues",
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:18:50+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.kirtanbhakti",
+    "name": "Swaminarayan Kirtan",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/80565.v9.png",
+    "stream_url": "https://radio.nnd.media/listen/swaminarayan_kirtan/Kirtan.mp3",
+    "website": "https://music.swaminarayan.in/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "indian",
+      "soundtrack"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:21:25+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.kjyesudasmalayalam",
+    "name": "KJ Yesudas Malayalam Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/113729.v5.png",
+    "stream_url": "https://stream.zeno.fm/9x1sw687nf9uv",
+    "website": "https://keralaradios.com/kj-yesudas-radio",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "folk",
+      "oldies"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:21:23+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.knpinfotechmalayalam",
+    "name": "KnP Infotech Malayalam Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/87575.v6.png",
+    "stream_url": "https://radio.111google.com/stream/1/",
+    "website": "http://www.knpinfotech.co.in/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "indian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:22:18+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.kochi1023",
+    "name": "AIR Kochi fm 102.3",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/105902.v7.png",
+    "stream_url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio045/playlist.m3u8",
+    "website": "http://kochifm.blogspot.com/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "news",
+      "talk",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:17:51+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.kochimusicstation",
+    "name": "Kochi Music Station",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/104720.v1.png",
+    "stream_url": "https://stream.zeno.fm/bdu9v5hy5x8uv",
+    "website": "https://kochimusicstation.blogspot.com/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:21:32+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.kodaiaruvi",
+    "name": "Kodai Aruvi FM Kodaikanal",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/128751.v4.png",
+    "stream_url": "https://cast6.asurahosting.com/proxy/kodaiaruvifm/stream",
+    "website": "https://kodaiaruvifm.online/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "tamil"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:21:31+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.kodairagam",
+    "name": "Kodairagam FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/106920.v14.png",
+    "stream_url": "https://server1.mahamediacast.com/proxy/kodairagam/stream",
+    "website": "https://kodairagamradio.com/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "tamil"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:18:41+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.kollidam",
+    "name": "Kollidam Radio Trichy",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/121823.v2.png",
+    "stream_url": "https://server.sscast2u.com/8070/stream",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "tamil"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:23:20+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.konkanichristianmangalore",
+    "name": "Konkani Christian Radio - Mangalore",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/96229.v3.png",
+    "stream_url": "https://usa16.fastcast4u.com/proxy/truevalueforyou?mp=/1",
+    "website": "https://konkanichristianradio.blogspot.com/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:19:34+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.koolfm",
+    "name": "Kool FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/86933.v2.png",
+    "stream_url": "https://kool104hyderabad-lh.akamaihd.net/i/kool104hyderabad_1@838133/master.m3u8",
+    "website": "https://www.radiomirchi.com/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "pop",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:20:35+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.koralamaanallsong",
+    "name": "Korala Maan All Song Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/91667.v1.png",
+    "stream_url": "https://stream.zeno.fm/hxgarz1594zuv",
+    "website": "https://www.gaanalive.com/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "pop",
+      "folk",
+      "punjabi"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:22:25+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.kottarakkara",
+    "name": "FM Kottarakkara",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/103330.v2.png",
+    "stream_url": "https://stream.zeno.fm/gqdb1rev5s8uv",
+    "website": "https://fmkottarakkara.in/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "pop",
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:22:30+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.kripalubhaktidhar",
+    "name": "Kripalu Bhakti Dhara Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/4280.v5.png",
+    "stream_url": "https://kbd.out.airtime.pro/kbd_a",
+    "website": "http://radio.jkp.org.in/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "indian",
+      "hindu"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:14:59+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.kumaritamilmedia",
+    "name": "KUMARI TAMIL MEDIA - ONLINE RADIO",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/134622.v1.png",
+    "stream_url": "https://stream.zeno.fm/rp7fbgrkhbquv",
+    "website": "https://radio.kumaritamil.com/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "news",
+      "folk",
+      "indian",
+      "tamil"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:23:21+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.lakshmidigital",
+    "name": "Lakshmi FM Digital 5.1",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/112817.v3.png",
+    "stream_url": "https://server1.mahamediacast.com/proxy/lakshmifm/stream",
+    "website": "http://lakshmifm.com/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "tamil"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:24:14+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.lifelight",
+    "name": "Lifelight Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/117054.v3.png",
+    "stream_url": "http://chandra.shoutca.st:8143/index.html;",
+    "website": "https://lifelight.in/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:26:06+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.loki2",
+    "name": "Radio Loki 2",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/148919.v2.png",
+    "stream_url": "https://stream.zeno.fm/e0fxgkuyexhvv",
+    "website": "https://zeno.fm/radio/radio-loki-2/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "bollywood",
+      "90s"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:22:23+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.lordbuddha",
+    "name": "Lord Buddha Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/95732.v7.png",
+    "stream_url": "https://stream.zeno.fm/e7nxk55167zuv",
+    "website": "https://zeno.fm/lord-buddha-radio-station/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "buddhist"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:21:23+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.luminousradhindi",
+    "name": "Luminous Radio - Hindi",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/4002.v6.png",
+    "stream_url": "http://192.111.140.6:8601/stream",
+    "website": "http://www.luminousradio.com/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:17:51+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.madhuram",
+    "name": "Madhuram Radio Madurai",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/121819.v6.png",
+    "stream_url": "https://cast6.asurahosting.com/proxy/madhuramradio/stream",
+    "website": "https://madhuramradio.in/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "tamil"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:19:43+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.madhursangeet",
+    "name": "Madhur Sangeet",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/86977.v4.png",
+    "stream_url": "https://stream.zeno.fm/8kqd6dp18vzuv",
+    "website": "http://zeno.fm/madhur-sangeet",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "bollywood",
+      "indian",
+      "hindu"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:15:03+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.madhurtarang",
+    "name": "Madhur Tarang",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/102657.v4.png",
+    "stream_url": "https://stream.zeno.fm/63eqy23x34zuv",
+    "website": "https://madhurtarangradio.blogspot.com/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "classic",
+      "90s",
+      "80s",
+      "romantic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:17:52+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.madhurtarangdevotional",
+    "name": "Madhur Tarang Devotional",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/131289.v3.png",
+    "stream_url": "https://stream.zeno.fm/jppgwh1eozauv",
+    "website": "https://madhurtarangradio.blogspot.com/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "indian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:25:17+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.maha",
+    "name": "Maha fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/139456.v5.png",
+    "stream_url": "https://server1.mahamediacast.com/proxy/mahafm/stream",
+    "website": "https://mahafm.com/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "tamil"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:23:14+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.maippaninkuraltamilvanoli",
+    "name": "Maippanin Kural Tamil Vanoli",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/95857.v4.png",
+    "stream_url": "https://stream.zeno.fm/qg03b0px34zuv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:22:19+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.malayalam",
+    "name": "Radio Malayalam",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/100170.v7.png",
+    "stream_url": "https://radiomalayalamfm.com/radio/8000/radio.mp3",
+    "website": "http://www.radiomalayalam.in/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "culture"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:22:29+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.mangalam912",
+    "name": "Radio Mangalam 91.2",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/98095.v2.png",
+    "stream_url": "http://www.radiomangalam.in:8000/stream",
+    "website": "http://www.radiomangalam.com/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "community"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:24:10+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.mangoradio",
+    "name": "Radio Mango",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/109655.v15.png",
+    "stream_url": "https://www.radiomango.fm/home.html/",
+    "website": "https://www.radiomango.fm/home.html/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "news",
+      "indian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:21:26+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.marudhara",
+    "name": "Marudhara Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/104737.v3.png",
+    "stream_url": "https://stream.zeno.fm/eyxg23ky4x8uv",
+    "website": "http://freshnews-48.com/marudhara-radio/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "bollywood",
+      "hindu"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:15:55+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.marwar",
+    "name": "Marwar Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/104366.v5.png",
+    "stream_url": "https://stream.zeno.fm/vq6p5vxb4v8uv",
+    "website": "http://freshnews-48.com/marwar-radio/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "news",
+      "indian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:17:42+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.masti",
+    "name": "Radio Masti",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/135668.v1.png",
+    "stream_url": "https://stream.zeno.fm/88thk459f0hvv",
+    "website": "https://zeno.fm/radio/radio-mastipvyea459f0hvv/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "rock",
+      "pop",
+      "jazz",
+      "classic",
+      "hip-hop",
+      "country",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:20:37+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.mastmarathi",
+    "name": "Radio Mast Marathi",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/125923.v6.png",
+    "stream_url": "https://stream.zeno.fm/8fqvoovoiwtuv",
+    "website": "http://radiodeewane.ezyro.com/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "indian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:20:38+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.mattoli904",
+    "name": "Radio Mattoli 90.4",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/88769.v9.png",
+    "stream_url": "http://cast1.my-control-panel.com/proxy/radiomattoli/stream",
+    "website": "http://www.radiomattoli.com/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "news",
+      "talk",
+      "indian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:26:04+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.mazhai",
+    "name": "Mazhai மழை",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/96886.v2.png",
+    "stream_url": "https://stream.zeno.fm/yu4c9ms3h2zuv",
+    "website": "https://mdpradios.wixsite.com/mazhai",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "indian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:18:35+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.meethimirchi",
+    "name": "Meethi Mirchi Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/74904.v11.png",
+    "stream_url": "https://meethimirchihdl-lh.akamaihd.net/i/MeethiMirchiHDLive_1_1@320572/master.m3u8?hdnts=st=1632289604~exp=1632376004~acl=/*~hmac=f909ee87e3533037b63b76b8917a54a8bdda59bff2163061fa2c2e3ad7959d4c",
+    "website": "http://www.radiomirchi.com/meethi-mirchi",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "pop",
+      "soul",
+      "bollywood",
+      "indian",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:14:57+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.melody",
+    "name": "Melody Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/89801.v5.png",
+    "stream_url": "https://a1.asurahosting.com:9580/radio.mp3",
+    "website": "https://melodyradio.in/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "indian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:16:48+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.melurragam",
+    "name": "Melur Ragam FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/128204.v5.png",
+    "stream_url": "https://cast6.asurahosting.com/proxy/melurragamfm/stream",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "tamil"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:18:42+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.mixify",
+    "name": "Mixify 90&#39;s Hits",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/122285.v16.png",
+    "stream_url": "https://server.mixify.in/listen/listen/radio.mp3",
+    "website": "https://mixify.in/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "bollywood",
+      "hindu"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:17:00+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.mjoymjms",
+    "name": "Mjoy Mjms FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/89700.v4.png",
+    "stream_url": "https://stream.zeno.fm/fknner8931zuv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "talk",
+      "indian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:25:10+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.mohabbat",
+    "name": "Mohabbat Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/117210.v3.png",
+    "stream_url": "https://stream.zeno.fm/t2ekq8zsgtzuv",
+    "website": "https://www.mohabbatradio.com/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "bollywood"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:15:08+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.mohammadrafi",
+    "name": "Radio Mohammad Rafi",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/127208.v2.png",
+    "stream_url": "https://stream.zeno.fm/qefo6ldbprrtv",
+    "website": "https://radiodeewane.com/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "bollywood",
+      "90s"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:16:52+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.msviswanathan",
+    "name": "M S Viswanathan",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/131482.v1.png",
+    "stream_url": "https://stream.zeno.fm/x7wc1xgllvsvv",
+    "website": "https://www.vsvptech.com/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "tamil",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:26:00+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.mukil",
+    "name": "Mukil Fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/103832.v1.png",
+    "stream_url": "https://stream.zeno.fm/phv06yfkwzzuv",
+    "website": "https://mdpradios.wixsite.com/malarkal",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "90s",
+      "80s"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:20:33+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.mukilfm",
+    "name": "Mukil FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/3814.v9.png",
+    "stream_url": "https://stream.zeno.fm/phv06yfkwzzuv",
+    "website": "https://in4net.com/mukilfm/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "news",
+      "folk",
+      "tamil"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:23:19+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.muthnabi",
+    "name": "MuthNabi Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/130239.v3.png",
+    "stream_url": "http://cast4.my-control-panel.com/proxy/muthnabi/stream",
+    "website": "http://muthnabiradio.com/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "islamic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:26:07+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.myclubremix",
+    "name": "My Club Remix",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/110039.v1.png",
+    "stream_url": "https://stream.zeno.fm/u7eee0hyzp8uv",
+    "website": "https://www.apkfiles.com/apk-610062/my-radio-dj",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "dance",
+      "disco",
+      "bollywood",
+      "90s",
+      "hindu"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:15:08+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.mydj",
+    "name": "My Radio Dj",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/101251.v6.png",
+    "stream_url": "https://stream.zeno.fm/84h97t3ewg0uv",
+    "website": "http://zeno.fm/myradiodj",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "pop",
+      "club",
+      "bollywood",
+      "90s",
+      "indian",
+      "hindu"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:16:56+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.nagapattinamnanbargal",
+    "name": "Nagapattinam Nanbargal",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/87948.v3.png",
+    "stream_url": "https://stream.zeno.fm/xyw4mnd8ntzuv",
+    "website": "https://zeno.fm/radio/nagapattinam-nanbargal/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "tamil"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:18:36+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.namkin",
+    "name": "Radio Namkin",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/91838.v4.png",
+    "stream_url": "https://stream.zeno.fm/84h7fsbaqv5tv",
+    "website": "https://zeno.fm/radio-namkeen/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "bollywood"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:15:07+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.namm",
+    "name": "Namm Radio India",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/91811.v8.png",
+    "stream_url": "https://stream.zeno.fm/s2u1ypfnt1duv",
+    "website": "http://nammradio.com/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "indian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:21:29+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.narshingbari",
+    "name": "Narshingbari Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/133512.v2.png",
+    "stream_url": "https://stream.zeno.fm/9ur46pyc7ehvv",
+    "website": "https://narshingbariradio.pages.dev/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "bollywood",
+      "indian",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:26:03+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.nathamcity",
+    "name": "Natham city fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/139466.v1.png",
+    "stream_url": "https://centova57.instainternet.com/proxy/nathamcityfm?mp=/stream",
+    "website": "https://mahamedia.co.in/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "tamil"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:24:08+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.ndtv",
+    "name": "NDTV 24X7 Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/11244.v8.png",
+    "stream_url": "https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8",
+    "website": "https://www.ndtv.com/video/live/channel/ndtv24x7",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:14:59+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.neeswaram",
+    "name": "Nee Swaram",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/88351.v8.png",
+    "stream_url": "http://85.25.185.202:8035/stream",
+    "website": "https://www.neeswaram.com/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:24:10+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.nev",
+    "name": "RadioNev",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/139312.v1.png",
+    "stream_url": "https://a7.asurahosting.com:8140/radio.mp3",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "pop",
+      "90s",
+      "hindu",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:24:08+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.newsbez",
+    "name": "College Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/129800.v11.png",
+    "stream_url": "https://stream.zeno.fm/ahe3biri07ktv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "news",
+      "bollywood",
+      "education"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:22:21+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.njanmalayali",
+    "name": "Radio NM Mix HD",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/73926.v20.png",
+    "stream_url": "https://stream.zeno.fm/v6yf8nyrwk8uv",
+    "website": "http://www.mediamixindia.in/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "pop",
+      "news",
+      "classic",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:25:18+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.nomad",
+    "name": "Radio Nomad",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/105101.v2.png",
+    "stream_url": "https://radio.audiounites.org/listen/en/radio.mp3",
+    "website": "https://radionomad.net/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "talk",
+      "indie"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:25:05+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.np24",
+    "name": "NP 24 Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/105569.v1.png",
+    "stream_url": "https://stream.zeno.fm/8wk1s0pt008uv",
+    "website": "https://newsposts24.com/listen-np-24-radio-online",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "bollywood",
+      "hindu"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:16:53+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.oldmonk",
+    "name": "Old Monk Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/105064.v2.png",
+    "stream_url": "https://stream.zeno.fm/pr0zc64zdy8uv",
+    "website": "https://zeno.fm/old-mong-radio/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "bollywood",
+      "hindu"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:15:54+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.omkarradio",
+    "name": "SHABDA MATHARAM",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/117605.v6.png",
+    "stream_url": "http://162.244.80.106:11385/stream",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "tamil",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:21:28+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.onattukara",
+    "name": "Radio Onattukara",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/71597.v10.png",
+    "stream_url": "https://stream.zeno.fm/fu94u25kqd0uv",
+    "website": "http://www.radioonattukara.com/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "pop",
+      "folk",
+      "indian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:25:06+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.oneway",
+    "name": "One Way FM Telugu",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/149840.v3.png",
+    "stream_url": "https://listen.radioking.com/radio/746302/stream/812908",
+    "website": "https://onewayfm.com/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:26:02+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.paadunilavae",
+    "name": "Paadu Nilavae",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/95856.v5.png",
+    "stream_url": "https://stream.zeno.fm/8hrzqn65pa0uv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:17:45+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.paasam",
+    "name": "paasamfm",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/107291.v1.png",
+    "stream_url": "https://stream.zeno.fm/w8spm96nc18uv",
+    "website": "http://paasamfm.in/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:18:44+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.palakkad",
+    "name": "Radio Palakkad",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/90079.v1.png",
+    "stream_url": "https://stream.zeno.fm/ddt8y2uhb2zuv",
+    "website": "https://radiopalakkad.blogspot.com/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "talk",
+      "tamil"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:20:29+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.paramankurichitamil",
+    "name": "Radio Paramankurichi Tamil Online",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/90498.v4.png",
+    "stream_url": "https://vpmurugun.radioca.st/autodj",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "tamil"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:16:54+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.periyavavanoli",
+    "name": "Periyava Vanoli",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/97214.v1.png",
+    "stream_url": "https://stream.zeno.fm/ark0f47urg0uv",
+    "website": "https://www.ganesasarma.com/periyavavanoli.html",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "talk",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:21:24+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.pothigai",
+    "name": "Pothigai FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/143152.v2.png",
+    "stream_url": "http://136.243.44.41:8131/;",
+    "website": "https://www.pothigaifm.com/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:25:14+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.prabhat",
+    "name": "Radio Prabhat",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/129437.v3.png",
+    "stream_url": "https://stream.zeno.fm/2u5wz5p37vzuv",
+    "website": "https://radioprabhat.com/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "news",
+      "culture"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:23:22+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.prabhkaka",
+    "name": "Prabhkaka Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/103819.v2.png",
+    "stream_url": "https://stream.zeno.fm/2uh6hkmzdzzuv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "indian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:21:28+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.psalmsradio",
+    "name": "Psalms Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/3914.v7.png",
+    "stream_url": "https://s2.citrus3.com:8046/stream",
+    "website": "http://www.psalmsradio.com/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:16:49+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.pudugaicity",
+    "name": "Pudugai city fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/139467.v5.png",
+    "stream_url": "https://server1.mahamediacast.com/proxy/pudhugaicityfm/stream",
+    "website": "https://mahamedia.co.in/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "tamil"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:26:00+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.punjabimehak",
+    "name": "Bollywood Gold Revivals",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/65472.v9.png",
+    "stream_url": "https://stream.zenolive.com/0xsvm1nr7a5tv",
+    "website": "https://zeno.fm/BollywoodGoldRevivals/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "christian",
+      "punjabi"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:15:09+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.punjabrocks",
+    "name": "Punjab Rocks Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/83131.v3.png",
+    "stream_url": "http://radio.punjabrocks.com:9988/punjab",
+    "website": "http://www.punjabrocks.com/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "rock",
+      "indian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:16:09+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.radio24",
+    "name": "Radio24",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/118967.v3.png",
+    "stream_url": "https://s7.everestcast.com:1155/stream",
+    "website": "https://radio24.in/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "bollywood",
+      "hindu"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:21:25+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.radioafsana",
+    "name": "Radio Afsana",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/4383.v6.png",
+    "stream_url": "http://us9.streamingpulse.com:7058/;",
+    "website": "http://radioafsana.com/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "bollywood",
+      "indian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:15:56+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.radiobadal",
+    "name": "Radio Badal",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/139627.v7.png",
+    "stream_url": "https://listen.openstream.co/6654/;stream.mp3/audio",
+    "website": "https://dnforeverme.wixsite.com/radio-badal",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "hindu"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:16:06+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.radiobollyfm",
+    "name": "radioBollyFM",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/4320.v9.png",
+    "stream_url": "http://stream.radiobollyfm.in:8201/;",
+    "website": "http://www.radiobollyfm.in/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "bollywood",
+      "indian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:15:04+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.radiocity",
+    "name": "Radio City 91.1 FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/3906.v10.png",
+    "stream_url": "https://prclive1.listenon.in/",
+    "website": "https://www.radiocity.in/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "pop",
+      "news",
+      "bollywood"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:14:57+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.radiogirmit",
+    "name": "Radio Girmit",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/3909.v6.png",
+    "stream_url": "https://stream.radiojar.com/g6dgm6m6p3hvv",
+    "website": "http://radiogirmit.com/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "kannada"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:21:21+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.radioilmussalaf",
+    "name": "Radio ilmussalaf",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/4329.v3.png",
+    "stream_url": "http://equinox.shoutca.st:9023/stream?",
+    "website": "http://www.ilmussalaf.com/radio-ilmussalaf.html",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "talk",
+      "islamic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:22:27+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.radiojn",
+    "name": "Radio JN",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/113575.v1.png",
+    "stream_url": "http://servidor14.brlogic.com:7324/live",
+    "website": "http://jnfmtamil.webradiosite.com/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:26:09+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.radiomadhuban",
+    "name": "Radio Madhuban",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/3932.v3.png",
+    "stream_url": "https://icecast.bkwsu.eu/radiomadhuban.mp3",
+    "website": "http://www.radiomadhuban.in/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "talk",
+      "culture"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:16:52+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.radiomariaind",
+    "name": "Radio Maria",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/4271.v5.png",
+    "stream_url": "https://dreamsiteradiocp2.com/proxy/rmindia1?mp=/stream",
+    "website": "http://www.radiomaria.org.in/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "christian",
+      "malayalam"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:19:33+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.radiome",
+    "name": "Radio me Malayalam",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/89239.v18.png",
+    "stream_url": "https://freestream.hu:8340/radiome",
+    "website": "https://radiomelive.blogspot.com/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "tamil",
+      "hindu"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:19:39+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.radionoida",
+    "name": "Radio Noida",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/4484.v7.png",
+    "stream_url": "https://stream.zeno.fm/xbz9wlgsygyuv",
+    "website": "http://radionoida.fm/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "rock",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:17:44+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.radiosharda",
+    "name": "Radio Sharda - FM 90.4",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/3913.v2.png",
+    "stream_url": "http://s8.voscast.com:7738/;",
+    "website": "http://radiosharda.com/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "news",
+      "talk",
+      "bollywood"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:17:51+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.radioudaan",
+    "name": "Radio Udaan",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/4485.v4.png",
+    "stream_url": "http://173.212.234.220/radio/8000/radio.mp3",
+    "website": "http://www.radioudaan.com/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "rock",
+      "pop",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:18:37+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.rafa",
+    "name": "RAFA Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/73651.v8.png",
+    "stream_url": "https://gains.reviveradio.net/proxy/rafaradio?mp=/stream",
+    "website": "http://rafaradio.com/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "classic",
+      "christian",
+      "gospel",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:16:51+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.raipuriya",
+    "name": "Radio Raipuriya 90.0fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/134778.v3.png",
+    "stream_url": "https://stream.zeno.fm/tjvdomsjkyzuv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "community"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:21:36+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.rajasthanibhajan",
+    "name": "Rajasthani Bhajan",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/105066.v3.png",
+    "stream_url": "https://stream.zeno.fm/4ukvgz7ydy8uv",
+    "website": "https://zeno.fm/rajasthani-bhajan/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "rock",
+      "pop",
+      "classic",
+      "bollywood",
+      "hindu"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:21:24+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.rajmoti",
+    "name": "Radio Rajmoti",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/114347.v3.png",
+    "stream_url": "https://stream.zeno.fm/6u66y8cey98uv",
+    "website": "https://zeno.fm/radio/radio-rajmoti/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "gujarati"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:25:15+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.ranbow",
+    "name": "Radio Rainbow",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/114653.v6.png",
+    "stream_url": "https://stream.zeno.fm/m3g97f8eqm0uv",
+    "website": "https://zeno.fm/radio/radiorainbow/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "bollywood"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:16:01+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.rangfm",
+    "name": "Rang FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/88899.v4.png",
+    "stream_url": "https://stream.zeno.fm/0qvzkvpgewzuv",
+    "website": "http://rangfm.com/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "hindu",
+      "punjabi"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:19:44+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.rangiloujaratr",
+    "name": "Rangilo Gujarat FM Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/4435.v2.png",
+    "stream_url": "http://s9.voscast.com:7402/;",
+    "website": "http://www.rangilogujarat.com/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "news",
+      "talk",
+      "gujarati"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:18:48+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.rb",
+    "name": "RB Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/141390.v5.png",
+    "stream_url": "https://stream.ors.balajibpa.com/live",
+    "website": "https://ors.balajibpa.com/public/rbs_fm.html",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "talk",
+      "culture",
+      "tamil"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:19:38+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.recast",
+    "name": "Recast Fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/112425.v3.png",
+    "stream_url": "https://usa8.fastcast4u.com/proxy/auralradio?mp=/1/;stream.mp3",
+    "website": "http://recastfm.website2.me/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "dance"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:24:13+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.recitetruth",
+    "name": "Recite Truth",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/140621.v9.png",
+    "stream_url": "https://stream.zeno.fm/gtmfp6gqhfyvv",
+    "website": "https://sites.google.com/view/recitetruth",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "pop",
+      "talk",
+      "education"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:23:15+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.retrobollywood",
+    "name": "Radio Retro Bollywood",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/60907.v24.png",
+    "stream_url": "https://stream.zeno.fm/g372rxef798uv",
+    "website": "https://retrobollywood.website2.me/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "bollywood",
+      "retro",
+      "indian",
+      "hindu"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:14:56+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.rjthamizha",
+    "name": "RJThamizha",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/99117.v2.png",
+    "stream_url": "https://stream.zeno.fm/xsx5b5uw8k0uv",
+    "website": "https://rjthamizha.epizy.com/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "talk",
+      "comedy",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:24:07+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.rockon",
+    "name": "Radio-Rock-On",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/106373.v1.png",
+    "stream_url": "https://stream.zeno.fm/tcr3q3qx908uv",
+    "website": "https://zeno.fm/Radio-Rock-On",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "bollywood"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:17:47+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.rockonsuratgarh",
+    "name": "Rock-On-Suratgarh",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/107636.v2.png",
+    "stream_url": "https://stream.zeno.fm/mgaqkpt7u68uv",
+    "website": "https://zeno.fm/Rock-On-Suratgarh",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "news",
+      "bollywood",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:18:38+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.sagun",
+    "name": "Radio Sagun",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/125652.v1.png",
+    "stream_url": "https://stream.zenolive.com/s2sbba66bzzuv",
+    "website": "https://radiosagun.wixsite.com/radiosagun",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:25:10+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.sakkath",
+    "name": "Sakkath Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/95701.v2.png",
+    "stream_url": "https://stream.zeno.fm/fcsk9ryerd0uv",
+    "website": "https://sakathradio.website2.me/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "bollywood",
+      "hindu"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:21:33+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.samskritimalayalam",
+    "name": "Samskriti Malayalam Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/44816.v3.png",
+    "stream_url": "http://37.59.28.208:8203/stream",
+    "website": "http://greatmaster.info/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:18:42+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.samyak",
+    "name": "Radio Samyak",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/92648.v11.png",
+    "stream_url": "https://stream.zeno.fm/e9u1adpes68uv",
+    "website": "https://zeno.fm/radio/radio-samyak/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:21:27+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.sanatan",
+    "name": "Sanatan Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/143632.v1.png",
+    "stream_url": "https://stream.zeno.fm/qbw9y613038uv",
+    "website": "https://zeno.fm/radio/sanatan-radio-bzia/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "hindu"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:26:06+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.satvikbhakti",
+    "name": "Satvik Bhakti Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/154033.v3.png",
+    "stream_url": "https://stream.zeno.fm/01gg9s8q6x8uv",
+    "website": "https://zeno.fm/radio/satvik-bhakti-radio/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "news",
+      "indian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:26:10+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.sayajifm",
+    "name": "Sayaji FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/4005.v11.png",
+    "stream_url": "https://sayajifm.radioca.st/stream",
+    "website": "https://sayajifm.com/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "news",
+      "talk",
+      "folk",
+      "indian",
+      "education",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:15:59+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.schizoidprog",
+    "name": "Radio Schizoid - PsyTrance",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/3815.v3.png",
+    "stream_url": "http://94.130.113.214:8000/schizoid",
+    "website": "http://schizoid.in/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "trance"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:15:04+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.sense",
+    "name": "Radio Sense",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/81474.v15.png",
+    "stream_url": "https://ec1.everestcast.host:3025/stream",
+    "website": "https://radiosense.in/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "talk",
+      "indie"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:21:29+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.settai",
+    "name": "Settai FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/92347.v2.png",
+    "stream_url": "https://stream.zeno.fm/b0qy1rp884zuv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "tamil"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:17:02+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.sgpcbrahmbungasahibdodra",
+    "name": "Brahm Bunga Dodra",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/41076.v8.png",
+    "stream_url": "https://s8.voscast.com:8475/stream",
+    "website": "http://brahmbungadodra.org/home",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "hindu",
+      "punjabi"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:21:22+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.sgpslivekirtan",
+    "name": "SGPC Live Kirtan Sri Harmandir Sahib",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/3843.v3.png",
+    "stream_url": "http://sgpc.net:8000/;",
+    "website": "http://sgpc.net/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "hindu",
+      "punjabi"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:16:46+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.shaivamradio",
+    "name": "Shaivam Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/3926.v4.png",
+    "stream_url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SP_R2925215_SC?dist=onlineradiobox",
+    "website": "http://www.shaivam.org/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "tamil",
+      "hindu",
+      "malayalam",
+      "kannada"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:21:34+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.shalomtamil",
+    "name": "Shalom Tamil Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/97232.v1.png",
+    "stream_url": "https://stream.zeno.fm/7swe221zw7zuv",
+    "website": "https://zeno.fm/shalom-radio-tamil/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:24:22+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.shyam",
+    "name": "ShyamFM",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/89567.v2.png",
+    "stream_url": "https://stream.zeno.fm/zug8fwdfmzzuv",
+    "website": "https://shyamfm.blogspot.com/?m=0",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "tamil"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:21:36+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.sidhumoosewala",
+    "name": "Sidhu Moose Wala Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/87665.v2.png",
+    "stream_url": "https://stream.zeno.fm/e5hahqs7twzuv",
+    "website": "https://zeno.fm/sidhu-moose-wala-radio/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "rock",
+      "pop",
+      "folk",
+      "rap",
+      "hip-hop",
+      "indian",
+      "punjabi"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:18:46+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.sikhnetradiotakhathazursahib",
+    "name": "Sikhnet Radio - Takhat Hazur Sahib",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/16887.v8.png",
+    "stream_url": "http://radio2.sikhnet.com:8038/stream",
+    "website": "http://www.sikhnet.com/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "christian",
+      "punjabi"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:16:02+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.singaiisaitamil",
+    "name": "Singai Isai Tamil FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/128206.v6.png",
+    "stream_url": "https://cast6.asurahosting.com/proxy/isaitamilfm/stream",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "tamil"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:22:20+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.sjstamil",
+    "name": "SJS Tamil Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/145589.v1.png",
+    "stream_url": "https://servidor38.brlogic.com:7034/live",
+    "website": "https://sjstamilradio.webradio.com/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:26:08+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.spicefm",
+    "name": "Spice FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/69796.v6.png",
+    "stream_url": "https://spicefm-atunwadigital.streamguys1.com/spicefm/playlist.m3u8",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "pop",
+      "indian",
+      "punjabi"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:18:49+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.spoolerpod",
+    "name": "Spooler POD",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/110948.v2.png",
+    "stream_url": "https://cast5.asurahosting.com/proxy/spooler/stream",
+    "website": "https://www.spooler.in/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:24:11+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.sportsflashes",
+    "name": "Sports Flashes",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/75021.v11.png",
+    "stream_url": "http://sirius.shoutca.st:9708/;",
+    "website": "https://sportsflashes.com/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "sports"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:20:30+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.srinagar",
+    "name": "Radio Srinagar",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/3924.v3.png",
+    "stream_url": "http://streaming01.x-6.nl:8000/;",
+    "website": "http://radio-srinagar.com/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "bollywood",
+      "indian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:15:57+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.ss",
+    "name": "SS Radio Natham",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/120022.v9.png",
+    "stream_url": "https://stream.zeno.fm/c18x0vze1d0uv",
+    "website": "https://ssradionatham.co.in/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "tamil"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:19:37+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.sstamil",
+    "name": "sstamilradio",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/102283.v2.png",
+    "stream_url": "https://sstamilradio.radioca.st/;",
+    "website": "http://sstamilradio.uk/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "dance",
+      "house",
+      "pop",
+      "bollywood"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:19:36+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.sstamilradio",
+    "name": "SS Tamil Radio Sivagangai",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/125567.v7.png",
+    "stream_url": "https://cast6.asurahosting.com/proxy/sstamilradio/stream",
+    "website": "https://sstamilradio.in/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "tamil"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:22:28+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.startamil",
+    "name": "Star Radio Tamil",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/82202.v8.png",
+    "stream_url": "https://stream.radiojar.com/7pzbvyzb7a0uv",
+    "website": "https://www.starradiotamil.com/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "tamil"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:16:47+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.sunnionlineradio",
+    "name": "Sunni Online Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/3954.v9.png",
+    "stream_url": "https://s7.voscast.com/cdn/?k=647c78d9b5d79&m=;stream1685879001952/1",
+    "website": "http://www.sunnionlineradio.com/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "islamic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:20:29+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.suvarthamaanamu",
+    "name": "Suvarthamaanamu Online Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/92415.v8.png",
+    "stream_url": "https://stream.zeno.fm/h27dx5b8u7zuv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "christian",
+      "spiritual",
+      "love songs"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:24:16+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.swachh",
+    "name": "Swachh Radio Navi Mumbai",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/88519.v4.png",
+    "stream_url": "https://stream.zeno.fm/4dycn4hmffhvv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "news",
+      "education"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:25:12+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.swaminarayanradio",
+    "name": "Swaminarayan Radio - Kirtan",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/3998.v4.png",
+    "stream_url": "http://radio.bhujmandir.org:8000/stream/1/;",
+    "website": "https://www.swaminarayan.faith/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "hindu",
+      "gujarati"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:17:46+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.swaramadhuritelugu",
+    "name": "Swara Madhuri Telugu Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/91641.v6.png",
+    "stream_url": "https://stream.zeno.fm/zman3kqfzeruv",
+    "website": "https://swaramadhuriradio.com/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "indian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:19:45+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.sweety",
+    "name": "Sweety FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/45046.v10.png",
+    "stream_url": "https://centova71.instainternet.com/proxy/sweetyfm?mp=/stream2",
+    "website": "https://www.sweetyfm.com/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "christian",
+      "tamil"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:22:22+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.taj",
+    "name": "Radio Taj",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/95027.v2.png",
+    "stream_url": "https://azuracast.vibesounds.in:8010/radio.mp3",
+    "website": "https://radiotaj.com/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "bollywood",
+      "oldies",
+      "indian",
+      "hindu"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:15:58+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.talradiotelugu",
+    "name": "TALRadio Telugu",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/113002.v9.png",
+    "stream_url": "https://www.talradio.org/telugu/",
+    "website": "https://www.talradio.org/telugu/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "talk",
+      "education"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:19:44+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.tamil",
+    "name": "தமிழ் வானொலி Tamil Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/90170.v9.png",
+    "stream_url": "https://stream.zeno.fm/fe9d39a2h8quv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "news",
+      "talk",
+      "tamil"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:18:51+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.tamilbeatz",
+    "name": "Tamil Beatz",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/129256.v4.png",
+    "stream_url": "https://stream.zeno.fm/wghr4hh9r4pvv",
+    "website": "https://sites.google.com/view/tamilbeatz",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "indian",
+      "asian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:23:15+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.tamilcatholic",
+    "name": "Tamil Catholic FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/87431.v3.png",
+    "stream_url": "https://stream.zeno.fm/pb87u5m8gwzuv",
+    "website": "https://www.kishorerocks.in/p/tamil-catholic-fm-online-radio-station.html",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "christian",
+      "gospel",
+      "tamil"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:20:29+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.tamilcomedy",
+    "name": "Tamil Comedy Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/82774.v14.png",
+    "stream_url": "https://relay2.southradios.net/listen/tamil_comedy_radio_autodj/stream",
+    "website": "https://tamilradios.net/tamil-comedy-radio",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "talk",
+      "comedy",
+      "tamil"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:17:56+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.tamilmovie",
+    "name": "Tamil Movie Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/92263.v5.png",
+    "stream_url": "https://stream.zenolive.com/upkfme8nf5zuv.aac",
+    "website": "https://tamilradios.net/tamil-movie-radio/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "talk",
+      "tamil"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:25:08+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.tamilosai",
+    "name": "Tamilosai FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/91919.v5.png",
+    "stream_url": "http://usa15.fastcast4u.com:4566/;",
+    "website": "https://www.tamilosaifm.com/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "tamil"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:17:55+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.tanalur",
+    "name": "Radio Tirur",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/73912.v8.png",
+    "stream_url": "https://sonic01.instainternet.com/8002/stream",
+    "website": "https://tanaluronline.blogspot.com/2018/08/tanalur-online-radio.html",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "rock",
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:23:18+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.tcrlive",
+    "name": "Tcrlive",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/70750.v25.png",
+    "stream_url": "https://centova71.instainternet.com/proxy/tcrliveradio?mp=/stream",
+    "website": "https://tcrliveradio.blogspot.com/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "blues"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:18:43+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.thandora",
+    "name": "Thandora FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/143614.v1.png",
+    "stream_url": "https://stream.zeno.fm/7us8bucomafvv",
+    "website": "https://thandorafm.in/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "tamil"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:24:15+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.theleader",
+    "name": "The Leader FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/83989.v5.png",
+    "stream_url": "https://stream.zeno.fm/wg4b845c2wzuv",
+    "website": "https://theleaderfm.wixsite.com/theleaderfm",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "talk",
+      "drama",
+      "culture",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:20:31+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.thendral",
+    "name": "Thendral",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/96868.v3.png",
+    "stream_url": "https://stream.zeno.fm/xzt706p3h2zuv",
+    "website": "https://mdpradios.wixsite.com/-site",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "tamil"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:16:56+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.thenisaitamilthendral",
+    "name": "Thenisai Tamil Thendral",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/150167.v1.png",
+    "stream_url": "https://stream.zeno.fm/n4lxbjvul4yvv",
+    "website": "https://zeno.fm/radio/thenisai-tamil-thendral/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:24:15+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.thennavantamil",
+    "name": "Thennavan Tamil FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/88571.v4.png",
+    "stream_url": "https://stream.zeno.fm/wb76p3mdprhvv",
+    "website": "http://allindiaradio.online/thennavan-fm/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "tamil"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:25:18+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.theophonyfm",
+    "name": "Theophony FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/4319.v6.png",
+    "stream_url": "https://cp9.serverse.com/proxy/tfm_aac7?mp=/stream",
+    "website": "http://theophonyfm.com/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "rock",
+      "pop",
+      "christian",
+      "oldies",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:25:09+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.theophonytamilchristian",
+    "name": "Theophony Tamil Christian Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/127038.v5.png",
+    "stream_url": "https://stream.zeno.fm/mc5awgyx5k8uv",
+    "website": "https://theophony.org/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:26:01+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.tranceindia",
+    "name": "Trance Radio India",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/118640.v4.png",
+    "stream_url": "https://stream.zeno.fm/cojfxwtd06otv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "trance"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:16:08+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.trichycity",
+    "name": "Trichy City Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/128205.v4.png",
+    "stream_url": "https://spserver.sscast2u.com/kollidamradio/stream",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "tamil"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:24:17+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.tuticorin",
+    "name": "Tuticorin Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/140575.v2.png",
+    "stream_url": "https://cast6.asurahosting.com/proxy/tuticorinradio/stream",
+    "website": "https://tuticorinradio.in/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "tamil"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:26:09+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.tzgospel",
+    "name": "Tzgospel (India)",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/119739.v4.png",
+    "stream_url": "https://stream.zeno.fm/180m4kca7ehvv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:26:03+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.vaatamizha",
+    "name": "Vaa Tamizha",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/100411.v8.png",
+    "stream_url": "https://s3.free-shoutcast.com/stream/18138/;stream.mp3",
+    "website": "http://www.vaatamizha.com/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:25:02+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.vadivelucomedy",
+    "name": "Vadivelu Comedy Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/80627.v12.png",
+    "stream_url": "https://apipermission.southradios.net/play/vadivelucomedyradio",
+    "website": "https://tamilradios.net/vadivelu-comedy-radio",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "talk",
+      "comedy",
+      "tamil"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:20:27+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.valaichudarvanoli",
+    "name": "Valaichudar Vanoli",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/131200.v2.png",
+    "stream_url": "https://valaichudarvanoli-prabak78.radioca.st/stream",
+    "website": "https://valaichudarvanoli.com/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "news",
+      "talk",
+      "indian",
+      "culture",
+      "tamil",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:23:21+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.vani",
+    "name": "Vani Online Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/127508.v6.png",
+    "stream_url": "https://cast6.asurahosting.com/proxy/vaniradi/stream",
+    "website": "https://www.vanionlineradio.in/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "tamil"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:17:43+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.vatakara",
+    "name": "Radio Vatakara",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/97297.v3.png",
+    "stream_url": "https://stream.zeno.fm/dtr207bhb8zuv",
+    "website": "https://radiovatakara.blogspot.com/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "indian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:19:41+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.vidhyaraagam",
+    "name": "Vidhyaraagam Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/120284.v2.png",
+    "stream_url": "https://stream.zeno.fm/0u08umvd5uhvv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:23:17+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.vidyasagarkochi",
+    "name": "Vidyasagar radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/144915.v2.png",
+    "stream_url": "https://www.liveradio.es/http://cast6.my-control-panel.com:7661/live",
+    "website": "https://keralaradios.com/kj-yesudas-radio",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "folk",
+      "oldies"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:23:24+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.vijay",
+    "name": "Vijay FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/116439.v6.png",
+    "stream_url": "https://vijayfm-prabak78.radioca.st/stream",
+    "website": "http://www.vijayfm.com/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "tamil"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:17:56+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.vismaya",
+    "name": "Vismaya Internet Radio (MAL)",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/123807.v1.png",
+    "stream_url": "https://stream.zeno.fm/euqwg5mdd8zuv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:23:12+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.vitastahumsafarzindaggika",
+    "name": "Radio Vitasta",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/94711.v27.png",
+    "stream_url": "http://62.72.31.138:8000/stream",
+    "website": "http://veyth.radiostream321.com/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "indian",
+      "hindu"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:16:54+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.vizhi",
+    "name": "Vizhi Fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/81845.v4.png",
+    "stream_url": "https://stream.zeno.fm/03za00n10qruv",
+    "website": "http://www.vizhifm.com/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "tamil"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:17:41+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.voiceoftrumpet",
+    "name": "Voice of Trumpet Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/96556.v1.png",
+    "stream_url": "https://stream.zeno.fm/pyrbm4khva0uv",
+    "website": "https://voiceoftrumpet.com/live-radio/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:23:25+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.voiceofwayanad",
+    "name": "voice of wayanad",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/147557.v4.png",
+    "stream_url": "https://stream.zeno.fm/rzkr7dtkmrhvv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "talk",
+      "christian",
+      "latin"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:24:21+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.voxa",
+    "name": "Radio Voxa",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/87906.v3.png",
+    "stream_url": "https://stream.zeno.fm/kezsc0y2wwzuv",
+    "website": "https://radiovoxa.com/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "tamil",
+      "hindu",
+      "malayalam"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:19:42+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.vsvp",
+    "name": "VSVP Tech FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/131481.v1.png",
+    "stream_url": "https://stream.zeno.fm/egprld1sdsvvv",
+    "website": "https://www.vsvptech.com/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "tamil",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:24:19+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.wisdom",
+    "name": "Wisdom Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/98107.v1.png",
+    "stream_url": "http://165.22.217.209:8000/radio.mp3",
+    "website": "http://www.newwisdomministries.com/radio.html",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:26:04+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.wow",
+    "name": "Radio Wow",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/91646.v2.png",
+    "stream_url": "https://stream.zeno.fm/d22wrdbst5quv.mp3",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "pop",
+      "indie",
+      "bollywood",
+      "alternative",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:15:11+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.yaazhisai",
+    "name": "Yaazhisai FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/101442.v1.png",
+    "stream_url": "https://stream.zeno.fm/nxb2dpmmhm8uv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:25:08+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.yopunjabi",
+    "name": "Yo! Punjabi Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/74913.v10.png",
+    "stream_url": "https://yopunjabihdlive-lh.akamaihd.net/i/YoPunjabiHDLive_1_1@345454/master.m3u8",
+    "website": "http://www.radiomirchi.com/yo-punjabi",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "pop",
+      "bhangra",
+      "indian",
+      "punjabi",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:16:55+05:30"
+  },
+  {
+    "id": "onlineradiobox_in.zion",
+    "name": "Zion Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/83865.v2.png",
+    "stream_url": "https://radio.zionmediait.com/proxy/zionradio?mp=/1",
+    "website": "http://zionradio.in/",
+    "provider": "onlineradiobox",
+    "country": "India",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:23:14+05:30"
+  }
+]

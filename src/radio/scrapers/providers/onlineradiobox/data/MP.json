@@ -1,0 +1,94 @@
+[
+  {
+    "id": "onlineradiobox_mp.antennawebsaipan",
+    "name": "Antenna Web Saipan",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/138423.v1.png",
+    "stream_url": "https://tinyurl.com/AntennaWebSaipanIMS",
+    "website": "https://antennaweb.it/antenna-web-saipan-2/",
+    "provider": "onlineradiobox",
+    "country": "Northern Mariana Islands",
+    "genres": [
+      "rock",
+      "pop",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:02:16+05:30"
+  },
+  {
+    "id": "onlineradiobox_mp.beta",
+    "name": "Station Beta",
+    "image": "https://cdn.onlineradiobox.com/img/logo/6/124866.png",
+    "stream_url": "https://stream.zeno.fm/liu4uyurnertv",
+    "website": "https://beta.co.ke/",
+    "provider": "onlineradiobox",
+    "country": "Northern Mariana Islands",
+    "genres": [
+      "pop",
+      "top40",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:02:14+05:30"
+  },
+  {
+    "id": "onlineradiobox_mp.kwaw",
+    "name": "Magic 100.3 - KWAW",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/49693.v3.png",
+    "stream_url": "https://s3.radio.co/s8f738b862/listen",
+    "website": "http://kwawfm.wix.com/kwaw",
+    "provider": "onlineradiobox",
+    "country": "Northern Mariana Islands",
+    "genres": [
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:02:14+05:30"
+  },
+  {
+    "id": "onlineradiobox_mp.kzgu",
+    "name": "Power 99 FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/42991.v9.png",
+    "stream_url": "https://streamdb7web.securenetsystems.net/v5/KPXP",
+    "website": "https://power99saipan.com/",
+    "provider": "onlineradiobox",
+    "country": "Northern Mariana Islands",
+    "genres": [
+      "rock",
+      "pop",
+      "top40",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:02:15+05:30"
+  },
+  {
+    "id": "onlineradiobox_mp.kzmi",
+    "name": "KZMI",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/95441.v7.png",
+    "stream_url": "https://streamingv2.shoutcast.com/kzmi-1039",
+    "website": "https://kzmi1039.com/",
+    "provider": "onlineradiobox",
+    "country": "Northern Mariana Islands",
+    "genres": [
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:02:15+05:30"
+  }
+]

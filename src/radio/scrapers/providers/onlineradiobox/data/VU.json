@@ -1,0 +1,59 @@
+[
+  {
+    "id": "onlineradiobox_vu.96buzzfm",
+    "name": "96 Buzz FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/9080.v15.png",
+    "stream_url": "https://streamer.dailypost.vu/live",
+    "website": "http://www.buzzfm.vu/",
+    "provider": "onlineradiobox",
+    "country": "Vanuatu",
+    "genres": [
+      "pop",
+      "news",
+      "90s"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:24:02+05:30"
+  },
+  {
+    "id": "onlineradiobox_vu.antennawebvanuatu",
+    "name": "Antenna Web Vanuatu",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/138369.v2.png",
+    "stream_url": "https://tinyurl.com/Antenna-Web-Vanuatu",
+    "website": "https://antennaweb.it/antenna-web-vanuatu/",
+    "provider": "onlineradiobox",
+    "country": "Vanuatu",
+    "genres": [
+      "rock",
+      "pop",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:24:01+05:30"
+  },
+  {
+    "id": "onlineradiobox_vu.beta",
+    "name": "Station Beta",
+    "image": "https://cdn.onlineradiobox.com/img/logo/5/124865.png",
+    "stream_url": "https://stream.zeno.fm/hyfdqxwjzy8vv",
+    "website": "https://beta.co.ke/",
+    "provider": "onlineradiobox",
+    "country": "Vanuatu",
+    "genres": [
+      "pop",
+      "top40",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:24:03+05:30"
+  }
+]

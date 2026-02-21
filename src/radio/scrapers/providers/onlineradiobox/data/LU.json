@@ -1,0 +1,977 @@
+[
+  {
+    "id": "onlineradiobox_lu.angelina",
+    "name": "Angelina",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/146246.v3.png",
+    "stream_url": "https://listen.radioking.com/radio/543839/stream/602933",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Luxembourg",
+    "genres": [
+      "electronic",
+      "house",
+      "lounge",
+      "ambient",
+      "club",
+      "dancehall"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:51:41+05:30"
+  },
+  {
+    "id": "onlineradiobox_lu.antenamais",
+    "name": "Antena Mais",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/87767.v7.png",
+    "stream_url": "https://sp0.redeaudio.com/8084/stream",
+    "website": "https://antenamais.com/",
+    "provider": "onlineradiobox",
+    "country": "Luxembourg",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:51:48+05:30"
+  },
+  {
+    "id": "onlineradiobox_lu.antennaweblussemburgo",
+    "name": "Antenna Web Lussemburgo",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/138240.v1.png",
+    "stream_url": "https://tinyurl.com/Antenna-Web-Lussemburgo",
+    "website": "https://antennaweb.it/antenna-web-lussemburgo/",
+    "provider": "onlineradiobox",
+    "country": "Luxembourg",
+    "genres": [
+      "rock",
+      "pop",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:51:47+05:30"
+  },
+  {
+    "id": "onlineradiobox_lu.bellevallee",
+    "name": "Radio Belle Vallée",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/69328.v9.png",
+    "stream_url": "https://stream.rbv.lu/index.html",
+    "website": "https://rbv.lu/",
+    "provider": "onlineradiobox",
+    "country": "Luxembourg",
+    "genres": [
+      "top40",
+      "retro",
+      "oldies",
+      "french"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:50:47+05:30"
+  },
+  {
+    "id": "onlineradiobox_lu.bittersweetmusiclu",
+    "name": "Bitter Sweet Music LU",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/80468.v14.png",
+    "stream_url": "http://91.121.236.34:8520/lu",
+    "website": "http://www.bittersweetmusic.ro/",
+    "provider": "onlineradiobox",
+    "country": "Luxembourg",
+    "genres": [
+      "chill-out"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:51:36+05:30"
+  },
+  {
+    "id": "onlineradiobox_lu.cents",
+    "name": "Radio Cents",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/98571.v6.png",
+    "stream_url": "http://onairradio.dyndns.org:8000/;",
+    "website": "http://www.radiocents.lu/",
+    "provider": "onlineradiobox",
+    "country": "Luxembourg",
+    "genres": [
+      "rock",
+      "pop",
+      "top40",
+      "90s",
+      "00s",
+      "80s",
+      "70s",
+      "10s",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:51:38+05:30"
+  },
+  {
+    "id": "onlineradiobox_lu.cluxembourg",
+    "name": "Radio C Luxembourg",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/106694.v5.png",
+    "stream_url": "https://frontend.streamonkey.net/radioc-live",
+    "website": "https://radioc.eu/",
+    "provider": "onlineradiobox",
+    "country": "Luxembourg",
+    "genres": [
+      "rock",
+      "alternative",
+      "alternative rock"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:50:42+05:30"
+  },
+  {
+    "id": "onlineradiobox_lu.cordosteusolhos",
+    "name": "Radio Cor Dos Teus Olhos",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/112395.v2.png",
+    "stream_url": "https://sslradio.servsonic.com/8008/stream",
+    "website": "https://cor-dos-teus-olhos.comunidades.net/",
+    "provider": "onlineradiobox",
+    "country": "Luxembourg",
+    "genres": [
+      "pop",
+      "blues",
+      "romantic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:51:43+05:30"
+  },
+  {
+    "id": "onlineradiobox_lu.countrygilsdorf",
+    "name": "Country Radio Gilsdorf",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/89033.v11.png",
+    "stream_url": "http://streaming.aoip.international:8000/cr-gilsdorf",
+    "website": "http://www.countryradio.lu/",
+    "provider": "onlineradiobox",
+    "country": "Luxembourg",
+    "genres": [
+      "country"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:50:48+05:30"
+  },
+  {
+    "id": "onlineradiobox_lu.diddeleng",
+    "name": "Radio Diddeleng",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/7559.v4.png",
+    "stream_url": "https://radiodudelange.ice.infomaniak.ch/radiodudelange-128.mp3",
+    "website": "http://www.dudelangefm.lu/",
+    "provider": "onlineradiobox",
+    "country": "Luxembourg",
+    "genres": [
+      "dance",
+      "house",
+      "pop",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:51:37+05:30"
+  },
+  {
+    "id": "onlineradiobox_lu.dimensionbrasiliennetzwerklive",
+    "name": "dimension brasilien netzwerk live",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/131063.v2.png",
+    "stream_url": "https://stream2.svrdedicado.org/8182/stream",
+    "website": "https://dimensionbrasiliennetzwerklive.online/",
+    "provider": "onlineradiobox",
+    "country": "Luxembourg",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:52:02+05:30"
+  },
+  {
+    "id": "onlineradiobox_lu.eldoradio",
+    "name": "Eldoradio",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/7557.v8.png",
+    "stream_url": "https://stream.eldo.lu/data/live/radio/eldo/playlist.m3u8",
+    "website": "http://radio.eldo.lu/",
+    "provider": "onlineradiobox",
+    "country": "Luxembourg",
+    "genres": [
+      "dance",
+      "pop",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:50:39+05:30"
+  },
+  {
+    "id": "onlineradiobox_lu.espressivo",
+    "name": "Espressivo",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/154093.v3.png",
+    "stream_url": "https://espressivo.stream.laut.fm/espressivo",
+    "website": "https://laut.fm/espressivo",
+    "provider": "onlineradiobox",
+    "country": "Luxembourg",
+    "genres": [
+      "jazz",
+      "classic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:50:49+05:30"
+  },
+  {
+    "id": "onlineradiobox_lu.fcecontinuo",
+    "name": "FCE Continuo",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/124974.v2.png",
+    "stream_url": "https://listen.radioking.com/radio/551009/stream/610262",
+    "website": "https://fce-continuo.websiteradio.co/",
+    "provider": "onlineradiobox",
+    "country": "Luxembourg",
+    "genres": [
+      "blues",
+      "jazz",
+      "classic",
+      "instrumental"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:50:43+05:30"
+  },
+  {
+    "id": "onlineradiobox_lu.frl",
+    "name": "Free Radio Luxembourg",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/60502.v8.png",
+    "stream_url": "https://listen.radioking.com/radio/66160/stream/137599",
+    "website": "https://www.frl.lu/",
+    "provider": "onlineradiobox",
+    "country": "Luxembourg",
+    "genres": [
+      "pop",
+      "90s",
+      "80s",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:50:36+05:30"
+  },
+  {
+    "id": "onlineradiobox_lu.generationdance",
+    "name": "Generation Dance",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/105980.v6.png",
+    "stream_url": "https://radio.gen.dance/radio/8030/hd",
+    "website": "https://generation.dance/",
+    "provider": "onlineradiobox",
+    "country": "Luxembourg",
+    "genres": [
+      "dance",
+      "trance",
+      "house"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:50:38+05:30"
+  },
+  {
+    "id": "onlineradiobox_lu.guttlaun",
+    "name": "Radio Gutt Laun",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/7563.v6.png",
+    "stream_url": "https://streams.radio.co/sa631ff66a/listen",
+    "website": "http://www.rgl.lu/",
+    "provider": "onlineradiobox",
+    "country": "Luxembourg",
+    "genres": [
+      "rock",
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:51:41+05:30"
+  },
+  {
+    "id": "onlineradiobox_lu.hero",
+    "name": "Hero Radio (Luxembourg)",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/147009.v1.png",
+    "stream_url": "https://a2.asurahosting.com:6790/luxembourg.mp3",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Luxembourg",
+    "genres": [
+      "news",
+      "gospel",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:51:47+05:30"
+  },
+  {
+    "id": "onlineradiobox_lu.hits1",
+    "name": "Hits 1 LUX",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/151878.v4.png",
+    "stream_url": "https://stream.hd1.hits1radio.com/?lux",
+    "website": "https://www.hits1radio.com/",
+    "provider": "onlineradiobox",
+    "country": "Luxembourg",
+    "genres": [
+      "dance",
+      "electronic",
+      "pop",
+      "club",
+      "top40",
+      "latin",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:51:44+05:30"
+  },
+  {
+    "id": "onlineradiobox_lu.infinitymersch",
+    "name": "Infinity Mersch",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/145031.v2.png",
+    "stream_url": "https://listen.radioking.com/radio/700430/stream/765575",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Luxembourg",
+    "genres": [
+      "electronic",
+      "house",
+      "rap",
+      "hip-hop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:51:47+05:30"
+  },
+  {
+    "id": "onlineradiobox_lu.jeansgeneration",
+    "name": "Radio Jeansgeneration",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/91588.v2.png",
+    "stream_url": "https://listen.radioking.com/radio/301645/stream/348328",
+    "website": "http://www.rjl.lu/",
+    "provider": "onlineradiobox",
+    "country": "Luxembourg",
+    "genres": [
+      "90s",
+      "80s",
+      "70s"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:50:47+05:30"
+  },
+  {
+    "id": "onlineradiobox_lu.larochete",
+    "name": "Rádio Larochete",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/90567.v4.png",
+    "stream_url": "https://stream.zeno.fm/b584n833wwzuv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Luxembourg",
+    "genres": [
+      "rock",
+      "pop",
+      "latin"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:51:42+05:30"
+  },
+  {
+    "id": "onlineradiobox_lu.lessentiel",
+    "name": "L&#39;Essentiel Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/119762.v4.png",
+    "stream_url": "https://lessentielradio.ice.infomaniak.ch/lessentielradio-128.mp3",
+    "website": "https://www.lessentielradio.lu/",
+    "provider": "onlineradiobox",
+    "country": "Luxembourg",
+    "genres": [
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:50:41+05:30"
+  },
+  {
+    "id": "onlineradiobox_lu.lusa",
+    "name": "Radio Lusa",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/143794.v2.png",
+    "stream_url": "https://sp0.redeaudio.com/8232/stream",
+    "website": "https://salaoficialradiolusa.blogspot.com/",
+    "provider": "onlineradiobox",
+    "country": "Luxembourg",
+    "genres": [
+      "portuguese"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:51:37+05:30"
+  },
+  {
+    "id": "onlineradiobox_lu.lux",
+    "name": "Radio Lux",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/59619.v5.png",
+    "stream_url": "https://lux.stream.laut.fm/lux?",
+    "website": "http://laut.fm/lux",
+    "provider": "onlineradiobox",
+    "country": "Luxembourg",
+    "genres": [
+      "dance",
+      "electronic",
+      "pop",
+      "top40",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:50:45+05:30"
+  },
+  {
+    "id": "onlineradiobox_lu.luxembourg523",
+    "name": "Radio Luxembourg 523",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/144211.v3.png",
+    "stream_url": "https://nrf1.newradio.it:10334/stream",
+    "website": "https://www.radioluxembourg.club/",
+    "provider": "onlineradiobox",
+    "country": "Luxembourg",
+    "genres": [
+      "r'n'b",
+      "disco",
+      "soul",
+      "funk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:51:43+05:30"
+  },
+  {
+    "id": "onlineradiobox_lu.luxembourgglobal",
+    "name": "Luxembourg Global Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/150662.v1.png",
+    "stream_url": "https://radio.globalradio.lu:8000/radio.mp3",
+    "website": "https://globalradio.lu/",
+    "provider": "onlineradiobox",
+    "country": "Luxembourg",
+    "genres": [
+      "pop",
+      "easy listening",
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:51:39+05:30"
+  },
+  {
+    "id": "onlineradiobox_lu.luxembourgmemories",
+    "name": "Radio 2-0-8",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/90454.v5.png",
+    "stream_url": "https://stream.zeno.fm/3384cgvyk2zuv",
+    "website": "https://zeno.fm/radio/Radio208/",
+    "provider": "onlineradiobox",
+    "country": "Luxembourg",
+    "genres": [
+      "pop",
+      "80s",
+      "70s",
+      "oldies"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:50:39+05:30"
+  },
+  {
+    "id": "onlineradiobox_lu.mcj",
+    "name": "Radio MCJ",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/90343.v6.png",
+    "stream_url": "http://207.180.239.211:9300/;",
+    "website": "http://www.radiomcj.com/",
+    "provider": "onlineradiobox",
+    "country": "Luxembourg",
+    "genres": [
+      "pop",
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:51:46+05:30"
+  },
+  {
+    "id": "onlineradiobox_lu.mess",
+    "name": "Radio Mess",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/144468.v4.png",
+    "stream_url": "https://listen.radioking.com/radio/25747/stream/58471",
+    "website": "https://radiomess.lu/",
+    "provider": "onlineradiobox",
+    "country": "Luxembourg",
+    "genres": [
+      "pop",
+      "90s",
+      "80s",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:50:45+05:30"
+  },
+  {
+    "id": "onlineradiobox_lu.nihaody",
+    "name": "Ni Haody",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/59969.v4.png",
+    "stream_url": "https://stream.laut.fm/ni_haody",
+    "website": "http://laut.fm/ni_haody",
+    "provider": "onlineradiobox",
+    "country": "Luxembourg",
+    "genres": [
+      "rock",
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:50:46+05:30"
+  },
+  {
+    "id": "onlineradiobox_lu.panachee",
+    "name": "Panachee",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/55656.v7.png",
+    "stream_url": "https://stream.laut.fm/panachee",
+    "website": "http://laut.fm/panachee",
+    "provider": "onlineradiobox",
+    "country": "Luxembourg",
+    "genres": [
+      "electronic",
+      "rock",
+      "pop",
+      "blues",
+      "lounge",
+      "jazz",
+      "talk",
+      "classic",
+      "alternative"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:50:41+05:30"
+  },
+  {
+    "id": "onlineradiobox_lu.petangeonair",
+    "name": "Pétange On Air",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/91803.v5.png",
+    "stream_url": "http://stream.peitengonair.lu:9000/live",
+    "website": "http://www.peitengonair.lu/",
+    "provider": "onlineradiobox",
+    "country": "Luxembourg",
+    "genres": [
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:51:44+05:30"
+  },
+  {
+    "id": "onlineradiobox_lu.portugalpelomundo",
+    "name": "RadioPortugalPeloMundo",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/99248.v3.png",
+    "stream_url": "https://streamssl.hospedandosites.com.br/sc_rmp.php/;",
+    "website": "https://xat.com/RadioPortugalPeloMundo",
+    "provider": "onlineradiobox",
+    "country": "Luxembourg",
+    "genres": [
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:51:46+05:30"
+  },
+  {
+    "id": "onlineradiobox_lu.progressive",
+    "name": "Progressive FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/112375.v4.png",
+    "stream_url": "https://stream.zeno.fm/6vu8pug96ehvv",
+    "website": "https://www.progressivefm.com.br/",
+    "provider": "onlineradiobox",
+    "country": "Luxembourg",
+    "genres": [
+      "trance",
+      "progressive trance"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:50:40+05:30"
+  },
+  {
+    "id": "onlineradiobox_lu.puls",
+    "name": "RadioPuls",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/66956.v5.png",
+    "stream_url": "https://cmr-hosting.com/8312/stream",
+    "website": "http://radiopuls.lu/",
+    "provider": "onlineradiobox",
+    "country": "Luxembourg",
+    "genres": [
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:51:36+05:30"
+  },
+  {
+    "id": "onlineradiobox_lu.radio1007",
+    "name": "Radio 100.7 FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/7556.v5.png",
+    "stream_url": "https://100komma7.cast.addradio.de/100komma7/live/mp3/128/stream.mp3",
+    "website": "https://www.100komma7.lu/",
+    "provider": "onlineradiobox",
+    "country": "Luxembourg",
+    "genres": [
+      "news",
+      "talk",
+      "classic",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:50:46+05:30"
+  },
+  {
+    "id": "onlineradiobox_lu.radioaktiv",
+    "name": "Radio Aktiv",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/7568.v5.png",
+    "stream_url": "http://zeus.lrb.lu:8000/stream",
+    "website": "http://www.radioaktiv.lu/",
+    "provider": "onlineradiobox",
+    "country": "Luxembourg",
+    "genres": [
+      "rock",
+      "pop",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:51:46+05:30"
+  },
+  {
+    "id": "onlineradiobox_lu.radioara",
+    "name": "Radio Ara",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/7555.v7.png",
+    "stream_url": "http://s1.voscast.com:11186/RadioARA.mp3",
+    "website": "http://www.ara.lu/",
+    "provider": "onlineradiobox",
+    "country": "Luxembourg",
+    "genres": [
+      "pop",
+      "news",
+      "talk",
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:50:44+05:30"
+  },
+  {
+    "id": "onlineradiobox_lu.radioclassique",
+    "name": "Radio Classique",
+    "image": "https://cdn.onlineradiobox.com/img/logo/2/7562.png",
+    "stream_url": "https://radioclassique.ice.infomaniak.ch/radioclassique-low.mp3",
+    "website": "http://jung4.magix.net/public/",
+    "provider": "onlineradiobox",
+    "country": "Luxembourg",
+    "genres": [
+      "classic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:50:44+05:30"
+  },
+  {
+    "id": "onlineradiobox_lu.radiolatina",
+    "name": "Radio Latina",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/7546.v9.png",
+    "stream_url": "https://stream.rcs.revma.com/8b6yqgx1w68uv",
+    "website": "http://www.radiolatina.lu/",
+    "provider": "onlineradiobox",
+    "country": "Luxembourg",
+    "genres": [
+      "pop",
+      "latin",
+      "salsa"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:50:37+05:30"
+  },
+  {
+    "id": "onlineradiobox_lu.radiolrb",
+    "name": "Radio LRB",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/7560.v5.png",
+    "stream_url": "http://zeus.lrb.lu:8000/lrb.live",
+    "website": "http://www.lrb.lu/",
+    "provider": "onlineradiobox",
+    "country": "Luxembourg",
+    "genres": [
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:51:40+05:30"
+  },
+  {
+    "id": "onlineradiobox_lu.radioportugalpelomundo",
+    "name": "RadioPortugalPeloMundo",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/113687.v8.png",
+    "stream_url": "http://s2.stmxp.net:7252/;",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Luxembourg",
+    "genres": [
+      "pop",
+      "sertaneja"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:50:49+05:30"
+  },
+  {
+    "id": "onlineradiobox_lu.radiosympa",
+    "name": "Radio Sympa",
+    "image": "https://cdn.onlineradiobox.com/img/logo/6/7566.png",
+    "stream_url": "http://www.radiocampusparis.org:8000/stream_rcp",
+    "website": "http://radiosympa.blogspot.in/",
+    "provider": "onlineradiobox",
+    "country": "Luxembourg",
+    "genres": [
+      "pop",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:51:42+05:30"
+  },
+  {
+    "id": "onlineradiobox_lu.reddrock",
+    "name": "Reddrockradio",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/85696.v3.png",
+    "stream_url": "https://stream.laut.fm/reddrock",
+    "website": "https://laut.fm/reddrock",
+    "provider": "onlineradiobox",
+    "country": "Luxembourg",
+    "genres": [
+      "rock",
+      "heavy metal",
+      "classic rock",
+      "blues"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:50:43+05:30"
+  },
+  {
+    "id": "onlineradiobox_lu.retrosonicfm",
+    "name": "RetroSonic Mix",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/75972.v20.png",
+    "stream_url": "https://retrosonic.online:8020/mix.mp3",
+    "website": "https://rsra.net/public/retrosonicmix",
+    "provider": "onlineradiobox",
+    "country": "Luxembourg",
+    "genres": [
+      "rock",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:50:46+05:30"
+  },
+  {
+    "id": "onlineradiobox_lu.retrosonichits",
+    "name": "RetroSonic 100% Pure 80s",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/118578.v8.png",
+    "stream_url": "https://retrosonic.online:8000/hits.ogg",
+    "website": "https://rsra.net/public/retrosonicHits",
+    "provider": "onlineradiobox",
+    "country": "Luxembourg",
+    "genres": [
+      "rock",
+      "disco",
+      "pop",
+      "80s",
+      "funk",
+      "punk",
+      "reggae",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:50:48+05:30"
+  },
+  {
+    "id": "onlineradiobox_lu.rmg",
+    "name": "Ràdio Rmg",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/82312.v6.png",
+    "stream_url": "https://mixlr.com/r%C3%A1dio-rmg-loc/",
+    "website": "http://mixlr.com/r%C3%A1dio-rmg-loc/",
+    "provider": "onlineradiobox",
+    "country": "Luxembourg",
+    "genres": [
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:51:45+05:30"
+  },
+  {
+    "id": "onlineradiobox_lu.rom1065",
+    "name": "ROM 106.5 FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/7552.v3.png",
+    "stream_url": "http://rs1.radiostreamer.com:8270/;",
+    "website": "http://www.rom.lu/",
+    "provider": "onlineradiobox",
+    "country": "Luxembourg",
+    "genres": [
+      "dance",
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:51:40+05:30"
+  },
+  {
+    "id": "onlineradiobox_lu.rosengarten",
+    "name": "Radio Rosengarten",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/121322.v3.png",
+    "stream_url": "http://frontend.streamonkey.net/radiorosengarten-live",
+    "website": "https://radiorosengarten.eu/.webradio/",
+    "provider": "onlineradiobox",
+    "country": "Luxembourg",
+    "genres": [
+      "dance",
+      "disco",
+      "pop",
+      "hip-hop",
+      "funk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:51:45+05:30"
+  },
+  {
+    "id": "onlineradiobox_lu.rtlluxembourg",
+    "name": "RTL Luxembourg",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/7551.v2.png",
+    "stream_url": "http://81.92.238.32/;",
+    "website": "http://www.rtl.lu/",
+    "provider": "onlineradiobox",
+    "country": "Luxembourg",
+    "genres": [
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:50:42+05:30"
+  }
+]

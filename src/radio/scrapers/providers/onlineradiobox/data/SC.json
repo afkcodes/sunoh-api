@@ -1,0 +1,228 @@
+[
+  {
+    "id": "onlineradiobox_sc.antennawebvictoria",
+    "name": "Antenna Web Victoria",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/134843.v1.png",
+    "stream_url": "https://tinyurl.com/AntennaWebVictoria",
+    "website": "https://antennaweb.it/antennaweb-victoria/",
+    "provider": "onlineradiobox",
+    "country": "Seychelles",
+    "genres": [
+      "rock",
+      "pop",
+      "blues",
+      "jazz",
+      "funk",
+      "reggaeton"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:37:45+05:30"
+  },
+  {
+    "id": "onlineradiobox_sc.bittersweetmusicsc",
+    "name": "Bitter Sweet Music SC",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/85216.v9.png",
+    "stream_url": "http://91.121.236.34:8520/sc",
+    "website": "http://www.bittersweetmusic.ro/",
+    "provider": "onlineradiobox",
+    "country": "Seychelles",
+    "genres": [
+      "pop",
+      "chill-out"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:37:45+05:30"
+  },
+  {
+    "id": "onlineradiobox_sc.hero",
+    "name": "Hero Radio (Seychelles)",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/139075.v1.png",
+    "stream_url": "https://a2.asurahosting.com:6790/seychelles.mp3",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Seychelles",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:37:47+05:30"
+  },
+  {
+    "id": "onlineradiobox_sc.homeradiogroove",
+    "name": "HOMERADIOGROOVE",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/47828.v7.png",
+    "stream_url": "http://80.211.203.79:8020/homeradiogroove",
+    "website": "http://homeradiogroove.eu/",
+    "provider": "onlineradiobox",
+    "country": "Seychelles",
+    "genres": [
+      "dance",
+      "electronic",
+      "trance",
+      "house",
+      "techno"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:37:42+05:30"
+  },
+  {
+    "id": "onlineradiobox_sc.insideseychelles",
+    "name": "Inside Seychelles",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/114743.v1.png",
+    "stream_url": "https://stream.radio.co/sb947e1883/listen",
+    "website": "https://www.insideseychelles.com/",
+    "provider": "onlineradiobox",
+    "country": "Seychelles",
+    "genres": [
+      "reggae",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:37:45+05:30"
+  },
+  {
+    "id": "onlineradiobox_sc.italoradio",
+    "name": "ItaloRadio.fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/47822.v6.png",
+    "stream_url": "http://54.36.89.71:8102/stream",
+    "website": "http://italoradio.fm/",
+    "provider": "onlineradiobox",
+    "country": "Seychelles",
+    "genres": [
+      "disco"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:37:42+05:30"
+  },
+  {
+    "id": "onlineradiobox_sc.lrcm",
+    "name": "LRCM Radio (Seychelles)",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/153107.v1.png",
+    "stream_url": "https://a8.asurahosting.com:8950/seychelles.mp3",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Seychelles",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:37:47+05:30"
+  },
+  {
+    "id": "onlineradiobox_sc.purefm",
+    "name": "PureFM",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/47817.v8.png",
+    "stream_url": "http://s3.voscast.com:10814/7931f11e1ab47f23",
+    "website": "http://www.purefm.sc/",
+    "provider": "onlineradiobox",
+    "country": "Seychelles",
+    "genres": [
+      "pop",
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:37:44+05:30"
+  },
+  {
+    "id": "onlineradiobox_sc.radio078",
+    "name": "Radio 078",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/103652.v3.png",
+    "stream_url": "https://cc6.beheerstream.com/proxy/radio078?mp=/stream",
+    "website": "https://radio078.fm/",
+    "provider": "onlineradiobox",
+    "country": "Seychelles",
+    "genres": [
+      "pop",
+      "90s",
+      "00s",
+      "80s",
+      "70s",
+      "oldies"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:37:44+05:30"
+  },
+  {
+    "id": "onlineradiobox_sc.radiosesel",
+    "name": "Radiosesel",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/47830.v2.png",
+    "stream_url": "http://176.31.123.49:8000/stream",
+    "website": "http://radiosesel.com/",
+    "provider": "onlineradiobox",
+    "country": "Seychelles",
+    "genres": [
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:37:42+05:30"
+  },
+  {
+    "id": "onlineradiobox_sc.sbcparadisefm",
+    "name": "SBC PARADISE FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/47826.v2.png",
+    "stream_url": "https://streaming.fabrik.fm/paradise-fm/echocast/audio/low/index.m3u8",
+    "website": "http://www.sbc.sc/",
+    "provider": "onlineradiobox",
+    "country": "Seychelles",
+    "genres": [
+      "pop",
+      "talk",
+      "sports",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:37:43+05:30"
+  },
+  {
+    "id": "onlineradiobox_sc.tzgospel",
+    "name": "Tzgospel swahili (Seychelles)",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/121002.v4.png",
+    "stream_url": "https://stream.zeno.fm/kf64g441nfhvv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Seychelles",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:37:46+05:30"
+  }
+]

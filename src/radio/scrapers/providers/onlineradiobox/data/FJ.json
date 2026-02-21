@@ -1,0 +1,355 @@
+[
+  {
+    "id": "onlineradiobox_fj.2dayfmfiji",
+    "name": "2day FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/34459.v5.png",
+    "stream_url": "http://peridot.streamguys.com:7150/2Day",
+    "website": "http://2dayfm.fbc.com.fj/",
+    "provider": "onlineradiobox",
+    "country": "Fiji",
+    "genres": [
+      "dance",
+      "rock",
+      "r'n'b",
+      "pop",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T19:25:02+05:30"
+  },
+  {
+    "id": "onlineradiobox_fj.andaaz",
+    "name": "Radio Andaaz Fiji",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/128492.v1.png",
+    "stream_url": "https://stream.zeno.fm/7681nkdb0rhvv",
+    "website": "https://zeno.fm/radio/radio-andaaz/",
+    "provider": "onlineradiobox",
+    "country": "Fiji",
+    "genres": [
+      "pop",
+      "news",
+      "hindu"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T19:25:05+05:30"
+  },
+  {
+    "id": "onlineradiobox_fj.antennawebsuva",
+    "name": "Antenna Web Suva",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/138422.v1.png",
+    "stream_url": "https://tinyurl.com/Antenna-Web-Suva",
+    "website": "https://antennaweb.it/antenna-web-suva/",
+    "provider": "onlineradiobox",
+    "country": "Fiji",
+    "genres": [
+      "rock",
+      "pop",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T19:25:07+05:30"
+  },
+  {
+    "id": "onlineradiobox_fj.beta",
+    "name": "Station Beta",
+    "image": "https://cdn.onlineradiobox.com/img/logo/2/124872.png",
+    "stream_url": "https://stream.zeno.fm/asjezvzeiixtv",
+    "website": "https://beta.co.ke/",
+    "provider": "onlineradiobox",
+    "country": "Fiji",
+    "genres": [
+      "pop",
+      "top40",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T19:25:06+05:30"
+  },
+  {
+    "id": "onlineradiobox_fj.bulafm",
+    "name": "Bula FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/34283.v5.png",
+    "stream_url": "http://peridot.streamguys.com:7150/Bula",
+    "website": "http://bulafm.com.fj/",
+    "provider": "onlineradiobox",
+    "country": "Fiji",
+    "genres": [
+      "dance",
+      "pop",
+      "news",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T19:24:54+05:30"
+  },
+  {
+    "id": "onlineradiobox_fj.fm96",
+    "name": "FM96",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/34779.v8.png",
+    "stream_url": "https://stream.rcs.revma.com/q8txpfyyay3vv",
+    "website": "https://www.fm96.com.fj/",
+    "provider": "onlineradiobox",
+    "country": "Fiji",
+    "genres": [
+      "r'n'b",
+      "pop",
+      "news",
+      "top40",
+      "sports"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T19:24:58+05:30"
+  },
+  {
+    "id": "onlineradiobox_fj.goldfmfiji",
+    "name": "Gold FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/34461.v2.png",
+    "stream_url": "http://peridot.streamguys.com:7150/Gold",
+    "website": "http://goldfm.fbc.com.fj/",
+    "provider": "onlineradiobox",
+    "country": "Fiji",
+    "genres": [
+      "rock",
+      "pop",
+      "90s",
+      "80s",
+      "oldies"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T19:25:00+05:30"
+  },
+  {
+    "id": "onlineradiobox_fj.legendfm",
+    "name": "Legend FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/34780.v7.png",
+    "stream_url": "https://stream.rcs.revma.com/7wnnz47a303vv",
+    "website": "https://www.legendfm.com.fj/",
+    "provider": "onlineradiobox",
+    "country": "Fiji",
+    "genres": [
+      "r'n'b",
+      "pop",
+      "news",
+      "top40",
+      "sports"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T19:25:01+05:30"
+  },
+  {
+    "id": "onlineradiobox_fj.mirchifm",
+    "name": "Mirchi FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/34460.v7.png",
+    "stream_url": "https://peridot.streamguys1.com:7155/MirchiFiji",
+    "website": "http://mirchifm.com.fj/",
+    "provider": "onlineradiobox",
+    "country": "Fiji",
+    "genres": [
+      "dance",
+      "pop",
+      "tamil"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T19:24:52+05:30"
+  },
+  {
+    "id": "onlineradiobox_fj.mixfm",
+    "name": "Mix FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/34370.v6.png",
+    "stream_url": "http://fijiradio.net:8000/live",
+    "website": "https://mix.com.fj/",
+    "provider": "onlineradiobox",
+    "country": "Fiji",
+    "genres": [
+      "pop",
+      "top40",
+      "oldies"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T19:24:59+05:30"
+  },
+  {
+    "id": "onlineradiobox_fj.navtarang",
+    "name": "Navtarang",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/34783.v7.png",
+    "stream_url": "https://stream.rcs.revma.com/5f56gd8a303vv",
+    "website": "https://navtarang.com.fj/",
+    "provider": "onlineradiobox",
+    "country": "Fiji",
+    "genres": [
+      "pop",
+      "folk",
+      "bollywood",
+      "indian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T19:24:54+05:30"
+  },
+  {
+    "id": "onlineradiobox_fj.ninenetworks",
+    "name": "Radio Nine Networks",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/126333.v2.png",
+    "stream_url": "https://stream.zeno.fm/xbdjlxmmuzzvv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Fiji",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T19:25:07+05:30"
+  },
+  {
+    "id": "onlineradiobox_fj.radiofijione",
+    "name": "Radio Fiji One",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/34271.v5.png",
+    "stream_url": "http://peridot.streamguys.com:7150/RFOne",
+    "website": "http://rf1.fbc.com.fj/",
+    "provider": "onlineradiobox",
+    "country": "Fiji",
+    "genres": [
+      "news",
+      "talk",
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T19:24:57+05:30"
+  },
+  {
+    "id": "onlineradiobox_fj.radiofijitwo",
+    "name": "Radio Fiji Two",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/34457.v7.png",
+    "stream_url": "https://peridot.streamguys1.com:7155/RFTwo",
+    "website": "https://radiofijitwo.com.fj/",
+    "provider": "onlineradiobox",
+    "country": "Fiji",
+    "genres": [
+      "news",
+      "folk",
+      "oldies",
+      "indian",
+      "tamil"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T19:24:53+05:30"
+  },
+  {
+    "id": "onlineradiobox_fj.radiosargam",
+    "name": "Radio Sargam",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/34455.v29.png",
+    "stream_url": "https://stream.rcs.revma.com/8a38ru8a303vv",
+    "website": "https://www.fijivillage.com/stream/radiosargam/",
+    "provider": "onlineradiobox",
+    "country": "Fiji",
+    "genres": [
+      "pop",
+      "news",
+      "top40",
+      "sports"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T19:24:55+05:30"
+  },
+  {
+    "id": "onlineradiobox_fj.sangeetmasti",
+    "name": "Radio Sangeet Masti",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/124779.v3.png",
+    "stream_url": "https://servidor19.brlogic.com:7304/live",
+    "website": "https://radiosangeetmasti.webradiosite.com/",
+    "provider": "onlineradiobox",
+    "country": "Fiji",
+    "genres": [
+      "indie"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T19:25:03+05:30"
+  },
+  {
+    "id": "onlineradiobox_fj.thevoxpopuliunifijicampus",
+    "name": "The Vox Populi - Unifiji Campus Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/124342.v8.png",
+    "stream_url": "https://s5.radio.co/s9ccc1e3bd/listen",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Fiji",
+    "genres": [
+      "r'n'b",
+      "pop",
+      "jazz",
+      "classic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T19:25:04+05:30"
+  },
+  {
+    "id": "onlineradiobox_fj.vitifm",
+    "name": "Viti FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/34787.v6.png",
+    "stream_url": "https://stream.rcs.revma.com/3c11kc9a303vv",
+    "website": "https://vitifm.com.fj/",
+    "provider": "onlineradiobox",
+    "country": "Fiji",
+    "genres": [
+      "pop",
+      "news",
+      "talk",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T19:24:57+05:30"
+  }
+]

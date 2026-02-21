@@ -1,0 +1,511 @@
+[
+  {
+    "id": "onlineradiobox_lc.7kings",
+    "name": "7kings Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/62218.v10.png",
+    "stream_url": "https://az13.yesstreaming.net:8100/radio.mp3",
+    "website": "https://az13.yesstreaming.net/public/7kings_radio_st.lucia",
+    "provider": "onlineradiobox",
+    "country": "Saint Lucia",
+    "genres": [
+      "christian",
+      "reggae",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:46:57+05:30"
+  },
+  {
+    "id": "onlineradiobox_lc.885soufriere",
+    "name": "88.5 Soufrière Fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/95039.v10.png",
+    "stream_url": "https://cast1.asurahosting.com/proxy/romanus/stream",
+    "website": "https://soufrierefm.com/",
+    "provider": "onlineradiobox",
+    "country": "Saint Lucia",
+    "genres": [
+      "reggae",
+      "dancehall"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:46:56+05:30"
+  },
+  {
+    "id": "onlineradiobox_lc.boomstationslu",
+    "name": "Boom Station SLU",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/100373.v25.png",
+    "stream_url": "https://cast4.asurahosting.com/proxy/boomsta2/stream",
+    "website": "https://www.boomstationslu.com/",
+    "provider": "onlineradiobox",
+    "country": "Saint Lucia",
+    "genres": [
+      "reggae",
+      "dancehall",
+      "afro beat"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:46:54+05:30"
+  },
+  {
+    "id": "onlineradiobox_lc.caribbean",
+    "name": "Caribbean Kiss FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/78711.v6.png",
+    "stream_url": "https://auds1.intacs.com/caribbeankissfm",
+    "website": "http://www.caribbeankissfm.com/",
+    "provider": "onlineradiobox",
+    "country": "Saint Lucia",
+    "genres": [
+      "r'n'b",
+      "soul"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:46:52+05:30"
+  },
+  {
+    "id": "onlineradiobox_lc.caribbeanhitz",
+    "name": "Caribbean Hitz FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/78710.v8.png",
+    "stream_url": "https://s1.voscast.com:10127/stream",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Saint Lucia",
+    "genres": [
+      "reggae"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:47:04+05:30"
+  },
+  {
+    "id": "onlineradiobox_lc.caribbeanhot",
+    "name": "Caribbean Hot FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/42555.v6.png",
+    "stream_url": "https://audiovs.intacs.com/caribbeanhotfm",
+    "website": "https://www.caribbeanhotfm.com/",
+    "provider": "onlineradiobox",
+    "country": "Saint Lucia",
+    "genres": [
+      "dance",
+      "r'n'b",
+      "pop",
+      "hip-hop",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:46:51+05:30"
+  },
+  {
+    "id": "onlineradiobox_lc.dennery",
+    "name": "Denneryfm",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/146764.v2.png",
+    "stream_url": "https://c21.radioboss.fm/stream/62",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Saint Lucia",
+    "genres": [
+      "r'n'b",
+      "talk",
+      "hip-hop",
+      "country",
+      "reggae",
+      "variety",
+      "afro beat"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:46:57+05:30"
+  },
+  {
+    "id": "onlineradiobox_lc.fireonline",
+    "name": "Fire Online Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/60615.v34.png",
+    "stream_url": "https://caribspy.com/proxy/fireonlineradio/stream",
+    "website": "https://fireonlineradio.com/",
+    "provider": "onlineradiobox",
+    "country": "Saint Lucia",
+    "genres": [],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:47:00+05:30"
+  },
+  {
+    "id": "onlineradiobox_lc.liberty",
+    "name": "LibertyFm",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/42553.v7.png",
+    "stream_url": "https://72.14.98.12/libertyfm",
+    "website": "http://www.libertyfmstlucia.com/",
+    "provider": "onlineradiobox",
+    "country": "Saint Lucia",
+    "genres": [
+      "dance",
+      "pop",
+      "top40",
+      "reggae"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:46:59+05:30"
+  },
+  {
+    "id": "onlineradiobox_lc.power979",
+    "name": "Power 97.9 FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/89677.v6.png",
+    "stream_url": "https://usa10.fastcast4u.com/power979fm",
+    "website": "https://power979fm.com/",
+    "provider": "onlineradiobox",
+    "country": "Saint Lucia",
+    "genres": [],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:46:52+05:30"
+  },
+  {
+    "id": "onlineradiobox_lc.prayzfm",
+    "name": "Prayz FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/42562.v3.png",
+    "stream_url": "http://media.carib.pro/prayz",
+    "website": "http://www.prayzfm.org/",
+    "provider": "onlineradiobox",
+    "country": "Saint Lucia",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:46:52+05:30"
+  },
+  {
+    "id": "onlineradiobox_lc.radio100live",
+    "name": "Radio 100 Live",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/42563.v3.png",
+    "stream_url": "http://media.carib.pro/radio100",
+    "website": "http://htsstlucia.org/listen-live/",
+    "provider": "onlineradiobox",
+    "country": "Saint Lucia",
+    "genres": [
+      "dance",
+      "rock",
+      "r'n'b",
+      "pop",
+      "news",
+      "talk",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:46:53+05:30"
+  },
+  {
+    "id": "onlineradiobox_lc.rci",
+    "name": "RCI",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/42565.v5.png",
+    "stream_url": "https://caribspy.com/proxy/rcistlucia/stream",
+    "website": "https://rcistlucia.com/",
+    "provider": "onlineradiobox",
+    "country": "Saint Lucia",
+    "genres": [
+      "dance",
+      "pop",
+      "news",
+      "talk",
+      "reggae"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:46:53+05:30"
+  },
+  {
+    "id": "onlineradiobox_lc.real",
+    "name": "Real FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/109272.v5.png",
+    "stream_url": "http://s7.voscast.com:8840/;",
+    "website": "https://realfm.mbcslu.com/",
+    "provider": "onlineradiobox",
+    "country": "Saint Lucia",
+    "genres": [
+      "caribbean"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:46:54+05:30"
+  },
+  {
+    "id": "onlineradiobox_lc.realstrong",
+    "name": "Real Strong Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/40757.v15.png",
+    "stream_url": "http://158.69.114.190:8028/stream",
+    "website": "http://www.realstrongradio.com/",
+    "provider": "onlineradiobox",
+    "country": "Saint Lucia",
+    "genres": [
+      "reggae"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:47:03+05:30"
+  },
+  {
+    "id": "onlineradiobox_lc.reggae",
+    "name": "ReggaeFM",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/118601.v3.png",
+    "stream_url": "http://s34.myradiostream.com:14148/;",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Saint Lucia",
+    "genres": [
+      "reggae"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:47:28+05:30"
+  },
+  {
+    "id": "onlineradiobox_lc.relaxingjazz",
+    "name": "RelaxingJazz.com - Smooth Jazz",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/114850.v10.png",
+    "stream_url": "http://stream-02-eu.relaxingjazz.com/stream/3/",
+    "website": "https://www.relaxingjazz.com/",
+    "provider": "onlineradiobox",
+    "country": "Saint Lucia",
+    "genres": [
+      "smooth jazz"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:46:55+05:30"
+  },
+  {
+    "id": "onlineradiobox_lc.revup",
+    "name": "Rev-Up Slu",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/130764.v6.png",
+    "stream_url": "https://caribspy.com/proxy/revupslu/stream",
+    "website": "https://revupslu.com/",
+    "provider": "onlineradiobox",
+    "country": "Saint Lucia",
+    "genres": [
+      "alternative",
+      "80s",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:46:55+05:30"
+  },
+  {
+    "id": "onlineradiobox_lc.rfi1021",
+    "name": "RFI 1021 FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/97650.v6.png",
+    "stream_url": "http://167.114.131.90:5908/;",
+    "website": "https://www.rfi1021fm.com/",
+    "provider": "onlineradiobox",
+    "country": "Saint Lucia",
+    "genres": [
+      "dance",
+      "reggae",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:47:02+05:30"
+  },
+  {
+    "id": "onlineradiobox_lc.rjl",
+    "name": "RJL Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/104717.v7.png",
+    "stream_url": "https://s3.radio.co/sc5bdee4a4/listen",
+    "website": "https://rjlradio.net/",
+    "provider": "onlineradiobox",
+    "country": "Saint Lucia",
+    "genres": [
+      "pop",
+      "jazz",
+      "reggae",
+      "gospel",
+      "eclectic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:47:06+05:30"
+  },
+  {
+    "id": "onlineradiobox_lc.rmcbroadcastingstlucia",
+    "name": "R M C BROADCASTING ST LUCIA",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/146272.v1.png",
+    "stream_url": "https://listen.radioking.com/radio/529084/stream/590089",
+    "website": "https://www.rmcbroadcasting.com/",
+    "provider": "onlineradiobox",
+    "country": "Saint Lucia",
+    "genres": [
+      "pop",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:47:07+05:30"
+  },
+  {
+    "id": "onlineradiobox_lc.thewave",
+    "name": "The Wave",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/42567.v6.png",
+    "stream_url": "https://streamdb3web.securenetsystems.net/v5/THEWAVE",
+    "website": "http://www.thewavestlucia.com/",
+    "provider": "onlineradiobox",
+    "country": "Saint Lucia",
+    "genres": [
+      "dance",
+      "pop",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:46:56+05:30"
+  },
+  {
+    "id": "onlineradiobox_lc.unity",
+    "name": "Unity FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/42568.v9.png",
+    "stream_url": "https://centova12.instainternet.com/proxy/unity905?mp=/stream",
+    "website": "https://unityfm905.com/",
+    "provider": "onlineradiobox",
+    "country": "Saint Lucia",
+    "genres": [
+      "r'n'b",
+      "pop",
+      "news",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:46:58+05:30"
+  },
+  {
+    "id": "onlineradiobox_lc.vincyviewhotspot",
+    "name": "Vincyview Hotspot Fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/97776.v13.png",
+    "stream_url": "https://stream.zeno.fm/g0tnnz9te0quv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Saint Lucia",
+    "genres": [
+      "dance",
+      "r'n'b",
+      "hip-hop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:46:59+05:30"
+  },
+  {
+    "id": "onlineradiobox_lc.vyberadio",
+    "name": "Vybe Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/42569.v8.png",
+    "stream_url": "http://us2.internet-radio.com:8103/live",
+    "website": "http://www.vyberadio.com/",
+    "provider": "onlineradiobox",
+    "country": "Saint Lucia",
+    "genres": [
+      "dance",
+      "r'n'b",
+      "pop",
+      "news"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:46:58+05:30"
+  },
+  {
+    "id": "onlineradiobox_lc.xclusive",
+    "name": "Xclusive FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/143323.v1.png",
+    "stream_url": "http://198.27.68.65:8063/stream",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Saint Lucia",
+    "genres": [
+      "dance",
+      "r'n'b",
+      "country",
+      "reggae",
+      "reggaeton"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:47:28+05:30"
+  },
+  {
+    "id": "onlineradiobox_lc.zealous",
+    "name": "Zealous Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/110116.v1.png",
+    "stream_url": "https://stream.zeno.fm/29sctg26gc9uv",
+    "website": "https://zeno.fm/radio/zealousradio/",
+    "provider": "onlineradiobox",
+    "country": "Saint Lucia",
+    "genres": [
+      "gospel",
+      "christian contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:47:01+05:30"
+  }
+]

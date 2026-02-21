@@ -1,0 +1,4949 @@
+[
+  {
+    "id": "onlineradiobox_sv.1007stereo",
+    "name": "100.7 Stereo",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/106063.v4.png",
+    "stream_url": "https://stream20.usastreams.com/8138/stream",
+    "website": "https://rocknpopsv.com/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "rock",
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:57:29+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.102nueve",
+    "name": "Radio 102 Nueve",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/37300.v15.png",
+    "stream_url": "https://streaming.rcs.com.sv/proxy/astral/stream",
+    "website": "https://radiocorporacionelsalvador.com/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "pop",
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:50:11+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.102unoradio",
+    "name": "Vive FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/37653.v11.png",
+    "stream_url": "https://radio02.com:7082/stream",
+    "website": "http://www.vivefm.net/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "news",
+      "talk",
+      "adult contemporary",
+      "politics"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:48:58+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.1069",
+    "name": "106.9 FM Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/108949.v6.png",
+    "stream_url": "https://media.dominiocreativo.com:8049/stream",
+    "website": "http://1069fmradio.net/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "news",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:49:55+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.31diez",
+    "name": "Radio31diez",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/135575.v5.png",
+    "stream_url": "https://stream.zeno.fm/56mmeth0hd0uv",
+    "website": "https://zeno.fm/radio/radio31diez",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "indie",
+      "alternative"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:56:30+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.321sv",
+    "name": "Three Two One Radio retro",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/79818.v9.png",
+    "stream_url": "http://centova.hostingelectrica.net:8019/autodj",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "90s",
+      "80s",
+      "70s"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:58:18+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.503",
+    "name": "503Radiozone",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/77189.v5.png",
+    "stream_url": "https://radio.server14.kariha.net/8130/stream",
+    "website": "http://www.503radiozone.com/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "rock",
+      "pop",
+      "spanish",
+      "latin",
+      "salsa",
+      "cumbia",
+      "bachata"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:52:55+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.activosv",
+    "name": "RadioActivo El Salvador",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/99044.v12.png",
+    "stream_url": "https://azuracast.aguilarsoluciones.com/listen/radioactivosv/stream",
+    "website": "https://www.gruporadioactivo.com/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "rock",
+      "pop",
+      "alternative",
+      "balada"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:54:55+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.agape",
+    "name": "Agape Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/37310.v6.png",
+    "stream_url": "https://shaincast.caster.fm:17524/listen.mp3?authna44a159be3fad70b5ac0c5dab345f18f",
+    "website": "http://www.agaperadio.com.sv/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "pop",
+      "news",
+      "talk",
+      "sports"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:54:56+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.almodelodejesus",
+    "name": "Al Modelo de Jesús Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/82561.v7.png",
+    "stream_url": "https://stream.zenolive.com/ud5x5v3ahhruv",
+    "website": "https://almodelodejesus.org/radio/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:55:42+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.am97",
+    "name": "AM 97",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/110232.v1.png",
+    "stream_url": "https://stream.zeno.fm/03vqe42q008uv",
+    "website": "https://zeno.fm/radio/RADIOAM97/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "90s"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:54:54+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.antennawebsansalvador",
+    "name": "Antenna Web San Salvador",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/131981.v2.png",
+    "stream_url": "https://tinyurl.com/Antenna-Web-San-Salvador",
+    "website": "https://antennaweb.it/antennaweb-san-salvador/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "rock",
+      "pop",
+      "blues",
+      "jazz",
+      "funk",
+      "latin"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:54:50+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.aquestoycristo",
+    "name": "Aquí estoy Cristo Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/98591.v1.png",
+    "stream_url": "https://srstreaming.com/proxy/francis5?mp=/stream",
+    "website": "https://aquiestoycristo.com/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:58:21+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.asderonline",
+    "name": "Radio Asder Online",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/77057.v7.png",
+    "stream_url": "https://stream.zeno.fm/any453vkt3ptv",
+    "website": "http://asder.com.sv/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "pop",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:57:21+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.asis",
+    "name": "Radio Asis - l&#34; La Radio de la Paz y el Bien.",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/108989.v1.png",
+    "stream_url": "https://stream.zeno.fm/4tga96nm3p8uv",
+    "website": "https://radioasis.org/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "salsa",
+      "merengue",
+      "cumbia",
+      "bachata",
+      "vallenato"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:54:56+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.auto",
+    "name": "Autoradio",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/110405.v1.png",
+    "stream_url": "https://stream.zeno.fm/fgd6dr0mhy8uv",
+    "website": "https://zeno.fm/radio/AUTORADIO/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "80s"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:53:59+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.bautista",
+    "name": "Radio Bautista",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/37286.v6.png",
+    "stream_url": "https://s2.radio.co/s3a7dc3d82/listen",
+    "website": "http://tabernaculo.net/home/radiobautista/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "pop",
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:48:59+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.beat",
+    "name": "Radio Beat",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/154981.v1.png",
+    "stream_url": "https://stream.zeno.fm/hpi82phwpyjvv",
+    "website": "https://www.beatturadio.com/index.php",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "80s",
+      "90s",
+      "00s"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:58:27+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.betesda",
+    "name": "Betesda Radio SV",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/89762.v3.png",
+    "stream_url": "https://freeuk22.listen2myradio.com/live.mp3?typeportmount=s1_30221_stream",
+    "website": "https://radiobetesdasv.radio12345.com/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:57:33+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.cabal503",
+    "name": "CABAL503",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/132450.v1.png",
+    "stream_url": "https://server01.heplayer.com/8132/stream",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "folk",
+      "ethnic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:51:50+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.cadenacentral",
+    "name": "Cadena Central",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/37552.v5.png",
+    "stream_url": "https://mc.servidor.stream:2020/stream/8102",
+    "website": "http://www.cadenacentral.com/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "pop",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:51:04+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.caliente",
+    "name": "Radio Caliente",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/37543.v6.png",
+    "stream_url": "https://streaming.rcs.com.sv/proxy/caliente/stream",
+    "website": "http://gruposamixfm.com/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "pop",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:50:57+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.carnaval",
+    "name": "Radio Carnaval",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/37295.v4.png",
+    "stream_url": "https://stream.zeno.fm/k6qexbz0vd0uv",
+    "website": "http://www.lacarnaval.com/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "pop",
+      "talk",
+      "spanish"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:51:55+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.caserasv",
+    "name": "RadioCaseraSV",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/74539.v16.png",
+    "stream_url": "https://stream.zeno.fm/npzzgbhgz1ttv",
+    "website": "https://radiocaserasv.godaddysites.com/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "reggae",
+      "reggaeton",
+      "salsa",
+      "merengue",
+      "banda"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:52:51+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.cedros",
+    "name": "Radio Cedros FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/145588.v2.png",
+    "stream_url": "https://azuracast.aguilarsoluciones.com/listen/radio_cedros/stream",
+    "website": "https://www.radiocedros.com/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "ranchera"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:56:30+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.ciudadarce",
+    "name": "Radio Ciudad Arce",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/127354.v1.png",
+    "stream_url": "https://stream1.svrdedicado.org/8048/stream",
+    "website": "https://radiociudadarce.blogspot.com/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "eclectic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:58:22+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.clasica",
+    "name": "Radio Clasica",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/37308.v5.png",
+    "stream_url": "http://streaming.mundoclasicaupa.com:8000/radioclasica",
+    "website": "http://www.radioclasica.com.sv/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "classic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:50:01+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.clasicos3d",
+    "name": "Radio Clásicos 3D",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/143438.v2.png",
+    "stream_url": "https://stream.zeno.fm/sf73j7yelp5uv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "rock",
+      "pop",
+      "90s",
+      "80s",
+      "70s"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:51:57+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.club",
+    "name": "92.5 Club",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/37304.v8.png",
+    "stream_url": "http://158.69.200.1:8030/stream/;",
+    "website": "http://www.miradio.com.sv/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "pop",
+      "90s",
+      "80s",
+      "60s"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:48:56+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.cocofm",
+    "name": "Coco Fm Hits El Salvador",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/5746.v7.png",
+    "stream_url": "https://stream.zeno.fm/ghszejbcegbuv",
+    "website": "https://cocofmhits949.blogspot.com/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "dance",
+      "pop",
+      "latin"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:51:59+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.coleccinmusicalsolorecuerdos",
+    "name": "Colección Musical Solo Recuerdos",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/153531.v2.png",
+    "stream_url": "http://server01.heplayer.com:8148/;",
+    "website": "https://www.radiocorporacionmusical.com/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "balada"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:57:33+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.coleccionmusical",
+    "name": "Radio Coleccion Musical",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/120999.v8.png",
+    "stream_url": "https://server01.heplayer.com:8154/;",
+    "website": "https://coleccionmusicalradio.com/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:49:06+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.compacto",
+    "name": "Radio Compacto",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/86530.v23.png",
+    "stream_url": "http://78.129.150.207:15419/;",
+    "website": "http://radiocompactoonline.mex.tl/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:54:47+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.coolfm893",
+    "name": "COOL FM 89.3",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/37285.v11.png",
+    "stream_url": "https://media.dominiocreativo.com:8011/coolfm",
+    "website": "http://www.radiocoolfm.com/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "pop",
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:50:05+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.cretsanmiguel",
+    "name": "Radio Cret San Miguel",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/37307.v7.png",
+    "stream_url": "https://radiocret.net:8100/stream",
+    "website": "http://radiocadenacret.com/?page_id=65",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:51:03+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.cristianaamoreternojeremias",
+    "name": "Radio Cristiana Amor Eterno Jeremias 31:3",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/100544.v3.png",
+    "stream_url": "https://stream.zeno.fm/nvek3ko3qn8uv",
+    "website": "https://radiocristianaamoreterno7.blogspot.com/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:53:53+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.cristianalavozdediosenusulutan",
+    "name": "Radio Catolica San Miguel Arcagel",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/142903.v5.png",
+    "stream_url": "https://stream.zeno.fm/wgbfpsyylattv",
+    "website": "https://zeno.fm/radio/radio-catolica-san-miguel-arcangel-wnrz/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:57:30+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.cristosalvador",
+    "name": "Radio Cristo Salvador",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/140224.v2.png",
+    "stream_url": "http://65.60.45.74:5350//stream",
+    "website": "http://radiocristosalvador.com/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:56:35+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.cristotellama",
+    "name": "Iglesia Central Cristo Te LLama El Salvador",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/37318.v6.png",
+    "stream_url": "https://hd.elsalvadordigital.net/8012/stream",
+    "website": "https://radiocristotellama.net/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:51:56+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.cuerdascristianas",
+    "name": "Radio Cuerdas Cristianas",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/136739.v6.png",
+    "stream_url": "https://stream.zeno.fm/h8hfdg6hdhiuv",
+    "website": "https://zeno.fm/radio/radio-cuerdas-cristianas/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:54:44+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.cuscatln",
+    "name": "Radio Cuscatlán",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/37311.v7.png",
+    "stream_url": "http://198.204.234.10:8298/;stream.mp3",
+    "website": "http://www.cadenacuscatlan.com.sv/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "pop",
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:51:04+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.derklassic",
+    "name": "Der Klassic Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/47700.v12.png",
+    "stream_url": "https://stream.zeno.fm/026ua5cft18uv",
+    "website": "https://zeno.fm/radio/der-klassik/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "classic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:52:02+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.dj",
+    "name": "Radiodj El salvador",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/37313.v12.png",
+    "stream_url": "https://tuneinradiofm.com/radio/8000/radiomix.mp3",
+    "website": "http://radiodjelsalvador.com/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "pop",
+      "latin",
+      "cumbia"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:52:48+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.dopastor",
+    "name": "Radio Do Pastor",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/126837.v2.png",
+    "stream_url": "https://sonicpanel.oficialserver.com/8372/stream",
+    "website": "https://radiodopastorenvivo.blogspot.com/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "talk",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:57:27+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.doremix",
+    "name": "Doremix",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/37536.v5.png",
+    "stream_url": "https://media.dominiocreativo.com:8056/doremix",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "pop",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:53:44+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.elbuenpastor",
+    "name": "Radio El Buen Pastor",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/37291.v4.png",
+    "stream_url": "http://max.miradio.in:8221/stream",
+    "website": "http://www.radioelbuenpastor.org/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "pop",
+      "talk",
+      "spanish"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:52:52+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.elcamino",
+    "name": "El Camino FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/37301.v3.png",
+    "stream_url": "http://streamingcontrol.com:9108/;",
+    "website": "http://www.iglesiadelcamino.org/radio",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "pop",
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:53:02+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.elmundo",
+    "name": "Radio El Mundo",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/37284.v5.png",
+    "stream_url": "https://streaming.mundoclasicaupa.com:8001/radioelmundo",
+    "website": "http://www.radioelmundo.com.sv/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "pop",
+      "talk",
+      "spanish"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:49:05+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.elohim",
+    "name": "Radio Elohim",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/37539.v9.png",
+    "stream_url": "https://whmsonic.playerfullhd.com/9498/stream;",
+    "website": "http://www.radioelohim.net/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "talk",
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:50:08+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.elremanente",
+    "name": "Radio El Remanente",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/37775.v7.png",
+    "stream_url": "http://167.249.21.65:8100/source",
+    "website": "http://elremanente.org/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:52:04+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.elsalon",
+    "name": "El Salón Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/110107.v3.png",
+    "stream_url": "https://stream.zeno.fm/u09fbrpydy8uv",
+    "website": "https://elsalonradio.sutty.nl/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:53:48+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.elverbodedios",
+    "name": "Radio El Verbo De Dios",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/78087.v4.png",
+    "stream_url": "https://stream.zeno.fm/ya8b1b7efuhvv",
+    "website": "https://radioelverbodedios.blogspot.com/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:54:48+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.emperador",
+    "name": "Radio Emperador - Romantica",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/37542.v11.png",
+    "stream_url": "http://199.115.115.71:8156/;",
+    "website": "http://www.radioemperador.com/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "news",
+      "entertainment",
+      "romantic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:54:49+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.esterrovision",
+    "name": "Radio Estereo Vision",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/37553.v6.png",
+    "stream_url": "https://server2.watahosting.com/radio/8004/radio.mp3",
+    "website": "http://www.radioestereovision.com/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "talk",
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:49:56+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.euro80s",
+    "name": "EURO 80&#39;s Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/37323.v23.png",
+    "stream_url": "https://stream.zeno.fm/fmrzu273ud0uv",
+    "website": "http://euro80s.net/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "disco",
+      "dj"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:49:59+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.evangelicabetel",
+    "name": "Radio Evangelica Betel",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/37320.v6.png",
+    "stream_url": "https://stream.zeno.fm/hr65wgbagc9uv",
+    "website": "http://radioevangelicabetel.com/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:50:54+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.evangelicacanaan",
+    "name": "Radio Activa El Salvador",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/135826.v10.png",
+    "stream_url": "http://uk6freenew.listen2myradio.com:8000/;",
+    "website": "https://edwinjesus7900.wixsite.com/radiopacifica1sv",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "latin"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:56:29+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.evangelicacanaanelsalvador",
+    "name": "Radio Garrobo El Salvador",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/139121.v11.png",
+    "stream_url": "https://stream.zeno.fm/vdbfaumncmguv",
+    "website": "https://zeno.fm/radio/radio-garrobo-el-salvador/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "latin"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:52:01+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.evangeliodelosmejicanos",
+    "name": "Radio evangelio de los mejicanos",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/127352.v1.png",
+    "stream_url": "https://stream1.svrdedicado.org:7023/;",
+    "website": "https://radioevangeliodelosmejicanos.blogspot.com/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:56:32+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.exa",
+    "name": "Exa FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/37296.v10.png",
+    "stream_url": "http://158.69.219.162:8028/start",
+    "website": "http://www.miradio.com.sv/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "pop",
+      "hip-hop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:48:56+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.exceed",
+    "name": "Exceed Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/117235.v3.png",
+    "stream_url": "https://stream.zeno.fm/7k10ppa64bhvv",
+    "website": "https://exceedradio.blogspot.com/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "spanish"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:58:19+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.exitosa",
+    "name": "La Exitosa Inolvidable",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/109577.v3.png",
+    "stream_url": "https://stream.zeno.fm/gkqe1fwxwc9uv",
+    "website": "https://gruporadioactivo.com/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:55:48+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.exobeat",
+    "name": "BEAT FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/88082.v9.png",
+    "stream_url": "https://stream.zeno.fm/bpd02s5tbwzuv",
+    "website": "https://beatfm79.jimdofree.com/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "electronic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:54:46+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.explosionlatina503",
+    "name": "Explosión Latina 503",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/115869.v7.png",
+    "stream_url": "https://stream.zeno.fm/6p1k2ds3trhvv",
+    "website": "https://zeno.fm/radio/Radio-Explosion-Latina-503/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "rock",
+      "pop",
+      "merengue",
+      "cumbia",
+      "balada"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:54:46+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.familiaproyectodedios",
+    "name": "Radio Familia de Dios",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/61904.v17.png",
+    "stream_url": "http://149.56.95.7:25048/;stream",
+    "website": "https://familiadedios.radio12345.com/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:56:31+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.fiestalatina",
+    "name": "Radio Fiesta Latina",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/93205.v5.png",
+    "stream_url": "https://stream.zeno.fm/ng52auvbe8zuv",
+    "website": "https://guanacosgruporadial.blogspot.com/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "salsa",
+      "merengue",
+      "cumbia"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:52:58+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.fiestatropical",
+    "name": "Radio Fiesta Tropical Salvadoreña",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/92712.v4.png",
+    "stream_url": "https://stream.zeno.fm/2y0s4s3kasquv",
+    "website": "https://guanacosgruporadial.blogspot.com/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "salsa",
+      "cumbia"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:53:48+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.fiestatropicalguanaca",
+    "name": "RADIO FIESTA TROPICAL GUANACA",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/73359.v5.png",
+    "stream_url": "https://stream.zenolive.com/262ebxkq9eeuv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "salsa",
+      "merengue",
+      "cumbia"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:51:51+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.filipenses",
+    "name": "Filipenses Radio El Salvador",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/75567.v25.png",
+    "stream_url": "https://stream.zeno.fm/4d8tqkhwe5zuv",
+    "website": "http://filipensesradio.wix.com/cristiana",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:50:59+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.filipenses1079",
+    "name": "89.1 Genesis La Musica Que Llena Tu Vida",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/82305.v36.png",
+    "stream_url": "https://stream.zeno.fm/15bt7pz5708uv",
+    "website": "https://891genesis.wixsite.com/cristiana",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:55:49+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.foreveryoung",
+    "name": "Forever Young Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/99558.v3.png",
+    "stream_url": "https://stream.zeno.fm/y14qe1wcna0uv",
+    "website": "https://gruporadioactivo.com/forever-young-radio-en-vivo/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "oldies",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:53:52+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.frawithz",
+    "name": "Frawithz Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/82742.v4.png",
+    "stream_url": "https://stream.zeno.fm/9ka3zey7hhruv",
+    "website": "http://www.franklinzarzas.com/frawithzradio/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "spanish",
+      "latin",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:58:14+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.fuego",
+    "name": "107.7 Fuego",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/37287.v9.png",
+    "stream_url": "https://mgv-fuego.akamaized.net/hls/live/2039834/MGV_FUEGO/0/streamPlaylist.m3u8",
+    "website": "https://megavision.univtec.com/#!/live/radio",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "pop",
+      "talk",
+      "spanish"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:49:07+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.fuentedevida",
+    "name": "Radio Fuente de Vida",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/145719.v1.png",
+    "stream_url": "https://jm8n.net/8176/stream",
+    "website": "https://radio-fuentedevida.com/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:56:33+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.fuerzazacatecoluca",
+    "name": "Radio Fuerza Zacatecoluca",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/107239.v3.png",
+    "stream_url": "https://s22.myradiostream.com/:8212/listen.mp3?nocache=1679990978",
+    "website": "http://www.radiofuerza.net/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:53:48+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.generacion60",
+    "name": "Radio Generación 60",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/109867.v6.png",
+    "stream_url": "https://stream.zeno.fm/gzfyrqh74bhvv",
+    "website": "https://zeno.fm/radio/radio-oldies-generacion-60/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "dance",
+      "disco",
+      "classic rock",
+      "blues",
+      "funk",
+      "balada"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:50:56+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.globo",
+    "name": "FM Globo",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/37243.v7.png",
+    "stream_url": "http://158.69.219.162:8026/stream/;",
+    "website": "http://www.miradio.com.sv/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "pop",
+      "talk",
+      "90s",
+      "00s",
+      "80s"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:48:57+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.gospelfm",
+    "name": "Gospel FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/37631.v8.png",
+    "stream_url": "https://ssl.rockhost.com/proxy/gospel?mp=/mp3_64",
+    "website": "https://www.elim.org.sv/gospel/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "christian",
+      "gospel",
+      "christian rock"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:50:54+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.grupera",
+    "name": "Tu Radio Grupera El Salvador",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/151033.v3.png",
+    "stream_url": "https://streaming.sistemasx.com:8020/radio.mp3",
+    "website": "https://www.turadiogrupera.com.sv/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "christian",
+      "ranchera",
+      "grupera",
+      "salsa",
+      "merengue",
+      "cumbia",
+      "bachata"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:55:46+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.guanaka",
+    "name": "Radio Latinoamerikanto Música",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/85698.v13.png",
+    "stream_url": "https://stream.zenolive.com/2weqy4tw7k0uv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "rock",
+      "pop",
+      "news",
+      "talk",
+      "classic",
+      "romantic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:54:52+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.imagenelsalvador",
+    "name": "Imagen Radio El Salvador",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/99042.v11.png",
+    "stream_url": "https://azuracast.aguilarsoluciones.com/listen/imagenradiosv/stream",
+    "website": "https://www.imagen-radio.com/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "rock",
+      "pop",
+      "techno",
+      "news",
+      "salsa",
+      "balada"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:54:43+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.impacrecords",
+    "name": "Impac Records Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/154116.v1.png",
+    "stream_url": "https://c7.radioboss.fm:8128/stream",
+    "website": "https://www.impacrecords.com/radio/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "electronic",
+      "90s",
+      "00s",
+      "80s",
+      "latin",
+      "balada"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:57:24+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.impactos",
+    "name": "Impactos Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/109935.v11.png",
+    "stream_url": "https://jm8n.net/8102/stream",
+    "website": "https://www.impactosradio.com/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "90s",
+      "00s",
+      "80s",
+      "70s",
+      "oldies"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:56:36+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.inolvidable1085",
+    "name": "Inolvidable Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/99556.v4.png",
+    "stream_url": "https://stream.zeno.fm/f8e5mzucna0uv",
+    "website": "https://gruporadioactivo.com/inolvidable-radio-en-vivo/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:51:52+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.jesuselsalvador",
+    "name": "Radio Jesús",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/37601.v5.png",
+    "stream_url": "https://streamingned.com:7114/stream",
+    "website": "http://misionerosdejesus.org.sv/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:51:00+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.josue",
+    "name": "Radio Josué",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/145616.v3.png",
+    "stream_url": "https://stream.radiojar.com/02cfp84bvzuvv",
+    "website": "https://iglesiajosue.org/es/radio-josue/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:57:32+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.juvi",
+    "name": "JUVI",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/100679.v3.png",
+    "stream_url": "http://aler.org:8000/juvi",
+    "website": "https://radiojuvi.jimdofree.com/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "80s",
+      "50s",
+      "grupera",
+      "cumbia",
+      "banda",
+      "balada"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:55:39+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.kyrios",
+    "name": "Kyrios",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/37534.v7.png",
+    "stream_url": "http://198.27.68.65:8787/;",
+    "website": "http://www.kyriosfm.com/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "news",
+      "christian",
+      "education"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:57:35+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.la503",
+    "name": "La 503 Online",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/119856.v7.png",
+    "stream_url": "https://stream.zeno.fm/a2x172k0miqvv",
+    "website": "https://la503online.blogspot.com/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:56:28+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.laboom",
+    "name": "La Boom Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/154118.v1.png",
+    "stream_url": "https://c20.radioboss.fm:8354/stream",
+    "website": "https://www.laboomradio.com/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "electronic",
+      "90s",
+      "00s",
+      "80s",
+      "latin",
+      "balada"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:58:16+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.lacachimbona",
+    "name": "Radio La Cachimbona",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/118542.v1.png",
+    "stream_url": "http://147.135.130.215:8506/stream",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:58:13+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.lachevere",
+    "name": "Radio La Chevere",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/37247.v7.png",
+    "stream_url": "https://streaming.rcs.com.sv/proxy/chevere/stream",
+    "website": "https://radiocorporacionelsalvador.com/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "pop",
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:49:03+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.lademoda",
+    "name": "Radio La De Moda",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/127416.v10.png",
+    "stream_url": "https://azuracast.aguilarsoluciones.com/listen/radiolademoda/stream",
+    "website": "https://radiolademoda.com/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:57:25+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.laestaciondelapalabra",
+    "name": "La Estación de la Palabra",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/73646.v8.png",
+    "stream_url": "https://ssl.rockhost.com/proxy/540am?mp=/mp3_64",
+    "website": "https://www.elim.org.sv/540am/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "pop",
+      "news",
+      "christian",
+      "latin",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:51:00+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.lafemenina",
+    "name": "La Femenina 102.5 FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/37599.v7.png",
+    "stream_url": "https://sp4.colombiatelecom.com.co/8028/stream",
+    "website": "http://www.femenina.com.sv/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "community"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:49:06+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.laguapa997",
+    "name": "La Guapa 99.7 FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/124458.v4.png",
+    "stream_url": "https://streaming.rcs.com.sv/proxy/guapa/stream",
+    "website": "https://radiocorporacionelsalvador.com/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "latin",
+      "salsa"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:49:00+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.laguapasv",
+    "name": "La Guapa SV",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/124459.v3.png",
+    "stream_url": "https://tcgradio.online/8002/stream",
+    "website": "https://laguapasv.com/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "dance",
+      "electronic",
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:54:45+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.lajefa",
+    "name": "La Jefa Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/88282.v11.png",
+    "stream_url": "https://stream.zeno.fm/b264csn0sy8uv",
+    "website": "https://lajefaradio.blogspot.com/?m=0",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:49:58+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.lalibertadstereo",
+    "name": "La Libertad Stereo",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/127260.v6.png",
+    "stream_url": "https://azuracast.aguilarsoluciones.com/listen/lalibertadstereo/stream",
+    "website": "https://lalibertadstereo.com/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:50:59+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.laliderfm",
+    "name": "La Lider FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/37782.v5.png",
+    "stream_url": "https://hd.elsalvadordigital.net/8016/;",
+    "website": "http://www.laliderfm.com/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "pop",
+      "news",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:53:51+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.lamasperrona",
+    "name": "La Más Perrona",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/154562.v5.png",
+    "stream_url": "https://stream.zeno.fm/2hfxnd7rqfhvv",
+    "website": "http://www.grplaunionsv.blogspot.com/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "mexican"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:56:41+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.lamaximafrecuencia",
+    "name": "La LX",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/117910.v14.png",
+    "stream_url": "https://stream.zeno.fm/e6nehg4vp0hvv",
+    "website": "https://zeno.fm/radio/la-lx/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "reggaeton",
+      "salsa",
+      "merengue",
+      "cumbia",
+      "bachata"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:52:56+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.lamejor",
+    "name": "POP 98.9 FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/37241.v15.png",
+    "stream_url": "http://158.69.219.162:8024/start",
+    "website": "http://www.miradio.com.sv/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "pop",
+      "top40",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:49:57+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.lanuevaeradigital",
+    "name": "La Nueva Era Digital",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/153895.v2.png",
+    "stream_url": "https://radio1.serviciosderadio.com/listen/lanuevaeradigital/radio.mp3",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:57:36+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.laoriginal",
+    "name": "La Original",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/110236.v3.png",
+    "stream_url": "https://stream.zeno.fm/vpfebszu1f9uv",
+    "website": "https://laoriginal.sutty.nl/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "salsa",
+      "merengue"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:52:47+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.laquinta5",
+    "name": "La Quinta5",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/101298.v2.png",
+    "stream_url": "https://centova.hostingelectrica.net/proxy/kalarcon?mp=/stream",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "r'n'b",
+      "pop",
+      "blues",
+      "hip-hop",
+      "alternative",
+      "funk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:55:46+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.laradiodeldioseterno",
+    "name": "La Radio del Dios Eterno",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/95207.v8.png",
+    "stream_url": "https://stream.wilcamstreaming.com:8112/stream",
+    "website": "https://radiodeldioseterno.com/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:53:51+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.lasalsera",
+    "name": "Radio La Salsera",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/132057.v2.png",
+    "stream_url": "http://147.135.130.215:8190/stream",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "salsa"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:55:40+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.lasalsera1",
+    "name": "La Salsera",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/144572.v2.png",
+    "stream_url": "https://stream.zeno.fm/enwhmv9kv98uv",
+    "website": "https://zeno.fm/radio/LASALSERA/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "salsa"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:51:53+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.laserespanol",
+    "name": "Laser Español",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/37538.v6.png",
+    "stream_url": "https://sp4.colombiatelecom.com.co/8030/stream",
+    "website": "http://www.laser.com.sv/espanol/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "pop",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:48:55+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.latinaelsalvador",
+    "name": "Radio Latina El Salvador",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/86131.v8.png",
+    "stream_url": "https://sp3.servidorrprivado.com:8218/stream",
+    "website": "http://www.radiolatinahd.com/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "80s",
+      "70s",
+      "60s",
+      "50s"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:50:58+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.latindance",
+    "name": "Latin Dance Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/111242.v6.png",
+    "stream_url": "https://server01.heplayer.com:8138/stream?icy=https",
+    "website": "https://radiolatindance.com/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:55:45+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.latrompetafinal",
+    "name": "Radio La Trompeta Final",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/133526.v47.png",
+    "stream_url": "https://listen.mixlr.com/31a6372b4696326f5771535539f459e4",
+    "website": "https://radio-la-trompeta-final.mixlr.com/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:55:41+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.laurbana949",
+    "name": "La Urbana 94.9",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/95205.v8.png",
+    "stream_url": "https://streaming.rcs.com.sv/proxy/urbana/stream",
+    "website": "https://radiocorporacionelsalvador.com/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "pop",
+      "latin",
+      "salsa",
+      "merengue"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:50:06+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.lavozdelapalabraquecambia",
+    "name": "La voz de La Palabra Que Cambia",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/93084.v7.png",
+    "stream_url": "https://stream.zeno.fm/m74sw0cfe18uv",
+    "website": "https://lapalabraquecambiacentral.blogspot.com/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:52:54+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.lemuel",
+    "name": "Radio Lemuel",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/121065.v4.png",
+    "stream_url": "https://sonicpanel.cloudstreaming.eu/9308/stream",
+    "website": "http://www.radiolemuel.com/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "grupera",
+      "balada"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:58:23+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.lluviasdebendicin",
+    "name": "Radio Lluvias de Bendición",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/37303.v17.png",
+    "stream_url": "https://nap.casthost.net/proxy/radiollu/stream",
+    "website": "https://lluviasdebendicionradio.org/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:51:58+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.lourdes",
+    "name": "Radio Lourdes",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/73889.v7.png",
+    "stream_url": "https://stream.zeno.fm/d5bka8d1ng0uv",
+    "website": "https://zeno.fm/radio/radio-virtual-colon/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "80s",
+      "70s",
+      "sports"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:53:50+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.lussonica",
+    "name": "Radio Lussonica",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/78513.v4.png",
+    "stream_url": "http://streaming.cygcomputadoras.com:8000/radiolussonica",
+    "website": "http://cojuteurbano.com/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "electronic",
+      "rock",
+      "pop",
+      "salsa",
+      "merengue",
+      "cumbia",
+      "romantic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:53:01+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.luzelsalvador",
+    "name": "Radio Luz El Salvador",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/37246.v6.png",
+    "stream_url": "https://radioluzfm.com.sv/",
+    "website": "http://radioluzfm.com/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "pop",
+      "top40",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:52:50+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.lvs",
+    "name": "LVS Radio - La Voz del Sur",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/149734.v2.png",
+    "stream_url": "https://azuracast.aguilarsoluciones.com/listen/radiolvs/stream",
+    "website": "https://lvsradio.com/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:58:18+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.malu",
+    "name": "Malu Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/150532.v1.png",
+    "stream_url": "https://stream.zeno.fm/v803rgh98ehvv",
+    "website": "https://maluradio.blogspot.com/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:56:40+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.maranata",
+    "name": "Radio Maranatha",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/37556.v10.png",
+    "stream_url": "https://centova.hostingelectrica.net/proxy/radiomar/stream",
+    "website": "http://www.maranatha102.com/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "christian",
+      "children"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:52:53+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.maria",
+    "name": "Radio Maria",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/37299.v6.png",
+    "stream_url": "https://dreamsiteradiocp2.com/proxy/rmelsalvador2?mp=/stream?ver=882392",
+    "website": "http://www.radiomaria.org.sv/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:49:04+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.mariaauxiliadora",
+    "name": "Radio Maria Auxiliadora El Salvador (Oficial)",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/62940.v28.png",
+    "stream_url": "https://auxiliadorasv.radio12345.com/",
+    "website": "https://auxiliadorasv.radio12345.com/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:52:58+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.masmusicamenosguerra",
+    "name": "Más Música Menos Guerra Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/118965.v6.png",
+    "stream_url": "https://stream.zeno.fm/ywx5ui4gcrytv",
+    "website": "http://masmusicamenosguerrainternacional.blogspot.com/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "rock",
+      "metal",
+      "punk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:53:56+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.mayavisin",
+    "name": "106.9 FM Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/37298.v6.png",
+    "stream_url": "http://media.dominiocreativo.com:8044/stream?type=.mp3",
+    "website": "http://www.radiomayavision.net/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "pop",
+      "talk",
+      "spanish"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:51:50+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.merea",
+    "name": "Merea Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/86837.v5.png",
+    "stream_url": "https://stream.zenolive.com/5eh0tde4ud0uv.aac",
+    "website": "https://zeno.fm/merea-radio/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "rock",
+      "christian",
+      "alternative",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:52:01+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.mia905",
+    "name": "Mia 90.5 FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/149291.v2.png",
+    "stream_url": "https://server01.heplayer.com:8142/;",
+    "website": "https://www.radiocorporacionmusical.com/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:54:55+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.miacadenacontinental",
+    "name": "Radio Mia Cadena Continental",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/154553.v1.png",
+    "stream_url": "https://stream.zeno.fm/v2779yvylifuv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "pop",
+      "news"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:58:14+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.miahutlan",
+    "name": "RADIO MIAHUTLAN",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/136422.v1.png",
+    "stream_url": "https://stream.zeno.fm/2yuh840dhfhvv",
+    "website": "https://radiomiahutlan.blogspot.com/2024/05/radio-miahutlan.html",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "classic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:58:23+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.michaparrita",
+    "name": "Fuerza503FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/110411.v5.png",
+    "stream_url": "https://stream.zeno.fm/nxe3fdm171zuv",
+    "website": "https://fuerza503fm.blogspot.com/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:58:16+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.mil80",
+    "name": "Mil-80",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/37309.v8.png",
+    "stream_url": "https://radio.videct.com/8002/stream/",
+    "website": "http://www.mil80.com/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "pop",
+      "hip-hop",
+      "latin"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:48:57+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.ministeriolapalabraviva",
+    "name": "Ministerio La Palabra Viva",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/37643.v7.png",
+    "stream_url": "https://stream.zeno.fm/8xzxvch8n48uv",
+    "website": "http://lapalabraviva.net/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:53:54+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.mipachangon",
+    "name": "Mi Pachangon Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/90607.v12.png",
+    "stream_url": "https://azuracast.aguilarsoluciones.com/listen/mipachangonradio/stream",
+    "website": "https://mipachangon.com/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "retro",
+      "cumbia"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:51:02+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.mixelsalvador",
+    "name": "Radio Mix El Salvador",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/37255.v9.png",
+    "stream_url": "https://stream.zeno.fm/0w3hgpmh6gruv",
+    "website": "https://radiomix.online/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "reggaeton",
+      "merengue",
+      "cumbia",
+      "bachata"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:49:02+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.mixlive",
+    "name": "Pulsar Mix",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/86696.v73.png",
+    "stream_url": "https://radio.pulsarelsalvador.com/listen/pulsar_mix_fm_el_salvador/Pulsar%20Mix%20FM%20El%20Salvador",
+    "website": "https://pulsarmixfm.com/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "dance",
+      "electronic",
+      "trance",
+      "house",
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:51:53+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.momentos",
+    "name": "Radio MOMENTOS",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/137309.v1.png",
+    "stream_url": "https://server01.heplayer.com/8102/stream",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "spanish",
+      "romantic",
+      "balada"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:49:56+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.monsenorromero",
+    "name": "Radio Monseñor Romero",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/135274.v8.png",
+    "stream_url": "https://stream.zeno.fm/1rztainkmnatv",
+    "website": "https://zeno.fm/radio/radio-san-oscar-romero/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:56:37+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.montanas",
+    "name": "Montana´s Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/115516.v3.png",
+    "stream_url": "http://91.121.121.25:8130/;",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "90s",
+      "00s",
+      "80s"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:58:15+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.monumental",
+    "name": "Plus 101.3 FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/37252.v6.png",
+    "stream_url": "http://media.dominiocreativo.com:9006/;",
+    "website": "https://plus1013.com/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "pop",
+      "latin",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:52:00+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.musicafm",
+    "name": "Música fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/116211.v9.png",
+    "stream_url": "https://stream.zeno.fm/622f0g3pg98uv",
+    "website": "https://zeno.fm/radio/musicafm/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "ranchera",
+      "cumbia",
+      "balada"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:55:44+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.nayolive",
+    "name": "Nayo Live!",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/89164.v7.png",
+    "stream_url": "https://stream.zeno.fm/wzq0aafv3gruv",
+    "website": "https://zeno.fm/nayo-live/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "trance",
+      "house",
+      "techno"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:53:50+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.nostalgiadigital",
+    "name": "Nostalgia Digital",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/153706.v1.png",
+    "stream_url": "https://stream.zeno.fm/e9hzzsf4ckhvv",
+    "website": "https://nostalgiadigitalweb.blogspot.com/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "pop",
+      "retro",
+      "90s",
+      "80s",
+      "latin"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:57:34+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.nuestraweb",
+    "name": "Stereo 503",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/88544.v9.png",
+    "stream_url": "https://app.sonicpanelradio.com:8118/stream",
+    "website": "https://www.stereo503.com/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "rock",
+      "pop",
+      "balada"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:56:31+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.nuevajesuralem",
+    "name": "Radio Nueva Jesuralem",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/99034.v5.png",
+    "stream_url": "https://tecnoservix.stream:4018/stream",
+    "website": "https://radionueva-jerusalem.org/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:53:00+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.ondamix",
+    "name": "Radio Onda Mix",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/88279.v1.png",
+    "stream_url": "http://centova.hostingelectrica.net:8184/;",
+    "website": "https://ondamixsv.blogspot.com/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "pop",
+      "latin"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:53:57+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.online",
+    "name": "Online Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/143434.v1.png",
+    "stream_url": "https://stream.zeno.fm/shvu8zqrtcytv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:57:28+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.optima",
+    "name": "Radio Óptima",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/97265.v5.png",
+    "stream_url": "http://5.39.82.140:9896/;stream.mp3",
+    "website": "http://radiomorazan.net/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "pop",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:55:41+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.ovozsantiaguena",
+    "name": "Radio Voz Santiagueña",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/83230.v15.png",
+    "stream_url": "http://us3freenew.listen2myradio.com:29578/;",
+    "website": "https://radiovozsantiaguena.blogspot.com/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "pop",
+      "latin"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:55:37+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.oye",
+    "name": "Oye FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/92462.v6.png",
+    "stream_url": "https://laradio.stream/proxy/oyefm/stream",
+    "website": "https://www.radioparallevar.com/oyefm",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "pop",
+      "top40",
+      "reggaeton",
+      "latin",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:52:57+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.palabrasdevidaeterna",
+    "name": "Radio Palabras De Vida Eterna Sv",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/129893.v1.png",
+    "stream_url": "https://radio.vegamultimedios.com:7147/;",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:55:40+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.pandivino",
+    "name": "Radio Amor Divino",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/87340.v3.png",
+    "stream_url": "http://149.56.95.7:25048/;",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:57:26+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.patriota",
+    "name": "Radio Patriota",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/106402.v1.png",
+    "stream_url": "http://centova.hostingelectrica.net:8090/index",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "salsa",
+      "merengue",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:51:54+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.paz",
+    "name": "Radio Paz",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/37283.v11.png",
+    "stream_url": "https://stream.zeno.fm/ub7p7k2wgdeuv",
+    "website": "http://www.radiopaz.com.sv/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "talk",
+      "christian",
+      "gospel",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:50:07+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.penchoyaidafm",
+    "name": "La Tribu FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/89537.v5.png",
+    "stream_url": "https://streamer.radio.co/s3a3c12873/listen",
+    "website": "https://latribu.fm/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "news",
+      "talk",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:53:59+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.pentecostsradio",
+    "name": "Pentecostes Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/153499.v2.png",
+    "stream_url": "http://uk5freenew.listen2myradio.com:37617/;",
+    "website": "http://pentecosteslive.mex.tl/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "christian",
+      "alternative"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:57:30+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.plenitud",
+    "name": "Plenitud Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/73645.v7.png",
+    "stream_url": "https://ssl.rockhost.com/proxy/plenitud?mp=/mp3_64",
+    "website": "https://www.elim.org.sv/plenitud/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:54:51+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.poderfm",
+    "name": "Poder FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/37784.v4.png",
+    "stream_url": "http://195.154.33.87:7530/;",
+    "website": "http://poderfm.net/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:54:52+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.popsontherocks",
+    "name": "Pops On The Rocks",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/145590.v3.png",
+    "stream_url": "https://azuracast.aguilarsoluciones.com/listen/radio_pop_on_the_rocks/stream",
+    "website": "https://www.popontherocks.com/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "rock",
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:57:31+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.popular",
+    "name": "Radio Popular",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/37547.v6.png",
+    "stream_url": "https://01.solumedia.com.ar:8418/stream",
+    "website": "https://radiopopularlapampa.com.ar/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "pop",
+      "news",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:57:21+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.prendela",
+    "name": "Prendela Radio Fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/137032.v1.png",
+    "stream_url": "https://stream.zeno.fm/vtwn89v12zhuv",
+    "website": "https://zeno.fm/radio/prendela-radio-fm/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:55:38+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.proactiva",
+    "name": "Radio Proactiva",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/116309.v6.png",
+    "stream_url": "https://azuracast.aguilarsoluciones.com/listen/radioproactiva/stream",
+    "website": "https://radioproactiva.com/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:51:51+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.progreso",
+    "name": "Radio Progreso 90.5 FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/37288.v4.png",
+    "stream_url": "https://www.streamingcp.com:2000/stream/radioprogreso/;",
+    "website": "http://radioprogreso.org/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "pop",
+      "talk",
+      "spanish"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:49:01+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.punto105",
+    "name": "Punto 105",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/37314.v7.png",
+    "stream_url": "https://punto105-stream2muchgroup.radioca.st/stream",
+    "website": "http://www.punto105.com/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "pop",
+      "top40",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:50:11+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.quebonita",
+    "name": "Radio Que Bonita FM 105.3",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/124523.v3.png",
+    "stream_url": "https://jm8n.net/8146/;",
+    "website": "https://quebonitafm.com/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "ranchera",
+      "grupera",
+      "banda"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:56:35+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.quebuena",
+    "name": "Radio Que Buena",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/37244.v5.png",
+    "stream_url": "https://cast3.my-control-panel.com/proxy/gabriel4/stream",
+    "website": "http://www.quebuena.com.sv/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "pop",
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:49:00+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.quecaparrita",
+    "name": "Que Chaparrita. ¡ésta síque está buena!",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/150531.v2.png",
+    "stream_url": "https://stream.zeno.fm/pz5yq17xn0hvv",
+    "website": "https://quechaparrita.blogspot.com/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:55:42+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.radioabc",
+    "name": "ABC Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/37602.v9.png",
+    "stream_url": "https://streaming.rcs.com.sv/proxy/abc/stream",
+    "website": "https://radiocorporacionelsalvador.com/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "dance",
+      "electronic",
+      "house",
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:49:03+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.radioadventista",
+    "name": "Radio Adventista",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/37634.v6.png",
+    "stream_url": "https://cloudstream2030.conectarhosting.com/9866/stream",
+    "website": "http://www.radioadventista965.com.sv/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:52:49+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.radioalpha",
+    "name": "Radioalpha",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/95832.v4.png",
+    "stream_url": "https://stream.zeno.fm/x3vu85c31ueuv",
+    "website": "https://zeno.fm/radioalpha/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:58:22+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.radioastral",
+    "name": "Radio Astral",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/37633.v18.png",
+    "stream_url": "https://streaming.rcs.com.sv/proxy/astral/stream",
+    "website": "https://radiocorporacionelsalvador.com/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "rock",
+      "classic rock",
+      "hard rock",
+      "metal",
+      "nu metal"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:48:53+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.radiochaparrastique",
+    "name": "Radio Chaparrastique",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/37641.v3.png",
+    "stream_url": "http://centova1.creativos10.com:8021/live",
+    "website": "http://radiochaparrastique.net/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "pop",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:51:04+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.radiodjinternacional",
+    "name": "Radio DJ Internacional",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/37788.v6.png",
+    "stream_url": "https://stream.zeno.fm/0b0wsaymq68uv",
+    "website": "http://www.radiodj.com.gt/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "reggaeton",
+      "merengue"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:50:57+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.radioelohim",
+    "name": "Radio Elohim",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/37646.v4.png",
+    "stream_url": "https://panel.yupistream.com/proxy/yselohim/stream",
+    "website": "http://radioelohim.org/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:53:54+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.radioemiliani",
+    "name": "Radio Emiliani",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/115240.v1.png",
+    "stream_url": "http://163.172.209.91:9167/stream?type=http&nocache=32",
+    "website": "https://emiliani.edu.sv/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "education",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:56:37+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.radioesm",
+    "name": "Radio El Salvador del Mundo",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/34814.v9.png",
+    "stream_url": "https://radio15.servidorderadio.net/8036/stream",
+    "website": "http://www.radioelsalvadordelmundo.com/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:57:23+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.radiofe",
+    "name": "Radio Fe",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/37598.v9.png",
+    "stream_url": "https://innovaudioradio.com/listen/radio_2/radio.mp3",
+    "website": "http://www.radiofe.com.sv/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:54:47+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.radiofeyvida",
+    "name": "Radio Fe y Vida",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/37792.v9.png",
+    "stream_url": "http://23.239.68.75:8052/stream",
+    "website": "http://www.radiofeyvida.net/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:53:55+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.radiofiesta",
+    "name": "Radio Fiesta",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/37636.v7.png",
+    "stream_url": "https://sp4.colombiatelecom.com.co/8026/stream",
+    "website": "http://fiesta.com.sv/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "pop",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:48:52+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.radiogetsemanilaunion",
+    "name": "Radio Getsemani La Unión",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/37642.v4.png",
+    "stream_url": "https://radiogetsemani.net:8130/stream",
+    "website": "http://radiogetsemani.net/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:50:59+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.radioimpactofm",
+    "name": "Radio Impacto FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/37638.v9.png",
+    "stream_url": "https://radio.elsalvadordigital.net/proxy/impacto1/;",
+    "website": "https://impactosonsonate.com/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "news",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:50:02+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.radiojesfm",
+    "name": "Radio Jes FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/37779.v4.png",
+    "stream_url": "https://sonicpanel.cloudstreaming.eu/7202/stream",
+    "website": "http://www.jesfm.com/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:53:47+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.radiolafabulosa",
+    "name": "Radio La Fabulosa",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/37632.v6.png",
+    "stream_url": "http://jelafabulosa.com:8000/live",
+    "website": "http://www.jelafabulosa.com/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "pop",
+      "news",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:49:04+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.radiomesas",
+    "name": "Radio Mesías",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/37635.v4.png",
+    "stream_url": "https://stream.miradio.in/proxy/mesias/stream",
+    "website": "http://993radio.com/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:51:59+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.radionuevajerusalen",
+    "name": "Radio Nueva Jerusalén",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/37650.v6.png",
+    "stream_url": "https://tecnoservix.stream/proxy/nuevajerusalem",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "talk",
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:55:43+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.radiopachanguera",
+    "name": "Radio Pachanguera",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/37645.v15.png",
+    "stream_url": "https://stream.zeno.fm/ncem6wfvgtzuv",
+    "website": "https://zeno.fm/radio-pachanguera-station/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "pop",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:52:55+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.radioparrandera",
+    "name": "Radio Parrandera",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/37795.v9.png",
+    "stream_url": "https://stream.zeno.fm/vmbseqgdhkeuv",
+    "website": "https://zeno.fm/radio-parrandera/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "pop",
+      "news",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:52:51+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.radiopremiun",
+    "name": "Radio Premiun",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/129993.v2.png",
+    "stream_url": "http://78.129.229.122:7974/;",
+    "website": "http://radiopremiun.mex.tl/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "r'n'b",
+      "reggaeton",
+      "latin"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:56:29+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.radioranchera",
+    "name": "Radio Ranchera",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/37639.v6.png",
+    "stream_url": "https://sp4.colombiatelecom.com.co/8024/stream",
+    "website": "http://www.ranchera.com.sv/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "pop",
+      "news",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:49:02+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.radioreinadelapaz",
+    "name": "Radio Reina de la Paz",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/37806.v10.png",
+    "stream_url": "http://centova1.creativos10.com:8045/live",
+    "website": "http://diocesisdesanmiguelsv.org/radio-reina-de-la-paz/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:51:54+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.radiorocola",
+    "name": "Radio Rocola",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/37798.v8.png",
+    "stream_url": "https://cast2.my-control-panel.com/proxy/radioroc/stream",
+    "website": "http://radiorocola.com/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:50:10+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.radiosinailive",
+    "name": "La voz Del Rey de Gloria",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/37648.v5.png",
+    "stream_url": "https://ss.redradios.net:8029/stream",
+    "website": "http://www.lavozdelreydegloria.com/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:50:08+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.radiosivar",
+    "name": "Radio Sivar",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/90270.v7.png",
+    "stream_url": "https://stream.zeno.fm/6bc1eaczczzuv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "electronic",
+      "reggaeton",
+      "salsa",
+      "merengue",
+      "cumbia"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:50:53+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.radiosonora",
+    "name": "Radio Sonora",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/37651.v12.png",
+    "stream_url": "https://alba-sv-sonora-sonora.stream.mediatiquestream.com/index.m3u8",
+    "website": "http://www.radiosonora.com.sv/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "news",
+      "talk",
+      "sports"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:52:50+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.radiovariedades",
+    "name": "Radio Variedades",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/37802.v8.png",
+    "stream_url": "https://stream.zeno.fm/cep63mrpu0quv",
+    "website": "http://www.radiovariedades.publipaq.com/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "pop",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:55:44+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.recuer2",
+    "name": "Recuer2 Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/117382.v2.png",
+    "stream_url": "https://stream.zeno.fm/eszwx2tsga0uv",
+    "website": "https://recuer2radio.blogspot.com/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "retro"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:50:53+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.restauracin",
+    "name": "Restauración",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/37325.v5.png",
+    "stream_url": "https://ssl.rockhost.com/proxy/restauracion?mp=/mp3_64",
+    "website": "https://elim.org.sv/restauracion/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:49:59+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.retromix",
+    "name": "Radio Retromix",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/144317.v5.png",
+    "stream_url": "https://stream.zeno.fm/va7e8ugh11zuv",
+    "website": "https://zeno.fm/radio/Radioretromix/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "dance",
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:56:35+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.revelacion",
+    "name": "Radio Revelación",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/73744.v5.png",
+    "stream_url": "https://radiogetsemani.net:8131/stream",
+    "website": "http://www.radiogetsemani.net/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:52:57+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.revolucin",
+    "name": "Radio Revolución",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/103561.v1.png",
+    "stream_url": "https://stream.zeno.fm/e8ndurpcgv8uv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "news"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:56:34+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.rlaelsalvador",
+    "name": "Radio RLA El Salvador",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/96698.v3.png",
+    "stream_url": "http://giss.tv:8001/RLA.mp3",
+    "website": "http://giss.tv/uniplay/html5/html5.php?url=http%3A%2F%2Fgiss.tv%3A8001%2FRLA.mp3",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "classic rock",
+      "salsa"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:57:35+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.rockevolution",
+    "name": "Rock Evolution SV",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/96166.v12.png",
+    "stream_url": "https://stream.zeno.fm/zyb706bu5k8uv",
+    "website": "https://zeno.fm/radio/rock-evolution-sv7rt706bu5k8uv/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "rock",
+      "metal"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:58:25+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.rockevolutionsv",
+    "name": "94.9 KISS FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/96670.v11.png",
+    "stream_url": "https://stream.zeno.fm/8b0u27r3568uv",
+    "website": "https://zeno.fm/radio/94-9-kiss-fm/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "classic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:50:56+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.rocknation",
+    "name": "Rock Nation",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/120248.v10.png",
+    "stream_url": "http://stream.shoutcastservices.com:8087/;",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "rock",
+      "heavy metal",
+      "balada"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:56:39+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.rocksv",
+    "name": "Radio Rock SV",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/92566.v11.png",
+    "stream_url": "https://stream.zeno.fm/2f15s8vukm0uv",
+    "website": "https://radiorocksv.blogspot.com/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "rock"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:55:45+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.romanticaespanol",
+    "name": "Radio Romantica Español",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/86561.v12.png",
+    "stream_url": "https://stream.zeno.fm/zcl6d8zio9tuv",
+    "website": "https://guanacosgruporadial.blogspot.com/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "latin",
+      "romantic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:51:03+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.romanticaingles",
+    "name": "Radio Romantica Ingles",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/86562.v11.png",
+    "stream_url": "https://a11.asurahosting.com:8160/radio.mp3",
+    "website": "https://guanacosgruporadial.blogspot.com/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "rock",
+      "pop",
+      "balada"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:49:58+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.rsa",
+    "name": "Radio Stereo Adventista",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/37316.v5.png",
+    "stream_url": "https://s42.myradiostream.com:34246/listen.mp3",
+    "website": "http://www.radioadventista.org.sv/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "pop",
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:51:55+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.rumbalatina",
+    "name": "Radio Rumba Latina",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/77568.v5.png",
+    "stream_url": "https://c11.radioboss.fm:8303/stream",
+    "website": "https://radiorumbalatina.com/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:52:52+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.rumbalatinacu",
+    "name": "Radio Rumba Latina",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/103010.v2.png",
+    "stream_url": "https://c11.radioboss.fm:18303/stream",
+    "website": "https://www.radiorumbalatina.com/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:50:55+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.rx",
+    "name": "Radio RX FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/37446.v8.png",
+    "stream_url": "https://media.dominiocreativo.com:8005/radiorx",
+    "website": "http://www.radiorxfm.com/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "pop",
+      "talk",
+      "spanish"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:55:36+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.salem",
+    "name": "Radio Salem",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/37559.v5.png",
+    "stream_url": "http://streamingcontrol.com:8500/;",
+    "website": "http://radiosalem.org/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "talk",
+      "christian",
+      "education",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:52:03+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.salsafest",
+    "name": "SalsaFest",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/124002.v8.png",
+    "stream_url": "https://stream.zeno.fm/f5ykct1smsguv",
+    "website": "https://zeno.fm/radio/SALSAFEST/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "salsa"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:58:25+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.sanjose",
+    "name": "Radio San José",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/37600.v6.png",
+    "stream_url": "https://s34.myradiostream.com/:6262/;",
+    "website": "http://radio-san-jose.webnode.es/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:54:51+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.sanmiguel",
+    "name": "Radio San Miguel El Salvador",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/134178.v12.png",
+    "stream_url": "https://stream.zeno.fm/zfyyak8ti3rtv",
+    "website": "https://edwinjesus7900.wixsite.com/radio-san-miguel-el",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:49:54+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.sanromero",
+    "name": "Radio San Romero",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/86126.v5.png",
+    "stream_url": "http://91.121.121.25:8185/;",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:58:17+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.sansalvador",
+    "name": "San Salvador 70s HITS",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/108555.v22.png",
+    "stream_url": "https://stream.zeno.fm/5cwoxb5ho9tvv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "disco",
+      "classic rock",
+      "70s",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:50:12+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.sansalvador80s",
+    "name": "San Salvador Radio 80s",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/136047.v1.png",
+    "stream_url": "https://stream.zeno.fm/dfhzxctcjh1vv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:56:32+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.scan961",
+    "name": "Scan 96.1",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/37253.v7.png",
+    "stream_url": "http://158.69.200.1:8022/stream/;",
+    "website": "http://www.miradio.com.sv/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "pop",
+      "top40",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:48:54+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.sendadepaz",
+    "name": "Radio Senda de Paz",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/144017.v1.png",
+    "stream_url": "https://tecnoservix.stream:4002/;",
+    "website": "https://radiosendadepaz.org/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:56:41+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.senorial",
+    "name": "Radio Señorial",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/110235.v1.png",
+    "stream_url": "https://stream.zeno.fm/7vuxks6any8uv",
+    "website": "https://zeno.fm/radio/LAPRIMERAENSUDIAL/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "80s",
+      "balada"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:51:49+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.shalomtebendice",
+    "name": "Shalom Radio Te Bendice",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/80651.v6.png",
+    "stream_url": "https://tecnoservix.stream:4007/stream",
+    "website": "https://tabernaculoshalom.net/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:52:56+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.shock",
+    "name": "Shock Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/89293.v7.png",
+    "stream_url": "https://stream.zeno.fm/seyvnxryx1zuv",
+    "website": "http://shockradiosv.com/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:55:47+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.shuk",
+    "name": "ShuK Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/117277.v4.png",
+    "stream_url": "https://stream.zeno.fm/1empsfh16bhvv",
+    "website": "https://shukradio.blogspot.com/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "grupera"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:55:48+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.siemprejovenes",
+    "name": "Inolvidable Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/74971.v5.png",
+    "stream_url": "https://stream.zeno.fm/2cs67xucna0uv",
+    "website": "https://zeno.fm/inolvidable-radio/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "balada"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:50:00+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.siemprejovenesradio",
+    "name": "Siempre Jovenes Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/150953.v1.png",
+    "stream_url": "https://server01.heplayer.com:7084/;",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:57:27+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.solohits",
+    "name": "Solo Hits Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/115475.v12.png",
+    "stream_url": "https://server01.heplayer.com/8106/stream",
+    "website": "https://solohitsradio.com/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "pop",
+      "80s"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:52:04+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.soloporfregar",
+    "name": "Solo Por Fregar by @PenchoDuque",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/89536.v5.png",
+    "stream_url": "https://streamer.radio.co/s3a3c12873/listen",
+    "website": "https://soloporfregar.com/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "talk",
+      "retro",
+      "90s",
+      "00s",
+      "80s"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:52:59+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.soyacity",
+    "name": "Soyacity Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/81307.v4.png",
+    "stream_url": "https://stream.zeno.fm/nfwqbgfu9druv",
+    "website": "https://soyacity.com/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "80s",
+      "reggaeton",
+      "salsa",
+      "merengue"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:50:58+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.stereopacifica",
+    "name": "Radio Sensacional El Salvador",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/133973.v28.png",
+    "stream_url": "https://stream.zeno.fm/ar1f9iuyvhgtv",
+    "website": "https://edwinjesus7900.wixsite.com/radiopacifica1sv",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "latin"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:55:43+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.stereoperla",
+    "name": "Radio Stereo Perla",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/127415.v8.png",
+    "stream_url": "https://azuracast.aguilarsoluciones.com/listen/radiostereoperla/stream",
+    "website": "https://www.radiostereoperla.com/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "ranchera",
+      "banda"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:55:49+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.streomorazn",
+    "name": "Radio Stéreo Morazán",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/37302.v5.png",
+    "stream_url": "http://5.39.82.140:9896/;",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "pop",
+      "talk",
+      "spanish"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:52:59+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.superestrella",
+    "name": "Super Estrella 94.1 FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/95206.v9.png",
+    "stream_url": "https://streaming.rcs.com.sv/proxy/super/stream",
+    "website": "https://radiocorporacionelsalvador.com/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "90s",
+      "00s",
+      "80s"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:50:04+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.superstereo",
+    "name": "Radio Super Stereo El Salvador",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/98977.v12.png",
+    "stream_url": "https://azuracast.aguilarsoluciones.com/listen/radiosuperstereosv/stream",
+    "website": "https://www.superstereosv.com/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "rock",
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:53:49+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.supra",
+    "name": "Radio Supra 90.5 fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/123000.v2.png",
+    "stream_url": "https://stream.zeno.fm/cpoqmejvb7ftv",
+    "website": "https://radiosupra905.com/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "90s",
+      "80s",
+      "70s"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:57:22+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.suspirodepoetas",
+    "name": "Suspiro de Poetas Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/113907.v5.png",
+    "stream_url": "https://stream.zeno.fm/56k2p4w4rchvv",
+    "website": "http://suspirosdepoetas.com/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "pop",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:53:50+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.teleonda",
+    "name": "Teleonda",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/110406.v1.png",
+    "stream_url": "https://stream.zeno.fm/m7kv6639my8uv",
+    "website": "https://zeno.fm/radio/TELEONDA/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "instrumental"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:51:05+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.telexar",
+    "name": "Radio Telexar",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/82116.v12.png",
+    "stream_url": "http://s5.myradiostream.com:43478/;",
+    "website": "https://telexaradio.wordpress.com/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "rock",
+      "pop",
+      "classic",
+      "latin"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:56:38+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.tendenciaonline",
+    "name": "Radio Tendencia On Line",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/99142.v3.png",
+    "stream_url": "https://tecnoservix.stream/proxy/radiotendencia?mp=/stream",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:56:34+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.themetalroomweb",
+    "name": "The Metalroom Web Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/89717.v11.png",
+    "stream_url": "https://stream.zeno.fm/fptmq750urhvv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "rock",
+      "metal"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:54:49+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.tiempo900",
+    "name": "Radio Tiempo 900 AM",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/89139.v9.png",
+    "stream_url": "https://usa13.fastcast4u.com/proxy/tiempo?mp=/1;JLS_ATI.ogg",
+    "website": "http://www.radiotiempoelsalvador.com/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:50:09+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.tocame1007",
+    "name": "Tocame 100.7",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/92662.v4.png",
+    "stream_url": "https://stream20.usastreams.com:7001/;",
+    "website": "https://tocame1007.com/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "mexican",
+      "cumbia",
+      "balada"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:58:24+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.upa",
+    "name": "Radio UPA 90.9 FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/134130.v5.png",
+    "stream_url": "https://server.laradio.online/proxy/gustavo_waingortin?mp=/stream",
+    "website": "https://www.radioupa.com.ar/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:55:39+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.vante",
+    "name": "VANTE.FM Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/118295.v3.png",
+    "stream_url": "http://freeuk30.listen2myradio.com:17417/;stream",
+    "website": "https://vantefm.radiostream321.com/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "latin",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:56:27+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.viajeros",
+    "name": "Viajeros Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/90359.v12.png",
+    "stream_url": "https://radio13.servidorderadio.net/8238/stream/",
+    "website": "https://viajerosradiosv.com/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "electronic",
+      "dubstep",
+      "rock",
+      "r'n'b",
+      "disco",
+      "pop",
+      "blues",
+      "rock'n'roll",
+      "jazz",
+      "folk",
+      "classic",
+      "rap",
+      "hip-hop",
+      "soul",
+      "funk",
+      "punk",
+      "reggae",
+      "garage",
+      "reggaeton",
+      "salsa",
+      "bachata",
+      "bolero",
+      "bossa nova",
+      "balada",
+      "vallenato"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:53:58+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.vida1061d",
+    "name": "Radio Vida Nueva 106.1 FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/98282.v10.png",
+    "stream_url": "https://sonicpanel.cloudstreaming.eu/8020/stream",
+    "website": "https://vidanuevaradio.org/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:54:53+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.vidaelsalvador",
+    "name": "Radio Vida El Salvador",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/99043.v8.png",
+    "stream_url": "https://azuracast.aguilarsoluciones.com/listen/radiovidasv/stream",
+    "website": "https://www.radiovidasv.com/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:53:57+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.vidaplus",
+    "name": "RadioVidaplus",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/86639.v8.png",
+    "stream_url": "https://stream.radiojar.com/zsa40c6arfeuv",
+    "website": "http://vidaplusradio.blogspot.com/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "pop",
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:54:45+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.vijaer",
+    "name": "RadioVijaer",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/102066.v1.png",
+    "stream_url": "https://stream.zeno.fm/v5kea3weq8quv",
+    "website": "https://radiovijaer.es.tl/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "rock"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:58:21+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.vipelsalvador",
+    "name": "V.I.P. Radio el Salvador",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/84440.v10.png",
+    "stream_url": "https://hd.jrhost.net:8030/radio.mp3",
+    "website": "https://vipradioelsalvador.blogspot.com/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "90s",
+      "00s",
+      "80s",
+      "10s"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:51:01+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.visionministeriosunidosporcristo",
+    "name": "Radio Visión 1270 AM",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/37292.v10.png",
+    "stream_url": "http://173.249.0.101:9330/stream",
+    "website": "http://radiovisionministeriosunidos.com/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "pop",
+      "talk",
+      "spanish"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:58:20+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.vivenciasmusicales",
+    "name": "Radio Vivencias Musicales",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/111086.v3.png",
+    "stream_url": "https://stream.zeno.fm/m5s2yrebgc9uv",
+    "website": "http://www.radiovivenciasmusicales.live/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "pop",
+      "salsa",
+      "merengue",
+      "balada"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:55:48+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.vn",
+    "name": "VN Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/94575.v21.png",
+    "stream_url": "http://uk22freenew.listen2myradio.com:3643/;",
+    "website": "https://virolenonoticias.com/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "dance",
+      "pop",
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:54:46+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.voltaje",
+    "name": "Radio Voltaje",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/120624.v2.png",
+    "stream_url": "https://stream.zeno.fm/ruhguifyaoftv",
+    "website": "https://zeno.fm/radio/radio-voltaje-fm/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "rock",
+      "pop",
+      "cumbia"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:57:31+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.vox",
+    "name": "Vox FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/37294.v8.png",
+    "stream_url": "https://cast3.asurahosting.com/proxy/gabriel/stream",
+    "website": "http://www.voxfm.com/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "pop",
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:49:55+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.vozdererstauaracion",
+    "name": "Radio Voz De Rerstauaracion",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/135458.v1.png",
+    "stream_url": "https://stream.zeno.fm/qxc43vze7e9uv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:56:38+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.wradio",
+    "name": "W Radio El Salvadore",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/152892.v1.png",
+    "stream_url": "https://streaming.sistemasx.com:8030/radio.mp3",
+    "website": "https://www.wradioelsalvador.com/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "ranchera",
+      "grupera",
+      "salsa",
+      "merengue",
+      "cumbia",
+      "bachata"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:57:23+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.xtremevibes",
+    "name": "Xtremevibes",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/114253.v6.png",
+    "stream_url": "https://c17.radioboss.fm:18162/stream",
+    "website": "http://xtremevibes.com/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "rock",
+      "pop",
+      "spanish",
+      "latin",
+      "salsa",
+      "cumbia",
+      "bachata"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:54:53+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.ysax",
+    "name": "YSAX",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/37603.v6.png",
+    "stream_url": "https://c20.radioboss.fm:18108/stream",
+    "website": "http://radioysax.org/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:51:57+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.yskl",
+    "name": "YSKL la Poderosa",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/37242.v5.png",
+    "stream_url": "http://media.dominiocreativo.com:8000/radioyskl",
+    "website": "http://www.radioyskl.com/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:48:51+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.ysu",
+    "name": "YSU radiocadena",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/110110.v3.png",
+    "stream_url": "https://stream.zeno.fm/y90eqr9x0f9uv",
+    "website": "https://ysuradiocadena.sutty.nl/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:51:05+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.ysuca",
+    "name": "YSUCA",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/37549.v12.png",
+    "stream_url": "https://fast.citrus3.com:8314/stream",
+    "website": "http://www.ysuca.org.sv/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:49:07+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.yxy1057",
+    "name": "YXY 105.7",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/37245.v7.png",
+    "stream_url": "http://158.69.200.1:8020/stream/;",
+    "website": "http://www.miradio.com.sv/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "pop",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:49:54+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.zfl",
+    "name": "HH Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/133141.v5.png",
+    "stream_url": "https://host.azuracastnet.com/listen/zfl_radio/radio.mp3",
+    "website": "https://hhmediasv.com/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "r'n'b",
+      "rap",
+      "hip-hop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:57:32+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.zona503",
+    "name": "Radio Zona 503 - Radio de EL Salvador",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/74003.v10.png",
+    "stream_url": "https://listen.openstream.co/7197/audio",
+    "website": "https://radiozona503.com/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "cumbia",
+      "romantic",
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:53:46+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.zonaoriental",
+    "name": "Radio Trueno",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/111287.v11.png",
+    "stream_url": "https://stream.zeno.fm/xbhtp1k0df9uv",
+    "website": "https://zeno.fm/radio/radio-trueno/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "electronic",
+      "reggaeton",
+      "latin",
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:53:00+05:30"
+  },
+  {
+    "id": "onlineradiobox_sv.zoom",
+    "name": "Radio Zoom SV",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/109934.v10.png",
+    "stream_url": "https://azuracast.aguilarsoluciones.com/listen/radiozoomsv/stream",
+    "website": "https://www.radiozoomsv.net/",
+    "provider": "onlineradiobox",
+    "country": "El Salvador",
+    "genres": [
+      "80s",
+      "70s"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:53:53+05:30"
+  }
+]

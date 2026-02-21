@@ -1,0 +1,4867 @@
+[
+  {
+    "id": "onlineradiobox_uy.098masmusica",
+    "name": "Radio 098 - Más música!",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/95356.v20.png",
+    "stream_url": "https://stream.zeno.fm/aam2ts855p8uv",
+    "website": "https://radio098.wixsite.com/radio098",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "rock",
+      "pop",
+      "metal",
+      "jazz",
+      "90s",
+      "00s",
+      "80s",
+      "70s",
+      "60s",
+      "punk",
+      "reggaeton",
+      "latin",
+      "salsa"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:17:29+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.1010",
+    "name": "Radio 1010 AM",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/29005.v10.png",
+    "stream_url": "https://icecast1.innovanexo.com:9000/carvedeportiva.mp3",
+    "website": "https://radio1010.uy/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "pop",
+      "talk",
+      "sports"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:13:19+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.1110",
+    "name": "Paso de los Toros",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/28729.v5.png",
+    "stream_url": "https://streaming2.hostingmontevideo.com/8032/stream;",
+    "website": "http://am.pasodelostoros.com/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "pop",
+      "news",
+      "sports"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:15:47+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.2014",
+    "name": "2014radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/79714.v3.png",
+    "stream_url": "http://162.210.196.140:30351/;",
+    "website": "https://2014radio.es.tl/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "r'n'b",
+      "pop",
+      "classic rock",
+      "folk",
+      "chill-out",
+      "new age",
+      "tango",
+      "salsa"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:19:25+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.24horas",
+    "name": "24horas.uy",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/147170.v1.png",
+    "stream_url": "https://servidor26.brlogic.com:7082/live",
+    "website": "https://www.24horas.uy/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "pop",
+      "classic rock",
+      "news",
+      "balada"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:21:08+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.3montevideo",
+    "name": "Radio3 Montevideo",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/83707.v10.png",
+    "stream_url": "https://sc10.conectarhosting.com/proxy/radio3montevideo?mp=/stream:8820/stream",
+    "website": "http://www.radio3montevideo.com/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:16:36+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.41",
+    "name": "Radio 41",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/28226.v3.png",
+    "stream_url": "http://radios-online.info:2990/;",
+    "website": "http://www.radio41.com.uy/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "news",
+      "talk",
+      "sports"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:17:35+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.88uno",
+    "name": "88.1 FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/87865.v4.png",
+    "stream_url": "http://stm1.globalmedios.net:7692/1?type=http&nocache=1",
+    "website": "http://www.88uno.com/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "latin",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:22:00+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.991",
+    "name": "Ciudad de Melo FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/28222.v6.png",
+    "stream_url": "https://rr5100.globalhost1.com/8454/stream",
+    "website": "http://www.radiofm991.com/fm/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "pop",
+      "top40",
+      "spanish"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:15:55+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.activa",
+    "name": "ACTIVAradio",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/143702.v1.png",
+    "stream_url": "https://a7.asurahosting.com/listen/www.activaradio.com.uy/radio.mp3",
+    "website": "https://www.activaradio.com.uy/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "dance",
+      "rock",
+      "pop",
+      "classic rock"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:21:20+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.activaonline",
+    "name": "Activaonline",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/99090.v3.png",
+    "stream_url": "https://stream.zeno.fm/v6ay1m67gwzuv",
+    "website": "http://activawebradio.blogspot.com/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:18:24+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.acuarela",
+    "name": "Radio Acuarela",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/75696.v5.png",
+    "stream_url": "https://emisora.zonasinergia.com/8042/stream",
+    "website": "http://www.radioacuarela.blogspot.com/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "dance",
+      "pop",
+      "news",
+      "spanish"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:14:52+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.acuario",
+    "name": "Acuario FM 94.9",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/110031.v11.png",
+    "stream_url": "https://radio25-zikoxstream.radioca.st/stream",
+    "website": "http://www.acuariofm.uy/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "top40",
+      "latin",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:18:37+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.adeom",
+    "name": "Adeom FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/29029.v1.png",
+    "stream_url": "http://s4.mexside.net:2142/;",
+    "website": "http://www.adeomfm.com/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "talk",
+      "top40",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:14:02+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.airefm",
+    "name": "Aire FM 100.3",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/115989.v2.png",
+    "stream_url": "https://streaming3.hostingmontevideo.com/8064/stream",
+    "website": "https://www.airefm.com.uy/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "pop",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:14:08+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.alfa",
+    "name": "Alfa FM 96.3",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/28587.v3.png",
+    "stream_url": "https://rfm.radio.netgate.com.uy:8443/alfafm",
+    "website": "http://www.alfafm.com.uy/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "pop",
+      "news",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:15:43+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.alrojovivo",
+    "name": "Al Rojo Vivo",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/139432.v3.png",
+    "stream_url": "https://a11.asurahosting.com:9350/radio.mp3",
+    "website": "https://alrojovivosiempre.com/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "folk",
+      "latin",
+      "cumbia",
+      "romantic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:21:14+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.alternativafm1055",
+    "name": "Alternativa FM 105.5",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/51329.v3.png",
+    "stream_url": "http://198.100.145.190:8000/Alternativafm.ogg",
+    "website": "http://radioalternativafm1055.blogspot.com.uy/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "alternative",
+      "spanish"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:20:18+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.amanecer",
+    "name": "Amanecer 91.9 FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/28312.v4.png",
+    "stream_url": "http://198.100.145.187:17700/;",
+    "website": "http://amanecerfm.com.uy/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:20:21+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.america",
+    "name": "CX46 Radio America",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/28151.v4.png",
+    "stream_url": "https://america-2.nty.uy/stream",
+    "website": "http://www.cx46.com.uy/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "pop",
+      "spanish"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:17:42+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.antennaweb",
+    "name": "Antenna Web Montevideo",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/133450.v1.png",
+    "stream_url": "http://tinyurl.com/AntennaWebMontevideo",
+    "website": "https://antennaweb.it/antennaweb-montevideo/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "rock",
+      "pop",
+      "blues",
+      "jazz",
+      "funk",
+      "reggaeton"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:21:16+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.arapey",
+    "name": "Radio Arapey",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/28015.v2.png",
+    "stream_url": "http://emisiones.com.uy:8085/arapey",
+    "website": "http://www.10minutos.com.uy/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "talk",
+      "spanish"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:15:46+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.artigas",
+    "name": "Artigas FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/80804.v4.png",
+    "stream_url": "http://emisiones.com.uy:5108/artigas",
+    "website": "http://artigasfm.uy/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "folk",
+      "classic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:17:36+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.aspen",
+    "name": "Radio Aspen",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/28057.v8.png",
+    "stream_url": "https://streaming3.hostingmontevideo.com:7010/;",
+    "website": "http://aspenpunta.com/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "spanish",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:13:26+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.atalaiaschannel",
+    "name": "Radio Atalaias Channel",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/133033.v3.png",
+    "stream_url": "https://stream.zeno.fm/5z4w6tp5muhvv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:21:08+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.atalaiasrou",
+    "name": "Radio Atalaias Rou",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/125569.v4.png",
+    "stream_url": "https://stream.zeno.fm/pea5sapd508uv",
+    "website": "https://zeno.fm/radio/Radio-atalaias-rou/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:19:29+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.atalaiassoft",
+    "name": "Radio Atalaias Soft",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/125654.v4.png",
+    "stream_url": "https://stream.zeno.fm/2gc616ztpc9uv",
+    "website": "https://zeno.fm/radio/radio-atalaias-soft/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:21:06+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.atlantida",
+    "name": "Atlantida FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/28857.v2.png",
+    "stream_url": "http://server-uk1.radioseninternet.net:8034/;",
+    "website": "http://www.atlantidafm.com.uy/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "pop",
+      "talk",
+      "spanish"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:15:56+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.audiovisual",
+    "name": "Radio Demo",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/113130.v49.png",
+    "stream_url": "https://stream.zeno.fm/h4rmlwhjdh6uv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "pop",
+      "news",
+      "sports"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:16:46+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.aurora",
+    "name": "RadioAurorA",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/102941.v4.png",
+    "stream_url": "https://stream.zeno.fm/k5w9cvq1hd0uv",
+    "website": "https://zeno.fm/radio/RadioAurorA/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "news",
+      "culture",
+      "politics"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:16:36+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.auroradigital",
+    "name": "Radio Aurora Digital",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/80764.v5.png",
+    "stream_url": "http://198.204.234.10:8229/stream/1/",
+    "website": "https://www.aurora.com.uy/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:21:17+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.azul",
+    "name": "Azul FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/28867.v12.png",
+    "stream_url": "https://azul-3.nty.uy/",
+    "website": "http://www.azulfm.com.uy/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "pop",
+      "top40",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:13:10+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.babel",
+    "name": "Babel FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/28146.v14.png",
+    "stream_url": "https://radios.iwstreaming.uy/8030/stream",
+    "website": "https://mediospublicos.uy/radio-babel-vivo/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "blues",
+      "jazz",
+      "classic",
+      "ethnic",
+      "tango",
+      "instrumental",
+      "flamenco"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:13:24+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.boliche",
+    "name": "Boliche Radio 89.7 FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/79554.v12.png",
+    "stream_url": "https://streaming1.locucionar.com/proxy/bolicheradio?mp=/stream",
+    "website": "http://www.bolicheradio.com/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "dance",
+      "electronic",
+      "reggaeton",
+      "cumbia",
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:14:00+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.box",
+    "name": "Radio Box",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/113353.v2.png",
+    "stream_url": "https://sp.panelchs.com:8088/stream",
+    "website": "https://www.radiobox.uy/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "news",
+      "comedy"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:19:18+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.bravafm",
+    "name": "Brava FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/130019.v2.png",
+    "stream_url": "https://fmbrava-2.nty.uy/",
+    "website": "http://fmbrava.com/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "pop",
+      "folk",
+      "latin"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:21:58+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.buenascharqueada",
+    "name": "Buenas Charqueada FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/76050.v19.png",
+    "stream_url": "https://sonic.cloudstreaming.eu/8140/stream",
+    "website": "http://www.buenas-charqueada.webnode.com.uy/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:19:23+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.buenosaires",
+    "name": "FM Buenos Aires",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/67241.v7.png",
+    "stream_url": "https://01.solumedia.com.ar:8352/stream",
+    "website": "https://fmbuenosaires.net/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "pop",
+      "classic",
+      "oldies",
+      "latin",
+      "salsa",
+      "bachata"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:15:42+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.buscandoesperanza",
+    "name": "Radio Buscando Esperanza",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/119007.v2.png",
+    "stream_url": "https://stream.zeno.fm/467fwbz4cm8uv",
+    "website": "https://radios.com.uy/buscando-esperanda-fm/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:20:11+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.cafeexpress",
+    "name": "Cafe Express Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/72841.v16.png",
+    "stream_url": "https://streaming5.locucionar.com/proxy/cafeexpress?mp=/stream",
+    "website": "http://www.cafeexpressradio.com/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "90s",
+      "80s"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:13:59+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.carmelo1460",
+    "name": "Radio Carmelo 1460 AM",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/77283.v3.png",
+    "stream_url": "https://server.laradio.online/proxy/martin_barragan05?mp=/stream",
+    "website": "https://www.radiocarmelo.com/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "talk",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:18:25+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.carve",
+    "name": "Radio Carve 850 AM",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/28042.v9.png",
+    "stream_url": "https://icecast2.innovanexo.com:9000/radiocarve850.mp3",
+    "website": "http://www.carve850.com.uy/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "news",
+      "sports",
+      "politics"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:13:12+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.ceiboblanco",
+    "name": "Ceibo Blanco FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/76064.v16.png",
+    "stream_url": "https://sonicpanel.totalstreaming.net:8198/stream",
+    "website": "https://ceiboblancofm.webnode.es/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:14:09+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.centenario",
+    "name": "Radio Centenario AM",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/28148.v3.png",
+    "stream_url": "http://rfm.radio.netgate.com.uy:8000/centenario",
+    "website": "http://www.radio36.com.uy/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:15:42+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.cero",
+    "name": "Radiocero",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/28162.v7.png",
+    "stream_url": "https://icecast3.innovanexo.com:9000/radiocero.mp3",
+    "website": "http://www.radiocero.com.uy/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "pop",
+      "news",
+      "talk",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:13:20+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.chana",
+    "name": "Emisora Chana",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/78528.v3.png",
+    "stream_url": "https://stream.zenolive.com/u7c19u0u72quv",
+    "website": "https://emisorachana.wixsite.com/website-2",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "news",
+      "sports",
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:16:37+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.charrua",
+    "name": "Radio Charrua",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/29194.v10.png",
+    "stream_url": "https://cast.youngtech.radio.br/radio/8780/fm",
+    "website": "http://www.radiocharruaamfm.com.br/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "pop",
+      "talk",
+      "spanish"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:19:18+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.ciensantaluca",
+    "name": "Radio Cien Uruguay",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/135125.v15.png",
+    "stream_url": "https://stream.xweb.ar:8096/;",
+    "website": "https://radiocienweb.com/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:20:13+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.cinco",
+    "name": "Radio Cinco",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/28144.v2.png",
+    "stream_url": "http://emisiones.com.uy:8084/cinco.mp3",
+    "website": "http://agenda.org.uy/radiocinco/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "talk",
+      "folk",
+      "latin"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:17:30+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.circuito21",
+    "name": "Сircuito21",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/74265.v27.png",
+    "stream_url": "http://hmdsystem.info:8091/circuito",
+    "website": "http://www.circuito21.uy/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "talk",
+      "sports"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:17:37+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.citydurazno",
+    "name": "Radio City Durazno",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/79571.v2.png",
+    "stream_url": "http://usa15.ciudaddigital.com.uy:8030/CityFM",
+    "website": "http://www.radiocity.com.uy/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "rock",
+      "pop",
+      "folk",
+      "cumbia",
+      "bolero"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:13:22+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.ciudadanalagaviota",
+    "name": "Ciudadana La Gaviota",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/69869.v4.png",
+    "stream_url": "https://stream.zeno.fm/65h59sw071zuv",
+    "website": "https://ciudadana1033fm.blogspot.com/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "pop",
+      "news",
+      "talk",
+      "latin"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:18:31+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.ciudadlive",
+    "name": "Radio Ciudad Live",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/126872.v1.png",
+    "stream_url": "https://sonicpanel.oficialserver.com:7184/;",
+    "website": "https://radiociudadlive.blogspot.com/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "pop",
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:21:18+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.ciudaduruguay",
+    "name": "Fm Ciudad Uruguay",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/134022.v7.png",
+    "stream_url": "https://s1.radiosenialesfm.com:8040/radio.mp3",
+    "website": "https://fmciudad.com.uy/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "rock",
+      "pop",
+      "oldies",
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:20:23+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.clarin",
+    "name": "Clarin AM580",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/28019.v4.png",
+    "stream_url": "https://radioclarin-zikoxweb.radioca.st/stream",
+    "website": "http://www.radioclarin.com/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "talk",
+      "folk",
+      "tango"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:14:01+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.clasica",
+    "name": "Clásica 650 AM",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/28987.v13.png",
+    "stream_url": "https://radios.iwstreaming.uy/8032/stream",
+    "website": "http://clasica.uy/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "folk",
+      "classic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:14:06+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.clasicosweb",
+    "name": "Clásicos radio web",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/70375.v5.png",
+    "stream_url": "https://securestream.conectarhosting.com:8151/;",
+    "website": "https://clasicosradioweb.com/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "classic",
+      "opera",
+      "baroque"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:14:52+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.cmf",
+    "name": "CMF Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/75782.v14.png",
+    "stream_url": "https://srv1.radiostreamuy.com/listen/cmf-radio/stream",
+    "website": "https://cmfradio.online/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "reggaeton",
+      "latin",
+      "cumbia"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:14:03+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.colonia",
+    "name": "AM550",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/28005.v6.png",
+    "stream_url": "https://playerservices.streamtheworld.com/api/livestream-redirect/COLONIA_ADP.aac?dist=onlineradiobox",
+    "website": "https://www.radiocolonia.com/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "news",
+      "adult contemporary",
+      "politics"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:15:02+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.conaicop",
+    "name": "Conaicop",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/72239.v5.png",
+    "stream_url": "https://stream.zenolive.com/w5k0y0qbft5tv",
+    "website": "https://radioconaicop.blogspot.com/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:17:36+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.conecta",
+    "name": "Conecta Radio uy",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/154845.v1.png",
+    "stream_url": "https://servidor21-3.brlogic.com:7144/live",
+    "website": "https://conectaradiouy.webradiosite.com/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "news"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:22:04+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.continental",
+    "name": "Radio Continental",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/29006.v3.png",
+    "stream_url": "https://server-usa2.radioseninternet.net/9316/stream",
+    "website": "http://www.radiocontinental.com.uy/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "news",
+      "talk",
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:16:43+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.coolteen",
+    "name": "For Me Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/68403.v65.png",
+    "stream_url": "https://stream.zeno.fm/khnx9d8tcg8uv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "electronic",
+      "latin",
+      "cumbia"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:16:34+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.creativa",
+    "name": "Radio Creativa Play",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/151609.v9.png",
+    "stream_url": "https://s2.suenalive.com/8060/stream",
+    "website": "https://www.radiocreativaplay.com/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:18:26+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.cristal",
+    "name": "Radio Cristal",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/28014.v5.png",
+    "stream_url": "http://usa15.ciudaddigital.com.uy:8126/CristalAM",
+    "website": "https://www.radiocristal.uy/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "news",
+      "talk",
+      "sports",
+      "politics"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:14:13+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.cristiana",
+    "name": "Radio Cristiana",
+    "image": "https://cdn.onlineradiobox.com/img/logo/8/93938.png",
+    "stream_url": "https://stream.zeno.fm/25aupcx5v7zuv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "christian",
+      "cumbia"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:18:35+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.cw33lanueva",
+    "name": "CW33 La Nueva 1200 AM Radio Florida",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/33895.v7.png",
+    "stream_url": "https://streaming1.hostingmontevideo.com:7017/;stream.mp3",
+    "website": "http://www.cw33florida.com.uy/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "news",
+      "talk",
+      "spanish"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:14:05+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.danielsan",
+    "name": "Danielsan Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/126793.v1.png",
+    "stream_url": "https://streaming2.hostingmontevideo.com/8014/stream",
+    "website": "https://danielsanradio.blogspot.com/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "top40",
+      "oldies",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:17:41+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.dasdegloria",
+    "name": "Dias de Gloria",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/28596.v6.png",
+    "stream_url": "http://server.laradio.online:9114/;",
+    "website": "http://www.diasdegloria.com/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "pop",
+      "retro"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:15:04+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.deilirio",
+    "name": "Radio Delirio",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/72972.v14.png",
+    "stream_url": "https://srv2.radiostreamuy.com/8004/stream",
+    "website": "https://www.radiodelirio.com/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "dance",
+      "electronic",
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:14:56+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.delanuca",
+    "name": "De La Nuca FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/28902.v9.png",
+    "stream_url": "https://stm.gmpro.top:7070/stream",
+    "website": "http://www.delanucafm.com/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "cumbia"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:13:17+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.delcarmen",
+    "name": "FM Del Carmen",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/29188.v3.png",
+    "stream_url": "http://radios-online.info:2930/;",
+    "website": "http://www.fmdelcarmen.com/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "pop",
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:19:20+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.deleste",
+    "name": "Radio Del Este",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/76577.v13.png",
+    "stream_url": "https://emisorasdigitales2.com:7005/;",
+    "website": "http://www.radiodeleste.com.uy/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:16:45+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.delexodo",
+    "name": "Del Exodo",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/123093.v5.png",
+    "stream_url": "https://hmdsystem.info:8177/exodo",
+    "website": "https://exodofm.com/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:19:28+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.delmolino",
+    "name": "Del Molino FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/28903.v8.png",
+    "stream_url": "https://sp2.servidorrprivado.com:10878/;",
+    "website": "http://www.delmolinofm.com/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:15:54+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.delsol",
+    "name": "FM Del Sol",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/28996.v5.png",
+    "stream_url": "https://delsol-4.nty.uy/stream/1/",
+    "website": "http://delsol.uy/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "dance",
+      "electronic",
+      "pop",
+      "top40",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:13:14+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.diamante",
+    "name": "Diamante FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/28591.v3.png",
+    "stream_url": "http://radiolatina.live:8058/stream",
+    "website": "http://www.diamantefm.com/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "pop",
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:14:06+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.difusorarochense",
+    "name": "Difusora Rochense",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/28158.v4.png",
+    "stream_url": "https://rochense-1.nty.uy/",
+    "website": "http://www.difusorarochense.com.uy/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "talk",
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:16:38+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.difusorasoriano",
+    "name": "Difusora Soriano",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/28011.v5.png",
+    "stream_url": "http://usa15.ciudaddigital.com.uy:8094/DifusoraSoriano",
+    "website": "https://difusorasorianoadm0.wixsite.com/am1210/contactos",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:14:02+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.difusoratreinta",
+    "name": "Difusora Treinta y Tres",
+    "image": "https://cdn.onlineradiobox.com/img/logo/2/28592.png",
+    "stream_url": "http://server-uk1.radioseninternet.net:8132/;stream/1",
+    "website": "http://difusoratreintaytres.com.uy/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "pop",
+      "spanish",
+      "balada"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:15:54+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.disney",
+    "name": "Radio Disney",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/28012.v9.png",
+    "stream_url": "https://playerservices.streamtheworld.com/api/livestream-redirect/DISNEY_URY_MVAAC.m3u8?dist=onlineradiobox",
+    "website": "https://uy.radiodisney.com/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "dance",
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:13:15+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.dolores",
+    "name": "Radio Dolores",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/28018.v4.png",
+    "stream_url": "https://streaming.criterioonline.com.ar/proxy/rdolores/;stream.mp3",
+    "website": "http://www.radiodolores.com.ar/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:16:37+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.dotworking",
+    "name": "Dotworking Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/85875.v13.png",
+    "stream_url": "https://radiosuy.mooo.com:7443/dotworking",
+    "website": "http://radiosuy.mooo.com/dotworking",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "rock",
+      "pop",
+      "90s",
+      "80s",
+      "oldies",
+      "soft rock"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:17:38+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.durazno",
+    "name": "Radio Durazno",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/28214.v1.png",
+    "stream_url": "http://usa15.ciudaddigital.com.uy:8038/DuraznoAM",
+    "website": "http://www.radiodurazno.com/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "pop",
+      "talk",
+      "spanish"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:13:11+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.elpuente",
+    "name": "El Puente FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/28904.v6.png",
+    "stream_url": "https://as100.globalhost1.com/8082/stream",
+    "website": "https://elpuenteportal.org.uy/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "pop",
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:19:27+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.eltiempo",
+    "name": "Radio El Tiempo",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/29197.v2.png",
+    "stream_url": "http://emisiones.com.uy:8086/turistic",
+    "website": "http://www.radioeltiempo.com/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "pop",
+      "latin"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:21:12+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.elvuelodelalma",
+    "name": "El vuelo del alma",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/73118.v7.png",
+    "stream_url": "https://stream.zeno.fm/65h59sw071zuv",
+    "website": "http://radiolagaviota.blogspot.com/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "folk",
+      "latin"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:19:17+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.emisoradeleste",
+    "name": "CW 54 Emisora del Este",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/29182.v1.png",
+    "stream_url": "http://usa15.ciudaddigital.com.uy:8076/EmisoraDelEste",
+    "website": "http://cw54emisoradeleste.com/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "pop",
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:14:49+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.emisoradelsur",
+    "name": "Emisora del Sur",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/28666.v12.png",
+    "stream_url": "https://radios.iwstreaming.uy/8034/stream",
+    "website": "http://emisoradelsur.uy/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "talk",
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:15:45+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.emisoradelvalle907",
+    "name": "Emisora del valle 90.7",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/118785.v4.png",
+    "stream_url": "http://radios.solumedia.com:6134/stream",
+    "website": "https://www.emisoradelvalle907.com/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:22:02+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.emisoralibertad885",
+    "name": "Emisora Libertad 88.5",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/104246.v6.png",
+    "stream_url": "https://radio.plandos.com/8066/stream",
+    "website": "http://www.emisoralibertad.uy/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "news",
+      "culture",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:19:16+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.enlarutarl",
+    "name": "En la Ruta RL Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/107750.v4.png",
+    "stream_url": "https://stream.zeno.fm/y9nn7kysfy8uv",
+    "website": "http://enlarutarlradio.com/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "electronic",
+      "rock",
+      "pop",
+      "blues",
+      "techno",
+      "jazz",
+      "alternative",
+      "reggaeton",
+      "salsa",
+      "merengue",
+      "balada"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:16:35+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.enlosbarrios",
+    "name": "Radio Flor de Maroñas",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/129866.v4.png",
+    "stream_url": "https://sonic-ca.instainternet.com/8040/stream",
+    "website": "https://xn--radioflordemaroas-txb.com/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "news",
+      "community"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:20:22+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.espacio",
+    "name": "915 Espacio FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/28593.v7.png",
+    "stream_url": "https://medios.ciudaddigital.com.uy:18098/EspacioFM",
+    "website": "http://www.915espaciofm.com/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "pop",
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:19:16+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.esperanza",
+    "name": "Esperanza fm 107.1",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/93802.v33.png",
+    "stream_url": "http://uk21freenew.listen2myradio.com:32449/;",
+    "website": "https://ezperanza107.wixsite.com/esperanzafm107",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "electronic",
+      "oldies",
+      "cumbia",
+      "romantic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:16:43+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.este",
+    "name": "Radio Este",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/92481.v2.png",
+    "stream_url": "https://sonic.sistemahost.es/8022/stream",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "oldies",
+      "comedy"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:16:49+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.estilo",
+    "name": "Estilo Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/89371.v6.png",
+    "stream_url": "https://emisiones.com.uy:8179/estu",
+    "website": "http://estiloradio.com.uy/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:22:01+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.evolucion",
+    "name": "Radio Evolucion",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/112831.v5.png",
+    "stream_url": "https://stream.zeno.fm/upeys41ztchvv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:21:55+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.exito",
+    "name": "Exito FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/28597.v5.png",
+    "stream_url": "https://salida.stream.com.uy:8506/stream",
+    "website": "http://www.exitofm.com.uy/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "pop",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:14:01+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.extravagante",
+    "name": "Radio Extravagante FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/78585.v3.png",
+    "stream_url": "https://stream.zeno.fm/61epffwku0quv",
+    "website": "https://extravagantefm9.webnode.es/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "dance",
+      "reggaeton",
+      "latin",
+      "cumbia",
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:14:59+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.extremo",
+    "name": "Extremo FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/28142.v2.png",
+    "stream_url": "https://emisiones.com.uy:8160/bour",
+    "website": "https://radioextremo.com.uy/press/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "spanish"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:15:50+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.fantasma",
+    "name": "Radio Fantasma",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/82702.v35.png",
+    "stream_url": "http://78.129.237.51:33125/;",
+    "website": "http://radiofantasmarou.radio12345.com/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "tango",
+      "instrumental",
+      "salsa",
+      "cumbia",
+      "romantic",
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:16:41+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.federal",
+    "name": "Federal FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/28993.v2.png",
+    "stream_url": "http://usa15.ciudaddigital.com.uy:8040/FederalFM",
+    "website": "http://www.federalfm.com.uy/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "pop",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:14:12+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.fenix1330",
+    "name": "Radio Fénix 1330 AM",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/103107.v3.png",
+    "stream_url": "https://sp2.servidorrprivado.com:8016/;",
+    "website": "https://radiofenix.com.uy/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "news",
+      "talk",
+      "sports",
+      "community"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:18:22+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.fest",
+    "name": "Radio Fest",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/93936.v1.png",
+    "stream_url": "https://stream.zeno.fm/v15bnkg8u7zuv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "reggaeton"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:16:46+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.firadio",
+    "name": "Fi.Radio",
+    "image": "https://cdn.onlineradiobox.com/img/logo/7/117537.png",
+    "stream_url": "https://cruradio.stream.laut.fm/cruradio",
+    "website": "http://firadio.rf.gd/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "rock",
+      "pop",
+      "jazz",
+      "rap",
+      "hip-hop",
+      "cumbia"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:21:13+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.fm93uy",
+    "name": "FM93.UY",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/37960.v13.png",
+    "stream_url": "https://s47.myradiostream.com:12110/listen.m4a",
+    "website": "https://fm93.uy/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "dance",
+      "rock",
+      "pop",
+      "blues"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:14:10+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.folclorisimauruguay",
+    "name": "Radio Folclorisima Uruguay",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/104302.v6.png",
+    "stream_url": "https://stream.zeno.fm/ds3s00u3ry8uv",
+    "website": "http://www.radiofolclorisimauruguay.com/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:14:12+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.folclorisimo",
+    "name": "Folclorisimo Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/133933.v2.png",
+    "stream_url": "https://radiosonline.online/listen/folclorisimo/radio.mp3",
+    "website": "https://radiosonline.online/public/folclorisimo",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:20:14+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.fraybentos",
+    "name": "Radio Fray Bentos Online",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/137479.v2.png",
+    "stream_url": "https://stream.zeno.fm/yq1cxv99a48uv",
+    "website": "https://zeno.fm/radio/radiofraybentosonline/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:20:11+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.frecuenciamaximauruguay",
+    "name": "Frecuencia Maxima Uruguay",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/104444.v5.png",
+    "stream_url": "http://162.210.197.146:19269/;",
+    "website": "https://frecuenciamaximamelo.wixsite.com/frecuenciamaxima",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:19:23+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.freski",
+    "name": "Freski Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/154987.v1.png",
+    "stream_url": "https://stream.zeno.fm/1nzehvt2tm0uv",
+    "website": "https://freskiradio.com/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "rock",
+      "hip-hop",
+      "80s",
+      "90s",
+      "soul",
+      "r'n'b"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:22:05+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.fullmetalcity",
+    "name": "Full Metal City Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/125206.v1.png",
+    "stream_url": "https://stream.zeno.fm/rizy824qnlutv",
+    "website": "https://fullmetalcityradio.blogspot.com/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "rock",
+      "heavy metal",
+      "metal"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:13:25+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.futura",
+    "name": "Radio Futura 911",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/28154.v8.png",
+    "stream_url": "https://d1x3zrpbnaiy2z.cloudfront.net/index.m3u8",
+    "website": "https://www.rf.com.uy/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "pop",
+      "top40",
+      "alternative rock"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:14:00+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.futurorock",
+    "name": "Radio Futuro Rock",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/80318.v2.png",
+    "stream_url": "https://stream.zeno.fm/4s66m52ce3quv",
+    "website": "https://zeno.fm/radio/radiofuturorock/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "rock"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:18:29+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.galaxia",
+    "name": "Galaxia FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/86621.v5.png",
+    "stream_url": "https://stream.zeno.fm/bf4gt1pem0quv",
+    "website": "https://www.emisoragalaxiafm.com/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "pop",
+      "news",
+      "talk",
+      "latin",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:16:45+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.gente",
+    "name": "FM Gente",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/28595.v4.png",
+    "stream_url": "https://cast1.asurahosting.com/proxy/luis1/stream",
+    "website": "http://www.fmgente.com.uy/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "news",
+      "talk",
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:14:51+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.herz",
+    "name": "Herz FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/129815.v3.png",
+    "stream_url": "https://streaming5.locucionar.com/proxy/herzfm?mp=/stream",
+    "website": "https://radioherzfm.com/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "pop",
+      "oldies",
+      "reggaeton",
+      "latin",
+      "cumbia"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:21:19+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.hits",
+    "name": "Radio Hits",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/151880.v1.png",
+    "stream_url": "https://hoth.alonhosting.com:3730/stream",
+    "website": "http://turadiohits.com/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "news",
+      "spiritual"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:20:21+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.ideal",
+    "name": "90.1 FM Ideal",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/28590.v2.png",
+    "stream_url": "https://streaming3.locucionar.com/proxy/fmideal901?mp=/stream",
+    "website": "https://www.fmideal.com.uy/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "news",
+      "culture",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:21:59+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.impacto",
+    "name": "Metro FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/83824.v6.png",
+    "stream_url": "https://cast1.asurahosting.com/proxy/radiom12/stream",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:15:43+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.impactos",
+    "name": "Impactos",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/29187.v2.png",
+    "stream_url": "http://emisiones.com.uy:8113/impacto",
+    "website": "http://impactosfm.wixsite.com/uruguay",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "folk",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:14:58+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.infoideas",
+    "name": "Info Ideas Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/73193.v5.png",
+    "stream_url": "https://infoideas-zikoxweb2.radioca.st/stream;.mp3",
+    "website": "http://infoideasradio.com/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "oldies",
+      "spanish",
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:19:21+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.inolvidable",
+    "name": "Inolvidable FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/80340.v9.png",
+    "stream_url": "http://inolvidable-2.nty.uy:8080/;",
+    "website": "http://www.inolvidablefm.com.uy/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "rock",
+      "pop",
+      "brazilian",
+      "reggaeton",
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:13:22+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.inolvidables",
+    "name": "Inolvidables",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/83359.v3.png",
+    "stream_url": "https://streaming1.locucionar.com/proxy/inolvidables?mp=/stream",
+    "website": "http://inolvidables.net/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "rock",
+      "disco",
+      "pop",
+      "oldies"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:14:07+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.jyjproducciones",
+    "name": "JyJProducciones",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/138444.v5.png",
+    "stream_url": "https://stream.zeno.fm/s247h1ewhrhvv",
+    "website": "https://www.jyjproducciones.net/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:19:28+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.kairos",
+    "name": "Kairos FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/29002.v2.png",
+    "stream_url": "https://panel.streamenviron.com:8264/radiokairos",
+    "website": "http://radiokairos.net/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "christian contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:19:27+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.labruja",
+    "name": "La Bruja FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/77776.v8.png",
+    "stream_url": "https://rr5100.globalhost1.com/8452/stream",
+    "website": "https://brujafm89.wixsite.com/radio",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "rock",
+      "pop",
+      "folk",
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:14:11+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.lacatorce1",
+    "name": "Radio La R 1410 AM",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/29004.v18.png",
+    "stream_url": "https://la1410-2.nty.uy/:8060/;",
+    "website": "http://lacatorce10.com.uy/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "pop",
+      "news",
+      "talk",
+      "top40",
+      "spanish"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:15:44+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.laceleste",
+    "name": "La Celeste Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/147239.v1.png",
+    "stream_url": "https://radios.bachistreaming.com/8026/stream",
+    "website": "https://lacelesteradio.com/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "rock",
+      "pop",
+      "folk",
+      "cumbia"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:20:20+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.lacosta",
+    "name": "Lacosta Fm 88.3",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/29001.v5.png",
+    "stream_url": "https://streaming3.hostingmontevideo.com:8074/stream",
+    "website": "https://www.lacostafm88.com/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "pop",
+      "top40",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:14:53+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.ladiscotecadance",
+    "name": "Radio Jard­in de Eventos",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/81379.v4.png",
+    "stream_url": "https://s31.myradiostream.com/8020/;",
+    "website": "https://www.jardindeventos.com/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:14:59+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.laley",
+    "name": "La Ley",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/28353.v5.png",
+    "stream_url": "https://streaming2.locucionar.com/proxy/laleyfm?mp=/stream",
+    "website": "http://fmlaley.com/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "rock",
+      "news",
+      "culture"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:14:49+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.laloca",
+    "name": "Radio La Loca",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/115326.v4.png",
+    "stream_url": "https://radio20.servidorderadio.net:8052/radio-la-loca",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "latin"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:20:19+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.lanoticia",
+    "name": "La Noticia Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/125061.v3.png",
+    "stream_url": "https://stream.zeno.fm/orjylzqjrskuv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "news"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:15:45+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.lanoventa",
+    "name": "La Noventa FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/28508.v4.png",
+    "stream_url": "http://emisiones.com.uy:8129/nove",
+    "website": "http://www.lanoventafm.com.uy/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "pop",
+      "eclectic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:18:31+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.lapuadigital",
+    "name": "La Pua Digital",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/114579.v2.png",
+    "stream_url": "https://stream.zeno.fm/dyagpsqc2d0uv",
+    "website": "https://lapuadigital.wixsite.com/misitio",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "pop",
+      "oldies",
+      "latin"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:21:59+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.laregional",
+    "name": "La Regional",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/153353.v2.png",
+    "stream_url": "https://emisora.unorte.edu.uy/",
+    "website": "https://www.litoralnorte.udelar.edu.uy/institucional/comunicacion/radio/la-regional-radio-online",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "rock",
+      "pop",
+      "education"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:14:56+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.laser",
+    "name": "Laser Fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/74972.v5.png",
+    "stream_url": "http://server.laradio.online:8691/;",
+    "website": "http://laserfm.com.uy/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:16:44+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.lavariada",
+    "name": "Radio La Variada",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/135323.v5.png",
+    "stream_url": "https://live.turadiotv.com:8136/stream",
+    "website": "https://www.radiolavariada.com/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:21:10+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.laveredaweb",
+    "name": "La Vereda WebRadio",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/83061.v13.png",
+    "stream_url": "https://srv2.radiostreamuy.com/8012/stream",
+    "website": "https://laveredawebradio.com/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "dance",
+      "rock",
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:17:40+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.lavoz",
+    "name": "La Voz de Melo",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/28065.v7.png",
+    "stream_url": "https://stream.zeno.fm/fzc86k96yy8uv",
+    "website": "http://www.lavozdemelo.com/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "jazz",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:13:59+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.lavozdeartigas",
+    "name": "La Voz de Artigas",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/28598.v1.png",
+    "stream_url": "http://usa15.ciudaddigital.com.uy:8128/LaVozDeArtigas",
+    "website": "http://www.radioartigas.com/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "pop",
+      "top40",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:15:46+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.lavozdepaysand",
+    "name": "Radio CW 39",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/29207.v7.png",
+    "stream_url": "https://salida.stream.com.uy:8508/stream",
+    "website": "http://www.radiocw39.com/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "pop",
+      "talk",
+      "spanish"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:14:14+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.lavozdesalto",
+    "name": "Creativa Radio Salto",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/134531.v17.png",
+    "stream_url": "https://s2.mkservers.space/creativaradiosalto",
+    "website": "https://creativaradiosalto.usuarios.space/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "rock",
+      "folk",
+      "cumbia"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:19:23+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.libertyrock",
+    "name": "Liberty Rock",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/89979.v6.png",
+    "stream_url": "https://stream.zeno.fm/cfa4y2wytk8uv",
+    "website": "https://zeno.fm/liberty-rock-radio",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "rock",
+      "heavy metal",
+      "hard rock"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:15:48+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.lovecrm",
+    "name": "LoveCRM",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/139112.v3.png",
+    "stream_url": "http://srv10.ipstm.net:44386/;",
+    "website": "https://lovecrm.site/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:21:09+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.luna",
+    "name": "Luna FM 93.3",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/118867.v1.png",
+    "stream_url": "https://servermm.com/radio/lunafm",
+    "website": "https://luna933.com/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:22:00+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.luz",
+    "name": "RADIO LUZ",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/134458.v1.png",
+    "stream_url": "https://stream.zeno.fm/gevvpcmda48uv",
+    "website": "https://zeno.fm/radio/radio_luz/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:21:15+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.m24",
+    "name": "M24",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/86622.v3.png",
+    "stream_url": "https://streaming1.hostingmontevideo.com/8034/stream",
+    "website": "http://m24.com.uy/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "pop",
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:14:04+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.magia",
+    "name": "Magic Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/78518.v28.png",
+    "stream_url": "https://usa4.fastcast4u.com/proxy/romeotove?mp=/1",
+    "website": "http://www.magicradio.ga/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:18:36+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.magica935",
+    "name": "FM Magica 93.5",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/89558.v9.png",
+    "stream_url": "https://playerservices.streamtheworld.com/api/livestream-redirect/MAGICAAAC.aac?dist=onlineradiobox",
+    "website": "http://www.fmmagica.uy/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "dance",
+      "pop",
+      "latin"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:19:15+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.maria",
+    "name": "Radio María Uruguay",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/28208.v7.png",
+    "stream_url": "https://dreamsiteradiocp2.com/proxy/rmuruguay2?mp=/stream",
+    "website": "http://www.radiomaria.org.uy/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:17:31+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.marindiaonline",
+    "name": "RadioMarindia on line",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/87204.v4.png",
+    "stream_url": "https://radios.iwstreaming.uy/8004/stream",
+    "website": "http://radiomarindia.wixsite.com/emisora-marindia",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:16:39+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.masm",
+    "name": "Radio Más",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/96295.v5.png",
+    "stream_url": "https://streamyes.alsolnet.com/radiomastv/live/playlist.m3u8",
+    "website": "https://www.radiomas.uy/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "rock",
+      "pop",
+      "oldies"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:22:02+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.masonline",
+    "name": "Radio Mas Online",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/79570.v1.png",
+    "stream_url": "https://stream.zeno.fm/ayktxem2z5quv",
+    "website": "https://zeno.fm/radiomas",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "alternative"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:20:12+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.masradioonlinee",
+    "name": "Mas Radio Online",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/89047.v1.png",
+    "stream_url": "https://stream.zeno.fm/cace1em2z5quv",
+    "website": "http://www.masradioonline.ga/?i=1",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:18:28+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.maxima977",
+    "name": "Máxima FM 97.7",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/81526.v4.png",
+    "stream_url": "https://salida.stream.com.uy:8514/stream",
+    "website": "http://www.maximafm.com.uy/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "rock",
+      "pop",
+      "news",
+      "reggae"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:18:30+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.maximafm",
+    "name": "Máxima FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/92509.v6.png",
+    "stream_url": "https://laradiossl.online:10674/;",
+    "website": "https://www.radioparallevar.com/maximafm",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "pop",
+      "top40",
+      "reggaeton",
+      "latin",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:17:32+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.metrpolis",
+    "name": "Metrópolis FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/28007.v10.png",
+    "stream_url": "https://metropolis-web-1.nty.uy/",
+    "website": "http://metropolisfm.com/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "pop",
+      "top40",
+      "latin"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:13:10+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.mistica",
+    "name": "Mistica Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/147642.v1.png",
+    "stream_url": "https://s1.radiosenialesfm.com:8060/radio.mp3",
+    "website": "https://misticaradio.com/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:21:13+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.mix959",
+    "name": "Radio Mix",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/133956.v2.png",
+    "stream_url": "https://s1.radiosenialesfm.com:8000/radio.mp3",
+    "website": "https://www.laradiodelexito.net/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:19:22+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.mixerbocha",
+    "name": "Radio MixerBocha",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/153162.v1.png",
+    "stream_url": "https://radio17.servidorderadio.net/8088/;",
+    "website": "https://radiomixerbocha.com/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "electronic",
+      "pop",
+      "reggaeton",
+      "cumbia"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:21:12+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.modocumbia",
+    "name": "Modo Cumbia",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/154399.v3.png",
+    "stream_url": "https://streaming01.shockmedia.com.ar/modocumbia/",
+    "website": "https://modocumbia.com/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "pop",
+      "top40",
+      "cumbia"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:16:47+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.momentos",
+    "name": "MomentosRadio",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/101229.v1.png",
+    "stream_url": "https://momentosradio.com/live/",
+    "website": "https://momentosradio.com/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:17:30+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.monteaudio",
+    "name": "Radio Monte Audio",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/143771.v1.png",
+    "stream_url": "https://servidor39-2.brlogic.com:7538/live",
+    "website": "https://radiomonteaudio.org/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "ambient"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:21:16+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.montevideonight",
+    "name": "Montevideo Night Radio On line",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/28407.v7.png",
+    "stream_url": "https://radio13.servidorderadio.net/8094/stream",
+    "website": "http://www.montevideonight.com.uy/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:19:30+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.ms",
+    "name": "Más FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/28213.v5.png",
+    "stream_url": "https://one.cloudstreaming.eu:7002/live",
+    "website": "http://masfm.com.uy/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "pop",
+      "spanish",
+      "latin",
+      "salsa"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:15:03+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.mufajagger",
+    "name": "Mufa Jagger Radio Online",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/103311.v6.png",
+    "stream_url": "https://ohradio.cc/8034/stream",
+    "website": "https://jaggerradiorock.com/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "rock",
+      "alternative",
+      "reggae"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:20:17+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.mundo",
+    "name": "Mundo FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/28013.v3.png",
+    "stream_url": "http://emisiones.com.uy:8088/mundo",
+    "website": "http://www.mundofm.net/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "news",
+      "oldies",
+      "balada"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:13:58+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.mundo1170",
+    "name": "Radiomundo",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/154740.v1.png",
+    "stream_url": "https://stream1.enperspectiva.net:8443/radio.mp4",
+    "website": "https://enperspectiva.uy/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:21:15+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.musicadems",
+    "name": "Música de Más",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/58691.v8.png",
+    "stream_url": "https://emisiones.com.uy:8121/demas",
+    "website": "http://www.musicademas.uy/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "dance",
+      "pop",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:14:54+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.musicaenelaire",
+    "name": "Musica en el Aire",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/28724.v14.png",
+    "stream_url": "https://server-usa2.radioseninternet.net/9508/stream",
+    "website": "https://musicaenelaire.net/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "rock",
+      "pop",
+      "talk",
+      "oldies",
+      "latin"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:17:33+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.nemesis",
+    "name": "Bajo La Lupa Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/114309.v4.png",
+    "stream_url": "https://cast1.asurahosting.com/proxy/bajolalu/live",
+    "website": "https://bajolalupa.uy/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "news",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:16:48+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.nemesisradio",
+    "name": "Némesis Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/115520.v6.png",
+    "stream_url": "https://c21.radioboss.fm/stream/171",
+    "website": "https://nemesis.uy/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "electronic",
+      "rock",
+      "pop",
+      "metal",
+      "news"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:17:40+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.neridelossantos",
+    "name": "Neri De Los Santos - Despertar Producciones",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/72974.v8.png",
+    "stream_url": "https://srv2.radiostreamuy.com/8010/stream",
+    "website": "https://neridelossantos.com/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "news",
+      "latin"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:17:35+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.norteuy",
+    "name": "Radio Norte Uy",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/95993.v29.png",
+    "stream_url": "https://s2.servicioderadio.com/8580/stream",
+    "website": "https://www.diariolanoticia.com.uy/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "disco",
+      "retro",
+      "90s",
+      "00s",
+      "80s",
+      "brazilian",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:13:21+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.nostalgiamontevideo",
+    "name": "Nostalgia Radio Montevideo",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/97820.v6.png",
+    "stream_url": "https://stm6.xcast.com.br:9494/;",
+    "website": "https://nostalgiaradiomontevideo.com/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:15:45+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.nostalgieshow",
+    "name": "Nostalgie Radio Show",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/97512.v6.png",
+    "stream_url": "http://opportunity.shoutca.st:8175/;",
+    "website": "http://www.nostalgieradioshow.com/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "90s",
+      "80s",
+      "70s"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:15:53+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.noticiasc21",
+    "name": "NoticiasC21",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/139967.v7.png",
+    "stream_url": "https://hmdsystem.info:8149/circuito",
+    "website": "https://noticiasc21.uy/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "news"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:20:10+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.nuevaerafm",
+    "name": "NUEVA ERA FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/58695.v3.png",
+    "stream_url": "https://emisiones.com.uy:8158/als",
+    "website": "http://nuevaerafm.com/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "dance",
+      "pop",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:19:29+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.nuevotiempo",
+    "name": "Nuevo Tiempo",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/77083.v4.png",
+    "stream_url": "https://stream.live.novotempo.com/radio/smil:rntMontevideoUY.smil/playlist.m3u8",
+    "website": "http://nuevotiempo.org/uruguay/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "news",
+      "talk",
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:19:19+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.oceano",
+    "name": "Oceano FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/28043.v6.png",
+    "stream_url": "https://oceano-2.nty.uy/",
+    "website": "http://oceano.uy/site/index",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "rock",
+      "classic rock",
+      "blues",
+      "oldies"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:13:23+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.oldies",
+    "name": "FM HIT 90.3",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/28010.v13.png",
+    "stream_url": "https://hit-1.nty.uy/stream",
+    "website": "https://fmhit.uy/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "classic rock",
+      "classic",
+      "80s",
+      "oldies"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:13:11+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.onda21",
+    "name": "Onda 21",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/98660.v5.png",
+    "stream_url": "http://sseg.us:8136/stream",
+    "website": "https://onda21.com/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "classic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:20:20+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.ondamarina",
+    "name": "Onda Marina 106.3 FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/130016.v1.png",
+    "stream_url": "https://marina-2.nty.uy/",
+    "website": "http://www.ondamarinafm.com/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "pop",
+      "latin",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:19:19+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.osiris",
+    "name": "Osiris FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/82273.v4.png",
+    "stream_url": "https://cbdj.homelinux.org:8443/osirisfm",
+    "website": "http://www.osirisfm.com/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "news",
+      "folk",
+      "sports",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:20:15+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.paradahit",
+    "name": "Parada Hit Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/111618.v5.png",
+    "stream_url": "https://stream.zeno.fm/ryqzw1yztchvv",
+    "website": "https://zeno.fm/radio/paradahitradio/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:20:10+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.pedal",
+    "name": "Radio Pedal",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/80681.v3.png",
+    "stream_url": "https://streaming1.hostingmontevideo.com/8008/stream.mp3",
+    "website": "https://radiopedal.uy/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "community"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:21:07+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.perfil",
+    "name": "Perfil FM 90.9",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/28665.v4.png",
+    "stream_url": "https://radiosar.com:8086/stream",
+    "website": "http://perfilfm.com/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "news",
+      "talk",
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:15:04+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.planetarojo",
+    "name": "Planeta Rojo FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/80116.v14.png",
+    "stream_url": "https://argentina.republicahosting.com:1279/live",
+    "website": "https://planetarojofm.com/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "rock",
+      "pop",
+      "latin"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:15:49+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.planetauy",
+    "name": "Radio Planeta UY",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/126186.v2.png",
+    "stream_url": "https://stream.zeno.fm/9y3dskfdwnhvv",
+    "website": "https://www.planetaretro.webnode.com.uy/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "dance",
+      "electronic",
+      "rock",
+      "pop",
+      "90s",
+      "00s",
+      "80s"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:21:06+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.plata",
+    "name": "Del Plata 95.5 FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/28016.v4.png",
+    "stream_url": "https://alba-uy-delplata-delplata.stream.mediatiquestream.com/index.m3u8",
+    "website": "http://www.delplatafm.com/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "top40",
+      "90s",
+      "80s"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:13:16+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.poderonline",
+    "name": "Radio Poder Online",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/58489.v10.png",
+    "stream_url": "http://76.164.217.100:7112/live",
+    "website": "http://diocelys.wixsite.com/radio-poder-online",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "pop",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:21:05+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.pulsodiario",
+    "name": "Radio Pulso Diario",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/134593.v1.png",
+    "stream_url": "https://servidor24.brlogic.com:7218/live",
+    "website": "https://www.pulsodiario.com/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "rock",
+      "pop",
+      "news",
+      "balada"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:20:18+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.puntacumbia",
+    "name": "Fm Punta Cumbia",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/144281.v1.png",
+    "stream_url": "https://server.laradio.online/proxy/eduardo_correa2?mp=/stream",
+    "website": "https://fmpuntacumbia.com/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "cumbia"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:21:12+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.puntocentro",
+    "name": "Radio Punto Centro",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/97644.v12.png",
+    "stream_url": "https://stream.zeno.fm/ks3a5u8yfm8uv",
+    "website": "http://www.puntocentro.ga/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:21:07+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.radiobolso",
+    "name": "RADIO BOLSO FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/137646.v24.png",
+    "stream_url": "https://stream.zeno.fm/356dawyx4uvuv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "dance",
+      "folk",
+      "latin",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:18:33+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.radiolugares",
+    "name": "Radiolugares",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/28668.v2.png",
+    "stream_url": "http://200.58.101.247:8232/;",
+    "website": "http://www.radiolugares.net/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:18:28+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.radioplay",
+    "name": "Radioplay Uruguay",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/134156.v1.png",
+    "stream_url": "https://radio11.servidorderadio.net/8090/stream",
+    "website": "http://radioplayuruguay.net/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "dance",
+      "pop",
+      "latin"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:20:17+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.radiovichadero",
+    "name": "Radio Vichadero",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/29206.v5.png",
+    "stream_url": "https://nazca.globalhost1.com/8310/;",
+    "website": "http://www.radiovichadero.com/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "pop",
+      "talk",
+      "spanish"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:18:21+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.radiowebuy",
+    "name": "Radiowebuy",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/127624.v12.png",
+    "stream_url": "https://stream.zeno.fm/05vv8g2bkfhvv",
+    "website": "https://zeno.fm/radio/radiowebuy/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "dance",
+      "rock",
+      "pop",
+      "90s",
+      "80s",
+      "oldies",
+      "latin"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:17:34+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.ramcer",
+    "name": "Ramcer Fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/90307.v9.png",
+    "stream_url": "https://strm112.1.fm/spanishparty_mobile_mp3",
+    "website": "https://plandos.com/ramcerfm/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:19:20+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.recitalradio",
+    "name": "Recital Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/109032.v2.png",
+    "stream_url": "https://recital-zikoxweb2.radioca.st/;",
+    "website": "http://recitalradio.com/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "dance",
+      "rock",
+      "disco",
+      "pop",
+      "blues",
+      "soul",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:20:15+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.reconquista",
+    "name": "Radio Reconquista",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/28227.v6.png",
+    "stream_url": "http://usa15.ciudaddigital.com.uy:8088/Reconquista",
+    "website": "http://www.multimediadelnorte.com/reconquista/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "news",
+      "talk",
+      "politics"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:16:38+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.reggaetonuy",
+    "name": "Reggaeton UY",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/136039.v1.png",
+    "stream_url": "https://stream.zeno.fm/g5imua2agz9uv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "reggaeton"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:14:53+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.renacerlacapuera",
+    "name": "Fm Renacer La Capuera",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/121342.v3.png",
+    "stream_url": "https://stream.zeno.fm/e8k7qces068uv",
+    "website": "https://fmrenacer2022.wixsite.com/fm-renacer",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:20:09+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.renovacion",
+    "name": "Renovación fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/149377.v3.png",
+    "stream_url": "https://stream.zeno.fm/shiddwxu5wnvv",
+    "website": "https://renovacionfm951.wixsite.com/online",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "latin"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:20:13+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.resplandor",
+    "name": "Resplandor FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/29018.v3.png",
+    "stream_url": "https://panel.streamenviron.com:8022/stream",
+    "website": "http://www.resplandorfm.com/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "pop",
+      "blues",
+      "jazz",
+      "folk",
+      "classic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:17:33+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.retromania",
+    "name": "Retromania Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/119466.v2.png",
+    "stream_url": "https://stream.zeno.fm/mhzv3nyn21zuv",
+    "website": "https://zeno.fm/radio/retromaniaradio/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "oldies",
+      "latin"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:19:24+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.retromusicuruguay",
+    "name": "Retro Music Uruguay",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/102917.v8.png",
+    "stream_url": "https://retroleo-zikoxweb.radioca.st/;",
+    "website": "https://retromusic.com.uy/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "classic",
+      "retro",
+      "oldies"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:15:48+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.rhumormo",
+    "name": "Rhumor Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/102765.v3.png",
+    "stream_url": "https://servidor29-1.brlogic.com:7026/live",
+    "website": "https://rhumor-radio.com/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "rock",
+      "90s",
+      "00s",
+      "80s",
+      "comedy"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:18:25+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.rincon",
+    "name": "Radio Rincón",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/29019.v10.png",
+    "stream_url": "http://88.198.5.134:8145/stream",
+    "website": "http://www.radiorincon.com.uy/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "pop",
+      "news"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:15:03+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.riobranco",
+    "name": "Radio Rio Branco",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/146503.v3.png",
+    "stream_url": "https://medios.ciudaddigital.com.uy:18164/RioBranco",
+    "website": "https://radioriobranco.com.uy/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "news"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:20:14+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.riouruguay",
+    "name": "Radio Río Uruguay",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/147540.v6.png",
+    "stream_url": "https://s2.mkservers.space/riouruguay/",
+    "website": "https://riouruguay.usuarios.space/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "rock",
+      "folk",
+      "cumbia"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:17:41+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.rnu",
+    "name": "Radiodifusión Nacional del Uruguay",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/69371.v4.png",
+    "stream_url": "http://173.212.242.118:8096/stream",
+    "website": "http://rnu.com.uy/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "blues",
+      "jazz",
+      "classic",
+      "ethnic",
+      "tango",
+      "instrumental",
+      "flamenco"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:15:49+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.rodrigolallana",
+    "name": "Mas FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/139727.v2.png",
+    "stream_url": "https://s1.radiosenialesfm.com:8020/radio.mp3",
+    "website": "https://radiomasfm.com/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:18:32+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.rtmuruguay",
+    "name": "RTM Uruguay",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/28661.v2.png",
+    "stream_url": "https://cdn.instream.audio/:9390/stream",
+    "website": "http://www.rtmuruguay.org/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "talk",
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:14:57+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.rural",
+    "name": "Radio Rural",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/28207.v4.png",
+    "stream_url": "https://radiolatina.live/9206/stream",
+    "website": "http://www.cx4radiorural.com/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "news",
+      "talk",
+      "sports"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:13:13+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.ruta43",
+    "name": "Ruta 43",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/153013.v1.png",
+    "stream_url": "https://stream.zeno.fm/n4orgbz0olfuv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "rock",
+      "rock'n'roll",
+      "latin"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:18:28+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.salvacionpaso",
+    "name": "Radio Salvacion Paso",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/135024.v2.png",
+    "stream_url": "https://stream.zeno.fm/aatlwy8lr1gvv",
+    "website": "https://zeno.fm/radio/radio-salvacion-paso/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:16:35+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.sanducito",
+    "name": "Radio Sanducito",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/151680.v3.png",
+    "stream_url": "http://cast2.my-control-panel.com:8513/stream",
+    "website": "https://www.radiosanducito.uy/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "electronic",
+      "rock",
+      "pop",
+      "blues",
+      "jazz",
+      "folk",
+      "classic",
+      "rap",
+      "reggaeton"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:20:16+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.sanramn",
+    "name": "Fm San Ramón",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/29000.v3.png",
+    "stream_url": "https://sanramon-zikoxweb.radioca.st/stream",
+    "website": "http://www.fmsanramon.com.uy/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "pop",
+      "talk",
+      "spanish"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:20:14+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.sansalvador",
+    "name": "Radio San Salvador",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/28160.v3.png",
+    "stream_url": "http://server-uk1.radioseninternet.net:8270/;",
+    "website": "http://radiosansalvador.com.uy/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "pop",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:14:05+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.sao",
+    "name": "Sao Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/83623.v2.png",
+    "stream_url": "https://stream.zeno.fm/thzvvyz3zqruv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:16:41+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.sarandi690",
+    "name": "Radio Sarandi",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/28405.v6.png",
+    "stream_url": "https://alba-uy-sarandi-sarandi.stream.mediatiquestream.com/index.m3u8",
+    "website": "http://www.sarandi690.com.uy/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "news",
+      "talk",
+      "spanish"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:13:12+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.sarandidelyi",
+    "name": "Radio Sarandí del Yi",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/85185.v8.png",
+    "stream_url": "https://server-usa2.radioseninternet.net/8074/stream",
+    "website": "http://www.radiosarandidelyi.com.uy/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "news",
+      "entertainment",
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:17:39+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.senales",
+    "name": "Radio Señales",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/108851.v7.png",
+    "stream_url": "https://s1.radiosenialesfm.com:8030/radio.mp3",
+    "website": "http://www.radioseniales.com/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "rock",
+      "pop",
+      "90s",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:18:22+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.senales953",
+    "name": "Radio Señales",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/134466.v5.png",
+    "stream_url": "https://s1.radiosenialesfm.com:8030/radio.mp3",
+    "website": "https://radiosenialesfm.com/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "rock",
+      "pop",
+      "alternative",
+      "latin"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:19:26+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.senalzoe",
+    "name": "Senal Zoe",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/28152.v7.png",
+    "stream_url": "https://panel.lifestreammedia.net:8010/stream",
+    "website": "http://www.zoe.com.uy/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "talk",
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:15:47+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.siglo",
+    "name": "Siglo 21",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/28313.v8.png",
+    "stream_url": "https://hmdsystem.info:8193/siglo",
+    "website": "http://www.siglo21.uy/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "folk",
+      "90s",
+      "80s",
+      "70s",
+      "latin"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:13:24+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.sport890",
+    "name": "Sport 890",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/28006.v9.png",
+    "stream_url": "https://d21wh2pnduoyur.cloudfront.net/index.m3u8",
+    "website": "http://www.sport890.com.uy/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "news",
+      "talk",
+      "sports"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:13:16+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.stereonorte",
+    "name": "Stereo Norte FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/28064.v3.png",
+    "stream_url": "http://usa15.ciudaddigital.com.uy:8044/NorteFM",
+    "website": "http://www.radiobellaunion.com/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "news",
+      "talk",
+      "entertainment",
+      "community"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:18:27+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.sur",
+    "name": "Sur Fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/154878.v1.png",
+    "stream_url": "https://nvradios.com/radio/9330/radio.mp3",
+    "website": "https://www.surfm.net/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:22:04+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.suronline",
+    "name": "Sur Online",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/81565.v3.png",
+    "stream_url": "https://s29.myradiostream.com/18532/listen.mp3",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:18:27+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.tabare",
+    "name": "Radio Tabaré",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/73020.v5.png",
+    "stream_url": "https://emisiones.com.uy:8147/taba",
+    "website": "http://radiotabare.com.uy/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "folk",
+      "country"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:16:34+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.tacuarembo",
+    "name": "Radio Tacuarembo",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/28062.v3.png",
+    "stream_url": "http://usa15.ciudaddigital.com.uy:8114/TacuaremboAM",
+    "website": "http://www.emisorastacuarembo.com/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "talk",
+      "folk",
+      "business",
+      "spanish"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:16:40+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.tacuarembo955",
+    "name": "La Comuna 95.5 FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/111415.v7.png",
+    "stream_url": "https://s2.servicioderadio.com:7041/stream",
+    "website": "https://lacomunafm.com/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "pop",
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:18:24+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.todocumbia",
+    "name": "Fm Todo Cumbia",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/29184.v3.png",
+    "stream_url": "http://78.129.132.7:33578/;",
+    "website": "http://www.radiofmtodocumbia.com/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "pop",
+      "talk",
+      "spanish"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:18:23+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.toros",
+    "name": "FM Toros",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/29186.v9.png",
+    "stream_url": "https://streaming3.hostingmontevideo.com/8034/stream;",
+    "website": "http://www.pasodelostoros.com/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "pop",
+      "talk",
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:15:52+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.tranqueras",
+    "name": "FM Tranqueras 107.3",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/95394.v4.png",
+    "stream_url": "https://srv2.radiostreamuy.com/8002/stream",
+    "website": "https://tranquerasfm.com/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "culture",
+      "entertainment",
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:17:31+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.u20online",
+    "name": "U-20 Radio On Line",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/93420.v5.png",
+    "stream_url": "https://stream.zeno.fm/ddkxgd9sywzuv",
+    "website": "https://zeno.fm/radio/u-20/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "rock",
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:17:30+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.uni",
+    "name": "UNI Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/29023.v4.png",
+    "stream_url": "http://uniradio.edu.uy:8008/uniradio",
+    "website": "http://www.uniradio.edu.uy/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "pop",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:14:51+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.universal",
+    "name": "Universal 970 AM",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/28047.v5.png",
+    "stream_url": "https://970universal-3.nty.uy/;",
+    "website": "https://970universal.com/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:13:19+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.universo",
+    "name": "Radio Universo",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/74167.v2.png",
+    "stream_url": "https://streamingraddios.online/proxy/universoam?mp=/stream",
+    "website": "http://www.radiouniverso.uy/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:15:51+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.unodigital",
+    "name": "Radio UNO Digital",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/99903.v1.png",
+    "stream_url": "https://server-usa2.radioseninternet.net:10979/;",
+    "website": "http://radiounodigital.com/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "rock",
+      "classic rock",
+      "indie"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:14:50+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.unomontevideo",
+    "name": "Radio Uno Montevideo",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/139331.v1.png",
+    "stream_url": "https://radiounom-zikoxweb2.radioca.st/stream",
+    "website": "https://radiounomontevideo.com/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "dance",
+      "rock",
+      "pop",
+      "retro"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:21:11+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.urbanfm",
+    "name": "UrbanFM",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/93907.v4.png",
+    "stream_url": "https://stream.zeno.fm/618edu9s44zuv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "reggaeton"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:18:23+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.uruguay",
+    "name": "Radio Uruguay 1050 AM",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/28991.v11.png",
+    "stream_url": "https://radios.iwstreaming.uy/8036/stream",
+    "website": "http://radiouruguay.uy/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "pop",
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:13:18+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.uruguayonline",
+    "name": "Radio Uruguay OnLine",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/107745.v2.png",
+    "stream_url": "https://stream.zeno.fm/pw3r6bqbn48uv",
+    "website": "http://www.radiouruguayonline.uy/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "pop",
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:15:44+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.utopiaalsur",
+    "name": "Utopía al Sur",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/83931.v9.png",
+    "stream_url": "https://sonic01.instainternet.com/8028/stream",
+    "website": "https://utopiaalsur.net/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "news",
+      "folk",
+      "latin",
+      "politics"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:18:34+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.vecinal",
+    "name": "Radio Vecinal",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/70726.v15.png",
+    "stream_url": "https://stream.zeno.fm/43qzwat1mhruv",
+    "website": "https://radiovecinal917.blogspot.com/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "electronic",
+      "rock",
+      "pop",
+      "oldies",
+      "reggaeton",
+      "latin",
+      "salsa"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:14:55+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.vida",
+    "name": "Vida FM 104.7",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/28314.v4.png",
+    "stream_url": "http://usa15.ciudaddigital.com.uy:8048/VidaFM",
+    "website": "http://vidafm.com.uy/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "pop",
+      "news",
+      "retro",
+      "latin"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:14:08+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.vision",
+    "name": "Vision FM 96.5",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/28017.v3.png",
+    "stream_url": "http://emisiones.com.uy:8108/vision",
+    "website": "http://agenda.org.uy/visionfm/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:15:00+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.vozdeyahweh",
+    "name": "Radio Voz De Yahweh",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/128398.v6.png",
+    "stream_url": "http://uk2freenew.listen2myradio.com:32489/;",
+    "website": "https://radiovozdeyahweh.radio12345.com/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:21:10+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.webartigas",
+    "name": "radiowebartigas",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/99960.v4.png",
+    "stream_url": "https://stream.zeno.fm/zewz0kw5pzzuv",
+    "website": "https://zeno.fm/radio/radio-web-artigas/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "romantic",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:14:50+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.yidurazno",
+    "name": "Radio Yi Durazno",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/71749.v6.png",
+    "stream_url": "http://usa15.ciudaddigital.com.uy:8144/AM960",
+    "website": "http://www.am960.com.uy/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "pop",
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:13:25+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.young",
+    "name": "Radio young",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/48445.v6.png",
+    "stream_url": "https://radio.servidorstreaming.com/8014/stream",
+    "website": "https://radioyoung.com.uy/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:16:44+05:30"
+  },
+  {
+    "id": "onlineradiobox_uy.zorrilladesanmartin",
+    "name": "Radio Zorrilla de San Martin",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/60982.v3.png",
+    "stream_url": "http://server-uk1.radioseninternet.net:9312/;",
+    "website": "http://radiozorrilla.com/",
+    "provider": "onlineradiobox",
+    "country": "Uruguay",
+    "genres": [
+      "pop",
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:14:49+05:30"
+  }
+]

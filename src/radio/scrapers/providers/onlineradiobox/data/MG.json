@@ -1,0 +1,1245 @@
+[
+  {
+    "id": "onlineradiobox_mg.alefamusic",
+    "name": "alefamusic",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/144415.v3.png",
+    "stream_url": "https://listen.radioking.com/radio/20/stream/635",
+    "website": "http://www.alefamusic.net/",
+    "provider": "onlineradiobox",
+    "country": "Madagascar",
+    "genres": [
+      "african"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:58:53+05:30"
+  },
+  {
+    "id": "onlineradiobox_mg.alliance92",
+    "name": "Alliance 92 Fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/43369.v4.png",
+    "stream_url": "http://41.188.43.211:8000/alliance92.mp3",
+    "website": "http://www.newsmada.com/",
+    "provider": "onlineradiobox",
+    "country": "Madagascar",
+    "genres": [
+      "news",
+      "culture"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:58:52+05:30"
+  },
+  {
+    "id": "onlineradiobox_mg.ankoay",
+    "name": "Radio Ankoay 105 FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/147218.v15.png",
+    "stream_url": "https://a12.my-control-panel.com/listen/ankoay/radio.mp3",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Madagascar",
+    "genres": [
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:59:40+05:30"
+  },
+  {
+    "id": "onlineradiobox_mg.antennawebantananarivo",
+    "name": "Antenna Web Antananarivo",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/134598.v2.png",
+    "stream_url": "https://tinyurl.com/AntennaWebMadagascar",
+    "website": "https://antennaweb.it/antennaweb-antananarivo/",
+    "provider": "onlineradiobox",
+    "country": "Madagascar",
+    "genres": [
+      "rock",
+      "pop",
+      "blues",
+      "jazz",
+      "funk",
+      "reggaeton"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:00:36+05:30"
+  },
+  {
+    "id": "onlineradiobox_mg.antsirabe",
+    "name": "VFM Antsirabe",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/75939.v7.png",
+    "stream_url": "http://109.169.23.22:10190/;",
+    "website": "http://vfmantsirabe.myl2mr.com/",
+    "provider": "onlineradiobox",
+    "country": "Madagascar",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:00:42+05:30"
+  },
+  {
+    "id": "onlineradiobox_mg.antsiva",
+    "name": "Radio Antsiva 97.6",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/43360.v3.png",
+    "stream_url": "http://41.207.51.86:8000/antsivalive.mp3",
+    "website": "http://www.radio-antsiva.mg/",
+    "provider": "onlineradiobox",
+    "country": "Madagascar",
+    "genres": [
+      "pop",
+      "top40",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:58:57+05:30"
+  },
+  {
+    "id": "onlineradiobox_mg.antsonnyfilazantsara",
+    "name": "Antson&#39;ny Filazantsara Antsiranana 97 FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/153541.v1.png",
+    "stream_url": "https://hopefy.fanantenanahoanao.org/listen/raf/radio.mp3",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Madagascar",
+    "genres": [
+      "talk",
+      "gospel",
+      "spiritual"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:00:41+05:30"
+  },
+  {
+    "id": "onlineradiobox_mg.cevam",
+    "name": "Cevam Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/145941.v1.png",
+    "stream_url": "https://listen.radioking.com/radio/331132/stream/379453",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Madagascar",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:59:39+05:30"
+  },
+  {
+    "id": "onlineradiobox_mg.dagosound",
+    "name": "Dago Radio Sound",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/43363.v7.png",
+    "stream_url": "http://drs-live.gasy-internet.info:8011/;",
+    "website": "http://www.dagoradiosound.info/",
+    "provider": "onlineradiobox",
+    "country": "Madagascar",
+    "genres": [
+      "news",
+      "culture"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:58:56+05:30"
+  },
+  {
+    "id": "onlineradiobox_mg.emmanuel",
+    "name": "Emmanuel Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/143646.v2.png",
+    "stream_url": "https://emmanuel.jireh.ovh/;",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Madagascar",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:58:48+05:30"
+  },
+  {
+    "id": "onlineradiobox_mg.esdes",
+    "name": "ESDES TV Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/134420.v2.png",
+    "stream_url": "https://radio.es-des.com/listen/esdes_radio/radio.mp3",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Madagascar",
+    "genres": [
+      "pop",
+      "news",
+      "education",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:00:44+05:30"
+  },
+  {
+    "id": "onlineradiobox_mg.feonnyfilazantsara",
+    "name": "Radio Feon&#39;ny Filazantsara",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/141481.v1.png",
+    "stream_url": "https://fpsnew1.listen2myradio.com:2199/listen.php?ip=82.145.63.6&port=8622&type=s1",
+    "website": "http://www.flm-rff.org/",
+    "provider": "onlineradiobox",
+    "country": "Madagascar",
+    "genres": [
+      "gospel",
+      "education"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:59:52+05:30"
+  },
+  {
+    "id": "onlineradiobox_mg.fiami",
+    "name": "Fiami Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/112184.v8.png",
+    "stream_url": "https://stream.zeno.fm/56v03bnh6ehvv",
+    "website": "https://ucgmada.blogspot.com/",
+    "provider": "onlineradiobox",
+    "country": "Madagascar",
+    "genres": [
+      "talk",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:59:38+05:30"
+  },
+  {
+    "id": "onlineradiobox_mg.fiderana",
+    "name": "Fiderana Web Radio",
+    "image": "https://cdn.onlineradiobox.com/img/logo/9/146159.png",
+    "stream_url": "https://a2.asurahosting.com:6190/radio.mp3",
+    "website": "https://a2.asurahosting.com/public/fiderana",
+    "provider": "onlineradiobox",
+    "country": "Madagascar",
+    "genres": [
+      "pop",
+      "christian",
+      "alternative",
+      "christmas",
+      "entertainment",
+      "spiritual",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:58:52+05:30"
+  },
+  {
+    "id": "onlineradiobox_mg.fitahiana",
+    "name": "radio fitahiana",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/129353.v5.png",
+    "stream_url": "http:78.129.229.113:30076/;",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Madagascar",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:59:50+05:30"
+  },
+  {
+    "id": "onlineradiobox_mg.fivoarana",
+    "name": "Radio Fivoarana",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/139434.v1.png",
+    "stream_url": "http://serveur.wanastream.com:9000/stream.oggg",
+    "website": "https://radiofivoarana.com/",
+    "provider": "onlineradiobox",
+    "country": "Madagascar",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:00:40+05:30"
+  },
+  {
+    "id": "onlineradiobox_mg.foi",
+    "name": "Radio FMFOI",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/139446.v1.png",
+    "stream_url": "https://stream.zeno.fm/tc6qiq23sz2uv",
+    "website": "https://fmfoi-apostolic.com/",
+    "provider": "onlineradiobox",
+    "country": "Madagascar",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:58:49+05:30"
+  },
+  {
+    "id": "onlineradiobox_mg.freefmfreenews",
+    "name": "Free FM - Free News",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/141397.v2.png",
+    "stream_url": "http://102.16.209.146:8000/freefm",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Madagascar",
+    "genres": [
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:00:39+05:30"
+  },
+  {
+    "id": "onlineradiobox_mg.frequenceplus",
+    "name": "Radio Fréquence Plus Madagascar",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/74919.v5.png",
+    "stream_url": "http://192.162.68.160:8080/stream",
+    "website": "http://frequenceplus.mg/",
+    "provider": "onlineradiobox",
+    "country": "Madagascar",
+    "genres": [],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:58:47+05:30"
+  },
+  {
+    "id": "onlineradiobox_mg.gnmadagascar",
+    "name": "Gn Radio - Madagascar",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/150078.v1.png",
+    "stream_url": "https://a11.asurahosting.com:7360/madagascar.mp3",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Madagascar",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:59:44+05:30"
+  },
+  {
+    "id": "onlineradiobox_mg.hajamic",
+    "name": "Haja MIC",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/123590.v6.png",
+    "stream_url": "https://stream.zeno.fm/cv0rw3a6cxhvv",
+    "website": "https://zeno.fm/radio/haja-mic/",
+    "provider": "onlineradiobox",
+    "country": "Madagascar",
+    "genres": [
+      "rock",
+      "pop",
+      "rap",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:59:45+05:30"
+  },
+  {
+    "id": "onlineradiobox_mg.hero",
+    "name": "Hero Radio (Madagascar)",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/139020.v1.png",
+    "stream_url": "https://a2.asurahosting.com:6790/madagascar.mp3",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Madagascar",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:59:43+05:30"
+  },
+  {
+    "id": "onlineradiobox_mg.hifi",
+    "name": "Radio Hi&amp;Fi",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/125994.v2.png",
+    "stream_url": "https://listen.radioking.com/radio/52108/stream/89122",
+    "website": "https://hifi-madanet.org/",
+    "provider": "onlineradiobox",
+    "country": "Madagascar",
+    "genres": [
+      "pop",
+      "folk",
+      "country",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:59:47+05:30"
+  },
+  {
+    "id": "onlineradiobox_mg.hopefy",
+    "name": "Hopefy Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/135288.v15.png",
+    "stream_url": "https://hopefy.fanantenanahoanao.org/hls/hopefy_radio_mg/live.m3u8",
+    "website": "https://www.fanantenanahoanao.org/",
+    "provider": "onlineradiobox",
+    "country": "Madagascar",
+    "genres": [
+      "talk",
+      "christian",
+      "culture",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:58:46+05:30"
+  },
+  {
+    "id": "onlineradiobox_mg.joyafrica",
+    "name": "Joy Radio Africa",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/112889.v4.png",
+    "stream_url": "https://audio-joyradioafricacom.bisericilive.com/joyradioafricacom.mp3",
+    "website": "https://www.joyradioafrica.com/",
+    "provider": "onlineradiobox",
+    "country": "Madagascar",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:59:42+05:30"
+  },
+  {
+    "id": "onlineradiobox_mg.kay",
+    "name": "Kay FM Fitahiantsoa",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/149506.v1.png",
+    "stream_url": "http://146.59.157.199:8000/1",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Madagascar",
+    "genres": [
+      "dance",
+      "pop",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:58:56+05:30"
+  },
+  {
+    "id": "onlineradiobox_mg.kidona",
+    "name": "Kidona Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/123898.v51.png",
+    "stream_url": "https://listen.radioking.com/radio/802471/stream/871056",
+    "website": "https://www.kidonaradio.com/",
+    "provider": "onlineradiobox",
+    "country": "Madagascar",
+    "genres": [
+      "dance",
+      "folk",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:59:36+05:30"
+  },
+  {
+    "id": "onlineradiobox_mg.kultura",
+    "name": "Kultura Fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/153442.v1.png",
+    "stream_url": "http://146.59.157.199:8000/4",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Madagascar",
+    "genres": [
+      "news",
+      "culture"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:00:46+05:30"
+  },
+  {
+    "id": "onlineradiobox_mg.lasincleiblesaventurasdelaprincesadaisy",
+    "name": "Las Incleibles Aventuras De La Princesa Daisy",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/140352.v2.png",
+    "stream_url": "https://stream.zeno.fm/za3roygi1gyuv",
+    "website": "https://zeno.fm/radio/las-incleibles-aventuras-de-la-princesa-daisy/",
+    "provider": "onlineradiobox",
+    "country": "Madagascar",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:59:51+05:30"
+  },
+  {
+    "id": "onlineradiobox_mg.ledzhiks",
+    "name": "Radio Lejicks",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/153645.v1.png",
+    "stream_url": "https://listen.radioking.com/radio/804226/stream/872911",
+    "website": "https://link.radioking.com/radio-lejicks",
+    "provider": "onlineradiobox",
+    "country": "Madagascar",
+    "genres": [
+      "pop",
+      "news",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:00:47+05:30"
+  },
+  {
+    "id": "onlineradiobox_mg.lrcm",
+    "name": "LRCM Radio (Madagascar)",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/152999.v2.png",
+    "stream_url": "https://a8.asurahosting.com:8950/madagascar.mp3",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Madagascar",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:59:49+05:30"
+  },
+  {
+    "id": "onlineradiobox_mg.mahazatra",
+    "name": "Mahazatra Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/153462.v1.png",
+    "stream_url": "https://play.radioking.io/m-radio20",
+    "website": "https://www.mahazatra.com/",
+    "provider": "onlineradiobox",
+    "country": "Madagascar",
+    "genres": [
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:00:41+05:30"
+  },
+  {
+    "id": "onlineradiobox_mg.mampita",
+    "name": "Radio Mampita",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/150000.v1.png",
+    "stream_url": "http://146.59.157.199:8000/3",
+    "website": "https://radiomampita-fr.weebly.com/",
+    "provider": "onlineradiobox",
+    "country": "Madagascar",
+    "genres": [
+      "news",
+      "talk",
+      "chanson",
+      "culture"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:59:46+05:30"
+  },
+  {
+    "id": "onlineradiobox_mg.manabalsama",
+    "name": "Radio Mana Balsama",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/107154.v4.png",
+    "stream_url": "http://54.38.81.22:7710/;",
+    "website": "http://www.jesosymamonjy.mg/",
+    "provider": "onlineradiobox",
+    "country": "Madagascar",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:00:37+05:30"
+  },
+  {
+    "id": "onlineradiobox_mg.mariamadagascar",
+    "name": "Radio Maria Madagascar",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/147316.v1.png",
+    "stream_url": "http://dreamsiteradiocp4.com:8110/stream.mp3",
+    "website": "https://www.radiomaria.mg/",
+    "provider": "onlineradiobox",
+    "country": "Madagascar",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:59:52+05:30"
+  },
+  {
+    "id": "onlineradiobox_mg.mre",
+    "name": "MRE webradio",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/144724.v5.png",
+    "stream_url": "https://listen.radioking.com/radio/62953/stream/100504",
+    "website": "https://fr.welove.radio/radio/mre-webradio/",
+    "provider": "onlineradiobox",
+    "country": "Madagascar",
+    "genres": [
+      "african",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:58:50+05:30"
+  },
+  {
+    "id": "onlineradiobox_mg.mtv",
+    "name": "Radio MTV Madagascar",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/84788.v29.png",
+    "stream_url": "https://a9.asurahosting.com/listen/radio_mtv_madagacar/radio.mp3",
+    "website": "https://radiomtvmadagascar.live/",
+    "provider": "onlineradiobox",
+    "country": "Madagascar",
+    "genres": [],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:58:43+05:30"
+  },
+  {
+    "id": "onlineradiobox_mg.natiora",
+    "name": "Natiora radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/153428.v1.png",
+    "stream_url": "http://uk24freenew.listen2myradio.com:26912/;",
+    "website": "https://natioraradiomg.radio12345.com/",
+    "provider": "onlineradiobox",
+    "country": "Madagascar",
+    "genres": [
+      "education"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:00:35+05:30"
+  },
+  {
+    "id": "onlineradiobox_mg.netpromada",
+    "name": "NetPro Mada Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/82707.v4.png",
+    "stream_url": "https://radio.netpro.mg/arretbus23.mp3",
+    "website": "https://www.netpro.mg/",
+    "provider": "onlineradiobox",
+    "country": "Madagascar",
+    "genres": [
+      "rock",
+      "pop",
+      "news",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:58:57+05:30"
+  },
+  {
+    "id": "onlineradiobox_mg.novamadagascar",
+    "name": "Radio Nova Madagascar",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/149994.v1.png",
+    "stream_url": "http://173.249.16.205:8000/radio.mp3",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Madagascar",
+    "genres": [
+      "pop",
+      "easy listening",
+      "afro beat"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:59:53+05:30"
+  },
+  {
+    "id": "onlineradiobox_mg.nyantsika",
+    "name": "Radio RNA",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/43377.v5.png",
+    "stream_url": "http://drs-live-rna.gasy-internet.info:9001/;",
+    "website": "http://www.rna-madagascar.com/",
+    "provider": "onlineradiobox",
+    "country": "Madagascar",
+    "genres": [
+      "pop",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:58:40+05:30"
+  },
+  {
+    "id": "onlineradiobox_mg.oasistana",
+    "name": "Radio Oasis Tana 106.4 FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/125414.v7.png",
+    "stream_url": "https://hopefy.fanantenanahoanao.org/listen/radiooasistana/radio.mp3",
+    "website": "http://radiooasistana.radiostream321.com/",
+    "provider": "onlineradiobox",
+    "country": "Madagascar",
+    "genres": [
+      "culture",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:58:39+05:30"
+  },
+  {
+    "id": "onlineradiobox_mg.olivasoa",
+    "name": "Olivasoa Radio 91Fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/73144.v7.png",
+    "stream_url": "https://rocket.streamradio.fr/stream/olivasoa",
+    "website": "https://www.olivasoa-radio.net/",
+    "provider": "onlineradiobox",
+    "country": "Madagascar",
+    "genres": [
+      "pop",
+      "blues",
+      "christian",
+      "funk",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:58:58+05:30"
+  },
+  {
+    "id": "onlineradiobox_mg.oniversitenitasy",
+    "name": "Radio Oniversiten&#39;Itasy",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/150944.v4.png",
+    "stream_url": "http://uk6freenew.listen2myradio.com:13790/;",
+    "website": "https://univ-itasy.com/site/",
+    "provider": "onlineradiobox",
+    "country": "Madagascar",
+    "genres": [
+      "education",
+      "community"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:00:36+05:30"
+  },
+  {
+    "id": "onlineradiobox_mg.prince",
+    "name": "Prince Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/133173.v2.png",
+    "stream_url": "https://manager7.streamradio.fr:2205/stream",
+    "website": "https://laradioduprince.wixsite.com/princeradio",
+    "provider": "onlineradiobox",
+    "country": "Madagascar",
+    "genres": [
+      "rock",
+      "jazz",
+      "alternative",
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:59:47+05:30"
+  },
+  {
+    "id": "onlineradiobox_mg.radioparadisagasy",
+    "name": "Radio Paradisagasy",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/43361.v8.png",
+    "stream_url": "https://stream.deevaradio.net:10443/paradisagasy",
+    "website": "http://www.radioparadisagasy.com/",
+    "provider": "onlineradiobox",
+    "country": "Madagascar",
+    "genres": [
+      "folk",
+      "african",
+      "zouk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:58:42+05:30"
+  },
+  {
+    "id": "onlineradiobox_mg.rdj",
+    "name": "RDJ",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/69329.v2.png",
+    "stream_url": "http://rdj966.net:8000/rdj966.mp3",
+    "website": "http://rdj.mg/",
+    "provider": "onlineradiobox",
+    "country": "Madagascar",
+    "genres": [
+      "dance",
+      "pop",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:58:39+05:30"
+  },
+  {
+    "id": "onlineradiobox_mg.rejf",
+    "name": "Jiro sy Fanasina - REJF",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/150055.v2.png",
+    "stream_url": "http://54.38.81.22:6777/;",
+    "website": "http://www.rejf.net/",
+    "provider": "onlineradiobox",
+    "country": "Madagascar",
+    "genres": [
+      "christian",
+      "chanson"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:00:40+05:30"
+  },
+  {
+    "id": "onlineradiobox_mg.rfimusique",
+    "name": "Radio RFI Musique",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/43367.v3.png",
+    "stream_url": "http://live02.rfi.fr/rfimusiquemonde-96k.mp3",
+    "website": "http://musique.rfi.fr/",
+    "provider": "onlineradiobox",
+    "country": "Madagascar",
+    "genres": [
+      "news",
+      "culture"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:59:37+05:30"
+  },
+  {
+    "id": "onlineradiobox_mg.rla",
+    "name": "RLA",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/154340.v2.png",
+    "stream_url": "https://a7.asurahosting.com:9460/radio.mp3",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Madagascar",
+    "genres": [
+      "hip-hop",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:59:48+05:30"
+  },
+  {
+    "id": "onlineradiobox_mg.rnaantananarivo",
+    "name": "Rna Antananarivo",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/96998.v8.png",
+    "stream_url": "https://stream.zeno.fm/p1zt1ahsks8uv",
+    "website": "https://www.rna-madagascar.com/",
+    "provider": "onlineradiobox",
+    "country": "Madagascar",
+    "genres": [
+      "community"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:59:37+05:30"
+  },
+  {
+    "id": "onlineradiobox_mg.rockmadagascar",
+    "name": "Radio Rock Madagascar",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/153901.v1.png",
+    "stream_url": "https://tanjona.radioca.st/stream",
+    "website": "https://www.once.mg/",
+    "provider": "onlineradiobox",
+    "country": "Madagascar",
+    "genres": [
+      "rock",
+      "heavy metal",
+      "hard rock",
+      "metal"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:59:41+05:30"
+  },
+  {
+    "id": "onlineradiobox_mg.rofia",
+    "name": "Radio ROFIA",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/149534.v1.png",
+    "stream_url": "http://146.59.157.199:8000/2",
+    "website": "https://www.univ-fianarantsoa.mg/Rofia",
+    "provider": "onlineradiobox",
+    "country": "Madagascar",
+    "genres": [
+      "news",
+      "education"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:58:54+05:30"
+  },
+  {
+    "id": "onlineradiobox_mg.rtvsoafia",
+    "name": "RTV Soafia",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/124889.v1.png",
+    "stream_url": "http://102.16.44.51:8000/radiosoafia",
+    "website": "https://rtvsoafia.mg/",
+    "provider": "onlineradiobox",
+    "country": "Madagascar",
+    "genres": [
+      "pop",
+      "retro"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:58:55+05:30"
+  },
+  {
+    "id": "onlineradiobox_mg.sioka",
+    "name": "Radio SIOKA",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/146260.v8.png",
+    "stream_url": "https://securestreams.autopo.st:2584/;",
+    "website": "https://sioka.org/",
+    "provider": "onlineradiobox",
+    "country": "Madagascar",
+    "genres": [
+      "talk",
+      "education",
+      "politics"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:00:43+05:30"
+  },
+  {
+    "id": "onlineradiobox_mg.soaimadagasikara",
+    "name": "Soa i Madagasikara",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/74277.v2.png",
+    "stream_url": "http://planner.soaimadagasikara.org:8080/streaming",
+    "website": "http://radio.soaimadagasikara.org/",
+    "provider": "onlineradiobox",
+    "country": "Madagascar",
+    "genres": [
+      "culture",
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:59:40+05:30"
+  },
+  {
+    "id": "onlineradiobox_mg.sourcedegrace",
+    "name": "Source de Grace",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/153717.v1.png",
+    "stream_url": "https://rcast.pro-fhi.net:9044/stream",
+    "website": "https://sourcedegrace.com/",
+    "provider": "onlineradiobox",
+    "country": "Madagascar",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:00:32+05:30"
+  },
+  {
+    "id": "onlineradiobox_mg.tiakobelaradio",
+    "name": "Tiako be... La radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/43364.v5.png",
+    "stream_url": "https://tiakobe.ice.infomaniak.ch/tiakobe-64.aac?",
+    "website": "http://www.tiakobe.fr/",
+    "provider": "onlineradiobox",
+    "country": "Madagascar",
+    "genres": [
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:58:43+05:30"
+  },
+  {
+    "id": "onlineradiobox_mg.topradio1028",
+    "name": "topradio-102-8",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/145735.v2.png",
+    "stream_url": "https://listen.radioking.com/radio/309053/stream/356036",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Madagascar",
+    "genres": [
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:58:41+05:30"
+  },
+  {
+    "id": "onlineradiobox_mg.tsikaon",
+    "name": "TsikaOn Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/152964.v1.png",
+    "stream_url": "https://listen.radioking.com/radio/783536/stream/851211",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Madagascar",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:00:30+05:30"
+  },
+  {
+    "id": "onlineradiobox_mg.tsikaone",
+    "name": "Tsika One",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/150334.v2.png",
+    "stream_url": "https://listen.radioking.com/radio/746836/stream/813472",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Madagascar",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:00:38+05:30"
+  },
+  {
+    "id": "onlineradiobox_mg.tsiryfianara",
+    "name": "Radio Tsiry Fianara",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/135011.v29.png",
+    "stream_url": "http://109.123.251.210:8000/radio_tsiry",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Madagascar",
+    "genres": [
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:58:45+05:30"
+  },
+  {
+    "id": "onlineradiobox_mg.tzgospel",
+    "name": "Tzgospel ( Madagascar)",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/127683.v1.png",
+    "stream_url": "https://stream.zeno.fm/abaurks1uchvv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Madagascar",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:00:31+05:30"
+  },
+  {
+    "id": "onlineradiobox_mg.ucgmada",
+    "name": "UCG Mada",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/117291.v4.png",
+    "stream_url": "https://stream.zeno.fm/mp24wpdh6ehvv",
+    "website": "https://ucgmada.blogspot.com/",
+    "provider": "onlineradiobox",
+    "country": "Madagascar",
+    "genres": [
+      "talk",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:59:38+05:30"
+  },
+  {
+    "id": "onlineradiobox_mg.universiteambohitsaina",
+    "name": "Radio Université Ambohitsaina 107FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/147185.v1.png",
+    "stream_url": "https://cast5.servcast.net/proxy/rua107fm/stream",
+    "website": "https://www.univ-antananarivo.mg/",
+    "provider": "onlineradiobox",
+    "country": "Madagascar",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T22:00:33+05:30"
+  },
+  {
+    "id": "onlineradiobox_mg.unyc",
+    "name": "Radio Unyc NOSY- BÉ 93 FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/148361.v12.png",
+    "stream_url": "https://a13.asurahosting.com/listen/unyc93/radio.mp3",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Madagascar",
+    "genres": [],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:58:51+05:30"
+  },
+  {
+    "id": "onlineradiobox_mg.v105antsirabe",
+    "name": "Radio Vfm 105 Antsirabe",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/106228.v2.png",
+    "stream_url": "https://freeuk8.listen2myradio.com/live.mp3?typeportmount=s1_36998_stream_459491058;",
+    "website": "https://radiovfmbira.radiostream321.com/",
+    "provider": "onlineradiobox",
+    "country": "Madagascar",
+    "genres": [
+      "news"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:59:44+05:30"
+  },
+  {
+    "id": "onlineradiobox_mg.vatsy",
+    "name": "Radio Vatsy",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/43380.v3.png",
+    "stream_url": "https://radio.fpma.church/",
+    "website": "http://fpma.net/radio",
+    "provider": "onlineradiobox",
+    "country": "Madagascar",
+    "genres": [
+      "talk",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:59:43+05:30"
+  },
+  {
+    "id": "onlineradiobox_mg.vazogasy",
+    "name": "Radio vazo gasy",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/70913.v9.png",
+    "stream_url": "https://stream.radiovazogasy.com/stream?1.mp3&t=1642690217",
+    "website": "http://radiovazogasy.com/",
+    "provider": "onlineradiobox",
+    "country": "Madagascar",
+    "genres": [
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:58:45+05:30"
+  }
+]

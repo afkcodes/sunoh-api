@@ -1,0 +1,273 @@
+[
+  {
+    "id": "onlineradiobox_tj.asiaplus",
+    "name": "Радио Азия Плюс",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/43260.v12.png",
+    "stream_url": "https://eu.asiaplusradio.tj:8443/ap",
+    "website": "http://asiaplusradio.tj/",
+    "provider": "onlineradiobox",
+    "country": "Tajikistan",
+    "genres": [
+      "pop",
+      "news",
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:50:20+05:30"
+  },
+  {
+    "id": "onlineradiobox_tj.avtotadjikistan",
+    "name": "Авторадио Таджикистан",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/109946.v6.png",
+    "stream_url": "https://c22.radioboss.fm/stream/347",
+    "website": "https://www.avtoradio.tj/",
+    "provider": "onlineradiobox",
+    "country": "Tajikistan",
+    "genres": [
+      "news",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:50:24+05:30"
+  },
+  {
+    "id": "onlineradiobox_tj.dier",
+    "name": "РАДИО &#34;Диёр&#34;",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/43262.v3.png",
+    "stream_url": "https://c16.radioboss.fm:18234/stream",
+    "website": "http://dfm.tj/",
+    "provider": "onlineradiobox",
+    "country": "Tajikistan",
+    "genres": [
+      "pop",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:50:19+05:30"
+  },
+  {
+    "id": "onlineradiobox_tj.freetajikistan",
+    "name": "Radio Free Tajikistan",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/43258.v4.png",
+    "stream_url": "http://rfe-channel-09.akacast.akamaistream.net/7/872/229659/v1/ibb.akacast.akamaistream.net/rfe_channel_09.mp3",
+    "website": "http://www.ozodi.org/",
+    "provider": "onlineradiobox",
+    "country": "Tajikistan",
+    "genres": [
+      "pop",
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:50:20+05:30"
+  },
+  {
+    "id": "onlineradiobox_tj.kand",
+    "name": "Kand FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/84342.v17.png",
+    "stream_url": "https://myradio24.org/tamish",
+    "website": "https://kandfm.tj/",
+    "provider": "onlineradiobox",
+    "country": "Tajikistan",
+    "genres": [
+      "disco",
+      "pop",
+      "news",
+      "talk",
+      "classic",
+      "entertainment",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:50:18+05:30"
+  },
+  {
+    "id": "onlineradiobox_tj.khovar",
+    "name": "ХОВАР",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/72543.v6.png",
+    "stream_url": "https://radio.khovar.tj/live",
+    "website": "http://khovar.tj/",
+    "provider": "onlineradiobox",
+    "country": "Tajikistan",
+    "genres": [
+      "pop",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:50:21+05:30"
+  },
+  {
+    "id": "onlineradiobox_tj.loveradio888",
+    "name": "Love Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/81660.v5.png",
+    "stream_url": "https://c22.radioboss.fm:18077/stream",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Tajikistan",
+    "genres": [
+      "disco",
+      "pop",
+      "folk",
+      "love songs"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:50:22+05:30"
+  },
+  {
+    "id": "onlineradiobox_tj.newradio",
+    "name": "Новое Радио",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/81661.v3.png",
+    "stream_url": "https://c13.radioboss.fm:8549/stream",
+    "website": "http://newradio.tj/",
+    "provider": "onlineradiobox",
+    "country": "Tajikistan",
+    "genres": [
+      "pop",
+      "folk",
+      "ethnic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:50:24+05:30"
+  },
+  {
+    "id": "onlineradiobox_tj.payvand",
+    "name": "Радио Пайванд",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/122032.v3.png",
+    "stream_url": "https://c6.radioboss.fm/stream/234",
+    "website": "https://cm-1.tv/",
+    "provider": "onlineradiobox",
+    "country": "Tajikistan",
+    "genres": [
+      "disco",
+      "pop",
+      "news",
+      "talk",
+      "classic",
+      "entertainment",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:50:26+05:30"
+  },
+  {
+    "id": "onlineradiobox_tj.sadoikhuchand",
+    "name": "Радио Садои Хучанд",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/105074.v4.png",
+    "stream_url": "https://misato.ru-hoster.com:8038/stream",
+    "website": "http://www.rsk.tj/",
+    "provider": "onlineradiobox",
+    "country": "Tajikistan",
+    "genres": [
+      "rock",
+      "pop",
+      "news",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:50:23+05:30"
+  },
+  {
+    "id": "onlineradiobox_tj.shahriman9770",
+    "name": "Радио &#34;Шаҳри Ман&#34;",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/143684.v6.png",
+    "stream_url": "https://c16.radioboss.fm:8438/stream",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Tajikistan",
+    "genres": [
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:50:25+05:30"
+  },
+  {
+    "id": "onlineradiobox_tj.tiroz",
+    "name": "Радио &#34;Тироз&#34;",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/43261.v4.png",
+    "stream_url": "https://eu1.fastcast4u.com/proxy/khusrav/stream",
+    "website": "http://tiroz.org/",
+    "provider": "onlineradiobox",
+    "country": "Tajikistan",
+    "genres": [
+      "pop",
+      "news",
+      "talk",
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:50:23+05:30"
+  },
+  {
+    "id": "onlineradiobox_tj.tzgospel",
+    "name": "Tzgospel Tajikistan",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/128603.v1.png",
+    "stream_url": "https://stream.zeno.fm/m31ce6xvcfhvv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Tajikistan",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:50:27+05:30"
+  },
+  {
+    "id": "onlineradiobox_tj.vatan",
+    "name": "Radio Vatan",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/72542.v3.png",
+    "stream_url": "http://95.142.83.233:8000/sr128",
+    "website": "http://vatan.tj/",
+    "provider": "onlineradiobox",
+    "country": "Tajikistan",
+    "genres": [
+      "pop",
+      "talk",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:50:22+05:30"
+  }
+]

@@ -1,0 +1,691 @@
+[
+  {
+    "id": "onlineradiobox_cu.ambito",
+    "name": "Radio Ámbito",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/151630.v1.png",
+    "stream_url": "https://stream.zeno.fm/g9e51rxxzyzuv",
+    "website": "https://radioambitooficial.blogspot.com/",
+    "provider": "onlineradiobox",
+    "country": "Cuba",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:16:22+05:30"
+  },
+  {
+    "id": "onlineradiobox_cu.antennahavana",
+    "name": "Antenna Web Havana",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/128463.v8.png",
+    "stream_url": "https://cuba.radioantennaweb.com/havana",
+    "website": "https://antennaweb.it/antennaweb-havana/",
+    "provider": "onlineradiobox",
+    "country": "Cuba",
+    "genres": [
+      "rock",
+      "pop",
+      "blues",
+      "jazz",
+      "funk",
+      "latin"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:15:50+05:30"
+  },
+  {
+    "id": "onlineradiobox_cu.artemisa",
+    "name": "Radio Artemisa",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/35053.v4.png",
+    "stream_url": "https://icecast.teveo.cu/9HzjRcjX",
+    "website": "http://www.artemisaradioweb.icrt.cu/",
+    "provider": "onlineradiobox",
+    "country": "Cuba",
+    "genres": [
+      "news",
+      "talk",
+      "sports",
+      "latin"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:15:45+05:30"
+  },
+  {
+    "id": "onlineradiobox_cu.baragua",
+    "name": "Radio Baragua",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/98354.v8.png",
+    "stream_url": "https://icecast.teveo.cu/3CMM7zph",
+    "website": "http://www.radiobaragua.cu/",
+    "provider": "onlineradiobox",
+    "country": "Cuba",
+    "genres": [
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:15:48+05:30"
+  },
+  {
+    "id": "onlineradiobox_cu.blue36",
+    "name": "Futuravision Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/136847.v14.png",
+    "stream_url": "http://uk6freenew.listen2myradio.com:7778/;",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Cuba",
+    "genres": [
+      "adult contemporary",
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:16:20+05:30"
+  },
+  {
+    "id": "onlineradiobox_cu.cadenahabana",
+    "name": "Radio Cadena Habana",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/98353.v4.png",
+    "stream_url": "https://icecast.teveo.cu/Jdq3Rbrg",
+    "website": "https://www.cadenahabana.icrt.cu/",
+    "provider": "onlineradiobox",
+    "country": "Cuba",
+    "genres": [
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:16:18+05:30"
+  },
+  {
+    "id": "onlineradiobox_cu.camoa",
+    "name": "Radio Camoa",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/98352.v4.png",
+    "stream_url": "https://icecast.teveo.cu/7vCk4tnh",
+    "website": "http://www.radiocamoa.icrt.cu/",
+    "provider": "onlineradiobox",
+    "country": "Cuba",
+    "genres": [
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:15:50+05:30"
+  },
+  {
+    "id": "onlineradiobox_cu.campesinacubana",
+    "name": "Radio Campesina Cubana",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/35210.v6.png",
+    "stream_url": "https://stream.laut.fm/radiocampesinacubana",
+    "website": "http://radiocampesinacubana.playtheradio.com/",
+    "provider": "onlineradiobox",
+    "country": "Cuba",
+    "genres": [
+      "folk",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:15:39+05:30"
+  },
+  {
+    "id": "onlineradiobox_cu.ciudaddelahabana",
+    "name": "Radio Ciudad de la Habana",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/98350.v3.png",
+    "stream_url": "https://icecast.teveo.cu/g73XCjCH",
+    "website": "http://www.radiociudadhabana.icrt.cu/",
+    "provider": "onlineradiobox",
+    "country": "Cuba",
+    "genres": [
+      "pop",
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:15:46+05:30"
+  },
+  {
+    "id": "onlineradiobox_cu.ciudadenvivo",
+    "name": "Radio ciudad fm en vivo",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/126857.v1.png",
+    "stream_url": "https://sonicpanel.oficialserver.com:7199/;",
+    "website": "https://radiociudadfmaovivo.blogspot.com/",
+    "provider": "onlineradiobox",
+    "country": "Cuba",
+    "genres": [
+      "pop",
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:16:23+05:30"
+  },
+  {
+    "id": "onlineradiobox_cu.conacentocubano",
+    "name": "Radio Con Acento Cubano",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/153303.v1.png",
+    "stream_url": "https://radios.blumhost.es/8022/stream",
+    "website": "https://www.elrinconcubano.es/",
+    "provider": "onlineradiobox",
+    "country": "Cuba",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:16:18+05:30"
+  },
+  {
+    "id": "onlineradiobox_cu.cuba80s",
+    "name": "Cuba80s",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/107034.v14.png",
+    "stream_url": "https://cuba80s.com/radiostation.php",
+    "website": "https://www.cuba80s.com/",
+    "provider": "onlineradiobox",
+    "country": "Cuba",
+    "genres": [
+      "retro",
+      "80s",
+      "oldies",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:15:42+05:30"
+  },
+  {
+    "id": "onlineradiobox_cu.cubana",
+    "name": "Radio Cubana",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/35159.v4.png",
+    "stream_url": "https://streamingv2.shoutcast.com/Radio-Cubana",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Cuba",
+    "genres": [
+      "rock",
+      "pop",
+      "jazz",
+      "salsa"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:15:41+05:30"
+  },
+  {
+    "id": "onlineradiobox_cu.cubandjspro",
+    "name": "CubanDjsPro Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/130591.v2.png",
+    "stream_url": "https://servidor21.brlogic.com:7114/live",
+    "website": "https://www.cubandjsproradio.com/",
+    "provider": "onlineradiobox",
+    "country": "Cuba",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:15:47+05:30"
+  },
+  {
+    "id": "onlineradiobox_cu.emisoraatodamecha",
+    "name": "Emisora de Radio &#34;ATodaMecha&#34;",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/136014.v2.png",
+    "stream_url": "https://stream.zeno.fm/gjexooyemj3uv",
+    "website": "http://www.atodamecha.lovestoblog.com/",
+    "provider": "onlineradiobox",
+    "country": "Cuba",
+    "genres": [
+      "rock",
+      "rock'n'roll",
+      "metal",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:15:49+05:30"
+  },
+  {
+    "id": "onlineradiobox_cu.enciclopedia",
+    "name": "Radio Enciclopedia",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/98341.v2.png",
+    "stream_url": "https://icecast.teveo.cu/9Rnrbjzq",
+    "website": "http://www.radioenciclopedia.cu/",
+    "provider": "onlineradiobox",
+    "country": "Cuba",
+    "genres": [
+      "pop",
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:15:42+05:30"
+  },
+  {
+    "id": "onlineradiobox_cu.estereocentro935",
+    "name": "Radio Estereocentro 93.5 FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/143687.v1.png",
+    "stream_url": "https://icecast.teveo.cu/mHFR9zFb",
+    "website": "https://radioestereocentro.blogspot.com/",
+    "provider": "onlineradiobox",
+    "country": "Cuba",
+    "genres": [
+      "news",
+      "top40",
+      "hits",
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:15:47+05:30"
+  },
+  {
+    "id": "onlineradiobox_cu.futuravision",
+    "name": "Futuravision Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/137167.v2.png",
+    "stream_url": "http://uk25freenew.listen2myradio.com:4181/",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Cuba",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:16:21+05:30"
+  },
+  {
+    "id": "onlineradiobox_cu.glance",
+    "name": "Radio Glance La Nueva Era",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/123098.v26.png",
+    "stream_url": "https://az.azurafree.eu/listen/radio_glance/radio.mp3",
+    "website": "https://radioglance.lovestoblog.com/",
+    "provider": "onlineradiobox",
+    "country": "Cuba",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:15:46+05:30"
+  },
+  {
+    "id": "onlineradiobox_cu.habana",
+    "name": "Habana Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/35169.v4.png",
+    "stream_url": "http://media.ohc.cu/habanaradio",
+    "website": "http://www.habanaradio.cu/",
+    "provider": "onlineradiobox",
+    "country": "Cuba",
+    "genres": [
+      "pop",
+      "news",
+      "talk",
+      "latin"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:15:44+05:30"
+  },
+  {
+    "id": "onlineradiobox_cu.habanacuba",
+    "name": "Radio Habana Cuba",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/34933.v11.png",
+    "stream_url": "https://icecast.teveo.cu/McW3fLhs",
+    "website": "http://www.radiohc.cu/",
+    "provider": "onlineradiobox",
+    "country": "Cuba",
+    "genres": [
+      "pop",
+      "news",
+      "talk",
+      "latin"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:15:40+05:30"
+  },
+  {
+    "id": "onlineradiobox_cu.holguin",
+    "name": "Holguín en vivo",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/127332.v1.png",
+    "stream_url": "https://stream1.svrdedicado.org/8334/stream",
+    "website": "https://holguinenvivo.blogspot.com/",
+    "provider": "onlineradiobox",
+    "country": "Cuba",
+    "genres": [
+      "eclectic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:16:19+05:30"
+  },
+  {
+    "id": "onlineradiobox_cu.hostalazul",
+    "name": "Hostal Azul Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/151289.v1.png",
+    "stream_url": "https://stream.zeno.fm/b4m2tic2ibbtv",
+    "website": "https://hostalazulradio.blogspot.com/",
+    "provider": "onlineradiobox",
+    "country": "Cuba",
+    "genres": [
+      "dance",
+      "pop",
+      "salsa",
+      "romantic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:15:44+05:30"
+  },
+  {
+    "id": "onlineradiobox_cu.mariadelacaridad",
+    "name": "Radio María de la Caridad",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/126487.v13.png",
+    "stream_url": "https://stream.zeno.fm/lm5higqbg93vv",
+    "website": "https://www.atom.bio/radiomariadelacaridad",
+    "provider": "onlineradiobox",
+    "country": "Cuba",
+    "genres": [
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:15:48+05:30"
+  },
+  {
+    "id": "onlineradiobox_cu.musicalnacional",
+    "name": "Radio Musical Nacional",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/98344.v4.png",
+    "stream_url": "https://icecast.teveo.cu/Nbtz7HT3",
+    "website": "http://www.cmbfradio.icrt.cu/",
+    "provider": "onlineradiobox",
+    "country": "Cuba",
+    "genres": [
+      "jazz",
+      "classic",
+      "opera",
+      "acoustic",
+      "symphonic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:15:43+05:30"
+  },
+  {
+    "id": "onlineradiobox_cu.nuevitas",
+    "name": "Radio Nuevitas",
+    "image": "https://cdn.onlineradiobox.com/img/logo/6/144286.png",
+    "stream_url": "https://icecast.teveo.cu/9VVnwcww",
+    "website": "https://www.radionuevitas.icrt.cu/",
+    "provider": "onlineradiobox",
+    "country": "Cuba",
+    "genres": [
+      "news",
+      "talk",
+      "hits",
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:16:21+05:30"
+  },
+  {
+    "id": "onlineradiobox_cu.plazadelarevolucionenlnea",
+    "name": "Radio Plaza de la Revolución en línea",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/127333.v1.png",
+    "stream_url": "https://stream1.svrdedicado.org:7165/;",
+    "website": "https://plazadelarevolucionenlinea.blogspot.com/",
+    "provider": "onlineradiobox",
+    "country": "Cuba",
+    "genres": [
+      "gospel",
+      "eclectic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:16:19+05:30"
+  },
+  {
+    "id": "onlineradiobox_cu.progreso",
+    "name": "Radio Progreso",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/35166.v8.png",
+    "stream_url": "https://icecast.teveo.cu/XjfW7qWN",
+    "website": "http://www.radioprogreso.cu/",
+    "provider": "onlineradiobox",
+    "country": "Cuba",
+    "genres": [
+      "pop",
+      "news",
+      "talk",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:15:41+05:30"
+  },
+  {
+    "id": "onlineradiobox_cu.rdmgline",
+    "name": "Radio rdmg line",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/127803.v4.png",
+    "stream_url": "https://stream1.svrdedicado.org/8354/live",
+    "website": "https://rdmgline.blogspot.com/",
+    "provider": "onlineradiobox",
+    "country": "Cuba",
+    "genres": [
+      "eclectic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:16:23+05:30"
+  },
+  {
+    "id": "onlineradiobox_cu.rebelede",
+    "name": "Radio Rebelde",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/98342.v9.png",
+    "stream_url": "https://icecast.teveo.cu/kHKL7tWd",
+    "website": "https://www.radiorebelde.cu/",
+    "provider": "onlineradiobox",
+    "country": "Cuba",
+    "genres": [
+      "pop",
+      "news",
+      "talk",
+      "sports",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:15:41+05:30"
+  },
+  {
+    "id": "onlineradiobox_cu.reloj",
+    "name": "Radio Reloj",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/98351.v2.png",
+    "stream_url": "https://icecast.teveo.cu/b3jbfThq",
+    "website": "http://www.radioreloj.cu/",
+    "provider": "onlineradiobox",
+    "country": "Cuba",
+    "genres": [
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:15:40+05:30"
+  },
+  {
+    "id": "onlineradiobox_cu.salsa",
+    "name": "Radio Salsa",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/35167.v2.png",
+    "stream_url": "http://radio.domiplay.net:2002/;",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Cuba",
+    "genres": [
+      "salsa",
+      "merengue"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:15:39+05:30"
+  },
+  {
+    "id": "onlineradiobox_cu.santamaria",
+    "name": "Radio Santa María Theotokos",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/129819.v6.png",
+    "stream_url": "https://stream.zeno.fm/xzzaukz381wuv",
+    "website": "https://zeno.fm/radio/radio-santa-maria-theotokos-zqon/",
+    "provider": "onlineradiobox",
+    "country": "Cuba",
+    "genres": [
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:15:49+05:30"
+  },
+  {
+    "id": "onlineradiobox_cu.seductorasvip",
+    "name": "SeductorasVip",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/82351.v2.png",
+    "stream_url": "https://xat.com/seductorasvip",
+    "website": "https://xat.com/seductorasvip",
+    "provider": "onlineradiobox",
+    "country": "Cuba",
+    "genres": [
+      "electronic",
+      "reggaeton",
+      "salsa"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:16:22+05:30"
+  },
+  {
+    "id": "onlineradiobox_cu.surco",
+    "name": "Radio Surco",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/150745.v3.png",
+    "stream_url": "https://icecast.teveo.cu/F9tgnJVT",
+    "website": "https://www.radiosurco.icrt.cu/",
+    "provider": "onlineradiobox",
+    "country": "Cuba",
+    "genres": [
+      "news"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:16:20+05:30"
+  },
+  {
+    "id": "onlineradiobox_cu.taino",
+    "name": "Radio Taíno",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/120379.v5.png",
+    "stream_url": "https://icecast.teveo.cu/3MCwWg3V",
+    "website": "https://www.radiotaino.cu/",
+    "provider": "onlineradiobox",
+    "country": "Cuba",
+    "genres": [
+      "pop",
+      "culture"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:15:45+05:30"
+  },
+  {
+    "id": "onlineradiobox_cu.trinidad",
+    "name": "Radio Trinidad",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/128187.v2.png",
+    "stream_url": "https://icecast.teveo.cu/pxPv4cWR",
+    "website": "https://www.radiotrinidad.icrt.cu/",
+    "provider": "onlineradiobox",
+    "country": "Cuba",
+    "genres": [
+      "pop",
+      "news",
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T18:15:51+05:30"
+  }
+]

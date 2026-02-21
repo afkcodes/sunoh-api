@@ -1,0 +1,1756 @@
+[
+  {
+    "id": "onlineradiobox_tw.17linego",
+    "name": "青春線上",
+    "image": "https://cdn.onlineradiobox.com/img/logo/9/41099.png",
+    "stream_url": "http://vatrack.hinet.net/96/pc?live",
+    "website": "http://www.17linego.com/",
+    "provider": "onlineradiobox",
+    "country": "Taiwan",
+    "genres": [
+      "pop",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:58:43+05:30"
+  },
+  {
+    "id": "onlineradiobox_tw.alian963",
+    "name": "Alian96.3 原住民族廣播電台",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/110579.v2.png",
+    "stream_url": "https://streamipcf.akamaized.net/live2/_definst_/fm963/playlist.m3u8",
+    "website": "https://www.ipcf.org.tw/zh-TW/Home/Radio",
+    "provider": "onlineradiobox",
+    "country": "Taiwan",
+    "genres": [
+      "pop",
+      "news",
+      "talk",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:56:07+05:30"
+  },
+  {
+    "id": "onlineradiobox_tw.appleline",
+    "name": "廣播電台",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/40574.v2.png",
+    "stream_url": "http://hichannel.hinet.net/radio/index.do?id=248",
+    "website": "http://www.apple-line.com/",
+    "provider": "onlineradiobox",
+    "country": "Taiwan",
+    "genres": [
+      "pop",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:57:51+05:30"
+  },
+  {
+    "id": "onlineradiobox_tw.bamboogrove",
+    "name": "FM90.3 Bamboo Grove Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/109624.v5.png",
+    "stream_url": "http://211.72.230.118:8081/",
+    "website": "http://radio.smileradio.com.tw/",
+    "provider": "onlineradiobox",
+    "country": "Taiwan",
+    "genres": [
+      "pop",
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:56:58+05:30"
+  },
+  {
+    "id": "onlineradiobox_tw.bb",
+    "name": "B&amp;B Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/119368.v5.png",
+    "stream_url": "https://cdn280.ccdntech.com/live-http/_definst_/vod280_Live/bb/playlist.m3u8",
+    "website": "http://bbradio.pch.org.tw/",
+    "provider": "onlineradiobox",
+    "country": "Taiwan",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:57:54+05:30"
+  },
+  {
+    "id": "onlineradiobox_tw.bcccountrynetwork",
+    "name": "BCC Country Network",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/109319.v4.png",
+    "stream_url": "https://stream.rcs.revma.com/k6q5h6yy2tzuv",
+    "website": "http://www.bcc.com.tw/",
+    "provider": "onlineradiobox",
+    "country": "Taiwan",
+    "genres": [
+      "chinese"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:56:15+05:30"
+  },
+  {
+    "id": "onlineradiobox_tw.bestradio",
+    "name": "花蓮好事",
+    "image": "https://cdn.onlineradiobox.com/img/logo/0/40960.png",
+    "stream_url": "http://www.hichannel.hinet.net/radio/index.do?id=303",
+    "website": "http://www.bestradio.com.tw/",
+    "provider": "onlineradiobox",
+    "country": "Taiwan",
+    "genres": [
+      "pop",
+      "news",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:58:44+05:30"
+  },
+  {
+    "id": "onlineradiobox_tw.bigbigtomato",
+    "name": "ONFM.org（您的精選歌單）",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/126799.v65.png",
+    "stream_url": "https://go.onfm.org/stream2",
+    "website": "https://onfm.org/",
+    "provider": "onlineradiobox",
+    "country": "Taiwan",
+    "genres": [
+      "pop",
+      "top40",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:56:01+05:30"
+  },
+  {
+    "id": "onlineradiobox_tw.bossonline",
+    "name": "Boss Online Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/107307.v1.png",
+    "stream_url": "https://stream.radiojar.com/ehzvurp9tv8uv",
+    "website": "https://www.bossonlineradio.com/",
+    "provider": "onlineradiobox",
+    "country": "Taiwan",
+    "genres": [
+      "pop",
+      "chinese",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:56:06+05:30"
+  },
+  {
+    "id": "onlineradiobox_tw.bravofm",
+    "name": "台北都會音樂台",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/41097.v1.png",
+    "stream_url": "http://hichannel.hinet.net/radio/index.do?id=102",
+    "website": "http://bravo913.wixsite.com/bravo",
+    "provider": "onlineradiobox",
+    "country": "Taiwan",
+    "genres": [
+      "pop",
+      "news",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:57:52+05:30"
+  },
+  {
+    "id": "onlineradiobox_tw.cancheers",
+    "name": "CanCheers",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/108954.v1.png",
+    "stream_url": "http://us3.internet-radio.com:8232/stream",
+    "website": "http://cancheers.org/",
+    "provider": "onlineradiobox",
+    "country": "Taiwan",
+    "genres": [
+      "talk",
+      "classic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:56:54+05:30"
+  },
+  {
+    "id": "onlineradiobox_tw.ccm909",
+    "name": "佳音聖樂網 CCM FM90.9",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/107809.v4.png",
+    "stream_url": "https://stream.ginnet.cloud/live0119lo-p4rb/_definst_/modern/playlist.m3u8",
+    "website": "http://www.goodnews.org.tw/live_ccm_01.php",
+    "provider": "onlineradiobox",
+    "country": "Taiwan",
+    "genres": [
+      "pop",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:56:11+05:30"
+  },
+  {
+    "id": "onlineradiobox_tw.classicalradio",
+    "name": "台中古典音樂台",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/41761.v1.png",
+    "stream_url": "http://hichannel.hinet.net/radio/index.do?id=1120",
+    "website": "http://www.family977.com.tw/",
+    "provider": "onlineradiobox",
+    "country": "Taiwan",
+    "genres": [
+      "classic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:58:41+05:30"
+  },
+  {
+    "id": "onlineradiobox_tw.csbc",
+    "name": "正聲綜合台",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/40966.v3.png",
+    "stream_url": "https://flv.ccdntech.com/live/_definst_/mp4:vod117_Live/live2/playlist.m3u8",
+    "website": "http://www.csbc.com.tw/",
+    "provider": "onlineradiobox",
+    "country": "Taiwan",
+    "genres": [
+      "pop",
+      "news",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:56:11+05:30"
+  },
+  {
+    "id": "onlineradiobox_tw.daai",
+    "name": "大愛網路電台",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/40558.v5.png",
+    "stream_url": "http://38.96.148.28:8156/stream",
+    "website": "http://daairadio.tw/",
+    "provider": "onlineradiobox",
+    "country": "Taiwan",
+    "genres": [
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:56:16+05:30"
+  },
+  {
+    "id": "onlineradiobox_tw.daikin",
+    "name": "FM106.3 Daikin Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/109631.v6.png",
+    "stream_url": "http://61.220.75.207:8106/",
+    "website": "http://radio.smileradio.com.tw/",
+    "provider": "onlineradiobox",
+    "country": "Taiwan",
+    "genres": [
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:56:56+05:30"
+  },
+  {
+    "id": "onlineradiobox_tw.dawushanbroadcastingstation",
+    "name": "FM91.3 Dawushan Broadcasting Station",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/109630.v4.png",
+    "stream_url": "http://59.120.255.171:8081/",
+    "website": "http://radio.smileradio.com.tw/",
+    "provider": "onlineradiobox",
+    "country": "Taiwan",
+    "genres": [
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:57:55+05:30"
+  },
+  {
+    "id": "onlineradiobox_tw.fengmin",
+    "name": "鳳鳴廣播電台",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/42071.v1.png",
+    "stream_url": "http://hichannel.hinet.net/radio/index.do?id=1562",
+    "website": "http://www.fengmin.com.tw/",
+    "provider": "onlineradiobox",
+    "country": "Taiwan",
+    "genres": [
+      "news"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:58:38+05:30"
+  },
+  {
+    "id": "onlineradiobox_tw.fhbs",
+    "name": "復興廣播電台 第一網",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/41373.v1.png",
+    "stream_url": "http://hichannel.hinet.net/radio/index.do?id=286",
+    "website": "http://www.fhbs.com.tw/",
+    "provider": "onlineradiobox",
+    "country": "Taiwan",
+    "genres": [
+      "pop",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:58:42+05:30"
+  },
+  {
+    "id": "onlineradiobox_tw.fly89.5",
+    "name": "Fly Radio FM 89.5",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/107438.v4.png",
+    "stream_url": "https://stream.rcs.revma.com/e0tdah74hv8uv",
+    "website": "https://www.flyradio.com.tw/",
+    "provider": "onlineradiobox",
+    "country": "Taiwan",
+    "genres": [
+      "chinese"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:56:05+05:30"
+  },
+  {
+    "id": "onlineradiobox_tw.fm1025trradio",
+    "name": "FM102.5 幸福廣播電台",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/107297.v4.png",
+    "stream_url": "http://61.218.61.251:8080/",
+    "website": "https://www.tr-radio.com/",
+    "provider": "onlineradiobox",
+    "country": "Taiwan",
+    "genres": [
+      "pop",
+      "news",
+      "chinese",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:56:09+05:30"
+  },
+  {
+    "id": "onlineradiobox_tw.fm899radio",
+    "name": "曾文溪廣播電台",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/42066.v1.png",
+    "stream_url": "http://hichannel.hinet.net/radio/index.do?id=1558",
+    "website": "http://www.fm899.com.tw/",
+    "provider": "onlineradiobox",
+    "country": "Taiwan",
+    "genres": [
+      "pop",
+      "news"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:57:02+05:30"
+  },
+  {
+    "id": "onlineradiobox_tw.fm935newhakka",
+    "name": "新客家廣播電台",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/42065.v1.png",
+    "stream_url": "http://hichannel.hinet.net/radio/index.do?id=254",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Taiwan",
+    "genres": [
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:57:48+05:30"
+  },
+  {
+    "id": "onlineradiobox_tw.fm943kaohsiung",
+    "name": "FM 94.3 音樂 伸展 台",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/107334.v3.png",
+    "stream_url": "https://stream.rcs.revma.com/pet2dvug1bkvv/hls.m3u8",
+    "website": "https://www.kbs.gov.tw/index.aspx",
+    "provider": "onlineradiobox",
+    "country": "Taiwan",
+    "genres": [
+      "pop",
+      "news",
+      "talk",
+      "chinese",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:56:56+05:30"
+  },
+  {
+    "id": "onlineradiobox_tw.fm971",
+    "name": "大漢之音",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/40539.v1.png",
+    "stream_url": "http://www.hichannel.hinet.net/radio/index.do?id=300",
+    "website": "http://www.fm971.com.tw/",
+    "provider": "onlineradiobox",
+    "country": "Taiwan",
+    "genres": [
+      "news",
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:57:56+05:30"
+  },
+  {
+    "id": "onlineradiobox_tw.formosahakka",
+    "name": "寶島客家廣播電台",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/42063.v1.png",
+    "stream_url": "http://hichannel.hinet.net/radio/index.do?id=241",
+    "website": "http://www.formosahakka.org.tw/",
+    "provider": "onlineradiobox",
+    "country": "Taiwan",
+    "genres": [
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:56:59+05:30"
+  },
+  {
+    "id": "onlineradiobox_tw.gogoradio1043",
+    "name": "Gogo Radio FM 104.3(桃園)",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/107841.v1.png",
+    "stream_url": "https://stream.ginnet.cloud/live0119lo-p4rb/_definst_/fm1043/playlist.m3u8",
+    "website": "https://gogoradiofm1043.com.tw/",
+    "provider": "onlineradiobox",
+    "country": "Taiwan",
+    "genres": [
+      "pop",
+      "chinese",
+      "entertainment",
+      "love songs"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:56:14+05:30"
+  },
+  {
+    "id": "onlineradiobox_tw.goldenvoiceradio",
+    "name": "金聲廣播電台",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/108629.v2.png",
+    "stream_url": "http://60.249.186.105:9000/;?icy=http",
+    "website": "https://www.xn--kprr94hf5ke1e.com/",
+    "provider": "onlineradiobox",
+    "country": "Taiwan",
+    "genres": [
+      "pop",
+      "news",
+      "talk",
+      "chinese",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:58:00+05:30"
+  },
+  {
+    "id": "onlineradiobox_tw.goodnews",
+    "name": "佳音電台",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/40586.v2.png",
+    "stream_url": "https://stream.ginnet.cloud/live0119lo-p4rb/_definst_/fm909/playlist.m3u8",
+    "website": "http://www.goodnews.org.tw/",
+    "provider": "onlineradiobox",
+    "country": "Taiwan",
+    "genres": [
+      "news",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:56:13+05:30"
+  },
+  {
+    "id": "onlineradiobox_tw.goodnewsclassic",
+    "name": "佳音經典音樂網",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/41964.v2.png",
+    "stream_url": "https://stream.ginnet.cloud/live0119lo-p4rb/_definst_/classic/playlist.m3u8",
+    "website": "http://www.goodnews.org.tw/classic.php",
+    "provider": "onlineradiobox",
+    "country": "Taiwan",
+    "genres": [
+      "classic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:56:04+05:30"
+  },
+  {
+    "id": "onlineradiobox_tw.greenpeace",
+    "name": "綠色和平電台",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/42070.v1.png",
+    "stream_url": "http://hichannel.hinet.net/radio/index.do?id=1552",
+    "website": "http://www.greenpeace.com.tw/",
+    "provider": "onlineradiobox",
+    "country": "Taiwan",
+    "genres": [
+      "pop",
+      "news",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:57:58+05:30"
+  },
+  {
+    "id": "onlineradiobox_tw.hakka",
+    "name": "新北客radio網路電台",
+    "image": "https://cdn.onlineradiobox.com/img/logo/4/42064.png",
+    "stream_url": "http://hichannel.hinet.net/radio/index.do?id=1350",
+    "website": "http://www.hakka-radio.ntpc.gov.tw/",
+    "provider": "onlineradiobox",
+    "country": "Taiwan",
+    "genres": [
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:58:01+05:30"
+  },
+  {
+    "id": "onlineradiobox_tw.hakka1059",
+    "name": "Hakka Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/111081.v5.png",
+    "stream_url": "https://stream.rcs.revma.com/akqrbx94gbkvv/33_1c2nxv77adx8102/playlist",
+    "website": "https://www.hakkaradio.org.tw/",
+    "provider": "onlineradiobox",
+    "country": "Taiwan",
+    "genres": [
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:58:38+05:30"
+  },
+  {
+    "id": "onlineradiobox_tw.hakkafm917",
+    "name": "苗栗客家文化廣播電台",
+    "image": "https://cdn.onlineradiobox.com/img/logo/3/41763.png",
+    "stream_url": "http://hichannel.hinet.net/radio/index.do?id=1554",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Taiwan",
+    "genres": [
+      "news"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:57:07+05:30"
+  },
+  {
+    "id": "onlineradiobox_tw.heartradio",
+    "name": "真心之音廣播電台",
+    "image": "https://cdn.onlineradiobox.com/img/logo/1/41101.png",
+    "stream_url": "http://www.hichannel.hinet.net/radio/index.do?id=217",
+    "website": "http://www.heartradio.net/",
+    "provider": "onlineradiobox",
+    "country": "Taiwan",
+    "genres": [
+      "children"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:58:44+05:30"
+  },
+  {
+    "id": "onlineradiobox_tw.hitfm",
+    "name": "HitFm",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/40582.v1.png",
+    "stream_url": "http://hichannel.hinet.net/radio/index.do?id=200",
+    "website": "http://www.hitoradio.com/",
+    "provider": "onlineradiobox",
+    "country": "Taiwan",
+    "genres": [
+      "pop",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:58:46+05:30"
+  },
+  {
+    "id": "onlineradiobox_tw.huanxizhisheng1055fm",
+    "name": "歡喜之聲 105.5 FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/107302.v4.png",
+    "stream_url": "http://59.125.41.65:8081/?",
+    "website": "http://radio.smileradio.com.tw/",
+    "provider": "onlineradiobox",
+    "country": "Taiwan",
+    "genres": [
+      "pop",
+      "talk",
+      "chinese"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:57:06+05:30"
+  },
+  {
+    "id": "onlineradiobox_tw.iam995",
+    "name": "神農廣播電台",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/41762.v1.png",
+    "stream_url": "http://hichannel.hinet.net/radio/index.do?id=1557",
+    "website": "http://www.fm995.com.tw/",
+    "provider": "onlineradiobox",
+    "country": "Taiwan",
+    "genres": [
+      "news"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:57:49+05:30"
+  },
+  {
+    "id": "onlineradiobox_tw.ic975",
+    "name": "IC 之音 FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/41671.v3.png",
+    "stream_url": "http://www.ic975.com/NetRadio/",
+    "website": "http://www.ic975.com/",
+    "provider": "onlineradiobox",
+    "country": "Taiwan",
+    "genres": [
+      "news"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:56:58+05:30"
+  },
+  {
+    "id": "onlineradiobox_tw.icrt",
+    "name": "Radio ICRT",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/40952.v2.png",
+    "stream_url": "https://live.leanstream.co/ICRTFM-MP3",
+    "website": "http://www.icrt.com.tw/",
+    "provider": "onlineradiobox",
+    "country": "Taiwan",
+    "genres": [
+      "pop",
+      "classic rock",
+      "jazz",
+      "country"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:56:03+05:30"
+  },
+  {
+    "id": "onlineradiobox_tw.ilikeradiobcc",
+    "name": "中廣流行網",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/40567.v1.png",
+    "stream_url": "http://hichannel.hinet.net/radio/index.do?id=205",
+    "website": "http://www.bcc.com.tw/",
+    "provider": "onlineradiobox",
+    "country": "Taiwan",
+    "genres": [
+      "top40",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:58:41+05:30"
+  },
+  {
+    "id": "onlineradiobox_tw.kavalan",
+    "name": "FM97.9 Kavalan Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/109612.v6.png",
+    "stream_url": "http://61.220.209.152:8081/",
+    "website": "http://radio.smileradio.com.tw/",
+    "provider": "onlineradiobox",
+    "country": "Taiwan",
+    "genres": [
+      "pop",
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:56:09+05:30"
+  },
+  {
+    "id": "onlineradiobox_tw.kissradio",
+    "name": "KISSRadio",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/40549.v3.png",
+    "stream_url": "http://www.kiss.com.tw/radio_hq.php?radio_id=156",
+    "website": "http://www.kiss.com.tw/",
+    "provider": "onlineradiobox",
+    "country": "Taiwan",
+    "genres": [
+      "pop",
+      "top40",
+      "asian",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:57:00+05:30"
+  },
+  {
+    "id": "onlineradiobox_tw.libraradio",
+    "name": "非凡音電台",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/41764.v2.png",
+    "stream_url": "http://hichannel.hinet.net/radio/index.do?id=1040",
+    "website": "http://www.libraradio.com.tw/",
+    "provider": "onlineradiobox",
+    "country": "Taiwan",
+    "genres": [
+      "news"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:58:45+05:30"
+  },
+  {
+    "id": "onlineradiobox_tw.lize",
+    "name": "Lize Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/110098.v4.png",
+    "stream_url": "http://lizeradio.com:8080/;&type=mp3",
+    "website": "http://lizemusic.blogspot.com/",
+    "provider": "onlineradiobox",
+    "country": "Taiwan",
+    "genres": [
+      "j-pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:56:13+05:30"
+  },
+  {
+    "id": "onlineradiobox_tw.love",
+    "name": "正義電台",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/42067.v1.png",
+    "stream_url": "http://hichannel.hinet.net/radio/index.do?id=1020",
+    "website": "http://www.loveradio889.com.tw/",
+    "provider": "onlineradiobox",
+    "country": "Taiwan",
+    "genres": [
+      "pop",
+      "news",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:57:08+05:30"
+  },
+  {
+    "id": "onlineradiobox_tw.loveradio903",
+    "name": "Love Radio 羅東廣播電台",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/107840.v1.png",
+    "stream_url": "https://stream.ginnet.cloud/live0119lo-p4rb/_definst_/fm903/playlist.m3u8",
+    "website": "https://903fm.com.tw/",
+    "provider": "onlineradiobox",
+    "country": "Taiwan",
+    "genres": [
+      "pop",
+      "chinese",
+      "entertainment",
+      "love songs"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:57:59+05:30"
+  },
+  {
+    "id": "onlineradiobox_tw.lucky7",
+    "name": "台中廣播",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/41982.v1.png",
+    "stream_url": "http://hichannel.hinet.net/radio/index.do?id=1559",
+    "website": "http://www.lucky7.com.tw/",
+    "provider": "onlineradiobox",
+    "country": "Taiwan",
+    "genres": [
+      "pop",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:57:53+05:30"
+  },
+  {
+    "id": "onlineradiobox_tw.minben1296",
+    "name": "民本廣播 AM 1296",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/110577.v1.png",
+    "stream_url": "https://streamak0134.akamaized.net/live0134lh-5gst/_definst_/am1296/playlist.m3u8",
+    "website": "https://www.mingpen.com.tw/",
+    "provider": "onlineradiobox",
+    "country": "Taiwan",
+    "genres": [
+      "pop",
+      "news",
+      "talk",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:56:55+05:30"
+  },
+  {
+    "id": "onlineradiobox_tw.mradio",
+    "name": "MRadio全國廣播FM106",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/42060.v10.png",
+    "stream_url": "https://stream.rcs.revma.com/044q61ha7a0uv",
+    "website": "http://www.mradio.com.tw/",
+    "provider": "onlineradiobox",
+    "country": "Taiwan",
+    "genres": [
+      "pop",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:57:00+05:30"
+  },
+  {
+    "id": "onlineradiobox_tw.nbcfm915",
+    "name": "NBC 美聲廣播電台fm91.5",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/110571.v3.png",
+    "stream_url": "http://1.34.23.16:8080/broadwavehigh.mp3",
+    "website": "http://www.nbcfm915.com.tw/",
+    "provider": "onlineradiobox",
+    "country": "Taiwan",
+    "genres": [
+      "pop",
+      "news",
+      "talk",
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:58:01+05:30"
+  },
+  {
+    "id": "onlineradiobox_tw.needs",
+    "name": "needs RADIO",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/134419.v3.png",
+    "stream_url": "https://cdn280.ccdntech.com/live-http/_definst_/vod280_Live/needs/playlist.m3u8",
+    "website": "https://www.needsradio.org.tw/",
+    "provider": "onlineradiobox",
+    "country": "Taiwan",
+    "genres": [
+      "news",
+      "talk",
+      "culture"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:57:51+05:30"
+  },
+  {
+    "id": "onlineradiobox_tw.ner",
+    "name": "國立教育廣播電臺 (NER)",
+    "image": "https://cdn.onlineradiobox.com/img/logo/3/40563.png",
+    "stream_url": "http://eradio.ner.gov.tw/player.php",
+    "website": "http://ner.gov.tw/",
+    "provider": "onlineradiobox",
+    "country": "Taiwan",
+    "genres": [
+      "education"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:58:37+05:30"
+  },
+  {
+    "id": "onlineradiobox_tw.news5program",
+    "name": "中廣寶島網",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/41379.v1.png",
+    "stream_url": "http://hichannel.hinet.net/radio/index.do?id=162",
+    "website": "http://www.bcc.com.tw/news5_program.asp",
+    "provider": "onlineradiobox",
+    "country": "Taiwan",
+    "genres": [
+      "pop",
+      "news"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:57:53+05:30"
+  },
+  {
+    "id": "onlineradiobox_tw.news98",
+    "name": "新聞網",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/41766.v1.png",
+    "stream_url": "http://hichannel.hinet.net/radio/index.do?id=187",
+    "website": "http://www.news98.com.tw/",
+    "provider": "onlineradiobox",
+    "country": "Taiwan",
+    "genres": [
+      "news"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:58:40+05:30"
+  },
+  {
+    "id": "onlineradiobox_tw.newsradio",
+    "name": "中廣新聞網",
+    "image": "https://cdn.onlineradiobox.com/img/logo/5/41095.png",
+    "stream_url": "http://hichannel.hinet.net/radio/index.do?id=207",
+    "website": "http://www.bcc.com.tw/news",
+    "provider": "onlineradiobox",
+    "country": "Taiwan",
+    "genres": [
+      "news"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:57:07+05:30"
+  },
+  {
+    "id": "onlineradiobox_tw.pbs",
+    "name": "PBS Taipei Sub-Station",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/41381.v9.png",
+    "stream_url": "http://stream.pbs.gov.tw:1935/live/TPS/playlist.m3u8",
+    "website": "https://pbs.npa.gov.tw/",
+    "provider": "onlineradiobox",
+    "country": "Taiwan",
+    "genres": [
+      "news"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:56:02+05:30"
+  },
+  {
+    "id": "onlineradiobox_tw.plusradio",
+    "name": "Plus Radio",
+    "image": "https://cdn.onlineradiobox.com/img/logo/3/41383.png",
+    "stream_url": "http://hichannel.hinet.net/radio/index.do?id=1391",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Taiwan",
+    "genres": [],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:57:02+05:30"
+  },
+  {
+    "id": "onlineradiobox_tw.popradio",
+    "name": "台北流行廣播電台",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/41100.v1.png",
+    "stream_url": "http://www.hichannel.hinet.net/radio/index.do?id=370",
+    "website": "http://www.pop917.com/",
+    "provider": "onlineradiobox",
+    "country": "Taiwan",
+    "genres": [
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:58:37+05:30"
+  },
+  {
+    "id": "onlineradiobox_tw.pulsefm",
+    "name": "心動音樂電台",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/41767.v1.png",
+    "stream_url": "http://hichannel.hinet.net/radio/index.do?id=1490",
+    "website": "http://www.pulse899.com/",
+    "provider": "onlineradiobox",
+    "country": "Taiwan",
+    "genres": [
+      "pop",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:58:39+05:30"
+  },
+  {
+    "id": "onlineradiobox_tw.radiocity",
+    "name": "城市廣播 - 城市廣播",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/40951.v4.png",
+    "stream_url": "http://fm971.cityfm.tw:8080/971.mp3",
+    "website": "http://www.cityfm.tw/",
+    "provider": "onlineradiobox",
+    "country": "Taiwan",
+    "genres": [
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:56:08+05:30"
+  },
+  {
+    "id": "onlineradiobox_tw.radiofm96",
+    "name": "中廣音樂網i radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/41377.v2.png",
+    "stream_url": "http://stream.rcs.revma.com/ndk05tyy2tzuv",
+    "website": "http://www.bcc.com.tw/",
+    "provider": "onlineradiobox",
+    "country": "Taiwan",
+    "genres": [
+      "pop",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:56:06+05:30"
+  },
+  {
+    "id": "onlineradiobox_tw.radioigo531",
+    "name": "Radio I go 531",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/41376.v3.png",
+    "stream_url": "http://stream.rcs.revma.com/s7hc9kpy2tzuv",
+    "website": "http://www.bcc.com.tw/news4_program.asp",
+    "provider": "onlineradiobox",
+    "country": "Taiwan",
+    "genres": [
+      "pop",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:56:12+05:30"
+  },
+  {
+    "id": "onlineradiobox_tw.rti",
+    "name": "央廣 亞洲頻道",
+    "image": "https://cdn.onlineradiobox.com/img/logo/4/40964.png",
+    "stream_url": "http://www.rti.org.tw/player.php",
+    "website": "http://www.rti.org.tw/",
+    "provider": "onlineradiobox",
+    "country": "Taiwan",
+    "genres": [
+      "pop",
+      "news",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:58:45+05:30"
+  },
+  {
+    "id": "onlineradiobox_tw.rti1557",
+    "name": "RTI 1557 音樂 網 中央 廣播 電台",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/107397.v2.png",
+    "stream_url": "https://www.soundvideostar.com/live/_definst_/rti6/playlist.m3u8",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Taiwan",
+    "genres": [
+      "pop",
+      "chinese"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:56:12+05:30"
+  },
+  {
+    "id": "onlineradiobox_tw.shrs881fm",
+    "name": "世 新 廣播 電台 SHRS 88.1 FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/107333.v3.png",
+    "stream_url": "https://stream.ginnet.cloud/live0115lo-89xv/_definst_/fm881/playlist.m3u8",
+    "website": "https://shrs.shu.edu.tw/",
+    "provider": "onlineradiobox",
+    "country": "Taiwan",
+    "genres": [
+      "pop",
+      "news",
+      "talk",
+      "chinese",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:58:44+05:30"
+  },
+  {
+    "id": "onlineradiobox_tw.stars",
+    "name": "Stars RADIO星蹤之愛廣播網",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/134468.v2.png",
+    "stream_url": "https://cdn280.ccdntech.com/live-http/_definst_/vod280_Live/stars/playlist.m3u8",
+    "website": "http://www.starsradio.org.tw/",
+    "provider": "onlineradiobox",
+    "country": "Taiwan",
+    "genres": [
+      "talk",
+      "culture",
+      "education"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:57:55+05:30"
+  },
+  {
+    "id": "onlineradiobox_tw.starsradio",
+    "name": "星蹤之愛廣播網",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/41768.v1.png",
+    "stream_url": "http://hichannel.hinet.net/radio/index.do?id=1430",
+    "website": "http://www.needsradio.org.tw/starsradio",
+    "provider": "onlineradiobox",
+    "country": "Taiwan",
+    "genres": [
+      "pop",
+      "news"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:57:05+05:30"
+  },
+  {
+    "id": "onlineradiobox_tw.sunny891",
+    "name": "太陽電台",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/42062.v1.png",
+    "stream_url": "http://hichannel.hinet.net/radio/index.do?id=289",
+    "website": "http://www.sunny891.com.tw/",
+    "provider": "onlineradiobox",
+    "country": "Taiwan",
+    "genres": [
+      "jazz",
+      "classic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:58:47+05:30"
+  },
+  {
+    "id": "onlineradiobox_tw.superfm",
+    "name": "大千電台",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/41098.v1.png",
+    "stream_url": "http://hichannel.hinet.net/radio/index.do?id=109",
+    "website": "http://www.superfm99-1.com.tw/",
+    "provider": "onlineradiobox",
+    "country": "Taiwan",
+    "genres": [
+      "pop",
+      "news",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:58:40+05:30"
+  },
+  {
+    "id": "onlineradiobox_tw.superfm913",
+    "name": "寶島聯播網 雲嘉嘉義之音",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/41980.v1.png",
+    "stream_url": "http://hichannel.hinet.net/radio/index.do?id=1555",
+    "website": "http://www.superfm91-3.com.tw/",
+    "provider": "onlineradiobox",
+    "country": "Taiwan",
+    "genres": [
+      "pop",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:57:01+05:30"
+  },
+  {
+    "id": "onlineradiobox_tw.superfm985",
+    "name": "寶島新聲廣播電台",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/41979.v1.png",
+    "stream_url": "http://hichannel.hinet.net/radio/index.do?id=259",
+    "website": "http://www.superfm98-5.com.tw/",
+    "provider": "onlineradiobox",
+    "country": "Taiwan",
+    "genres": [
+      "pop",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:57:04+05:30"
+  },
+  {
+    "id": "onlineradiobox_tw.suprememastertelevision",
+    "name": "Supreme Master Television",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/77666.v2.png",
+    "stream_url": "http://radio.suprememastertv.com/mp3_128k",
+    "website": "https://suprememastertv.com/",
+    "provider": "onlineradiobox",
+    "country": "Taiwan",
+    "genres": [
+      "news",
+      "spiritual"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:56:10+05:30"
+  },
+  {
+    "id": "onlineradiobox_tw.tainan979",
+    "name": "台南凱旋 97.9",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/109597.v2.png",
+    "stream_url": "http://59.125.209.209:8081/",
+    "website": "http://radio.smileradio.com.tw/",
+    "provider": "onlineradiobox",
+    "country": "Taiwan",
+    "genres": [
+      "pop",
+      "talk",
+      "chinese",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:57:49+05:30"
+  },
+  {
+    "id": "onlineradiobox_tw.taiwanfm905",
+    "name": "Radio Taiwan fm 90.5  大 樹下 廣播 電台",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/107306.v4.png",
+    "stream_url": "http://60.250.148.112:8000/live",
+    "website": "http://www.taiwanfm905.com/",
+    "provider": "onlineradiobox",
+    "country": "Taiwan",
+    "genres": [
+      "pop",
+      "talk",
+      "chinese"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:56:07+05:30"
+  },
+  {
+    "id": "onlineradiobox_tw.taiwanloungeradio",
+    "name": "Taiwan Lounge Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/58821.v14.png",
+    "stream_url": "https://azuracast.conceptradio.fr/radio/8030/stream.mp3?1596557333",
+    "website": "https://www.taiwan-lounge.com/",
+    "provider": "onlineradiobox",
+    "country": "Taiwan",
+    "genres": [
+      "lounge",
+      "jazz",
+      "soul"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:56:00+05:30"
+  },
+  {
+    "id": "onlineradiobox_tw.taoyuaninternational",
+    "name": "FM101.1 Taoyuan International Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/109623.v4.png",
+    "stream_url": "http://61.220.75.207:8101/",
+    "website": "http://radio.smileradio.com.tw/",
+    "provider": "onlineradiobox",
+    "country": "Taiwan",
+    "genres": [
+      "pop",
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:57:03+05:30"
+  },
+  {
+    "id": "onlineradiobox_tw.tbs2",
+    "name": "臺北廣播電臺",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/40950.v4.png",
+    "stream_url": "https://stream.ginnet.cloud/live0130lo-yfyo/_definst_/fm/playlist.m3u8",
+    "website": "http://www.radio.gov.taipei/",
+    "provider": "onlineradiobox",
+    "country": "Taiwan",
+    "genres": [
+      "news",
+      "culture"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:56:05+05:30"
+  },
+  {
+    "id": "onlineradiobox_tw.thbs",
+    "name": "清華電台",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/40578.v1.png",
+    "stream_url": "http://140.114.188.43:8000/thbs",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Taiwan",
+    "genres": [
+      "education"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:57:57+05:30"
+  },
+  {
+    "id": "onlineradiobox_tw.thevoiceofchaozhou",
+    "name": "FM90.9 The Voice of Chaozhou Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/109629.v4.png",
+    "stream_url": "http://59.120.255.170:8081/",
+    "website": "http://radio.smileradio.com.tw/",
+    "provider": "onlineradiobox",
+    "country": "Taiwan",
+    "genres": [
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:56:55+05:30"
+  },
+  {
+    "id": "onlineradiobox_tw.thevoiceofnorth",
+    "name": "FM107.1 The Voice of North Taiwan",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/109621.v4.png",
+    "stream_url": "http://211.72.65.62:8080/",
+    "website": "http://radio.smileradio.com.tw/",
+    "provider": "onlineradiobox",
+    "country": "Taiwan",
+    "genres": [
+      "pop",
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:56:57+05:30"
+  },
+  {
+    "id": "onlineradiobox_tw.thevoiceofxiagang",
+    "name": "FM90.5 The Voice of Xiagang",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/109626.v3.png",
+    "stream_url": "http://59.120.255.155:8081/",
+    "website": "http://radio.smileradio.com.tw/",
+    "provider": "onlineradiobox",
+    "country": "Taiwan",
+    "genres": [
+      "pop",
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:57:52+05:30"
+  },
+  {
+    "id": "onlineradiobox_tw.tzgospeltaiwan",
+    "name": "Tzgospel Taiwan",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/132753.v6.png",
+    "stream_url": "https://stream.zeno.fm/hbuvmyyvcfhvv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Taiwan",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:56:58+05:30"
+  },
+  {
+    "id": "onlineradiobox_tw.ufo",
+    "name": "飛碟電台",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/41981.v1.png",
+    "stream_url": "http://hichannel.hinet.net/radio/index.do?id=232",
+    "website": "http://www.uforadio.com.tw/",
+    "provider": "onlineradiobox",
+    "country": "Taiwan",
+    "genres": [
+      "pop",
+      "news",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:57:50+05:30"
+  },
+  {
+    "id": "onlineradiobox_tw.uniradio967",
+    "name": "環宇電台",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/41770.v1.png",
+    "stream_url": "http://hichannel.hinet.net/radio/index.do?id=282",
+    "website": "http://www.uni967.com/",
+    "provider": "onlineradiobox",
+    "country": "Taiwan",
+    "genres": [
+      "news"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:57:54+05:30"
+  },
+  {
+    "id": "onlineradiobox_tw.universal",
+    "name": "FM107.1 Universal Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/109625.v3.png",
+    "stream_url": "http://60.248.53.115:8081/",
+    "website": "http://radio.smileradio.com.tw/",
+    "provider": "onlineradiobox",
+    "country": "Taiwan",
+    "genres": [
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:57:01+05:30"
+  },
+  {
+    "id": "onlineradiobox_tw.vohfm",
+    "name": "Voice of Han",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/41096.v7.png",
+    "stream_url": "https://audio.voh.com.tw/TW/Program/ugC_AMFM.aspx",
+    "website": "http://www.voh.com.tw/",
+    "provider": "onlineradiobox",
+    "country": "Taiwan",
+    "genres": [
+      "pop",
+      "news"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:58:43+05:30"
+  },
+  {
+    "id": "onlineradiobox_tw.voiceofdonghua",
+    "name": "Voice of Donghua",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/111084.v4.png",
+    "stream_url": "http://radio.ndhu.edu.tw/radio.mp3",
+    "website": "https://radios.ndhu.edu.tw/",
+    "provider": "onlineradiobox",
+    "country": "Taiwan",
+    "genres": [
+      "news",
+      "education",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:57:55+05:30"
+  },
+  {
+    "id": "onlineradiobox_tw.voiceoffju",
+    "name": "Voice of FJU",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/110123.v5.png",
+    "stream_url": "http://140.136.115.115:8000/fjuvoice885.mp3",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Taiwan",
+    "genres": [
+      "pop",
+      "news"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:56:59+05:30"
+  },
+  {
+    "id": "onlineradiobox_tw.voiceofmingchuan",
+    "name": "Radio Voice of Ming Chuan",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/124202.v1.png",
+    "stream_url": "http://radio.mcu.edu.tw:8080/radio",
+    "website": "http://radio.mcu.edu.tw/",
+    "provider": "onlineradiobox",
+    "country": "Taiwan",
+    "genres": [
+      "pop",
+      "talk",
+      "asian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:58:46+05:30"
+  },
+  {
+    "id": "onlineradiobox_tw.voiceofpingtung",
+    "name": "FM92.5 Voice of Pingtung",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/109627.v4.png",
+    "stream_url": "http://59.120.255.169:8081/",
+    "website": "http://radio.smileradio.com.tw/",
+    "provider": "onlineradiobox",
+    "country": "Taiwan",
+    "genres": [
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:58:00+05:30"
+  },
+  {
+    "id": "onlineradiobox_tw.voiceoftamkang887",
+    "name": "淡江之聲 FM88.7",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/110563.v2.png",
+    "stream_url": "http://163.13.182.81:8001/votk",
+    "website": "http://votk.tku.edu.tw/",
+    "provider": "onlineradiobox",
+    "country": "Taiwan",
+    "genres": [
+      "pop",
+      "news",
+      "talk",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:56:15+05:30"
+  },
+  {
+    "id": "onlineradiobox_tw.vot",
+    "name": "台灣之聲",
+    "image": "https://cdn.onlineradiobox.com/img/logo/1/42061.png",
+    "stream_url": "http://hichannel.hinet.net/radio/index.do?id=1080",
+    "website": "http://www.vot.tw/",
+    "provider": "onlineradiobox",
+    "country": "Taiwan",
+    "genres": [
+      "news"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:57:59+05:30"
+  },
+  {
+    "id": "onlineradiobox_tw.vota883",
+    "name": "臺藝之聲 VOTA",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/110561.v2.png",
+    "stream_url": "https://votastream.ntua.edu.tw:8443/vota",
+    "website": "https://vota.ntua.edu.tw/",
+    "provider": "onlineradiobox",
+    "country": "Taiwan",
+    "genres": [
+      "pop",
+      "talk",
+      "culture",
+      "chinese",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:56:57+05:30"
+  },
+  {
+    "id": "onlineradiobox_tw.wowradio",
+    "name": "文藻網路音樂台",
+    "image": "https://cdn.onlineradiobox.com/img/logo/3/41773.png",
+    "stream_url": "http://hichannel.hinet.net/radio/index.do?id=1205",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Taiwan",
+    "genres": [
+      "pop",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:58:40+05:30"
+  },
+  {
+    "id": "onlineradiobox_tw.yishihehosting",
+    "name": "益世廣播電台",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/41961.v1.png",
+    "stream_url": "http://hichannel.hinet.net/radio/index.do?id=1553",
+    "website": "http://yishih.ehosting.com.tw/",
+    "provider": "onlineradiobox",
+    "country": "Taiwan",
+    "genres": [
+      "news"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:57:50+05:30"
+  }
+]

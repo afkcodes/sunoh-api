@@ -1,0 +1,483 @@
+[
+  {
+    "id": "onlineradiobox_ps.al7an",
+    "name": "راديو ألحان",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/103451.v7.png",
+    "stream_url": "https://sawtelghad.org:8666/;",
+    "website": "https://sawtelghad.net/al7an",
+    "provider": "onlineradiobox",
+    "country": "Palestine",
+    "genres": [
+      "romantic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:15:43+05:30"
+  },
+  {
+    "id": "onlineradiobox_ps.alhara",
+    "name": "Radio Alhara",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/136641.v2.png",
+    "stream_url": "https://stream.radiojar.com/78cxy6wkxtzuv",
+    "website": "https://www.radioalhara.net/",
+    "provider": "onlineradiobox",
+    "country": "Palestine",
+    "genres": [
+      "talk",
+      "arabic",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:15:44+05:30"
+  },
+  {
+    "id": "onlineradiobox_ps.alquran",
+    "name": "إذاعة القرآن الكريم",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/103448.v8.png",
+    "stream_url": "https://sawtelghad.org:8888/;",
+    "website": "https://sawtelghad.net/quran",
+    "provider": "onlineradiobox",
+    "country": "Palestine",
+    "genres": [
+      "islamic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:15:45+05:30"
+  },
+  {
+    "id": "onlineradiobox_ps.angham",
+    "name": "Radio Angham",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/26778.v6.png",
+    "stream_url": "https://streamer.mada.ps:8207/ANGHAM",
+    "website": "http://www.arn.ps/",
+    "provider": "onlineradiobox",
+    "country": "Palestine",
+    "genres": [
+      "talk",
+      "arabic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:15:38+05:30"
+  },
+  {
+    "id": "onlineradiobox_ps.awbetlemme",
+    "name": "AW Betlemme",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/151235.v1.png",
+    "stream_url": "https://palestine.radioantennaweb.com/Betlemme",
+    "website": "https://antennaweb.it/aw-betlemme/",
+    "provider": "onlineradiobox",
+    "country": "Palestine",
+    "genres": [
+      "rock",
+      "pop",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:15:46+05:30"
+  },
+  {
+    "id": "onlineradiobox_ps.bethlehem2000",
+    "name": "Radio Bethlehem 2000",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/25615.v5.png",
+    "stream_url": "https://rstream.hadara.ps/proxy/radiobethlehem2000/stream",
+    "website": "http://www.rb2000.ps/",
+    "provider": "onlineradiobox",
+    "country": "Palestine",
+    "genres": [
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:15:41+05:30"
+  },
+  {
+    "id": "onlineradiobox_ps.burj",
+    "name": "BurjFM",
+    "image": "https://cdn.onlineradiobox.com/img/logo/8/25608.png",
+    "stream_url": "http://82.213.26.67:8000/stream",
+    "website": "http://www.palestinetradetower.com/burjfm/",
+    "provider": "onlineradiobox",
+    "country": "Palestine",
+    "genres": [
+      "news",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:15:45+05:30"
+  },
+  {
+    "id": "onlineradiobox_ps.classic",
+    "name": "راديو كلاسيك",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/103542.v8.png",
+    "stream_url": "https://sawtelghad.org:8333/;",
+    "website": "https://sawtelghad.net/classic",
+    "provider": "onlineradiobox",
+    "country": "Palestine",
+    "genres": [
+      "classic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:15:40+05:30"
+  },
+  {
+    "id": "onlineradiobox_ps.fairuz",
+    "name": "راديو فيروز",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/119501.v7.png",
+    "stream_url": "https://sawtelghad.org:8008/;",
+    "website": "https://sawtelghad.net/fairuz",
+    "provider": "onlineradiobox",
+    "country": "Palestine",
+    "genres": [
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:15:34+05:30"
+  },
+  {
+    "id": "onlineradiobox_ps.falastini",
+    "name": "Falastini Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/67462.v11.png",
+    "stream_url": "https://palradio.radioca.st/;",
+    "website": "http://www.falastini.tv/radio/",
+    "provider": "onlineradiobox",
+    "country": "Palestine",
+    "genres": [
+      "arabic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:15:32+05:30"
+  },
+  {
+    "id": "onlineradiobox_ps.hayat",
+    "name": "Hayat FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/25611.v9.png",
+    "stream_url": "https://rs.hadara.ps:9614/;",
+    "website": "https://hayat.ps/",
+    "provider": "onlineradiobox",
+    "country": "Palestine",
+    "genres": [
+      "talk",
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:15:44+05:30"
+  },
+  {
+    "id": "onlineradiobox_ps.kawkabelsharq",
+    "name": "راديو كوكب الشرق",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/119502.v7.png",
+    "stream_url": "https://sawtelghad.org:8006/;",
+    "website": "https://sawtelghad.net/kawkabelsharq",
+    "provider": "onlineradiobox",
+    "country": "Palestine",
+    "genres": [
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:15:33+05:30"
+  },
+  {
+    "id": "onlineradiobox_ps.mawwal",
+    "name": "Radio Mawwal",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/25616.v4.png",
+    "stream_url": "http://streamer.mada.ps:8041/mawwal",
+    "website": "http://www.mawwal.ps/ar/",
+    "provider": "onlineradiobox",
+    "country": "Palestine",
+    "genres": [
+      "talk",
+      "arabic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:15:39+05:30"
+  },
+  {
+    "id": "onlineradiobox_ps.nagham",
+    "name": "Radio Nagham",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/25657.v12.png",
+    "stream_url": "https://cast.radionagham.com/stream",
+    "website": "http://www.radionagham.com/",
+    "provider": "onlineradiobox",
+    "country": "Palestine",
+    "genres": [
+      "talk",
+      "arabic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:15:45+05:30"
+  },
+  {
+    "id": "onlineradiobox_ps.nissa",
+    "name": "Radio Nissa",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/25659.v3.png",
+    "stream_url": "https://streamer.mada.ps:8210/nisaa",
+    "website": "http://www.radionisaa.ps/",
+    "provider": "onlineradiobox",
+    "country": "Palestine",
+    "genres": [
+      "news",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:16:00+05:30"
+  },
+  {
+    "id": "onlineradiobox_ps.orientbethlehem",
+    "name": "Radio Orient Bethlehem",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/25662.v6.png",
+    "stream_url": "http://streamer.mada.ps:8034/orient",
+    "website": "https://orientbethlehem.net/",
+    "provider": "onlineradiobox",
+    "country": "Palestine",
+    "genres": [
+      "talk",
+      "arabic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:15:59+05:30"
+  },
+  {
+    "id": "onlineradiobox_ps.quran",
+    "name": "Quran Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/25612.v2.png",
+    "stream_url": "https://quran-radio.org:8440/;",
+    "website": "http://www.quran-radio.com/",
+    "provider": "onlineradiobox",
+    "country": "Palestine",
+    "genres": [
+      "islamic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:15:31+05:30"
+  },
+  {
+    "id": "onlineradiobox_ps.rap",
+    "name": "راديو راب",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/103541.v9.png",
+    "stream_url": "https://sawtelghad.org:8555/;",
+    "website": "https://sawtelghad.net/rap",
+    "provider": "onlineradiobox",
+    "country": "Palestine",
+    "genres": [
+      "rap",
+      "arabic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:15:37+05:30"
+  },
+  {
+    "id": "onlineradiobox_ps.raya",
+    "name": "Raya FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/25794.v5.png",
+    "stream_url": "https://rstream.hadara.ps/proxy/raya/stream",
+    "website": "http://www.raya.ps/ar/raya-fm",
+    "provider": "onlineradiobox",
+    "country": "Palestine",
+    "genres": [
+      "top40",
+      "arabic",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:15:43+05:30"
+  },
+  {
+    "id": "onlineradiobox_ps.sawa",
+    "name": "Radio Sawa",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/26779.v3.png",
+    "stream_url": "https://mbnv-audio-ingest.akamaized.net/hls/live/2038905/MBNV_SAWA_LEVANT_AUDIO_HLS/master_11.m3u8",
+    "website": "http://www.radiosawa.com/",
+    "provider": "onlineradiobox",
+    "country": "Palestine",
+    "genres": [
+      "pop",
+      "top40",
+      "arabic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:15:42+05:30"
+  },
+  {
+    "id": "onlineradiobox_ps.sawtelghad",
+    "name": "إذاعة صوت الغد",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/26773.v16.png",
+    "stream_url": "https://sawtelghad.org:1050/;",
+    "website": "https://sawtelghad.net/",
+    "provider": "onlineradiobox",
+    "country": "Palestine",
+    "genres": [
+      "news",
+      "talk",
+      "arabic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:15:35+05:30"
+  },
+  {
+    "id": "onlineradiobox_ps.tarab",
+    "name": "راديو طرب",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/103546.v8.png",
+    "stream_url": "https://sawtelghad.org:8222/;",
+    "website": "https://sawtelghad.net/tarab",
+    "provider": "onlineradiobox",
+    "country": "Palestine",
+    "genres": [
+      "arabic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:15:31+05:30"
+  },
+  {
+    "id": "onlineradiobox_ps.trance",
+    "name": "راديو ترانس",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/119504.v7.png",
+    "stream_url": "https://sawtelghad.org:8002/;",
+    "website": "https://sawtelghad.net/trance",
+    "provider": "onlineradiobox",
+    "country": "Palestine",
+    "genres": [
+      "dance",
+      "electronic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:15:41+05:30"
+  },
+  {
+    "id": "onlineradiobox_ps.turath",
+    "name": "راديو تُراث",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/103449.v7.png",
+    "stream_url": "https://sawtelghad.org:8777/;",
+    "website": "https://sawtelghad.net/turath",
+    "provider": "onlineradiobox",
+    "country": "Palestine",
+    "genres": [
+      "arabic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:15:40+05:30"
+  },
+  {
+    "id": "onlineradiobox_ps.watani",
+    "name": "راديو وطني",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/103543.v8.png",
+    "stream_url": "https://sawtelghad.org:8444/;",
+    "website": "https://sawtelghad.net/watani",
+    "provider": "onlineradiobox",
+    "country": "Palestine",
+    "genres": [
+      "arabic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:15:36+05:30"
+  },
+  {
+    "id": "onlineradiobox_ps.wattan",
+    "name": "Wattan FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/74288.v17.png",
+    "stream_url": "https://rstream.hadara.ps/proxy/wattanfm/stream",
+    "website": "http://wattan.net/",
+    "provider": "onlineradiobox",
+    "country": "Palestine",
+    "genres": [
+      "news",
+      "talk",
+      "80s",
+      "arabic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:15:33+05:30"
+  },
+  {
+    "id": "onlineradiobox_ps.zaman",
+    "name": "راديو زمان",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/119503.v9.png",
+    "stream_url": "https://sawtelghad.org:8010/;",
+    "website": "https://sawtelghad.net/zaman",
+    "provider": "onlineradiobox",
+    "country": "Palestine",
+    "genres": [
+      "oldies"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:15:37+05:30"
+  }
+]

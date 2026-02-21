@@ -1,0 +1,112 @@
+[
+  {
+    "id": "onlineradiobox_cf.antennawebbangui",
+    "name": "Antenna Web Bangui",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/134701.v1.png",
+    "stream_url": "https://tinyurl.com/AntennaWebBangui",
+    "website": "https://antennaweb.it/antennaweb-bangui/",
+    "provider": "onlineradiobox",
+    "country": "CAR",
+    "genres": [
+      "rock",
+      "pop",
+      "blues",
+      "jazz",
+      "funk",
+      "reggaeton"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:30:14+05:30"
+  },
+  {
+    "id": "onlineradiobox_cf.guira",
+    "name": "Guira FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/100296.v3.png",
+    "stream_url": "https://streams.radiomast.io/ce42a7f0-b3a7-47ee-9eb2-97009bba3c2a?referer=onlineradiobox",
+    "website": "https://minusca.unmissions.org/",
+    "provider": "onlineradiobox",
+    "country": "CAR",
+    "genres": [
+      "news"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:30:12+05:30"
+  },
+  {
+    "id": "onlineradiobox_cf.hero",
+    "name": "Hero Radio (Central African Republic)",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/139176.v3.png",
+    "stream_url": "https://a2.asurahosting.com:6790/centralafricanrepublic.mp3",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "CAR",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:30:13+05:30"
+  },
+  {
+    "id": "onlineradiobox_cf.lrcm",
+    "name": "LRCM Radio (CAR)",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/153052.v1.png",
+    "stream_url": "https://a8.asurahosting.com:8950/centralafricanrepublic.mp3",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "CAR",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:30:14+05:30"
+  },
+  {
+    "id": "onlineradiobox_cf.maria",
+    "name": "Radio Maria",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/98257.v3.png",
+    "stream_url": "http://dreamsiteradiocp4.com:8056/;",
+    "website": "https://www.radiomariacentrafrique.org/",
+    "provider": "onlineradiobox",
+    "country": "CAR",
+    "genres": [
+      "talk",
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:30:13+05:30"
+  },
+  {
+    "id": "onlineradiobox_cf.radiondekeluka",
+    "name": "Radio Ndeke Luka",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/35231.v3.png",
+    "stream_url": "https://stream.radiondekeluka.org/ndekeluka",
+    "website": "http://www.radiondekeluka.org/",
+    "provider": "onlineradiobox",
+    "country": "CAR",
+    "genres": [
+      "pop",
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T17:30:12+05:30"
+  }
+]

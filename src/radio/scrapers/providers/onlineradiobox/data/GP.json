@@ -1,0 +1,641 @@
+[
+  {
+    "id": "onlineradiobox_gp.amoraplanta",
+    "name": "Tropikal Flow 971",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/136220.v11.png",
+    "stream_url": "https://stream.zeno.fm/h3vwayaf7gavv",
+    "website": "https://tropikalflow.wixsite.com/tropikal-flow",
+    "provider": "onlineradiobox",
+    "country": "Guadeloupe",
+    "genres": [
+      "latin"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:20:38+05:30"
+  },
+  {
+    "id": "onlineradiobox_gp.antanlontan",
+    "name": "antan lontan radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/154941.v1.png",
+    "stream_url": "https://listen.radioking.com/radio/828261/stream/897466",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Guadeloupe",
+    "genres": [
+      "hits",
+      "70s",
+      "80s",
+      "90s"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:20:39+05:30"
+  },
+  {
+    "id": "onlineradiobox_gp.antennaweb",
+    "name": "Antenna Web Basse-Terre",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/133439.v2.png",
+    "stream_url": "http://tinyurl.com/AntennaWebBasse-Terre",
+    "website": "https://antennaweb.it/antennaweb-basse-terre/",
+    "provider": "onlineradiobox",
+    "country": "Guadeloupe",
+    "genres": [
+      "rock",
+      "pop",
+      "blues",
+      "jazz",
+      "funk",
+      "reggaeton"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:20:11+05:30"
+  },
+  {
+    "id": "onlineradiobox_gp.bel",
+    "name": "Bel&#39;Radio - Guadeloupe",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/64223.v13.png",
+    "stream_url": "https://stream.rcs.revma.com/a7qacprtpwzuv",
+    "website": "https://belradio.fr/bel-radio-guadeloupe-en-direct-2/",
+    "provider": "onlineradiobox",
+    "country": "Guadeloupe",
+    "genres": [
+      "oldies",
+      "reggae",
+      "salsa"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:20:01+05:30"
+  },
+  {
+    "id": "onlineradiobox_gp.bluemelodyschool",
+    "name": "Blue Melody School Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/144422.v3.png",
+    "stream_url": "https://listen.radioking.com/radio/593/stream/2162",
+    "website": "http://www.bluemelodyschoolradio.com/",
+    "provider": "onlineradiobox",
+    "country": "Guadeloupe",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:20:36+05:30"
+  },
+  {
+    "id": "onlineradiobox_gp.confiance",
+    "name": "Radio Confiance",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/64598.v9.png",
+    "stream_url": "https://usa10.fastcast4u.com:3070/;",
+    "website": "http://radioconfiance.com/",
+    "provider": "onlineradiobox",
+    "country": "Guadeloupe",
+    "genres": [
+      "r'n'b",
+      "jazz",
+      "talk",
+      "gospel",
+      "caribbean"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:20:06+05:30"
+  },
+  {
+    "id": "onlineradiobox_gp.dejesuschrist",
+    "name": "Radio de Jésus Christ",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/145057.v3.png",
+    "stream_url": "https://listen.radioking.com/radio/132292/stream/172204",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Guadeloupe",
+    "genres": [
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:20:15+05:30"
+  },
+  {
+    "id": "onlineradiobox_gp.djpatos",
+    "name": "Dj Patos Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/113138.v3.png",
+    "stream_url": "https://radio10.pro-fhi.net/radio/9067/stream.mp3",
+    "website": "https://www.radio.streamitter.com/station/dj-patos-radio-QYV8C",
+    "provider": "onlineradiobox",
+    "country": "Guadeloupe",
+    "genres": [
+      "caribbean"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:20:09+05:30"
+  },
+  {
+    "id": "onlineradiobox_gp.funguadeloupe",
+    "name": "Millenium Guadeloupe",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/94089.v4.png",
+    "stream_url": "https://listen.radioking.com/radio/154186/stream/194791",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Guadeloupe",
+    "genres": [
+      "dance",
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:20:03+05:30"
+  },
+  {
+    "id": "onlineradiobox_gp.gld",
+    "name": "GLD Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/145906.v2.png",
+    "stream_url": "https://listen.radioking.com/radio/652753/stream/716305",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Guadeloupe",
+    "genres": [
+      "news",
+      "culture",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:20:12+05:30"
+  },
+  {
+    "id": "onlineradiobox_gp.guadeloupe1ere",
+    "name": "Guadeloupe 1ère",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/13328.v6.png",
+    "stream_url": "https://guadeloupe.ice.infomaniak.ch/guadeloupe-128.mp3",
+    "website": "http://la1ere.francetvinfo.fr/guadeloupe/radio",
+    "provider": "onlineradiobox",
+    "country": "Guadeloupe",
+    "genres": [
+      "r'n'b",
+      "pop",
+      "news",
+      "talk",
+      "rap",
+      "hip-hop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:20:02+05:30"
+  },
+  {
+    "id": "onlineradiobox_gp.hits1antilles",
+    "name": "Hits 1 Antilles",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/92876.v21.png",
+    "stream_url": "https://stream.hd1.hits1radio.com/?13",
+    "website": "https://www.hits1radio.com/",
+    "provider": "onlineradiobox",
+    "country": "Guadeloupe",
+    "genres": [
+      "dance",
+      "electronic",
+      "pop",
+      "club",
+      "top40",
+      "latin",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:20:15+05:30"
+  },
+  {
+    "id": "onlineradiobox_gp.kapest",
+    "name": "Kapest",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/145306.v2.png",
+    "stream_url": "https://listen.radioking.com/radio/310886/stream/357983",
+    "website": "https://www.radioking.com/play/kapest",
+    "provider": "onlineradiobox",
+    "country": "Guadeloupe",
+    "genres": [
+      "news",
+      "80s",
+      "reggae",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:20:10+05:30"
+  },
+  {
+    "id": "onlineradiobox_gp.kariburban",
+    "name": "Karib&#39;Urban Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/145818.v1.png",
+    "stream_url": "https://listen.radioking.com/radio/251689/stream/296080",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Guadeloupe",
+    "genres": [
+      "dance",
+      "r'n'b",
+      "disco",
+      "pop",
+      "rap",
+      "hip-hop",
+      "reggae",
+      "hits",
+      "dancehall"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:20:12+05:30"
+  },
+  {
+    "id": "onlineradiobox_gp.kotkarayib",
+    "name": "Radyo Kotkarayib",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/145426.v1.png",
+    "stream_url": "https://listen.radioking.com/radio/378136/stream/428791",
+    "website": "https://www.radyokotkarayib.com/",
+    "provider": "onlineradiobox",
+    "country": "Guadeloupe",
+    "genres": [
+      "news",
+      "culture",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:20:37+05:30"
+  },
+  {
+    "id": "onlineradiobox_gp.ksilindo",
+    "name": "Ksi Lindo",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/145427.v4.png",
+    "stream_url": "https://listen.radioking.com/radio/378022/stream/428665",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Guadeloupe",
+    "genres": [
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:20:13+05:30"
+  },
+  {
+    "id": "onlineradiobox_gp.lesstylprod",
+    "name": "Les Stylprod",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/111244.v3.png",
+    "stream_url": "https://listen.radioking.com/radio/421063/stream/474319",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Guadeloupe",
+    "genres": [
+      "dance"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:20:36+05:30"
+  },
+  {
+    "id": "onlineradiobox_gp.lfm",
+    "name": "L Fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/145267.v2.png",
+    "stream_url": "https://listen.radioking.com/radio/168556/stream/209845",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Guadeloupe",
+    "genres": [
+      "rock",
+      "blues",
+      "rap",
+      "hip-hop",
+      "soul",
+      "reggae"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:20:14+05:30"
+  },
+  {
+    "id": "onlineradiobox_gp.megafmguadeloupe",
+    "name": "Mega fm Guadeloupe",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/100470.v4.png",
+    "stream_url": "https://ecmanager4.pro-fhi.net:2815/stream",
+    "website": "https://www.megafmguadeloupe.com/",
+    "provider": "onlineradiobox",
+    "country": "Guadeloupe",
+    "genres": [
+      "pop",
+      "news",
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:20:08+05:30"
+  },
+  {
+    "id": "onlineradiobox_gp.newstroisrivieres",
+    "name": "RADIO NEWS TROIS-RIVIERES",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/146269.v2.png",
+    "stream_url": "https://listen.radioking.com/radio/529672/stream/588109",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Guadeloupe",
+    "genres": [
+      "pop",
+      "news"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:20:11+05:30"
+  },
+  {
+    "id": "onlineradiobox_gp.opengroove",
+    "name": "Open Groove Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/146485.v5.png",
+    "stream_url": "https://listen.radioking.com/radio/716966/stream/782657",
+    "website": "https://open-groove-radio.page.radio/",
+    "provider": "onlineradiobox",
+    "country": "Guadeloupe",
+    "genres": [
+      "house",
+      "r'n'b",
+      "club",
+      "90s",
+      "reggae",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:20:38+05:30"
+  },
+  {
+    "id": "onlineradiobox_gp.planeteblack",
+    "name": "Planèteblack Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/145881.v2.png",
+    "stream_url": "https://listen.radioking.com/radio/329896/stream/378163",
+    "website": "https://planeteblack.page.radio/",
+    "provider": "onlineradiobox",
+    "country": "Guadeloupe",
+    "genres": [
+      "r'n'b",
+      "hip-hop",
+      "soul",
+      "funk",
+      "reggae"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:20:35+05:30"
+  },
+  {
+    "id": "onlineradiobox_gp.radiointerscool",
+    "name": "Radio Inter S&#39;cool",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/146305.v2.png",
+    "stream_url": "https://listen.radioking.com/radio/459185/stream/514376",
+    "website": "https://www.radiointerscool.net/",
+    "provider": "onlineradiobox",
+    "country": "Guadeloupe",
+    "genres": [
+      "news",
+      "sports",
+      "culture"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:20:14+05:30"
+  },
+  {
+    "id": "onlineradiobox_gp.rasofaltit",
+    "name": "RADIO SOFAIA ALTITUDE",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/8992.v4.png",
+    "stream_url": "https://radiosofaia.ice.infomaniak.ch/radiosofaia-high.aac",
+    "website": "http://www.radio-sofaia-altitude.com/",
+    "provider": "onlineradiobox",
+    "country": "Guadeloupe",
+    "genres": [
+      "pop",
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:20:07+05:30"
+  },
+  {
+    "id": "onlineradiobox_gp.rciguadeloupe",
+    "name": "RCI Guadeloupe",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/9674.v7.png",
+    "stream_url": "https://stream.rcs.revma.com/v4hf7bwspwzuv",
+    "website": "http://www.rci.fm/",
+    "provider": "onlineradiobox",
+    "country": "Guadeloupe",
+    "genres": [
+      "news",
+      "talk",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:19:59+05:30"
+  },
+  {
+    "id": "onlineradiobox_gp.rhtguadeloupehautetension",
+    "name": "Rht Guadeloupe-radio Haute Tension",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/102368.v1.png",
+    "stream_url": "http://haute-tension.ice.infomaniak.ch/haute-tension-high.aac",
+    "website": "https://www.rhtguadeloupe.fr/",
+    "provider": "onlineradiobox",
+    "country": "Guadeloupe",
+    "genres": [
+      "pop",
+      "news",
+      "sports",
+      "culture"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:20:10+05:30"
+  },
+  {
+    "id": "onlineradiobox_gp.rtl2",
+    "name": "RTL 2 Guadeloupe",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/48145.v5.png",
+    "stream_url": "http://163.172.96.134:8090/;stream.qtl",
+    "website": "http://www.rtl2antilles.fr/",
+    "provider": "onlineradiobox",
+    "country": "Guadeloupe",
+    "genres": [
+      "rock",
+      "pop",
+      "top40",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:20:08+05:30"
+  },
+  {
+    "id": "onlineradiobox_gp.saphir894",
+    "name": "Saphir Fm 89.4",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/97138.v2.png",
+    "stream_url": "http://saphirfm.ice.infomaniak.ch/saphirfm-192.mp3",
+    "website": "http://www.saphir.fm/",
+    "provider": "onlineradiobox",
+    "country": "Guadeloupe",
+    "genres": [
+      "salsa",
+      "zouk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:20:06+05:30"
+  },
+  {
+    "id": "onlineradiobox_gp.souffledevie",
+    "name": "Radio Souffle de vie",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/50991.v3.png",
+    "stream_url": "https://radio.rsv-gpe.info/radio/8000/radio.mp3",
+    "website": "http://www.rsv-gpe.info/",
+    "provider": "onlineradiobox",
+    "country": "Guadeloupe",
+    "genres": [
+      "pop",
+      "talk",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:20:05+05:30"
+  },
+  {
+    "id": "onlineradiobox_gp.steevy",
+    "name": "Steevy FM - Guadeloupe",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/121486.v53.png",
+    "stream_url": "https://play.radioking.io/steevy-fm3",
+    "website": "https://www.steevyfm.com/",
+    "provider": "onlineradiobox",
+    "country": "Guadeloupe",
+    "genres": [
+      "reggae",
+      "salsa",
+      "zouk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:20:03+05:30"
+  },
+  {
+    "id": "onlineradiobox_gp.trace",
+    "name": "TRACE FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/35611.v7.png",
+    "stream_url": "https://stream.rcs.revma.com/nv1hu7644k0uv",
+    "website": "http://gp.trace.fm/",
+    "provider": "onlineradiobox",
+    "country": "Guadeloupe",
+    "genres": [
+      "r'n'b",
+      "hip-hop",
+      "reggae",
+      "zouk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:20:00+05:30"
+  },
+  {
+    "id": "onlineradiobox_gp.waptormusicfm",
+    "name": "WAPTOR MUSIC FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/121120.v6.png",
+    "stream_url": "https://stream.zeno.fm/uscsupw0m5yuv",
+    "website": "https://zeno.fm/radio/waptor-music-fm/",
+    "provider": "onlineradiobox",
+    "country": "Guadeloupe",
+    "genres": [
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:20:04+05:30"
+  },
+  {
+    "id": "onlineradiobox_gp.west",
+    "name": "West Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/145969.v1.png",
+    "stream_url": "https://listen.radioking.com/radio/603586/stream/664978",
+    "website": "https://www.radio.westguadeloupe.com/",
+    "provider": "onlineradiobox",
+    "country": "Guadeloupe",
+    "genres": [
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T20:20:35+05:30"
+  }
+]

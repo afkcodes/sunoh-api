@@ -1,0 +1,288 @@
+[
+  {
+    "id": "onlineradiobox_vn.awvietnam",
+    "name": "AW Việt Nam",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/150372.v1.png",
+    "stream_url": "https://radioantennaweb.com/Vietnam",
+    "website": "https://antennaweb.it/aw-viet-nam/",
+    "provider": "onlineradiobox",
+    "country": "Vietnam",
+    "genres": [
+      "rock",
+      "pop",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:23:40+05:30"
+  },
+  {
+    "id": "onlineradiobox_vn.cailuongvietnam",
+    "name": "Cai Luong Viet Nam",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/127781.v1.png",
+    "stream_url": "https://stream.zeno.fm/0trm6wrnga0uv",
+    "website": "https://zeno.fm/radio/cai-luong-viet-nam/",
+    "provider": "onlineradiobox",
+    "country": "Vietnam",
+    "genres": [
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:23:39+05:30"
+  },
+  {
+    "id": "onlineradiobox_vn.hanoi90",
+    "name": "Hanoi90",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/125634.v2.png",
+    "stream_url": "http://14.162.146.90:8000/HANOI90",
+    "website": "https://hanoionline.vn/",
+    "provider": "onlineradiobox",
+    "country": "Vietnam",
+    "genres": [
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:23:45+05:30"
+  },
+  {
+    "id": "onlineradiobox_vn.quraninvietnamese",
+    "name": "Quran in Vietnamese",
+    "image": "https://cdn.onlineradiobox.com/img/logo/7/23777.png",
+    "stream_url": "https://www.qurantranslations.net/sound/English/AbdulBaset_AbdulSamad/002.mp3?type=.mp3/;stream.mp3",
+    "website": "http://www.qurantranslations.net/index.php?id=21",
+    "provider": "onlineradiobox",
+    "country": "Vietnam",
+    "genres": [
+      "talk",
+      "islamic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:23:39+05:30"
+  },
+  {
+    "id": "onlineradiobox_vn.rfitiengviet",
+    "name": "RFI Tiếng Việt",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/37804.v1.png",
+    "stream_url": "http://rfivietnamien96k.ice.infomaniak.ch/rfivietnamien-96k.mp3",
+    "website": "http://vi.rfi.fr/",
+    "provider": "onlineradiobox",
+    "country": "Vietnam",
+    "genres": [
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:23:45+05:30"
+  },
+  {
+    "id": "onlineradiobox_vn.scientificsoundasia",
+    "name": "Scientific Sound Asia Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/101439.v12.png",
+    "stream_url": "http://carol.epichosts.co.uk:8270/live.mp3",
+    "website": "https://www.scientificsound.asia/",
+    "provider": "onlineradiobox",
+    "country": "Vietnam",
+    "genres": [
+      "trance",
+      "techno",
+      "psy trance",
+      "deep house",
+      "hip-hop",
+      "funk",
+      "reggae",
+      "drum'n'bass"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:23:38+05:30"
+  },
+  {
+    "id": "onlineradiobox_vn.voh",
+    "name": "VOH 99.9",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/31594.v9.png",
+    "stream_url": "https://strm.voh.com.vn/radio/channel3/playlist.m3u8",
+    "website": "http://www.voh.com.vn/radio/fm-99-9-mhz-2.html",
+    "provider": "onlineradiobox",
+    "country": "Vietnam",
+    "genres": [
+      "pop",
+      "news",
+      "talk",
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:23:37+05:30"
+  },
+  {
+    "id": "onlineradiobox_vn.vov1",
+    "name": "VOV 1",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/29239.v9.png",
+    "stream_url": "https://str.vov.gov.vn/vovlive/vov1vov5Vietnamese.sdp_aac/playlist.m3u8",
+    "website": "http://vov1.vov.vn/Default.aspx",
+    "provider": "onlineradiobox",
+    "country": "Vietnam",
+    "genres": [
+      "news",
+      "talk",
+      "culture"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:23:39+05:30"
+  },
+  {
+    "id": "onlineradiobox_vn.vov2",
+    "name": "VOV 2",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/29237.v7.png",
+    "stream_url": "http://media.kythuatvov.vn:7003/;",
+    "website": "http://vov2.vov.vn/Default.aspx",
+    "provider": "onlineradiobox",
+    "country": "Vietnam",
+    "genres": [
+      "news",
+      "talk",
+      "education"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:23:42+05:30"
+  },
+  {
+    "id": "onlineradiobox_vn.vov3",
+    "name": "VOV 3",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/29236.v10.png",
+    "stream_url": "https://stream.vov.vn/cde884a8f0af9e055bc86eaecb9741721688296838/vov3-audio/playlist.m3u8",
+    "website": "https://vov3.vov.vn/",
+    "provider": "onlineradiobox",
+    "country": "Vietnam",
+    "genres": [
+      "pop",
+      "news",
+      "talk",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:23:41+05:30"
+  },
+  {
+    "id": "onlineradiobox_vn.vov4",
+    "name": "VOV 4",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/29241.v3.png",
+    "stream_url": "http://media.kythuatvov.vn:7035/;",
+    "website": "http://vov4.vov.vn/Default.aspx",
+    "provider": "onlineradiobox",
+    "country": "Vietnam",
+    "genres": [
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:23:44+05:30"
+  },
+  {
+    "id": "onlineradiobox_vn.vov5",
+    "name": "VOV 5",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/23600.v6.png",
+    "stream_url": "https://media-audio.vov.vn/vov5.sdp_aac/playlist.m3u8",
+    "website": "http://vovworld.vn/",
+    "provider": "onlineradiobox",
+    "country": "Vietnam",
+    "genres": [
+      "news",
+      "talk",
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:23:40+05:30"
+  },
+  {
+    "id": "onlineradiobox_vn.vov5247eng",
+    "name": "VOV 5 World 24/7 English",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/127764.v4.png",
+    "stream_url": "https://stream-cdn.vov.vn/live/vov24_7-audio_only.m3u8",
+    "website": "http://vovworld.vn/",
+    "provider": "onlineradiobox",
+    "country": "Vietnam",
+    "genres": [
+      "news",
+      "talk",
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:23:41+05:30"
+  },
+  {
+    "id": "onlineradiobox_vn.vov6",
+    "name": "VOV 6",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/127765.v2.png",
+    "stream_url": "https://stream.vov.vn/2d424a5f73c34f6700f93e2b0858c8281688297471/vov1-audio/playlist.m3u8",
+    "website": "http://vov6.vov.vn/",
+    "provider": "onlineradiobox",
+    "country": "Vietnam",
+    "genres": [
+      "news",
+      "talk",
+      "culture"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:23:43+05:30"
+  },
+  {
+    "id": "onlineradiobox_vn.vovgt",
+    "name": "VOV Giao Thông Hà Nội",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/31600.v2.png",
+    "stream_url": "https://stream.vov.vn/d635b3695a4795db2be7c99d7263b2831688297874/giao_thong_ha_noi-audio/playlist.m3u8",
+    "website": "http://vovgiaothong.vn/",
+    "provider": "onlineradiobox",
+    "country": "Vietnam",
+    "genres": [
+      "news",
+      "talk",
+      "culture"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-21T00:23:44+05:30"
+  }
+]

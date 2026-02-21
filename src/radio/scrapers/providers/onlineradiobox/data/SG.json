@@ -1,0 +1,726 @@
+[
+  {
+    "id": "onlineradiobox_sg.189rs",
+    "name": "18.9 RSFM",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/96352.v10.png",
+    "stream_url": "https://stream.hornhost.com/6294/stream.mp3;",
+    "website": "http://18.9rsfmsingapore.com/",
+    "provider": "onlineradiobox",
+    "country": "Singapore",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:40:23+05:30"
+  },
+  {
+    "id": "onlineradiobox_sg.963fm",
+    "name": "96.3好FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/66455.v15.png",
+    "stream_url": "https://playerservices.streamtheworld.com/api/livestream-redirect/HAO_963AAC.aac?dist=onlineradiobox",
+    "website": "https://www.963haofm.sg/",
+    "provider": "onlineradiobox",
+    "country": "Singapore",
+    "genres": [
+      "news",
+      "90s",
+      "80s",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:40:11+05:30"
+  },
+  {
+    "id": "onlineradiobox_sg.973fm",
+    "name": "973FM: Blasts That Last",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/29038.v25.png",
+    "stream_url": "https://c16.radioboss.fm:18115/stream",
+    "website": "http://973fm.weebly.com/",
+    "provider": "onlineradiobox",
+    "country": "Singapore",
+    "genres": [
+      "pop",
+      "indie",
+      "alternative",
+      "top40",
+      "acoustic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:40:18+05:30"
+  },
+  {
+    "id": "onlineradiobox_sg.987fm",
+    "name": "987 FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/15212.v10.png",
+    "stream_url": "https://playerservices.streamtheworld.com/api/livestream-redirect/987FMAAC.aac?dist=onlineradiobox",
+    "website": "https://www.melisten.sg/radio/987",
+    "provider": "onlineradiobox",
+    "country": "Singapore",
+    "genres": [
+      "rock",
+      "pop",
+      "top40",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:40:08+05:30"
+  },
+  {
+    "id": "onlineradiobox_sg.adelineyeogeneralentertainment",
+    "name": "Adeline Yeo General Entertainment Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/114883.v4.png",
+    "stream_url": "https://stream.zeno.fm/wydy0bhmnrhvv",
+    "website": "https://zeno.fm/radio/adeline-yeo-general-entertainment-radio/",
+    "provider": "onlineradiobox",
+    "country": "Singapore",
+    "genres": [
+      "easy listening",
+      "instrumental"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:40:56+05:30"
+  },
+  {
+    "id": "onlineradiobox_sg.axr",
+    "name": "AXR Singapore",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/45649.v13.png",
+    "stream_url": "https://singaporestream.axr.online/",
+    "website": "https://www.axr.co/singapore",
+    "provider": "onlineradiobox",
+    "country": "Singapore",
+    "genres": [
+      "news",
+      "sports",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:40:20+05:30"
+  },
+  {
+    "id": "onlineradiobox_sg.barakath",
+    "name": "Barakath Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/111087.v4.png",
+    "stream_url": "https://stream.rcs.revma.com/cy0s94xf268uv",
+    "website": "https://barakathradio.com/",
+    "provider": "onlineradiobox",
+    "country": "Singapore",
+    "genres": [
+      "islamic",
+      "tamil"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:40:59+05:30"
+  },
+  {
+    "id": "onlineradiobox_sg.bismeislamic",
+    "name": "Bisme Islamic Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/147040.v1.png",
+    "stream_url": "https://stream.rcs.revma.com/pcr8x50uty8uv",
+    "website": "https://bismeradio.com/",
+    "provider": "onlineradiobox",
+    "country": "Singapore",
+    "genres": [
+      "islamic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:41:02+05:30"
+  },
+  {
+    "id": "onlineradiobox_sg.capital958",
+    "name": "Capital 958",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/15179.v8.png",
+    "stream_url": "https://playerservices.streamtheworld.com/api/livestream-redirect/CAPITAL958FMAAC.aac?dist=onlineradiobox",
+    "website": "https://www.melisten.sg/radio/capital-958?c=958fm",
+    "provider": "onlineradiobox",
+    "country": "Singapore",
+    "genres": [
+      "pop",
+      "news",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:40:16+05:30"
+  },
+  {
+    "id": "onlineradiobox_sg.celebsingvol1",
+    "name": "Celebrating Singapore: Volume 1",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/152347.v4.png",
+    "stream_url": "https://playerservices.streamtheworld.com/api/livestream-redirect//NATIONAL_DAY_S01.mp3",
+    "website": "https://www.kakee.sg/",
+    "provider": "onlineradiobox",
+    "country": "Singapore",
+    "genres": [
+      "pop",
+      "drama",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:41:01+05:30"
+  },
+  {
+    "id": "onlineradiobox_sg.class95",
+    "name": "Class 95 FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/15173.v18.png",
+    "stream_url": "https://playerservices.streamtheworld.com/api/livestream-redirect/CLASS95AAC_SC?dist=onlineradiobox",
+    "website": "https://www.melisten.sg/radio/class-95?c=950fm",
+    "provider": "onlineradiobox",
+    "country": "Singapore",
+    "genres": [
+      "pop",
+      "top40",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:40:09+05:30"
+  },
+  {
+    "id": "onlineradiobox_sg.cna938",
+    "name": "CNA938",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/79357.v6.png",
+    "stream_url": "https://playerservices.streamtheworld.com/api/livestream-redirect/938NOWAAC.aac?dist=onlineradiobox",
+    "website": "https://www.melisten.sg/liveradio/cna938",
+    "provider": "onlineradiobox",
+    "country": "Singapore",
+    "genres": [
+      "news"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:40:14+05:30"
+  },
+  {
+    "id": "onlineradiobox_sg.gojoy",
+    "name": "ONFM.org（您的精选歌单）",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/128259.v35.png",
+    "stream_url": "https://go.onfm.org/stream",
+    "website": "https://onfm.org/",
+    "provider": "onlineradiobox",
+    "country": "Singapore",
+    "genres": [
+      "pop",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:40:21+05:30"
+  },
+  {
+    "id": "onlineradiobox_sg.gold905",
+    "name": "GOLD 905",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/15177.v13.png",
+    "stream_url": "https://playerservices.streamtheworld.com/api/livestream-redirect/GOLD905_PREM.aac?dist=onlineradiobox",
+    "website": "https://www.melisten.sg/radio/gold-905?c=905fm",
+    "provider": "onlineradiobox",
+    "country": "Singapore",
+    "genres": [
+      "rock",
+      "pop",
+      "oldies"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:40:12+05:30"
+  },
+  {
+    "id": "onlineradiobox_sg.hitz",
+    "name": "Hitz.FM Singapore",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/88298.v4.png",
+    "stream_url": "http://everestcast.shoutcastservices.com:1640/stream",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Singapore",
+    "genres": [
+      "dance",
+      "top40",
+      "retro"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:40:52+05:30"
+  },
+  {
+    "id": "onlineradiobox_sg.indiego",
+    "name": "Indiego",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/108604.v8.png",
+    "stream_url": "https://playerservices.streamtheworld.com/api/livestream-redirect/INDIEGO_S01?dist=onlineradiobox",
+    "website": "https://www.melisten.sg/radio/indiego",
+    "provider": "onlineradiobox",
+    "country": "Singapore",
+    "genres": [
+      "indie"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:40:57+05:30"
+  },
+  {
+    "id": "onlineradiobox_sg.jia883",
+    "name": "88.3JIA",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/15209.v20.png",
+    "stream_url": "https://playerservices.streamtheworld.com/api/livestream-redirect/883JIAAAC.aac?dist=onlineradiobox",
+    "website": "https://www.kakee.sg/",
+    "provider": "onlineradiobox",
+    "country": "Singapore",
+    "genres": [
+      "pop",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:40:15+05:30"
+  },
+  {
+    "id": "onlineradiobox_sg.kiss92",
+    "name": "Kiss92",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/15248.v7.png",
+    "stream_url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KISS_92AAC.aac?dist=onlineradiobox",
+    "website": "http://kiss92.sg/",
+    "provider": "onlineradiobox",
+    "country": "Singapore",
+    "genres": [
+      "pop",
+      "news",
+      "talk",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:40:12+05:30"
+  },
+  {
+    "id": "onlineradiobox_sg.love972",
+    "name": "Love 972",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/15163.v8.png",
+    "stream_url": "https://playerservices.streamtheworld.com/api/livestream-redirect/LOVE972FMAAC.aac?dist=onlineradiobox",
+    "website": "https://www.melisten.sg/radio/love-972?c=972fm",
+    "provider": "onlineradiobox",
+    "country": "Singapore",
+    "genres": [
+      "pop",
+      "90s",
+      "80s"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:40:13+05:30"
+  },
+  {
+    "id": "onlineradiobox_sg.masti247",
+    "name": "Radio Masti 24x7",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/147039.v1.png",
+    "stream_url": "https://d1xx1qndjrmnw2.cloudfront.net/radiosgmasti.m3u8",
+    "website": "https://radiomasti.com.sg/",
+    "provider": "onlineradiobox",
+    "country": "Singapore",
+    "genres": [
+      "bollywood"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:40:22+05:30"
+  },
+  {
+    "id": "onlineradiobox_sg.melodywithbrotherbjorn",
+    "name": "Radio Melody with Brother Bjorn",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/15268.v12.png",
+    "stream_url": "https://ssl.geckohost.nz/proxy/bjorn?mp=/stream&1682315500057",
+    "website": "http://www.rmelody.net/",
+    "provider": "onlineradiobox",
+    "country": "Singapore",
+    "genres": [
+      "pop",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:40:55+05:30"
+  },
+  {
+    "id": "onlineradiobox_sg.mixxmusic",
+    "name": "Mixx Music Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/107561.v3.png",
+    "stream_url": "https://sonic.mediacp.eu/8020/stream",
+    "website": "https://mixxmusicradio.blogspot.com/",
+    "provider": "onlineradiobox",
+    "country": "Singapore",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:40:51+05:30"
+  },
+  {
+    "id": "onlineradiobox_sg.money893",
+    "name": "Money FM 89.3",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/67067.v19.png",
+    "stream_url": "https://playerservices.streamtheworld.com/api/livestream-redirect/MONEY_893AAC.aac?dist=onlineradiobox",
+    "website": "https://www.moneyfm893.sg/",
+    "provider": "onlineradiobox",
+    "country": "Singapore",
+    "genres": [
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:40:18+05:30"
+  },
+  {
+    "id": "onlineradiobox_sg.naga",
+    "name": "Naga FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/45651.v11.png",
+    "stream_url": "https://live.nagafm.in:1065/stream",
+    "website": "https://live.nagafm.in/",
+    "provider": "onlineradiobox",
+    "country": "Singapore",
+    "genres": [
+      "folk",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:40:51+05:30"
+  },
+  {
+    "id": "onlineradiobox_sg.oli968",
+    "name": "Oli 968",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/15184.v8.png",
+    "stream_url": "https://playerservices.streamtheworld.com/api/livestream-redirect/OLI968FMAAC.aac?dist=onlineradiobox",
+    "website": "https://www.melisten.sg/radio/oli968?c=968fm",
+    "provider": "onlineradiobox",
+    "country": "Singapore",
+    "genres": [
+      "news",
+      "indian",
+      "tamil"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:40:19+05:30"
+  },
+  {
+    "id": "onlineradiobox_sg.onefm913",
+    "name": "One FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/15256.v11.png",
+    "stream_url": "https://playerservices.streamtheworld.com/api/livestream-redirect/ONE_FM_913AAC.aac?dist=onlineradiobox",
+    "website": "http://www.onefm.sg/",
+    "provider": "onlineradiobox",
+    "country": "Singapore",
+    "genres": [
+      "rock",
+      "top40",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:40:16+05:30"
+  },
+  {
+    "id": "onlineradiobox_sg.power98",
+    "name": "Power 98",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/15253.v18.png",
+    "stream_url": "https://playerservices.streamtheworld.com/api/livestream-redirect/POWER98_LOVESONGS.mp3?dist=onlineradiobox",
+    "website": "https://www.kakee.sg/",
+    "provider": "onlineradiobox",
+    "country": "Singapore",
+    "genres": [
+      "pop",
+      "news",
+      "talk",
+      "sports"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:40:10+05:30"
+  },
+  {
+    "id": "onlineradiobox_sg.pozhil",
+    "name": "Pozhil FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/105669.v4.png",
+    "stream_url": "https://stream.zeno.fm/k8uw9ya44d0uv",
+    "website": "http://www.ilakkiyapozhil.com/",
+    "provider": "onlineradiobox",
+    "country": "Singapore",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:40:59+05:30"
+  },
+  {
+    "id": "onlineradiobox_sg.ria897",
+    "name": "Ria 897",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/15252.v7.png",
+    "stream_url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RIA897FMAAC.aac?dist=onlineradiobox",
+    "website": "https://www.melisten.sg/radio/ria-897?c=897fm",
+    "provider": "onlineradiobox",
+    "country": "Singapore",
+    "genres": [
+      "pop",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:40:17+05:30"
+  },
+  {
+    "id": "onlineradiobox_sg.srastudioasia",
+    "name": "SRAsTuDiOASIA",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/155020.v1.png",
+    "stream_url": "https://s5.radio.co/s672a3141c/listen",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Singapore",
+    "genres": [
+      "rock",
+      "balada",
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:40:23+05:30"
+  },
+  {
+    "id": "onlineradiobox_sg.symphony",
+    "name": "Symphony 924",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/15255.v10.png",
+    "stream_url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SYMPHONY924AAC.aac?dist=onlineradiobox",
+    "website": "https://www.melisten.sg/radio/symphony924?c=924fm",
+    "provider": "onlineradiobox",
+    "country": "Singapore",
+    "genres": [
+      "classic",
+      "culture"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:40:14+05:30"
+  },
+  {
+    "id": "onlineradiobox_sg.thitsarparamidhammasociety",
+    "name": "Thitsarparami Dhamma Society",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/32684.v7.png",
+    "stream_url": "https://edge.mixlr.com/channel/nmtev",
+    "website": "https://thitsarparami.org/",
+    "provider": "onlineradiobox",
+    "country": "Singapore",
+    "genres": [
+      "meditation",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:40:54+05:30"
+  },
+  {
+    "id": "onlineradiobox_sg.u1003",
+    "name": "UFM100.3",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/45648.v10.png",
+    "stream_url": "https://playerservices.streamtheworld.com/api/livestream-redirect/UFM_1003AAC.aac?dist=onlineradiobox",
+    "website": "http://www.ufm1003.sg/",
+    "provider": "onlineradiobox",
+    "country": "Singapore",
+    "genres": [
+      "pop",
+      "top40",
+      "chinese"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:40:13+05:30"
+  },
+  {
+    "id": "onlineradiobox_sg.undergroundhiphopfunksoulandrb",
+    "name": "Underground Hip Hop, Funk/Soul and R&amp;B Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/144633.v25.png",
+    "stream_url": "https://listen.radioking.com/radio/772316/stream/839642",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Singapore",
+    "genres": [
+      "r'n'b",
+      "rap",
+      "hip-hop",
+      "soul",
+      "funk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:40:58+05:30"
+  },
+  {
+    "id": "onlineradiobox_sg.vintagesg",
+    "name": "Vintage Radio SG",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/97219.v7.png",
+    "stream_url": "https://listen.vintageradio.sg/?v=2&d=0",
+    "website": "https://www.vintageradio.sg/",
+    "provider": "onlineradiobox",
+    "country": "Singapore",
+    "genres": [
+      "retro",
+      "70s",
+      "oldies",
+      "60s",
+      "50s"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:41:00+05:30"
+  },
+  {
+    "id": "onlineradiobox_sg.warna942f",
+    "name": "Warna 942",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/15207.v8.png",
+    "stream_url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WARNA942FMAAC.aac?dist=onlineradiobox",
+    "website": "https://www.melisten.sg/radio/warna-942fm?c=942fm",
+    "provider": "onlineradiobox",
+    "country": "Singapore",
+    "genres": [
+      "pop",
+      "news",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:40:17+05:30"
+  },
+  {
+    "id": "onlineradiobox_sg.xradio",
+    "name": "XRadio",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/92895.v19.png",
+    "stream_url": "https://azura.xradio.zone/listen/xradio/radio.mp3",
+    "website": "http://xradio.zone/",
+    "provider": "onlineradiobox",
+    "country": "Singapore",
+    "genres": [
+      "dance",
+      "rock"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:40:22+05:30"
+  },
+  {
+    "id": "onlineradiobox_sg.yes933",
+    "name": "YES 933",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/15150.v9.png",
+    "stream_url": "https://playerservices.streamtheworld.com/api/livestream-redirect/YES933AAC.aac?dist=onlineradiobox",
+    "website": "https://www.melisten.sg/radio/yes-933?c=933fm",
+    "provider": "onlineradiobox",
+    "country": "Singapore",
+    "genres": [
+      "pop",
+      "talk",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:40:09+05:30"
+  },
+  {
+    "id": "onlineradiobox_sg.z99",
+    "name": "Z99.FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/107148.v2.png",
+    "stream_url": "https://s2.radio.co/s2a9c10c34/listen",
+    "website": "https://www.z99.fm/",
+    "provider": "onlineradiobox",
+    "country": "Singapore",
+    "genres": [
+      "indie"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:40:57+05:30"
+  }
+]

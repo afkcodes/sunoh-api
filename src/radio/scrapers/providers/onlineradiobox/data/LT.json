@@ -1,0 +1,1525 @@
+[
+  {
+    "id": "onlineradiobox_lt.100hitu",
+    "name": "100 HITŲ",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/115690.v10.png",
+    "stream_url": "https://klausyk.radijas.lt/listen/100hitu/live",
+    "website": "https://100hitu.lt/",
+    "provider": "onlineradiobox",
+    "country": "Lithuania",
+    "genres": [
+      "dance",
+      "pop",
+      "club"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:51:45+05:30"
+  },
+  {
+    "id": "onlineradiobox_lt.audiomasteringlt",
+    "name": "radio.audiomastering.lt",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/30146.v7.png",
+    "stream_url": "http://radio.audiomastering.lt:8000/hq",
+    "website": "http://radio.audiomastering.lt/",
+    "provider": "onlineradiobox",
+    "country": "Lithuania",
+    "genres": [
+      "electronic",
+      "dubstep",
+      "techno",
+      "ambient",
+      "relax",
+      "classic",
+      "drum'n'bass"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:51:47+05:30"
+  },
+  {
+    "id": "onlineradiobox_lt.baltupiu988",
+    "name": "Baltupiu Radijas",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/30149.v3.png",
+    "stream_url": "http://fm.baltupiumokykla.lt:8888/;",
+    "website": "http://www.baltupiuprogimnazija.vilnius.lm.lt/",
+    "provider": "onlineradiobox",
+    "country": "Lithuania",
+    "genres": [
+      "pop",
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:52:58+05:30"
+  },
+  {
+    "id": "onlineradiobox_lt.beveikradijas",
+    "name": "Beveik Radijas",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/30147.v15.png",
+    "stream_url": "https://halo.streamerr.co/listen/beveikradijas/radio.mp3",
+    "website": "http://beveikradijas.com/",
+    "provider": "onlineradiobox",
+    "country": "Lithuania",
+    "genres": [
+      "rock",
+      "alternative"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:51:44+05:30"
+  },
+  {
+    "id": "onlineradiobox_lt.brokenteeth",
+    "name": "Broken Teeth",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/148390.v2.png",
+    "stream_url": "https://voxfutura.space:8443/NOIZE2.mp3",
+    "website": "https://voxfutura.space/noize/",
+    "provider": "onlineradiobox",
+    "country": "Lithuania",
+    "genres": [
+      "ambient"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:51:49+05:30"
+  },
+  {
+    "id": "onlineradiobox_lt.centras",
+    "name": "RadioCentras",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/30139.v4.png",
+    "stream_url": "https://stream1.rc.lt/rc128.mp3",
+    "website": "http://rc.lt/",
+    "provider": "onlineradiobox",
+    "country": "Lithuania",
+    "genres": [
+      "pop",
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:50:45+05:30"
+  },
+  {
+    "id": "onlineradiobox_lt.classicrock",
+    "name": "Rock FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/30022.v6.png",
+    "stream_url": "http://stream1.rockfm.lt/crf128.mp3",
+    "website": "http://www.rock.lt/",
+    "provider": "onlineradiobox",
+    "country": "Lithuania",
+    "genres": [
+      "rock"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:50:46+05:30"
+  },
+  {
+    "id": "onlineradiobox_lt.coolradio",
+    "name": "Cool Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/127476.v4.png",
+    "stream_url": "https://stream.zeno.fm/zi4k6fxtgnivv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Lithuania",
+    "genres": [
+      "pop",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:52:54+05:30"
+  },
+  {
+    "id": "onlineradiobox_lt.criminaltribe",
+    "name": "Criminal Tribe",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/118719.v3.png",
+    "stream_url": "https://live.leproradio.com/criminal.ogg",
+    "website": "https://criminaltribe.com/",
+    "provider": "onlineradiobox",
+    "country": "Lithuania",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:51:43+05:30"
+  },
+  {
+    "id": "onlineradiobox_lt.devilzz",
+    "name": "Rock radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/30153.v24.png",
+    "stream_url": "https://cast2.my-control-panel.com/proxy/vladas/stream",
+    "website": "https://rockradio.lt/",
+    "provider": "onlineradiobox",
+    "country": "Lithuania",
+    "genres": [
+      "rock",
+      "metal"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:50:47+05:30"
+  },
+  {
+    "id": "onlineradiobox_lt.draugysts",
+    "name": "Draugystės radijas",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/119288.v1.png",
+    "stream_url": "http://213.226.189.174:8000/radio.mp3",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Lithuania",
+    "genres": [
+      "oldies"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:53:25+05:30"
+  },
+  {
+    "id": "onlineradiobox_lt.druzilt",
+    "name": "drUzi.lt",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/132066.v6.png",
+    "stream_url": "https://druzi.fm:8443/96aac",
+    "website": "http://druzi.ee/",
+    "provider": "onlineradiobox",
+    "country": "Lithuania",
+    "genres": [],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:53:24+05:30"
+  },
+  {
+    "id": "onlineradiobox_lt.easy",
+    "name": "Easy FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/30273.v5.png",
+    "stream_url": "https://netradio.ziniur.lt/easyfm.mp3?",
+    "website": "http://www.easyfm.lt/",
+    "provider": "onlineradiobox",
+    "country": "Lithuania",
+    "genres": [
+      "lounge",
+      "jazz",
+      "classic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:50:47+05:30"
+  },
+  {
+    "id": "onlineradiobox_lt.europeanhitvil",
+    "name": "European Hit Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/29999.v5.png",
+    "stream_url": "https://stream.ehr.lt:8443/ehr",
+    "website": "http://www.europeanhitradio.lt/",
+    "provider": "onlineradiobox",
+    "country": "Lithuania",
+    "genres": [
+      "pop",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:50:44+05:30"
+  },
+  {
+    "id": "onlineradiobox_lt.extra",
+    "name": "Extra FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/30142.v4.png",
+    "stream_url": "https://stream.rcs.revma.com/8cwskd80zxcwv",
+    "website": "http://extrafm.lt/",
+    "provider": "onlineradiobox",
+    "country": "Lithuania",
+    "genres": [
+      "pop",
+      "top40",
+      "90s",
+      "80s",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:51:47+05:30"
+  },
+  {
+    "id": "onlineradiobox_lt.fiesta907",
+    "name": "Radio Fiesta",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/125301.v3.png",
+    "stream_url": "https://stream1.radiofiesta.lt/rfs128.mp3",
+    "website": "http://radiofiesta.lt/",
+    "provider": "onlineradiobox",
+    "country": "Lithuania",
+    "genres": [
+      "latin"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:51:52+05:30"
+  },
+  {
+    "id": "onlineradiobox_lt.fredfilm",
+    "name": "FRED FILM RADIO",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/46856.v5.png",
+    "stream_url": "https://s10.webradio-hosting.com/proxy/fredradiolt/stream/;",
+    "website": "http://www.fred.fm/",
+    "provider": "onlineradiobox",
+    "country": "Lithuania",
+    "genres": [
+      "news",
+      "talk",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:52:57+05:30"
+  },
+  {
+    "id": "onlineradiobox_lt.gama",
+    "name": "RadijoGAMA",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/30143.v3.png",
+    "stream_url": "http://212.24.99.134:8000/live",
+    "website": "http://www.radijogama.lt/",
+    "provider": "onlineradiobox",
+    "country": "Lithuania",
+    "genres": [
+      "talk",
+      "folk",
+      "christian"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:52:52+05:30"
+  },
+  {
+    "id": "onlineradiobox_lt.geras",
+    "name": "Geras FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/29971.v3.png",
+    "stream_url": "https://stream.goldfm.lt/gerasfm.mp3",
+    "website": "http://www.gerasfm.lt/",
+    "provider": "onlineradiobox",
+    "country": "Lithuania",
+    "genres": [
+      "pop",
+      "top40",
+      "90s"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:50:43+05:30"
+  },
+  {
+    "id": "onlineradiobox_lt.gold",
+    "name": "Radijo Gold FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/30275.v3.png",
+    "stream_url": "https://stream.goldfm.lt/goldfm.mp3",
+    "website": "http://goldfm.lt/",
+    "provider": "onlineradiobox",
+    "country": "Lithuania",
+    "genres": [
+      "pop",
+      "80s",
+      "70s",
+      "oldies"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:50:44+05:30"
+  },
+  {
+    "id": "onlineradiobox_lt.hazepub",
+    "name": "Haze Pub Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/118720.v8.png",
+    "stream_url": "https://relay.leproradio.com/rocks.ogg",
+    "website": "https://kalaver.in/rocks/",
+    "provider": "onlineradiobox",
+    "country": "Lithuania",
+    "genres": [
+      "rock",
+      "metal",
+      "rap",
+      "hip-hop",
+      "alternative",
+      "punk",
+      "drum'n'bass",
+      "breakbeat"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:53:23+05:30"
+  },
+  {
+    "id": "onlineradiobox_lt.hero",
+    "name": "Hero Radio (Lithuania)",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/147003.v1.png",
+    "stream_url": "https://a2.asurahosting.com:6790/lithuania.mp3",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Lithuania",
+    "genres": [
+      "news",
+      "gospel",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:52:58+05:30"
+  },
+  {
+    "id": "onlineradiobox_lt.hot",
+    "name": "Hot FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/30240.v3.png",
+    "stream_url": "https://c2.radioboss.fm/stream/1051",
+    "website": "https://www.hotfm.lt/",
+    "provider": "onlineradiobox",
+    "country": "Lithuania",
+    "genres": [
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:52:55+05:30"
+  },
+  {
+    "id": "onlineradiobox_lt.hothitsradio",
+    "name": "Hot Hits Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/131380.v1.png",
+    "stream_url": "https://stream.zeno.fm/i6rawfdpnimtv",
+    "website": "https://zeno.fm/radio/hot-hits-radio/",
+    "provider": "onlineradiobox",
+    "country": "Lithuania",
+    "genres": [
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:53:25+05:30"
+  },
+  {
+    "id": "onlineradiobox_lt.kabradio",
+    "name": "KABRADIO",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/129209.v1.png",
+    "stream_url": "https://stream.zeno.fm/29xtapvkzhhvv",
+    "website": "https://kbradio.webnode.page/",
+    "provider": "onlineradiobox",
+    "country": "Lithuania",
+    "genres": [
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:52:59+05:30"
+  },
+  {
+    "id": "onlineradiobox_lt.kapsai",
+    "name": "Kapsai",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/116455.v3.png",
+    "stream_url": "http://91.211.246.42:8000/Kapsai-HD",
+    "website": "https://miestoradijas.lt/",
+    "provider": "onlineradiobox",
+    "country": "Lithuania",
+    "genres": [
+      "dance",
+      "pop",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:52:49+05:30"
+  },
+  {
+    "id": "onlineradiobox_lt.laluna",
+    "name": "Laluna Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/30135.v2.png",
+    "stream_url": "https://stream.m-1.fm/laluna/mp3",
+    "website": "http://www.laluna.lt/",
+    "provider": "onlineradiobox",
+    "country": "Lithuania",
+    "genres": [
+      "pop",
+      "folk",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:50:41+05:30"
+  },
+  {
+    "id": "onlineradiobox_lt.lenta",
+    "name": "Радио Лента",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/118749.v2.png",
+    "stream_url": "https://stream01.the-broadcasters.online/radiolenta_mp3",
+    "website": "http://lentaonline.com/",
+    "provider": "onlineradiobox",
+    "country": "Lithuania",
+    "genres": [
+      "news"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:51:42+05:30"
+  },
+  {
+    "id": "onlineradiobox_lt.lepro",
+    "name": "Leproradio",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/62415.v26.png",
+    "stream_url": "https://live.leproradio.com/bender.ogg",
+    "website": "https://leproradio.com/",
+    "provider": "onlineradiobox",
+    "country": "Lithuania",
+    "genres": [
+      "electronic",
+      "trance",
+      "house",
+      "dubstep",
+      "techno",
+      "lounge",
+      "jazz",
+      "downtempo",
+      "ambient",
+      "club",
+      "rap",
+      "hip-hop",
+      "soul",
+      "chill-out",
+      "funk",
+      "drum'n'bass",
+      "swing",
+      "garage",
+      "meditation",
+      "instrumental",
+      "dj",
+      "breakbeat"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:50:37+05:30"
+  },
+  {
+    "id": "onlineradiobox_lt.lietus",
+    "name": "Radio Lietus",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/29960.v3.png",
+    "stream_url": "https://radio.m-1.fm/LIETUS",
+    "website": "http://www.lietus.fm/",
+    "provider": "onlineradiobox",
+    "country": "Lithuania",
+    "genres": [
+      "pop",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:50:40+05:30"
+  },
+  {
+    "id": "onlineradiobox_lt.lietusvilniusm1",
+    "name": "Lietus Radio Vilnius - M-1 Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/30130.v2.png",
+    "stream_url": "https://radio.m-1.fm/M-1H",
+    "website": "http://www.m-1.fm/",
+    "provider": "onlineradiobox",
+    "country": "Lithuania",
+    "genres": [
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:50:40+05:30"
+  },
+  {
+    "id": "onlineradiobox_lt.lifechillmusic",
+    "name": "Life Chill Music",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/76936.v8.png",
+    "stream_url": "https://aska.ru-hoster.com:8053/stream",
+    "website": "https://www.lifechillmusic.com/",
+    "provider": "onlineradiobox",
+    "country": "Lithuania",
+    "genres": [
+      "lounge",
+      "downtempo",
+      "chill-out"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:50:47+05:30"
+  },
+  {
+    "id": "onlineradiobox_lt.lituanica",
+    "name": "Lituanica.fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/117223.v5.png",
+    "stream_url": "https://cast1.shoutcasting.uk/listen/lituanica.fm/radio.mp3",
+    "website": "http://lituanica.fm/",
+    "provider": "onlineradiobox",
+    "country": "Lithuania",
+    "genres": [
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:52:50+05:30"
+  },
+  {
+    "id": "onlineradiobox_lt.lr2klasika",
+    "name": "LRT Klasika",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/30151.v7.png",
+    "stream_url": "https://lrt-cast.lrt.lt/lrt_klasika",
+    "website": "https://www.lrt.lt/mediateka/tiesiogiai/lrt-klasika",
+    "provider": "onlineradiobox",
+    "country": "Lithuania",
+    "genres": [
+      "classic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:51:52+05:30"
+  },
+  {
+    "id": "onlineradiobox_lt.lrtopus",
+    "name": "LRT Opus",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/29912.v13.png",
+    "stream_url": "https://lrt-cast.lrt.lt/lrt_opus",
+    "website": "https://www.lrt.lt/mediateka/tiesiogiai/lrt-opus",
+    "provider": "onlineradiobox",
+    "country": "Lithuania",
+    "genres": [
+      "news",
+      "children",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:50:49+05:30"
+  },
+  {
+    "id": "onlineradiobox_lt.lrtradijas",
+    "name": "LRT Radijas",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/29917.v12.png",
+    "stream_url": "https://lrt-cast.lrt.lt/lrt_radijas",
+    "website": "https://www.lrt.lt/mediateka/tiesiogiai/lrt-radijas",
+    "provider": "onlineradiobox",
+    "country": "Lithuania",
+    "genres": [
+      "pop",
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:51:41+05:30"
+  },
+  {
+    "id": "onlineradiobox_lt.mano",
+    "name": "Mano FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/30274.v3.png",
+    "stream_url": "http://stream.manofm.lt/listen?",
+    "website": "http://www.manofm.lt/",
+    "provider": "onlineradiobox",
+    "country": "Lithuania",
+    "genres": [
+      "pop",
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:50:42+05:30"
+  },
+  {
+    "id": "onlineradiobox_lt.mantinhodancepulse",
+    "name": "Mantinho Dance Pulse FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/147947.v4.png",
+    "stream_url": "https://aurora.shoutca.st/listen/mantinhodancepulsefm/radio.aac",
+    "website": "https://mantinhodancepulsefm.com/",
+    "provider": "onlineradiobox",
+    "country": "Lithuania",
+    "genres": [
+      "electronic",
+      "trance",
+      "house",
+      "techno"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:51:49+05:30"
+  },
+  {
+    "id": "onlineradiobox_lt.marialithuania",
+    "name": "Radio Maria",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/29919.v5.png",
+    "stream_url": "http://streamer.marijosradijas.lt:8001/marijosradijas.mp3",
+    "website": "http://www.marijosradijas.lt/",
+    "provider": "onlineradiobox",
+    "country": "Lithuania",
+    "genres": [
+      "talk",
+      "christian",
+      "children"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:51:51+05:30"
+  },
+  {
+    "id": "onlineradiobox_lt.mazeikiaifm",
+    "name": "Mažeikiai Fm",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/116453.v5.png",
+    "stream_url": "http://91.211.246.42:8000/Mazeikiai",
+    "website": "https://miestoradijas.lt/",
+    "provider": "onlineradiobox",
+    "country": "Lithuania",
+    "genres": [
+      "dance",
+      "pop",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:52:47+05:30"
+  },
+  {
+    "id": "onlineradiobox_lt.neringa",
+    "name": "Neringa FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/29981.v5.png",
+    "stream_url": "https://cast5.my-control-panel.com/proxy/mbadvent/neringafmnew",
+    "website": "http://www.neringafm.lt/",
+    "provider": "onlineradiobox",
+    "country": "Lithuania",
+    "genres": [
+      "lounge",
+      "soundtrack"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:51:48+05:30"
+  },
+  {
+    "id": "onlineradiobox_lt.palangastreet",
+    "name": "Palanga Street",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/143772.v1.png",
+    "stream_url": "https://stream.palanga.live/palanga128.mp3",
+    "website": "https://palanga.live/",
+    "provider": "onlineradiobox",
+    "country": "Lithuania",
+    "genres": [
+      "community"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:52:51+05:30"
+  },
+  {
+    "id": "onlineradiobox_lt.patejago",
+    "name": "Patejago Radijas",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/116458.v3.png",
+    "stream_url": "https://stream.zeno.fm/f6m1zbud5p8uv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Lithuania",
+    "genres": [
+      "dance",
+      "pop",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:52:48+05:30"
+  },
+  {
+    "id": "onlineradiobox_lt.pmr",
+    "name": "PMR.lt",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/110415.v2.png",
+    "stream_url": "https://stream.pmr.lt/pmr.mp3",
+    "website": "http://pmr.lt/en",
+    "provider": "onlineradiobox",
+    "country": "Lithuania",
+    "genres": [
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:52:49+05:30"
+  },
+  {
+    "id": "onlineradiobox_lt.positiveimpact",
+    "name": "Positive Impact Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/122511.v3.png",
+    "stream_url": "https://ec6.yesstreaming.net:1215/stream",
+    "website": "https://positiveimpact.live/",
+    "provider": "onlineradiobox",
+    "country": "Lithuania",
+    "genres": [
+      "electronic",
+      "trance",
+      "house",
+      "techno",
+      "progressive house",
+      "club"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:50:50+05:30"
+  },
+  {
+    "id": "onlineradiobox_lt.powergold",
+    "name": "Power Gold",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/117328.v2.png",
+    "stream_url": "https://stream.powerhitradio.lt/PHR_GOLD_AAC",
+    "website": "https://www.powerhitradio.lt/",
+    "provider": "onlineradiobox",
+    "country": "Lithuania",
+    "genres": [
+      "dance",
+      "electronic",
+      "pop",
+      "hip-hop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:50:45+05:30"
+  },
+  {
+    "id": "onlineradiobox_lt.powerhit",
+    "name": "Power Hit Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/29972.v11.png",
+    "stream_url": "https://stream.rcs.revma.com/f31w7e0fveuvv",
+    "website": "http://powerhitradio.tv3.lt/",
+    "provider": "onlineradiobox",
+    "country": "Lithuania",
+    "genres": [
+      "pop",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:50:39+05:30"
+  },
+  {
+    "id": "onlineradiobox_lt.powerkr",
+    "name": "PoWeR",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/101052.v6.png",
+    "stream_url": "https://cast1.my-control-panel.com/proxy/eventas/stream",
+    "website": "https://powerradio.webstarts.com/",
+    "provider": "onlineradiobox",
+    "country": "Lithuania",
+    "genres": [
+      "dance",
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:50:48+05:30"
+  },
+  {
+    "id": "onlineradiobox_lt.pukas2",
+    "name": "Radio Pūkas 2",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/30005.v5.png",
+    "stream_url": "http://212.95.39.164:8074/stream",
+    "website": "http://www.pukas.lt/",
+    "provider": "onlineradiobox",
+    "country": "Lithuania",
+    "genres": [
+      "pop",
+      "jazz",
+      "classic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:51:47+05:30"
+  },
+  {
+    "id": "onlineradiobox_lt.pulsas",
+    "name": "Pulsas",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/122574.v2.png",
+    "stream_url": "https://streams.radiomast.io/56f301cf-9788-4407-a0db-0bfea5d82b01?referer=onlineradiobox",
+    "website": "https://pulsas.lt/",
+    "provider": "onlineradiobox",
+    "country": "Lithuania",
+    "genres": [
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:51:51+05:30"
+  },
+  {
+    "id": "onlineradiobox_lt.relax",
+    "name": "Relax FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/29977.v6.png",
+    "stream_url": "https://stream1.relaxfm.lt/relaxfm128.mp3",
+    "website": "http://relaxfm.lt/",
+    "provider": "onlineradiobox",
+    "country": "Lithuania",
+    "genres": [
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:50:38+05:30"
+  },
+  {
+    "id": "onlineradiobox_lt.rs2",
+    "name": "RS2 Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/30186.v5.png",
+    "stream_url": "https://rs2online.eu/;",
+    "website": "http://rs2.lt/",
+    "provider": "onlineradiobox",
+    "country": "Lithuania",
+    "genres": [
+      "pop",
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:52:47+05:30"
+  },
+  {
+    "id": "onlineradiobox_lt.rusradiolt",
+    "name": "Radio R",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/29953.v8.png",
+    "stream_url": "https://stream1.relaxfm.lt/rrb128.mp3",
+    "website": "http://radior.lt/",
+    "provider": "onlineradiobox",
+    "country": "Lithuania",
+    "genres": [
+      "pop",
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:50:36+05:30"
+  },
+  {
+    "id": "onlineradiobox_lt.saules",
+    "name": "Saulės Radijas FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/30144.v2.png",
+    "stream_url": "http://saule-mp3.vinlita.lt:8008/stream.mp3",
+    "website": "http://saulesradijas.lt/",
+    "provider": "onlineradiobox",
+    "country": "Lithuania",
+    "genres": [
+      "pop",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:52:58+05:30"
+  },
+  {
+    "id": "onlineradiobox_lt.solfm933",
+    "name": "Radio SOL FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/129447.v1.png",
+    "stream_url": "https://radiosolfm.bounceme.net/stream",
+    "website": "https://solfm.lt/",
+    "provider": "onlineradiobox",
+    "country": "Lithuania",
+    "genres": [
+      "dance",
+      "pop",
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:52:56+05:30"
+  },
+  {
+    "id": "onlineradiobox_lt.start",
+    "name": "Start FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/30141.v4.png",
+    "stream_url": "https://eteris.startfm.lt/startfm.mp3",
+    "website": "http://www.startfm.lt/",
+    "provider": "onlineradiobox",
+    "country": "Lithuania",
+    "genres": [
+      "rock",
+      "alternative"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:52:51+05:30"
+  },
+  {
+    "id": "onlineradiobox_lt.stotis99",
+    "name": "Radijo stotis FM99",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/30145.v6.png",
+    "stream_url": "http://84.15.96.245:8000/fm99",
+    "website": "http://www.fm99.lt/",
+    "provider": "onlineradiobox",
+    "country": "Lithuania",
+    "genres": [
+      "news",
+      "talk",
+      "sports"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:51:46+05:30"
+  },
+  {
+    "id": "onlineradiobox_lt.stotiskelyje",
+    "name": "Radijo Stotis Kelyje",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/29988.v6.png",
+    "stream_url": "https://solid55.streamupsolutions.com/proxy/opcubjpd/stream?",
+    "website": "http://www.radijaskelyje.lt/",
+    "provider": "onlineradiobox",
+    "country": "Lithuania",
+    "genres": [
+      "pop",
+      "news",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:50:49+05:30"
+  },
+  {
+    "id": "onlineradiobox_lt.stotism1plius",
+    "name": "Radijo stotis M-1 Plius",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/30014.v2.png",
+    "stream_url": "https://radio.m-1.fm/m1plius/mp3",
+    "website": "http://pliusas.fm/",
+    "provider": "onlineradiobox",
+    "country": "Lithuania",
+    "genres": [
+      "pop",
+      "news",
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:50:41+05:30"
+  },
+  {
+    "id": "onlineradiobox_lt.stotispukas",
+    "name": "Radijo stotis Pūkas",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/29905.v5.png",
+    "stream_url": "http://212.95.45.82:8000/stream",
+    "website": "http://www.pukas.lt/",
+    "provider": "onlineradiobox",
+    "country": "Lithuania",
+    "genres": [
+      "pop",
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:51:42+05:30"
+  },
+  {
+    "id": "onlineradiobox_lt.stotisraduga",
+    "name": "M-1 Dance",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/30154.v6.png",
+    "stream_url": "https://radio.m-1.fm/m-1dance/mp3",
+    "website": "https://m-1dance.fm/",
+    "provider": "onlineradiobox",
+    "country": "Lithuania",
+    "genres": [
+      "news",
+      "folk",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:50:45+05:30"
+  },
+  {
+    "id": "onlineradiobox_lt.stotistau",
+    "name": "Radio Stotis Tau",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/30128.v7.png",
+    "stream_url": "http://radijas.tau.lt:8000/stream",
+    "website": "http://www.tau.lt/",
+    "provider": "onlineradiobox",
+    "country": "Lithuania",
+    "genres": [
+      "pop",
+      "top40",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:51:43+05:30"
+  },
+  {
+    "id": "onlineradiobox_lt.superfm",
+    "name": "Super FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/135920.v1.png",
+    "stream_url": "http://82.140.131.217:8000/superfm.mp3",
+    "website": "https://www.superfmradio.lt/",
+    "provider": "onlineradiobox",
+    "country": "Lithuania",
+    "genres": [
+      "pop",
+      "top40",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:53:26+05:30"
+  },
+  {
+    "id": "onlineradiobox_lt.sveikatosradijas",
+    "name": "Sveikatos Radijas",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/30230.v3.png",
+    "stream_url": "http://193.219.87.11:8080/stream",
+    "website": "http://www.sveikatosradijas.lt/",
+    "provider": "onlineradiobox",
+    "country": "Lithuania",
+    "genres": [
+      "pop",
+      "eclectic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:53:24+05:30"
+  },
+  {
+    "id": "onlineradiobox_lt.taurages",
+    "name": "Taurages Radijas",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/30233.v4.png",
+    "stream_url": "http://stream.tauragesradijas.lt:8000/tr1",
+    "website": "http://tauragesradijas.lt/",
+    "provider": "onlineradiobox",
+    "country": "Lithuania",
+    "genres": [
+      "dance",
+      "house",
+      "disco"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:52:53+05:30"
+  },
+  {
+    "id": "onlineradiobox_lt.tavobalsas",
+    "name": "Tavo Balsas",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/143232.v2.png",
+    "stream_url": "https://c18.radioboss.fm:8529/stream",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Lithuania",
+    "genres": [
+      "dance",
+      "pop",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:52:52+05:30"
+  },
+  {
+    "id": "onlineradiobox_lt.tgfm",
+    "name": "TG FM Radijas",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/116457.v1.png",
+    "stream_url": "http://radijas.tgfm.lt:8000/;",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Lithuania",
+    "genres": [
+      "dance",
+      "pop",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:52:59+05:30"
+  },
+  {
+    "id": "onlineradiobox_lt.topfm",
+    "name": "Topfm",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/147022.v2.png",
+    "stream_url": "https://radio.topfm.lt/listen/topfm/topfm-320",
+    "website": "https://topfm.lt/",
+    "provider": "onlineradiobox",
+    "country": "Lithuania",
+    "genres": [
+      "house",
+      "deep house",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:51:45+05:30"
+  },
+  {
+    "id": "onlineradiobox_lt.truckersrave",
+    "name": "Truckers Rave",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/133360.v13.png",
+    "stream_url": "http://live.eugenijus.lt:9000/eugenijus",
+    "website": "https://eugenijus.lt/",
+    "provider": "onlineradiobox",
+    "country": "Lithuania",
+    "genres": [
+      "dance",
+      "electronic",
+      "trance",
+      "techno",
+      "downtempo",
+      "melodic trance",
+      "drum'n'bass",
+      "breakbeat"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:52:50+05:30"
+  },
+  {
+    "id": "onlineradiobox_lt.upsas",
+    "name": "Upsas Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/30236.v4.png",
+    "stream_url": "http://185.5.52.50:8000/upsas_320",
+    "website": "http://www.upsas.lt/",
+    "provider": "onlineradiobox",
+    "country": "Lithuania",
+    "genres": [
+      "pop",
+      "top40",
+      "90s"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:51:50+05:30"
+  },
+  {
+    "id": "onlineradiobox_lt.utenosradijas",
+    "name": "Utenos Radijas 103,9 FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/143233.v1.png",
+    "stream_url": "https://gyvai.ursrv.eu/stream",
+    "website": "https://utenosradijas.lt/n/",
+    "provider": "onlineradiobox",
+    "country": "Lithuania",
+    "genres": [
+      "pop",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:52:53+05:30"
+  },
+  {
+    "id": "onlineradiobox_lt.vaiku",
+    "name": "Vaikų Radijas",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/30267.v2.png",
+    "stream_url": "http://88.119.151.74:8001/vaikuradijas",
+    "website": "http://vaikuradijas.lt/",
+    "provider": "onlineradiobox",
+    "country": "Lithuania",
+    "genres": [
+      "children"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:51:46+05:30"
+  },
+  {
+    "id": "onlineradiobox_lt.vilniusfm",
+    "name": "Vilnius FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/144070.v1.png",
+    "stream_url": "https://stream.vilniusfm.lt/stream",
+    "website": "https://vilniusfm.lt/",
+    "provider": "onlineradiobox",
+    "country": "Lithuania",
+    "genres": [
+      "pop",
+      "news",
+      "entertainment",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:51:49+05:30"
+  },
+  {
+    "id": "onlineradiobox_lt.vilniusurban",
+    "name": "Vilnius Urban Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/119693.v3.png",
+    "stream_url": "https://relay.leproradio.com/urban.ogg",
+    "website": "https://kalaver.in/urban/",
+    "provider": "onlineradiobox",
+    "country": "Lithuania",
+    "genres": [
+      "rap",
+      "hip-hop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:52:46+05:30"
+  },
+  {
+    "id": "onlineradiobox_lt.vizija",
+    "name": "Vizija",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/89143.v1.png",
+    "stream_url": "https://stream.zeno.fm/h9unubeaqtzuv",
+    "website": "http://vizija.ga/",
+    "provider": "onlineradiobox",
+    "country": "Lithuania",
+    "genres": [
+      "dance",
+      "pop"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:52:48+05:30"
+  },
+  {
+    "id": "onlineradiobox_lt.xfm",
+    "name": "XFM",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/30238.v3.png",
+    "stream_url": "http://88.119.151.74:8001/xfm",
+    "website": "http://xfm.lt/",
+    "provider": "onlineradiobox",
+    "country": "Lithuania",
+    "genres": [
+      "pop",
+      "talk",
+      "christian",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:52:57+05:30"
+  },
+  {
+    "id": "onlineradiobox_lt.xxlfm",
+    "name": "Radijo XXL FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/116452.v1.png",
+    "stream_url": "http://91.211.246.42:8000/XXL-FM",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Lithuania",
+    "genres": [
+      "dance",
+      "pop",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:51:46+05:30"
+  },
+  {
+    "id": "onlineradiobox_lt.ziniuradijas",
+    "name": "Žiniu Radijas",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/29991.v2.png",
+    "stream_url": "https://netradio.ziniur.lt/ziniur_64.mp3",
+    "website": "http://www.ziniuradijas.lt/",
+    "provider": "onlineradiobox",
+    "country": "Lithuania",
+    "genres": [
+      "pop",
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:50:48+05:30"
+  },
+  {
+    "id": "onlineradiobox_lt.zip",
+    "name": "ZIP FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/30184.v8.png",
+    "stream_url": "https://stream2.relaxfm.lt/zipfm128.mp3",
+    "website": "http://www.zipfm.lt/",
+    "provider": "onlineradiobox",
+    "country": "Lithuania",
+    "genres": [
+      "dance",
+      "electronic"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:50:46+05:30"
+  },
+  {
+    "id": "onlineradiobox_lt.znadwillii",
+    "name": "Znad Willii",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/30176.v8.png",
+    "stream_url": "https://plays.zw.lt/zw128",
+    "website": "http://zw.lt/",
+    "provider": "onlineradiobox",
+    "country": "Lithuania",
+    "genres": [
+      "news",
+      "talk",
+      "folk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:51:45+05:30"
+  },
+  {
+    "id": "onlineradiobox_lt.zzzrockzzz",
+    "name": "zzz-rock-zzz",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/146071.v3.png",
+    "stream_url": "https://listen.radioking.com/radio/423556/stream/476950",
+    "website": "http://www.zzz-rock-zzz.com/",
+    "provider": "onlineradiobox",
+    "country": "Lithuania",
+    "genres": [
+      "rock"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T21:51:50+05:30"
+  }
+]

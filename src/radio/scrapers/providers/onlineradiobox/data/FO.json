@@ -1,0 +1,189 @@
+[
+  {
+    "id": "onlineradiobox_fo.antennawebtorshavn",
+    "name": "Antenna Web Tórshavn",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/138585.v1.png",
+    "stream_url": "https://tinyurl.com/Antenna-Web-Torshavn",
+    "website": "https://antennaweb.it/antenna-web-torshavn/",
+    "provider": "onlineradiobox",
+    "country": "Faroe Islands",
+    "genres": [
+      "rock",
+      "pop",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T19:26:15+05:30"
+  },
+  {
+    "id": "onlineradiobox_fo.fm987",
+    "name": "FM98,7",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/12760.v6.png",
+    "stream_url": "http://high.lindin.fo/",
+    "website": "http://www.stream.fo/#a2",
+    "provider": "onlineradiobox",
+    "country": "Faroe Islands",
+    "genres": [
+      "rock",
+      "pop",
+      "country",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T19:26:15+05:30"
+  },
+  {
+    "id": "onlineradiobox_fo.kringvarpfroya",
+    "name": "Kringvarp Føroya",
+    "image": "https://cdn.onlineradiobox.com/img/l/4/12084.v6.png",
+    "stream_url": "http://netvarp.kringvarp.fo:443/uvhm",
+    "website": "http://kvf.fo/",
+    "provider": "onlineradiobox",
+    "country": "Faroe Islands",
+    "genres": [
+      "rock",
+      "pop",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T19:26:13+05:30"
+  },
+  {
+    "id": "onlineradiobox_fo.lindinfm",
+    "name": "Lindin FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/12743.v3.png",
+    "stream_url": "http://lindinhigh.stream.fo:8000/lindinhigh",
+    "website": "http://www.lindin.fo/",
+    "provider": "onlineradiobox",
+    "country": "Faroe Islands",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T19:26:17+05:30"
+  },
+  {
+    "id": "onlineradiobox_fo.logting",
+    "name": "Løgtingið",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/58543.v8.png",
+    "stream_url": "https://w2.kringvarp.fo/radio/_definst_/radio.stream/playlist.m3u8",
+    "website": "http://logting.fo/",
+    "provider": "onlineradiobox",
+    "country": "Faroe Islands",
+    "genres": [
+      "pop",
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T19:26:16+05:30"
+  },
+  {
+    "id": "onlineradiobox_fo.ras2",
+    "name": "FM1",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/45393.v9.png",
+    "stream_url": "http://stream.midlar.fo/ras2",
+    "website": "http://www.midlar.fo/",
+    "provider": "onlineradiobox",
+    "country": "Faroe Islands",
+    "genres": [
+      "pop",
+      "news",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T19:26:17+05:30"
+  },
+  {
+    "id": "onlineradiobox_fo.ras2hits",
+    "name": "Ras 2 - Hits",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/136368.v3.png",
+    "stream_url": "https://streaming.radio.co/s4d14b9fcc/listen",
+    "website": "https://www.ras2.fo/",
+    "provider": "onlineradiobox",
+    "country": "Faroe Islands",
+    "genres": [
+      "pop",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T19:26:16+05:30"
+  },
+  {
+    "id": "onlineradiobox_fo.sjey",
+    "name": "Sjey",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/108327.v1.png",
+    "stream_url": "http://lurta.sjey.fo:8080/high_aac",
+    "website": "https://www.sjey.fo/",
+    "provider": "onlineradiobox",
+    "country": "Faroe Islands",
+    "genres": [
+      "talk",
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T19:26:13+05:30"
+  },
+  {
+    "id": "onlineradiobox_fo.tzgospel",
+    "name": "Tzgospel Faroe island",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/128639.v1.png",
+    "stream_url": "https://stream.zeno.fm/ear2y17dgfhvv",
+    "website": "https://zeno.fm/radio/tzgospel-faroe-islands/",
+    "provider": "onlineradiobox",
+    "country": "Faroe Islands",
+    "genres": [
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T19:26:17+05:30"
+  },
+  {
+    "id": "onlineradiobox_fo.voxpopradio",
+    "name": "VoxPop Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/3/12703.v5.png",
+    "stream_url": "https://stream-secure.midlar.fo/voxpop-128",
+    "website": "http://midlar.fo/",
+    "provider": "onlineradiobox",
+    "country": "Faroe Islands",
+    "genres": [
+      "pop",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T19:26:14+05:30"
+  }
+]

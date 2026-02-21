@@ -1,0 +1,97 @@
+[
+  {
+    "id": "onlineradiobox_sb.antennawebhoniara",
+    "name": "Antenna Web Honiara",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/138408.v1.png",
+    "stream_url": "https://tinyurl.com/Antenna-Web-Honiara",
+    "website": "https://antennaweb.it/antenna-web-honiara/",
+    "provider": "onlineradiobox",
+    "country": "Solomon Islands",
+    "genres": [
+      "rock",
+      "pop",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:37:14+05:30"
+  },
+  {
+    "id": "onlineradiobox_sb.bbcworldservice",
+    "name": "BBC World Service",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/48155.v7.png",
+    "stream_url": "https://stream.live.vc.bbcmedia.co.uk/bbc_world_service",
+    "website": "http://www.bbc.co.uk/worldserviceradio",
+    "provider": "onlineradiobox",
+    "country": "Solomon Islands",
+    "genres": [
+      "news",
+      "talk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:37:13+05:30"
+  },
+  {
+    "id": "onlineradiobox_sb.beta",
+    "name": "Station Beta",
+    "image": "https://cdn.onlineradiobox.com/img/logo/8/124878.png",
+    "stream_url": "https://stream.zeno.fm/xkvrditf6astv",
+    "website": "https://beta.co.ke/",
+    "provider": "onlineradiobox",
+    "country": "Solomon Islands",
+    "genres": [
+      "pop",
+      "top40",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:37:16+05:30"
+  },
+  {
+    "id": "onlineradiobox_sb.sibc",
+    "name": "SIBC",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/63357.v10.png",
+    "stream_url": "http://mixlr.com/sibconline/",
+    "website": "http://www.sibconline.com.sb/",
+    "provider": "onlineradiobox",
+    "country": "Solomon Islands",
+    "genres": [
+      "pop",
+      "news",
+      "talk",
+      "culture"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:37:15+05:30"
+  },
+  {
+    "id": "onlineradiobox_sb.tzgospelswahili",
+    "name": "Tzgospel (Solomon islands)",
+    "image": "https://cdn.onlineradiobox.com/img/l/0/119690.v4.png",
+    "stream_url": "https://stream.zeno.fm/607x8xbnffhvv",
+    "website": "",
+    "provider": "onlineradiobox",
+    "country": "Solomon Islands",
+    "genres": [
+      "news",
+      "christian",
+      "gospel"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:37:15+05:30"
+  }
+]

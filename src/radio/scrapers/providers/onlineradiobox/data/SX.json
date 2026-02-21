@@ -1,0 +1,156 @@
+[
+  {
+    "id": "onlineradiobox_sx.caribbeanshine",
+    "name": "Have A Blast Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/5/97925.v3.png",
+    "stream_url": "https://canada1.reliastream.com/proxy/techwor1?mp=/stream",
+    "website": "https://www.haveablastradio.com/",
+    "provider": "onlineradiobox",
+    "country": "Sint Maarten",
+    "genres": [
+      "variety"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:48:44+05:30"
+  },
+  {
+    "id": "onlineradiobox_sx.island92fm",
+    "name": "Island 92 FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/9/50029.v3.png",
+    "stream_url": "https://ais-sa1.streamon.fm/7338_48k.aac/playlist.m3u8",
+    "website": "http://www.island92.com/",
+    "provider": "onlineradiobox",
+    "country": "Sint Maarten",
+    "genres": [
+      "rock",
+      "blues"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:48:42+05:30"
+  },
+  {
+    "id": "onlineradiobox_sx.laser",
+    "name": "Laser FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/2/50052.v8.png",
+    "stream_url": "https://live2.tensila.com/ch1-a-1.philbro/hls/master.m3u8",
+    "website": "http://laser101.fm/",
+    "provider": "onlineradiobox",
+    "country": "Sint Maarten",
+    "genres": [
+      "r'n'b",
+      "pop",
+      "hip-hop",
+      "soul",
+      "top40"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:48:40+05:30"
+  },
+  {
+    "id": "onlineradiobox_sx.oasisfm",
+    "name": "Radio Oasis FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/7/48687.v3.png",
+    "stream_url": "https://live2.tensila.com/ch2-a-1.philbro/hls/master.m3u8",
+    "website": "http://oasis963.fm/",
+    "provider": "onlineradiobox",
+    "country": "Sint Maarten",
+    "genres": [
+      "90s",
+      "80s",
+      "70s",
+      "60s",
+      "50s",
+      "adult contemporary"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:48:41+05:30"
+  },
+  {
+    "id": "onlineradiobox_sx.pjd2",
+    "name": "PJD2 Radio",
+    "image": "https://cdn.onlineradiobox.com/img/l/8/50028.v5.png",
+    "stream_url": "https://pjd2radioam.radioca.st/;",
+    "website": "https://pjd2radiosxm.com/",
+    "provider": "onlineradiobox",
+    "country": "Sint Maarten",
+    "genres": [
+      "pop",
+      "news",
+      "talk",
+      "weather",
+      "entertainment"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:48:41+05:30"
+  },
+  {
+    "id": "onlineradiobox_sx.pjd2voiceofsintmaarten",
+    "name": "PJD2 Voice of Sint Maarten",
+    "image": "https://cdn.onlineradiobox.com/img/l/6/106936.v7.png",
+    "stream_url": "https://pjd2radiofm.radioca.st/;",
+    "website": "https://pjd2radiosxm.com/",
+    "provider": "onlineradiobox",
+    "country": "Sint Maarten",
+    "genres": [
+      "pop",
+      "news",
+      "hits"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:48:39+05:30"
+  },
+  {
+    "id": "onlineradiobox_sx.tropixx",
+    "name": "Tropixx FM",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/49771.v5.png",
+    "stream_url": "https://live2.tensila.com/ch3-a-1.philbro/hls/master.m3u8",
+    "website": "http://www.tropixx.fm/",
+    "provider": "onlineradiobox",
+    "country": "Sint Maarten",
+    "genres": [
+      "reggae",
+      "salsa",
+      "zouk"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:48:39+05:30"
+  },
+  {
+    "id": "onlineradiobox_sx.zdk",
+    "name": "ZDK",
+    "image": "https://cdn.onlineradiobox.com/img/l/1/146191.v2.png",
+    "stream_url": "https://listen.radioking.com/radio/553268/stream/612593",
+    "website": "https://zdkradio.com/",
+    "provider": "onlineradiobox",
+    "country": "Sint Maarten",
+    "genres": [
+      "reggae"
+    ],
+    "languages": [],
+    "description": "",
+    "status": "untested",
+    "codec": "unknown",
+    "last_tested_at": "2026-02-20T23:48:43+05:30"
+  }
+]
