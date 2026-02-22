@@ -282,3 +282,43 @@ export const songsDetailsMapper = (data: any) => {
 
   return { songs, sections };
 };
+
+export const channelDataMapper = (data: any): HomeSection[] => {
+  const sections: HomeSection[] = [];
+
+  if (data.top_playlists && Array.isArray(data.top_playlists)) {
+    sections.push({
+      heading: data.modules?.top_playlists?.title || 'Top Playlists',
+      data: data.top_playlists.map(mapSaavnPlaylist),
+      source: 'saavn',
+    });
+  }
+
+  if (data.top_songs && Array.isArray(data.top_songs)) {
+    sections.push({
+      heading: data.modules?.top_songs?.title || 'Top Songs',
+      data: data.top_songs.map(mapSaavnSong),
+      source: 'saavn',
+    });
+  }
+
+  // Generic handling for any other modules that might be added
+  if (data.modules) {
+    Object.keys(data.modules).forEach((key) => {
+      if (
+        !['top_playlists', 'top_songs'].includes(key) &&
+        data[key] &&
+        Array.isArray(data[key]) &&
+        data[key].length > 0
+      ) {
+        sections.push({
+          heading: data.modules[key].title || toSentenceCase(key),
+          data: data[key].map((item: any) => dataSanitizer(item)),
+          source: 'saavn',
+        });
+      }
+    });
+  }
+
+  return sections;
+};

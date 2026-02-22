@@ -136,15 +136,17 @@ export const mapSaavnPlaylist = (data: any): Playlist => {
 export const mapSaavnChannel = (data: any): Channel => {
   const url = dataExtractor<string>(data, saavnDataConfigs.home.token);
   const id = dataExtractor<string>(data, saavnDataConfigs.home.id);
+  const language = dataExtractor<string>(data, saavnDataConfigs.home.moreInfo.language);
+  const stationType = dataExtractor<string>(data, saavnDataConfigs.home.moreInfo.stationType);
 
   return {
     id: getToken(url || '') || id,
     title: dataExtractor(data, saavnDataConfigs.home.title),
-    subtitle: dataExtractor(data, saavnDataConfigs.home.subtitle),
-    type: 'channel',
+    subtitle: dataExtractor(data, saavnDataConfigs.home.subtitle) || language,
+    type: stationType ? 'radio_station' : 'channel',
     image: createImageLinks(dataExtractor(data, saavnDataConfigs.home.images)),
-    language: dataExtractor(data, saavnDataConfigs.home.moreInfo.language),
-    stationType: dataExtractor(data, saavnDataConfigs.home.moreInfo.stationType),
+    language,
+    stationType,
     source: 'saavn',
     url: url,
   };

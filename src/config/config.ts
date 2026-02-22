@@ -75,6 +75,9 @@ export const config = {
         footer_details: 'webapi.getFooterDetails',
         mega_menu: 'webapi.getBrowseHoverDetails',
       },
+      channel: {
+        id: 'channel.getDetails',
+      },
     },
   },
 };

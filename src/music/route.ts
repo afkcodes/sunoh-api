@@ -15,6 +15,7 @@ import {
 import {
   albumController as saavnAlbumController,
   albumRecommendationController as saavnAlbumRecommendationController,
+  channelController as saavnChannelController,
   homeController as saavnHomeController,
   playlistController as saavnPlaylistController,
   searchController as saavnSearchController,
@@ -125,9 +126,16 @@ export const musicRoutes = async (fastify: FastifyInstance) => {
   fastify.get('/occasions/:slug', (req, reply) => {
     const { provider } = req.query as any;
     if (provider === 'gaana') return gaanaOccasionDetailController(req as any, reply);
+    if (provider === 'saavn') {
+      const { slug } = req.params as any;
+      (req.params as any).channelId = slug;
+      return saavnChannelController(req as any, reply);
+    }
     reply
       .status(400)
-      .send({ error: 'Occasion details are only supported for Gaana provider currently' });
+      .send({
+        error: 'Occasion details are only supported for Gaana and Saavn provider currently',
+      });
   });
 
   fastify.get('/occasions/:id/items', (req, reply) => {

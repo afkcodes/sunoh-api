@@ -10,6 +10,7 @@ import {
   albumDataMapper,
   artistDataMapper,
   autoCompleteDataMapper,
+  channelDataMapper,
   dataSanitizer,
   homeDataMapper,
   modulesDataMapper,
@@ -41,6 +42,7 @@ type SaavnRequest = FastifyRequest<{
     mixId: string;
     artistId: string;
     songId: string;
+    channelId: string;
   };
 }>;
 
@@ -910,11 +912,48 @@ const recommendedSongsController = async (req: SaavnRequest, res: FastifyReply) 
   }
 };
 
+const channelController = async (req: SaavnRequest, res: FastifyReply) => {
+  const { channelId } = req.params as any;
+  const { page = 1, count = 50 } = req.query as any;
+  const languages = req.query.lang || req.query.languages;
+  const key = `saavn_channel_${channelId}_${page}_${count}_${languages || 'default'}`;
+
+  try {
+    const cached = await cache.get(key);
+    if (cached) return sendSuccess(res, cached, 'OK (Cached)', 'saavn');
+
+    const url = `${config.saavn.baseUrl}`;
+    const { data, code, error, message } = await saavnFetch<any>(url, {
+      params: {
+        __call: config.saavn.endpoint.channel.id,
+        channel_id: channelId,
+        type: 'channel',
+        p: page,
+        n: count,
+        includeMetaTags: 0,
+        ...params,
+      },
+      lang: languages,
+    });
+
+    if (error) {
+      return sendError(res, message || 'Failed to fetch channel details', error, code);
+    }
+
+    const sanitizedData = channelDataMapper(data);
+    await cache.set(key, sanitizedData, 10800);
+    return sendSuccess(res, sanitizedData, message, 'saavn', code);
+  } catch (error) {
+    return sendError(res, 'Internal server error', error);
+  }
+};
+
 export {
   albumController,
   albumRecommendationController,
   artistController,
   artistStationController,
+  channelController,
   entityStationController,
   featuredStationsController,
   homeController,
