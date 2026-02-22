@@ -284,36 +284,40 @@ export const songsDetailsMapper = (data: any) => {
 };
 
 export const channelDataMapper = (data: any): HomeSection[] => {
+  // Saavn sometimes wraps the response in a 'data' field or returns it directly
+  const source = data?.data || data;
   const sections: HomeSection[] = [];
 
-  if (data.top_playlists && Array.isArray(data.top_playlists)) {
+  if (!source) return sections;
+
+  if (source.top_playlists && Array.isArray(source.top_playlists)) {
     sections.push({
-      heading: data.modules?.top_playlists?.title || 'Top Playlists',
-      data: data.top_playlists.map(mapSaavnPlaylist),
+      heading: source.modules?.top_playlists?.title || 'Top Playlists',
+      data: source.top_playlists.map(mapSaavnPlaylist),
       source: 'saavn',
     });
   }
 
-  if (data.top_songs && Array.isArray(data.top_songs)) {
+  if (source.top_songs && Array.isArray(source.top_songs)) {
     sections.push({
-      heading: data.modules?.top_songs?.title || 'Top Songs',
-      data: data.top_songs.map(mapSaavnSong),
+      heading: source.modules?.top_songs?.title || 'Top Songs',
+      data: source.top_songs.map(mapSaavnSong),
       source: 'saavn',
     });
   }
 
   // Generic handling for any other modules that might be added
-  if (data.modules) {
-    Object.keys(data.modules).forEach((key) => {
+  if (source.modules) {
+    Object.keys(source.modules).forEach((key) => {
       if (
         !['top_playlists', 'top_songs'].includes(key) &&
-        data[key] &&
-        Array.isArray(data[key]) &&
-        data[key].length > 0
+        source[key] &&
+        Array.isArray(source[key]) &&
+        source[key].length > 0
       ) {
         sections.push({
-          heading: data.modules[key].title || toSentenceCase(key),
-          data: data[key].map((item: any) => dataSanitizer(item)),
+          heading: source.modules[key].title || toSentenceCase(key),
+          data: source[key].map((item: any) => dataSanitizer(item)),
           source: 'saavn',
         });
       }

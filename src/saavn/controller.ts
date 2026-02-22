@@ -922,11 +922,16 @@ const channelController = async (req: SaavnRequest, res: FastifyReply) => {
     const cached = await cache.get(key);
     if (cached) return sendSuccess(res, cached, 'OK (Cached)', 'saavn');
 
+    // Detect if channelId is a token (perma_url segment) or a numeric ID
+    // Tokens usually contain non-numeric characters and are longer
+    const isToken = isNaN(Number(channelId));
+    console.log(`📦 Saavn: Fetching channel detail`, { channelId, isToken });
+
     const url = `${config.saavn.baseUrl}`;
     const { data, code, error, message } = await saavnFetch<any>(url, {
       params: {
-        __call: config.saavn.endpoint.channel.id,
-        channel_id: channelId,
+        __call: isToken ? config.saavn.endpoint.channel.token : config.saavn.endpoint.channel.id,
+        [isToken ? 'token' : 'channel_id']: channelId,
         type: 'channel',
         p: page,
         n: count,
@@ -940,10 +945,29 @@ const channelController = async (req: SaavnRequest, res: FastifyReply) => {
       return sendError(res, message || 'Failed to fetch channel details', error, code);
     }
 
+    // Log the structure for debugging if data is empty
+    if (
+      !data ||
+      (Array.isArray(data) && data.length === 0) ||
+      (data.status === 'success' && !data.data)
+    ) {
+      console.warn(`⚠️ Saavn API returned empty data for channel: ${channelId}`, {
+        keys: data ? Object.keys(data) : 'null',
+      });
+    }
+
     const sanitizedData = channelDataMapper(data);
+
+    if (sanitizedData.length === 0) {
+      console.warn(`⚠️ channelDataMapper returned no sections for channel: ${channelId}`);
+    } else {
+      console.log(`✅ Saavn: Mapped ${sanitizedData.length} sections for channel: ${channelId}`);
+    }
+
     await cache.set(key, sanitizedData, 10800);
     return sendSuccess(res, sanitizedData, message, 'saavn', code);
   } catch (error) {
+    console.error(`❌ Error in channelController:`, error);
     return sendError(res, 'Internal server error', error);
   }
 };

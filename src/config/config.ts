@@ -77,6 +77,7 @@ export const config = {
       },
       channel: {
         id: 'channel.getDetails',
+        token: 'webapi.get',
       },
     },
   },
