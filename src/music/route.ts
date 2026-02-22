@@ -131,11 +131,9 @@ export const musicRoutes = async (fastify: FastifyInstance) => {
       (req.params as any).channelId = slug;
       return saavnChannelController(req as any, reply);
     }
-    reply
-      .status(400)
-      .send({
-        error: 'Occasion details are only supported for Gaana and Saavn provider currently',
-      });
+    reply.status(400).send({
+      error: 'Occasion details are only supported for Gaana and Saavn provider currently',
+    });
   });
 
   fastify.get('/occasions/:id/items', (req, reply) => {

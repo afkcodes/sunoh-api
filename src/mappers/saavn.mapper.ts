@@ -140,7 +140,7 @@ export const mapSaavnChannel = (data: any): Channel => {
   const stationType = dataExtractor<string>(data, saavnDataConfigs.home.moreInfo.stationType);
 
   return {
-    id: getToken(url || '') || id,
+    id: id || getToken(url || ''),
     title: dataExtractor(data, saavnDataConfigs.home.title),
     subtitle: dataExtractor(data, saavnDataConfigs.home.subtitle) || language,
     type: stationType ? 'radio_station' : 'channel',
