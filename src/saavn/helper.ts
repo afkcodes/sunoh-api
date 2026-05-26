@@ -315,9 +315,24 @@ export const channelDataMapper = (data: any): HomeSection[] => {
         Array.isArray(source[key]) &&
         source[key].length > 0
       ) {
+        const mapped = source[key].map((item: any) => dataSanitizer(item));
+        // The `quick_stations` slot (and any other module saavn fills
+        // with `type: radio_station` tiles) carries curated stations
+        // that aren't seedable through the public radio API — saavn
+        // returns `No new song found` for every variant of
+        // createFeaturedStation / createTagStation we try. Drop the
+        // section so the channel screen doesn't render unplayable
+        // tiles. If a section is *partially* radio_stations, the
+        // playable items survive — only the all-station sections
+        // are killed.
+        const allStations =
+          mapped.length > 0 && mapped.every((it: any) => it?.type === 'radio_station');
+        if (allStations) return;
+        const filtered = mapped.filter((it: any) => it?.type !== 'radio_station');
+        if (filtered.length === 0) return;
         sections.push({
           heading: source.modules[key].title || toSentenceCase(key),
-          data: source[key].map((item: any) => dataSanitizer(item)),
+          data: filtered,
           source: 'saavn',
         });
       }
