@@ -271,17 +271,32 @@ const playlistController = async (req: SaavnRequest, res: FastifyReply) => {
     const cached = await cache.get(key);
     if (cached) return sendSuccess(res, cached, 'OK (Cached)', 'saavn');
 
+    // Channels expose playlists by their numeric `listing_id` (e.g.
+    // "154546814") instead of the perma_url token that `webapi.get`
+    // needs. Use saavn's `playlist.getDetails` for those — its response
+    // has the same `list[]` + `modules{}` shape `mapSaavnPlaylist` /
+    // `playlistDataMapper` already read, so no remap is required.
+    const isNumericId = /^\d+$/.test(playlistId);
+
     const url = `${config.saavn.baseUrl}`;
     const { data, code, error, message } = await saavnFetch<any>(url, {
-      params: {
-        __call: config.saavn.endpoint.playlist.token,
-        token: playlistId,
-        type: 'playlist',
-        includeMetaTags: 0,
-        n: count,
-        p: page,
-        ...params,
-      },
+      params: isNumericId
+        ? {
+            __call: config.saavn.endpoint.playlist.id,
+            listid: playlistId,
+            n: count,
+            p: page,
+            ...params,
+          }
+        : {
+            __call: config.saavn.endpoint.playlist.token,
+            token: playlistId,
+            type: 'playlist',
+            includeMetaTags: 0,
+            n: count,
+            p: page,
+            ...params,
+          },
       lang: languages,
     });
 
