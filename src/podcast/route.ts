@@ -12,12 +12,17 @@ import {
   podcastShowController,
   podcastsByCategoryController,
   podcastsCategoriesController,
+  podcastsHomeController,
   podcastsRecentController,
   podcastsSearchController,
   podcastsTrendingController,
 } from './controller';
 
 export async function podcastRoutes(fastify: FastifyInstance) {
+  // Aggregated home — country-aware multi-section feed for the
+  // Podcasts tab (mirrors /music/home's shape).
+  fastify.get('/home', podcastsHomeController);
+
   // Discovery
   fastify.get('/trending', podcastsTrendingController);
   fastify.get('/recent', podcastsRecentController);
