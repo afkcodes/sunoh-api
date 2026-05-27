@@ -13,6 +13,7 @@ import {
   getSaavnSongRecommendData,
   getSaavnTopSearchData,
   artistStationController as saavnArtistStationController,
+  entityStationController as saavnEntityStationController,
   featuredStationsController as saavnFeaturedStationsController,
   stationController as saavnStationController,
   stationSongsController as saavnStationSongsController,
@@ -53,18 +54,58 @@ export const unifiedRadioSessionController = async (req: FastifyRequest, res: Fa
       const resp = (await saavnStationController(mockReq, mockRes)) as any;
       if (resp?.status === 'success') stationId = resp.data.stationid;
     } else {
-      // Create Entity Station (Song/Entity)
-      const mockReq = {
-        query: { entityId: id, entityType: type, lang: languages },
-      } as any;
-      // Using saavnStationController from import which maps to createEntityStation usually or we check imports
-      // In imports: stationController as saavnStationController.
-      // Wait, saavnStationController in controller.ts (line 350) is for FEATURED stations.
-      // We need entityStationController for songs.
-      // Let's check imports in music/controller.ts
+      // Create Entity Station (Song/Entity).
+      //
+      // The Saavn "radio from song" endpoint requires a SAAVN entity id.
+      // The home feed mixes providers, so callers often pass a Gaana
+      // slug here ("dhurandhar-the-revenge-aari-aari-..." style). Saavn
+      // then returns a stationid that can't actually be queried — the
+      // subsequent /music/radio/<sessionId> call 400s with "Failed to
+      // fetch Saavn radio songs".
+      //
+      // Detect non-Saavn ids by the presence of a hyphen (Saavn ids are
+      // hash-form like 'dBpgQ_v3' or numeric; Gaana ids are slugs) or
+      // when the caller signalled a non-saavn provider — and search
+      // Saavn by `name` (or `query` / id) to find the real entity id.
+      // If the search yields nothing, fall through to the original id
+      // (best-effort; a clean error response is better than a silent
+      // mis-match).
+      let entityId: string = id;
+      const looksGaana = typeof id === 'string' && (id.includes('-') || id.length > 16);
+      if ((provider && provider !== 'saavn') || looksGaana) {
+        const searchQuery = (name || query || id || '').toString().trim();
+        if (searchQuery) {
+          try {
+            const searchRes: any = await getSaavnSearchData(searchQuery, 'songs', 1, 5, languages);
+            const top = searchRes?.list?.[0];
+            // `songId` is Saavn's canonical id used by the radio endpoint
+            // (e.g. "dq6oL2dA"); `id` is a different hash on each row
+            // and Saavn's radio creator rejects it ("No new song found
+            // for current radio"). RN's useAutoQueue.ts hits the same
+            // priority. Don't swap these around.
+            const topId = top?.songId || top?.id;
+            if (topId) {
+              console.log(
+                `[unifiedRadioSession] pivot: "${id}" → "${topId}" via search "${searchQuery}"`,
+              );
+              entityId = topId;
+            } else {
+              console.warn(
+                `[unifiedRadioSession] pivot: search "${searchQuery}" returned no songs; using original id "${id}"`,
+              );
+            }
+          } catch (e: any) {
+            console.warn(
+              `[unifiedRadioSession] pivot: search threw (${e?.message || e}); using original id "${id}"`,
+            );
+          }
+        }
+      }
 
-      const { entityStationController } = require('../saavn/controller');
-      const resp = (await entityStationController(mockReq, mockRes)) as any;
+      const mockReq = {
+        query: { entityId, entityType: type, lang: languages },
+      } as any;
+      const resp = (await saavnEntityStationController(mockReq, mockRes)) as any;
       if (resp?.status === 'success') stationId = resp.data.stationid;
     }
 
