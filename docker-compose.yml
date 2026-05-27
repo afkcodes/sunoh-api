@@ -5,6 +5,15 @@ services:
     build: .
     ports:
       - "127.0.0.1:3600:3600"   # Only accessible locally (not public)
+    # Secrets (PODCASTINDEX_KEY / PODCASTINDEX_SECRET and any other API
+    # keys) live in a `.env` file NEXT TO this compose file on the VPS.
+    # Docker reads it on `compose up` and injects each line as an env
+    # var inside the container — no rebuild needed when secrets rotate.
+    # The file is gitignored at the repo root (see .gitignore); do NOT
+    # commit it. If the file is missing, `compose up` will still start
+    # but anything that reads those vars (e.g. /podcasts/*) will 503.
+    env_file:
+      - .env
     environment:
       - PORT=3600
       - REDIS_HOST=redis

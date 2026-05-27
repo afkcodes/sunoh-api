@@ -1,0 +1,25 @@
+# Keep secrets out of the image layer. Runtime env injection happens via
+# docker-compose's `env_file` (reads .env from the host at `up` time);
+# baking .env into the image would leak the keys into every saved tag
+# + image registry push.
+.env
+.env.*
+
+# Bulk that slows the build context upload and either gets clobbered by
+# `npm ci` (node_modules) or just isn't needed at runtime.
+node_modules
+.git
+.gitignore
+dist
+build
+coverage
+tmp
+
+# Editor / IDE noise
+.vscode
+.idea
+.DS_Store
+*.swp
+
+# Vercel-specific (not used in the docker path)
+.vercel
