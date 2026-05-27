@@ -25,8 +25,12 @@ export const unifiedRadioSessionController = async (req: FastifyRequest, res: Fa
   const languages = (req.query as any).lang || (req.query as any).languages || 'hindi,english';
 
   try {
-    // 1. Gaana: No creation step needed, just return ID prefixed
-    if (provider === 'gaana') {
+    // 1. Gaana early-return: ONLY valid when the caller is asking for a
+    // Gaana radio_station id directly (featured channels etc.). Gaana
+    // has no "radio from a song id" endpoint, so when type='song' we
+    // fall through to the Saavn path below — which has the search pivot
+    // that normalises a Gaana song slug to a Saavn songId.
+    if (provider === 'gaana' && type !== 'song') {
       return sendSuccess(res, { stationId: `gaana_${id}` }, 'Radio session created', 'unified');
     }
 
