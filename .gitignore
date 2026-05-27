@@ -2,3 +2,11 @@
 node_modules
 yarn.lock
 dist
+
+# Local env files. Carry API keys + secrets (PodcastIndex, etc.) — must
+# never reach the remote. `.env.development` used to be tracked; it was
+# `git rm --cached`'d when the PodcastIndex creds went in. Check
+# `git ls-files | grep '\.env'` before committing if in doubt.
+.env
+.env.*
+!.env.example

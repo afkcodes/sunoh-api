@@ -3,6 +3,7 @@ import { gaanaRoutes } from './gaana/route';
 import { lyricsRoutes } from './lyrics/route';
 import { musicRoutes } from './music/route';
 import { play } from './play';
+import { podcastRoutes } from './podcast/route';
 import { proxyImage } from './proxyImage';
 import { saavnRoutes } from './saavn/route';
 import { spotifyRoutes } from './spotify/route';
@@ -31,6 +32,12 @@ const entry = (fastify: FastifyInstance, _opts: FastifyServerOptions, done: () =
   // Other Services
   fastify.register(lyricsRoutes, { prefix: '/lyrics' });
   fastify.register(liveMusicRoutes, { prefix: '/live' });
+  // Podcasts — backed by PodcastIndex.org via HMAC-style auth (the
+  // creds stay server-side in process.env). Mappers normalise to the
+  // unified FeedItem schema with `type: 'podcast'` for shows and
+  // `type: 'episode'` for episodes; episode `mediaUrls[0].link` is the
+  // raw enclosure URL so the Flutter resolver plays it directly.
+  fastify.register(podcastRoutes, { prefix: '/podcasts' });
 
   done();
 };
