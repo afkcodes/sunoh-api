@@ -15,43 +15,142 @@
 import type { FastifyReply, FastifyRequest } from 'fastify';
 
 import { cache } from '../redis';
-import type { HomeSection } from '../types';
+import type { HomeSection, PodcastShow } from '../types';
 import { sendError, sendSuccess } from '../utils/response';
 import { podcastIndexConfigured, podcastIndexFetch } from './client';
+import { appleTopByGenre, appleTopOverall, type AppleChartEntry } from './itunes';
 import { mapPodcastEpisode, mapPodcastEpisodes, mapPodcastShow, mapPodcastShows } from './mappers';
 
 const SOURCE = 'podcastindex';
 
 // Country-scoped editorial mix for the /podcasts/home aggregator.
-// `languages` is the comma-separated ISO list passed straight through
-// to PodcastIndex's `lang=` filter. `label` flavours section headings
-// ("Trending in India" vs "Trending in US"). `categories` is the list
-// of PodcastIndex category names to surface as per-country rows.
 //
-// Mixing English INTO a regional list (e.g. `hi,en`) makes US/UK
-// English content dominate the response and dilutes the regional
-// signal — verified empirically. So the regional list is intentionally
-// language-pure; English content comes through the "Globally trending"
-// section at the bottom.
-const COUNTRY_CONFIG: Record<string, { label: string; languages: string; categories: string[] }> = {
+// `appleCode` is the lowercase ISO-3166 alpha-2 used in Apple's URLs
+// (Apple uses storefront codes; they match ISO for the countries we care
+// about). `label` flavours section headings ("Top podcasts in India").
+// `sections` defines the genre rows that follow the "Top podcasts"
+// hero — each one fetches Apple's per-genre top chart.
+//
+// Switched from PodcastIndex's /podcasts/trending (feed-activity driven,
+// surfaced too much SEO noise) to Apple's curated charts (editorial +
+// real listening data, per storefront). The iTunes IDs Apple returns are
+// then resolved back through PodcastIndex's /podcasts/byitunesid so
+// playback, episodes, and search keep using the same provider.
+//
+// Apple genre IDs (iTunes Podcast taxonomy — superset documented in
+// itunes.ts):
+//   1303 Comedy · 1304 Education · 1310 Music · 1311 News
+//   1314 Religion & Spirituality · 1315 Science · 1316 Sports
+//   1318 Technology · 1321 Business · 1324 Society & Culture
+//   1480 Arts · 1488 History · 1489 Fiction · 1545 True Crime
+interface HomeSectionConfig {
+  heading: string;
+  genreId?: string; // undefined → top-overall chart
+}
+const COUNTRY_CONFIG: Record<
+  string,
+  { label: string; appleCode: string; sections: HomeSectionConfig[] }
+> = {
   IN: {
     label: 'India',
-    // Hindi + the major Indian regional languages. Drop any you don't
-    // want — but keep English OUT (see comment above).
-    languages: 'hi,ta,te,bn,mr,pa,gu,kn,ml',
-    // Category names must match PodcastIndex's taxonomy verbatim — fetch
-    // /categories to see the list. Notably "Society" and "Culture" are
-    // SEPARATE categories there (not the iTunes-style "Society &
-    // Culture" combo) so use one or the other.
-    categories: ['News', 'Comedy', 'Society', 'Education'],
+    appleCode: 'in',
+    sections: [
+      { heading: 'Top podcasts in India' },
+      { heading: 'News', genreId: '1311' },
+      { heading: 'Comedy', genreId: '1303' },
+      { heading: 'Society & Culture', genreId: '1324' },
+      { heading: 'Business', genreId: '1321' },
+      { heading: 'Education', genreId: '1304' },
+    ],
   },
   US: {
     label: 'US',
-    languages: 'en',
-    categories: ['News', 'Comedy', 'Technology', 'Sports'],
+    appleCode: 'us',
+    sections: [
+      { heading: 'Top podcasts' },
+      { heading: 'News', genreId: '1311' },
+      { heading: 'Comedy', genreId: '1303' },
+      { heading: 'Technology', genreId: '1318' },
+      { heading: 'Business', genreId: '1321' },
+      { heading: 'Society & Culture', genreId: '1324' },
+    ],
   },
 };
 const DEFAULT_COUNTRY = 'IN';
+
+/** Per-section tile count fetched from Apple. We over-fetch slightly
+ *  vs the final visible count because byitunesid sometimes misses
+ *  (the show isn't in PodcastIndex) — over-fetching keeps each section
+ *  full after misses. */
+const APPLE_FETCH_COUNT = 20;
+/** Final cap on tiles per section after PodcastIndex resolution. */
+const PER_SECTION_CAP = 12;
+
+/**
+ * Resolve a batch of Apple chart entries to PodcastIndex shows.
+ *
+ * Apple gives us iTunes IDs; everything else (episodes, playback,
+ * subscriptions) flows through PodcastIndex which keys by its own feed
+ * id. `/podcasts/byitunesid?id={id}` is the bridge: one call per id,
+ * returns the same `feed` object that `/podcasts/byfeedid` does, so
+ * `mapPodcastShow` handles both unchanged.
+ *
+ * Results are cached per-id for 7 d in Redis — show metadata barely
+ * changes day to day, and an iTunes id is a stable identifier across
+ * the entire system. With the cache warm, a home request resolves to
+ * ~0 PodcastIndex calls; cold, ~12 per section.
+ *
+ * Entries that PodcastIndex doesn't have are dropped silently (their
+ * mapped show would be useless — no feed id, no episodes).
+ */
+async function resolveByItunesIds(entries: AppleChartEntry[]): Promise<PodcastShow[]> {
+  if (entries.length === 0) return [];
+  const keys = entries.map((e) => `podcast_byitunes_v1_${e.itunesId}`);
+
+  // 1) Multi-get from cache up front so warm hits cost zero round trips.
+  let cached: Array<PodcastShow | null> = entries.map(() => null);
+  try {
+    const got = await cache.getMany<PodcastShow>(keys);
+    if (Array.isArray(got) && got.length === entries.length) cached = got;
+  } catch {
+    /* cache offline — fall through */
+  }
+
+  // 2) Fetch only the gaps from PodcastIndex, in parallel.
+  const misses = entries.map((e, i) => ({ e, i })).filter(({ i }) => !cached[i]);
+  const fetched = await Promise.allSettled(
+    misses.map(({ e }) => podcastIndexFetch('/podcasts/byitunesid', { id: e.itunesId })),
+  );
+  const newlyResolved: Array<{ idx: number; show: PodcastShow }> = [];
+  fetched.forEach((r, k) => {
+    const { i } = misses[k];
+    if (r.status !== 'fulfilled' || !r.value.ok || !r.value.data?.feed) return;
+    const feed = r.value.data.feed;
+    // PodcastIndex returns a non-null `feed` even when the show isn't in
+    // the index, but its `id` is 0 and `title` is empty. Filter those.
+    if (!feed.id || !feed.title) return;
+    const show = mapPodcastShow(feed);
+    newlyResolved.push({ idx: i, show });
+  });
+
+  // 3) Write fresh entries back to cache via pipelined setMany.
+  if (newlyResolved.length > 0) {
+    const writes: Record<string, PodcastShow> = {};
+    newlyResolved.forEach(({ idx, show }) => {
+      writes[keys[idx]] = show;
+      cached[idx] = show;
+    });
+    try {
+      await cache.setMany(writes, 60 * 60 * 24 * 7);
+    } catch {
+      /* cache write blip — ignore */
+    }
+  }
+
+  // 4) Preserve Apple's chart order — that's the editorial signal we
+  // came here for. Drop misses (nulls).
+  return cached.filter((s): s is PodcastShow => s !== null);
+}
 
 /**
  * Best-effort country resolution for the /podcasts/home aggregator.
@@ -421,92 +520,82 @@ export const podcastEpisodeController = async (req: FastifyRequest, res: Fastify
  * renderer.
  *
  * Sections (per-country, from COUNTRY_CONFIG):
- *   - Trending in <country>            (lang=<regional list>)
- *   - <Category 1> in <country>        (lang=…, cat=…)
- *   - <Category 2> in <country>        (lang=…, cat=…)
+ *   - Top podcasts in <country>          (Apple top-overall chart)
+ *   - <Genre 1>                          (Apple top by genre)
+ *   - <Genre 2>                          (Apple top by genre)
  *   - …
- *   - Trending globally                (lang=en — English content
- *                                       dominated by US/UK)
  *
- * Cached in Redis for 1 h per country code. Trending shifts hourly-ish
- * on PodcastIndex; longer than that and the home view starts feeling
- * stale.
+ * Data flow per section:
+ *   1. Apple chart → list of iTunes IDs (24 h cache).
+ *   2. iTunes IDs → PodcastIndex shows via /podcasts/byitunesid
+ *      (7 d cache per id).
+ *   3. Trim each section to PER_SECTION_CAP and drop intra-response
+ *      duplicates (first-section-wins).
+ *
+ * Cache strategy:
+ *   - Final response cached 6 h per country. Apple's charts update at
+ *     most daily so 6 h is comfortably fresh without thrashing the
+ *     upstream chain on a tight cadence.
+ *   - Underlying caches (per-genre Apple JSON, per-id PodcastIndex show)
+ *     survive the home-response eviction, so warming this section back
+ *     up is nearly free even after the 6 h TTL fires.
  *
  * Failure handling: each upstream call goes through Promise.allSettled
- * so one bad section (rate limit, network) doesn't 502 the whole page.
- * Empty sections drop out of the response so the Flutter renderer
- * doesn't show eyebrow-with-no-tiles.
+ * so one bad section (Apple chart 503, PodcastIndex blip) doesn't 502
+ * the whole page. Empty sections drop out of the response.
  */
 export const podcastsHomeController = async (req: FastifyRequest, res: FastifyReply) => {
   if (!ensureConfigured(res)) return;
   const q = req.query as any;
-  // Country resolution, in priority order:
-  //   1. explicit ?country=XX query (lets us test other countries from
-  //      any device).
-  //   2. Cloudflare's CF-IPCountry header — populated on every request
-  //      when api.sunoh.online is fronted by CF. Two-letter ISO code,
-  //      'XX' when CF can't geo-resolve (e.g. Tor exit).
-  //   3. Accept-Language locale tag — `en-IN,en;q=0.9` → 'IN'. Common
-  //      on local dev where there's no CF in front.
-  //   4. DEFAULT_COUNTRY ('IN') — only when none of the above land in
-  //      a country we have a config for.
+  // Country resolution priority — see resolveCountry's docstring.
   const country = await resolveCountry(req, q.country as string | undefined);
   const cfg = COUNTRY_CONFIG[country] || COUNTRY_CONFIG[DEFAULT_COUNTRY];
-  const cacheKey = `podcasts_home_v1_${country}`;
+  const cacheKey = `podcasts_home_v2_${country}`;
 
   try {
     const cached = await cache.get(cacheKey);
     if (cached) return sendSuccess(res, cached, 'OK (Cached)', SOURCE);
   } catch {
-    // Redis hiccup → just refetch. Don't 500 on a cache miss.
+    /* cache offline → refetch. Don't 500 on a miss. */
   }
 
-  const max = 12; // per-section tile count; tuned for a phone home feed
-
-  // Fan-out: trending-in-country, one per configured category, and
-  // (when meaningful) globally trending. Build in a deterministic
-  // order so the response sections always render in the same slots.
-  //
-  // Skip "Trending globally" when the country's language set is
-  // already `en` — otherwise we'd ship two near-identical sections
-  // (Trending in US ≈ Trending globally, since PodcastIndex's global
-  // trending IS the English-dominant feed).
-  type Job = { heading: string; params: Record<string, any> };
-  const showsGlobal = !cfg.languages.split(',').some((l) => l.trim() === 'en');
-  const jobs: Job[] = [
-    {
-      heading: `Trending in ${cfg.label}`,
-      params: { max, lang: cfg.languages },
-    },
-    ...cfg.categories.map((cat) => ({
-      heading: `${cat} in ${cfg.label}`,
-      params: { max, lang: cfg.languages, cat },
-    })),
-    ...(showsGlobal ? [{ heading: 'Trending globally', params: { max, lang: 'en' } }] : []),
-  ];
-
-  const results = await Promise.allSettled(
-    jobs.map((j) => podcastIndexFetch('/podcasts/trending', j.params)),
+  // 1) Fan out the Apple chart fetches in parallel. APPLE_FETCH_COUNT
+  // is a bit larger than PER_SECTION_CAP so we have headroom after
+  // dropping iTunes-IDs PodcastIndex doesn't know about.
+  const appleResults = await Promise.allSettled(
+    cfg.sections.map((s) =>
+      s.genreId
+        ? appleTopByGenre(cfg.appleCode, s.genreId, APPLE_FETCH_COUNT)
+        : appleTopOverall(cfg.appleCode, APPLE_FETCH_COUNT),
+    ),
   );
 
-  // Intra-response dedup by show id. PodcastIndex's trending +
-  // category-filtered trending overlap heavily — a hot show like The
-  // Ranveer Show shows up in Society, Education, and "trending in
-  // India" all at once. First occurrence wins so the most-relevant
-  // section (the one declared first) keeps the show.
+  // 2) Resolve each section's iTunes IDs → PodcastIndex shows.
+  // Sections resolve in parallel; within a section, resolveByItunesIds
+  // does its own batched cache + parallel fetch.
+  const resolved = await Promise.all(
+    appleResults.map(async (r) => {
+      if (r.status !== 'fulfilled' || r.value.length === 0) return [];
+      return resolveByItunesIds(r.value);
+    }),
+  );
+
+  // 3) Build the section list, dedup across sections (first wins so
+  // the most-prominent section keeps an overlapping show — Apple's
+  // overall top + News will share The Daily-type hits otherwise).
   const seenIds = new Set<string>();
   const sections: HomeSection[] = [];
-  results.forEach((r, i) => {
-    if (r.status !== 'fulfilled' || !r.value.ok) return;
-    const raw = mapPodcastShows(r.value.data?.feeds);
-    const filtered = raw.filter((s) => {
-      if (seenIds.has(s.id)) return false;
+  resolved.forEach((shows, i) => {
+    const filtered: PodcastShow[] = [];
+    for (const s of shows) {
+      if (seenIds.has(s.id)) continue;
       seenIds.add(s.id);
-      return true;
-    });
+      filtered.push(s);
+      if (filtered.length >= PER_SECTION_CAP) break;
+    }
     if (filtered.length === 0) return;
     sections.push({
-      heading: jobs[i].heading,
+      heading: cfg.sections[i].heading,
       data: filtered,
       source: SOURCE,
     });
@@ -517,9 +606,9 @@ export const podcastsHomeController = async (req: FastifyRequest, res: FastifyRe
   }
 
   try {
-    await cache.set(cacheKey, sections, 3600);
+    await cache.set(cacheKey, sections, 60 * 60 * 6);
   } catch {
-    // Same story — don't fail the response on a cache write blip.
+    /* cache write blip — return the response anyway */
   }
 
   return sendSuccess(res, sections, `Podcasts home (${country})`, SOURCE);
