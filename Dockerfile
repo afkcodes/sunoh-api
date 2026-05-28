@@ -21,15 +21,21 @@ RUN apk add --no-cache \
     ttf-freefont \
     dumb-init
 
+# NODE_ENV is set at RUNTIME via docker-compose.yml — not here. Setting
+# it at build time causes `npm ci` to drop devDependencies (husky,
+# rimraf, etc.), and the package's `prepare` lifecycle then fails when
+# it can't find husky on PATH.
 ENV PUPPETEER_SKIP_DOWNLOAD=true \
-    PUPPETEER_EXECUTABLE_PATH=/usr/bin/chromium-browser \
-    NODE_ENV=production
+    PUPPETEER_EXECUTABLE_PATH=/usr/bin/chromium-browser
 
 WORKDIR /app
 
 COPY package*.json ./
 
-RUN npm ci
+# --ignore-scripts skips lifecycle hooks (the `prepare` hook runs husky
+# to set up git hooks, which is meaningless inside a container — and
+# would fail anyway since the container isn't a git checkout).
+RUN npm ci --ignore-scripts
 
 COPY . .
 
