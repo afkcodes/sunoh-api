@@ -1,157 +1,82 @@
-import { FastifyReply, FastifyRequest } from 'fastify';
-import { mapSpotifyPlaylist } from '../mappers/spotify.mapper';
-import { addPlaylistMappingJob, getJobStatus, getQueueStats } from '../queue/playlistQueue';
-import { extractPlaylistId, scrapePlaylist } from '../spotify_import/spotify_playlist';
-import { sendError, sendSuccess } from '../utils/response';
+// Spotify playlist import endpoint.
+//
+//   GET /spotify/import?url=<spotify-playlist-url>
+//
+// Pulls a public playlist through Spotify's Web API, maps each track to
+// the closest Saavn song, and returns the merged result in a single
+// response. Replaces the old Puppeteer-driven scrape + queued-job
+// machinery (~950 LOC across spotify_import/, queue/, mappers/) with
+// ~70 LOC of plumbing on top of `playlist.ts` + `match.ts`.
 
-interface PlaylistQuery {
+import type { FastifyReply, FastifyRequest } from 'fastify';
+
+import { sendError, sendSuccess } from '../utils/response';
+import { matchTracks } from './match';
+import { extractPlaylistId, fetchSpotifyPlaylist } from './scraper';
+
+const SOURCE = 'spotify';
+
+interface ImportQuery {
   url?: string;
-  fast?: string;
-  debug?: string;
-  limit?: string;
 }
 
-const playlistController = async (
-  req: FastifyRequest<{ Querystring: PlaylistQuery }>,
-  reply: FastifyReply,
+/**
+ * Single endpoint, sync. Fast because the actual work — Spotify pull +
+ * Saavn matching — totals ~2 s for a 100-track playlist and scales
+ * linearly past that (Spotify pages at 100, match runs 8-wide).
+ *
+ * The old async-queued path (jobs / status polling / queue stats) is
+ * gone: there's no scenario where 2–5 s of sync execution justifies a
+ * jobId + polling protocol for a private app with one user.
+ */
+export const importPlaylistController = async (
+  req: FastifyRequest<{ Querystring: ImportQuery }>,
+  res: FastifyReply,
 ) => {
-  try {
-    const { url, fast, debug } = req.query;
+  const url = req.query.url;
+  if (!url) return sendError(res, 'Missing required parameter: url', null, 400);
 
-    if (!url) {
-      return sendError(reply, 'Missing required parameter: url', null, 400);
-    }
-
-    if (!url.includes('spotify.com/playlist/')) {
-      return sendError(
-        reply,
-        'Invalid URL: Please provide a valid Spotify playlist URL',
-        null,
-        400,
-      );
-    }
-
-    const playlistId = extractPlaylistId(url);
-    if (!playlistId) {
-      return sendError(reply, 'Invalid playlist URL: Could not extract playlist ID', null, 400);
-    }
-
-    const options = {
-      headless: true,
-      debug: debug === 'true',
-      timeout: 30000,
-      fast: fast === 'true',
-    };
-
-    const playlistData = await scrapePlaylist(url, options);
-    const mappedData = mapSpotifyPlaylist(playlistData);
-
-    return sendSuccess(reply, mappedData, 'Playlist scraped successfully', 'spotify');
-  } catch (error) {
-    console.error('[Spotify API] Error scraping playlist:', error);
-    return sendError(reply, 'Failed to scrape playlist', error.message, 500);
+  const playlistId = extractPlaylistId(url);
+  if (!playlistId) {
+    return sendError(res, 'Could not extract a Spotify playlist id from the input', null, 400);
   }
-};
 
-const playlistMapController = async (
-  req: FastifyRequest<{ Querystring: PlaylistQuery }>,
-  reply: FastifyReply,
-) => {
-  try {
-    const { url, fast, debug, limit } = req.query;
-
-    if (!url) {
-      return sendError(reply, 'Missing required parameter: url', null, 400);
-    }
-
-    if (!url.includes('spotify.com/playlist/')) {
-      return sendError(
-        reply,
-        'Invalid URL: Please provide a valid Spotify playlist URL',
-        null,
-        400,
-      );
-    }
-
-    const playlistId = extractPlaylistId(url);
-    if (!playlistId) {
-      return sendError(reply, 'Invalid playlist URL: Could not extract playlist ID', null, 400);
-    }
-
-    const jobOptions = {
-      fast: fast === 'true',
-      debug: debug === 'true',
-      limit: limit ? parseInt(limit, 10) : undefined,
-    };
-
-    const { jobId, isExisting } = await addPlaylistMappingJob(url, jobOptions);
-
-    const data = {
-      jobId,
-      status: isExisting ? 'existing' : 'queued',
-      checkStatusUrl: `/spotify/playlist/map/status/${jobId}`,
-      estimatedTime: isExisting ? 'Available now or processing' : '2-5 minutes',
-      isExistingJob: isExisting,
-    };
-
-    return sendSuccess(
-      reply,
-      data,
-      isExisting
-        ? 'This playlist is already being processed'
-        : 'Playlist mapping job has been queued',
-      'spotify',
+  const playlist = await fetchSpotifyPlaylist(playlistId);
+  if (!playlist) {
+    return sendError(
+      res,
+      'Failed to fetch playlist from Spotify (private, removed, or upstream error)',
+      null,
+      502,
     );
-  } catch (error) {
-    console.error('[Spotify API] Error queueing playlist mapping job:', error);
-    return sendError(reply, 'Failed to queue playlist mapping job', error.message, 500);
   }
-};
 
-const playlistMapStatusController = async (
-  req: FastifyRequest<{ Params: { jobId: string } }>,
-  reply: FastifyReply,
-) => {
-  try {
-    const { jobId } = req.params;
+  const items = await matchTracks(playlist.tracks);
 
-    if (!jobId) {
-      return sendError(reply, 'Missing job ID', null, 400);
-    }
+  const matched = items.filter((m) => m.matched).length;
+  const unmatched = items.length - matched;
 
-    const jobStatus = await getJobStatus(jobId);
-
-    return sendSuccess(reply, { jobId, ...jobStatus }, 'Job status fetched', 'spotify');
-  } catch (error) {
-    console.error('[Spotify API] Error checking job status:', error);
-    return sendError(reply, 'Failed to check job status', error.message, 500);
-  }
-};
-
-const queueStatsController = async (req: FastifyRequest, reply: FastifyReply) => {
-  try {
-    const stats = await getQueueStats();
-
-    return sendSuccess(
-      reply,
-      {
-        queue: {
-          name: 'playlist-mapping',
-          ...stats,
-        },
+  return sendSuccess(
+    res,
+    {
+      source: {
+        id: playlist.id,
+        name: playlist.name,
+        description: playlist.description,
+        owner: playlist.owner,
+        followers: playlist.followers,
+        artworkUrl: playlist.artworkUrl,
+        url: playlist.url,
+        trackCount: playlist.trackCount,
       },
-      'Queue statistics fetched',
-      'spotify',
-    );
-  } catch (error) {
-    console.error('[Spotify API] Error getting queue stats:', error);
-    return sendError(reply, 'Failed to get queue statistics', error.message, 500);
-  }
-};
-
-export {
-  playlistController,
-  playlistMapController,
-  playlistMapStatusController,
-  queueStatsController,
+      summary: {
+        total: items.length,
+        matched,
+        unmatched,
+      },
+      items,
+    },
+    `Imported "${playlist.name}" — ${matched}/${items.length} matched on Saavn`,
+    SOURCE,
+  );
 };

@@ -15,7 +15,7 @@
     "prebuild": "npm run lint",
     "build:watch": "tsc -w -p tsconfig.json",
     "build:release": "npm run clean && tsc -p tsconfig.json",
-    "lint": "biome lint --write --unsafe src/",
+    "lint": "biome lint --write --unsafe --max-diagnostics=1000 src/",
     "format": "biome format --write .",
     "prepare": "husky",
     "start:vercel": "vercel dev",

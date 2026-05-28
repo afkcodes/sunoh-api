@@ -1,23 +1,12 @@
-import { FastifyInstance } from 'fastify';
-import {
-  playlistController,
-  playlistMapController,
-  playlistMapStatusController,
-  queueStatsController,
-} from './controller';
+import type { FastifyInstance } from 'fastify';
 
+import { importPlaylistController } from './controller';
+
+// Single endpoint — playlist URL in, mapped result out. The previous
+// scrape vs queued-job split is gone (see controller.ts header for the
+// rationale).
 const spotifyRoutes = async (fastify: FastifyInstance) => {
-  // Basic playlist scraping (still synchronous for quick results)
-  fastify.get('/playlist', playlistController);
-
-  // Queue-based playlist mapping (non-blocking)
-  fastify.get('/playlist/map', playlistMapController);
-
-  // Check status of a mapping job
-  fastify.get('/playlist/map/status/:jobId', playlistMapStatusController);
-
-  // Get queue statistics
-  fastify.get('/queue/stats', queueStatsController);
+  fastify.get('/import', importPlaylistController);
 };
 
 export { spotifyRoutes };

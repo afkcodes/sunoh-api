@@ -21,7 +21,7 @@ import {
   searchController as saavnSearchController,
   songController as saavnSongController,
 } from '../saavn/controller';
-import { playlistController as spotifyPlaylistController } from '../spotify/controller';
+import { importPlaylistController as spotifyImportController } from '../spotify/controller';
 import {
   unifiedArtistController,
   unifiedHomeController,
@@ -90,7 +90,13 @@ export const musicRoutes = async (fastify: FastifyInstance) => {
   fastify.get('/playlist/:playlistId', (req, reply) => {
     const { provider } = req.query as any;
     if (provider === 'spotify') {
-      return spotifyPlaylistController(req as any, reply);
+      // Spotify playlist import: the unified controller now expects ?url=,
+      // but the music dispatch passes :playlistId via path. Adapt by
+      // synthesising the URL on the way through.
+      const { playlistId } = req.params as any;
+      (req.query as any).url =
+        (req.query as any).url || `https://open.spotify.com/playlist/${playlistId}`;
+      return spotifyImportController(req as any, reply);
     }
     if (provider === 'gaana') {
       return gaanaPlaylistController(req as any, reply);
