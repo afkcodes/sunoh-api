@@ -5,6 +5,7 @@ import { musicRoutes } from './music/route';
 import { play } from './play';
 import { podcastRoutes } from './podcast/route';
 import { proxyImage } from './proxyImage';
+import { radioRoutes } from './radios/route';
 import { saavnRoutes } from './saavn/route';
 import { spotifyRoutes } from './spotify/route';
 import { liveMusicRoutes } from './websocket/routes';
@@ -38,6 +39,12 @@ const entry = (fastify: FastifyInstance, _opts: FastifyServerOptions, done: () =
   // `type: 'episode'` for episodes; episode `mediaUrls[0].link` is the
   // raw enclosure URL so the Flutter resolver plays it directly.
   fastify.register(podcastRoutes, { prefix: '/podcasts' });
+
+  // Internet radio — thin proxy over the sunoh-radio service (separate
+  // repo, runs on localhost:4000 alongside this API on the VPS). Curated
+  // PostgreSQL catalog of ~50 k working stations + facet counts;
+  // see SUNOH_RADIO_BASE_URL in .env to point elsewhere.
+  fastify.register(radioRoutes, { prefix: '/radios' });
 
   done();
 };
