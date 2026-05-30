@@ -19,9 +19,22 @@ services:
       - REDIS_HOST=redis
       - REDIS_PORT=6379
       - NODE_ENV=production
+      # The radio service runs in a separate compose stack
+      # (sunoh-radio-scrapers). Both stacks attach to the external
+      # `sunoh-net` network at the bottom of this file so this api
+      # container can reach the radio container by its container_name
+      # (`sunoh-radio-api`). Trying http://127.0.0.1:4000 instead
+      # ECONNREFUSEs — every container has its own loopback.
+      - SUNOH_RADIO_BASE_URL=http://sunoh-radio-api:4000
     depends_on:
       - redis
     restart: unless-stopped
+    # Joins both the internal default (for redis access) AND the
+    # external shared network (so we can reach sunoh-radio-api in the
+    # other stack by its container_name).
+    networks:
+      - default
+      - sunoh-shared
 
   redis:
     image: redis:alpine
@@ -29,6 +42,23 @@ services:
     volumes:
       - redis_data:/data
     restart: unless-stopped
+    # Default network only — redis is private to this stack. Putting
+    # it on the shared network would let the radio stack resolve
+    # `redis` and accidentally connect.
+    networks:
+      - default
 
 volumes:
   redis_data:
+
+# `default` is the implicit per-stack network. `sunoh-shared` is the
+# cross-stack network — create once on the host with:
+#   docker network create sunoh-net
+# The sunoh-radio-scrapers stack joins the same external network in
+# ITS docker-compose.prod.yml, exposing its container as
+# `sunoh-radio-api` over Docker's built-in DNS.
+networks:
+  default:
+  sunoh-shared:
+    name: sunoh-net
+    external: true
