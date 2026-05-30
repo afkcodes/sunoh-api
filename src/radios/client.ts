@@ -1,14 +1,20 @@
 // Thin HTTP wrapper for the sunoh-radio upstream service.
 //
 // The upstream lives at SUNOH_RADIO_BASE_URL (default
-// http://localhost:4000 — same on local dev + on the VPS, where the
-// radio service runs in the same docker network as this API). All
-// endpoints are public + cacheable; no auth header to forward.
+// http://127.0.0.1:4000 — same on local dev + on the VPS, where the
+// radio service runs on the host's loopback). All endpoints are
+// public + cacheable; no auth header to forward.
+//
+// IPv4 literal (not `localhost`) on purpose: in some Node-runtime +
+// containerised setups `localhost` resolves to `::1` (IPv6) first and
+// the radio service binds only to IPv4, producing an ECONNREFUSED
+// that's confusing to diagnose. Pinning the IP avoids the resolver
+// step entirely.
 //
 // Returns the same `{ok, status, data}` envelope used elsewhere
 // (`podcastIndexFetch`'s shape) so call sites stay symmetric.
 
-const DEFAULT_BASE_URL = 'http://localhost:4000';
+const DEFAULT_BASE_URL = 'http://127.0.0.1:4000';
 const USER_AGENT = 'sunoh-api/1.0 (+https://sunoh.online)';
 
 function baseUrl(): string {
