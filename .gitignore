@@ -3,6 +3,13 @@ node_modules
 yarn.lock
 dist
 
+# Local Python virtualenv used by scripts/identify-now-playing.py — keeps
+# shazamio + its native deps out of the Node Docker image until we decide
+# how to ship them properly (sidecar vs. apk add).
+.venv
+__pycache__
+*.pyc
+
 # Local env files. Carry API keys + secrets (PodcastIndex, etc.) — must
 # never reach the remote. `.env.development` used to be tracked; it was
 # `git rm --cached`'d when the PodcastIndex creds went in. Check
