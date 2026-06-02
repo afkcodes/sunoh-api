@@ -26,8 +26,16 @@ services:
       # (`sunoh-radio-api`). Trying http://127.0.0.1:4000 instead
       # ECONNREFUSEs — every container has its own loopback.
       - SUNOH_RADIO_BASE_URL=http://sunoh-radio-api:4000
+      # Internal Docker DNS — the shazam sidecar (Python + shazamio +
+      # ffmpeg) lives in this stack on the default network. Used by the
+      # now-playing worker to identify the current track on radio
+      # streams. If unset, the worker logs once and stays idle (the
+      # `/radios/:slug/now-playing` endpoint still serves cached results
+      # if any).
+      - SHAZAM_BASE_URL=http://shazam:8080
     depends_on:
       - redis
+      - shazam
     restart: unless-stopped
     # Joins both the internal default (for redis access) AND the
     # external shared network (so we can reach sunoh-radio-api in the
@@ -45,6 +53,18 @@ services:
     # Default network only — redis is private to this stack. Putting
     # it on the shared network would let the radio stack resolve
     # `redis` and accidentally connect.
+    networks:
+      - default
+
+  # Shazam recognition sidecar — Python + shazamio + ffmpeg, wrapped in
+  # a tiny FastAPI service. Lives here (not in sunoh-radio) so the radio
+  # catalog stack stays focused on cataloguing, and so the listener-
+  # driven worker that calls it can share Redis with the rest of the
+  # API. Internal-only — exposed to siblings on the default network but
+  # not published to the host.
+  shazam:
+    build: ./shazam-sidecar
+    restart: unless-stopped
     networks:
       - default
 

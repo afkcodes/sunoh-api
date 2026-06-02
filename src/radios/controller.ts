@@ -12,6 +12,7 @@ import type { HomeSection } from '../types';
 import { sendError, sendSuccess } from '../utils/response';
 import { sunohRadioFetch } from './client';
 import { mapRadioStation, mapRadioStations } from './mappers';
+import { getResult, pendingResult, touchHot } from './now-playing-store';
 import type { RadioFacet, RadioStationsPage, RadioStationUpstream } from './types';
 
 const SOURCE = 'sunoh-radio';
@@ -297,4 +298,43 @@ export const radiosStatsController = async (_: FastifyRequest, res: FastifyReply
     /* cache write blip */
   }
   return sendSuccess(res, upstream.data, 'Radio stats', SOURCE);
+};
+
+// ── Now-playing (listener-driven Shazam) ─────────────────────────────────
+//
+// Flutter polls this endpoint every ~5 s while a station is playing.
+// Two things happen per call:
+//   1. The slug is "touched" — added/refreshed in the `radio:hot` ZSET
+//      with a 30 s expiry. That's the only signal the background worker
+//      uses to decide what to fingerprint. When the user pauses, polls
+//      stop, the slug ages out, the worker stops spending Shazam calls.
+//   2. The worker's most recent stored result for the slug is returned.
+//      If the worker hasn't processed this slug yet (first poll after
+//      tapping play), we return a `status: 'pending'` shape so the
+//      client knows to keep polling rather than treat null as "no
+//      song info available, ever".
+//
+// Shape kept small + flat — the Flutter client reads it directly into a
+// small `RadioNowPlaying` model. `track.image` is the Apple Music CDN
+// art URL Shazam returns (high quality, 400×400) — UI swaps it in
+// while the live track plays, falls back to the station logo on miss.
+export const radioNowPlayingController = async (req: FastifyRequest, res: FastifyReply) => {
+  const { slug } = req.params as { slug?: string };
+  if (!slug) return sendError(res, 'Missing path param `slug`', null, 400);
+
+  // Touch FIRST — even if we have no result yet, this kicks off the
+  // worker for this slug. Fire-and-forget; never blocks the response.
+  void touchHot(slug);
+
+  const stored = await getResult(slug);
+  if (!stored) {
+    return sendSuccess(
+      res,
+      { status: 'pending', ...pendingResult() },
+      'Now-playing pending',
+      SOURCE,
+    );
+  }
+  const status = stored.matched ? 'matched' : 'no_match';
+  return sendSuccess(res, { status, ...stored }, 'Now-playing', SOURCE);
 };

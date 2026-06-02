@@ -8,6 +8,7 @@
 import type { FastifyInstance } from 'fastify';
 
 import {
+  radioNowPlayingController,
   radioStationController,
   radiosCountriesController,
   radiosGenresController,
@@ -32,6 +33,13 @@ export async function radioRoutes(fastify: FastifyInstance) {
   fastify.get('/genres', radiosGenresController);
   fastify.get('/languages', radiosLanguagesController);
   fastify.get('/stats', radiosStatsController);
+
+  // Listener-driven now-playing (Shazam-backed). Polled by the Flutter
+  // client every ~5 s while a station is playing — the polling itself
+  // is the "I'm listening" signal that keeps the background worker
+  // fingerprinting the station. Registered BEFORE the catch-all
+  // `:slug` so the literal segment `/now-playing` isn't shadowed.
+  fastify.get('/:slug/now-playing', radioNowPlayingController);
 
   // Single station by slug. Registered LAST so the literal facet routes
   // above aren't shadowed by the catch-all `:slug` parameter.
