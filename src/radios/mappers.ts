@@ -6,9 +6,10 @@
 // matches an existing discriminator in the Channel type and keeps the
 // player happy when these flow through the queue + audio handler.
 //
-// Image preference (per user direction): image_hosted first (Cloudinary,
-// stable + CDN-cached), fall back to image_url (original scraped logo),
-// and let the client fall back to a placeholder when neither exists.
+// Image preference: serve `image_url` (the original scraped logo) only —
+// `image_hosted` (Cloudinary) is intentionally NOT emitted because the
+// Cloudinary quota is exhausted and those URLs 404/throttle. If/when the
+// quota recovers, restore the hosted branch (see git history).
 
 import type { Images } from '../types';
 import type { RadioStationUpstream } from './types';
@@ -16,16 +17,9 @@ import type { RadioStationUpstream } from './types';
 const SOURCE = 'sunoh-radio';
 
 function buildImages(s: RadioStationUpstream): Images {
-  const hosted = s.image_hosted?.trim() || '';
   const original = s.image_url?.trim() || '';
-  // Emit both qualities so the Flutter art picker can fall back
-  // gracefully — UI iterates by quality and uses the first that loads.
-  const out: Images = [];
-  if (hosted) out.push({ quality: '500x500', link: hosted });
-  if (original && original !== hosted) {
-    out.push({ quality: '150x150', link: original });
-  }
-  return out;
+  if (!original) return [];
+  return [{ quality: '500x500', link: original }];
 }
 
 /** Best-effort subtitle: prefer the first genre (more descriptive than

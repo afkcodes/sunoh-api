@@ -91,7 +91,7 @@ export const radiosHomeController = async (req: FastifyRequest, res: FastifyRepl
   const q = req.query as { country?: string };
   const country = resolveCountry(req, q.country);
   const cfg = COUNTRY_CONFIG[country] ?? COUNTRY_CONFIG[DEFAULT_COUNTRY];
-  const cacheKey = `radios_home_v1_${country}`;
+  const cacheKey = `radios_home_v2_${country}`;
 
   try {
     const cached = await cache.get(cacheKey);
