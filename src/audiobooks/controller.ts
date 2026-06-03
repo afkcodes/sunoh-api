@@ -39,16 +39,24 @@ const BROWSE_GENRES_PREVIEW_COUNT = 12;
 
 // ── Cache keys + TTLs ────────────────────────────────────────────────────
 
-const HOME_KEY = 'audiobooks_home_v1';
+// Cache version bumped from _v1 → _v2 to invalidate two earlier-shipped
+// bugs in one go:
+//   - per-post: author scrape was matching WP `<meta name=author>` →
+//     always "admin". Real author lives in the schema.org Person graph;
+//     fixed in scraper.ts.
+//   - categories: controller returned raw WP rows (yoast_head, meta,
+//     taxonomy, …) instead of the flat {id, name, slug, count} shape.
+//   - home + by-category transitively held the bad author payload.
+const HOME_KEY = 'audiobooks_home_v2';
 const HOME_TTL = 60 * 60; // 1 h
-const CATEGORIES_KEY = 'audiobooks_categories_v1';
+const CATEGORIES_KEY = 'audiobooks_categories_v2';
 const CATEGORIES_TTL = 60 * 60 * 24; // 24 h — near-static
 const BY_CATEGORY_KEY = (id: number, page: number, limit: number) =>
-  `audiobooks_cat_${id}_p${page}_l${limit}_v1`;
+  `audiobooks_cat_${id}_p${page}_l${limit}_v2`;
 const BY_CATEGORY_TTL = 60 * 60; // 1 h
-const POST_KEY = (slug: string) => `audiobooks_post_${slug}_v1`;
+const POST_KEY = (slug: string) => `audiobooks_post_${slug}_v2`;
 const POST_TTL = 60 * 60 * 24; // 24 h — chapter URLs are stable
-const SEARCH_KEY = (q: string) => `audiobooks_search_${q.toLowerCase()}_v1`;
+const SEARCH_KEY = (q: string) => `audiobooks_search_${q.toLowerCase()}_v2`;
 const SEARCH_TTL = 60 * 10; // 10 min — fresh enough for live UX
 
 /** Concurrency cap for parallel HTML scrapes. cozyaudiobooks rate-limits
@@ -185,10 +193,30 @@ export const audiobooksHomeController = async (_req: FastifyRequest, res: Fastif
 
 // ── GET /audiobooks/categories ───────────────────────────────────────────
 
+/** Flat client-facing shape — strips raw WP rows (yoast_head HTML,
+ *  ld+json schema, meta, acf, taxonomy, parent, link, …) down to what
+ *  the Flutter side actually reads. Names are HTML-entity-decoded
+ *  server-side so the client doesn't have to. */
+interface AudiobookCategoryClean {
+  id: number;
+  name: string;
+  slug: string;
+  count: number;
+}
+
+const decodeEntities = (s: string): string =>
+  s
+    .replace(/&amp;/g, '&')
+    .replace(/&#8211;/g, '–')
+    .replace(/&#8217;/g, '’')
+    .replace(/&#039;/g, "'")
+    .replace(/&quot;/g, '"')
+    .replace(/&#(\d+);/g, (_, d) => String.fromCharCode(Number(d)));
+
 /** All categories sorted by post count desc. Cached 24 h — drives the
  *  full genres grid screen when the user taps "See all" on the home. */
-async function getCategoriesCached(): Promise<WpCategory[]> {
-  const cached = await cache.get<WpCategory[]>(CATEGORIES_KEY);
+async function getCategoriesCached(): Promise<AudiobookCategoryClean[]> {
+  const cached = await cache.get<AudiobookCategoryClean[]>(CATEGORIES_KEY);
   if (cached) return cached;
   const upstream = await cozyJson<WpCategory[]>('/wp-json/wp/v2/categories', {
     per_page: 100,
@@ -196,11 +224,18 @@ async function getCategoriesCached(): Promise<WpCategory[]> {
     order: 'desc',
   });
   if (!upstream.ok || !upstream.data) return [];
-  // Drop the "Uncategorized" bucket — it's 7000+ posts of mixed junk
-  // and isn't a real genre.
-  const filtered = upstream.data.filter((c) => c.slug !== 'uncategorized' && c.count > 0);
-  await cache.set(CATEGORIES_KEY, filtered, CATEGORIES_TTL);
-  return filtered;
+  const cleaned: AudiobookCategoryClean[] = upstream.data
+    // Drop the "Uncategorized" bucket — it's 7000+ posts of mixed junk
+    // and isn't a real genre.
+    .filter((c) => c.slug !== 'uncategorized' && c.count > 0)
+    .map((c) => ({
+      id: c.id,
+      name: decodeEntities(c.name),
+      slug: c.slug,
+      count: c.count,
+    }));
+  await cache.set(CATEGORIES_KEY, cleaned, CATEGORIES_TTL);
+  return cleaned;
 }
 
 export const audiobooksCategoriesController = async (_req: FastifyRequest, res: FastifyReply) => {

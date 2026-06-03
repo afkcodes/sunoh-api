@@ -18,12 +18,25 @@ import type { ScrapedChapter, ScrapedPost } from './types';
 
 const COVER_RE = /<meta\s+property=["']og:image["']\s+content=["']([^"']+)["']/i;
 const AUDIO_RE = /<audio[^>]+id=["']mainPlayer["'][^>]+src=["']([^"']+)["']/i;
-// Author lives in different shapes across categories — match common
-// patterns: a heading "by …", an italics line, or a dedicated meta
-// span. Best-effort; null is acceptable downstream.
+// Author lookup — order matters, first hit wins.
+//
+// Cozy WP posts carry TWO "author" signals: the WP site author (always
+// "admin") and the actual book author. We need the book author. Three
+// patterns, in order of reliability:
+//
+//   1. schema.org Person graph — `"author":{"@type":"Person","name":"X"`.
+//      Yoast emits this inline as ld+json for the real book author.
+//      Most reliable when present.
+//   2. Body-text "by …" — falls through to a `by <Author>` capture from
+//      the rendered post body. Lossier (also matches non-author "by"
+//      uses) but useful when (1) is missing.
+//   3. Explicit "Author: …" label.
+//
+// The WP `<meta name="author" content="admin">` is intentionally NOT
+// checked — it's always "admin" and would shadow the real author. */
 const AUTHOR_RES: RegExp[] = [
-  /<meta\s+name=["']author["']\s+content=["']([^"']+)["']/i,
-  />\s*by\s+<[^>]+>([^<]+)<\/[^>]+>/i,
+  /"author"\s*:\s*\{\s*"@type"\s*:\s*"Person"\s*,\s*"name"\s*:\s*"([^"]+)"/i,
+  /\bby\s+([A-Z][a-zA-Z.\-'’]+(?:\s+[A-Z][a-zA-Z.\-'’]+){0,3})\b/,
   />\s*Author:\s*([^<\n]+?)(?:<|$)/i,
 ];
 // Chapter row — captures data-src + number + title + duration. The
