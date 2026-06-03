@@ -1,4 +1,5 @@
 import { FastifyInstance, FastifyServerOptions } from 'fastify';
+import { audiobookRoutes } from './audiobooks/route';
 import { gaanaRoutes } from './gaana/route';
 import { lyricsRoutes } from './lyrics/route';
 import { musicRoutes } from './music/route';
@@ -45,6 +46,13 @@ const entry = (fastify: FastifyInstance, _opts: FastifyServerOptions, done: () =
   // PostgreSQL catalog of ~50 k working stations + facet counts;
   // see SUNOH_RADIO_BASE_URL in .env to point elsewhere.
   fastify.register(radioRoutes, { prefix: '/radios' });
+
+  // Audiobooks — backed by cozyaudiobooks.com (WordPress REST + AJAX
+  // search + per-post HTML scrape for cover/author/chapters). All hot
+  // paths Redis-cached; home aggregator parallel-enriches ~50 books
+  // cold then serves instant for 1 h. Chapter mediaUrls inline so the
+  // stream resolver short-circuits to tier-1 on play.
+  fastify.register(audiobookRoutes, { prefix: '/audiobooks' });
 
   done();
 };
