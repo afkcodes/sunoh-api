@@ -234,9 +234,16 @@ export const ytmusicAudioProxyController = async (req: FastifyRequest, res: Fast
   });
 
   if (!upstreamReq.ok && upstreamReq.status !== 206) {
+    // Capture upstream's error body for diagnostic surface — googlevideo
+    // sends a one-liner reason ("This video is unavailable", "Sign in
+    // to confirm…", etc.) that's the difference between "UA mismatch"
+    // and "needs PO Token" / "needs auth cookie". Truncate so we don't
+    // accidentally surface a huge HTML page.
+    const upstreamBody = await upstreamReq.text().catch(() => '');
+    const reason = upstreamBody.slice(0, 200).replace(/\s+/g, ' ').trim();
     return sendError(
       res,
-      `Upstream googlevideo ${upstreamReq.status}`,
+      `Upstream googlevideo ${upstreamReq.status}${reason ? ` — ${reason}` : ''}`,
       null,
       upstreamReq.status === 403 || upstreamReq.status === 404 ? upstreamReq.status : 502,
     );
