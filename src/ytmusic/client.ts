@@ -164,13 +164,16 @@ export async function search(query: string, filter: SearchFilter = 'songs') {
   );
 }
 
-/** `/player` — track playability + stream URLs. We default to
- *  ANDROID because it returns the richer adaptive-format set
- *  (m4a 128 + Opus 160 + various lower variants), where IOS tops out
- *  at m4a 128 kbps. Both clients' URLs are server-signed but JS-free —
- *  no on-device deciphering. If ANDROID gets rate-limited in a region,
- *  IOS is the next fallback. */
-export async function player(videoId: string, client: YouTubeClient = YT_CLIENTS.ANDROID) {
+/** `/player` — track playability + stream URLs. Defaults to IOS
+ *  because it's the most-stable JS-free path today — URLs come back
+ *  pre-signed without `signatureCipher` and without PO Tokens. Quality
+ *  ceiling is AAC 128 kbps (itag 140); ANDROID would return Opus 160
+ *  (itag 251) BUT as of late 2025 the bare ANDROID client trips
+ *  YouTube's "Precondition check failed" — needs fresher
+ *  clientVersion + `androidSdkVersion` in the context, on a rolling
+ *  schedule we don't want to chase. Premium AAC 256 (itag 141) is
+ *  reachable via SAPISID auth, parked for now. */
+export async function player(videoId: string, client: YouTubeClient = YT_CLIENTS.IOS) {
   return ytPost(
     'player',
     {
