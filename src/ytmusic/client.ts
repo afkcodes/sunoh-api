@@ -164,16 +164,17 @@ export async function search(query: string, filter: SearchFilter = 'songs') {
   );
 }
 
-/** `/player` — track playability + stream URLs. Defaults to IOS
- *  because it's the most-stable JS-free path today — URLs come back
- *  pre-signed without `signatureCipher` and without PO Tokens. Quality
- *  ceiling is AAC 128 kbps (itag 140); ANDROID would return Opus 160
- *  (itag 251) BUT as of late 2025 the bare ANDROID client trips
- *  YouTube's "Precondition check failed" — needs fresher
- *  clientVersion + `androidSdkVersion` in the context, on a rolling
- *  schedule we don't want to chase. Premium AAC 256 (itag 141) is
- *  reachable via SAPISID auth, parked for now. */
-export async function player(videoId: string, client: YouTubeClient = YT_CLIENTS.IOS) {
+/** `/player` — track playability + stream URLs. Defaults to
+ *  ANDROID_VR_NO_AUTH (Oculus Quest VR YouTube client) — the same
+ *  MAIN_CLIENT OuterTune uses. It's a niche legacy client YouTube
+ *  hasn't tightened: returns unsigned, no-PoToken, no-precondition
+ *  URLs that the audio proxy can fetch and stream without UA games.
+ *  IOS is kept as a fallback if ANDROID_VR ever rejects a video.
+ *  See types.ts:YT_CLIENTS.ANDROID_VR_NO_AUTH for the full rationale. */
+export async function player(
+  videoId: string,
+  client: YouTubeClient = YT_CLIENTS.ANDROID_VR_NO_AUTH,
+) {
   return ytPost(
     'player',
     {

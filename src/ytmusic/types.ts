@@ -36,26 +36,34 @@ export const YT_CLIENTS = {
     clientId: '67',
     userAgent: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:128.0) Gecko/20100101 Firefox/128.0',
   },
-  /** iOS YouTube client. Used ONLY for /player calls to skip the
-   *  signature-deciphering treadmill — stream URLs come back ready
-   *  to play. As of late 2025 still mostly PO-Token-free. */
+  /** Android VR (Oculus Quest) YouTube client. **The current default
+   *  for /player calls.** A niche legacy client that YouTube hasn't
+   *  tightened — returns unsigned stream URLs, no PoToken, no
+   *  "Precondition check failed", and the URLs play without UA-bound
+   *  signing constraints. Sourced from OuterTune's
+   *  YTPlayerUtils.MAIN_CLIENT (see their note: "Is temporally used
+   *  as it is out only working client"). When YT eventually forces
+   *  PoToken here too, we'll have to either ship a PoToken
+   *  generator (headless WebView) or rotate clients again. */
+  ANDROID_VR_NO_AUTH: {
+    clientName: 'ANDROID_VR',
+    clientVersion: '1.61.48',
+    clientId: '28',
+    userAgent:
+      'com.google.android.apps.youtube.vr.oculus/1.61.48 (Linux; U; Android 12; en_US; Oculus Quest 3; Build/SQ3A.220605.009.A1; Cronet/132.0.6808.3)',
+    osVersion: '12',
+    preferredForStreams: true,
+  },
+  /** iOS YouTube client. Fallback only — recent YT changes produce
+   *  403 after ~30 s of playback on iOS streams (per OuterTune's
+   *  STREAM_FALLBACK_CLIENTS note), and bare requests now sometimes
+   *  trip "Precondition check failed". Kept as a safety net. */
   IOS: {
     clientName: 'IOS',
     clientVersion: '20.10.4',
     clientId: '5',
     userAgent: 'com.google.ios.youtube/20.10.4 (iPhone16,2; U; CPU iOS 18_3_2 like Mac OS X;)',
     osVersion: '18.3.2.22D82',
-    preferredForStreams: true,
-  },
-  /** Android YouTube client. Fallback for IOS when YT throttles
-   *  Apple-UA traffic in a given region. Same "unsigned URL"
-   *  property as IOS. */
-  ANDROID: {
-    clientName: 'ANDROID',
-    clientVersion: '19.09.37',
-    clientId: '3',
-    userAgent: 'com.google.android.youtube/19.09.37 (Linux; U; Android 14)',
-    osVersion: '14',
     preferredForStreams: true,
   },
 } as const satisfies Record<string, YouTubeClient>;

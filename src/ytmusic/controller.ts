@@ -30,12 +30,11 @@ const SOURCE = 'youtube_music';
 
 const SEARCH_KEY = (q: string, filter: string) => `ytmusic_search_${filter}_${q.toLowerCase()}_v1`;
 const SEARCH_TTL = 60 * 10; // 10 min
-// Cache key v4: previous v3 entries (post-revert IOS Opus-132)
-// signed under Node's default fetch UA, which googlevideo rejected
-// with 403. Proxy now sends iOS UA + Origin + Referer on the
-// upstream fetch — bumping the key so any in-cache mis-signed
-// entries don't keep serving 403s through the proxy.
-const STREAM_KEY = (videoId: string) => `ytmusic_stream_${videoId}_v4`;
+// Cache key v5 — switched default /player client to
+// ANDROID_VR_NO_AUTH (OuterTune's MAIN_CLIENT). Old v4 entries hold
+// IOS-signed URLs that 403 anyway; bumping forces a fresh resolve
+// under the new client on first hit after deploy.
+const STREAM_KEY = (videoId: string) => `ytmusic_stream_${videoId}_v5`;
 const STREAM_TTL = 60 * 4; // 4 min — conservative; YT URLs live ~6 h
 
 /** Public base URL the audio-proxy endpoint announces to clients.
@@ -214,14 +213,15 @@ export const ytmusicAudioProxyController = async (req: FastifyRequest, res: Fast
 
   // Forward the client's Range header so partial-content requests
   // (audio engine pre-buffer + seek) work through the proxy. Also
-  // send the same User-Agent / Origin / Referer the InnerTube
-  // request used — googlevideo URLs are signed for a (UA + IP)
-  // context and a mismatched UA can flip the response to 403 even
-  // from the correct IP. We hardcode the IOS UA because that's the
-  // client we use for /player (see client.ts:player default).
+  // send the same User-Agent + Origin + Referer the InnerTube
+  // request used to obtain the URL — googlevideo URLs are signed
+  // for a (UA + IP) context and a mismatched UA can flip the
+  // response to 403 even from the correct IP. UA must match
+  // client.ts:player()'s default client (ANDROID_VR_NO_AUTH).
   const range = req.headers.range as string | undefined;
   const upstreamHeaders: Record<string, string> = {
-    'user-agent': 'com.google.ios.youtube/20.10.4 (iPhone16,2; U; CPU iOS 18_3_2 like Mac OS X;)',
+    'user-agent':
+      'com.google.android.apps.youtube.vr.oculus/1.61.48 (Linux; U; Android 12; en_US; Oculus Quest 3; Build/SQ3A.220605.009.A1; Cronet/132.0.6808.3)',
     origin: 'https://www.youtube.com',
     referer: 'https://www.youtube.com/',
   };
