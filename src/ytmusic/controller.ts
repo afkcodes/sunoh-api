@@ -30,10 +30,12 @@ const SOURCE = 'youtube_music';
 
 const SEARCH_KEY = (q: string, filter: string) => `ytmusic_search_${filter}_${q.toLowerCase()}_v1`;
 const SEARCH_TTL = 60 * 10; // 10 min
-// Cache key bumped v1 → v2 when we switched the default /player
-// client from IOS (m4a 128) to ANDROID (Opus 160) — invalidates the
-// old lower-bitrate URLs so users immediately get the upgrade.
-const STREAM_KEY = (videoId: string) => `ytmusic_stream_${videoId}_v2`;
+// Cache key bumped v2 → v3 after the ANDROID experiment: ANDROID
+// briefly resolved Opus 160 then started 400'ing with "Precondition
+// check failed"; the brief-success cached URLs were ANDROID-signed
+// and 403 from the proxy fetch. Bumping flushes those poisoned
+// entries so post-revert IOS resolves populate the new key fresh.
+const STREAM_KEY = (videoId: string) => `ytmusic_stream_${videoId}_v3`;
 const STREAM_TTL = 60 * 4; // 4 min — conservative; YT URLs live ~6 h
 
 /** Public base URL the audio-proxy endpoint announces to clients.
