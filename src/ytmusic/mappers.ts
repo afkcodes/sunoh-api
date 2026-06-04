@@ -181,20 +181,18 @@ export function mapSongToFeedItem(s: SongResult) {
 // ── /player response → playable stream URL ───────────────────────────────
 
 /** Pick the best audio-only format from `streamingData.adaptiveFormats[]`.
- *  Preference order:
- *    1. m4a (`audio/mp4`, AAC) — widest device compatibility
- *    2. opus (`audio/webm`) — better quality at the same bitrate, mpv
- *       handles it natively but some Android pipelines stumble
- *  Within each MIME family, pick the highest bitrate. */
+ *  Just the highest-bitrate audio-only stream, regardless of codec.
+ *  With the ANDROID client this typically lands on Opus 160 kbps
+ *  (itag 251); IOS would top out at AAC 128 kbps (itag 140). Premium
+ *  accounts get AAC 256 kbps (itag 141) when the request is
+ *  authenticated — handled the same way, the picker doesn't need to
+ *  special-case it.
+ *
+ *  mpv plays both Opus and AAC natively on every target platform,
+ *  so we don't preference one codec over the other — bitrate wins. */
 export function pickBestAudioFormat(resp: YtPlayerResponse): YtAdaptiveFormat | null {
   const all = resp.streamingData?.adaptiveFormats ?? [];
   const audio = all.filter((f) => f.mimeType?.startsWith('audio/') && f.url);
   if (audio.length === 0) return null;
-  const m4a = audio.filter((f) => f.mimeType.includes('mp4'));
-  const opus = audio.filter((f) => f.mimeType.includes('webm'));
-  const byBitrateDesc = (a: YtAdaptiveFormat, b: YtAdaptiveFormat) =>
-    (b.averageBitrate ?? b.bitrate) - (a.averageBitrate ?? a.bitrate);
-  if (m4a.length > 0) return m4a.sort(byBitrateDesc)[0];
-  if (opus.length > 0) return opus.sort(byBitrateDesc)[0];
-  return audio.sort(byBitrateDesc)[0];
+  return audio.sort((a, b) => (b.averageBitrate ?? b.bitrate) - (a.averageBitrate ?? a.bitrate))[0];
 }

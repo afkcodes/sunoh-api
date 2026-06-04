@@ -164,11 +164,13 @@ export async function search(query: string, filter: SearchFilter = 'songs') {
   );
 }
 
-/** `/player` — track playability + stream URLs. We use IOS by default
- *  so the response's `streamingData.adaptiveFormats[].url` comes
- *  pre-signed (no JS deciphering needed). If IOS gets rate-limited
- *  in a region, ANDROID is the next fallback. */
-export async function player(videoId: string, client: YouTubeClient = YT_CLIENTS.IOS) {
+/** `/player` — track playability + stream URLs. We default to
+ *  ANDROID because it returns the richer adaptive-format set
+ *  (m4a 128 + Opus 160 + various lower variants), where IOS tops out
+ *  at m4a 128 kbps. Both clients' URLs are server-signed but JS-free —
+ *  no on-device deciphering. If ANDROID gets rate-limited in a region,
+ *  IOS is the next fallback. */
+export async function player(videoId: string, client: YouTubeClient = YT_CLIENTS.ANDROID) {
   return ytPost(
     'player',
     {

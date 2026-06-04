@@ -12,9 +12,17 @@
 
 import type { FastifyInstance } from 'fastify';
 
-import { ytmusicSearchController, ytmusicStreamController } from './controller';
+import {
+  ytmusicAudioProxyController,
+  ytmusicSearchController,
+  ytmusicStreamController,
+} from './controller';
 
 export async function ytmusicRoutes(fastify: FastifyInstance) {
   fastify.get('/search', ytmusicSearchController);
   fastify.get('/song/:videoId/stream', ytmusicStreamController);
+  // Audio byte proxy — Flutter audio engine fetches this URL, we
+  // fetch googlevideo from the VPS IP, pipe the bytes through. Range
+  // header forwarded so seek + pre-buffer work the same as direct.
+  fastify.get('/audio/:videoId', ytmusicAudioProxyController);
 }
