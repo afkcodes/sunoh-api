@@ -10,6 +10,7 @@ import { radioRoutes } from './radios/route';
 import { saavnRoutes } from './saavn/route';
 import { spotifyRoutes } from './spotify/route';
 import { liveMusicRoutes } from './websocket/routes';
+import { ytmusicRoutes } from './ytmusic/route';
 
 export { cache } from './redis';
 
@@ -53,6 +54,15 @@ const entry = (fastify: FastifyInstance, _opts: FastifyServerOptions, done: () =
   // cold then serves instant for 1 h. Chapter mediaUrls inline so the
   // stream resolver short-circuits to tier-1 on play.
   fastify.register(audiobookRoutes, { prefix: '/audiobooks' });
+
+  // YouTube Music — pure-Node InnerTube port (ported from
+  // OuterTune's innertube/ Kotlin module). Phase 1: search + stream
+  // URL resolution. We hit the /player endpoint with the IOS client
+  // type so the response's stream URLs come back unsigned (no JS
+  // deciphering needed). Stream URLs live ~6 h and are IP-bound;
+  // cached 4 min server-side, Flutter resolver re-asks on playback
+  // error.
+  fastify.register(ytmusicRoutes, { prefix: '/ytmusic' });
 
   done();
 };
