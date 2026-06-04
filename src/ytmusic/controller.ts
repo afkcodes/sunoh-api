@@ -30,12 +30,12 @@ const SOURCE = 'youtube_music';
 
 const SEARCH_KEY = (q: string, filter: string) => `ytmusic_search_${filter}_${q.toLowerCase()}_v1`;
 const SEARCH_TTL = 60 * 10; // 10 min
-// Cache key bumped v2 → v3 after the ANDROID experiment: ANDROID
-// briefly resolved Opus 160 then started 400'ing with "Precondition
-// check failed"; the brief-success cached URLs were ANDROID-signed
-// and 403 from the proxy fetch. Bumping flushes those poisoned
-// entries so post-revert IOS resolves populate the new key fresh.
-const STREAM_KEY = (videoId: string) => `ytmusic_stream_${videoId}_v3`;
+// Cache key v4: previous v3 entries (post-revert IOS Opus-132)
+// signed under Node's default fetch UA, which googlevideo rejected
+// with 403. Proxy now sends iOS UA + Origin + Referer on the
+// upstream fetch — bumping the key so any in-cache mis-signed
+// entries don't keep serving 403s through the proxy.
+const STREAM_KEY = (videoId: string) => `ytmusic_stream_${videoId}_v4`;
 const STREAM_TTL = 60 * 4; // 4 min — conservative; YT URLs live ~6 h
 
 /** Public base URL the audio-proxy endpoint announces to clients.
@@ -213,10 +213,21 @@ export const ytmusicAudioProxyController = async (req: FastifyRequest, res: Fast
   }
 
   // Forward the client's Range header so partial-content requests
-  // (audio engine pre-buffer + seek) work through the proxy.
+  // (audio engine pre-buffer + seek) work through the proxy. Also
+  // send the same User-Agent / Origin / Referer the InnerTube
+  // request used — googlevideo URLs are signed for a (UA + IP)
+  // context and a mismatched UA can flip the response to 403 even
+  // from the correct IP. We hardcode the IOS UA because that's the
+  // client we use for /player (see client.ts:player default).
   const range = req.headers.range as string | undefined;
+  const upstreamHeaders: Record<string, string> = {
+    'user-agent': 'com.google.ios.youtube/20.10.4 (iPhone16,2; U; CPU iOS 18_3_2 like Mac OS X;)',
+    origin: 'https://www.youtube.com',
+    referer: 'https://www.youtube.com/',
+  };
+  if (range) upstreamHeaders.range = range;
   const upstreamReq = await fetch(result.googlevideoUrl, {
-    headers: range ? { range } : {},
+    headers: upstreamHeaders,
     // No abort signal — let the audio engine close the connection
     // by terminating the response (Fastify hooks the socket close
     // into the readable stream).
