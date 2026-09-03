@@ -202,6 +202,103 @@ export const downloadController = async (req: FastifyRequest, res: FastifyReply)
   }
 };
 
+/**
+ * Map the app's stream-quality preference onto a Qobuz format.
+ *
+ * Measured on real tracks: 24-bit/96kHz is roughly 96 MB and ~3 Mbps sustained,
+ * 16-bit/44.1kHz is roughly 27 MB. That 3.5x gap is why the data-saver setting
+ * caps at CD quality rather than simply refusing lossless.
+ */
+function engineQuality(pref?: string): string {
+  switch ((pref ?? 'auto').toLowerCase()) {
+    case 'data':
+      return 'HD'; // 16-bit / 44.1 kHz
+    default:
+      return 'UHD'; // highest available studio master
+  }
+}
+
+/**
+ * POST /lossless/stream-url
+ *
+ * Returns a signed CDN URL the client plays *directly*. The audio never passes
+ * through this server: the URL carries its own signature, needs no auth header,
+ * and the CDN answers Range requests with 206, so the player seeks natively.
+ * Proxying instead would push ~96 MB per play through this box.
+ *
+ * The URL is short-lived (about an hour), so `expiresAt` is returned and the
+ * response is cached for less than that window.
+ */
+export const streamUrlController = async (req: FastifyRequest, res: FastifyReply) => {
+  const body = (req.body ?? {}) as DownloadBody & { quality?: string };
+
+  try {
+    const target = await resolveTarget(body);
+    const engine = getEngine(target.engine);
+    if (!engine?.isConfigured()) {
+      return sendError(res, `The ${target.engine} engine is not configured.`, null, 503);
+    }
+
+    const quality = engineQuality(body.quality);
+    const key = `lossless_streamurl_v1_${target.engine}_${target.input}_${quality}`;
+
+    const cached = await cache.get<{ expiresAt?: number }>(key);
+    // Re-issue rather than hand back a URL about to die mid-track.
+    if (cached?.expiresAt && cached.expiresAt - Date.now() > 10 * 60 * 1000) {
+      return sendSuccess(res, cached, 'Lossless stream URL (cached)', 'lossless');
+    }
+
+    const info = await engine.getStream(target.input, quality);
+    if (!info.lossless) {
+      return sendError(res, 'No lossless stream available for this track.', null, 404);
+    }
+
+    // Prefer the expiry the CDN itself states; fall back to a conservative hour.
+    let expiresAt = Date.now() + 55 * 60 * 1000;
+    let sizeBytes: number | undefined;
+    try {
+      const u = new URL(info.url);
+      const etsp = Number.parseInt(u.searchParams.get('etsp') ?? '', 10);
+      if (Number.isFinite(etsp)) expiresAt = etsp * 1000;
+    } catch {
+      // Keep the conservative default.
+    }
+    try {
+      const head = await fetch(info.url, { method: 'HEAD' });
+      const len = Number.parseInt(head.headers.get('content-length') ?? '', 10);
+      if (Number.isFinite(len)) sizeBytes = len;
+    } catch {
+      // Size is informational; the player does not need it to start.
+    }
+
+    const payload = {
+      url: info.url,
+      expiresAt,
+      engine: target.engine,
+      trackId: target.input,
+      format: info.format,
+      mimeType: info.mimeType,
+      bitDepth: info.bitDepth,
+      sampleRate: info.samplingRateHz,
+      sizeBytes,
+      quality,
+      via: target.via,
+    };
+
+    // Cache only up to the point where the URL still has usable life left.
+    const ttl = Math.max(60, Math.floor((expiresAt - Date.now()) / 1000) - 600);
+    await cache.set(key, payload, ttl);
+
+    return sendSuccess(res, payload, 'Lossless stream URL', 'lossless');
+  } catch (err) {
+    const message = err instanceof Error ? err.message : String(err);
+    if (err instanceof NotConfiguredError) return sendError(res, message, null, 503);
+    if (err instanceof NotAvailableError) return sendError(res, message, null, 404);
+    log.error(`stream-url failed: ${message}`);
+    return sendError(res, 'Could not resolve a lossless stream', message, 502);
+  }
+};
+
 /** GET /lossless/progress/:jobId */
 export const progressController = async (req: FastifyRequest, res: FastifyReply) => {
   const { jobId } = req.params as { jobId: string };

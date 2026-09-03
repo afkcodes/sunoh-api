@@ -5,6 +5,7 @@ import {
   progressController,
   searchController,
   statusController,
+  streamUrlController,
 } from './controller';
 import { initEngines } from './registry';
 
@@ -23,6 +24,11 @@ const losslessRoutes = async (fastify: FastifyInstance) => {
   fastify.get('/search', searchController);
   fastify.get('/progress/:jobId', progressController);
   fastify.post('/available', availableController);
+  // Playback: hands back a signed CDN URL the client streams directly, so no
+  // audio passes through this server. /download is a separate concern -- it
+  // retags the file and cannot be seeked.
+  fastify.post('/stream-url', streamUrlController);
+
   fastify.post('/download', downloadController);
 };
 
