@@ -2,6 +2,8 @@ import { FastifyInstance, FastifyServerOptions } from 'fastify';
 import { audiobookRoutes } from './audiobooks/route';
 import { gaanaRoutes } from './gaana/route';
 import { lyricsRoutes } from './lyrics/route';
+import { losslessRoutes } from './lossless/route';
+import { matcherRoutes } from './matcher/route';
 import { musicRoutes } from './music/route';
 import { play } from './play';
 import { podcastRoutes } from './podcast/route';
@@ -30,6 +32,18 @@ const entry = (fastify: FastifyInstance, _opts: FastifyServerOptions, done: () =
   fastify.register(saavnRoutes, { prefix: '/saavn' });
   fastify.register(spotifyRoutes, { prefix: '/spotify' });
   fastify.register(gaanaRoutes, { prefix: '/gaana' });
+
+  // Lossless matching — given a Saavn or Gaana Song, find the same recording
+  // in the lossless (Tidal-backed) catalogue and report ISRC + hi-res
+  // availability. Catalogue metadata only; no stream resolution. Sits beside
+  // the existing Spotify->Saavn matcher rather than replacing it.
+  fastify.register(matcherRoutes, { prefix: '/match' });
+
+  // Lossless downloads — Qobuz, Tidal and Amazon engines ported from the
+  // ClashFLAC server. FLAC is retagged in flight and streamed straight to the
+  // client, so a 40 MB hi-res track never lands in memory or on disk.
+  // Credentials come from the env; endpoints answer 503 when absent.
+  fastify.register(losslessRoutes, { prefix: '/lossless' });
 
   // Other Services
   fastify.register(lyricsRoutes, { prefix: '/lyrics' });
