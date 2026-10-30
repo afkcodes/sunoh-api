@@ -4,7 +4,7 @@
 //   npx tsx scripts/smoke-spotify-import.ts <playlistIdOrUrl>
 //
 // Times the scrape, prints summary stats, and dumps a sample. Doesn't
-// touch the Saavn matcher (which would also require Redis + network);
+// touch the Saavn matcher (which would also require network);
 // keeps this lean to verify just the Puppeteer side.
 
 import { extractPlaylistId, fetchSpotifyPlaylist } from '../src/spotify/scraper';

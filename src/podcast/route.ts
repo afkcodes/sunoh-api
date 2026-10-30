@@ -13,9 +13,7 @@ import {
   podcastsByCategoryController,
   podcastsCategoriesController,
   podcastsHomeController,
-  podcastsRecentController,
   podcastsSearchController,
-  podcastsTrendingController,
 } from './controller';
 
 export async function podcastRoutes(fastify: FastifyInstance) {
@@ -24,8 +22,6 @@ export async function podcastRoutes(fastify: FastifyInstance) {
   fastify.get('/home', podcastsHomeController);
 
   // Discovery
-  fastify.get('/trending', podcastsTrendingController);
-  fastify.get('/recent', podcastsRecentController);
   fastify.get('/categories', podcastsCategoriesController);
   fastify.get('/by-category/:slug', podcastsByCategoryController);
 

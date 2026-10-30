@@ -1,13 +1,10 @@
 // Audiobooks endpoints.
 //
 // Backed by cozyaudiobooks.com via thin WordPress REST proxies +
-// HTML-scrape enrichment for cover/author/chapters. All hot paths are
-// Redis-cached so the cold-load HTML scrape cost is paid once per
-// resource per TTL window.
+// HTML-scrape enrichment for cover/author/chapters.
 
 import type { FastifyReply, FastifyRequest } from 'fastify';
 
-import { cache } from '../redis';
 import type { HomeSection } from '../types';
 import { sendError, sendSuccess } from '../utils/response';
 import { cozyHtml, cozyJson } from './client';
@@ -19,10 +16,8 @@ const SOURCE = 'cozyaudiobooks';
 
 // ── Home configuration ───────────────────────────────────────────────────
 //
-// Fixed sections — predictable + cache-friendly. If we ever want
-// rotation, just rewrite this constant with a per-day picker. The home
-// gets warmed every 50 min by the route so users effectively never see
-// a cold path even though the cache TTL is 60 min.
+// Fixed sections — predictable. If we ever want
+// rotation, just rewrite this constant with a per-day picker.
 
 const HOME_HERO_SIZE = 6;
 const HOME_STRIP_SIZE = 10;
@@ -37,28 +32,6 @@ const HOME_STRIPS: { heading: string; categoryId: number }[] = [
 
 const BROWSE_GENRES_PREVIEW_COUNT = 12;
 
-// ── Cache keys + TTLs ────────────────────────────────────────────────────
-
-// Cache version bumped from _v1 → _v2 to invalidate two earlier-shipped
-// bugs in one go:
-//   - per-post: author scrape was matching WP `<meta name=author>` →
-//     always "admin". Real author lives in the schema.org Person graph;
-//     fixed in scraper.ts.
-//   - categories: controller returned raw WP rows (yoast_head, meta,
-//     taxonomy, …) instead of the flat {id, name, slug, count} shape.
-//   - home + by-category transitively held the bad author payload.
-const HOME_KEY = 'audiobooks_home_v2';
-const HOME_TTL = 60 * 60; // 1 h
-const CATEGORIES_KEY = 'audiobooks_categories_v2';
-const CATEGORIES_TTL = 60 * 60 * 24; // 24 h — near-static
-const BY_CATEGORY_KEY = (id: number, page: number, limit: number) =>
-  `audiobooks_cat_${id}_p${page}_l${limit}_v2`;
-const BY_CATEGORY_TTL = 60 * 60; // 1 h
-const POST_KEY = (slug: string) => `audiobooks_post_${slug}_v2`;
-const POST_TTL = 60 * 60 * 24; // 24 h — chapter URLs are stable
-const SEARCH_KEY = (q: string) => `audiobooks_search_${q.toLowerCase()}_v2`;
-const SEARCH_TTL = 60 * 10; // 10 min — fresh enough for live UX
-
 /** Concurrency cap for parallel HTML scrapes. cozyaudiobooks rate-limits
  *  loosely around 2 r/s; 10 in-flight is a comfortable ceiling that
  *  finishes a 50-book home warmup in ~6 s without 429ing. */
@@ -66,25 +39,16 @@ const SCRAPE_CONCURRENCY = 10;
 
 // ── Helpers ──────────────────────────────────────────────────────────────
 
-const slugFromLink = (link: string): string => {
-  const m = /cozyaudiobooks\.com\/([^/?#]+)/i.exec(link);
-  return m ? m[1] : link;
-};
-
-/** Scrape a single post page → enriched detail. Caches the full
- *  ScrapedPost (cover + author + audio + chapters) for 24 h. Called
+/** Scrape a single post page → enriched detail (cover + author +
+ *  audio + chapters). Called
  *  by:
  *    - home/strip enrichment (only reads cover + author from the result)
  *    - detail endpoint (uses everything)
  *    - by-category lazy enrichment (cover only) */
-async function scrapeAndCachePost(link: string): Promise<ScrapedPost | null> {
-  const slug = slugFromLink(link);
-  const cached = await cache.get<ScrapedPost>(POST_KEY(slug));
-  if (cached) return cached;
+async function scrapePost(link: string): Promise<ScrapedPost | null> {
   const res = await cozyHtml(link);
   if (!res.ok || !res.data) return null;
   const scraped = parsePost(res.data);
-  await cache.set(POST_KEY(slug), scraped, POST_TTL);
   return scraped;
 }
 
@@ -123,7 +87,7 @@ async function fetchEnrichedStrip(
   });
   if (!upstream.ok || !upstream.data) return [];
   const enrichments = await mapWithConcurrency(upstream.data, SCRAPE_CONCURRENCY, (p) =>
-    scrapeAndCachePost(p.link),
+    scrapePost(p.link),
   );
   return upstream.data.map((post, i) =>
     mapPostToFeedItem(post, { scraped: enrichments[i] ?? null }),
@@ -133,15 +97,8 @@ async function fetchEnrichedStrip(
 // ── GET /audiobooks/home ─────────────────────────────────────────────────
 
 /** Multi-section home: hero (latest) + browse-genres preview + 5 genre
- *  strips. ~56 HTML scrapes cold, ~6 s parallel. Cached 1 h. */
+ *  strips. ~56 HTML scrapes cold, ~6 s parallel. */
 export const audiobooksHomeController = async (_req: FastifyRequest, res: FastifyReply) => {
-  try {
-    const cached = await cache.get<HomeSection[]>(HOME_KEY);
-    if (cached) return sendSuccess(res, cached, 'OK (Cached)', SOURCE);
-  } catch {
-    /* cache offline — refetch */
-  }
-
   // Hero (latest across all categories) + 5 genre strips run in
   // parallel — independent upstream calls.
   const [hero, ...strips] = await Promise.all([
@@ -151,7 +108,7 @@ export const audiobooksHomeController = async (_req: FastifyRequest, res: Fastif
 
   // Browse-genres preview tile row uses the categories endpoint, no
   // enrichment needed (counts inline).
-  const cats = await getCategoriesCached();
+  const cats = await getCategories();
   const browseTiles = cats.slice(0, BROWSE_GENRES_PREVIEW_COUNT).map((c) => ({
     id: String(c.id),
     title: c.name,
@@ -183,11 +140,6 @@ export const audiobooksHomeController = async (_req: FastifyRequest, res: Fastif
   if (sections.length === 0) {
     return sendError(res, 'No sections returned from upstream', null, 502);
   }
-  try {
-    await cache.set(HOME_KEY, sections, HOME_TTL);
-  } catch {
-    /* cache write blip — return anyway */
-  }
   return sendSuccess(res, sections, 'Audiobooks home', SOURCE);
 };
 
@@ -213,11 +165,9 @@ const decodeEntities = (s: string): string =>
     .replace(/&quot;/g, '"')
     .replace(/&#(\d+);/g, (_, d) => String.fromCharCode(Number(d)));
 
-/** All categories sorted by post count desc. Cached 24 h — drives the
+/** All categories sorted by post count desc. Drives the
  *  full genres grid screen when the user taps "See all" on the home. */
-async function getCategoriesCached(): Promise<AudiobookCategoryClean[]> {
-  const cached = await cache.get<AudiobookCategoryClean[]>(CATEGORIES_KEY);
-  if (cached) return cached;
+async function getCategories(): Promise<AudiobookCategoryClean[]> {
   const upstream = await cozyJson<WpCategory[]>('/wp-json/wp/v2/categories', {
     per_page: 100,
     orderby: 'count',
@@ -234,12 +184,11 @@ async function getCategoriesCached(): Promise<AudiobookCategoryClean[]> {
       slug: c.slug,
       count: c.count,
     }));
-  await cache.set(CATEGORIES_KEY, cleaned, CATEGORIES_TTL);
   return cleaned;
 }
 
 export const audiobooksCategoriesController = async (_req: FastifyRequest, res: FastifyReply) => {
-  const cats = await getCategoriesCached();
+  const cats = await getCategories();
   if (cats.length === 0) {
     return sendError(res, 'Categories fetch failed', null, 502);
   }
@@ -251,8 +200,7 @@ export const audiobooksCategoriesController = async (_req: FastifyRequest, res: 
 /** Paginated post listing for a single category. Skeleton-only — no
  *  cover/author scrape — because the Flutter side lazy-enriches each
  *  tile as it scrolls into view via /audiobooks/:id. First scroll
- *  through is slow per tile (1 HTTP + scrape per book), but Redis
- *  caches each scrape for 24 h so subsequent users get it instant. */
+ *  through is slow per tile (1 HTTP + scrape per book), per scrape. */
 export const audiobooksByCategoryController = async (req: FastifyRequest, res: FastifyReply) => {
   const q = req.query as { id?: string; page?: string; limit?: string };
   const idNum = Number(q.id);
@@ -262,10 +210,7 @@ export const audiobooksByCategoryController = async (req: FastifyRequest, res: F
   const page = Math.max(1, Number(q.page) || 1);
   const limit = Math.min(100, Math.max(1, Number(q.limit) || 50));
 
-  const key = BY_CATEGORY_KEY(idNum, page, limit);
   try {
-    const cached = await cache.get(key);
-    if (cached) return sendSuccess(res, cached, 'OK (Cached)', SOURCE);
   } catch {
     /* fall through */
   }
@@ -282,11 +227,6 @@ export const audiobooksByCategoryController = async (req: FastifyRequest, res: F
   }
   const items = upstream.data.map((p) => mapPostToFeedItem(p, { scraped: null }));
   const payload = { list: items, count: items.length, page, limit };
-  try {
-    await cache.set(key, payload, BY_CATEGORY_TTL);
-  } catch {
-    /* cache write blip */
-  }
   return sendSuccess(res, payload, `Audiobooks · category ${idNum}`, SOURCE);
 };
 
@@ -300,10 +240,7 @@ export const audiobooksSearchController = async (req: FastifyRequest, res: Fasti
   if (q.length < 2) {
     return sendError(res, 'Search `q` must be ≥ 2 chars', null, 400);
   }
-  const key = SEARCH_KEY(q);
   try {
-    const cached = await cache.get(key);
-    if (cached) return sendSuccess(res, cached, 'OK (Cached)', SOURCE);
   } catch {
     /* fall through */
   }
@@ -316,11 +253,6 @@ export const audiobooksSearchController = async (req: FastifyRequest, res: Fasti
   }
   const items = upstream.data.map(mapSearchHitToFeedItem);
   const payload = { list: items, count: items.length };
-  try {
-    await cache.set(key, payload, SEARCH_TTL);
-  } catch {
-    /* cache write blip */
-  }
   return sendSuccess(res, payload, `Audiobook search "${q}"`, SOURCE);
 };
 
@@ -339,7 +271,7 @@ export const audiobookDetailController = async (req: FastifyRequest, res: Fastif
   // is just a string template; no upstream lookup needed.
   const link = `https://cozyaudiobooks.com/${slug}/`;
 
-  const scraped = await scrapeAndCachePost(link);
+  const scraped = await scrapePost(link);
   if (!scraped) {
     return sendError(res, 'Audiobook not found', null, 404);
   }

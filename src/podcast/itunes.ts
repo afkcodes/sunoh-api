@@ -21,8 +21,6 @@
 // (The newer rss.applemarketingtools.com endpoint started returning 405
 // in 2026 — kept this RSS one as the only path.)
 
-import { cache } from '../redis';
-
 const APPLE_USER_AGENT = 'sunoh-api/1.0 (+https://sunoh.online)';
 
 export interface AppleChartEntry {
@@ -54,14 +52,6 @@ async function fetchAppleChart(
     ? `${encodeURIComponent(cc)}/rss/toppodcasts/limit=${n}/genre=${encodeURIComponent(genreId)}/json`
     : `${encodeURIComponent(cc)}/rss/toppodcasts/limit=${n}/json`;
   const url = `https://itunes.apple.com/${path}`;
-  const cacheKey = `apple_chart_v1_${cc}_${genreId ?? 'top'}_${n}`;
-
-  try {
-    const cached = (await cache.get(cacheKey)) as AppleChartEntry[] | null;
-    if (cached) return cached;
-  } catch {
-    /* cache offline — go live */
-  }
 
   let body: AppleRssBody | null = null;
   try {
@@ -102,17 +92,11 @@ async function fetchAppleChart(
     })
     .filter((x): x is AppleChartEntry => x !== null);
 
-  try {
-    await cache.set(cacheKey, out, 60 * 60 * 24);
-  } catch {
-    /* cache write blip — return the live result anyway */
-  }
   return out;
 }
 
 /**
  * Apple's "Top Podcasts" overall chart for the given storefront.
- * 24 h Redis TTL — Apple updates these charts at most daily.
  */
 export function appleTopOverall(country: string, count = 25): Promise<AppleChartEntry[]> {
   return fetchAppleChart(country, count, undefined);

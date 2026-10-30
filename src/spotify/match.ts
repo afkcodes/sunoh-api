@@ -2,17 +2,12 @@
 //
 // Strategy (in order — first hit wins):
 //
-//   1. Persistent Redis cache keyed by Spotify track id. Mappings are
-//      effectively immutable (a given Spotify ID will always point at
-//      the same recording, and that recording either is or isn't on
-//      Saavn) so the cache never expires.
-//
-//   2. ISRC-as-query. JioSaavn doesn't index ISRC directly but a
+//   1. ISRC-as-query. JioSaavn doesn't index ISRC directly but a
 //      surprising number of catalog records carry it in the title or
 //      free-text fields. Cheap to try — single search call, exact hit
 //      or skip.
 //
-//   3. Cleaned-title + artist fuzzy search. The same scorer as the old
+//   2. Cleaned-title + artist fuzzy search. The same scorer as the old
 //      `maptoSaavn.ts` (token Jaccard + character overlap + duration
 //      penalty), but called against the in-process Saavn helper rather
 //      than HTTP-looping back through our own /saavn/search endpoint.
@@ -22,15 +17,9 @@
 // `{ spotify, saavn, score, matched }` quad — so the controller can
 // summarise hits/misses for the client.
 
-import { cache } from '../redis';
 import { getSaavnSearchData } from '../saavn/controller';
 import type { SpotifyTrack } from './types';
 
-const MATCH_CACHE_KEY = (spotifyId: string) => `spotify_to_saavn_v1_${spotifyId}`;
-/** No TTL — mappings don't go stale (a recording's identity is
- *  permanent; if a track gets removed from Saavn we can rediscover via
- *  cache.delete on a manual flush). */
-const MATCH_CACHE_TTL = 60 * 60 * 24 * 365;
 /** Below this we don't trust the fuzzy match — surfaced as `matched:false`
  *  with the candidate still attached so the UI can show "we tried this,
  *  not confident" instead of nothing. */
@@ -157,15 +146,7 @@ async function saavnSearch(q: string): Promise<SaavnCandidate[]> {
 }
 
 async function matchOne(spotify: SpotifyTrack): Promise<SpotifyToSaavnMatch> {
-  // 1) Persistent cache
-  try {
-    const cached = (await cache.get(MATCH_CACHE_KEY(spotify.id))) as SpotifyToSaavnMatch | null;
-    if (cached) return { ...cached, spotify }; // refresh the spotify side from current input
-  } catch {
-    /* cache offline — go live */
-  }
-
-  // 2) ISRC-as-query (cheap; skip when we don't have one).
+  // 1) ISRC-as-query (cheap; skip when we don't have one).
   let best: SaavnCandidate | null = null;
   let bestScore = -1;
   let bestQuery = '';
@@ -184,7 +165,7 @@ async function matchOne(spotify: SpotifyTrack): Promise<SpotifyToSaavnMatch> {
     }
   }
 
-  // 3) Cleaned title + artist fuzzy. We always run this even after an
+  // 2) Cleaned title + artist fuzzy. We always run this even after an
   //    ISRC hit so the scoring can pick the best between them — ISRC
   //    sometimes lands on a weird live/karaoke version.
   for (const q of buildQueries(spotify)) {
@@ -214,17 +195,6 @@ async function matchOne(spotify: SpotifyTrack): Promise<SpotifyToSaavnMatch> {
     candidatesConsidered,
   };
 
-  // 4) Persist whether matched or not — even a known-miss saves us
-  //    re-running the full ladder next time someone imports the same
-  //    track. (We only cache when at least one search ran, so transient
-  //    failures don't poison the cache.)
-  if (candidatesConsidered > 0 || best === null) {
-    try {
-      await cache.set(MATCH_CACHE_KEY(spotify.id), out, MATCH_CACHE_TTL);
-    } catch {
-      /* cache write blip — return anyway */
-    }
-  }
   return out;
 }
 

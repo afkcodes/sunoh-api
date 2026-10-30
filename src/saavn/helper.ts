@@ -1,4 +1,4 @@
-import { capitalizeFirstLetter, toCamelCase, toSentenceCase } from '../helpers/common';
+import { capitalizeFirstLetter, toSentenceCase } from '../helpers/common';
 import { saavnDataConfigs } from '../helpers/dataConfig';
 import { dataExtractor } from '../helpers/dataExtractor';
 import { isArray, isEmptyArray } from '../helpers/validators';
@@ -61,10 +61,6 @@ export const songDataSanitizer = (data: any[]) => {
   return data.map(mapSaavnSong);
 };
 
-export const albumDataSanitizer = (data: any) => {
-  return mapSaavnAlbum(data);
-};
-
 export const homeDataMapper = (data: any): HomeData => {
   const modulesArr = [...Object.keys(data?.modules || {}), 'browse_discover'].filter(
     (key) => !excludedKeys?.includes(key),
@@ -85,27 +81,6 @@ export const homeDataMapper = (data: any): HomeData => {
   }
 
   return mappedData.filter((d) => !d?.heading?.toLowerCase()?.includes('podcasts'));
-};
-
-export const modulesDataMapper = (data: any) => {
-  const modulesArr = Object.keys(data || {}).filter((key) => !excludedKeys?.includes(key));
-  const mappedData = [];
-
-  modulesArr.forEach((module) => {
-    const extractedData = dataExtractor<any>(
-      data,
-      saavnDataConfigs.moduleConfig[toCamelCase(module)],
-    )?.map((moduleData: any) => dataSanitizer(moduleData));
-
-    if (extractedData) {
-      mappedData.push({
-        heading: toSentenceCase(module),
-        data: extractedData,
-      });
-    }
-  });
-
-  return mappedData;
 };
 
 export const albumDataMapper = (data: any) => {

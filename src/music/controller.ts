@@ -5,8 +5,7 @@ import {
   getGaanaSearchData,
   getGaanaTrendingSearchData,
 } from '../gaana/controller';
-import { capitalizeFirstLetter, detectLanguage, isValidTitle } from '../helpers/common';
-import { cache } from '../redis';
+import { capitalizeFirstLetter, isValidTitle } from '../helpers/common';
 import {
   getSaavnHomeData,
   getSaavnSearchData,
@@ -14,7 +13,6 @@ import {
   getSaavnTopSearchData,
   artistStationController as saavnArtistStationController,
   entityStationController as saavnEntityStationController,
-  featuredStationsController as saavnFeaturedStationsController,
   stationController as saavnStationController,
   stationSongsController as saavnStationSongsController,
 } from '../saavn/controller';
@@ -186,204 +184,6 @@ export const unifiedRadioPlayController = async (req: FastifyRequest, res: Fasti
   }
 };
 
-export const unifiedArtistRadioController = async (req: FastifyRequest, res: FastifyReply) => {
-  const { artistId } = req.params as any;
-  const { q, query, lang, type } = req.query as any;
-  const searchQuery = q || query;
-  let languages = lang || (req.query as any).languages || detectLanguage(searchQuery);
-
-  // Default languages if none detected or provided
-  if (!languages) languages = 'hindi,english';
-
-  try {
-    const mockRes = {
-      code: () => ({
-        send: (data: any) => data,
-      }),
-    } as any;
-
-    // Explicit Type Handling
-    if (type === 'featured') {
-      const stationIdentifier = artistId || searchQuery;
-      // 1. Try treating artistId as a direct Station ID
-      const songsReq = {
-        query: { stationId: stationIdentifier, count: 20, lang: languages, ...(req.query as any) },
-      } as any;
-      const songsRes = (await saavnStationSongsController(songsReq, mockRes)) as any;
-
-      if (songsRes.status === 'success' && songsRes.data?.list?.length > 0) {
-        return sendSuccess(
-          res,
-          {
-            stationId: stationIdentifier,
-            list: songsRes.data.list,
-          },
-          'Featured radio fetched successfully',
-          'unified',
-        );
-      }
-
-      // 2. If valid songs not found, try creating a featured station by name
-      // (This handles cases where ID is just the name like "Punjabi Retro")
-      const featuredReq = {
-        query: { name: stationIdentifier, lang: languages },
-      } as any;
-
-      const featuredRes = (await saavnStationController(featuredReq, mockRes)) as any;
-
-      if (featuredRes && featuredRes.status === 'success' && featuredRes.data?.stationid) {
-        const stationId = featuredRes.data.stationid;
-        const songsReq2 = {
-          query: { stationId, count: 20, lang: languages },
-        } as any;
-        const songsRes2 = (await saavnStationSongsController(songsReq2, mockRes)) as any;
-
-        if (songsRes2.status === 'success') {
-          return sendSuccess(
-            res,
-            {
-              stationId,
-              list: songsRes2.data.list,
-            },
-            'Featured radio (by name) fetched successfully',
-            'unified',
-          );
-        }
-      }
-    }
-
-    let targetArtistId = artistId;
-    let artistName = searchQuery;
-
-    // If no artistId (or type mismatch) but search query is provided, find the best match on Saavn
-    if (!targetArtistId && searchQuery) {
-      // 1. Try if it's a Featured Station (e.g. "Punjabi Covers")
-      const featuredReq = {
-        query: { name: searchQuery, lang: languages },
-      } as any;
-
-      const featuredRes = (await saavnStationController(featuredReq, mockRes)) as any;
-
-      if (featuredRes && featuredRes.status === 'success' && featuredRes.data?.stationid) {
-        const stationId = featuredRes.data.stationid;
-        const songsReq = {
-          query: { stationId, count: 20, lang: languages },
-        } as any;
-        const songsRes = (await saavnStationSongsController(songsReq, mockRes)) as any;
-
-        if (songsRes.status === 'success' && songsRes.data?.list?.length > 0) {
-          return sendSuccess(
-            res,
-            {
-              stationId,
-              list: songsRes.data.list,
-            },
-            'Radio tracks fetched successfully',
-            'unified',
-          );
-        }
-        console.log(
-          `⚠️ Featured station "${searchQuery}" found but returned 0 songs. Falling back to artist search.`,
-        );
-      }
-
-      // 2. If not a featured station, find the best Artist match
-      const searchResults = await getSaavnSearchData(searchQuery, 'artists', 1, 1, languages);
-      if (
-        searchResults &&
-        !Array.isArray(searchResults) &&
-        searchResults.list &&
-        searchResults.list.length > 0
-      ) {
-        targetArtistId = searchResults.list[0].id;
-        artistName = searchResults.list[0].title || searchResults.list[0].name;
-      }
-    }
-
-    if (!targetArtistId) {
-      return sendError(res, 'Could not identify an artist for radio');
-    }
-
-    // Use Saavn to create artist station
-    const mockReq = {
-      query: { artistId: targetArtistId, name: artistName, lang: languages },
-    } as any;
-
-    const stationRes = (await saavnArtistStationController(mockReq, mockRes)) as any;
-
-    if (stationRes && stationRes.status === 'success' && stationRes.data?.stationid) {
-      const stationId = stationRes.data.stationid;
-
-      // Fetch the first batch of songs immediately
-      const songsReq = {
-        query: { stationId, count: 20, lang: languages },
-      } as any;
-      const songsRes = (await saavnStationSongsController(songsReq, mockRes)) as any;
-
-      return sendSuccess(
-        res,
-        {
-          stationId,
-          list: songsRes.status === 'success' ? songsRes.data.list : [],
-        },
-        'Artist radio fetched successfully',
-        'unified',
-      );
-    }
-
-    return sendError(res, 'Failed to create artist radio');
-  } catch (error: any) {
-    return sendError(res, error.message || 'Failed to fetch artist radio', error);
-  }
-};
-
-export const unifiedRadioController = async (req: FastifyRequest, res: FastifyReply) => {
-  const { lang } = req.query as any;
-  const languages = lang || (req.query as any).languages;
-
-  try {
-    // Create mock objects to call controllers
-    const mockRes = (source: string) =>
-      ({
-        code: () => ({
-          send: (data: any) => data,
-        }),
-      }) as any;
-
-    const [saavnRes, gaanaRes] = await Promise.allSettled([
-      saavnFeaturedStationsController(req as any, mockRes('saavn')),
-      gaanaRadioStationsController(req as any, mockRes('gaana')),
-    ]);
-
-    let saavnStations =
-      saavnRes.status === 'fulfilled' && (saavnRes.value as any).status === 'success'
-        ? (saavnRes.value as any).data
-        : [];
-
-    let gaanaStationsRaw =
-      gaanaRes.status === 'fulfilled' && (gaanaRes.value as any).status === 'success'
-        ? (gaanaRes.value as any).data
-        : [];
-
-    // Flatten Gaana sections into a single list of radio stations
-    const gaanaStations = gaanaStationsRaw.reduce((acc: any[], section: any) => {
-      if (section.data) acc.push(...section.data);
-      return acc;
-    }, []);
-
-    const finalData = [];
-    const maxLen = Math.max(saavnStations.length, gaanaStations.length);
-    for (let i = 0; i < maxLen; i++) {
-      if (saavnStations[i]) finalData.push({ ...saavnStations[i], source: 'saavn' });
-      if (gaanaStations[i]) finalData.push({ ...gaanaStations[i], source: 'gaana' });
-    }
-
-    return sendSuccess(res, finalData, 'Radio stations fetched successfully', 'unified');
-  } catch (error: any) {
-    return sendError(res, error.message || 'Failed to fetch unified radio stations', error);
-  }
-};
-
 export const unifiedSongRecommendController = async (req: FastifyRequest, res: FastifyReply) => {
   const { songId: paramSongId } = req.params as any;
   const { q, query, lang, songId: querySongId } = req.query as any;
@@ -423,12 +223,8 @@ export const unifiedSongRecommendController = async (req: FastifyRequest, res: F
 export const unifiedHomeController = async (req: FastifyRequest, res: FastifyReply) => {
   const { lang } = req.query as any;
   const languages = lang || (req.query as any).languages;
-  const cacheKey = `unified_home_v3_${languages || 'default'}`;
 
   try {
-    const cached = await cache.get(cacheKey);
-    if (cached) return sendSuccess(res, cached, 'OK (Cached)', 'unified');
-
     const [saavnHome, gaanaHome] = await Promise.allSettled([
       getSaavnHomeData(languages),
       getGaanaHomeData(lang),
@@ -547,12 +343,8 @@ export const unifiedSearchController = async (req: FastifyRequest, res: FastifyR
   const q = query.q || query.query || '';
   const { lang, type = 'all', page = 1, count = 20 } = query;
   const languages = lang || query.languages;
-  const cacheKey = `unified_search_v6_${q}_${type}_${page}_${count}_${languages || 'default'}`;
 
   try {
-    const cached = await cache.get(cacheKey);
-    if (cached) return sendSuccess(res, cached, 'OK (Cached)', 'unified');
-
     if (!q) {
       // Trending/Top Search when no query is provided
       const [saavnTop, gaanaTrending] = await Promise.allSettled([
@@ -576,7 +368,6 @@ export const unifiedSearchController = async (req: FastifyRequest, res: FastifyR
         });
       }
 
-      await cache.set(cacheKey, saavnData, 7200);
       return sendSuccess(res, saavnData, 'Top search results fetched successfully', 'unified');
     }
 
@@ -716,7 +507,6 @@ export const unifiedSearchController = async (req: FastifyRequest, res: FastifyR
       saavnResults = saavnResults.map((s: any) => ({ ...s, data: dedupe(s.data) }));
     }
 
-    await cache.set(cacheKey, saavnResults, 7200);
     return sendSuccess(res, saavnResults, 'Search results fetched successfully', 'unified');
   } catch (error: any) {
     return sendError(res, error.message || 'Unified search failed', error);
@@ -766,9 +556,6 @@ export const unifiedArtistController = async (req: FastifyRequest, res: FastifyR
     }
 
     // 3. Fallback: Treat as Gaana SEO key and unify
-    const key = `unified_artist_lookup_${artistId}_${languages}`;
-    const cached = await cache.get(key);
-    if (cached) return sendSuccess(res, cached, 'OK (Cached)', 'unified');
 
     // Get artist info from Gaana to get the name
     const { data: artistDetail } = await gaanaFetch(
@@ -795,7 +582,6 @@ export const unifiedArtistController = async (req: FastifyRequest, res: FastifyR
         const unifiedData = await getSaavnData(saavnId);
 
         if (unifiedData) {
-          await cache.set(key, unifiedData, 10800);
           return sendSuccess(res, unifiedData, 'Artist data unified successfully', 'unified');
         }
       }

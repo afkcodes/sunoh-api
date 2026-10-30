@@ -1,7 +1,7 @@
 # Sunoh API 🎵
 
 [![Version](https://img.shields.io/badge/version-1.0.3-blue.svg)](api-endpoints.json)
-[![Tech Stack](https://img.shields.io/badge/tech-Fastify%20%7C%20TypeScript%20%7C%20Redis-007acc.svg)](package.json)
+[![Tech Stack](https://img.shields.io/badge/tech-Fastify%20%7C%20TypeScript-007acc.svg)](package.json)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 The high-performance core for the [Sunoh Music App](https://www.sunoh.online), delivering a unified music discovery experience by orchestrating data from multiple industry-leading providers.
@@ -15,9 +15,7 @@ Sunoh API is a modern, TypeScript-based middleware designed to bridge the gap be
 ### **Key Features**
 - 🌪️ **Unified Search & Home**: Intelligent result merging and interleaving from Saavn and Gaana.
 - 📻 **Universal Radio**: Coordinated radio stations across providers with infinite playback support.
-- ⚡ **Multi-Tier Caching**: Robust Redis-backed caching system with granular TTL policies.
 - 🎼 **Provider-Agnostic Interface**: One API for Songs, Albums, Playlists, and Artists regardless of the source.
-- 🎤 **LRC/Synced Lyrics**: High-quality sync lyrics integration via specialized providers.
 - 🟢 **Gaana Integration Plus**: Native support for stream decryption, curated occasions, and radio stations.
 - 🐋 **Docker Ready**: Fully containerized environment for seamless deployment and development.
 
@@ -28,7 +26,6 @@ Sunoh API is a modern, TypeScript-based middleware designed to bridge the gap be
 - **Runtime**: Node.js (v20+)
 - **Framework**: [Fastify](https://www.fastify.io/) (High performance, low overhead)
 - **Language**: TypeScript (Type-safe codebase)
-- **Database/Cache**: Redis (High-speed data persistence)
 - **Containerization**: Docker & Docker Compose
 - **Deployment**: Optimized for Vercel Serverless and Standalone Docker.
 
@@ -57,17 +54,12 @@ All source data is mapped to a strictly typed internal schema before returning. 
 Create a `.env` file in the root directory:
 ```env
 PORT=3600
-REDIS_HOST=redis
-REDIS_PORT=6379
-# PROVIDER TOKENS
-LYRICS_TOKEN=your_token
-MEDIA_USER_TOKEN=your_token
 ```
 
 ### **1. Using Docker (Recommended)**
 The fastest way to get up and running:
 ```bash
-# Start API and Redis containers
+# Start the API container
 npm run docker:up -- --build
 ```
 The API will be available at `http://localhost:3600`.
@@ -93,11 +85,8 @@ Detailed endpoint specifications can be found in [api-endpoints.json](api-endpoi
 | `/music/home` | `GET` | Unified home screen with interleaved charts and releases. |
 | `/music/search` | `GET` | Merged search results for songs, albums, and playlists. |
 | `/music/recommend` | `GET` | Get similar songs based on a search query (`q`). |
-| `/music/radio` | `GET` | Browse featured radio stations from all providers. |
-| `/music/artist/radio` | `GET` | Start an artist-based radio station via query (`q`). |
 | `/music/song/:id` | `GET` | Full song metadata and streaming URLs. |
 | `/music/occasions`| `GET` | Browse curated moods and genres (Gaana focused). |
-| `/lyrics/:name` | `GET` | Get LRC/Synced lyrics for a specific track. |
 
 ---
 
@@ -110,12 +99,7 @@ Fetch a list of similar songs and a coordinated radio station using just a song 
 - **Endpoint**: `GET /music/recommend?q=Song Name`
 - **Response**: Returns a `list` of songs and a `stationId`.
 
-### **2. Artist Radio**
-Start a personalized stream for any artist.
-- **Endpoint**: `GET /music/artist/radio?q=Artist Name`
-- **Response**: Returns a `stationId` and the first 20 tracks.
-
-### **4. Universal Radio Wrapper (Unified)**
+### **2. Universal Radio Wrapper (Unified)**
 The API provides a seamless, provider-agnostic way to handle infinite radio playback.
 
 **Step 1: Initialize Session**
@@ -135,11 +119,6 @@ Use the returned `stationId` to fetch songs. Supports pagination.
   - `k`: Number of songs (default 20)
   - `next`: Page number (default 1)
 - **Response**: Returns a list of standardized `Song` objects ready for playback.
-
-### **Legacy Radio Endpoints (Optional)**
-Direct access to specific provider radio logic is still available via:
-- `/saavn/station/create`
-- `/gaana/radio/:id`
 
 ---
 

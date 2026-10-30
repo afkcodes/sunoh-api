@@ -14,7 +14,6 @@
 
 import type { FastifyReply, FastifyRequest } from 'fastify';
 
-import { cache } from '../redis';
 import type { HomeSection, PodcastShow } from '../types';
 import { sendError, sendSuccess } from '../utils/response';
 import { podcastIndexConfigured, podcastIndexFetch } from './client';
@@ -95,61 +94,31 @@ const PER_SECTION_CAP = 12;
  * returns the same `feed` object that `/podcasts/byfeedid` does, so
  * `mapPodcastShow` handles both unchanged.
  *
- * Results are cached per-id for 7 d in Redis — show metadata barely
- * changes day to day, and an iTunes id is a stable identifier across
- * the entire system. With the cache warm, a home request resolves to
- * ~0 PodcastIndex calls; cold, ~12 per section.
+ * One PodcastIndex call per id (~12 per section).
  *
  * Entries that PodcastIndex doesn't have are dropped silently (their
  * mapped show would be useless — no feed id, no episodes).
  */
 async function resolveByItunesIds(entries: AppleChartEntry[]): Promise<PodcastShow[]> {
   if (entries.length === 0) return [];
-  const keys = entries.map((e) => `podcast_byitunes_v1_${e.itunesId}`);
+  const resolved: Array<PodcastShow | null> = entries.map(() => null);
 
-  // 1) Multi-get from cache up front so warm hits cost zero round trips.
-  let cached: Array<PodcastShow | null> = entries.map(() => null);
-  try {
-    const got = await cache.getMany<PodcastShow>(keys);
-    if (Array.isArray(got) && got.length === entries.length) cached = got;
-  } catch {
-    /* cache offline — fall through */
-  }
-
-  // 2) Fetch only the gaps from PodcastIndex, in parallel.
-  const misses = entries.map((e, i) => ({ e, i })).filter(({ i }) => !cached[i]);
+  // 1) Fetch from PodcastIndex, in parallel.
   const fetched = await Promise.allSettled(
-    misses.map(({ e }) => podcastIndexFetch('/podcasts/byitunesid', { id: e.itunesId })),
+    entries.map((e) => podcastIndexFetch('/podcasts/byitunesid', { id: e.itunesId })),
   );
-  const newlyResolved: Array<{ idx: number; show: PodcastShow }> = [];
-  fetched.forEach((r, k) => {
-    const { i } = misses[k];
+  fetched.forEach((r, i) => {
     if (r.status !== 'fulfilled' || !r.value.ok || !r.value.data?.feed) return;
     const feed = r.value.data.feed;
     // PodcastIndex returns a non-null `feed` even when the show isn't in
     // the index, but its `id` is 0 and `title` is empty. Filter those.
     if (!feed.id || !feed.title) return;
-    const show = mapPodcastShow(feed);
-    newlyResolved.push({ idx: i, show });
+    resolved[i] = mapPodcastShow(feed);
   });
 
-  // 3) Write fresh entries back to cache via pipelined setMany.
-  if (newlyResolved.length > 0) {
-    const writes: Record<string, PodcastShow> = {};
-    newlyResolved.forEach(({ idx, show }) => {
-      writes[keys[idx]] = show;
-      cached[idx] = show;
-    });
-    try {
-      await cache.setMany(writes, 60 * 60 * 24 * 7);
-    } catch {
-      /* cache write blip — ignore */
-    }
-  }
-
-  // 4) Preserve Apple's chart order — that's the editorial signal we
+  // 2) Preserve Apple's chart order — that's the editorial signal we
   // came here for. Drop misses (nulls).
-  return cached.filter((s): s is PodcastShow => s !== null);
+  return resolved.filter((s): s is PodcastShow => s !== null);
 }
 
 /**
@@ -166,10 +135,8 @@ async function resolveByItunesIds(entries: AppleChartEntry[]): Promise<PodcastSh
  *      (DNS only) so this is a no-op in prod today, but kept as a
  *      zero-cost upgrade path: orange-cloud the record + this works
  *      with no code change.
- *   3. IP-geo lookup via ip-api.com — runs only on cache miss; the
- *      IP→country mapping is cached in Redis for 24 h per source IP.
- *      ip-api free tier: 45 req/min, no signup. The 24 h IP cache
- *      means even a busy session does one lookup max per IP.
+ *   3. IP-geo lookup via ip-api.com. ip-api free tier: 45 req/min,
+ *      no signup.
  *   4. Accept-Language locale tag (`en-IN` → `IN`) — last-ditch.
  *      Browsers send this; Flutter / curl typically don't.
  *   5. DEFAULT_COUNTRY (`IN`).
@@ -227,24 +194,12 @@ function clientIp(req: FastifyRequest): string | null {
 }
 
 /**
- * Cached IP→ISO country lookup via ip-api.com. 24 h Redis TTL — a
- * device's IP→country rarely changes mid-day; for the rare case where
- * the user crosses a border, a day's stale answer is harmless (the
- * podcasts home cache itself is only 1 h, so they'd see the fresh
- * regional mix within a day max).
+ * IP→ISO country lookup via ip-api.com.
  *
  * Returns null on any failure (network, parse, rate limit) — the
  * caller falls through to the next resolution step rather than 500ing.
  */
 async function ipToCountry(ip: string): Promise<string | null> {
-  const key = `podcasts_geo_v1_${ip}`;
-  try {
-    const cached = (await cache.get(key)) as string | null;
-    if (cached === 'XX') return null; // negative-cache a known miss
-    if (cached) return cached;
-  } catch {
-    /* cache offline — fall through to live lookup */
-  }
   try {
     // ip-api free tier — IPv4 + IPv6, HTTP only on the free endpoint
     // (HTTPS is the paid tier). The server is making this call, not
@@ -263,19 +218,9 @@ async function ipToCountry(ip: string): Promise<string | null> {
       countryCode?: string;
     };
     if (body.status !== 'success' || !body.countryCode) {
-      try {
-        await cache.set(key, 'XX', 60 * 60 * 24); // 1-day negative cache
-      } catch {
-        /* swallow */
-      }
       return null;
     }
     const cc = body.countryCode.toUpperCase();
-    try {
-      await cache.set(key, cc, 60 * 60 * 24);
-    } catch {
-      /* swallow */
-    }
     return cc;
   } catch {
     return null;
@@ -297,50 +242,6 @@ function ensureConfigured(res: FastifyReply): boolean {
 }
 
 // ── Discovery ──────────────────────────────────────────────────────────
-
-/**
- * GET /podcasts/trending — currently-trending shows.
- *
- * Query params (all optional, all forwarded to PodcastIndex):
- *   max=N        — page size (default 10, upstream cap 1000)
- *   since=epoch  — only feeds with newer items than this unix-seconds time
- *   lang=en,hi   — comma-separated ISO codes
- *   cat=News     — filter by category (name or numeric id)
- */
-export const podcastsTrendingController = async (req: FastifyRequest, res: FastifyReply) => {
-  if (!ensureConfigured(res)) return;
-  const q = req.query as any;
-  const upstream = await podcastIndexFetch('/podcasts/trending', {
-    max: q.max ?? 20,
-    since: q.since,
-    lang: q.lang,
-    cat: q.cat,
-    notcat: q.notcat,
-  });
-  if (!upstream.ok) return sendError(res, upstream.error || 'Trending fetch failed', null, 502);
-  const shows = mapPodcastShows(upstream.data?.feeds);
-  return sendSuccess(res, { list: shows, count: shows.length }, 'Trending podcasts', SOURCE);
-};
-
-/**
- * GET /podcasts/recent — recently updated feeds across the index.
- * Backed by PodcastIndex's `/recent/feeds`. Different from trending —
- * trending is curated by recent activity heuristics; recent is just
- * "newest items in the index right now."
- */
-export const podcastsRecentController = async (req: FastifyRequest, res: FastifyReply) => {
-  if (!ensureConfigured(res)) return;
-  const q = req.query as any;
-  const upstream = await podcastIndexFetch('/recent/feeds', {
-    max: q.max ?? 20,
-    since: q.since,
-    lang: q.lang,
-    cat: q.cat,
-  });
-  if (!upstream.ok) return sendError(res, upstream.error || 'Recent fetch failed', null, 502);
-  const shows = mapPodcastShows(upstream.data?.feeds);
-  return sendSuccess(res, { list: shows, count: shows.length }, 'Recent podcasts', SOURCE);
-};
 
 /**
  * GET /podcasts/categories — full taxonomy of categories PodcastIndex
@@ -526,19 +427,10 @@ export const podcastEpisodeController = async (req: FastifyRequest, res: Fastify
  *   - …
  *
  * Data flow per section:
- *   1. Apple chart → list of iTunes IDs (24 h cache).
+ *   1. Apple chart → list of iTunes IDs.
  *   2. iTunes IDs → PodcastIndex shows via /podcasts/byitunesid
- *      (7 d cache per id).
  *   3. Trim each section to PER_SECTION_CAP and drop intra-response
  *      duplicates (first-section-wins).
- *
- * Cache strategy:
- *   - Final response cached 6 h per country. Apple's charts update at
- *     most daily so 6 h is comfortably fresh without thrashing the
- *     upstream chain on a tight cadence.
- *   - Underlying caches (per-genre Apple JSON, per-id PodcastIndex show)
- *     survive the home-response eviction, so warming this section back
- *     up is nearly free even after the 6 h TTL fires.
  *
  * Failure handling: each upstream call goes through Promise.allSettled
  * so one bad section (Apple chart 503, PodcastIndex blip) doesn't 502
@@ -550,14 +442,6 @@ export const podcastsHomeController = async (req: FastifyRequest, res: FastifyRe
   // Country resolution priority — see resolveCountry's docstring.
   const country = await resolveCountry(req, q.country as string | undefined);
   const cfg = COUNTRY_CONFIG[country] || COUNTRY_CONFIG[DEFAULT_COUNTRY];
-  const cacheKey = `podcasts_home_v2_${country}`;
-
-  try {
-    const cached = await cache.get(cacheKey);
-    if (cached) return sendSuccess(res, cached, 'OK (Cached)', SOURCE);
-  } catch {
-    /* cache offline → refetch. Don't 500 on a miss. */
-  }
 
   // 1) Fan out the Apple chart fetches in parallel. APPLE_FETCH_COUNT
   // is a bit larger than PER_SECTION_CAP so we have headroom after
@@ -572,7 +456,7 @@ export const podcastsHomeController = async (req: FastifyRequest, res: FastifyRe
 
   // 2) Resolve each section's iTunes IDs → PodcastIndex shows.
   // Sections resolve in parallel; within a section, resolveByItunesIds
-  // does its own batched cache + parallel fetch.
+  // does its own parallel fetch.
   const resolved = await Promise.all(
     appleResults.map(async (r) => {
       if (r.status !== 'fulfilled' || r.value.length === 0) return [];
@@ -603,12 +487,6 @@ export const podcastsHomeController = async (req: FastifyRequest, res: FastifyRe
 
   if (sections.length === 0) {
     return sendError(res, 'No sections returned from upstream', null, 502);
-  }
-
-  try {
-    await cache.set(cacheKey, sections, 60 * 60 * 6);
-  } catch {
-    /* cache write blip — return the response anyway */
   }
 
   return sendSuccess(res, sections, `Podcasts home (${country})`, SOURCE);

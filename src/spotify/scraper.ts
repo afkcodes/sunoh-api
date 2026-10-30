@@ -17,7 +17,6 @@
 
 import puppeteer, { type Browser, type Page } from 'puppeteer';
 
-import { cache } from '../redis';
 import type { SpotifyPlaylist, SpotifyTrack } from './types';
 
 // ── Knobs ────────────────────────────────────────────────────────────────
@@ -44,9 +43,6 @@ const FINAL_BOTTOM_SETTLE_MS = 2_000;
 
 const VIEWPORT_SELECTOR = '.main-view-container [data-overlayscrollbars-viewport]';
 const ROW_SELECTOR = '[data-testid="tracklist-row"]';
-
-const PLAYLIST_CACHE_KEY = (id: string) => `spotify_playlist_v1_${id}`;
-const PLAYLIST_TTL_SEC = 60 * 10; // 10 min — repeated tries on the same URL go free.
 
 // ── Public surface ───────────────────────────────────────────────────────
 
@@ -76,21 +72,12 @@ export interface ScrapeOptions {
 
 /**
  * Scrape a Spotify playlist by id. Returns null when the page can't be
- * loaded (e.g. private, removed, region-blocked). 10-min Redis cache so
- * repeated tries on the same URL don't re-launch Chrome each time.
+ * loaded (e.g. private, removed, region-blocked).
  */
 export async function fetchSpotifyPlaylist(
   playlistId: string,
   opts: ScrapeOptions = {},
 ): Promise<SpotifyPlaylist | null> {
-  const cacheKey = PLAYLIST_CACHE_KEY(playlistId);
-  try {
-    const cached = (await cache.get(cacheKey)) as SpotifyPlaylist | null;
-    if (cached) return cached;
-  } catch {
-    /* cache offline — go live */
-  }
-
   const url = `https://open.spotify.com/playlist/${playlistId}`;
   const debug = !!opts.debug;
   const browser = await launchBrowser(opts.headless ?? true);
@@ -112,11 +99,6 @@ export async function fetchSpotifyPlaylist(
       trackCount: tracks.length,
     };
 
-    try {
-      await cache.set(cacheKey, out, PLAYLIST_TTL_SEC);
-    } catch {
-      /* cache write blip — return anyway */
-    }
     return out;
   } catch (e) {
     if (debug) console.error('[spotify-scrape] error:', (e as Error).message);

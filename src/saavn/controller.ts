@@ -4,16 +4,13 @@ import { getToken, isValidArray, promiseAllLimit } from '../helpers/common';
 import { fetchGet } from '../helpers/http';
 import { isArray } from '../helpers/validators';
 import { mapSaavnSong } from '../mappers/saavn.mapper';
-import { cache } from '../redis';
-import { ApiResponse, sendError, sendSuccess } from '../utils/response';
+import { sendError, sendSuccess } from '../utils/response';
 import {
   albumDataMapper,
   artistDataMapper,
   autoCompleteDataMapper,
   channelDataMapper,
-  dataSanitizer,
   homeDataMapper,
-  modulesDataMapper,
   playlistDataMapper,
   recommendationDataMapper,
   songDataSanitizer,
@@ -74,14 +71,8 @@ const saavnFetch = async <T>(url: string, options: any = {}) => {
 
 export const getSaavnHomeData = async (languages?: string) => {
   const url = `${config.saavn.baseUrl}?__call=${config.saavn.endpoint.modules.home}`;
-  const key = `saavn_home_v4_${languages || 'default'}`;
 
-  const cacheData = await cache.get<ApiResponse<any>>(key);
-  if (cacheData) {
-    return cacheData.data;
-  }
-
-  const { data, code, error, message } = await saavnFetch<any>(url, {
+  const { data, error, message } = await saavnFetch<any>(url, {
     params: {
       ...params,
     },
@@ -92,17 +83,7 @@ export const getSaavnHomeData = async (languages?: string) => {
     throw new Error(message || 'Failed to fetch Saavn home data');
   }
 
-  const sanitizedData = homeDataMapper(data);
-  const response = {
-    status: 'success' as const,
-    message: message || 'Home data fetched successfully',
-    data: sanitizedData,
-    error: null,
-    source: 'saavn',
-  };
-
-  cache.set(key, { ...response, code });
-  return sanitizedData;
+  return homeDataMapper(data);
 };
 
 const homeController = async (req: SaavnRequest, res: FastifyReply) => {
@@ -115,88 +96,10 @@ const homeController = async (req: SaavnRequest, res: FastifyReply) => {
   }
 };
 
-const modulesController = async (req: SaavnRequest, res: FastifyReply) => {
-  const languages = req.query.lang || req.query.languages;
-  const key = `saavn_modules_${languages || 'default'}`;
-
-  try {
-    const cached = await cache.get(key);
-    if (cached) return sendSuccess(res, cached, 'OK (Cached)', 'saavn');
-
-    const url = `${config.saavn.baseUrl}`;
-    const { data, code, error, message } = await saavnFetch<any>(url, {
-      params: {
-        ...params,
-        __call: config.saavn.endpoint.modules.browse_modules,
-      },
-      lang: languages,
-    });
-
-    if (error) {
-      return sendError(res, message || 'Failed to fetch modules', error, code);
-    }
-
-    const sanitizedData = modulesDataMapper(data);
-    await cache.set(key, sanitizedData, 10800);
-    return sendSuccess(res, sanitizedData, message, 'saavn', code);
-  } catch (error) {
-    return sendError(res, 'Internal server error', error);
-  }
-};
-
-const albumRecommendationController = async (req: SaavnRequest, res: FastifyReply) => {
-  const { albumId } = req.params;
-  const languages = req.query.lang || req.query.languages;
-  const url = `${config.saavn.baseUrl}`;
-  const { data, code, error, message } = await saavnFetch<any>(url, {
-    params: {
-      __call: config.saavn.endpoint.album.recommended,
-      albumid: albumId,
-      type: 'album',
-      includeMetaTags: 0,
-      ...params,
-    },
-    lang: languages,
-  });
-
-  if (error) {
-    return sendError(res, message || 'Failed to fetch album recommendations', error, code);
-  }
-
-  const sanitizedData = recommendationDataMapper(data as any[]);
-  return sendSuccess(res, sanitizedData, message, 'saavn', code);
-};
-
-const topAlbumsOfYearController = async (req: SaavnRequest, res: FastifyReply) => {
-  const { year } = req.params;
-  const languages = req.query.lang || req.query.languages;
-  const url = `${config.saavn.baseUrl}`;
-  const { data, code, error, message } = await saavnFetch<any>(url, {
-    params: {
-      __call: config.saavn.endpoint.album.top_albums_by_year,
-      album_year: year,
-      ...params,
-    },
-    lang: languages,
-  });
-
-  if (error) {
-    return sendError(res, message || 'Failed to fetch top albums', error, code);
-  }
-
-  const sanitizedData = recommendationDataMapper(data as any[]);
-  return sendSuccess(res, sanitizedData, message, 'saavn', code);
-};
-
 const albumController = async (req: SaavnRequest, res: FastifyReply) => {
   try {
     const { albumId } = req.params;
     const languages = req.query.lang || req.query.languages;
-    const cacheData = await cache.get(`${albumId}_${languages}`);
-    if (cacheData) {
-      return res.code(cacheData.code || 200).send(cacheData);
-    }
-
     const url = `${config.saavn.baseUrl}`;
     const { data, code, error, message } = await saavnFetch<any>(url, {
       params: {
@@ -254,7 +157,6 @@ const albumController = async (req: SaavnRequest, res: FastifyReply) => {
       source: 'saavn',
     };
 
-    cache.set(`${albumId}_${languages}`, { ...response, code }, 10800);
     return res.code(code).send(response);
   } catch (error) {
     return sendError(res, 'Failed to fetch album details', error);
@@ -266,10 +168,6 @@ const playlistController = async (req: SaavnRequest, res: FastifyReply) => {
     const { playlistId } = req.params;
     const { page = 0, count = 50 } = req.query;
     const languages = req.query.lang || req.query.languages;
-    const key = `saavn_playlist_${playlistId}_${page}_${count}_${languages || 'default'}`;
-
-    const cached = await cache.get(key);
-    if (cached) return sendSuccess(res, cached, 'OK (Cached)', 'saavn');
 
     // Channels expose playlists by their numeric `listing_id` (e.g.
     // "154546814") instead of the perma_url token that `webapi.get`
@@ -336,36 +234,10 @@ const playlistController = async (req: SaavnRequest, res: FastifyReply) => {
 
     const { sections: _, ...playlistData } = sanitizedData;
     const finalData = { ...playlistData, sections };
-    await cache.set(key, finalData, 10800);
     return sendSuccess(res, finalData, message, 'saavn', code);
   } catch (error) {
     return sendError(res, 'Failed to fetch playlist', error);
   }
-};
-
-const mixController = async (req: SaavnRequest, res: FastifyReply) => {
-  const { mixId } = req.params;
-  const languages = req.query.lang || req.query.languages;
-  const url = `${config.saavn.baseUrl}`;
-  const { data, code, error, message } = await saavnFetch<any>(url, {
-    params: {
-      __call: config.saavn.endpoint.playlist.token,
-      token: mixId,
-      type: 'mix',
-      p: 1,
-      n: 100,
-      includeMetaTags: 0,
-      ...params,
-    },
-    lang: languages,
-  });
-
-  if (error) {
-    return sendError(res, message || 'Failed to fetch mix', error, code);
-  }
-
-  const sanitizedData = albumDataMapper(data);
-  return sendSuccess(res, sanitizedData, message, 'saavn', code);
 };
 
 const stationController = async (req: SaavnRequest, res: FastifyReply) => {
@@ -436,24 +308,6 @@ const entityStationController = async (req: SaavnRequest, res: FastifyReply) => 
   if (error) return sendError(res, message || 'Failed to create entity station', error, code);
   return sendSuccess(res, data, message, 'saavn', code);
 };
-const featuredStationsController = async (req: SaavnRequest, res: FastifyReply) => {
-  const languages = req.query.lang || req.query.languages;
-  const url = `${config.saavn.baseUrl}`;
-  const { data, code, error, message } = await saavnFetch<any>(url, {
-    params: {
-      __call: config.saavn.endpoint.get.featured_stations,
-      ...params,
-    },
-    lang: languages,
-  });
-
-  if (error) {
-    return sendError(res, message || 'Failed to fetch featured stations', error, code);
-  }
-
-  const sanitizedData = isArray(data) ? data.map(dataSanitizer) : data;
-  return sendSuccess(res, sanitizedData, message, 'saavn', code);
-};
 
 const stationSongsController = async (req: SaavnRequest, res: FastifyReply) => {
   const { count, k, next = '1' } = req.query as any;
@@ -485,25 +339,6 @@ const stationSongsController = async (req: SaavnRequest, res: FastifyReply) => {
   return sendSuccess(res, sanitizedData, message, 'saavn', code);
 };
 
-const topSearchController = async (req: SaavnRequest, res: FastifyReply) => {
-  const languages = req.query.lang || req.query.languages;
-  const url = `${config.saavn.baseUrl}`;
-  const { data, code, error, message } = await saavnFetch<any>(url, {
-    params: {
-      __call: config.saavn.endpoint.search.top_search,
-      ...params,
-    },
-    lang: languages,
-  });
-
-  if (error) {
-    return sendError(res, message || 'Failed to fetch top search', error, code);
-  }
-
-  const sortedData = topSearchMapper(data);
-  return sendSuccess(res, sortedData, message, 'saavn', code);
-};
-
 const searchController = async (req: SaavnRequest, res: FastifyReply) => {
   const q = req.query.q as string;
   const type = ((req.query.type as string) || 'all').toLowerCase();
@@ -528,17 +363,6 @@ const searchController = async (req: SaavnRequest, res: FastifyReply) => {
 
   if (error) {
     return sendError(res, message || 'Search failed', error, code);
-  }
-
-  const key = `saavn_search_${q}_${type}_${page}_${count}_${languages || 'default'}`;
-  try {
-    if (page === 1) {
-      // Only cache first page of results? Or all? Let's cache all for now if unique
-      const cached = await cache.get(key);
-      if (cached && (cached as any).source) return sendSuccess(res, cached, 'OK (Cached)', 'saavn');
-    }
-  } catch (e) {
-    console.error('Cache read error', e);
   }
 
   let sanitizedData;
@@ -586,7 +410,6 @@ const searchController = async (req: SaavnRequest, res: FastifyReply) => {
   }
 
   if (page === 1) {
-    cache.set(key, sanitizedData, 10800).catch(console.error);
   }
   return sendSuccess(res, sanitizedData, message, 'saavn', code);
 };
@@ -595,10 +418,6 @@ const artistController = async (req: SaavnRequest, res: FastifyReply) => {
   const { artistId } = req.params;
   const { page = 0, count = 50 } = req.query;
   const languages = req.query.lang || req.query.languages;
-  const key = `saavn_artist_${artistId}_${page}_${count}_${languages || 'default'}`;
-
-  const cached = await cache.get(key);
-  if (cached) return sendSuccess(res, cached, 'OK (Cached)', 'saavn');
 
   const url = `${config.saavn.baseUrl}`;
 
@@ -690,7 +509,6 @@ const artistController = async (req: SaavnRequest, res: FastifyReply) => {
     }
   }
 
-  await cache.set(key, extractedData, 10800);
   return sendSuccess(res, extractedData, message, 'saavn', code);
 };
 
@@ -698,10 +516,6 @@ const songController = async (req: SaavnRequest, res: FastifyReply) => {
   try {
     const { songId } = req.params;
     const languages = req.query.lang || req.query.languages;
-    const key = `saavn_song_${songId}_${languages || 'default'}`;
-
-    const cached = await cache.get(key);
-    if (cached) return sendSuccess(res, cached, 'OK (Cached)', 'saavn');
 
     const url = `${config.saavn.baseUrl}`;
 
@@ -771,7 +585,6 @@ const songController = async (req: SaavnRequest, res: FastifyReply) => {
       sections: sections,
       lyrics: (lyricsData as any)?.lyrics || '',
     };
-    await cache.set(key, finalData, 10800);
     return sendSuccess(res, finalData, message, 'saavn', code);
   } catch (error) {
     return sendError(res, 'Failed to fetch song details', error);
@@ -931,12 +744,8 @@ const channelController = async (req: SaavnRequest, res: FastifyReply) => {
   const { channelId } = req.params as any;
   const { page = 1, count = 50 } = req.query as any;
   const languages = req.query.lang || req.query.languages;
-  const key = `saavn_channel_${channelId}_${page}_${count}_${languages || 'default'}`;
 
   try {
-    const cached = await cache.get(key);
-    if (cached) return sendSuccess(res, cached, 'OK (Cached)', 'saavn');
-
     // Detect if channelId is a token (perma_url segment) or a numeric ID
     // Tokens usually contain non-numeric characters and are longer
     const isToken = isNaN(Number(channelId));
@@ -979,7 +788,6 @@ const channelController = async (req: SaavnRequest, res: FastifyReply) => {
       console.log(`✅ Saavn: Mapped ${sanitizedData.length} sections for channel: ${channelId}`);
     }
 
-    await cache.set(key, sanitizedData, 10800);
     return sendSuccess(res, sanitizedData, message, 'saavn', code);
   } catch (error) {
     console.error(`❌ Error in channelController:`, error);
@@ -989,23 +797,17 @@ const channelController = async (req: SaavnRequest, res: FastifyReply) => {
 
 export {
   albumController,
-  albumRecommendationController,
   artistController,
   artistStationController,
   channelController,
   entityStationController,
-  featuredStationsController,
   homeController,
-  mixController,
-  modulesController,
   playlistController,
   recommendedSongsController,
   searchController,
   songController,
   stationController,
   stationSongsController,
-  topAlbumsOfYearController,
-  topSearchController,
 };
 export const getSaavnSearchData = async (
   q: string,

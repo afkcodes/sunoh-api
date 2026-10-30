@@ -8,7 +8,6 @@ import {
   mapGaanaPlaylist,
   mapGaanaTrack,
 } from '../mappers/gaana.mapper';
-import { cache } from '../redis';
 import { sendError, sendSuccess } from '../utils/response';
 import { gaanaHomeMapper, gaanaSearchMapper, gaanaSectionMapper } from './helper';
 
@@ -165,17 +164,12 @@ const hydrateGaanaSections = async (sectionMetadata: any[], lang?: string) => {
 };
 
 export const getGaanaHomeData = async (lang?: string) => {
-  const key = `gaana_home_v3_${lang || 'default'}`;
-  const cached = await cache.get(key);
-  if (cached) return cached;
-
   const { data, error, message } = await gaanaFetch<any>({ type: 'home' }, lang);
   if (error) throw new Error(message || 'Failed to fetch Gaana home');
 
   const sectionMetadata = gaanaHomeMapper(data);
   const populatedSections = await hydrateGaanaSections(sectionMetadata, lang);
 
-  await cache.set(key, populatedSections, 10800);
   return populatedSections;
 };
 
@@ -212,80 +206,17 @@ export const homeController = async (req: FastifyRequest, res: FastifyReply) => 
   }
 };
 
-export const collectionController = async (req: FastifyRequest, res: FastifyReply) => {
-  const { seokey } = req.params as any;
-  const { lang, page = 0 } = req.query as any;
-  const key = `gaana_collection_${seokey}_${page}_${lang || 'default'}`;
-
-  try {
-    const cached = await cache.get(key);
-    if (cached) return sendSuccess(res, cached, 'OK (Cached)', 'gaana');
-
-    const { data, error, message } = await gaanaFetch<any>(
-      {
-        type: 'collectionsDetail',
-        seokey,
-        page,
-      },
-      lang,
-    );
-
-    if (error) return sendError(res, message || 'Failed to fetch collection', error);
-
-    const mappedData = (data.entities || []).map(mapGaanaEntity);
-    await cache.set(key, mappedData, 10800);
-    return sendSuccess(res, mappedData, 'OK', 'gaana');
-  } catch (error) {
-    return sendError(res, 'Internal server error', error);
-  }
-};
-
-export const albumListController = async (req: FastifyRequest, res: FastifyReply) => {
-  const { lang, page = 0, language } = req.query as any;
-  const targetLanguage = language || lang || 'hindi';
-  const key = `gaana_album_list_v3_${targetLanguage}_${page}_${lang || 'default'}`;
-
-  try {
-    const cached = await cache.get(key);
-    if (cached) return sendSuccess(res, cached, 'OK (Cached)', 'gaana');
-
-    const { data, error, message } = await gaanaFetch<any>(
-      {
-        type: 'albumList',
-        language: targetLanguage,
-        page,
-      },
-      lang,
-    );
-
-    if (error) return sendError(res, message || 'Failed to fetch albums', error);
-
-    const albums = (data.album || []).map((album: any) =>
-      mapGaanaEntity({ ...album, entity_type: 'ALBUM' }),
-    );
-    await cache.set(key, albums, 10800);
-    return sendSuccess(res, albums, 'OK', 'gaana');
-  } catch (error) {
-    return sendError(res, 'Internal server error', error);
-  }
-};
-
 export const searchController = async (req: FastifyRequest, res: FastifyReply) => {
   const query = req.query as any;
   const q = query.q || query.query;
   const { lang } = req.query as any;
   if (!q) return sendError(res, 'Query parameter q is required', null, 400);
 
-  const key = `gaana_search_v4_${q}_${lang || 'default'}`;
   try {
-    const cached = await cache.get(key);
-    if (cached) return sendSuccess(res, cached, 'OK (Cached)', 'gaana');
-
     const { data, error, message } = await gaanaFetch<any>({ type: 'search', keyword: q }, lang);
     if (error) return sendError(res, message || 'Search failed', error);
 
     const mappedData = gaanaSearchMapper(data);
-    await cache.set(key, mappedData, 10800);
     return sendSuccess(res, mappedData, 'OK', 'gaana');
   } catch (error) {
     return sendError(res, 'Internal server error', error);
@@ -295,12 +226,8 @@ export const searchController = async (req: FastifyRequest, res: FastifyReply) =
 export const playlistController = async (req: FastifyRequest, res: FastifyReply) => {
   const { playlistId } = req.params as any;
   const { lang } = req.query as any;
-  const key = `gaana_playlist_v3_${playlistId}_${lang || 'default'}`;
 
   try {
-    const cached = await cache.get(key);
-    if (cached) return sendSuccess(res, cached, 'OK (Cached)', 'gaana');
-
     const { data, error, message } = await gaanaFetch<any>(
       {
         seokey: playlistId,
@@ -316,7 +243,6 @@ export const playlistController = async (req: FastifyRequest, res: FastifyReply)
     }
 
     const result = { playlist };
-    await cache.set(key, result, 10800);
     return sendSuccess(res, result, 'OK', 'gaana');
   } catch (error) {
     return sendError(res, 'Internal server error', error);
@@ -326,12 +252,8 @@ export const playlistController = async (req: FastifyRequest, res: FastifyReply)
 export const albumController = async (req: FastifyRequest, res: FastifyReply) => {
   const { albumId } = req.params as any;
   const { lang } = req.query as any;
-  const key = `gaana_album_v3_${albumId}_${lang || 'default'}`;
 
   try {
-    const cached = await cache.get(key);
-    if (cached) return sendSuccess(res, cached, 'OK (Cached)', 'gaana');
-
     const {
       data: detailData,
       error,
@@ -387,7 +309,6 @@ export const albumController = async (req: FastifyRequest, res: FastifyReply) =>
     }
 
     const result = { album, sections };
-    await cache.set(key, result, 10800);
     return sendSuccess(res, result, 'OK', 'gaana');
   } catch (error) {
     return sendError(res, 'Internal server error', error);
@@ -397,12 +318,8 @@ export const albumController = async (req: FastifyRequest, res: FastifyReply) =>
 export const artistController = async (req: FastifyRequest, res: FastifyReply) => {
   const { artistId } = req.params as any;
   const { lang } = req.query as any;
-  const key = `gaana_artist_v3_${artistId}_${lang || 'default'}`;
 
   try {
-    const cached = await cache.get(key);
-    if (cached) return sendSuccess(res, cached, 'OK (Cached)', 'gaana');
-
     const { data: artistDetail, error: detailError } = await gaanaFetch<any>(
       {
         type: 'artistDetailNew',
@@ -496,7 +413,6 @@ export const artistController = async (req: FastifyRequest, res: FastifyReply) =
     }
 
     const result = { artist: artistBase, sections };
-    await cache.set(key, result, 10800);
     return sendSuccess(res, result, 'OK', 'gaana');
   } catch (error) {
     return sendError(res, 'Internal server error', error);
@@ -506,12 +422,8 @@ export const artistController = async (req: FastifyRequest, res: FastifyReply) =
 export const songController = async (req: FastifyRequest, res: FastifyReply) => {
   const { songId } = req.params as any;
   const { lang } = req.query as any;
-  const key = `gaana_song_v8_${songId}_${lang || 'default'}`;
 
   try {
-    const cached = await cache.get(key);
-    if (cached) return sendSuccess(res, cached, 'OK (Cached)', 'gaana');
-
     const { data, error, message } = await gaanaFetch<any>(
       {
         seokey: songId,
@@ -635,7 +547,6 @@ export const songController = async (req: FastifyRequest, res: FastifyReply) => 
     }
 
     const response = { ...song, sections };
-    await cache.set(key, response, 10800);
     return sendSuccess(res, response, 'OK', 'gaana');
   } catch (error) {
     return sendError(res, 'Internal server error', error);
@@ -706,12 +617,8 @@ export const radioDetailController = async (req: FastifyRequest, res: FastifyRep
 };
 export const occasionController = async (req: FastifyRequest, res: FastifyReply) => {
   const { lang } = req.query as any;
-  const key = `gaana_occasions_${lang || 'default'}`;
 
   try {
-    const cached = await cache.get(key);
-    if (cached) return sendSuccess(res, cached, 'OK (Cached)', 'gaana');
-
     const url = 'https://apiv2.gaana.com/home/discover/category-listing/178?new_artwork=1&v=1';
     const { data, error, message } = await fetchGet<any>(url, {
       headers: await getGaanaHeaders(lang),
@@ -720,7 +627,6 @@ export const occasionController = async (req: FastifyRequest, res: FastifyReply)
     if (error) return sendError(res, message || 'Failed to fetch occasions', error);
 
     const occasions = (data.entities || []).map(mapGaanaEntity);
-    await cache.set(key, occasions, 10800);
     return sendSuccess(res, occasions, 'OK', 'gaana');
   } catch (error) {
     return sendError(res, 'Internal server error', error);
@@ -730,12 +636,8 @@ export const occasionController = async (req: FastifyRequest, res: FastifyReply)
 export const occasionDetailController = async (req: FastifyRequest, res: FastifyReply) => {
   const { slug } = req.params as any;
   const { lang } = req.query as any;
-  const key = `gaana_occasion_v3_${slug}_${lang || 'default'}`;
 
   try {
-    const cached = await cache.get(key);
-    if (cached) return sendSuccess(res, cached, 'OK (Cached)', 'gaana');
-
     const url = `https://apiv2.gaana.com/home/occasion/metadata/${slug}`;
     const { data, error, message } = await fetchGet<any>(url, {
       headers: await getGaanaHeaders(lang),
@@ -746,36 +648,12 @@ export const occasionDetailController = async (req: FastifyRequest, res: Fastify
     const sectionMetadata = gaanaSectionMapper(data.occasion);
     const sections = await hydrateGaanaSections(sectionMetadata, lang);
 
-    await cache.set(key, sections, 10800);
     return sendSuccess(res, sections, 'OK', 'gaana');
   } catch (error) {
     return sendError(res, 'Internal server error', error);
   }
 };
 
-export const occasionItemsController = async (req: FastifyRequest, res: FastifyReply) => {
-  const { id } = req.params as any;
-  const { lang, limit = '0,40' } = req.query as any;
-  const key = `gaana_occasion_items_v3_${id}_${limit}_${lang || 'default'}`;
-
-  try {
-    const cached = await cache.get(key);
-    if (cached) return sendSuccess(res, cached, 'OK (Cached)', 'gaana');
-
-    const url = `https://apiv2.gaana.com/home/discover/category/${id}?limit=${limit}`;
-    const { data, error, message } = await fetchGet<any>(url, {
-      headers: await getGaanaHeaders(lang),
-    });
-
-    if (error) return sendError(res, message || 'Failed to fetch occasion items', error);
-
-    const mappedData = (data.entities || []).map(mapGaanaEntity);
-    await cache.set(key, mappedData, 10800);
-    return sendSuccess(res, mappedData, 'OK', 'gaana');
-  } catch (error) {
-    return sendError(res, 'Internal server error', error);
-  }
-};
 export const getGaanaSearchData = async (q: string, lang?: string) => {
   const url = `https://gaana.com/apiv2`;
 
